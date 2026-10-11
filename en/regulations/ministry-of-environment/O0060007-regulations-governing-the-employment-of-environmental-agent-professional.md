@@ -1,0 +1,219 @@
+---
+title: "Regulations Governing the Employment of Environmental Agent Professional Technicians"
+title_zh: "環境用藥專業技術人員設置管理辦法"
+identifier: "O0060007"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-04-15
+last_amended: 2023-03-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060007"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Employment of Environmental Agent Professional Technicians
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060007-regulations-governing-the-employment-of-environmental-agent-professional.md](../../../zh/regulations/ministry-of-environment/O0060007-regulations-governing-the-employment-of-environmental-agent-professional.md)) is authoritative.
+
+## Article 1
+
+These Regulations are hereby enacted pursuant to Article 19, Paragraph 2 of the Environmental Agents Control Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Environmental agent professional technicians can be divided into three categories, namely environmental agent manufacturer professional technicians, environmental agent vendor professional technicians, and pest control operator professional technicians.
+
+The professional technicians who hold these positions shall complete the appropriate training and obtain the relevant certificates from the central competent authority.
+
+## Article 3
+
+Environmental agent manufacturers shall establish at least one dedicated environmental agent manufacturer professional technician. Environmental agent vendors shall establish at least one dedicated environmental agent vendor professional technician. Pest control operators shall establish at least one dedicated pest control operator professional technician.
+
+If an environmental agent manufacturer concurrently operates an environmental agent vendor at the same venue, the employed environmental agent manufacturer professional technician may concurrently serve as an environmental agent vendor professional technician.
+
+Environmental agent vendors may employ those who have acquired an environmental agent manufacturer professional technician certificate as environmental agent vendor professional technicians.
+
+## Article 4
+
+Environmental agent manufacturer professional technicians shall perform the following duties:
+
+I. Sanitation and management of plant areas and manufacturing sites;
+
+II. Supervision of manufacturing processes;
+
+III. Supervision on site during the manufacturing of environmental agents;
+
+IV. Supervision of the management of technical grade environmental agents, semi-finished, and finished products;
+
+V. Handle the production of various records in accordance with the provisions of Article 24 of the Act, and sign or seal the records after confirming that the contents are correct;
+
+VI. When any accident which pollutes the environment or endangers the ecology or human health occurs, environmental agent manufacturer professional technicians shall assist in taking emergency prevention and control measures and in reporting the said accident to the special municipality, county, or city competent authorities where the accident occurred, and assist in managing cleanup and restoration; and
+
+VII. Management of environmental agent manufacturing.
+
+## Article 5
+
+Environmental agent vendor professional technicians shall perform the following duties:
+
+I. Management of safety, sanitation and protection of environmental agent vending venues;
+
+II. Provide advisory channels for environmental agent usage precautions;
+
+III. Handle the production of various records in accordance with the provisions of Article 24 of the Act, and sign or seal the records after confirming that the contents are correct;
+
+IV. When any accident which pollutes the environment or endangers the ecology or human health occurs, environmental agent vendor professional technicians shall assist in taking emergency prevention and control measures and in reporting the said accident to the special municipality, county, or city competent authorities where the accident occurred, and assist in managing cleanup and restoration; and
+
+V. Management in respect of environmental agent vending.
+
+## Article 6
+
+Pest control operator professional technicians shall perform the following duties:
+
+I. Supervision over the maintenance and management of agent application equipment and safety equipment;
+
+II. Production of pest control implementation plans;
+
+III. Management of environmental agent dilution and usage;
+
+IV. Supervision of application sites during the implementation of pest control;
+
+V. Handle the production of various records in accordance with the provisions of Article 24 of the Act, and sign or seal the records after confirming that the contents are correct;
+
+VI. When any accident which pollutes the environment or endangers the ecology or human health occurs, pest control operator professional technicians shall assist in taking emergency prevention and control measures and in reporting the said accident to the special municipality, county, or city competent authorities where the accident occurred, and assist in managing cleanup and restoration; and
+
+VII. Management in respect of pest control.
+
+## Article 7
+
+Environmental agent manufacturers, environmental agent vendors, and pest control operators shall submit to special municipality, county, or city competent authorities for approval: qualification certificates, establishment applications, and letters of consent for inquiries into labor and health insurance information of environmental agent professional technicians.
+
+When environmental agent manufacturer professional technicians or the environmental agent vendor professional technicians are unable to perform their duties due to resignations, changes or other reasons, they shall appoint deputies who are qualified to enter the same category of professional technician training.
+
+When pest control operator professional technicians are unable to perform their duties due to resignations, changes or other reasons, the pest control operators shall, pursuant to Paragraph 1, reapply for approval from the original application authority within fifteen days after the date of occurrence.
+
+The application for employment approval shall be submitted by Internet transmission by the date designated by the central competent authority, unless permitted by special municipality, county, or city competent authorities to apply in written form.
+
+## Article 8
+
+When environmental agent manufacturer professional technicians and environmental agent vendor professional technicians are unable to perform their duties due to resignations or changes, their duties shall be performed by deputies. Within fifteen days after the date of such occurrences, the environmental agent manufacturers and the environmental agent vendors shall report the incident in written form to special municipality, county, or city competent authorities for future reference; this deputy period shall not last longer than three months. Within fifteen days before the deputy period expires, the environmental agent manufacturers and the environmental agent vendors shall reapply for approval pursuant to Paragraph 1 of the preceding article.
+
+The aforementioned professional technician shall submit a written report to special municipality, county, or city competent authorities for future reference within 30 days from the date of resignation or changes.
+
+The changes of professional technicians in Paragraph 1 may refer to a transfer from an original service location or a professional still in the original service location but no longer serving as a professional technician.
+
+## Article 9
+
+When environmental agent manufacturer professional technicians and environmental agent vendor professional technicians are unable to perform their duties due to reasons other than resignations or changes, their duties shall be performed by deputies. If the deputy period lasts longer than fifteen consecutive days, the environmental agent manufacturers and the environmental agent vendors shall report the incident in written form to special municipality, county, or city competent authorities within fifteen days after the said incident occurs, for future reference.
+
+The deputy period in the previous paragraph shall not last longer than three months. However, if approval has been granted by special municipality, county, or city competent authorities, the deputy period can be extended to six months. Within fifteen days before the deputy period expires, the environmental agent manufacturers and the environmental agent vendors shall reapply for approval pursuant to Article 7, Paragraph 1.
+
+## Article 10
+
+Environmental agent manufacturers, environmental agent vendors, or pest control operators shall employ environmental agent professional technicians at factories, companies, or registered business venues and the said environmental agent professional technicians shall be dedicated personnel.
+
+The dedicated personnel referred to in the previous paragraph are the environmental agent professional technicians responsible for various duties to be performed on site within working hours prescribed by the Labor Standards Act when they are stationed for manufacturing of environmental agents, vending environmental agents, or engaging in pest control.
+
+The environmental agent professional technicians employed by environmental agent manufacturers, environmental agent vendors, or pest control operators may not concurrently hold a dedicated (full-time) personnel position, as set by laws and regulations, other than those related to environmental protection, or engage in jobs not related to environmental protection or environmental agent management. Exceptions to this restriction are: environmental agent vendor professional technicians concurrently holding positions as agro-pesticide administrative personnel; pest control operator professional technicians concurrently holding positions as agro-pesticide spraying service technicians, and; responsible persons who possess the qualification stipulated in Article 2, Paragraph 2, concurrently serving as professional technicians.
+
+In the preceding paragraph, the jobs not related to environmental protection or management of environment agents refer to professionals not concurrently serving any other full time position.
+
+## Article 11
+
+Professional technicians who are unable to be stationed on site for any reason shall prepare records of leave or other proof documents for reference.
+
+Professional technicians who have failed to report for duty for more than thirty days within half a year (excluding days for rest and leaves stipulated in the Labor Standards Act) or who have been discovered three times within a year by the competent authorities to not be in compliance with the requirements in the preceding paragraph, shall not continue to be employed as professional technicians in any category (environmental agent manufacturers, environmental agent vendors, or pest control operators). Environmental agent manufacturers, environmental agent vendors, or pest control operators must reapply for employment approval from special municipality, county, or city competent authorities within 30 days after the date of occurrence.
+
+## Article 12
+
+Those who have acquired an environmental agent professional technician certificate and have not been employed as an environmental agent professional technician in accordance with the law for three consecutive years or more shall complete re-training in accordance with the provisions of the central competent authority within six months from the day after reporting for duty.
+
+Environmental agent manufacturers, environmental agent vendors, or pest control operators may not reject, evade, or hinder the participation of their employed professional technicians in on-the-job training or re-training.
+
+After having employed for six months the environmental agent professional technicians described in Paragraph 1, environmental agent manufacturers, environmental agent vendors, or pest control operators shall submit the training documentation of environmental agent professional technicians to special municipality, county, or city competent authorities within 15 days, for future reference.
+
+If environmental agent manufacturers, environmental agent vendors, or pest control operators fail to complete the required submissions for future reference within the period prescribed in the preceding paragraph, special municipality, county, or city competent authorities shall revoke the employment approval of the said professional technician, the environmental agent manufacturers, environmental agent vendors, or pest control operators shall reapply for approval within 15 days in accordance with Article 7, Paragraph 1.
+
+The re-training in Paragraph 1 shall refer to the employment orientation training in Article 22 of the Regulations for the Training of Environmental Protection Dedicated Technical Personnel.
+
+## Article 13
+
+Professional technicians or their deputies shall not engage in the following acts:
+
+I. Be concurrently employed by different environmental agent manufacturers, environmental agent vendors, or pest control operators.
+
+II. Allow others to use their names to be fraudulently employed.
+
+III. Knowingly record false entries or falsify documents in the course of employment.
+
+## Article 14
+
+Environmental agent manufacturers, environmental agent vendors, or pest control operators shall require their professional technicians or deputies to observe the following requirements:
+
+I. Supervise professional technicians or deputies to perform duties stipulated in Article 4 to Article 6, and shall not engage in acts as stipulated in the preceding articles.
+
+II. Pursuant to Article 10, supervise the stationing of professional technicians on site within working hours prescribed by the Labor Standards Act and supervise performance of dedicated duties set forth in Article 4 to Article 6.
+
+III. Pursuant to Article 11, prepare records of leave, which shall be retained for at least three years.
+
+## Article 15
+
+Environmental agent manufacturers, environmental agent vendors, or pest control operators which commit any of the following are subject to penalty in accordance with Article 49, Subparagraph 4 of the Regulations:
+
+I. If a professional technician is unable to perform duties due to resignation, any changes or any other reasons, but the qualified deputy is not appointed pursuant to Article 7, Paragraph 2.
+
+II. Failure to observe of Article 8, Paragraph 1 or Article 9, to have duties performed by a deputy, or to report an incident to special municipality, county, or city competent authorities for reference, or complete the verification of employment approval.
+
+III. Violation of the provisions of Article 11, Paragraph 2 and failure to reapply for employment approval from special municipality, county, or city competent authorities within 30 days after the date of occurrence when the original professional technician employment ceased.
+
+IV.Violate Article 12, Paragraph 2, and reject, evade, or hinder the participation of their employed professional technicians in on-the-job training or re-training.
+
+V. Violate Article 12, Paragraph 3, and fail to submit the orientation training documentation of professional technicians to special municipality, county, or city competent authorities for future reference.
+
+VI. Violate Article 12, Paragraph 4, and fail to reapply for employment approval from special municipality, county, or city competent authorities within fifteen days after the employment approval is revoked.
+
+VII. Violate preceding article, Subparagraph 1, and fail to supervise professional technicians or deputies leading to violations of Article 13.
+
+VIII. Violate preceding article, Subparagraph 2, and cause professional technicians to fail to observe the provisions of Article 10, Paragraph 3, and concurrently hold a dedicated (full-time) personnel position or engage in jobs not related to environmental protection or environmental agent management.
+
+IX. Violate preceding article, Subparagraph 3, and fail to prepare records of leave or retain records of leave for three years.
+
+## Article 16
+
+Professional technicians who commit any of the following shall be subject to penalty in accordance with Article 51:
+
+I. Violation of Article 4, Subparagraph 5.
+
+II. Violation of Article 5, Subparagraph 3.
+
+III. Violation of Article 6, Subparagraph 5.
+
+IV. Violation of Article 8, Paragraph 2, for failing to submit a written report to special municipality, county, or city competent authorities for reference within 30 days after the date of resignation.
+
+V. Violation of any subparagraph in Article 13.
+
+## Article 17
+
+If re-application for the approved employment of the professional technician is required by the Regulations, the original application for approved employment loses its validity from the day following the deadline for completing the application.
+
+## Article 18
+
+The Regulations shall take effect from the date of promulgation.
+
+## History
+
+1.Promulgated on April 15, 1998
+
+2.Amended on August 26, 1998
+
+3.Amended on December 27, 2000
+
+4.Amended on July 26, 2006.
+
+5.Elevne articles promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tze No. 1050049766 on June 29, 2016.
+
+6.Revisions to Articles 7, 8, 9, 10, and addation of Article 11, 13 to 17 promulgated in Environmental Protection Administration Order .Huan-Shu-Wha-Tze No. 1128103006 on March 3, 2023.

@@ -1,0 +1,133 @@
+---
+title: "Regulations Governing Filing and Auditing of the Annual Accounting Final Reports and Statements of the Company"
+title_zh: "公司決算書表申報暨查核辦法"
+identifier: "J0080012"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞商業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1986-08-18
+last_amended: 2018-11-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080012"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Filing and Auditing of the Annual Accounting Final Reports and Statements of the Company
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0080012-regulations-governing-filing-and-auditing-of-the-annual-accounting-final.md](../../../zh/regulations/ministry-of-economic-affairs/J0080012-regulations-governing-filing-and-auditing-of-the-annual-accounting-final.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 4, Article 20 of the Company Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+The annual accounting final reports and statements referred to in these Regulations shall mean the following documents compiled by the company at the close of each fiscal year and approved by shareholders or ratified by the shareholders’ meeting:
+
+1.Annual business reports
+
+2.Financial statements
+
+3.Statements of surplus earning distribution or deficit off-setting
+
+## Article 3
+
+The company shall have the reports and statements prepared and placed in its main office and the competent authority may, at any time or from time to time, send its officer(s) to examine, or may require, by an order, the company to submit filings, within a given time limit, such reports and statements.
+
+For the purpose of enforcing provisions prescribed in Paragraph 4, Article 20 of the Act, the competent authority may commission, under law, private entities or individuals to perform a part of its duties.
+
+For the filings prescribed in Paragraph 1, the company may entrust certified public accountants or lawyers to submit the filings with a power of attorney attached thereto.
+
+## Article 4
+
+Where the audited company is a company as set forth in Paragraph 2, Article 20 of the Act, the company shall first have its financial statements audited and attested by a certified public accountant pursuant to Regulations Governing Auditing and Attestation of Financial Statements by Certified Public Accounts and generally accepted auditing standards.
+
+A certified public account engaged to provide auditing and attestation of financial statements of a company as set forth in the preceding paragraph shall file an annual statement of attestation within the time limit set by the competent authority. Such annual statement shall include being engaged to provide auditing and attestation pursuant to provisions of Article 5, if any.
+
+## Article 5
+
+Prior to filing with the competent authority, the audited company may engage a certified public account to have the reports and statements audited pursuant to Article 6 through Article 8 and prepare an audit report.
+
+The format of the audit report set forth in the preceding paragraph shall be laid down by the central competent authority.
+
+## Article 6
+
+The auditing of reports and statements of the company by a certified public account engaged shall include the following:
+
+1.Where expenditures of the company above a certain amount, whether it be paid with money order, cashier`s check, business check, appropriate transfer or other payment instruments or methods approved by the competent authority with payee clearly specified.
+
+2.Whether annual closing procedures are completed as scheduled.
+
+3.Whether accounting books and source documents are in place.
+
+4.Whether the statement of financial position and the statement of income agree with the balance of respective accounts in the books.
+
+5.Whether signatures or seals of the responsible person, the managerial personnel and the accountant in charge of the company are affixed in each and every statement prepared by the company.
+
+6.Whether the amounts receivable by the company for the capital stock issued have not been actually paid up by its shareholders, but are declared as having paid up in its incorporation application, or whether the amounts have been paid up by its shareholders but are subsequently refunded to its shareholders or withdrawn by such shareholders with the permission of the company after having completed the procedures for company incorporation.
+
+7.For a company offering its shares to the public, whether the total amount of its investments exceeds forty percent of its paid-up capital, unless it is a professional investment company, or otherwise provided for in its Articles of Incorporation, or has obtained a resolution adopted by its shareholders' meeting in accordance with provisions in Paragraph 2 through Paragraph 4, Article 13 of the Act.
+
+8.Whether capital of the company has been lent to any shareholder of the company or any other person unless otherwise under any of the circumstances as listed in Paragraph 1, Article 15 of the Act.
+
+9.Whether reports and statements of the company has been submitted to its shareholders for their approval or to the shareholders' meeting for ratification.
+
+10.Whether the company fails to commence its business operation after elapse of six months from the date of its company incorporation registration, or after commencing its business operation, the company has discontinued, at its own discretion, its business operation for a period over six months.
+
+## Article 7
+
+The auditing of reports and statements of an unlimited company or of an unlimited company with limited liability shareholders by a certified public account engaged shall, in addition to being in accordance with provisions in the preceding Article, include the following:
+
+1.Where a shareholder contributes capital by assigning a monetary claim, whether it is satisfied upon maturity.
+
+2.Where the company makes distribution of surplus profit, whether losses have been covered.
+
+## Article 8
+
+The auditing of reports and statements of a limited company or of a company limited by shares by a certified public account engaged shall, in addition to being in accordance with provisions in Article 6, include the following:
+
+1.Where the company pays dividends or bonuses, whether losses have been covered and a legal reserve has been set aside.
+
+2.Whether the remuneration distributable to the employees under the Articles of Incorporation has been made.
+
+3.Whether the loss incurred by the company aggregates to one half of its paid-in capital, or assets of the company is insufficient to set off its liabilities.
+
+4.Whether capital reserve has been accumulated pursuant to law.
+
+5.Whether legal reserve and capital reserve have been used pursuant to law.
+
+6.Whether asset revaluation has been made pursuant to law and be accounted for legally.
+
+## Article 9
+
+When auditing reports and statements of the company, the competent authority may order the company to present evidential documents, vouchers, books and statements and other relevant information with explanations.
+
+## Article 10
+
+When examining audit report made by a certified public accountant, the competent authority may request to review the audit working papers and shall keep the same as confidential information and exercise the due care of a good-faith administrator with respect to such documents.
+
+## Article 11
+
+When auditing reports and statements of the company by the competent authority, should any nonconformity with regulations be found, the company shall be notified to make replies within a prescribed period of time and such matters shall be handled according to relevant acts and regulations.
+
+## Article 12
+
+These regulations come into effect starting November 1, 2018.1
+
+## History
+
+1.Promulgated on August 18, 1986
+
+2.Amended on March 18, 1991
+
+3.Amended on October 14, 1994
+
+4.Amended on February 28, 1996
+
+5.Amended on December 26, 2001
+
+6.Amended on November 8, 2018

@@ -1,0 +1,164 @@
+---
+title: "Regulations Governing Collection of Soil and Groundwater Pollution Remediation Fees"
+title_zh: "土壤及地下水污染整治費收費辦法"
+identifier: "O0110004"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞環境管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-10-29
+last_amended: 2023-12-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0110004"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Collection of Soil and Groundwater Pollution Remediation Fees
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0110004-regulations-governing-collection-of-soil-and-groundwater-pollution-remediation.md](../../../zh/regulations/ministry-of-environment/O0110004-regulations-governing-collection-of-soil-and-groundwater-pollution-remediation.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 28, Paragraph 2 of the Soil and Groundwater Pollution Remediation Act (herein referred to as this Act).
+
+## Article 2
+
+Terms used in these Regulations are defined as follows:
+
+I."Fee payers" means the substance manufacturers and importers indicated in attached table 1 and table 2 as subject to soil and groundwater pollution remediation fees.
+
+II."Chemical substances" means the substances produced via chemical reactions that have been indicated in attached table 1 as subject to soil and groundwater pollution remediation fees.
+
+III."Direct manufacture raw materials" means raw materials that can be used directly to manufacture substances that have been indicated in attached table 1 as subject to soil and groundwater pollution remediation fees.
+
+IV."Exemption rate" means the percentage rate between the soil and groundwater pollution remediation fees already paid on direct manufacture raw materials and the soil and groundwater pollution remediation fees assessed on chemical substances that are subject to soil and groundwater pollution remediation fees.
+
+V."Substance import volume" means the weight on the customs declaration day recorded in the import declaration (in the net weight column).
+
+VI."Substance production volume" means the sum of amounts of the substance manufactured during the current quarter and recorded in production statements. If the fee category of the substance in question is not waste, and an exemption rate is not applicable, when remediation fees have already been paid in the current quarter for the raw materials used in that substance's manufacture, the weight of the raw materials for which remediation fees had been paid may be subtracted from the production volume of that substance, and the maximum amount that may be subtracted shall be the production volume of that substance. If fee category of the substance is waste, the production volume must be identical with the sum of the volumes indicated in ex-factory output notes reported by the fee payer for the current quarter via the Network Transmission Reporting System designated by the central competent authority.
+
+## Article 3
+
+The central competent authority shall, in consultation with relevant agencies, determine the types of substances for which soil and groundwater remediation fees (herein referred to as remediation fees) must be collected pursuant to Article 28, Paragraph 1 of this Act and fee rates as shown in attached table 1 and table 2.
+
+Those substances subject to remediation fees in attached Table 1 in the foregoing paragraph which are chemical substances shall include their isomers in all cases, and fee payers shall report the substances on the basis of their listed chemical substance names. In case of any change in waste codes listed in the preceding attached table 2, the fee payer shall report pursuant to the changed codes.
+
+The central competent authority shall perform a review and propose adjustments to the types of substances subject to remediation fees and fee rates in view of the actual income/expenditure of the Soil and Groundwater Pollution Remediation Fund, on-site investigations, remediation, and the revision of pollution control standards.
+
+## Article 4
+
+Fee payers shall, on their own initiative, pay remediation fees for the previous quarter before the end of each January, April, July and October into a collections account at a financial institution designated by the central competent authority, and shall fill out and submit a report to the central competent authority via network transmission in the format designated by the latter; the report shall include a completed soil and groundwater pollution remediation fee report, proof of fee payment, and either statistical reports of substance production volume or substance import declaration forms. However, those that are agreed by the central competent authority may report in writing.
+
+If the central competent authority determines through the review of the report in the foregoing paragraph that insufficient fees shall be paid, the fee payer shall make up the difference in the next quarter’s payment; if the fee payer has overpaid, the extra portion shall be counted towards subsequent payments.
+
+## Article 5
+
+If a substance subject to remediation fees is a chemical substance, the fee payer may apply to the central competent authority for approval of an exemption rate by submitting an explanation of the raw materials and processes needed for the manufacture of the chemical substance subject to remediation fees, and providing a detailed list of the cost percentages of raw materials used directly in production and for which remediation fees have already been paid.
+
+The exemption rates in the foregoing paragraph are calculated as follows.
+
+I.For individual products made from direct manufacture raw materials:
+
+The exemption rate ={Σ[the molecular weight of direct manufacture raw materialx the chemical reaction equation coefficientx the direct manufacture raw material remediation fee rate (NT$/kiloton)]/[(product molecular weight × chemical reaction equation coefficient × product remediation fee rate (NT$/ton)]×100%.
+
+II.For multiple products made from direct manufacture raw materials:
+
+The exemption rate ={Σ[the molecular weight of direct manufacture raw materialx the chemical reaction equation coefficientx the direct manufacture raw material remediation fee rate (NT$/ton)]/[(individual product remediation fee rate (NT$/ton)xΣ(product molecular weightxchemical reaction equation coefficient)]×100%.
+
+III.The exemption rate for processes that cannot be represented as chemical reaction equations= {Σ[weight of direct manufacture raw material × direct manufacture raw material remediation fee rate (NT$/ton)] / [product weight × product remediation fee rate (NT$/ton)] } ×100%
+
+If the exemption rate in the foregoing paragraph is greater than 100% when rounded to the second decimal place, it shall be taken to be 100%; molecular weight shall be rounded to the first decimal place.
+
+## Article 6
+
+If a fee payer has applied for an exemption rate pursuant to the foregoing article, but prior to the central competent authority approving the exemption rate, the fee payer shall calculate and pay remediation fees pursuant to Article 7, Paragraph 1, and shall not, on its own initiative, calculate an exemption rate and deduct the amount from payment.
+
+After the central competent authority has approved an exemption rate, the exemption rate may be used for as long as the production process and remediation fee rate remain unchanged.
+
+A fee payer that may use an approved exemption rate to reduce remediation fees shall submit proof that remediation fees have been paid for direct manufacture raw materials. Those that have purchased direct manufacture raw materials from a manufacturer that has already paid remediation fees shall submit proof of purchase of raw materials.
+
+## Article 7
+
+The amount of quarterly remediation fees due from a fee payer is the grand total of remediation fees for individual substances during the quarter at issue as specified in Paragraph 2.
+
+Amount of remediation fees (NT$) due for individual substances during the current quarter =substance production volume or import volume (tons) × fee rate (NT$/ ton) × (1-exemption rate).
+
+Figures resulting from the substance production volume or import volume calculations in the foregoing paragraph shall be rounded to the third decimal place. Import calculations shall be based on import volumes of individual substances on import declaration forms; domestic manufacturers shall calculate the grand total of the volume of all individual substances produced during the quarter at issue.
+
+The remediation fees assessed on the individual substances in Paragraph 2 shall be rounded to whole numbers.
+
+## Article 8
+
+A fee payer that terminates business, suspends business or suspends the manufacture or import of substances officially announced by the central competent authority, shall, on its own initiative, submit information on settlement of remediation fees within thirty days of the day of the event to the central competent authority, and apply to the central competent authority to suspend collection of remediation fees. If the central competent authority review determines that the settlement of fees are insufficient, the fee payer shall make up the difference within a limited time period; if the fee payer has overpaid, the overpaid portion shall be refunded.
+
+## Article 9
+
+When imported substances for which remediation fees have already been paid are exported, the fee payer may submit, before the end of January, April, July, or October of each year, export declaration forms and remediation fee payment receipts for the actual amounts of those substances imported/exported during the previous quarter, and apply to the central competent authority for a refund of 70% of the paid remediation fees; the refund may be counted towards a portion of subsequent remediation fee payments. Refund applications shall be submitted before the end of the two quarters following export.
+
+## Article 9-1
+
+Fee payers, who send generated wastes specified in Table 2 to other branch factories (sites) of the same legal person for processing or reuse, may submit to the central competent authority an application providing the approved industrial waste disposal plan or the permit for the business to dispose of industrial wastes on its own. After the application is approved, fee payers may file the payment of the remediation fee at 50% of the remediation fee for the said waste after the date of approval.
+
+## Article 10
+
+If a fee payer purchases liability insurance insuring against environmental damage or related pollution liability insurance, the fee payer may apply for the preferential fee calculated based on 95% of the remediation fee payable, and declare and pay the remediation fee for each quarter in the following year, taking the accounting year as a unit of calculation.If a fee payer purchases liability insurance insuring against environmental damage or other insurance with an equivalent effect, or invests in new equipment or facilities directly benefiting the prevention of soil or groundwater pollution  before December 31, 2024, may apply for a refund of part of the remediation fees actually paid in accordance with the regulations before the amendment on December 29, 2012.
+
+With regard to the preferential fee in the foregoing paragraph, the fee payer may submit a preferential fee application according to the method designated by the central competent authority from January 1 to January 31 of each year. The application will not be accepted if it is not filed within the time limit. Also, if the application fails in meeting the format, or the submitted data are incomplete or can not be judged if meeting the requirements, the central competent authority may request the fee payer to supplement the application data within 20 days after the day following the day receiving the notification. The data supplementation is limited to two times only. If the supplementation does not made within the time limit, the application shall be overruled.
+
+When applying to the central competent authority for preferential fee of liability insurance insuring against environmental damage or related pollution liability insurance, the fee payer shall submit an insurance contract stating the value of the liability insurance insuring against environmental damage or related pollution liability insurance, receipts for insurance premiums for the year, and a statement from the insurer.
+
+The terms of the insurance contract in the foregoing paragraph must clearly specify that the scope of coverage,  in which all necessary removal and disposal costs connected with environmental pollution caused by the main processes, pipelines and storage facilities in the insured's factory, incurred by the insured during the period of coverage shall  at least be included.
+
+## Article 11
+
+A fee payer is exempt from payment of remediation fees when one of the following circumstances applies.
+
+I.After importing officially announced substances, the fee payer promptly exports them out of the country without processing, and does not perform customs clearance procedures.
+
+II.A fee payer imports officially announced substances for use as advertising goods or samples.
+
+III.A fee payer is assessed remediation fees of less than NT$200 for the quarter at issue, and no declaration is required.
+
+IV.The processed product is steel and the waste generated from such process is listed in the attached table 2.
+
+V.Other circumstances officially announced by the central competent authority apply.
+
+## Article 12
+
+A fee payer that fails to pay fees and report in accordance with the calculation methods given in these Regulations by the deadline prescribed by Article 4, Paragraph 1 shall be subject to an interest penalty pursuant to Article 39 of this Act; interest shall be assessed from the day after the final day of the payment period prescribed by Article 4, Paragraph 1 until the day of payment.
+
+The interest amount in the foregoing paragraph shall be calculated based on the difference between the amount of remediation fees owed for that quarter and the amount of fees actually paid, and shall be rounded to the nearest whole number. The fee payer is exempt from payment if the total amount of interest assessed on one occasion is less than NT$10.
+
+## Article 13
+
+The central competent authority may, when necessary, conduct on-site inspections concerning the content of reports or applications pursuant to these Regulations.
+
+When performing relevant reporting review, approval, on-site inspections, and notification work, the central competent authority may, depending on its needs, commission a dedicated organization to perform said work pursuant to Articles 4 through 11.
+
+## Article 14
+
+The amendments to these Regulations shall take effect on the date of promulgation, except for Table 3 of Article 10 amended and promulgated on November 12, 2021, which is to take effect on January 1, 2023, and for the provisions amended and promulgated on December 29, 2023, which is to take effect on January 1, 2025.
+
+## Attachments
+
+- [Table 1  Types of Substances Subject to Soil and Groundwater Pollution Remediation Fees and Respective Fee Rates (1).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008381)
+- [Table 2  Waste Items of Waste Subject to Soil and Groundwater Pollution Remediation Fees and respective fee rates.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008382)
+
+## History
+
+\1. Promulgated by Environmental Protection Administration order on November 1, 2001.
+
+\2. Revisions promulgated by Environmental Protection Administration order on May 7, 2003.
+
+\3. Revisions to Articles 2, 3, 9-11, 13, and 14, Tables 1 promulgated by Environmental Protection Administration order on December 30, 2005.
+
+\4. Full 14 articles revised and promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 1000016896 on March 7, 2011.
+
+\5. Revisions to Articles 2-7,10-14 promulgated by Environmental Protection Administration order Huan-Shu-Tu-Tzu No.1050107754 on December 30, 2016.
+
+\6. Revisions to Articles 9-10, 14 promulgated by Environmental Protection Administration order Huan-Shu-Tu-Tzu No.1101153597 on November 12, 2021.
+
+\7. Revisions to Articles 2, 10, 11, 14, and Appendix 1 of Article 3 promulgated by the Ministry of Environment order Huan-Bu-Guan-Tzu No. 1127123850 on December 29, 2023.

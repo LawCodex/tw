@@ -1,0 +1,265 @@
+---
+title: "Fee-charging Standards for the Use of State-operated Airports, Navigation Aids and Related Facilities"
+title_zh: "使用國營航空站助航設備及相關設施收費標準"
+identifier: "K0090019"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1983-05-20
+last_amended: 2026-08-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090019"
+retrieved: 2026-10-12
+---
+
+# Fee-charging Standards for the Use of State-operated Airports, Navigation Aids and Related Facilities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090019-fee-charging-standards-for-the-use-of-state-operated-airports-navigation-aids.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090019-fee-charging-standards-for-the-use-of-state-operated-airports-navigation-aids.md)) is authoritative.
+
+## Article 1
+
+These regulations are enacted in accordance with paragraph 1, Article 37 of the Civil Aviation Act.
+
+## Article 2
+
+The use of state-operated airports, navigation aids and related facilities is required to pay airport charges, navigation aids service charge or noise charge in accordance with these regulations.
+
+## Article 3
+
+The term “airport charges” used in these regulations refers to and includes charges levied on landing, night flight, parking, overstay, terminal building service, use of ground handling area and facilities, use of boarding bridge or bus, public address system, airport ground handling service, catering service, civil air transport enterprise’s use of its own operated airport ground handling (hereinafter referred to as “own operated airport ground handling charge”), use of aircraft fueling facilities, use of security service, use of ground power units, use of air conditioner, use of automatic baggage handling system and use of transfer and transit facilities; the term “navigation aids facilities charge” used herein refers to and includes overflight charge, telecommunication facilities fee and air traffic services charge.
+
+## Article 4
+
+Landing charge, night flight charge and parking charge shall be levied as follows:
+
+\1. Any civil aircraft on international air routes shall be charged at the rates of international flight.
+
+\2. Any civil aircraft on domestic air routes shall be charged at the rates of domestic flight.
+
+\3. Where any foreign-registered civil aircraft on international air routes, after entry or before departure, lands at and takes off from one and more airports, airfields within the territory of the Republic of China shall be regarded as the extension of international flight and shall be charged at the same rates of international flight.
+
+Charges set forth in the 1st paragraph shall be calculated by per flight and type of aircraft. Per flight is defined as from landing to take-off of a civil aircraft.
+
+## Article 5
+
+Night flight charge shall be charged on a civil aircraft taking off or landing between sunset and sunrise, and calculated by per flight.
+
+## Article 6
+
+Any civil aircraft parking at the airport shall be charged parking fee; however, parking is free of charge for a period not exceeding 2 hours.
+
+## Article 7
+
+Any Civil aircraft, which is damaged, abandoned or in executing a project of overhaul and reconstruction and parks at the airport shall be charged an overstay charge as follows:
+
+\1. Where a civil aircraft is damaged, abandoned and parks at the designated remote location with the approval of the airport authority of CAA, it shall be charged an overstay charge in accordance with the type of aircraft on daily basis and levied at a full daily rate even for the overstay period not exceeding 24 hours, subject, however, to a limitation of six months. Beyond the time limit it shall be charged the parking fee according to the applicable domestic rates from the day following the time limit.
+
+\2. Where a civil aircraft is in executing a project of overhaul and reconstruction and parks at the designated location with the approval of the airport authority of CAA, it shall be charged an overstay fee in accordance with the type of aircraft on daily basis and levied at a full daily rate even for a period not exceeding 24 hours, subject, however, to a limitation of three (3) months. Beyond the time limit except otherwise postponement approved, it shall be charged the parking fee according to the applicable domestic rates from the day following the time limit.
+
+## Article 8
+
+Charges set forth in these regulations, except otherwise stipulated, are calculated and levied as follows:
+
+\1. Terminal building service charge, user’s fee for the ground handling area and facilities are calculated in accordance with each flight’s maximum take-off weight.
+
+\2. Security charge is calculated in accordance with each flight’s maximum take-off weight.
+
+\3. User’s fee for P.A. system is calculated in accordance with the domestic flight frequency.
+
+\4. Boarding bridge or bus charge is calculated in accordance with the aircraft’s number of seats and frequency of use.
+
+\5. Aircraft fueling facilities charge is calculated in accordance with the quantity of liter poured.
+
+\6. User’s fee for ground power unit and air conditioner are calculated in accordance with its nature of use and the number of hours used.
+
+\7. Fees for the use of automatic baggage handling system are calculated in accordance with the aircraft’s departure flight frequency.
+
+\8. Overflight charge is calculated in accordance with the number of overflights.
+
+\9. Telecommunication facilities fee is separately calculated in accordance with the nature of use.
+
+\10. Air traffic services charge is calculated in accordance with aircraft's maximum take-off weight per flight, different rates for international flight and domestic flight.
+
+\11. Noise charge is calculated in accordance with each aircraft’s maximum take-off weight and take-off noise level where the aviation noise control area of an airport is announced by the city or municipality government.
+
+## Article 9
+
+Landing charge will be 50% off when a civil aircraft falls within any of the following conditions:
+
+\1. A civil aircraft performing training flight has been duly approved by CAA and is owned by the civil air transport enterprise or the general aviation enterprise.
+
+\2. A civil aircraft after overhaul and reconstruction has been authorized for test flight.
+
+## Article 10
+
+Landing charge and night flight charge will be exempted when a civil aircraft falls within any of the following conditions:
+
+\1. A civil aircraft is on the search and rescue mission.
+
+\2. A civil aircraft in flight is ordered to land by any airport authority of CAA.
+
+\3. A civil aircraft flies to any remote offshore areas and is owned by the civil air transport enterprise or the general aviation enterprise.
+
+The civil aircraft set forth in the subparagraph 2 of paragraph 1 shall be exempted from paying the staying charges.
+
+The remote offshore areas set forth in the subparagraph 3 of paragraph 1 include:
+
+\1. Lanyu Township and Lyudao Township under the jurisdiction of Taitung County, Taiwan Province.
+
+\2. Cimei Township and Wang-an Township under the jurisdiction of Penghu County, Taiwan Province.
+
+\3. Beigan Township, Nangan Township, Jyuguang Township and Dongyin Township under the jurisdiction of Lienchiang County, Fuchien Province.
+
+## Article 11
+
+Airport charges, navigation aids facilities charges and noise charges shall be exempted when a civil aircraft is on diplomatic or special mission flying over the territory of the Republic of China approved by CAA.
+
+## Article 12
+
+For various charges due and payable under these regulations, a written notice of collection together with detailed statements shall be prepared and sent by CAA to the user, and thereby the user is required to pay such charges within the time limit set forth therein.
+
+CAA may commission operators of airports to perform the operation referred to in the preceding paragraph.
+
+## Article 13
+
+The foreign civil air transport enterprise, which has not established a branch office or a designated representative within the territory of the Republic of China, shall pay charges due and payable within ten (10) days after the date on which a notice of detailed statement of air navigation facility charge is received to CAA to be deposited with the public treasury by registered mail with US dollars or the equivalent amount of foreign currency or draft.
+
+## Article 14
+
+The rates of charges for catering service shall be levied by CAA in accordance with each flight’s maximum take-off weight.
+
+The rates of charges for airport ground handling service and own operated airport ground handling shall be levied by CAA in accordance with the following regulations:
+
+\1. Only to perform loading and unloading of meals and their related services rendering shall be assessed and levied at the rate applicable to catering service franchise.
+
+\2. To perform airport ground handling service other than services set forth in the preceding subparagraph 1 shall be assessed and levied by each flight’s maximum take-off weight. However, to perform only one item of operations shall be assessed and levied at 50% of the rates of international flights applicable to charges for ground handling service and own operated airport ground handling.
+
+\3. To perform operation including loading and unloading meals and their related services shall be assessed and levied according to the provisions of the paragraph 1 and the subparagraph 2 of paragraph 2 hereof.
+
+## Article 14-1
+
+Airport Service Charge for Departing Transfer and Transit Passengers (ASCTT) for passengers transferring and transiting on international flights shall be charged according to the rates in Paragraph 2. The following passengers are exempted from the charge:
+
+\1. Passengers and their accompanying families who have been informed to CAA with the courtesy notice by the Ministry of Foreign Affairs, above-mentioned qualifications are limited to the treaties, agreements, project approved by the Ministry of Foreign Affairs or in accordance with the conditions of reciprocity.
+
+\2. Passengers who are under 2 years old.
+
+ASCTT referred to in the preceding paragraph shall be charged by the airline companies along with the flight ticket according to the following rates:
+
+\1. Prior to August 31, 2026: NT$500 per person.
+
+2.From September 1, 2026, to August 31, 2028： NT$750 per person.
+
+3.Effective from September 1, 2028 ：NT$1,000 per person.
+
+Passengers who hold the exclusive ASCTT ticket should pay the fee to the airline companies when deal with the departure procedure.
+
+ASCTT paid by passengers who did not transfer and transit could be applied for a full refund without any charge from the airline companies.
+
+Airline companies shall send the list of passengers and daily report to the airport for censoring at next working day. And according to the monthly information of collective ASCTT from the airport, airline companies shall pay the fee to the banks designated by CAA before the 16th of the following month.
+
+The handling fee for the airline's collection service for the ASCTT remitted in accordance with the preceding paragraph shall be allocated based on the following rates:
+
+1.Prior to August 31, 2026: Two point five percent (2.5%) of the collected amount.
+
+2.From September 1, 2026 to August 31, 2028: Two percent (2%) of the collected amount.
+
+3.Effective from September 1, 2028: One point five percent (1.5%) of the collected amount.
+
+## Article 15
+
+The charges and rates applicable to the use of state-operated airports, navigation aids and related facilities shall be according to the provisions of the table attached hereto.
+
+## Article 16
+
+These regulations shall become effective on the date of promulgation.
+
+These regulations promulgated on 23th March, 2023 shall become effective from 31th March, 2023.
+
+These regulations promulgated on 14th January, 2025 shall become effective from 1st March, 2025.
+
+(Should there be any discrepancy between the Chinese text and the English version, the Chinese text shall control.)
+
+## Attachments
+
+- [Table of the Rates of Fee-charging Standards for the Use of State-operated Airports, Navigation Aids and Related Facilities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009929)
+
+## History
+
+1.Promulgated on May 20,1983
+
+2.Amendment to the table attached to Article 16 promulgated on January 14, 1984
+
+3.Amendment to the table attached to Article 16 promulgated on October 15, 1987
+
+4.Amendment to Article 17 & the table attached to Article 16 promulgated on February 15, 1988
+
+5.Amendment to Article 4, 11, and the table attached to Article 16 promulgated on December 30, 1995
+
+6.Amendment to the Name and Article 1 ~ 17 promulgated on August 30, 1999
+
+7.Amendment to Article 10 promulgated on January 25, 2000
+
+8.Amendment to Article 3, 8, 10, and the table attached to Article 16 promulgated on July 28, 2000
+
+9.Amendment to Article 3, 15, and 16 promulgated on April 26, 2001
+
+10.Amendment to Article 4, 8, and 12 promulgated on September 30, 2002
+
+11.Amendment to Article 1 ~ 16 promulgated on July 28, 2003
+
+12.Amendment to Article 10 promulgated on July 30, 2003
+
+13.Amendment to Article 6 & the table attached to Article 15 promulgated on June 29, 2006
+
+14.Amendment to the table attached to Article 15 promulgated on October 5, 2006
+
+15.Amendment to the table attached to Article 15 promulgated on December 29, 2006
+
+16.Amendment to the table attached to Article 15 promulgated on June 27, 2007
+
+17.Amendment to Article 2, 8, 15, and table attached to Article 15 promulgated on December 28, 2007
+
+18.Amendment to the table attached to Article 15 promulgated on June 27, 2008
+
+19.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No.0970085070 on December 30, 2008
+
+20.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No.0980085042 on July 20, 2009
+
+21.Amendment to Article 3, 8, 12, and the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No.0990007570 on August 18, 2010
+
+22.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No.10200026271 on February 5, 2013
+
+23.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10200208521 on June 29, 2013
+
+24.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10200322601 on September 27, 2013
+
+25.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10300416511 on January 7, 2015
+
+26.Amendment to Article 2, 8, 9, 10, 11, and the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No.10550022811 on March 1, 2016
+
+27.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10550177371 on December 30, 2016
+
+28.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 106000404751 on December 30, 2017
+
+29.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10700178971 on June 29, 2018
+
+30.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10700207991 on July 18, 2018
+
+31.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10800083631 on April 1, 2019
+
+32.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 10800304771 on October 17, 2019
+
+33.Amendment to Article 3, 14-1 and 16 per MOTC Decree Jiao-Hang-Zi No. 11200058526 on March 23, 2023
+
+34.Amendment to Article 16 and the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 1130038706 on January 14, 2025, and shall be effective from March 1, 2025
+
+35.Amendment to Article 6,7 and the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 1145009230 on July 3, 2025
+
+36.Amendment to Article 14-1 per MOTC Decree Jiao-Hang-Zi No. 1155010772 on August 10, 2026
+
+37.Amendment to the table attached to Article 15 per MOTC Decree Jiao-Hang-Zi No. 1150023398 on August 27, 2026

@@ -1,0 +1,451 @@
+---
+title: "Regulations Governing Responsible Persons and Associated Persons of Securities Firms"
+title_zh: "證券商負責人與業務人員管理規則"
+identifier: "G0400020"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1985-09-24
+last_amended: 2025-07-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400020"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Responsible Persons and Associated Persons of Securities Firms
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400020-regulations-governing-responsible-persons-and-associated-persons-of-securities.md](../../../zh/regulations/financial-supervisory-commission/G0400020-regulations-governing-responsible-persons-and-associated-persons-of-securities.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 54, paragraph 2 and Article 70 of the Securities and Exchange Act ("the Act").
+
+## Article 2
+
+The term "responsible person" as used in these Regulations shall be defined in accordance with Article 8 of the Company Act.
+
+The term "associated persons" as used in these Regulations means persons who engage in the following businesses for a securities firm:
+
+\1. Securities investment analysis, internal auditing, self-auditing, legal compliance, or in-charge accountant.
+
+\2. Liaison or execution of securities underwriting and trading.
+
+\3. Proprietary securities trading, clearing and settlement, or agency for shareholder services.
+
+\4. Account opening, credit searches, solicitation, recommendation, brokerage order taking, filing, clearing, settlement, or receipt, payment, and safekeeping of cash and stocks, in connection with securities trading.
+
+\5. Margin purchases or short sales in securities trading.
+
+\6. Derivatives trading.
+
+\7. Risk management.
+
+\8. Conducting other approved business.
+
+Responsible persons and associated persons of the overseas branch of a securities firm shall abide by the local laws and regulations governing securities in the country where they conduct business. With the exception of Article 12, Article 13, and Article 18, paragraph 1, these Regulations shall not apply.
+
+## Article 3
+
+Associated persons of securities firms are classified into the following two categories in accordance with the complexity and degree of responsibility of their duties:
+
+\1. Senior agent: A person who supervises a department or who is a responsible person of a securities firm's branch office or simple branch office, or is engaged in duties such as investment analysis or internal auditing, as described in Article 8, paragraph 1.
+
+\2. Agent: A person who engages in duties such as underwriting, proprietary trading, or brokerage trading of securities, or who is an internal auditor or an in-charge accountant, as described in the subparagraphs of paragraph 2 of the preceding article.
+
+Only a person who is trained and certified by the internal auditor training program of an institution accredited by the Financial Supervisory Commission (FSC) may engage in internal auditing as provided in subparagraph 2 of the preceding paragraph.
+
+## Article 4
+
+Associated persons of a securities firm may not concurrently hold any position at another securities firm either domestically or in a foreign country. This, however, does not apply to legal compliance, internal auditors, risk management personnel, or in-charge accountant of the securities firm concurrently holding a position of the same nature at a securities affiliate enterprise in a foreign country.
+
+An affiliate enterprise as referred to in the preceding paragraph shall be governed by the Affiliated Enterprises chapter of the Company Act.
+
+The following associated persons of a securities firm may not engage in business beyond the scope for which they are registered, nor may their business be concurrently performed by other associated persons, unless otherwise prescribed in other laws or regulations:
+
+\1. Associated persons engaged in proprietary trading of securities.
+
+\2. Internal auditors.
+
+\3. Risk management personnel.
+
+Persons engaged in the business of brokerage trading of securities, and persons charged with consulting in connection with asset allocation or financial planning or services in connection with the sale of financial products, may not concurrently handle services that involve account opening for securities trading, clearing and settlement, receipt, payment, and safekeeping of cash and stocks, margin purchases or short sales, underwriting, serving as in-charge accountant, or agency for shareholder services.
+
+In the case of a futures commission merchant that concurrently operates securities business, if any of its associated persons possesses the qualifications for both securities and futures business, then such an associated person, when engaging in the business of account opening, brokerage trading, proprietary trading, clearing and settlement, legal compliance, internal auditing, self-audit, risk management, and in-charge accountant within the scope for which the person is registered, may concurrently handle securities business and futures business of the same nature.
+
+In the case of a futures commission merchant that concurrently operates securities business, a managerial officer of the department that handles brokerage trading, proprietary trading, or clearing and settlement business, who furthermore meets the qualifications set out in Articles 8 and 10 herein, may concurrently serve as a managerial officer of the futures department that handles business of the same nature.
+
+Except as otherwise provided by law or regulation, the provisions of paragraph 5 and the preceding paragraph shall apply mutatis mutandis to financial institutions other than futures commission merchants that concurrently operate securities business.
+
+An agent of a securities firm shall neither execute nor concurrently engage in the business of a senior agent.
+
+A securities firm shall establish internal audit and control mechanisms for any concurrent holding of positions and concurrent handling of duties by its associated persons, to ensure the effective execution of the associated person's principal duties and concurrently held positions or concurrently handled duties, and for maintaining the normal business operations of the securities firm. The concurrent holding of positions and concurrent handling of duties may not involve any conflict of interest or any violation of applicable securities regulations or internal control system provisions, and the rights and interests of customers and shareholders shall be protected.
+
+## Article 5
+
+A senior agent of a securities firm shall have one of the following qualifications:
+
+\1. Graduation from a college or university or above, and having been an agent of a securities institution for 3 years or more.
+
+\2. Qualification as a securities investment analyst as prescribed in the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises.
+
+\3. Having passed the securities firm senior agent exam held by the Securities and Futures Institute (hereinafter "SFI") at the request of the Taiwan Securities Association (hereinafter the "Securities Association").
+
+\4. Being registered as a securities firm senior agent in accordance with these Regulations, or having obtained a certificate of qualification as a securities firm senior agent issued by the FSC.
+
+\5. Currently serving as an agent of a securities institution, and having served 1 year or more as an agent before the June 18, 1991 amendment to these Regulations came into force, and further, after that amendment came into force, having served as an agent, cumulatively, for 5 years.
+
+## Article 6
+
+An agent of a securities firm shall have one of the following qualifications:
+
+\1. Qualification as a securities investment analyst as prescribed in the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Consulting Enterprises.
+
+\2. Having passed the securities firm agent exam held by the SFI at the request of the Securities Association.
+
+\3. Being registered as a securities firm agent in accordance with these Regulations, or having obtained a certificate of qualification as a securities firm agent issued by the FSC.
+
+## Article 7
+
+Any person who has obtained a certificate of qualification as a securities firm associated person issued by the FSC and requires re-issuance or replacement of the certificate shall file an application with the SFI.
+
+The preceding paragraph shall come into force from January 1, 1999.
+
+## Article 8
+
+In a securities firm, qualification as a senior agent shall be required for the supervisory personnel of departments engaged in underwriting, proprietary trading, brokerage trading, clearing and settlement, internal auditing, shareholder services, and financial affairs. In a branch office or simple branch office of a securities firm, qualification as a senior agent shall be required for its responsible persons and the supervisory personnel of the brokerage trading and clearing and settlement departments. As an exception to the above, in a securities firm concurrently operated by a financial institution, separate provisions of the FSC may be followed with respect to the supervisory personnel of the internal auditing department and financial affairs department.
+
+In a foreign securities firm's branch office within the ROC, with the exception of its responsible persons and the supervisory personnel of its financial affairs and shareholder services departments, qualification as a senior agent shall be required for the supervisory personnel of departments engaged in underwriting, proprietary trading, brokerage trading, clearing and settlement, and internal auditing.
+
+## Article 9
+
+A securities firm shall have one general manager, who shall be responsible for the overall administration of the business operations of the entire company. The securities firm may not have any other person in a position with equivalent responsibilities.
+
+The general managers of securities firms shall be of upstanding character and possess the ability to effectively lead and manage a securities firm. With the exception of general managers of securities firms concurrently operated by financial institutions, to whom the provisions of other laws and regulations may apply, general managers shall possess at least one of the following qualifications:
+
+\1. Graduation from a local or foreign junior college recognized by the Ministry of Education, or an equivalent or higher degree, with 5 or more years of sales experience in securities, futures, finance, or insurance, and having held the position of assistant general manager or an equivalent position for 1 year or more at a securities or futures institution, or the position of manager or an equivalent position at a securities or futures institution for 3 years or more, with a good performance record.
+
+\2. Six years or more of work experience at a securities institution, and having served in the position of assistant general manager or an equivalent position at a securities or futures institution for 1 year or more or in the position of manager or an equivalent position at a securities or futures institution for 3 years or more, with a good performance record.
+
+\3. Other academic or work qualifications demonstrating possession of professional knowledge of securities and operations and management experience that would enable sound and effective management of securities firm business.
+
+When hiring a general manager, a securities firm shall first submit documents verifying that its candidate meets the qualifications of the preceding paragraph to the Stock Exchange, the Securities Association, or the Taipei Exchange (TPEx) for their review and approval, after which they shall be forwarded to the FSC for its review and approval, before the candidate may fill that position.
+
+The provisions of the preceding two paragraphs apply mutatis mutandis to the responsible persons of a foreign securities firm's branch office within the ROC.
+
+The chairman of a securities firm may not concurrently serve as its general manager. This restriction, however, does not apply under any of the following circumstances if approval is obtained from the FSC:
+
+\1. The securities firm does not concurrently operate any other enterprise, operates only one line of business, and furthermore has only one business location; or, it operates only one line of business, concurrently operates only futures introducing broker business, and furthermore has only one business location.
+
+\2. The securities firm will cease to exist as a result of dissolution or merger, and its chairman or general manager has resigned or otherwise is unable to continue the performance of duties.
+
+\3. The securities firm's business permission is voided by the FSC, and its chairman or general manager has resigned or otherwise is unable to continue the performance of duties.
+
+\4. Any other special cause.
+
+## Article 9-1
+
+The chairman of a securities firm shall have good moral character, the ability to effectively lead and manage a securities firm and Xwith the exception of a chairman of a securities firm concurrently operated by a financial institution, who may instead be subject to the provisions of other laws and regulations Xshall also meet one of the following qualifications:
+
+\1. Has graduated from a domestic or foreign school at the level of junior college or higher recognized by the Ministry of Education or possesses equivalent academic qualifications, and has no less than 3 years of work experience engaging in business at a securities, futures, financial, or insurance institution(s), and has served for no less than 1 year in the position of manager or higher or an equivalent position at a securities or futures institution(s), with a good performance record.
+
+\2. Has graduated from a domestic or foreign school at the level of junior college or higher recognized by the Ministry of Education or possesses equivalent academic qualifications, has no less than 5 years of work experience in securities administration or supervision, and has served for no less than 1 year in the position of intermediate civil service employee at grade 9 or higher or in an equivalent position, with a good performance record.
+
+\3. Has no less than 5 years of work experience at securities, futures, financial, or insurance institution(s), and has served for no less than 3 years in the position of assistant manager or higher or in an equivalent position at a securities or futures institution(s), with a good performance record.
+
+\4. Has other academic or work qualifications sufficient to demonstrate possession of professional knowledge and operational and management experience in securities, futures, or finance that would enable sound and effective operation of securities firm business.
+
+A securities firm shall, within 10 days after its chairman has been elected, submit relevant qualification documents to the Stock Exchange, the Taipei Exchange, or the Securities Association for their review, after which they shall be forwarded to the FSC for approval. If any qualification of the chairman is not approved by the FSC, the FSC may order the securities firm to make changes within a prescribed period of time. The same shall apply if factual evidence shows that the person does not possess the required good moral character, abilities, and qualifications specified in the preceding paragraph after taking office.
+
+If a securities firm has any question regarding the application of subparagraph 4 of paragraph 1 to its candidate for chairman, the securities firm may, before electing the chairman, submit the candidate's qualifications to the Stock Exchange, the Taipei Exchange, or the Securities Association for their review and forwarding to the FSC for approval.
+
+A person who was already serving as chairman of a securities firm prior to the enforcement of the 28 October 2022 amendment to this article may continue to serve as chairman for the duration of their original term, without being subject to the restrictions in paragraph 1 and paragraph 2. A chairman of a securities firm elected after the amendment to these Regulations shall be required to meet the good moral character, abilities, and qualifications required under these Regulations; one who fails to meet them shall be dismissed.
+
+## Article 10
+
+The supervisory personnel of the departments set forth in Article 8, paragraph 1, those who oversee those departments or the assistant general managers, deputy assistant general managers, and managers of those departments, and the responsible persons of a securities firm's branch offices and simple branch offices, shall possess one of the following qualifications:
+
+\1. Graduation from a local or foreign junior college recognized by the Ministry of Education, or an equivalent or higher degree, with 3 years or more of business work experience and a good performance record in a securities, futures, finance, or insurance institution.
+
+\2. Four years or more of work experience and a good performance record at a securities institution.
+
+\3. Six years or more of work experience, with a good performance record, in a professional field such as information, technology, law, e-commerce, or digital economy.
+
+\4. Other academic or work qualifications demonstrating possession of professional knowledge of securities and operations and management experience that would enable sound and effective management of securities firm business.
+
+The chief internal auditor of a TWSE listed or TPEx listed securities firm or a securities subsidiary of a financial holding company, in addition to possessing one of the qualifications in the preceding paragraph, shall have an occupational rank equal to an assistant general manager or a position with equivalent duties, and may assume their position only after the candidate is reported to the FSC for review and found to be qualified.
+
+For a branch office of a foreign securities firm within the ROC, the supervisory personnel of departments that engage in underwriting, proprietary trading, brokerage trading, clearing and settlement, and internal auditing shall possess the qualifications of the paragraph 1.
+
+The provisions of paragraph 1 shall apply mutatis mutandis to positions equivalent to assistant general manager, deputy assistant general manager, or manager under other laws or under the articles of incorporation of the securities firm.
+
+## Article 11
+
+A securities firm's board of directors is responsible for the appointment of managers and shall scrupulously review to ensure that the appointed managers meet the qualification requirements. The board of directors is also responsible for overseeing the maintenance of qualifications by managers and the suitability of managers in their positions.
+
+The board of directors shall scrupulously oversee the company's implementation of the accountability of managerial officers, establish related systems, and include them in the assessment of the suitability of managerial officers.
+
+When any person is promoted or assigned, after the amendment of these Regulations, to a position as a securities firm's general manager, supervisory personnel of any department set forth in Article 8, paragraph 1, anyone overseeing any of those departments, or an assistant general manager, deputy assistant general manager, or manager of any of those department, or a responsible person of a branch office or simple branch office of the securities firm, such person shall possess or be in conformance with the qualifications set forth in these Regulations; those who do not meet those qualifications shall be dismissed.
+
+## Article 11-1
+
+A responsible person of a securities firm may not serve as a responsible person of a bank, financial holding company, trust company, credit cooperative, credit department of a farmers' (or fishermen's) association, bills finance company, futures enterprise, insurance enterprise, or another securities enterprise. However, this restriction shall not apply in the following circumstances:
+
+\1. When it serves the purposes of an investment relationship between the securities firm and such an institution, and there is no overlapping of the chairmen or managerial officers between the two, and the FSC has granted approval.
+
+\2. When there is a special need and the FSC has granted approval, a responsible person of a securities firm may serve as the chairman of such an institution.
+
+\3. When a securities firm is a subsidiary of a financial holding company, a responsible person of the securities firm may serve as a responsible person of such financial holding company or of another of its subsidiaries, provided that there is no overlapping of managerial officers between the subsidiaries.
+
+\4. When a securities firm is a juristic-person director or supervisor of a financial holding company, the responsible person of the securities firm, by virtue of serving as a responsible person of that holding company, may concurrently serve as a director or supervisor of a subsidiary of that holding company.
+
+When there is an investment relationship between a securities firm and a non-financial institution that is a public issuer, no responsible person of the securities firm may concurrently serve as the chairman or a managerial officer of such an investee company.
+
+A securities firm shall establish internal audit and control mechanisms for any concurrent holding of positions by any responsible person of the securities firm to ensure effective execution of the responsible person's principal duties and concurrently held duties, and for maintaining the normal business operations of the securities firm. Any concurrent holding of positions may not involve conflicts of interest or violation of securities regulations or the internal control system, and the rights and interests of shareholders shall be protected.
+
+A securities firm shall, based on its investment management needs, risk management policies, and the provisions of these Regulations, regularly evaluate the performance of any responsible persons holding concurrent positions. The evaluation results shall serve as an important reference to determine whether the concurrent holding of positions will be maintained or reduced.
+
+## Article 11-2
+
+A responsible person of a securities firm or their spouse who serves as a director, supervisor, or managerial officer or who holds 5 percent or more of the total issued shares of a public company may not participate in the policy decision-making of the securities firm in any business relating to that public company.
+
+The calculation of shares held by a person referred to in the preceding paragraph shall include shares held under the names of the person's spouse and minor children, and those held under the names of any other persons.
+
+## Article 11-3
+
+A securities firm director, supervisor, or related party thereof, who acts concurrently as a director or supervisor of any other financial institution as set forth in Article 11-1, paragraph 1 will be presumed to have a conflict of interest unless the securities firm and that financial institution have a controlling and subordinate relation as defined in the Company Act or such concurrent appointment is held in accordance with these Regulations.
+
+The term "director" or "supervisor" as used in the preceding paragraph means those within the following scope:
+
+\1. A juristic person and any natural person appointed by that juristic person to exercise the duties.
+
+\2. A juristic person and any elected natural person representative who represents a juristic person.
+
+\3. An elected natural person who is neither appointed by nor a representative of the government or a juristic person.
+
+The term "related party" of a director or supervisor as used in paragraph 1 means any party related to the same natural person or the same juristic person, within the following scope:
+
+\1. Parties related to the same natural person:
+
+A. The spouse and lineal relatives of that natural person.
+
+B. Any enterprise in which that natural person and persons referred to in the preceding item hold in aggregate more than one-third of the issued voting shares or capital, or any enterprise or foundation in which that natural person and persons referred to in the preceding item serve as the chairman or general manager or in a majority of the director positions.
+
+\2. Parties related to the same juristic person:
+
+A. The chairman of that juristic person and his or her spouse and lineal relatives.
+
+B. Any enterprise in which that juristic person and natural persons referred to in the preceding item hold more than one-third of the issued voting shares or capital, or any enterprise or foundation in which that juristic person and natural persons referred to in the preceding item serve as the chairman or general manager or in a majority of the director positions.
+
+C. Affiliates of that juristic person. The term "affiliate" shall be as defined under Articles 369-1 to 369-3, Article 369-9, and Article 369-11 of the Company Act.
+
+The preceding three paragraphs shall not apply to the government or to a securities firm in which the government directly and/or indirectly holds 100 percent of the shares. However, persons appointed by or representing the government or such a securities firm to serve in its capacity as a juristic-person director or supervisor shall not concurrently serve in any position in another financial institution unless with the approval of the FSC.
+
+If a securities firm director, supervisor, or related person thereof has a conflict of interest set out in paragraph 1 or the preceding paragraph, the FSC may order the securities firm to make adjustments within a prescribed period of time. The person shall be dismissed if the securities firm fails to make the adjustments within the time period without good cause.
+
+Those who were already serving as a director or supervisor of a securities firm prior to the enforcement of the 28 October 2022 amendment to this article may continue to serve for the duration of their original term, without being subject to the restrictions in the preceding five paragraphs.
+
+## Article 12
+
+The responsible persons and associated persons of a securities firm shall be registered by their firm with the Stock Exchange, Securities Association, or Taipei Exchange before performing their duties, and may not perform their duties without such registration.
+
+If a securities firm will employ, to engage in any business other than the business under the subparagraphs of Article 2, paragraph 2, any person who has been dismissed from a position within the past 3 years by an order of the FSC pursuant to the Act, the securities firm shall file with the Stock Exchange for registration of that person before employing them.
+
+Under any of the following circumstances, the Stock Exchange, Securities Association, or Taipei Exchange shall refuse to grant a registration, and shall void a registration that has already been made:
+
+\1. A responsible person of a securities firm falls under any circumstance in Article 30 of the Company Act or Article 53 of the Act.
+
+\2. An associated person of a securities firm falls under any circumstance in paragraph 1 of Article 54 of the Act or fails to meet the qualifications in Article 5 or 6 herein.
+
+By the 15th day of each month, the Stock Exchange, Securities Association or Taipei Exchange shall report the status for the previous month of the registrations under the preceding three paragraphs for recordation by the FSC.
+
+## Article 13
+
+In the event of any change of responsible person or associated person, the securities firm shall file for registration of the change with the Stock Exchange, Securities Association, or Taipei Exchange within 5 days after the change, as specified below. The securities firm shall not be released from liability for the actions of such persons before completion of the registration.
+
+\1. File for the purpose of an amendment registration in the event of any job transfer or promotion of a responsible person or associated person of a securities firm.
+
+\2. File for the purpose of canceling a registration in the event of the death, resignation, layoff, dismissal, severance, or retirement of a responsible person or associated person of a securities firm, or a circumstance set out in Article 17.
+
+\3. File for the purpose of voiding a registration when the dismissal of a responsible person or associated person is ordered by the FSC in accordance with the Act, or the registration of the person falls under any circumstance in paragraph 3 of the preceding article.
+
+Registration of any change in a responsible person or associated person of an overseas branch of a securities firm shall be performed within 10 days after the change.
+
+By the 15th day of each month, the Stock Exchange, Securities Association or Taipei Exchange shall compile the particulars of changes to registrations as referred to in the preceding paragraph for the previous month and report them to the FSC for recordation.
+
+A securities firm shall file with the Stock Exchange, Securities Association, or Taipei Exchange for approval and recordation in advance before any change under paragraph 1 may be made with respect to an internal auditing associated person of the securities firm.
+
+## Article 14
+
+In the event of leave, suspension of work duties, or other cause of absence of a responsible person or associated person of a securities firm, the securities firm shall appoint a person with equivalent qualifications to act as their deputy.
+
+With regard to deputies referred to in the preceding paragraph, the securities firm shall record the reason, period, name of the acting deputy, and his or her duties in a special-purpose book for reference.
+
+## Article 15
+
+Associated persons of a securities firm shall participate in pre-service and in-service training offered by an institution appointed by the FSC. A securities firm also may apply to conduct its own in-service training in accordance with the in-service training operation directions prescribed by the Securities Association.
+
+An associated person of a securities firm who is assuming the job for the first time, or who has resumed the job after an absence of 3 years, shall participate in pre-service training within 6 months after reporting for work. Currently employed personnel shall participate in in-service training once every 3 years.
+
+The FSC may specify the content and periods for the training described in the preceding paragraph according to actual needs.
+
+## Article 16
+
+The FSC or the training institution shall issue a training completion certificate to associated persons who participate in and pass the pre-service or in-service training, and shall submit the training performance evaluation to the employer institution for reference in performance evaluation, promotion, and assignment of work. The FSC or training institution may reward those who are outstanding in performance.
+
+## Article 17
+
+An associated person who fails to participate in pre-service or in-service training, or who fails the training and furthermore fails to pass retraining within 1 year, shall have their associated person registration canceled.
+
+## Article 18
+
+Responsible persons and associated persons of a securities firm shall conduct business in accordance with the principles of honesty and good faith.
+
+Except where otherwise provided by law or regulation, responsible persons and associated persons of a securities firm may not engage in the following conduct:
+
+\1. Engaging in the trading of TWSE listed or TPEx listed stocks with information learned in the course of their duties for the purpose of obtaining speculative profit.
+
+\2. Disclosing information regarding a customer order or other secrets learned in the course of their duties, other than in response to inquiries made in accordance with laws or regulations.
+
+\3. Accepting a customer's trading order with discretionary authority over the type, quantity, price, or purchase or sale of the securities.
+
+\4. Securities trading with a guarantee of profit to the customer or involving profit-sharing with the customer.
+
+\5. Securities trading under an agreement with the customer to jointly assume the losses or profits of the transaction.
+
+\6. Accepting an order from a customer to buy or sell securities and concurrently buying or selling the same securities for his or her own account in an opposite trade.
+
+\7. Using a customer's name or account to subscribe or trade securities.
+
+\8. Subscribing or trading securities for a customer in the name of another person or a relative.
+
+\9. Borrowing or lending of money or securities to or from a customer, or acting as an intermediary for the borrowing or lending of money or securities to or from a customer.
+
+\10. Engaging in concealment, fraud, or other conduct sufficient to mislead others when conducting underwriting, proprietary trading, or brokerage trading of securities.
+
+\11. Misappropriating, or keeping custody on behalf of customers, of securities, funds, seals, or passbooks.
+
+\12. Trading securities for a customer that has not entered into a brokerage contract.
+
+\13. Trading securities other than in accordance with the instructions and conditions of the order placed by the customer.
+
+\14. Providing judgments to customers or unspecified persons that the price of certain securities will rise or fall in order to solicit trading.
+
+\15. Recommending trades in specific stocks to unspecified persons, except as necessary for purposes of securities underwriting.
+
+\16. Accepting customer settlement by means of offsetting a purchase or sale of securities with a sale or purchase of securities of the same type through the same or a different account. However, this restriction shall not apply to settlement by mutually offsetting margin purchases and short sales in margin trading, nor shall it apply to accepting customer settlement by means of mutually offsetting an equal quantity of cash purchases and spot sales of the same security that have been executed through the same account on the same business day, when done in accordance with laws and regulations.
+
+\17. Opening an account, or subscribing, trading, or settling securities as agent on behalf of another person, provided that this restriction does not apply if the responsible person or associated person is the statutory representative of the principal.
+
+\18. Processing the opening of an account, or the subscription, trading, or settlement of securities, for any director, supervisor, or employee of the securities firm who is acting as an agent on behalf of another person.
+
+\19. Processing the opening of an account for any person other than the principal for whom the account is being opened. However, this rule does not apply if the FSC has provided otherwise.
+
+\20. Processing an application for subscription, trading, or settlement of securities from any person who is neither the customer nor an agent with a power of attorney from the customer. However, this restriction does not apply when the securities firm, pursuant to a three-party agreement signed jointly between it and the customer and the securities investment consulting enterprise, accepts automatic rebalancing trades automatically executed for the customer by the securities investment consulting enterprise through a computer system.
+
+\21. Accepting a trading order despite being aware that the customer is using undisclosed information of a public company that will have a material impact on the stock price of the company or being aware that the customer intends to manipulate the market.
+
+\22. Any agreement between any person conducting securities underwriting business and the issuing company or its relevant personnel for purposes of obtaining improper profit.
+
+\23. Soliciting, acting as an intermediary for, or promoting any unapproved securities or derivative products thereof.
+
+\24. Other conduct in violation of securities laws or regulations or conduct prohibited by the rules prescribed by the FSC.
+
+Persons referred to in the preceding paragraph, when conducting business, also may not engage in any conduct prohibited by laws and regulations governing securities firms.
+
+The provisions of the two preceding paragraphs shall apply mutatis mutandis to other employees of a securities firm.
+
+## Article 18-1
+
+In supervising internal audit work, the chief internal auditor of a securities firm may not do any of the following:
+
+\1. Disclose, deliver, or make known the content of a financial examination report, in whole or in any part, to any personnel not related to the performance of duties, without FSC approval.
+
+\2. Issue any untrue internal audit report in connection with internal audit work.
+
+\3. Fail to discover any serious deficiency in financial or business operations due to the securities firm's deployment of an obviously insufficient number of, or incompetent, internal auditors.
+
+\4. Fail to follow the FSC's instructions in conducting audit work or providing relevant information.
+
+## Article 19
+
+If a responsible person or associated person of a securities firm is is suspected of violating a securities law or regulation or is subject to an inquiry regarding the performance of their duties, they shall appear before the FSC to provide explanations or submit written reports and materials within the time period set by the FSC.
+
+## Article 20
+
+An associated person of a securities firm shall be deemed to be acting under the authorization of the securities firm when engaging in the business under any subparagraph of Article 2, paragraph 2.
+
+## Article 21
+
+The FSC will reward or commend a responsible person or associated person of a securities firm for any of the following:
+
+\1. Contribution of intellect and effort toward building securities market mechanisms, with distinguished results.
+
+\2. Research or writing that contributes creative ideas to the development of the securities market or the implementation of securities business, when the ideas have been adopted and implemented.
+
+\3. Reporting any market illegality or violation that is verified as true upon investigation.
+
+\4. Service in the same securities firm for 15 consecutive years or longer with a dedicated work ethic.
+
+\5. Zealous work on behalf of the public interest and the exercise of team spirit, as proven through concrete achievements.
+
+\6. Other achievements deserving of commendation.
+
+## Article 21-1
+
+Associated persons of a securities firm who engage in the business of proprietary trading of security tokens (virtual currencies that have the nature of securities), equity crowdfunding business, brokerage business for trading and exchange of beneficial certificates of funds, or proprietary trading of specific foreign bonds shall follow applicable rules adopted by the TPEx.
+
+Responsible persons and associated persons of a securities firm who engage only in security token proprietary trading business, equity crowdfunding business, brokerage business for trading and exchange of beneficial certificates of funds, or proprietary trading of specific foreign bonds are not subject to the provisions of Articles 8 to 11-2 and Articles 15 to 17.
+
+## Article 22
+
+These Regulations shall enter into force from the date of issuance, with the exception of Article 18, paragraph 2, subparagraph 16 amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 18, paragraph 2, subparagraph 16 amended and issued on 27 June 2014, which shall enter into force from 30 June 2014, and of Article 11-3 amended and issued on 28 October 2022, which shall enter into force from 1 January 2023.
+
+## History
+
+\8. Articles 2, 10, and 16 were amended by the Securities and Exchange Commission, Ministry of Finance per its order October 5, 2000 Ref. No. (89) Taiwan-Finance-Securities(2) 04367
+
+\9. Article 4 amended and promulgated on 11 March 2002 by the Securities and Exchange Commission, Ministry of Finance, per Order Ref. No. (91) Taiwan-Finance-Securities (2) 001544
+
+\10. Twenty-two articles amended and promulgated in full on 21 February 2003 by the Securities and Exchange Commission, Ministry of Finance, per Order Ref. No. Taiwan-Finance-Securities (2) 0920000697
+
+\11. Articles 2, 13 amended and promulgated on 31 December 2003 by the Securities and Exchange Commission, Ministry of Finance, per Order No. Taiwan-Finance-Securities-(2)-0920005837
+
+\12. Articles 3, 5, 6, 9, and 10 amended and issued 15 September 2005 per Order No. Financial-Supervisory-Securities-II-0940004080 of the Financial Supervisory Commission, Executive Yuan
+
+\13. Articles 2, 3, 8, 10, and 11 amended and issued, and articles 11-1 and 11-2 added, 26 July 2006 per Order No. Financial-Supervisory-Securities-II-0950003536 of the Financial Supervisory Commission, Executive Yuan
+
+\14. Article 4 amended and issued 2 October 2007 per Order No. Financial-Supervisory-Securities-II-0960050708 of the Financial Supervisory Commission, Executive Yuan
+
+\15. Article 11-1 amended and issued 9 June 2008 per Order No. Financial-Supervisory-Securities-II-0970027055 of the Financial Supervisory Commission, Executive Yuan
+
+\16. Article 10 amended and issued and Article 18-1 added per 22 December 2008 Order No. Financial-Supervisory-Securities-II-0970067768 of the Financial Supervisory Commission, Executive Yuan
+
+\17. Article 9 amended and issued, and Article 9-1 added, per 11 October 2010 Order No. Financial-Supervisory-Securities-Firms-0990051567 of the Financial Supervisory Commission, Executive Yuan
+
+\18. Articles 4, 9, and 11 amended and issued per 6 October 2011 Order No. Financial-Supervisory-Securities-Firms-1000048545 of the Financial Supervisory Commission, Executive Yuan
+
+\19. Articles 2 to 4, 18, and 22 amended and issued per 30 December 2013 Order No. Financial-Supervisory-Securities-Firms-1020052674 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 18, paragraph 2, subparagraph 16, which shall enter into force from 6 January 2014
+
+\20. Articles 18 and 22 amended and issued per 27 June 2014 Order No. Financial-Supervisory-Securities-Trading-1030024095 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 18, paragraph 2, subparagraph 16, which shall be enforced from 30 June 2014
+
+\21. Article 21-1 added per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission
+
+\22. Articles 4, 11-1, 13, 17, and 18 amended and issued per 28 August 2015 Order No. Financial-Supervisory-Securities-Firms-1040034734 of the Financial Supervisory Commission
+
+\23. Article 21-1 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission
+
+\24. Article 10 amended and issued per 26 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364936 of the Financial Supervisory Commission
+
+\25. Article 21-1 amended and issued per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission
+
+\26. Articles 5, 6, 9-1, 11, 11-1, 12, 13, 15, and 22 amended and issued, and Article 11-3 added, per 28 October 2022 Order No. Financial-Supervisory-Securities-Firms-1110384597 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 11-3, which shall be enforced from 1 January 2023
+
+\27. Article 18 amended and issued per 6 March 2024 Order No. Financial-Supervisory-Securities-Firms-1130380965 of the Financial Supervisory Commission
+
+\28. Article 21-1 amended and issued per 8 May 2025 Order No. Financial-Supervisory-Securities-Firms-1140381704 of the Financial Supervisory Commission
+
+\29. Articles 3, 8, 10, and 11 amended and issued per 18 July 2025 Order No. Financial-Supervisory-Securities-Firms-1140382994 of the Financial Supervisory Commission

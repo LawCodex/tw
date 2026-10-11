@@ -1,0 +1,217 @@
+---
+title: "Standards Governing Eligibility of Securities for Margin Purchase and Short Sale"
+title_zh: "有價證券得為融資融券標準"
+identifier: "G0400009"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1974-04-06
+last_amended: 2025-11-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400009"
+retrieved: 2026-10-12
+---
+
+# Standards Governing Eligibility of Securities for Margin Purchase and Short Sale
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400009-standards-governing-eligibility-of-securities-for-margin-purchase-and-short-sale.md](../../../zh/regulations/financial-supervisory-commission/G0400009-standards-governing-eligibility-of-securities-for-margin-purchase-and-short-sale.md)) is authoritative.
+
+## Article 1
+
+These Standards are prescribed in accordance with Article 61 of the Securities and Exchange Act.
+
+## Article 2
+
+With respect to a common stock that has been listed on the stock exchange for a full 6 months, if the stock has a par value of NT$10 per share and the net worth per share of the stock is not less than par value, or if the stock has no par value or a par value other than NT$10 per share and the issuer has no accumulated deficit in the most recent fiscal year, the stock exchange shall publicly announce it as a stock eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
+
+With respect to a common stock, other than an OTC managed stock or an emerging stock, that has been listed on the OTC market for a full 6 months, if the stock has a par value of NT$10 per share and the net worth per share of the stock is not less than par value, or if the stock has no par value or a par value other than NT$10 per share and the issuer has no accumulated deficit in the most recent fiscal year, the OTC market shall publicly announce it as a stock eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
+
+For Taiwan depositary receipts that have been listed on the stock exchange for 6 months, if the foreign issuer did not post an accumulated deficit in either the CPA-audited and certified consolidated financial report for the most recent fiscal year or the CPA-reviewed half-year consolidated financial report (either report shall have been prepared in compliance with the laws and regulations of the issuer's home country), and if the number of units listed on the stock exchange is 60 million units or more, the stock exchange shall publicly announce the units as eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis.
+
+If any of the following conditions exist with respect to the stock or Taiwan depositary receipts referred to in the preceding three paragraphs, approval may be denied for margin purchase and short sale thereof:
+
+\1. Share price is too volatile.
+
+\2. Equity ownership is overly concentrated.
+
+\3. Trading volume is excessively abnormal.
+
+The specific standards and procedures required in the preceding four paragraphs shall be prescribed by the stock exchange and OTC market and reported to the competent authority for approval.
+
+Where the issuer of Taiwan Innovation Board listed stock that is eligible for margin purchase and short sale applies to transfer to exchange listing, or the issuer of OTC listed or exchange listed stock that is eligible for margin purchase and short sale applies to transfer from OTC listing to exchange listing or vice versa, if the stock has a par value of NT$10 per share and the net worth per share of the stock is not less than par value, or if the stock has no par value or a par value other than NT$10 per share and the issuer has no accumulated deficit in the most recent fiscal year, and there is no over-concentration of equity ownership, the stock shall be immediately eligible for margin purchase and short sale. The procedures under this paragraph shall be prescribed by the stock exchange and OTC market and reported to the competent authority for approval.
+
+The provisions of the preceding paragraph also apply to stock that is transferred to -exchange (or OTC) listing less than 6 months before this amendment enters into force.
+
+When a company with an exchange (or OTC) listing is to be converted into a financial holding company in accordance with the Financial Holding Company Act, if the stock of a financial institution to be converted into the financial holding company are eligible for margin purchase and short sale, where the financial holding company thus created is an exchange (or OTC) listed company, if the stock has a par value of NT$10 per share and the net worth per share of the stock is not less than par value, or if the stock has no par value or a par value other than NT$10 per share and the issuer has no accumulated deficit in the most recent fiscal year, and there is no over-concentration of equity ownership, its stock shall be immediately eligible for margin purchase and short sale.
+
+When a company with an exchange (or OTC) listing is to be converted into an investment holding company through a 100 percent share conversion in accordance with the Business Mergers and Acquisitions Act, if the stock of the company to be converted into the investment holding company is eligible for margin purchase and short sale, where the investment holding company thus created is an exchange (or OTC) listed company, if the stock has a par value of NT$10 per share and the net worth per share of the stock is not less than par value, or if the stock has no par value or a par value other than NT$10 per share and the issuer has no accumulated deficit in the most recent fiscal year, and there is no over-concentration of equity ownership, its stock shall be immediately eligible for margin purchase and short sale.
+
+The procedures required in the preceding two paragraphs shall be prescribed by the stock exchange and OTC market and reported to the competent authority for approval.
+
+## Article 3
+
+Where beneficial certificates have been exchange-listed (or OTC-listed) for a full 6 months, the stock exchange or OTC market shall publicly announce the certificates as eligible for margin purchase and short sale, and report same to the competent authority on a monthly basis; provided, passive exchange-traded securities investment trust fund beneficial certificates ("passive ETF beneficial certificates") and active exchange-traded securities investment trust fund beneficial certificates ("active ETF beneficial certificates") issued by a securities investment trust enterprise (SITE), exchange-traded futures trust fund beneficial certificates ("futures ETF beneficial certificates") issued by a futures trust enterprise, and the beneficial certificates, shares, or investment units of offshore passive exchange-traded funds offered and sold in Taiwan pursuant to the Regulations Governing Offshore Funds by an offshore fund manager or its designated institution ("offshore passive ETF beneficial certificates") may be exempted from the 6-month exchange (or OTC) listing requirement.
+
+With the exception of passive ETF beneficial certificates, active ETF beneficial certificates, futures ETF beneficial certificates, and offshore passive ETF beneficial certificates, the provisions in paragraphs 4 and 5 of the preceding article shall apply mutatis mutandis to beneficial certificates.
+
+## Article 4
+
+If any of the following conditions exist with respect to stock or Taiwan depositary receipts eligible for margin purchase and short sale, the stock exchange or OTC market may publicly announce suspension of margin purchase and short sale transactions in such stock, or adjust the margin purchase leverage limit or short sale margin requirement within the scope prescribed by the competent authority and report same to the competent authority for recordation:
+
+\1. The trading method for exchange-listed stock or Taiwan depositary receipts has been changed to require full delivery, or the trading method for OTC-listed stock has been changed to require pre-paid settlement.
+
+\2. Exchange-listed stock or Taiwan depositary receipts or OTC-listed stock is suspended from trading.
+
+\3. Exchange-listed stock or Taiwan depositary receipts or OTC-listed stock is delisted from the exchange or the OTC market.
+
+\4. Exchange-listed or OTC-listed stock has a par value of NT$10 per share and the net worth per share is below par value, or has no par value or a par value other than NT$10 per share and the issuer has an accumulated deficit.
+
+\5. In either the CPA-audited and certified consolidated financial report for the most recent fiscal year or the CPA-reviewed half-year consolidated financial report (either report shall have been prepared in compliance with the laws and regulations of the issuer's home country), the issuer of foreign securities evidenced by Taiwan depositary receipts has posted an accumulated deficit.
+
+\6. Taiwan depositary receipts number less than 60 million exchange-listed units following a redemption.
+
+\7. There has been a major default on the exchange-listed stock or Taiwan depositary receipts, or OTC-listed stock, and the balance of margin purchases or short sales meets or exceeds a prescribed ratio.
+
+\8. The stock price is too volatile.
+
+\9. Equity ownership is overly concentrated.
+
+\10. Trading volume is excessively abnormal.
+
+\11. There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
+
+Where margin purchase and short sale transactions are suspended or the margin purchase leverage limit or short sale margin requirement is adjusted in accordance with the provisions of the preceding paragraph, if the reason for suspension or adjustment no longer exists, the stock exchange or OTC market shall publicly announce reinstatement and report same to the competent authority for recordation.
+
+The specific standards and procedures required in the preceding two paragraphs shall be prescribed by the stock exchange and OTC market and reported to the competent authority for approval.
+
+## Article 5
+
+If any of the following conditions exist with respect to beneficial certificates eligible for margin purchase and short sale, the stock exchange or OTC market may publicly announce suspension of margin purchase and short sale transactions in such certificates, or adjust the margin purchase leverage limit or short sale margin requirement within the scope prescribed by the competent authority, and report same to the competent authority for recordation:
+
+\1. Delisting has taken place.
+
+\2. Financial reports have not been punctually filed and publicly announced in accordance with requirements.
+
+\3. A situation set out in Article 96, paragraph 1 of the Securities Investment Trust and Consulting Act exists with respect to the securities investment trust enterprise managing the securities investment trust fund, or a situation set out in Article 38, paragraph 1 of the Regulations Governing Futures Trust Enterprises exists with respect to the futures trust enterprise managing the futures ETF.
+
+\4. The price is too volatile.
+
+\5. Beneficial ownership is overly concentrated.
+
+\6. Trading volume is excessively abnormal.
+
+\7. There is another situation that makes it unadvisable to continue margin purchase and short sale transactions.
+
+Where margin purchase and short sale transactions are suspended or the margin purchase leverage limit or short sale margin requirement is adjusted in accordance with the provisions of the preceding paragraph, if the reason for suspension or adjustment no longer exists, the stock exchange or OTC market shall publicly announce reinstatement and report same to the competent authority for recordation.
+
+The specific standards and procedures required in the preceding two paragraphs shall be prescribed by the stock exchange and OTC market and reported to the competent authority for approval.
+
+The provisions of subparagraphs 4 to 6 of paragraph 1 do not apply to passive ETF beneficial certificates, active ETF beneficial certificates, and futures ETF beneficial certificates. The provisions of subparagraphs 3 to 6 of paragraph 1 do not apply to offshore passive ETF beneficial certificates.
+
+## Article 6
+
+When the balance of margin purchases or short sales in a given stock that is eligible for margin purchase and short sale transactions reaches a certain percentage limit of the total exchange-listed or OTC-listed shares of that stock as set forth by the competent authority, margin purchases and short sales shall be suspended. Margin purchases and short sales shall be reinstated when the balance falls back below the percentage as set forth by the competent authority.
+
+In order to implement the provisions set out in the preceding paragraph, the stock exchange and OTC market may conduct allocation and report same to the competent authority for recordation. When a securities finance enterprise or a securities firm handling margin purchases and short sales of securities conducts a margin purchase or short sale, the volume of the transaction may not exceed the volume of securities allocated by the stock exchange or OTC market for margin purchase and short sale.
+
+The provisions of the preceding two paragraphs apply mutatis mutandis to beneficial certificates; provided, the calculation of the number of beneficial units shall be done on the basis of the total number of issued beneficial units as of the preceding business day for passive ETF beneficial certificates, active ETF beneficial certificates, and futures ETF beneficial certificates, and on the basis of the total number of beneficial units offered and sold in Taiwan as of the preceding business day for offshore passive ETF beneficial certificates.
+
+The provisions of paragraphs 1 and 2 apply mutatis mutandis to Taiwan depositary receipts; provided, the calculation of the number of listed units of Taiwan depositary receipts shall be done on the basis of the total number of units as of the preceding business day after redemption.
+
+## Article 7
+
+Securities finance enterprises, and securities firms that handle margin purchases and short sales of securities, shall submit data each afternoon on the daily balances of margin purchases and short sales in each type of securities to the stock exchange and OTC market. The stock exchange and OTC market shall compile such information, publicly announce it before the opening of market on the next business day, and notify securities brokers to post the same at their places of business.
+
+When margin purchase and short sale transactions are suspended or reinstated by the stock exchange or OTC market pursuant to Article 6 herein, the suspension or reinstatement shall be implemented on the day of public announcement placed by the method referred to in the preceding paragraph.
+
+## Article 8
+
+These Standards shall enter into force from the date of issuance.
+
+## History
+
+\1. Adopted per 6 April 1974 Letter No. Securities-Supervision-III-0532 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\2. Amended and issued per 20 September 1974 Letter No. Securities-Supervision-III-1565 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\3. Amended and issued per 6 July 1976 Letter No. Securities-Supervision-III-0780 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\4. Amended and issued per 5 February 1977 Letter No. Securities-Supervision-III-0134 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\5. Amended and issued per 23 October 1980 Letter No. Securities-Supervision-III-1363 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\6. Amended and issued per 21 March 1981 Letter No. Securities-Supervision-III-0297 of the Securities and Exchange Commission, Ministry of Economic Affairs
+
+\7. Amended and issued per 23 July 1981 Letter No. Securities-Supervision-III-0166 of the Securities and Exchange Commission, Ministry of Finance
+
+\8. Amended and issued per 6 August 1981 Letter No. Securities-Supervision-III-0243 of the Securities and Exchange Commission, Ministry of Finance
+
+\9. Amended and issued per 7 September 1981 Letter No. Securities-Supervision-III-0424 of the Securities and Exchange Commission, Ministry of Finance
+
+\10. Amended and issued per 1 June 1982 Letter No. Securities-Supervision-III-0842 of the Securities and Exchange Commission, Ministry of Finance
+
+\11. Amended and issued per 29 June 1982 Letter No. Securities-Supervision-III-1011 of the Securities and Exchange Commission, Ministry of Finance
+
+\12. Articles 4 and 6 amended and issued per 18 September 1982 Order No. Securities-Supervision-III-1686 of the Securities and Exchange Commission, Ministry of Finance
+
+\13. Amended and issued per 5 February 1983 Order No. Taiwan-Finance-Securities-III-0233 of the Securities and Exchange Commission, Ministry of Finance
+
+\14. Article 4 amended and issued per 19 March 1983 Order No. Taiwan-Finance-Securities-(III)-0510 of the Securities and Exchange Commission, Ministry of Finance
+
+\15. Amended and issued per 1 November 1984 Order No. Taiwan-Finance-Securities-(III)-3038 of the Securities and Exchange Commission, Ministry of Finance
+
+\16. Article 4 amended and issued per 11 July 1985 Order No. Taiwan-Finance-Securities-(III)-00834 of the Securities and Exchange Commission, Ministry of Finance
+
+\17. Amended and issued per 15 October 1990 Order No. Taiwan-Finance-Securities-(III)-02628 of the Securities and Exchange Commission, Ministry of Finance
+
+\18. Amended and issued per 22 December 1992 Order No. Taiwan-Finance-Securities-(IV)-03288 of the Securities and Exchange Commission, Ministry of Finance
+
+\19. Articles 2 and 4 amended and issued per 8 March 1996 Order No. Taiwan-Finance-Securities-(IV)-17417-1 of the Securities and Exchange Commission, Ministry of Finance
+
+\20. Full text of 9 articles amended and issued per 2 July 1996 Order No. Taiwan-Finance-Securities-(IV)-40263-2 of the Securities and Exchange Commission, Ministry of Finance
+
+\21. Articles 2 and 9 amended and issued and Article 4 deleted per 21 October 1997 Order No. (86)-Taiwan-Finance-Securities-(IV)-04798 of the Securities & Futures Commission, Ministry of Finance
+
+\22. Full text of 8 articles amended and issued per 30 December 1998 Order No. (87)-Taiwan-Finance-Securities-(IV)-03768 of the Securities & Futures Commission, Ministry of Finance
+
+\23. Articles 2 and 4 amended and issued per 6 March 2000 Order No. (89)-Taiwan-Finance-Securities-(IV)-00726 of the Securities & Futures Commission, Ministry of Finance
+
+\24. Article 2 amended and issued per 15 May 2000 Order No. (89)-Taiwan-Finance-Securities-(IV)-01311 of the Securities & Futures Commission, Ministry of Finance
+
+\25. Article 2 amended and issued per 16 November 2001 per Order No. (90)-Taiwan-Finance-Securities-(IV)-006113 of the Securities & Futures Commission, Ministry of Finance
+
+\26. Article 2 amended and issued per 13 May 2002 Order No. (91)-Taiwan-Finance-Securities-(IV)-002898 of the Securities & Futures Commission, Ministry of Finance
+
+\27. Article 4 amended and issued per 2 August 2002 Order No. Taiwan-Finance-Securities-IV-0910004153 of the Securities & Futures Commission, Ministry of Finance
+
+\28. Articles 3, 5, and 6 amended and issued 8 May 2003 per Order No. Taiwan-Finance-Securities-IV-0920001981 of the Securities & Futures Commission, Ministry of Finance
+
+\29. Articles 2 and 5 amended and issued per 27 December 2004 Order No. Financial-Supervisory-Commission-IV-0930006222 of the Financial Supervisory Commission, Executive Yuan
+
+\30. Full text of 8 articles amended and issued per 29 September 2006 Order No. Financial-Supervisory-Securities-IV-0950004518 of the Financial Supervisory Commission, Executive Yuan
+
+\31. Article 6 amended and issued per 14 October 2008 Order No. Financial-Supervisory-Securities-IV-0970053870 of the Financial Supervisory Commission, Executive Yuan
+
+\32. Articles 3, 5 and 6 amended and issued per 22 July 2009 Order No. Financial-Supervisory-Securities-SITC-0980036050 of the Financial Supervisory Commission, Executive Yuan
+
+\33. Article 2 amended and issued per 16 August 2010 Order No. Financial-Supervisory-Securities-SITC-0990043111 of the Financial Supervisory Commission, Executive Yuan
+
+\34. Articles 2, 4, and 8 amended and issued per 27 July 2012 Order No. Financial-Supervisory-Securities-SITC-1010033473 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance, except for Article 2, paragraph 2, subparagraph 3, item B, which shall enter into force from fiscal 2013
+
+\35. Articles 3, 5, and 6 amended and issued per 25 April 2014 Order No. Financial-Supervisory-Securities-Futures-1030012154 of the Financial Supervisory Commission
+
+\36. Article 2 amended and issued per 5 August 2020 Order No. Financial-Supervisory-Securities-SITC-1090350291 of the Financial Supervisory Commission
+
+\37. Article 2 amended and issued per 29 March 2021 Order No. Financial-Supervisory-Securities-Corporate-1100335023 of the Financial Supervisory Commission
+
+\38. Articles 2 and 8 amended and issued per 28 December 2023 Order No. Financial-Supervisory-Securities-SITC-1120364320 of the Financial Supervisory Commission; for enforcement from 1 January 2024
+
+\39. Full text of 8 articles amended and issued per 25 December 2024 Order No. Financial-Supervisory-Securities-SITC-1130386527 of the Financial Supervisory Commission; for enforcement from the date of issuance
+
+Corrigendum per 21 January 2025 Letter No. Financial-Supervisory-Securities-SITC-1140380282 of the Financial Supervisory Commission
+
+\40. Articles 2, 4, and 5 amended and issued per 14 November 2025 Order No. Financial-Supervisory-Securities-SITC-1140385196 of the Financial Supervisory Commission

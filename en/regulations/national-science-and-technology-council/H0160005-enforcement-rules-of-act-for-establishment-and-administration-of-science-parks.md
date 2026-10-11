@@ -1,0 +1,233 @@
+---
+title: "Enforcement Rules of Act for Establishment and Administration of Science Parks"
+title_zh: "科學園區設置管理條例施行細則"
+identifier: "H0160005"
+type: regulation
+law_level: "命令"
+category: "行政＞國家科學及技術委員會＞園區目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1981-06-19
+last_amended: 2023-12-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0160005"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Act for Establishment and Administration of Science Parks
+
+> Translation. The Chinese text ([zh/regulations/national-science-and-technology-council/H0160005-enforcement-rules-of-act-for-establishment-and-administration-of-science-parks.md](../../../zh/regulations/national-science-and-technology-council/H0160005-enforcement-rules-of-act-for-establishment-and-administration-of-science-parks.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are enacted in accordance with the provisions of Article 36 of the Act for Establishment and Administration of Science Parks (hereinafter referred to as the "Act")
+
+## Article 2
+
+The requirement set out in Paragraph Two, Article 4 of the Act that the funds invested by a science-based enterprise in R&D activities shall account for a specific proportion to the total turn-over of the said science-based enterprise shall mean that the average proportion of the R&D funds invested by a science-based enterprise to its aggregate turn-over in the first three years after operation at the science park has reached a level which is more than three times as much as the proportion achieved by the nation-wide manufacturing industries as a whole two years ago as revealed in the Indicators of Science and Technology published by the National Science and Technology Council (hereinafter referred to as the “NSTC”).
+
+## Article 3
+
+The enterprises engaging in providing operation, management or technical services as set forth in Paragraph One, Article 5 of the Act include the following enterprises:
+
+1.Power plants, suppliers of special-purpose gases, and enterprises engaging in providing environment protection, water treatment, measurement and inspection services, or other specialized technology-based enterprises such as information or communication services.
+
+2.Enterprises engaging in providing warehousing and transportation, bond or logistics, or other services.
+
+3.Other enterprises approved by the Science Park Council (hereinafter referred to as the "Council") under the Ministry of Science and Technology.
+
+The locations of the above-mentioned enterprises in a science park shall be decided by the Science Park Bureaus (hereinafter referred to as the "Park Bureaus ").
+
+## Article 4
+
+The Term "research institutions" as set forth in Paragraph Two, Article 5 of the Act shall refer to the government institutions or juristic persons mainly engaging in science and technology or industrial R&D activities; and the term "innovation incubator centers" as set forth in the same Paragraph shall refer to the government institutions or juristic persons which provide space, equipment, and professional consulting, technology transfer, and operation and management services to assist the science-based enterprise using the foregoing services and assistance at the incubator centers to work out their respective business innovation, research, and development plans.
+
+## Article 5
+
+The term "innovation and development of science and technology research" as set forth in Subparagraph 3, Paragraph One, Article 6 of the Act shall refer to the following activities:
+
+\1. Introduction of new technologies from abroad.
+
+\2. Review and promotion of the R&D activities being carried out by science-based enterprise.
+
+\3. Promotion of technology exchange among park enterprises.
+
+\4. Provision of incentives and assistance to park enterprises that carry out R&D activities.
+
+\5. Organizing academic lecturers or seminars on special topics.
+
+\6. Other relevant activities in connection with promotion of innovation and development of science and technology research.
+
+## Article 6
+
+The term " licence issuance of factory and business registration " as set forth in Subparagraph 15, Paragraph One, Article 6 of the Act shall refer to of the following registrations by the Park Bureaus:
+
+\1. Company registration.
+
+\2. Commercial registration.
+
+\3. Factory registration.
+
+\4. Other registrations or permits required by the law or under any administrative order given with legal authorization.
+
+## Article 7
+
+Management of the matters under the charge of the Park Bureaus as set out under Subparagraphs 3, 4, 6 through 8, 16, 18, 21, 23 through 28, 30 and 31 of Paragraph One, Article 6 of the Act may be commissioned to appropriate private entities for handling, whenever such delegation is deemed necessary.
+
+## Article 8
+
+Warehousing facilities or park enterprises may concurrently handle customs clearance operations in accordance with the law and may establish bonded warehouses or distribution centers in the park concerned.
+
+## Article 9
+
+The term "in-park investment applications" as set forth in Subparagraph 3, Paragraph One, Article 8 of the Act shall refer to the applications to be filed by ROC nationals, overseas compatriots or foreign nationals for making investment in the incorporation or establishment, for increasing the equity capital, or for the combined operation or merger of park enterprises, research institutes and innovation incubators and the applications for approval of other investment related matters in accordance with relevant provisions set out in the Act, the Act for Investment by overseas compatriots, or the Act for Investment by Foreign Nationals.
+
+Except for the application, for investment in the incorporation of a park enterprise; research institutes; and incubation centers, which shall be subject to the approval of the Park Council, all other applications set forth in the preceding Paragraph may be approved by the Park Bureaus, and a report of such approvals shall be filed with the Park Council for recordation.
+
+## Article 10
+
+Under Paragraph Four, Article 13 of the Act, the term “public facilities construction expense” refers to the costs incurred by the Park Bureau for the construction of roads, transportation facilities, underground pipelines, road lighting, sewage facilities, water and electricity supply facilities, landscape facilities, and other infrastructures.
+
+The lessee shall pay the actual expenses mentioned in the preceding paragraph, in addition to the rent, at a rate determined by the rented area and the rentable land area ratio, over 20 annual installments.
+
+## Article 11
+
+The term "specifically defined in the master plan of the Hsinchu Science Park " as set forth in Paragraph One, Article 14 and the term "specific areas for science parks" as set forth in Article 15 of the Act shall refer to those specific area zoning plan(s) formulated by governmental authorities at various levels in support of the development of a science park and officially approved and published for implementation.  The term "acquisition of land" as set forth in the same Articles hereinabove mentioned shall refer to the acquisition of the title to a piece of land or the right to use the same.
+
+## Article 12
+
+The term "improper use of factory buildings or relevant buildings" as set forth in Subparagraph 2, Paragraph Two, Article 19 of the Act shall refer to any of the following situations:
+
+\1. The factory buildings or relevant buildings are used in a manner likely to endanger public safety or sanitation;
+
+\2. The factory buildings are not used in accordance with the original plan;
+
+\3. Half or more of the factory buildings or warehouses remain unused for a period exceeding the duration prescribed by the Park Bureaus ; or
+
+\4. Other facts of improper use found by the Park Bureaus.
+
+## Article 13
+
+The term "exorbitant selling price" as set forth in Subparagraph 3,  Paragraph Two, Article 19 of the Act shall refer to the price offered for sale of an in-park building which, after deducting its depreciable value calculated based on the selling price of a newly constructed building of the same specifications, is 10% higher than the depreciated value of such newly constructed building of the same structure.
+
+## Article 14
+
+Tax benefits enjoyable by a distinct science-based enterprise before its involvement in a corporate merger/consolidation project which have yet to expire or be fully offset shall include the tax benefits enjoyable by the said extinct industry before December 31, 1999 in accordance with the Act or other applicable laws and regulations.
+
+If, after completion of a merger/consolidation project, the surviving or the newly established science-based enterprise succeeds, in accordance with the provisions of Paragraph One, Article 21 of the Act, to the tax benefits enjoyable by the extinct science-based enterprise, a separate account book with respect to the assets and business of the extinct science-based enterprise shall be established and be used as the basis for calculating the actual creditable sales income of or taxes payable for the products or services independently manufactured or provided by the extinct science-based enterprise.
+
+The account book established under the preceding Paragraph shall contain full information and independent calculations of the sales, the cost of sales and the gross profit earned by the distinct science-based enterprise. Beside, respective accurate and reasonable shares of the administration fee and non-operating profit and loss originally contributable by the extinct science-based enterprise should also be revealed.
+
+## Article 15
+
+A bonded area designated under Article 22 of the Act shall be regarded as the area within which the taxation provisions governing bonded goods set forth in the Act shall apply. The different bonded areas in the same science park may be categorized into a single bonded area. The rules governing customs clearance operation applicable to such areas shall be separately formulated by the Customs.
+
+## Article 16
+
+The duty-free raw materials, supplies, and semi-finished products imported under Paragraph Two, Article 23 of the Act shall include apparatuses and implements used in production.
+
+The duty-free fuels imported under Paragraph Two, Article 23 of the Act shall be limited to those to be directly used in production by park enterprises in the bonded area.
+
+The park enterprises, which imported from abroad finished goods for trading purposes, under Paragraph Two, Article 23 of the Act, shall mean those that have duly registered additionally for listed trading items, under their concurrent operation, relating to the business thereof.
+
+The act "export of products or services by a park enterprise" as referred to in Paragraph Three, Article 23 of the Act shall include the following situations:
+
+\1. Transactions among park enterprises and those between park enterprises and their foreign customers, enterprises in domestic export processing zones, enterprises of Agricultural Science & Technology parks, and bonded factories;
+
+\2. The sale of products by any park enterprise to exporters for direct export or for storage in bonded warehouses or logistics centers for pending exportation; and
+
+\3. The sale of products by any park enterprise to enterprises of a free harbor zone for operation purposes.
+
+## Article 17
+
+Duty-free vehicles imported by park enterprises may be put into use or allowed to run only within the bonded area of the science park and shall be marked with the words "This vehicle is authorized to run within the Bonded Area of the Science Parks Only" at conspicuous places on all sides of such vehicles with inerasable paint and in typeface easy to discern.
+
+## Article 18
+
+Where a park enterprise is importing or exporting products by sea or air transportation, the Park Bureaus may demand the harbor or airport authority’s consent on ship-side or airplane-side delivery at no additional charge of any warehousing fee.
+
+## Article 19
+
+A park enterprise intending to sell any self-use machines and equipment imported from abroad that was originally exempted from import duties, commodity tax, and business tax to a buyer located outside the bonded area shall get an approval for such sale from the Park Bureaus provided that any of the following situations exists:
+
+\1. The park enterprise no longer needs such machinery or equipment due to change of its production plan;
+
+\2. The park enterprise has declared its dissolution;
+
+\3. The court has ordered a compulsory execution against the park enterprise for its performance of debts;
+
+\4. The park enterprise is ordered by the Park Bureaus or its branch offices to move out of the park area;
+
+\5. Old machines and equipment need to be phased out; and
+
+\6. Any special situation caused by the operation thereof.
+
+## Article 20
+
+The proper causes required under Paragraph One, Article 26 of the Act shall refer to any of the following circumstances:
+
+\1. Loss is incurred due to earthquake, typhoon, flood, fire, drought, insects, war and other acts of God, and loss incurred during transportation;
+
+\2. Loss is incurred due to theft;
+
+\3. Errors in the records of inventoried raw materials, products under manufacturing, semi-finished products, and finished products in stock, which have not been subject to spot check, are discovered after the inventory-taking process;
+
+\4. The actual quantities of bonded raw materials, products under manufacturing, semi-finished products, samples, and finished products in stock taken after inventory-taking process do not correspond to those recorded in the stock record books;
+
+\5. Material attrition actually generated in the course of production does not exceed the attrition rate approved by the customs office;
+
+\6. Material attrition resulted from inspection conducted by the inspection and test laboratory;
+
+\7. Material attrition resulted in the course of R&D activities;
+
+\8. Material attrition otherwise resulted on account of the properties of products.
+
+## Article 21
+
+The term "park enterprises" as used in Paragraph One, Article 29 of the Act shall refer as following：
+
+\1. Science-based enterprise and the enterprises that have been officially approved for establishment in the park for providing operation, administration, and technical services;
+
+\2. Incubation centers;
+
+\3. Research institutes; and
+
+4.The branch offices and divisions set up in accordance with Subparagraphs 3 through 5, Paragraph 1, Article 9 of the Act, and the service businesses having entered into contracts with the Park Bureaus.
+
+## Article 22
+
+The Park Bureaus or its branch offices may establish sanitation corps and a fire brigade to maintain environmental sanitation and to meet fire prevention and fire fighting requirements, respectively.
+
+The organizational structure of the sanitation corps and the fire brigade to be formed under the preceding Paragraph and the pay scale for the crew members thereof shall be formulated by the Park Bureaus and shall be filed through the NSTC with the Executive Yuan for approval.
+
+## Article 23
+
+The Enforcement Rules shall come into force from the date of promulgation.
+
+## History
+
+1.Promulgated on June 19, 1981
+
+2.Amended on May 20, 1987
+
+3.Amended on October 16, 1987
+
+4.Amended on July 1, 1994
+
+5.Amended on April 5, 2000
+
+6.Amended on December 28, 2001
+
+7.Amended on November 24, 2004
+
+8.Amended on April 10, 2009
+
+9.Amended on July 1, 2014
+
+10.Amended on December 6, 2018
+
+11.Amended on September 2, 2022
+
+12.Amended on December 20, 2023

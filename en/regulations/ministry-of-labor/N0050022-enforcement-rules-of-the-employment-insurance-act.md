@@ -1,0 +1,385 @@
+---
+title: "Enforcement Rules of the Employment Insurance Act"
+title_zh: "就業保險法施行細則"
+identifier: "N0050022"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-01-01
+last_amended: 2025-12-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050022"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Employment Insurance Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0050022-enforcement-rules-of-the-employment-insurance-act.md](../../../zh/regulations/ministry-of-labor/N0050022-enforcement-rules-of-the-employment-insurance-act.md)) is authoritative.
+
+## Article 1
+
+Procedures herein are defined pursuant to Article 43 of Employment Insurance Law (hereafter referred to as the Law).
+
+## Article 2
+
+Affairs of the Employment Insurance (hereinafter referred to as the Insurance), pursuant to Paragraph 1 Article 3 of the Act, shall be supervised by the Central Competent Authority, which shall supervise the following items:
+
+1.Items of the annual Insurance work plan and examination of the annual general report.
+
+2.Items of the annual Insurance budget and examination of the budget.
+
+3.Items of management of the Insurance fund and examination of its use.
+
+4.Other items relating to supervision of the Insurance.
+
+If necessary, during examination of the above items of supervision by the Central Competent Authority, academics, experts, and other relevant representatives shall be invited to attend.
+
+## Article 3
+
+The Insurer and the Bureau of Labor Funds (hereinafter referred to as the BLF) shall each send the below documents to the Central Competent Authority for future reference:
+
+1.Insured establishments, the number of insured persons, and insurance salary statistical tables.
+
+2.Insurance payments statistical table.
+
+3.Insurance income and expenditure accounting tables.
+
+4.Insurance fund use status table.
+
+## Article 4
+
+（Deleted）
+
+## Article 5
+
+When the insured person and the insured establishment dispute any of the items listed below in a case ratified by the Insurer, pursuant to Paragraph 2, Article 3 of the Act, an application for examination should be made to the Central Competent Authority:
+
+1.Items relating to qualification of the insured person or qualification for insurance.
+
+2.Items relating to the insured person』s insurance salary or annual salary.
+
+3.Items relating to insurance premium or penalties.
+
+4.Items relating to insurance benefits.
+
+5.Items relating to other insurance rights and benefits.
+
+Persons applying for examination of the above items, within sixty days of receipt of the Insurer's written notification of ratification, should fill out an application form for examination of employment insurance disputed items, and append relevant documentation for the Insurer to apply to the Central Competent Authority for examination.
+
+Applicants for examination of preceding paragraph should apply to the Regulations of the Settlement for Labor Insurance Disputes.
+
+## Article 6
+
+For an insured person who qualifies under Article 5, Paragraph 1 regulations of the Law, who does not participate in labor insurance, the insured establishment should pay his insurance premium by automatic transfer through a financial institution recognized by the, the payment to be automatically transferred at the end of the following month.
+
+## Article 7
+
+A laborer referred to in Article 6, Paragraph 2 of the Law who already participates in the labor insurance before the Law comes into effect, pursuant to Article 5, Paragraph 1 regulations of the Law should be a laborer who participates in the Insurance and had participated in labor insurance before the Law was promulgated.
+
+## Article 8
+
+Pursuant to Paragraph 3, Article 6 of the Act, when a laborer registered at an insured establishment applies for participation in the Insurance, unless government agencies (institutions), public schools, and he completes the application using the online application system provided by a government agency (institution), he should complete an insurance application form and an extended coverage application form, submit both to the Insurer, and attach a photocopy of the front and reverse sides of the responsible person’s national identity card and photocopies of the following related documentation from the relevant industrial competent authority:
+
+1.Factory: The relevant factory registration documents.
+
+2.Mine: Mine registration certificates, permits for mining or prospecting, or relevant supporting documents.
+
+3.Salt, ranges, pastures, forest, and tea plantations: Registration certificates or relevant supporting documents.
+
+4.Transportation: Transport enterprise permits or relevant supporting documents.
+
+5.Public utility: Utility permits or relevant supporting documents.
+
+6.Company or corporate: Company registration certificates or business registration certificates.
+
+7.Private schools, news media, cultural entities, public-interest entities, cooperative entities, vocational training institutions, and civil societies of various industries: Registration permits or registration certificates.
+
+8.The person planning to run in election and candidates for central or local public office elections: The Control Yuan's Letters of Approval to open accounts for political donations, the official letters or equivalent supporting documents sufficiently indicating the acceptance and registration of candidate by the corresponding Election Committee.
+
+9.The elected candidates for central or local public office elections: The certificates of election.
+
+10.Others: Practice licenses or relevant registration, approval, or reference documents.
+
+If the insured unit is unable to obtain the supporting documents in the preceding Paragraph according to the regulations, it shall apply for registration (change) of the withholding unit issued by the tax collection authority, or use the uniform invoice certificate to proceed to the insurance application procedures.
+
+## Article 8-1
+
+When an insured unit files an enrollment application for its employees falling under the categories listed below, in addition to complying with the preceding article, it shall also submit the relevant supporting documents required for each category:
+
+1.For those covered under Subparagraph 2, Paragraph 1, Article 5 of the Act: a copy of a valid document with proof of residency in Taiwan.
+
+2.For those covered under Paragraph 1, Article 25 of the Act for the Recruitment and Employment of Foreign Professionals: a copy of a valid permanent residence document in Taiwan, along with relevant supporting documents proving status as a foreign professional, foreign specialist professional, or foreign senior professional.
+
+Where the ROC national identification card is required as prescribed in these enforcement rules, the ROC alien residence certificate for the insured described in the preceding paragraph shall be needed.
+
+## Article 8-2
+
+The foreign national, Mainland Chinese citizen, Hong Kong citizen or Macao citizen married to an ROC citizen and having acquired legal residency in ROC prescribed in Subparagraph 2, Paragraph 1, Article 5 of the Act includes those who continue to reside in ROC in accordance with the law after divorce or their spouse becomes deceased.
+
+## Article 9
+
+An insured establishment defined in Paragraph 3, Article 6 of the Act, in the event of any of the circumstances below should fill out an Insured Establishment Item Amendment Application Form within 30 days of the occurrence of the event, attach photocopies of relevant documentation, and submit them to the Insurer for amendment:
+
+1.The name, address, or contact address of the insured establishment changes.
+
+2.The person responsible for the insured establishment changes.
+
+In the event that an insured establishment did not apply for amendments according to the procedures listed in the previous paragraph, the insurer may make the amendments according to the registered information from relevant authorities.
+
+## Article 10
+
+If the name, date of birth, and/or national ID number of the insured is changed or incorrect, the insured shall immediately notify the insured unit to which it affiliates.
+
+If the relevant personal information of the insured in the preceding Paragraph is changed or incorrect, the insured unit shall immediately fill in the application for the change of the insured, and attach it with a copy of the front and back of the national ID card or relevant supporting documents and submit all of them to the insurer for verification.
+
+If the insured fails to notify the insured unit to which it affiliates by the provisions of Paragraph 1, or the insured unit fails to submit relevant documents to the insurer by the provisions of the preceding Paragraph, the insurer may make a change by the information registered by the relevant authorities.
+
+## Article 11
+
+An insured establishment should prepare the employee roster, record of work attendance, and annual salary bookkeeping for inspection by the competent authority, the insured person, and the public employment service institution pursuant to Article 7 regulations of the Law, and keep them on record for five years after the insured person leaves the establishment.
+
+The above employee roster shall separately record the following matters:
+
+1.Name, date of birth, address, and national ID number.
+
+2.Starting date of employment.
+
+3.Type of work.
+
+4.Work hours and pay.
+
+5.The reason and period of leave without pay.
+
+## Article 12
+
+When the insurer approves the application from an insured person for the unemployment benefits, early reemployment incentive, vocation training living allowance or parental leave allowance defined in Item 1 to Item 4 of Paragraph 1 of Article 10 of this Act, the insurer shall transfer the said benefits to the insured person's personal account in a domestic bank specified by the insured person.
+
+## Article 12-1
+
+Interest that should be added in overdue allowance prescribed in Article 22-1 herein shall be based on fixed interest rate on January 1st every year for a one-year postal saving time deposit, calculated in NT dollars per day, and NT dollars below 0.1 shall be rounded.
+
+The preceding required expenses shall be prepared for public budget by the insurer.
+
+## Article 13
+
+When an insured person claims unemployment benefit according to Subparagraph 1, Paragraph 1, Article 11 of the Act should prepare the following documents:
+
+\1. Unemployment status examination (confirmation), unemployment benefits application form and benefit receipt.
+
+\2. Employment separation certificate or proof of fix term contract.
+
+\3. National identification card or the copy of other identification proof.
+
+\4. A copy of the insured's personal bank passbook with any domestic financial institution. This is not required, however, if the account for payment is the same as the one for vocational training living allowances.
+
+\5. For those with physical or mental disabilities, a certificate of physical or mental disability issued by social welfare administrative authority should also be enclosed.
+
+\6. If there is any dependent, the following documents shall also be enclosed:
+
+(1) A copy of the household registration book of the dependents or the copy of other identification proof documents.
+
+(2) For those whose children are physically or mentally disabled, a certificate of physical or mental disability issued by social welfare administrative authority should also be enclosed.
+
+7.Foreign professionals, foreign specialist professionals, or foreign senior professionals shall additionally enclose a copy of a valid permanent residency document.
+
+## Article 14
+
+An insured person applying for the early reemployment incentive according to Subparagraph 2, Paragraph 1 of Article 11 of this Act shall provide the following documents:
+
+1.Early Reemployment Incentive Application Form and benefit receipt.
+
+2.A photocopy of a passbook issued by a domestic financial institution, which should be in the name of the insured. This is not required, however, if the account for the incentive payment is the same as the one for unemployment benefit payment.
+
+## Article 14-1
+
+Pursuant to Paragraph 2, Article 11 of the Act, an insured person eligible to apply for the early reemployment incentive in accordance with Subparagraph 2, Paragraph 1, Article 11 of the Act does not include persons who are reemployed by the original insured establishment and join this Insurance before the term of unemployment benefit ends.
+
+## Article 14-2
+
+According to Subparagraph 2, Paragraph 1, Article 11 of the Act, insured persons who have enrolled in the employment insurance program for at least three months will be ineligible to include the period while receiving unemployment benefits into the total insurance period.
+
+## Article 15
+
+The insured person who wish to claim vocation training living allowance according to Subparagraph 3, Paragraph 1, Article 11 of the Act shall prepare the following documents:
+
+\1. Vocational Training Living Allowance application form and benefit receipt.
+
+\2. Employment separation certificate.
+
+\3. National identification card or the copy of other identification proof.
+
+\4. A copy of the insured's personal bank passbook with any domestic financial institution. This is not required, however, if the account for payment is the same as the one for vocational training living allowances.
+
+\5. If there is any dependent, the following documents shall also be enclosed:
+
+(1) A copy of the household registration book of the dependents or the copy of other identification proof documents.
+
+(2) For those whose children are physically or mentally disabled, a certificate of physical or mental disability issued by social welfare administrative authority should also be enclosed.
+
+\6. Foreign professionals, foreign specialist professionals, or foreign senior professionals shall additionally enclose a copy of a valid permanent residency document.
+
+## Article 16
+
+Full-time vocational training defined in Subparagraph 3, Paragraph 1, Article 11 of the Act must meet the following requirements:
+
+1.The period of vocational training must be at least one month.
+
+2.There must be at least four training classes a week.
+
+3.Each training class must be at least four hours during the day.
+
+4.The total hours of training classes must be at least 100 a month.
+
+## Article 16-1
+
+An insured person applying for parental leave allowance according to Item 4 of Paragraph a pf Article 11 of this Act shall prepare the following documents:
+
+1.The Parental Leave Allowance Application Form and Benefits Receipt.
+
+2.A duplicate of the household registration of the insured and the dependents, or other sufficient proof of identity.
+
+3.Proof of parental leave without pay.
+
+4.A duplicate of the insured person's personal bank passbook for a domestic bank.
+
+\5. Foreign professionals, foreign specialist professionals, or foreign senior professionals shall additionally enclose a copy of a valid permanent residency document.
+
+## Article 16-2
+
+To apply for various insurance benefits by the provisions of the Act, the attached identity certificate,within six months, shall be verified by the following units if such documents are prepared outside the premise of government agencies (institutions) of the Republic of China:
+
+1.Prepared overseas: To be verified by ROC embassies abroad; those prepared at foreign embassies and consulates in Taiwan or authorized institutions shall be re-verified by the Ministry of Foreign Affairs.
+
+2.Prepared in Mainland China: To be verified by the agency established or designated by the Executive Yuan or the non-governmental organization entrusted by it.
+
+3.Prepared in Hong Kong or Macau: To be verified by the agency established or designated by the Executive Yuan or a non-governmental organization entrusted by it in Hong Kong or Macau.
+
+If the documents in the preceding Paragraph are in foreign languages, the Chinese translation certified by the units listed in the preceding Paragraphs or the notary public in China shall be attached. However, if the documents are in English, they may be exempted from being attached unless the insurer considers it necessary.
+
+## Article 17
+
+The funds for the central competent authority to administer Article 12, Paragraph 3 regulations of the Law shall be paid according to the financial budget every six months, and if there is a resulting administrative surplus, this should be returned following the annual balance of accounts; the amount of funds should be calculated based on the insurance premium income figure in the officially approved budget.
+
+## Article 18
+
+deleted
+
+## Article 18-1
+
+The labor insurance injury and illness benefit stipulated in Paragraph 2 of Article 17 of this Act are the injury and illness benefit prescribed in the Labor Insurance Act and the Labor Occupational Accident Insurance and Protection Act .
+
+## Article 19
+
+The vocational training living allowance in Paragraph 1, Article 19 of the Act shall be calculated and awarded according to the actual time the applicant starts and finishes training, with 30 days being equivalent to one month; the allowance for a person who does not receive training for a full 30 days will be calculated and awarded according to the following methods:
+
+1.A person who has received 30 hours training in at least 10 days will be awarded half the monthly allowance.
+
+2.A person who has received 60 hours training in at least 20 days will be awarded the monthly allowance.
+
+For those who enroll in employment insurance pursuant to Article 25 of the Act for the Recruitment and Employment of Foreign Professionals, once their permanent residence permit is revoked or annulled by the National Immigration Agency, the Vocational Training Living Allowance referred to in the preceding paragraph shall be calculated only up to the day before the revocation or annulment becomes effective.
+
+The monthly allowance mentioned in the preceding two paragraph shall be remitted at the end of each month.
+
+## Article 19-1
+
+When the dependents of an insured person as prescribed in Article 19-1 of this Act have already received the benefits or allowances under this Act or other insured people have claimed the said benefits or allowances on their behalf, the said benefits or allowances shall not be issued again within the same period.
+
+## Article 19-2
+
+The parental leave allowance prescribed in Paragraph 1, Article 19-2 of the Act shall be calculated starting from the date the parental leave takes effect until the date the leave is due. In the event that the insured person resumes work early, it shall be calculated until the day before the insured person resumes work.
+
+The allowance referred to in the preceding paragraph shall be disbursed monthly at the beginning of each period. For periods of fewer than one full month, payment shall be calculated on a proportional basis, with thirty days deemed as one month.
+
+If the insured person’s period of claiming the allowance under Paragraph 1 is fewer than 30 days, the insured person may choose to submit the application to the insurer after accumulating 30 days, or may submit applications in multiple installments.
+
+For parental leave allowances disbursed pursuant to Paragraph 1, where the initial date of payment falls before the implementation of the amendments to these Enforcement Rules on January 1, 2026, and the claim period continues beyond the implementation date, the method of payment shall continue to follow the provisions in effect prior to the amendment.
+
+## Article 19-3
+
+If a labor dispute occurs due to resignation, the insured person who applies for unemployment benefits according to Paragraph 1, Article 23 of the Act must present at least one of the following documents:
+
+1.A copy of the document showing the acceptance of labor dispute mediation.
+
+2.A copy of the document showing the acceptance of labor dispute arbitration.
+
+3.A copy of documents relating to the legal procedures as a result of labor dispute.
+
+Insured person should submit the documents to the public employment service institution or the insurer for review within fifteen (15) days after receipt of labor dispute mediation record, arbitration award, or the final ruling of the court.
+
+## Article 20
+
+When an insured person, pursuant to Paragraph 1, Article 25, the Act, registers to seek employment at a Public Employment Service Institution, he should declare his usual place of residence.
+
+## Article 21
+
+When an applicant submits his employment and non-return cards, pursuant to Article 27, Paragraph 1 regulations of the Law, or when an insured person claiming unemployment benefit notifies the Public Employment Service Institution of his reemployment, pursuant to Article 22 regulations of the Law, this should be submitted in person or sent via registered mail; for persons using registered mail, the date of posting shown on the postmark will be taken as the date of application.
+
+## Article 22
+
+In the event that an insured person applying for the unemployment benefits or vocational training living allowance according to this Act but the insured unit has failed to complete the insurance withdrawal procedure for the insured person as required, the insurer shall withdraw the said insured person from the employment insurance program starting from the date of employment separation and issue the benefits or allowance accordingly.
+
+## Article 23
+
+A record of seeking employment defined in Article 30 of the Act contains the following:
+
+1.Name, address, telephone number, and contact person of the establishment.
+
+2.Job description.
+
+3.Date.
+
+4.Status of seeking employment.
+
+The abovementioned record of seeking employment shall be the record of seeking employment within 30 days before the insured person applies for unemployment status confirmation.
+
+## Article 24
+
+The Insurance, pursuant to Article 42 regulations of the Act, is exempt from the following taxes and duties:
+
+1.Any written agreements used by the Insurer, the BLF and the insured establishment in administering the Insurance are exempt from payment of stamp duty.
+
+2.Insurance premium, penalties on overdue insurance premiums and resulting income from administration of forced auction of valuables, fund investment returns, and other miscellaneous income collected by the Insurer and the BLF in administering the Insurance is exempt from business tax and income tax.
+
+3.Housing, equipment, and insurance benefits claimed by insured persons which are used by the Insurer and the BLF in administering the Insurance, pursuant to regulations of the relevant tax laws are exempt from taxation.
+
+## Article 24-1
+
+In the event that an employee wishes to file a lawsuit against the employer for the impact on his or her insurance benefits as a result of the employer's violation of this Act by failing to enroll the said employee or under-declaring the said employee's insured salary, the said employee may apply for to the central competent authority legal assistance.
+
+The central competent authority may commission a private organization to provide the legal assistance described in the preceding paragraph.
+
+## Article 25
+
+The standard forms required by the regulations of the Law and the Enforcement Rules herein shall be determined by the Insurer.
+
+## Article 26
+
+The Enforcement Rules shall be effective fromJanuary 1, 2003.
+
+Except for the amendments promulgated on April 19, 2022, which took effect on May 1, 2022, and the amendments promulgated on December 2, 2025, which shall take effect on January 1, 2026, the amended provisions of these Enforcement Rules shall take effect on the date of promulgation.
+
+## History
+
+1.Promulgated by the Council of Labor Affairs, Executive Yuan,January 1, 2003, Labor Insurance Order No. 0910067850
+
+2.Amended on February 22, 2006
+
+3.Amended on February 27, 2009
+
+4.Amended on April 29, 2009
+
+5.Amended on July 11.2012
+
+6.Amended on July 26.2013
+
+7.Amended on May 14, 2015
+
+8.Amended on May 26, 2017
+
+9.Amended on March 21, 2018
+
+10.Except that the provisions amended and promulgated on April 19th, 2022, should take effect on May 1st, 2022, this amendment shall and shall become effective on the date of promulgation.

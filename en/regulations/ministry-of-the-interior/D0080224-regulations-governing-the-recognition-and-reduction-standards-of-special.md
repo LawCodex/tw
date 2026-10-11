@@ -1,0 +1,85 @@
+---
+title: "Regulations Governing the Recognition and Reduction Standards of Special Reasons in Article 74-1 of the Immigration Act"
+title_zh: "入出國及移民法第七十四條之一特殊事由之認定及減免處罰標準"
+identifier: "D0080224"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2024-02-29
+last_amended: 2025-10-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080224"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Recognition and Reduction Standards of Special Reasons in Article 74-1 of the Immigration Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080224-regulations-governing-the-recognition-and-reduction-standards-of-special.md](../../../zh/regulations/ministry-of-the-interior/D0080224-regulations-governing-the-recognition-and-reduction-standards-of-special.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with Paragraph 5 of Article 74-1 of the Immigration Act (hereinafter referred to as the Act).
+
+## Article 2
+
+For any person who violates Paragraph 1 or 3 of Article 74-1 of the Act and voluntarily surrendering  themselves to competent authorities for  an violation not yet discovered, the Ministry of the Interior may deduct the fine to one half of the original penalty.
+
+Where the offender prescribed in the preceding paragraph provides information upon surrendering themselves, leading to the uncovering of other offenders who violate Paragraph 1 or Paragraph 3 of Article 74-1 of the Act, the Ministry of the Interior may exempt such offender from penalty.
+
+If the violators experienced penalty reduction or exemption according to preceding paragraphs, but such reduction and exemption shall be limited to once each.
+
+## Article 3
+
+For any person who violates Paragraph 2 of Article 74-1 of the Act having the following  circumstances , the Ministry of the Interior may  deduct the fine to one half of the original penalty :
+
+1.A person who is over eighty years of age.
+
+2.A person who is more than fourteen but under eighteen years of age.
+
+3.A person who could prove that he or she had factually fostered, exercised rights, assumed obligations for, or met and interacted with minor children with household registration in the Taiwan area.
+
+4.A person who overstays  visits or a period of residence due to assisting members of family in hardship, or possessing the status of a family in hardship with relevant certification  issued by municipal, county or city government.
+
+5.A person who overstays visits or a period of residence for being unable to travel abroad alone due to physical or mental disability; or he or she has serious illness that will result in life-threatening consequences if traveling abroad; the condition is substantiated by a certificate of diagnosis issued by a qualified professional doctor.
+
+6.A person who overstays visits or a period of residence due to pregnancy, childbirth, or miscarriage, and hence, is unable to take flights or vessels, for which the condition is substantiated by certification documents.
+
+7.Prior to being uncovered by the law enforcement authorities, the person turned himself/herself in voluntarily and expressed willingness to cooperate with all matters related to exiting the State and paying the fine within the prescribed time limit. However, this does not apply to those who may reapply for residence in accordance with the provisions of Paragraph 2, Article 15 or Paragraph 3, Article 31 of the Act.
+
+If the violators fit into one of the circumstances prescribed in Subparagraphs 3 to 6 of the preceding paragraph, their overstaying period is subjected to less than six months.
+
+If a person who has received a reduced fine pursuant to Subparagraph 7, Paragraph 1 falls under any of the following circumstances, the Ministry of the Interior shall revoke the reduced fine and order the person to pay the shortfall between the reduced fine and the conducted fine:
+
+\1. Fail to pay fine within the prescribed time limit.
+
+\2. Fail to cooperate in applying for a travel document for return to the home country.
+
+\3. Fail to exit the State within the prescribed time limit.
+
+## Article 4
+
+For any person who violates Paragraph 2 of Article 74-1 of the Act having the following conditions, the Ministry of the Interior may exempt penalty:
+
+1.A person who overstays visits or a period of residence  for being a victim of human trafficking.
+
+2.Cases involving  violation of Article 44, Article 45, or Subparagraphs 1 and 2 of Article 57 of the Employment Service Act were uncovered based on specific evidence provided by the subject.
+
+3.Cases involving violation Paragraph 3 of Article 74-1 of the Act were uncovered based on specific evidence provided by the subject.
+
+4.A person who overstays visits or a period of residence due to factors of force majeure such as natural disasters, pandemics, major accidents, torture, cruelty, or inhuman treatment, for which relevant supporting materials are required.
+
+5.A person who is an eligible subject for projects approved by the Executive Yuan.
+
+## Article 5
+
+The effective date of these Regulations shall be determined by the Ministry of the Interior.
+
+## History
+
+1.The enacted Regulation with all 5 articles was promulgated by the Ministry of the Interior tai-nei-yi-zi No.11309325751 on February 29, 2024.The Regulation was set to be effective on March 1, 2024.
+
+2.Article 3 was amended, and promulgated by Decree Tai-Nei-Yi-Tzu No. 11409329921 of the Ministry of the Interior on October 1, 2025 and set to be effective on the same date.

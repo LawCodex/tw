@@ -1,0 +1,125 @@
+---
+title: "Regulations Governing the Collection of Fees for Mediation of Contract Performance Disputes for Cases Concerning Promotion of Private Participation in Infrastructure Projects"
+title_zh: "促進民間參與公共建設案件履約爭議調解收費辦法"
+identifier: "A0030346"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞推動促參目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2023-05-11
+last_amended: 2025-04-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030346"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Collection of Fees for Mediation of Contract Performance Disputes for Cases Concerning Promotion of Private Participation in Infrastructure Projects
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/A0030346-regulations-governing-the-collection-of-fees-for-mediation-of-contract.md](../../../zh/regulations/ministry-of-finance/A0030346-regulations-governing-the-collection-of-fees-for-mediation-of-contract.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Paragraph 5 of Article 48-1 of the Act for Promotion of Private Participation in Infrastructure Projects (the “Act”).
+
+## Article 2
+
+When a contract performance dispute mediation committee (hereinafter referred to as the “Mediation Committee”) handles the mediation of a dispute over performance of a contract between the authority in charge and a private institution (hereinafter referred to as “mediation”) in accordance with Paragraph 5 of Article 48-1 of the Act, fees shall be collected in accordance with these Regulations.
+
+## Article 3
+
+The fees payable under the preceding article shall be paid by cash, treasury checks, postal money orders, or demand promissory notes, checks or accepted checks issued by financial institutions.
+
+## Article 4
+
+Each party shall pay fifty percent of each of the fees set out in Articles 5 to 7 in advance when applying for mediation.
+
+Where the authority in charge has made the advance payments, but the private institution has not, the mediation application shall not be accepted. Where the private institution has made the advance payments, but the authority in charge has not, the mediation application shall still be accepted.
+
+## Article 5
+
+Where the subject of the mediation is to claim or confirm an amount, the mediation fee shall be as follows:
+
+\1. Where the amount is less than NT$20 million, the fee shall be NT$100,000.
+
+\2. Where the amount is NT$20 million or more, but less than NT$50 million, the fee shall be NT$160,000.
+
+\3. Where the amount is NT$50 million or more, but less than NT$150 million, the fee shall be NT$210,000.
+
+\4. Where the amount is NT$150 million or more, but less than NT$250 million, the fee shall be NT$250,000.
+
+\5. Where the amount is NT$250 million or more, the fee shall be NT$280,000.
+
+Where the amount of the subject of the mediation set forth in the preceding paragraph is denominated in a foreign currency, the amount shall be converted into an NTD amount at the closing buying rate of the Bank of Taiwan for small foreign exchange amounts on the trading day prior to the day on which the Mediation Committee receives the mediation application.
+
+## Article 6
+
+Where the subject of the mediation is not to claim or confirm an amount, the mediation fee shall be NT$100,000. However, if the value of the subject of mediation can be directly calculated in value, the mediation fee shall be calculated in accordance with the preceding article.
+
+## Article 7
+
+Where one application for contract performance dispute mediation covers more than one subject of mediation, the mediation fee shall be calculated as follows:
+
+\1. Where an application is filed for mediation in relation to a concession agreement for subjects of mediation set forth in the preceding two articles, the mediation fee shall be calculated separately and then accumulated in accordance with the provisions in the preceding two articles.
+
+\2. Where an application is filed for mediation in relation to a concession agreement covering more than one subject of mediation as set forth in Article 5, the mediation fee shall be calculated in accordance with the total amount of claim.
+
+\3. Where an application is filed for mediation in relation to a concession agreement covering more than one subject of mediation as set forth in the preceding article, the mediation fee shall be calculated separately for each of the subject of mediation  and  the accumulated accordingly.
+
+\4. Where an application is filed for mediation in relation to a concession agreement covering more than one subject of mediation  which are of the same economic purpose or are asserted alternatively, the mediation fee shall be calculated based on the value of the claim with the highest value.
+
+\5. Where a mediation application is filed in relation to two or more concession agreements, the mediation fee shall be calculated separately for each of the concession agreement and then accumulated accordingly.
+
+## Article 8
+
+If any additional mediation fee is necessary for a request to change the subject of claim during the mediation procedure, the additional fee shall be calculated and paid in accordance with Articles 4 through 7.
+
+## Article 9
+
+Where a mediation application is rejected, no fee shall be collected.
+
+Where a mediation application has been submitted and the mediation fee has been paid, if the application is rejected upon procedural review, the full amount collected shall be refunded without interest. However, if the case has already entered substantive review and is thereafter found to be inadmissible, the mediation fee shall not be refunded.
+
+## Article 10
+
+If one party fails to attend any of the mediation sessions during a mediation procedure and the mediation panel, in its discretion, deems the mediation unsuccessful, the mediation fee paid shall be refunded to the parties without interest. No refund shall be made to the party who never attended a mediation session.
+
+## Article 11
+
+If the mediation panel considers it necessary to appoint a person to conduct an appraisal, the appraisal shall be subject to the prior consent of the parties, and the appraisal fee shall be paid by the parties.
+
+The appraisal fee under the preceding paragraph shall be a total fee proposed before the appraisal by the appointed organization, school, or group that has been requested to conduct the appraisal and shall be decided by the mediation panel after taking into account the complexity of the event to be mediated.
+
+## Article 12
+
+The appraisal fee and other necessary expenses shall be equally paid by the parties in advance, and shall be payable by the parties within the time limit given in the Mediation Committee’s notice.
+
+The mediation panel shall specify in the mediation proposal the final amounts of the fees and expenses to be paid by the parties pursuant to the preceding paragraph.
+
+Any party failing to make the payment within the time limit or promise to equally share the fees and expenses under Paragraph 1 shall be deemed not to have consented to the appraisal.
+
+## Article 13
+
+If a mediation procedure is withdrawn in writing, the mediation fee prepaid by both parties shall not be refunded.
+
+Notwithstanding the foregoing, if a mediation application is withdrawn in writing before the date of the first mediation session, the applying institution (entity) shall be refunded half of the prepaid mediation fee referred to in the preceding paragraph without interest, and the other party shall be refunded the full amount without interest.
+
+## Article 14
+
+Where mediation is successful, the amounts of the mediation fee, the appraisal fee and other necessary expenses, as well as the payment ratios, shall be specified in the certificate of successful mediation according to the mediation proposal, and the amounts shall be borne by the parties respectively.
+
+Where mediation is unsuccessful, the mediation fee, the appraisal fee and other necessary expenses shall be equally shared by the parties, except as provided in Article 10.
+
+## Article 15
+
+These Regulations shall come into force from the date designated by the Ministry of Finance.
+
+The amended provisions of these Regulations shall enter into force as from the date of promulgation.
+
+## History
+
+1.Promulgated by Decree Tai-Tsai-Cu-Tzi No. 11225512570 issued by the Ministry of Finance on May 11, 2023.
+
+2.Articles 9, 13, and 15 were amended and promulgated by Decree Tai-Tsai-Cu-Tzi No. 11425507470 issued by the Ministry of Finance on April 15, 2025, and shall come into force as from the date of promulgation.

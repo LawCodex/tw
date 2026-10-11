@@ -1,0 +1,131 @@
+---
+title: "Regulations for Environmental Agent Vendor and Pest Control Operator Permit Application and Issuance"
+title_zh: "環境用藥販賣業及病媒防治業許可執照申請核發作業準則"
+identifier: "O0060032"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-07-26
+last_amended: 2024-03-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060032"
+retrieved: 2026-10-12
+---
+
+# Regulations for Environmental Agent Vendor and Pest Control Operator Permit Application and Issuance
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060032-regulations-for-environmental-agent-vendor-and-pest-control-operator-permit.md](../../../zh/regulations/ministry-of-environment/O0060032-regulations-for-environmental-agent-vendor-and-pest-control-operator-permit.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 11, Paragraph 1 of the Environmental Agents Control Act (herein referred to as this Act).
+
+## Article 2
+
+An applicant for an environmental agent vendor or pest control operator permit shall attach an application form and the following materials or document photocopies; application materials shall be submitted together with professional technical personnel hiring applications to the local competent authority:
+
+I.Company license or company registration verification documents (non-companies need not submit), profit-seeking enterprise (or business enterprise) registration certificate.
+
+II.Personal identification document of statutory responsible person.
+
+III.Location map of storage site, storage site land zoning use certificate or land registration transcript, and storage site building use license (not required when there is no storage site).
+
+IV.Location map of business premises.
+
+V.Statement that the business premises and storage site safety protection facilities or application equipment comply with the requirements of the Environmental Agent Storage, Placement, and Use Management Regulations and Regulations Governing Pest Control Operators.
+
+VI.Other circumstances determined by the competent authority.
+
+## Article 3
+
+The local competent authority shall perform an on-site survey of the environmental agent business premises and storage site when reviewing the application in the foregoing article; if the storage site is in a different jurisdiction area, the competent authority with jurisdiction over the storage site shall be notified to jointly participate in the survey.
+
+## Article 4
+
+An environmental agent vendor or pest control operator permit shall register the following items:
+
+I. Permit number
+
+II.Company name, address, and statutory responsible person
+
+III.Address of business
+
+IV.Address of storage site (not required when there is no storage site)
+
+V.Permit issuance date
+
+VI.Other items determined by the competent authority
+
+Regulations concerning the permit number in the first subparagraph of the foregoing paragraph are as shown in the attached table.
+
+When finding any written errors or obvious errors that do not comply with the Regulations and relevant provisions, the local competent authority may make corrections at any time and inform the party to apply for a permit replacement within a prescribed period.
+
+## Article 5
+
+If any of the registered items in Paragraph 1, Subparagraphs 2 through 4 of the foregoing article are changed, the applicant shall attach an application form and the relevant verification documents or materials specified in Article 2, Subparagraphs 1 through 4 when applying to the competent authority for change registration.
+
+## Article 6
+
+If an environmental agent vendor or pest control operator permit is lost or destroyed, an application form and the verification document specified in Article 2, Subparagraph 1 and 2 shall be submitted when applying to the competent authority for a replacement permit.
+
+The competent authority shall note the date of replacement on the replacement permit in the foregoing paragraph.
+
+## Article 7
+
+The competent authority may revoke the permit of an environmental agent vendor or pest control operator when any of the following situations applies:
+
+I.The enterprise has terminated operations.
+
+II.The actual business premises are not consistent with the registered information, and the enterprise has failed to make improvement before the deadline after being notified to make improvements within a limited time period.
+
+III.The enterprise has failed to register the change after moving out of its business premises, and its business status has been unclear for at least one-half year.
+
+IV.The enterprise has failed to engage in business for more than two years after receiving its permit.
+
+V.The enterprise has suspended business for two years or more.
+
+## Article 8
+
+An environmental agent vendor or pest control operator suspending business shall submit its original permit to the competent authority for future reference within 15 days of the day of suspension of business;the original license shall be returned after the date of suspension of business has been noted.
+
+An environmental agent vendor or pest control operator that has performed the notification in the foregoing paragraph shall be exempt from the duties prescribed in Articles 22 and 24 of the Act from the day of notification of suspension of business; those enterprises that have sustained business for more than six months shall also be exempt from the duties prescribed in Article 19 of the Act.
+
+## Article 9
+
+An environmental agent vendor or pest control operator resuming business shall attach its original license together with professional technical personnel hiring applications (not required when unchanged) when applying to the competent authority. The competent authority shall return the original license after noting the date of resumption of business.An environmental agent vendor or pest control operator terminating business shall report the cancellation of its permit to the competent authority within 15 days of termination of business.
+
+## Article 10
+
+An environmental agent vendor or pest control operator terminating operations shall report the cancellation of its permit to the competent authority within 15 days of termination of operations.
+
+## Article 11
+
+The local competent authority shall accept permit applications, changes or replacements in accordance with the following regulations. The scope of review shall not extend beyond the content of applications, changes or replacements, and shall not impose any form of disposition to increase obligations not stipulated by regulations:
+
+I.Applicants who have not paid the prescribed review fee shall see their applications returned.
+
+II.If the submitted documents or data are incomplete or do not comply with regulations, the applicant will be notified to make corrections within a prescribed period. If the applicant fails to do so or if the corrections are incomplete, the application shall be rejected and returned to the applicant.
+
+III.The local competent authority shall complete the review within 45 days if the requisite documents and data have been submitted in full. However, if the content is complicated or unique, the local competent authority may extend the review period, which shall not exceed 45 days, after notifying the applicant.
+
+IV.The prescribed period for making corrections shall be limited to 60 days. The number of days used for making corrections shall not be included in the review period.
+
+The local competent authority shall, within 14 days after completing the review, notify the applicant if the application meets the requirements as specified in the preceding paragraph.
+
+## Article 12
+
+These Regulations shall take effect from the date of promulgation.
+
+## Attachments
+
+- [Attached Table.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000819)
+
+## History
+
+1.The twelve articles of the Regulations were promulgated in accordance with Order Huan-Shu-Du-Zi No. 0950058408 issued by the Environmental Protection Administration, Executive Yuan, on July 26, 2006; and became effective on the date of promulgation.
+
+2.Revisions to Articles 4 and 11 by the Ministry of Environment Order Huan-Pu-Hua-Tzu No. 1138104495 on March 11, 2024.

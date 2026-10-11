@@ -1,0 +1,211 @@
+---
+title: "Regulations Governing Offshore Insurance Branches"
+title_zh: "國際保險業務分公司管理辦法"
+identifier: "G0390091"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-05-25
+last_amended: 2026-06-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390091"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Offshore Insurance Branches
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390091-regulations-governing-offshore-insurance-branches.md](../../../zh/regulations/financial-supervisory-commission/G0390091-regulations-governing-offshore-insurance-branches.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Paragraph 2, Article 22-15 of the Offshore Banking Act (referred to as the “Act” hereunder).
+
+## Article 2
+
+An offshore insurance branch having any of the following circumstances shall report the matter to the Financial Supervisory Commission (“FSC”) and notify the Central Bank of the Republic of China (Taiwan) (“CBC”):
+
+\1. Commencement of business.
+
+\2. Material change in business plan.
+
+\3. Occurrence of, or foreseeable, material loss.
+
+\4. Occurrence of material litigation.
+
+\5. Any violation of the Act or of any order promulgated by the competent authority pursuant to the Act.
+
+Matters set forth in subparagraphs 1 and 2 of the preceding paragraph shall be reported before the fact; matters set forth in subparagraphs 3 to 5 shall be reported within 5 days from the day the matter is known or the event occurs.
+
+## Article 3
+
+An offshore insurance branch shall establish an internal control and audit system in accordance with the Regulations Governing the Implementation of Internal Control and Audit Systems of Insurance Enterprises prescribed by the FSC.
+
+An offshore insurance branch shall conduct business operations in accordance with laws and regulations, its articles of incorporation, as well as the internal control and audit system referred to in the preceding paragraph.
+
+## Article 4
+
+The competent authority may at any time assign personnel or engage an appropriate institution or experienced professionals to inspect the business operations or financial condition of an offshore insurance branch, or may order an offshore insurance branch to submit a report on its finance, operational conditions or other relevant information and reports within a prescribed time period.
+
+Fees incurred from the inspection conducted by an appropriate institution or experienced professional engaged by the competent authority according to the preceding paragraph shall be borne by the inspected insurance enterprise.
+
+## Article 5
+
+An offshore insurance branch shall, within 3 months after the end of each fiscal year, file with the competent authority the balance sheet and the statement of comprehensive income audited and certified by certified public accountants (CPAs), and shall, within 2 months after the end of each fiscal half year, file with the competent authority its CPA-audited and certified balance sheet and statement of comprehensive income. An offshore insurance branch shall also, within 45 days after the end of the first and third quarters of each fiscal year, file with the competent authority its CPA-reviewed balance sheet and statement of comprehensive income.
+
+An offshore insurance branch shall, within 10 days after the end of each quarter and each month, file with the CBC respectively the quarterly and monthly business and finance related reports for record. If, owing to insufficient time in operation, an offshore insurance branch is unable to meet the deadline by filing such reports within 10 days after the end of each quarter or each month, the deadline may be extended to within 15 days after the end of each quarter or each month.
+
+The statements to be filed pursuant to Paragraph 1 hereof shall be prepared in accordance with the Regulations Governing the Preparation of Financial Reports by Insurance Enterprises.
+
+The format, content, and filing method of the reports to be filed pursuant to Paragraph 2 hereof will be prescribed separately by the CBC.
+
+## Article 6
+
+The outward remittance of earnings of the offshore insurance branch of a foreign insurance enterprise may be done only after the offshore insurance branch's reported earnings, audited and certified by CPAs, have been included in the calculation of the total earnings of all other branches of the foreign insurance enterprise inside the ROC and filed with the FSC.
+
+## Article 7
+
+The offshore insurance branch of a domestic insurance enterprise shall be included in its head office's calculation of net worth and classification of capital category of an insurance enterprise, whereas the offshore insurance branch of a foreign insurance enterprise shall be included in the foreign insurance enterprise's calculation of net worth and classification of capital category of all of its branches inside the ROC. Such capital category must meet adequate capital specified in subparagraph 1, paragraph 2, Article 143-4 of the Insurance Act and shall conform to the Regulations Governing Capital Adequacy of Insurance Companies and relevant rules.
+
+The net worth of an offshore insurance branch as shown on its CPA-audited and certified financial report shall be at least US$1 million.
+
+When the capital category of an insurance enterprise fails to meet adequate capital specified in subparagraph 1, paragraph 2, Article 143-4 of the Insurance Act or the net worth of its offshore insurance branch as shown on the CPA-audited and certified financial report is below US$1 million, the FSC may order it to remedy the situation within a prescribed time period or increase the allocated working capital of the offshore insurance branch. If the insurance enterprise fails to remedy the situation or increase the allocated working capital by the deadline, the FSC may suspend all or part of its offshore insurance branch's business. The suspended business may be reinstated only after the insurance enterprise's remedial action has been recognized by the FSC, and the insurance enterprise has stayed compliant with the requirements for one year consecutively after the FSC recognition, and has reported to the FSC for approval. If the insurance enterprise did not take the remedial action or increase the allocated working capital one year past the prescribed deadline, the FSC may revoke the business license of its offshore insurance branch and notify the CBC.
+
+## Article 8
+
+A managerial officer of an offshore insurance branch must meet the qualification requirements set out in Articles 3, 8-1, and 9 of the Regulations Governing Qualification Requirement and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Insurance Enterprises. However, a person serving in that capacity pursuant to subparagraphs4 and 5, paragraph 1, Article 8-1 of the same Regulations shall possess professional knowledge in the field of international insurance or experience in foreign exchange business.
+
+## Article 9
+
+An offshore insurance branch shall comply with the following rules in the sale of insurance products, and in addition, comply with provisions of the Regulations Governing Pre-sale Procedures for Insurance Products on product research and development, formal product development, product sale preparation procedure, and professional training for product signatories as well as provisions of the Regulations Governing Investment of Investment-linked Insurance on the management and safekeeping of separate accounts:
+
+\1. An offshore insurance branch shall, in 15 business days after commencing the sale of insurance products, file product related information and documents with the FSC and its designated institution in accordance with the requirements of the FSC and the designated institution, and provide information to the FSC and the designated institution for the establishment of an insurance product database. Where an insurance product does not fall under the purview of the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises and relevant regulations, the offshore insurance branch shall, at the time of filing, submit additionally a statement signed by an appointed actuary that the reserve set aside for the product complies with the rules promulgated by the insurance regulatory authority in the USA, Canada, UK, Germany, Switzerland, Australia, Singapore, or another SC-designated country or region and conform to the relevant actuarial standards drawn up by the professional society (association) in that country or region. The offshore insurance branch shall also provide specific comparative descriptions that the reserve calculation method it adopts conforms to the aforementioned rules and standards and provide the manner by which full reserve is set aside.
+
+\2. Insurance products sold by an offshore insurance branch may not be denominated in NTD, and the premium rates of those products conform to adequacy, reasonableness, fairness and actuarial principles, while adequately reflect costs and reasonable profits with related risk control measures established.
+
+\3. The linked investment objects of an investment-linked insurance and the utilization of its separate account assets shall not be a New Taiwan Dollar exchange rate, a New Taiwan Dollar interest rate index, or a New Taiwan Dollar-denominated products, and the investment portfolio may not involve any product denominated in New Taiwan Dollars unless obtaining the approval of the competent authority.
+
+The contents of information and documents to be filed according to Subparagraph 1 of the preceding paragraph shall be prescribed by the FSC.
+
+Subparagraphs 1 and 3 of Paragraph 1 hereof and the preceding paragraph do not apply mutatis mutandis to the following non-life insurance products:
+
+\1. Marine insurance, aviation insurance, engineering insurance, nuclear insurance and commercial fire insurance.
+
+\2. Foreign coinsurance other than the types of insurance mentioned in the preceding subparagraph participated in not as the lead insurer.
+
+## Article 10
+
+An offshore insurance branch shall set aside various reserves for its offshore insurance business in accordance with subparagraph 1, paragraph 1 of the preceding article, the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, the Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises and relevant rules.
+
+An offshore insurance branch shall include the certified actuarial items designated by the FSC in the actuarial report prepared by the head office for domestic insurance enterprises or by the branch in Taiwan for foreign insurance enterprises in accordance with the Regulations Governing Appointed Actuaries of Insurance Companies and the external actuarial review report.
+
+## Article 11
+
+An offshore insurance branch shall assess the quality of its assets, clean up its non-performing loans and non-accrual loans and write off bad debt in accordance with the Regulations Governing Asset Valuation and Handling of Non-Performing Credit, Non-Accrual Loans, and Bad Debt by Insurance Enterprises and relevant rules.
+
+## Article 12
+
+An offshore insurance branch that engages in offshore insurance business shall undertake risk retention as well as ceded and assumed reinsurance in accordance with the Regulations Governing Insurance Enterprises Engaging in Operating Reinsurance and Other Risk Spreading Mechanisms and relevant rules. However Paragraph 2, Article 9 and Articles 10 to 12 of the aforementioned Regulations do not apply to an offshore insurance branch.
+
+## Article 13
+
+An offshore insurance branch that engages in offshore insurance business shall establish internal business solicitation, policy underwriting and claim adjustment systems and procedures.
+
+The internal systems and procedures in the preceding paragraph shall include the following items:
+
+\1. Procedure for insurance solicitors to understand fully the insurance applicant and the insured.
+
+\2. Procedure and flow chart covering the process from acceptance of application to agreeing to underwrite a policy, including at least underwriting guidelines, financial underwriting mechanism, survival analysis and physical examination standards, hierarchy of authority, and arrangement of reinsurance.
+
+\3. Operating procedure and flow chart for accepting claims and benefit approval, including at least the expensing and accounting treatment of claim settlement expenses, claim investigation, evaluation and adjustment, hierarchy of authority, and claims recovered from reinsurers.
+
+The provisions on financial underwriting mechanism and survival analysis and physical examination standards mentioned in Subparagraph 2 of the preceding paragraph do not apply to non-life insurance products.
+
+## Article 14
+
+An offshore insurance branch that engages in offshore insurance business shall make sure matters concerning its insurance solicitors with respect to the obtaining of qualifications, registration, voidance or revocation of registration, education and training, disciplinary matters and other matters requiring compliance are in compliance with the Regulations Governing the Supervision of Insurance Solicitors and relevant rules.
+
+An offshore insurance branch that engages in foreign currency denominated insurance business mentioned in Subparagraph 1, Paragraph 1, Article 22-13 of the Act shall confirm that insurance brokers and insurance agents it does business with have obtained a practice license provided under Paragraph 1, Article 163 of the Insurance Act, with exception to non-life insurance products listed under Paragraph 3 of Article 9 herein.
+
+## Article 15
+
+The utilization of an offshore insurance branch’s fund shall be complied with the Regulations Governing Foreign Investments by Insurance Companies, Regulations Governing Insurance Enterprises Extending Loans to and Engaging in Other Transactions with Same Person, Same Interested Party or Same Affiliate Enterprise, Regulations for Extending Loans by Insurance Enterprises to Interested Parties, Regulations Governing Insurance Enterprises Engaging in Transactions Other Than Extending Loans with Interested Parties, and relevant rules. However, the utilization of an offshore insurance branch’s fund that engages exclusively in reinsurance business shall not be applied to the Regulations Governing Foreign Investments by Insurance Companies.
+
+The branch of an offshore insurance company intending to engage in derivatives transactions to hedge insurance liabilities other than those defined in Item 2, Subparagraph 3, Article 2 of the “Regulations Governing Derivatives Transactions Conducted by Insurance Companies,” shall submit the documents specified in Paragraph 1, Article 3 of the same Regulations and a hedging plan to the competent authority for approval. In the event of any amendment to the hedging plan, the aforementioned documents shall also be submitted to the competent authority for its records.
+
+The utilization of an offshore insurance branch’s fund mentioned in the first preceding Paragraph may not be a New Taiwan Dollar exchange rate, a New Taiwan Dollar interest rate index, or a New Taiwan Dollar denominated products, and the investment portfolio may not involve any product denominated in New Taiwan Dollars unless obtaining the approval of the competent authority.
+
+The utilization of funds by an offshore insurance branch of a foreign insurance enterprise shall be combined with that of its branches inside the ROC for calculation purpose and shall conform to the provisions in the preceding three paragraphs.
+
+The following may not be included as part of the total foreign investment limit of an insurance enterprise: (various reserves for non-investment-linked life insurance business of the offshore insurance branch plus its net worth) x (1 – the percentage of foreign investment of the insurance enterprise determined by the competent authority pursuant to Paragraph 4, Article 15 of the Regulations Governing Foreign Investments by Insurance Companies.)
+
+The term “same person” as used in Paragraph 1 hereof shall mean the same natural or juristic person; the term “same interested party” shall include the principal, his/her spouse and relatives by blood within the second degree of kinship as well as an enterprise in which the principle or his/her spouse is a responsible person; the scope of “same affiliate enterprise” shall be governed by Articles 369-1 through 369-3, Articles 369-9 and Article 369-11 of the Company Act.
+
+Where an offshore insurance branch provides loans to its responsible persons, employees or major shareholders, or a person having any interested party relationship with its responsible persons or employees in charge of administering the loan according to Paragraph 1 hereof, such loans shall be fully secured and the conditions may not be better than those to other loanees of the same class. A loan that is equal to or more than the amount prescribed by the competent authority pursuant to the Regulations for Extending Loans by Insurance Enterprises to Interested Parties, shall be approved by three-fourths of the directors of the insurance enterprise present at a board of directors meeting attended by at least two-thirds of the directors, except for loans secured by foreign-currency life insurance policy issued by the offshore insurance branch of the insurance enterprise.
+
+## Article 16
+
+For the internal control and audit system, asset valuation, handling of non-performing loans, non-accrual loans and bad debt, and other financial and business management matters designated by the FSC of the offshore insurance branch of a foreign insurance enterprise established to engage exclusively in reinsurance business, the foreign enterprise may follow the laws and regulations of its home country or the systems of its head office by furnishing information on the laws and regulations of its home country or the systems of its head office, a statement of compliance with the laws and regulations of its home country or the systems of its head office, which are signed by the responsible person of its branch office in the ROC and reported to the FSC for record, provided the laws and regulations of its home country or the systems of its head office are not laxer than the laws and regulations of the ROC.
+
+Article 9 herein does not apply to an offshore insurance branch that engages exclusively in reinsurance business.
+
+## Article 16-1
+
+An offshore insurance branch shall rigorously undertake customer due diligence (CDD) process in accordance with the Money Laundering Control Act, Terrorism Financing Prevention Act, documents, data or information that must be obtained or verified as required by the competent authority (see Attachment), template of the “Guidelines Governing Anti-Money Laundering and Combatting the Financing of Terrorism by the Insurance Enterprise” set out by the Non-Life Insurance Association of the Republic of China or the Life Insurance Association of the Republic of China, and include related compliance matters in their internal control and internal audit system.
+
+## Article 16-2
+
+An offshore insurance branch may rely on the assistance of intermediaries or professionals (hereinafter referred to as “the Intermediary”) to perform CDD on offshore customers in accordance with these Rules and Money Laundering Control Act or criteria no less stringent than the aforementioned regulations and in compliance with the provisions below. An offshore insurance branch shall also report to the FSC of the implementation plan and the list of the Intermediary:
+
+\1. The act of the Intermediary assisting an offshore insurance branch in performing CDD conforms to or does not violate the laws and regulations at where the Intermediary is located.
+
+\2. The professionals shall hold related license and be supervised by local competent authority, and shall comply with the CDD- and record keeping-related provisions under the Methodology for Assessing Technical Compliance with the FATF Recommendations and Effectiveness of AML／CFT Systems.
+
+\3. The Intermediary in the latest audit on its anti-money laundering and combatting terrorism financing operation by the competent authority at where it is located or by an external institution receives a rating of “satisfactory”, “no downgrade” or “no material deficiency”, or it has taken improvement actions against the deficiency which are accepted as satisfactory by the competent authority or the external institution, or its downgraded rating has been raised. If the Intermediary is subsequently downgraded by the competent authority at where it is located or by an external institution or subject to disciplinary action imposed by the competent authority at where it is located due to some material deficiency, the offshore insurance branch should suspend the service of the Intermediary in performing CDD.
+
+\4. An offshore insurance branch should sign an agreement with the Intermediary it intends to rely on. The agreement should specify the extent of assistance to be rendered by the intermediary in CDD process and proper measures to be taken by the Intermediary for confidentiality and maintenance of customer data, and rights and obligations of the parties. The Intermediary shall keep the records obtained in performing CDD and provide in a timely manner any document or information obtained in the course of performing CDD upon the request of the offshore insurance branch.
+
+\5. An offshore insurance branch should use a risk-based approach to audit and supervise on a regular and an as-needed basis the Intermediary’s implementation of CDD process and the Intermediary’s use, processing and control of customer information; an offshore insurance branch may carry out such audit through an appointed external institution.
+
+The term “Intermediary” referred to in the preceding paragraph means the following overseas institutes or overseas professionals:
+
+\1. The domestic insurance enterprises’ overseas branches, subsidiaries affiliated to offshore insurance branches, or the overseas branches of bank’s subsidiaries controlled by financial holding companies affiliated to offshore insurance branches, or the overseas insurance branches or subsidiaries of subsidiary banks and insurance subsidiaries, the head office or a branch under the head office of the branch of a foreign insurance enterprise in Taiwan, the parent company or a branch under the parent company of the subsidiaries of a foreign insurance enterprise in Taiwan, or overseas branches or subsidiary banks and insurance subsidiaries’ overseas insurance branches or subsidiaries of the bank subsidiaries under the holding companies affiliated to offshore insurance branches.
+
+\2. Professionals including attorneys and CPAs.
+
+The content of “implementation plan” referred to in Paragraph 1 herein shall include at least the scope of CDD performed by the Intermediary and the Intermediary’s internal control system for the confidentiality and maintenance of customer data.
+
+An offshore insurance branch should review the results of CDD performed by the Intermediary and bear the ultimate responsibility for the CDD process and data maintenance.
+
+## Article 16-3
+
+An offshore insurance branch should pay attention to the following when entering into an insurance contract and doing business:
+
+\1. An offshore insurance branch shall not refer its onshore customers to agencies who assist in setting up offshore companies, or induce or assist onshore customers to switch their identity to non-resident status in order to enter into an insurance contract and do business at the offshore insurance branch.
+
+\2. An offshore insurance branch should enhance its understanding of the purpose of a customer entering into an insurance contract and engaging in business dealings, and planned transaction activities, and the situation, if applicable, where the shareholders, directors or beneficial owners of an offshore legal entity customer include onshore individuals or legal persons, and obtain a customer statement declaring that it did not switch to non-resident status under inducement or for investment in specific products.
+
+An offshore insurance branch should establish a concrete and viable internal control system for matters specified in the preceding paragraph and implement the system after reporting to the board of directors for approval in the case of a domestic insurance enterprise or to the head office for approval in the case of a branch of a foreign insurance enterprise in Taiwan.
+
+## Article 17
+
+These Rules shall become effective as of the date of promulgation, except for Paragraph 1 of Article 16-1, Article 16-2, and Article 16-3, amended and promulgated on August 18, 2017, which  will come into force on January 1, 2018, and  Article 10, amended and promulgated on July 10, 2024, and Article 5, amended and promulgated on June 3, 2026, which will come into force on January 1, 2026.
+
+## Attachments
+
+- [attachment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003796)
+
+## History
+
+1.Promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi-1040021857 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1040021857 dated May 25, 2015.
+
+2.Amendment to Article 17, addition of Article 16-1~16-3, promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi-10602562991 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1060032701 dated August 18, 2017.
+
+3.Amendment to Article 7, 8, 10, 16-1, 17 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi-11304560001 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1130022541 dated July 10, 2024; The regulations shall become effective on the date of promulgation except for Article 10 which shall become effective from January 1, 2026.
+
+4.Amendment to Article 9, 15 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Shou-Zi-11404540001 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1140015172 dated May 6, 2025.
+
+5.Amendment to Articles 5, 17 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi-11504560001 and Central Bank Order No. Tai-Yang-Wai-Shi-Yi-Zi-1150017266 dated June 3, 2026.

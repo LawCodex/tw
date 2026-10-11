@@ -1,0 +1,505 @@
+---
+title: "Regulations Governing Internal Operating Systems and Procedures for the Outsourcing of Financial Institution Operation"
+title_zh: "金融機構作業委託他人處理內部作業制度及程序辦法"
+identifier: "G0380200"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-09-18
+last_amended: 2026-04-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380200"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Internal Operating Systems and Procedures for the Outsourcing of Financial Institution Operation
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0380200-regulations-governing-internal-operating-systems-and-procedures-for-the.md](../../../zh/regulations/financial-supervisory-commission/G0380200-regulations-governing-internal-operating-systems-and-procedures-for-the.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to paragraph 3, Article 45-1 of the Banking Act of The Republic of China (hereinafter called the Banking Act) and paragraph 4, Article 21 of the Credit Cooperatives Act of The Republic of China.
+
+## Article 2
+
+A financial institution shall enter a written agreement and abide by the Regulations herein for outsourcing its operations to a third party (hereinafter called outsourcing). Where the outsourcing involves foreign exchange business, relevant rules and regulations set forth by the Central Bank of the Republic of China (Taiwan) (hereinafter called the Central Bank) shall also apply.
+
+Financial institutions to which the Regulations herein apply include domestic banks and their overseas branches, branches of foreign banks in Taiwan, credit cooperatives, bills finance companies and credit card business institutions.
+
+## Article 3
+
+The outsourcing of business items stated in its business license or operations related to customer information by a financial institution shall be limited to the following:
+
+\1. Data processing: Including the data entry, processing, and output of information system, the development, monitoring, control, and maintenance of information system, and logistical support for data processing in connection with the financial institution's business.
+
+\2. Safekeeping of documents such as forms, statements and certificates.
+
+\3. Drawing negotiable instruments (e.g., checks and drafts) for customers.
+
+\4. Back-office support for trade financing activities, including the issuance, examination, and negotiation of letters of credit, as well as import/export documentary collections, provided the service provider is a company within the same group.
+
+\5. Collection of consumer loans and credit card payment, provided the service provider has been approved by the competent authority.
+
+\6. Preparation of credit analysis reports on credit customers.
+
+\7. Marketing of credit card issuance, input of customer information, printing of relevant forms and statements, envelope stuffing, sorting and mailing, computerized and manual card activation, reporting of lost cards, cash advances and emergency services.
+
+\8. Electronic customer services (including automated voice systems, telemarketing, management of and response to customer e-mail, assistance to inquiries of electronic banking and electronic commerce customers, and phone banking customer services).
+
+\9. Marketing, management, customer service and consulting for auto loans, excluding approval or rejection of loan applications.
+
+\10. Marketing of consumer loans, excluding the granting or rejection of loan application.
+
+\11. Marketing of home loans, excluding the granting or rejection of loan application.
+
+\12. Collection of debts.
+
+\13. Hiring real estate closing agent to handle relevant legal matters, and entrusting other institutions to dispose collateral from the assumption of debts.
+
+\14. Repossessing and auctioning automobiles with overdue payment on a car loan (excluding the determination of the floor price for such auctions).
+
+\15. Appraisal of real estate.
+
+\16. Internal audit operations (provided the audits are not performed by the accountant who certifies the financial institution's financial statements).
+
+\17. Valuation, classification, bundling and sale of non-performing loans; provided such outsourcing agreement stipulates that the service providers and their employees shall not engage in any work or provide any consulting or advisory services which give rise to a conflict of interests with the outsourced services during the term of such outsourcing agreements or for a reasonable period of time after termination/expiry thereof.
+
+\18. Transporting securities, checks, forms and statements, and cash, and replenishing ATMs.
+
+\19. Customs clearance, deposit, transportation and delivery of precious metals such as gold bars, silver bars and platinum bars.
+
+\20. Other operations approved by the competent authority for outsourcing.
+
+The outsourced operations specified in subparagraph 7 hereof on the marketing of credit card issuance and in subparagraphs 9 to 12 of the preceding paragraph shall be prohibited from subcontracting. With respect to outsourcing in subparagraphs 9 to 11 on the marketing of loan business, the financial institution shall handle the guarantee and signature verification operation by itself.
+
+A financial institution shall report its outsourced operations, content and scope accurately in a manner prescribed by the competent authority.
+
+## Article 4
+
+A financial institution shall conduct outsourcing operations in accordance with its internal outsourcing rules approved by its board of directors under the premises that outsourcing will not affect the sound operation of the financial institution, the interests of customers, or regulatory compliance. The internal outsourcing rules of the branches of a foreign financial institution in Taiwan (including branches of foreign banks in Taiwan and foreign credit card companies) may be approved by an officer authorized by the head office.
+
+The internal outsourcing rules referred to in the preceding paragraph shall specify the following contents:
+
+\1. Outsourcing policies and principles, including evaluation of outsourcing decisions, risk management mechanisms, approval hierarchy, and governance structure.
+
+\2. Division of authority and responsibility of unit-in-charge and relevant units regarding the control of outsourced operations.
+
+\3. Scope of operations that may be outsourced and outsourcing procedures.
+
+\4. Internal operations and procedures that assure the protection of customer interests.
+
+\5. Risk management principles and operating procedures.
+
+\6. Internal control principles and operating procedures.
+
+\7. Other outsourcing operations and procedures.
+
+A financial institution is ultimately responsible for its outsourcing. It shall evaluate the risk level and materiality of outsourced operations and the impact of outsourcing on customer interests, adopt appropriate management measures based on the risk-based approach, and comply with the following provisions:
+
+\1. The board of directors shall be aware of the outsourcing risks and regularly oversee the execution status of outsourced operations.
+
+\2. A financial institution shall ensure that the unit-in-charge and relevant units have adequate resources, expertise, and authority over the control of outsourced operations.
+
+\3. A financial institution shall identify, evaluate, and manage outsourcing of operations deemed material, and formulate relevant procedures and policies. A financial institution shall formulate enhanced controls and emergency response measures for outsourcing arrangements which may significantly impact on normal operations or customer interests.
+
+\4. A financial institution shall formulate proper due diligence and periodic review procedures to ensure that service providers possess the expertise and resources for the execution of outsourced operations, are financially sound, have internal control and information security management mechanisms, and meet regulatory requirements.
+
+\5. A financial institution shall ensure that the itself, the competent authority, and the Central Bank or persons designated by them can have access to relevant data or reports of service providers and conduct financial examinations or audits with respect to the outsourced operations, or order service providers to provide relevant data or reports within a prescribed time period.
+
+A branch of a foreign financial institution in Taiwan may designate its head office or regional head office to be responsible and handle the matters of applying the provisions in the preceding paragraph. However, the unit-in-charge shall still be handled by personnel from the branches of foreign financial institutions in Taiwan and shall fully understand the control of outsourcing activities in Taiwan by the head office or regional headquarters authorized thereby.
+
+The term "materiality" under these Regulations refers to one of the following conditions:
+
+\1. Where the outsourced operation cannot be performed or where there are concerns regarding information security, and such issues will significantly impact business operations of the financial institution.
+
+\2. Where the outsourced operation is involved in a customer data security incident that has a significant impact on the interests of the financial institution or customers.
+
+\3. Where the outsourced operation has otherwise had a significant impact on the interests of the financial institution or customers.
+
+## Article 5
+
+When conducting outsourcing of other operations approved by the competent authority in accordance with subparagraph 20, paragraph 1 of Article 3 herein, the financial institution shall apply to the competent authority for approval by submitting the following documents:
+
+\1. Internal outsourcing rules established in accordance with paragraph 2 of the preceding article.
+
+\2. Meeting minutes containing resolution of the board of directors, or a letter of consent signed by an officer authorized by the head office in the case of a branch of a foreign financial institution in Taiwan.
+
+\3. Necessity and compliance analysis of outsourcing of business operations, evaluation of risk level and materiality of outsourced operation and impact of outsourcing of operations and customer interests, due diligence check of service providers, and outsourcing risk management measures.
+
+\4. Operating process.
+
+\5. Other matters designated by the competent authority.
+
+After an operation has been designated by the competent authority as eligible for outsourcing according to the preceding paragraph, other financial institutions may conduct the designated outsourcing operation in accordance with their internal outsourcing rules.
+
+## Article 6
+
+The unit-in-charge specified in subparagraph 2, paragraph 2 of Article 4 herein shall carry out the following tasks:
+
+\1. Managing outsourced operations in accordance with the internal outsourcing rules set forth in accordance with Article 4 herein.
+
+\2. Supervising the outsourced operations in connection with the protection of customer interests, risk management and internal controls, conducting periodic evaluations, and submitting the findings to the board of directors or officer authorized by the head office in the case of a branch of a foreign financial institution in Taiwan. Where any material irregularities or deficiencies occur, a report shall be filed with the competent authority and the Central Bank as soon as possible.
+
+\3. Supervising the establishment and implementation of internal control and internal audit systems by service providers.
+
+\4. Drafting and executing measures for selecting service providers, and ensuring that an outsourced operation is a business item that the selected service provider is legally allowed to operate.
+
+The unit-in-charge shall regularly inquire relevant information in the outsourcing service providers and employees registration system created by the Joint Credit Information Center ("JCIC") and retain a copy of the inquiry record for future reference as a part of the financial institution's internal control activities over outsourcing and supervision of service providers' internal control systems.
+
+## Article 7
+
+The internal operations and procedures for protection of customer interests included in the internal outsourcing rules of a financial institution as provided in subparagraph 4, paragraph 2 of Article 4 herein shall include the following contents:
+
+\1. Where operations involve customer information, the agreement executed by the financial institution and the customer shall include a provision that requires the financial institution to inform the customer of the outsourcing. If the agreement does not include such a provision, the financial institution shall notify its customers in writing of the outsourcing activity and the regulations in the Personal Data Protection Act shall apply.
+
+\2. The scope of customer information to be provided to the service provider and procedural method for transferring such information.
+
+\3. Methods for supervising the use, processing, and control of aforesaid customer information by the service provider.
+
+\4. Procedure and time limit for handling customer disputes in connection of the outsourcing activity; the financial institution shall set up a coordination unit that handles customer complaints.
+
+\5. Other necessary actions for the protection of customer interests.
+
+A financial institution shall be held equally liable to its customer as provided by law if an intentional act or negligence of its outsourcing service provider or the employee of the service provider results in damage to customer interests.
+
+## Article 8
+
+The risk management principles and operating procedures set forth in the internal outsourcing rules of a financial institution as provided in subparagraph 5, paragraph 2 of Article 4 herein shall include the following contents:
+
+\1. Establishing a risk and benefit analysis system for outsourcing activity.
+
+\2. Establishing procedures or management measures sufficient to identify, measure, monitor, and control risks associated with outsourcing:
+
+(1) Evaluating the risk level and materiality of outsourced operations and their impact on business.
+
+(2) Ensuring that the financial institution and the service provider possess adequate expertise and resources.
+
+(3) Considering relevant risk factors, evaluating the risk level of outsourced operations, and taking appropriate measures to mitigate risk.
+
+(4) Evaluating risk levels periodically and ensuring update of risk levels.
+
+(5) Conducting regular or unscheduled testing or drills based on different risk scenarios for material outsourcing.
+
+\3. Establishing an emergency response plan and transfer mechanism in case of termination of an outsourcing agreement.
+
+## Article 9
+
+The internal control principles and operating procedures set forth in the internal outsourcing rules of a financial institution as provided in subparagraph 6, paragraph 2 of Article 4 herein shall include the following contents: 1. Drawing up and implementing the operating procedures for supervising and managing the scope of outsourcing. 2. Incorporating the operating procedures in the preceding subparagraph into the overall internal control and internal audit systems of the financial institution. 3. Supervising the establishment and implementation of internal control and internal audit systems by the service provider.
+
+## Article 10
+
+A financial institution's outsourcing agreement shall specify the following contents:
+
+\1. The scope of outsourcing and the responsibilities of service provider.
+
+\2. A provision requiring the service provider to comply with Article 21 herein.
+
+\3. Consumer protection, including the confidentiality of customer data and adoption of security measures.
+
+\4. The service provider is required to carry out consumer protection, risk management, and internal control and internal audit in accordance with its standard operating procedures established under the supervision of the financial institution.
+
+\5. Consumer dispute resolution mechanisms, including the timetable and procedure for handling disputes, and remedial measures.
+
+\6. Management of a service provider's employees, including employee recruitment, promotion, performance reviews, and discipline.
+
+\7. Material events that lead to the termination of an outsourcing agreement with the service provider, including a provision on termination or revocation of the agreement if so instructed by the competent authority.
+
+\8. The service provider agrees to allow the competent authority and the Central Bank to access relevant data or reports and conduct financial examinations with respect to the outsourced items, or provide relevant data or reports within a prescribed time period pursuant to an order of the competent authority or the Central Bank.
+
+\9. The service provider shall not use the name of the outsourcing financial institution in the course of handling the outsourced items, nor shall the service provider use untruthful advertising or charge the customers any fees when marketing loan services.
+
+\10. The service provider is required to inform the financial institution if the outsourced operation involves any material irregularities or deficiencies.
+
+\11. Other agreements.
+
+In the outsourcing agreement, the financial institution shall prohibit the service provider from subcontracting the outsourced operation unless with the financial institution's written consent. The outsourcing agreement shall specify the scope, limitations, or conditions for subcontracting by the service provider. The provisions in this article shall apply to the subcontracting agreement between the service provider and its subcontractor.
+
+Where the outsourcing agreement or sub-contracting agreement does not conform to the provisions in these Regulations, the financial institution may continue its outsourcing activity under the existing agreement until it expires. However if such outsourcing agreement does not have an expiration date, the financial institution shall remedy the nonconformities within six months from the date the Regulations are promulgated, or else the agreement expires automatically upon that date.
+
+## Article 11
+
+When outsourcing the services of credit card issuance and marketing of consumer loans other than auto loans, a financial institution shall outsource the conduct of such services to a marketing company that it fully owns or controls. However it may outsource its marketing of credit card issuance operation to a non-fully-owned marketing company, provided the following conditions are met:
+
+\1. The marketing company offers only credit card marketing services.
+
+\2. The marketing company accepts the commission of only one card issuing financial institution without re-outsourcing or subcontracting the work to other businesses or individuals.
+
+\3. The financial institution has examined the quality of past credit card applications handled by said marketing company and found it satisfactory.
+
+\4. The financial institution shall produce onsite audit reports on the marketing company on a quarterly basis; the reports shall also include evaluations of the quality of credit card applications accepted by said company. When outsourcing the operations specified in this article, the financial institution shall require that the service provider does not conduct marketing by offering giveaways or prizes, or setting up a booth on the street or under a building overhang.
+
+When outsourcing its marketing of credit card issuance operations, a financial institution shall require that the service provider operate in accordance with the relevant marketing provisions of the Regulations
+
+Governing Institutions Engaging In Credit Card Business.
+
+## Article 12
+
+A financial institution that outsources debt collection operations shall draw up conduct practices and collection letters in the outsourced collection process according to the specimens prepared by the Bankers Association of the Republic of China (hereinafter referred to as the Bankers Association). The Bankers Association shall have its legal counsel review the collection letter specimen to make sure that it does not violate these Regulations or other relevant laws and regulations before submitting the specimen to the competent authority for reference.
+
+## Article 13
+
+Before outsourcing its debt collection operations, a financial institution shall make sure in advance that the appointed service provider meets the following qualification requirements:
+
+\1. The service provider shall be one of the following:
+
+(1) A company that has registered in accordance with the Company Act or the Business Registration Act and has obtained a company or business registration certificate issued by the competent authority which indicates that "providing money claim management services to financial institutions" falls within its scope of business.
+
+(2) An asset management company with all shares directly or indirectly held by a financial holding company or a bank, and to which the parent company has outsourced the conduct of debt collection operations in accordance with Article 2, subparagraph 1 of the Operating Principles for Asset Management Companies invested by Financial Holding Companies (Banks).
+
+(3) A lawfully established Law Firms.
+
+(4) A lawfully established certified public accountant firm.
+
+\2. Any loss suffered by a service provider does not exceed one third of its paid-in capital. The preceding provision does not apply if the service provider has incurred a loss exceeding one third of its paid-in capital, but has completed capital increase procedures according to applicable regulations.
+
+\3. The collection personnel of the service provider have completed a training course or passed an examination on collection given by the Bankers Association or an institution sanctioned by the Bankers Association and received a credential therefore, and is free of the following situations:
+
+(1) Has been convicted of a crime of violence under the "Criminal Code, "the "Organized Crime Prevention Act," or the "Controlling Guns, Ammunition and Knives Act" or is wanted for a crime of violence in an ongoing case.
+
+(2) Has been adjudicated bankrupt, and has not had rights and privileges reinstated.
+
+(3) Has been denied service by a bills clearing house and the sanction has not expired, or has some other poor credit record that is still open.
+
+(4) Is legally incompetent or has limited legal capacity or is subject to an order of the commencement of assistance that order has not been revoked yet.
+
+(5) Has left his or her job for violation of these Regulations or other laws and regulations and the employer financial institution has reported the matter to the JCIC.
+
+\4. If the collection personnel of the service provider has not completed the training course or passed the examination on collection given by Bankers Association or an institution sanctioned by Bankers Association and has not received a credential therefore, said personnel shall remedy the situation within two months after taking the post.
+
+\5. The responsible person of the service provider shall be free of the situations described in subparagraph 1 to subparagraph 11 of Article 3 of the Regulations Governing Qualification Requirements and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Banks, and shall issue a statement to that effect.
+
+\6. A service provider shall be equipped with complete computer facilities necessary for the handling of outsourced items, and the telephones of its relevant personnel shall come with a recording system where the recording may be accessed instantly in coordination with the computer system for the purposes of audit or verification in case of a dispute. All phone conversations and field visits of the collection personnel shall be recorded with a copy made and retained for at least six months. The service provider shall not delete or alter its audio recordings.
+
+## Article 14
+
+A financial institution shall conduct regular and unscheduled audit and supervision of the debt collection operation of its service provide to ensure compliance with the following provisions:
+
+\1. A service provider shall not use violence, intimidation, coercion, verbal abuse, harassment, sham, or false, deceptive or misleading representation against the debtor or any third party, or engage in other illicit debt collection practices that invade the privacy of the debtor.
+
+\2. A service provider shall not use harassing means that disrupts the regular living conditions, schooling, work, business or the life of others in the debt collection process.
+
+\3. The legal hours for debt collection are from 7:00 AM to 10:00 PM. However, this restriction does not apply if the debtor agrees.
+
+\4. A service provider shall not harass with or collect debts from third parties in any means.
+
+\5. When a service provider communicating with a third party for the purpose of acquiring contact information about the debtor, it shall identify himself and state that his purpose is to obtain contact information of the debtor. If requested by a third party, the service provider shall identify the outsourcing financial institution, and the name of his employer. A debtor collection shall also present a letter of authorization when making field visit.
+
+\6. The service provider or its employees shall not collect payment or any fees from the debtor or any third party unless the service provider is collecting withheld salary under a court order for an action in which the service provider is a litigation agent on behalf of the financial institution and has the consent of the financial institution to collect the withheld salary of debtor.
+
+\7. The service provider personnel shall wear ID badge in field visits and record the entire conservation with the debtor or related parties. Unless with the consent of the debtor, the service provider personnel shall not enter the residence of the debtor by any means.
+
+Any of the following practices is deemed a false, deceptive or misleading representation mentioned in subparagraph 1 of the preceding paragraph:
+
+\1. False statement or implication that nonpayment of debt will result in the arrest, detainment or other criminal disposition against the debtor.
+
+\2. Informing the debtor that his property will be attached while such property is not subject to attachment according to law.
+
+\3. Collecting fees from the debtor other than the amount of debt owed or collecting fees not claimable under the law
+
+\4. False representation that nonpayment of debt will result in a court action of arrest, custody, attachment or auction.
+
+Any of the following practices is deemed as using harassing means that disrupts the regular living conditions, work, business or the life of others mentioned in subparagraph 2 of paragraph 1:
+
+\1. Repeatedly or during non-collection hours using telephone, fax, short message, e-mail or other communication means, or visiting the debtor's residence, school, work, or business location or other places to collect debt.
+
+\2. Using post cards for collection or using any language, symbols or other means on the envelope of collection letter that suffices to reveal the debt situation or other private information of the debtor to third parties. The company name is not subject to this restriction.
+
+\3. Using bulletin, signboards or other similar methods that reveals the debt situation or other private information of the debtor to third parties.
+
+## Article 15
+
+The outsourcing agreement on debt collection operations entered into by a financial institution and a collection agency shall comply with the provisions in Article 10 herein, and shall provide for the following:
+
+\1. Work guidelines for the service provider shall be set out, and shall include at least the prohibited conduct and practices provided in Article 14 herein and require that the service provider shall draft specific standards for dismissing or punishing violating employees.
+
+\2. The service provider shall be prohibited from subcontracting the debt collection work.
+
+\3. The service provider shall report the handling of debt collections or customer complaints to the outsourcing financial institution regularly or as needed; when there are situations where the service provider or its employees violate relevant laws and regulations in its internal management or collection operations, the service provider shall immediately report the event to the financial institution.
+
+\4. When personnel are recruited, the service provider shall obtain the consent of the employee permitting the outsourcing financial institution and JCIC to collect, process, and use their personal data.
+
+\5. The service provider shall provide the financial institution with information on an employee who leaves their job due to violation of Article 14 herein for posting with JCIC. The posted information shall include:
+
+(1) Basic data of the departed employee.
+
+(2) Date of departure.
+
+(3) Reason for departure.
+
+\6. When outsourcing debt collection operations to a service provider, a financial institution shall submit the basic information of said service provider to JCIC. The service provider shall agree that the outsourcing financial institution may submit the information on termination of outsourcing agreement due to violation of these Regulations or other laws and regulations by the service provider to JCIC for posting. The posted information shall include:
+
+(1) Basic information of the service provider.
+
+(2) Date of agreement execution and date of its termination.
+
+(3) Reasons for violation of these Regulations or other laws and regulations.
+
+## Article 16
+
+A financial institution shall comply with the following provisions in outsourcing its debt collection operations:
+
+\1. A financial institution shall heed any complaints made by a debtor or any third party regarding debt collection practices, and inquire the relevant information in the outsourcing service providers and employees registration system created by the JCIC in a regular and timely manner; when there are material incidents which require the service provider to dismiss unfit employees pursuant to the outsourcing agreement, or which require the financial institution to terminate the outsourcing agreement with the service provider, a financial institution shall take actions in accordance with these Regulations and the outsourcing agreement.
+
+\2. If a service provider or any of its employees has been reported to the JCIC by other financial institutions pursuant to subparagraphs 5 and 6 of Article 15 herein, but the incident is not significant enough to constitute grounds for termination of the outsourcing agreement, the financial institution shall step up the frequency and scope of audits of the service provider.
+
+\3. Where a service provider has engaged in any practice that violates any of the provisions in Article 14 herein and makes it unacceptable to the debtor and the debtor contacts a financial institution directly
+
+to negotiate the settlement of debt, the financial institution shall accept the request of the debtor and actively handle the matter.
+
+\4. Where a financial institution finds that its service provider or any of its employees resorts to violence, coercion, or intimation in the collection process, it shall report the matter to law enforcement authorities.
+
+\5. A financial institution shall not give its service provider information on people who do not have legal obligation to discharge debt.
+
+\6. Prior to outsourcing its collection operations to a service provider, a financial institution shall send debtors a written notice, informing them of the name of the service provider, amount of debt owed, the duration of retention of audio recordings of collection procedures, the telephone number (of the financial institution) for making a complaint, and practices prohibited in Article 14 herein.
+
+\7. A financial institution shall make public the basic information of its service provider at its business places and on its website to make it convenient for debtors to check the relevant information of the collection agency.
+
+\8. Where a service provider providing debt collection services is turned over to the law enforcement authorities due to alleged use of violence in the collection process, a financial institution may terminate its outsourcing agreement in view of the severity of the case, and shall terminate the outsourcing immediately if the service provider is indicted.
+
+## Article 17
+
+A financial institution that plans to outsource its operations to overseas service providers shall comply with the following provisions:
+
+\1. Fully understand and grasp the use, processing, and control of customer information by the service provider.
+
+\2. Furnish the service provider with only necessary customer information that is directly related to the outsourced operations.
+
+\3. Require service providers to observe the following particulars:
+
+(1) A financial institution's customer data shall only be used and processed by the authorized persons of the service provider within the scope of outsourced operations.
+
+(2) A financial institution's customer data shall be clearly segregated from those of the service provider and other institutions.
+
+(3) A financial institution's customer data processed by the service provider shall be readily provided to the competent authority and the financial institution when needed.
+
+\4. A financial institution shall adopt a risk-based approach to conduct regular and unscheduled audits and to monitor the use, processing, and control of customer information by the service provider; relevant audits may be conducted by external auditors. A branch of a foreign financial institution in Taiwan may designate the auditing unit of its head office or regional headquarters to handle audit matters; the auditing unit shall provide the branch in Taiwan with audit reports.
+
+\5. When the foreign competent authority where the service provider is located requests the service provider to provide customer information from the Republic of China(Taiwan) (hereinafter called the R.O.C.), the financial institution shall inform and obtain consent of the competent authority in the R.O.C. in advance before submitting the requested information.
+
+In the case where a branch of a foreign financial institution in the R.O.C. outsources operations to the head office or other foreign branches to accommodate its internal division of work, the outsourcing shall be handled in accordance with the preceding paragraph.
+
+## Article 18
+
+When operations involving retail financial business information systems deemed material are outsourced by a financial institution to overseas, the financial institution shall submit the following documents to the competent authority for approval:
+
+\1. Internal outsourcing rules established in accordance with paragraph 2 of Article 4 herein.
+
+\2. Meeting minutes containing a resolution of the board of directors, or a letter of consent signed by an officer authorized by the head office in the case of a branch of a foreign financial institution in Taiwan.
+
+\3. Necessity and compliance analysis of outsourcing of business operations, including an evaluation of compliance with the customer data protection rules and regulations of the R.O.C. by the service provider.
+
+\4. An outsourcing plan, which shall include the following contents:
+
+(1) Risk assessment and management mechanisms:
+
+A. Evaluation of the risk level and materiality of outsourced operations and the impact on business operations and customer interests.
+
+B. A due diligence check of the service provider to ensure the reliability and compliance of the services provided; the reliability check shall include analysis of business continuity, substitutability, and concentration.
+
+C. Description showing that the service provider has the professional skills and resources to monitor the execution of outsourced operations.
+
+D. Regular monitoring plan and implementation unit.
+
+(2) Description of customer data protection measures and whether customer consents have been obtained to ensure the quality of outsourcing service and protection of customer interests.
+
+(3) Information security and management:
+
+A. Description of data security management measures, data transmission and segregation, and data ownership.
+
+B. Description of management policies with regard to the location of data storage, including assessment of legal, political, and economic stability at the data processing and storage locations, and description of data backup and data accessibility at any time.
+
+(4) Emergency response plan, including a contingency plan when the service provider is unable to provide services or when there is service interruption.
+
+\5. A letter of consent or outsourcing agreement signed by the service provider, agreeing that where necessary, a person designated by the financial institution may examine the outsourced items. The aforesaid designated person may also be assigned by the competent authority in the R.O.C. at the expense of the financial institution.
+
+\6. A statement issued by the service provider undertaking that it is free of incidents, such as employee fraud, information security breach, or other incidents that have caused damage to customer interests or undermined the sound operation of the institution in the last three years.
+
+When conducting outsourcing under the preceding paragraph, a financial institution shall comply with the following provisions in addition to the preceding article:
+
+\1. Assure that the use, processing, and safekeeping of customer information by the service provider comply with the Personal Information Protection Act, retain complete audit trails, and include compliance matter in key audit items.
+
+\2. Periodically evaluate cost benefit and the reasonableness of expense allocation within the group, and submit the report to the board of directors for approval.
+
+\3. The standards for information system security testing shall be no less rigorous than the requirements set forth by the competent authority or the Bankers Association.
+
+\4. Conduct one routine audit and one target audit at least annually, and submit an annual cross-border outsourcing audit report within four months after the end of the year. The aforementioned audits may be performed by an independent third party specializing in information technology.
+
+\5. Establish a business contingency plan in case of failure to provide services or service interruption by the service provider.
+
+\6. Specify in the outsourcing agreement the situations where the outsourced operations are transferred to another service provider or back to the financial institution, and the original service provider's obligations regarding system relocation and data processing, and the service provider's liability for damages in case of service interruption.
+
+In the case where a branch of a foreign financial institution in Taiwan outsources operations to the head office or other foreign branches to accommodate its internal division of work, the outsourcing shall be handled in accordance with paragraph 1 hereof.
+
+## Article 19
+
+A financial institution shall comply with the following rules when its outsourced operations involve cloud-based services:
+
+\1. Formulate policies and principles for using cloud-based services, adopt appropriate risk control measures, and heed the proper diversification of operations outsourced to cloud service providers.
+
+\2. A financial institution is ultimately responsible for the monitoring of cloud service providers and it shall have the professional skills and resources to monitor the cloud service providers' execution of outsourced operations. It may also request professional third parties to assist in monitoring operations as needed.
+
+\3. A financial institution may appoint an independent third party with expertise in information technology at its sole discretion or in conjunction with other financial institutions that outsource to the same cloud service provider to conduct audits. Meanwhile, financial institutions and their appointed parties shall comply with the following provisions:
+
+(1) A financial institution shall ensure that its audit scope includes important systems and control measures related to the operations outsourced to the cloud service provider.
+
+(2) A financial institution shall evaluate the suitability of a third party and verify that the contents of an audit report submitted by a third party meet the relevant international standards of information security and privacy protection.
+
+(3) A third party shall conduct audits based on the scope of outsourced operations and issue an audit report.
+
+\4. Where a financial institution transmits and stores customer data at a cloud service provider, it shall adopt customer data encryption, tokenization, or other effective protection measures and it shall also establish appropriate encryption key management mechanisms.
+
+\5. A financial institution shall retain complete ownership of data outsourced to cloud service providers for processing. The financial institution shall ensure that the cloud service provider does not have the right to access customer data except for the execution of outsourced operations and it may not use the data for purposes outside the scope of outsourced operations.
+
+\6. With respect to customer data processing by cloud service providers, and data storage location, the following rules shall be observed:
+
+(1) The financial institution shall retain the right to designate the location for the processing and storage of the data.
+
+(2) The local data protection regulations at the offshore location shall be no less rigorous than the requirements in the R.O.C..
+
+(3) The customer data of material retail financial business information systems shall be stored within the territory of the R.O.C. in principle. If such data are stored offshore, backups of important customer data shall be retained in the R.O.C., except with the approval of the competent authority.
+
+## Article 20
+
+When a financial institution outsources the following operations to service providers, Articles17 through the proceeding Article shall not apply:
+
+\1. Where a financial institution outsources the operation of its foreign branches and subsidiaries.
+
+\2. Where a financial institution outsources the development and maintenance of onshore information system to offshore institutions.
+
+## Article 21
+
+When outsourcing operations to service providers, a financial institution shall not violate any mandatory or prohibitive provisions, public order or good morals, and there shall not be any adverse impact on its business operations, management or the interests of its customers. A financial institution shall also ensure that the Banking Act, Money Laundering Control Act, Personal Data Protection Act, Consumer Protection Act, and other applicable laws and regulations are complied with.
+
+When outsourcing its operations to outside service providers, a financial institution shall vigorously observe applicable laws and regulations, business rules or self-regulatory agreement set forth by the Bankers Association, and rules and regulations promulgated by the National Federation of Credit Co-operatives, ROC.
+
+## Article 22
+
+The competent authority and the Central Bank may access relevant data or reports and conduct related financial examinations on the outsourced operations of a financial institution.
+
+Where a service provider violates these Regulations or other laws and regulations, the competent authority may, depending on the severity of the case, instruct the outsourcing financial institution to terminate the outsourcing arrangement pursuant to the outsourcing agreement, request the service provider to make improvement within a given period of time, or suspend the outsourcing arrangement until improvement made by the service provider is confirmed.
+
+## Article 23
+
+Unless it is otherwise provided in these Regulations, a financial institution shall bring its existing outsourcing activities that do not conform to the provisions herein in compliance with these Regulations within one year following its promulgation.
+
+## Article 24
+
+The Regulations herein are in force on the date of promulgation.
+
+## History
+
+\1. Promulgated on September 18, 2006
+
+\2. Full text of 24 articles amended on February 8,2012
+
+\3. Amendments on 9 May 2014 per Order Jin-Guan-Yin-Wai-Zi No. 10300084180
+
+\4. Amendments on 30 September 2019 per Order Jin-Guan-Yin-Wai-Zi No. 10802725940
+
+\5. Amendments on 25 August 2023 per Order Jin-Guan-Yin-Wai-Zi No. 11202726731
+
+\6. Amendments on 13 April 2026 per Order Jin-Guan-Yin-Wai-Zi No. 11502708171

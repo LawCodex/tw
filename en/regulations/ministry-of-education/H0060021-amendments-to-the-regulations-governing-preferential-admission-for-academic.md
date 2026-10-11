@@ -1,0 +1,245 @@
+---
+title: "Amendments to the Regulations Governing Preferential Admission for Academic Advancement for Students with Outstanding Achievements in International Mathematics or Science Olympiads and International Science Fairs"
+title_zh: "參加國際數理學科奧林匹亞競賽及國際科學展覽成績優良學生升學優待辦法"
+identifier: "H0060021"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞教育通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-04-23
+last_amended: 2025-08-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0060021"
+retrieved: 2026-10-12
+---
+
+# Amendments to the Regulations Governing Preferential Admission for Academic Advancement for Students with Outstanding Achievements in International Mathematics or Science Olympiads and International Science Fairs
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0060021-amendments-to-the-regulations-governing-preferential-admission-for-academic.md](../../../zh/regulations/ministry-of-education/H0060021-amendments-to-the-regulations-governing-preferential-admission-for-academic.md)) is authoritative.
+
+## Article 1
+
+These Regulations have been formulated in accordance with the provisions of Paragraph 3, Article 25 of the University Act, Paragraph 1, Article 32 of the Junior College Act, and Paragraph 1, Article 41 of the Senior High School Education Act.
+
+## Article 2
+
+The terms used in these Regulations are defined as follows:
+
+1.“international mathematics and science olympiads” refers to the following olympiads:
+
+(1)the International Mathematical Olympiad (IMO), the International Physics Olympiad (IPhO), the International Chemistry Olympiad (IChO), the International Biology Olympiad (IBO), the International Earth Science Olympiad (IESO), and the International Olympiad in Informatics (IOI).
+
+(2)The Asian Pacific Mathematics Olympiad (APMO) and the Asian Physics Olympiad (APhO).
+
+(3)The International Junior Science Olympiad (IJSO).
+
+(4)The European Girls' Mathematical Olympiad (EGMO)
+
+(5)Other international mathematics or science olympiads recognized by the Ministry of Education (hereunder abbreviated to “the Ministry”)
+
+2.“international science fairs” refers to the Regeneron U.S. International Science and Engineering Fair (ISEF) and other international science fairs recognized by the Ministry in which the competing participants have been selected by the National Taiwan Science Education Center.
+
+3.“preferential admission for academic advancement” refers to guaranteed admission or recommended admission to the next level of education by providing places in addition to the normal admission quota.
+
+4.“senior secondary school level student” refers to any senior secondary school student, or any student who is receiving non-school-based experimental education at the senior secondary school level who is not registered as a student at a senior secondary school.
+
+5.“college or university” refers to a university, university of technology, or a college of technology with four-year programs.
+
+6.“department of a corresponding discipline area” refers to a department of the same discipline area as that of the competitive event that an outstanding student participated in.
+
+## Article 3
+
+A senior secondary school student who represents Taiwan in an international mathematics or science olympiad with outstanding results and meets the admission requirements may apply for guaranteed admission or recommended admission to a college or university of their choice in accordance with the provisions below:
+
+1.Students who receive a gold medal at an international mathematical, physics, chemistry, biology, earth sciences, or informatics olympiad will receive guaranteed admission to a department of a corresponding discipline area at a college or university; guaranteed admission to any department of an associated college of science, engineering, medicine, agriculture, life sciences, electrical engineering, or information science; or recommended admission to any department at a college or university.
+
+2.Students who receive a silver medal at an international mathematical, physics, chemistry, biology, earth sciences, or informatics olympiad will receive guaranteed admission to a department of a corresponding discipline area at a college or university; guaranteed admission to any department of an associated college of science, engineering, agriculture, life sciences, electrical engineering, or information science at a college or university; or recommended admission to any department at a college or university.
+
+3.Students who receive a bronze medal or an Honorable Mention at an international mathematics, physics, chemistry, biology, earth sciences, or informatics Olympiad; a gold medal, a Peter O’Halloran Prize, a silver medal, or a bronze medal at the Asian Pacific Mathematics Olympiad; or a gold medal, silver medal, or bronze medal at the Asian Physics Olympiad or the European Girls' Mathematical Olympiad, will receive guaranteed admission to a department of a corresponding discipline area at a college or university, or recommended admission to any department at a college or university.
+
+4.Students who receive an Honorable Mention at the Asian Pacific Mathematics Olympiad, Asian Physics Olympiad or European Girls' Mathematical Olympiad, or who participate in the final selection and training round for an international mathematics or science Olympiad, , complete the training and receive a recommendation from the selection and training committee (in principle, such students will be in the upper 50 percent of the list) will be recommended admission to any department at a college or university.
+
+## Article 4
+
+A senior secondary school level student who represents Taiwan in an international science fair with outstanding results and meets the admission requirements may apply for guaranteed admission or recommended admission to a college or university of their choice, in accordance with the provisions below:
+
+1.A student who receives a 1st Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive guaranteed admission to a department of a corresponding discipline area at a college or university, or to any department of an associated college of science, engineering, medicine, agriculture, life sciences, electrical engineering, or information science; or recommended admission to any department at a college or university.
+
+2.A student who receives a 2nd Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive guaranteed admission to a department of a corresponding discipline area at a college or university, or to any department of an associated college of science, engineering, agriculture, life sciences, electrical engineering, or information science; or recommended admission to any department at a college or university; or recommended admission to any department at a college or university.
+
+3.A student who receives a 3rd Place Grand Award or a 4th Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive guaranteed admission to a department of a corresponding discipline area at a college or university; or recommended admission to any department at a college or university.
+
+4.A student who has been selected to represent Taiwan regularly in an international science fair will receive recommended admission to a department of a corresponding discipline area at a college or university.
+
+## Article 5
+
+A senior secondary school level student in any one of the circumstances listed below who also meets the enrollment requirements may apply for guaranteed admission to a two-year junior college program at a junior college of the student’s choice:
+
+1.A student who receives an award at the Asian Pacific Mathematics Olympiad or the European Girls' Mathematical Olympiad.
+
+2.A student who participates in the final selection and training round and completes the training for an international mathematics and science olympiad, except those referred to in the preceding subparagraph.
+
+3.A student has been selected to represent Taiwan regularly in an international science fair.
+
+## Article 6
+
+A junior high school student in any one of the circumstances listed below who also meets the enrollment requirements may apply for guaranteed admission to a senior secondary school or a five-year program at a junior college of the student’s choice:
+
+1.A student who receives an award at the Asian Pacific Mathematics Olympiad or the European Girls' Mathematical Olympiad.
+
+2.A student who participates in the final round of selection and training and completes the training for any international mathematics and science olympiad except the olympiads referred to in the preceding subparagraph.
+
+3.A student who has been selected to represent Taiwan regularly in an international science fair.
+
+## Article 7
+
+Graduating students who meet the eligibility requirements set out in the preceding four articles and who are applying for guaranteed or recommended preferential admission for academic advancement shall, within two months after meeting the requirements, submit a photocopy of their graduation certificate or a photocopy of a certification that the student has completed non-school-based experimental education at the senior secondary school level, a photocopy of the award certificate received while representing Taiwan or related documentary evidence, and the original copies of their transcripts for all years. The applications are handled in accordance with the following provisions:
+
+1.International mathematics or science olympiads:
+
+(1)The applications of junior high and senior secondary school students are submitted to the Ministry by their schools for it to handle.
+
+(2)The competent authority of the special municipality, county, or city where students who are not registered as a student at a senior secondary school are receiving non-school-based experimental education at the senior secondary school level will submit such students’ applications to the Ministry for it to handle.
+
+2.International science fairs:
+
+(1)The applications of junior high school and senior secondary school students will be submitted to the organizing unit in Taiwan by their respective schools and the organizing unit will review and then forward the applications to the Ministry for it to handle.
+
+(2)The applications of students who are not registered as a student at a senior secondary school who are receiving non-school-based experimental education at the senior secondary school level will be submitted to the organizing unit in Taiwan by the competent authority of the students’ special municipality, county, or city and the organizing unit will review and then will review and then forward the applications to the Ministry for it to handle.
+
+The application for preferential admission for academic advancement of a student who is not graduating in the current academic year who meets the eligibility criteria set out in the preceding four articles shall be lodged within two months after the beginning of the first semester of the academic year in which the student is scheduled to graduate and the application will be handled in accordance with the provisions of the preceding paragraph.
+
+If a student has not yet graduated, the graduation certificate or certification that must be submitted that is referred to in the two preceding paragraphs is replaced by a certificate of study. If a student who is not registered as a student at a senior secondary school is receiving non-school-based experimental education at the senior secondary school level, a document issued by the competent authority of the special the special municipality, county, or city where the student is verifying the student’s status will be used as a replacement for the graduation certificate or certification.
+
+Students applying for preferential admission for academic advancement in accordance with the provisions of the preceding four articles and of the preceding three paragraphs shall rank their applications based on where they prefer to undertake their next level of education. When a student meets the eligibility criteria to lodge two or more applications at the same time, the student shall rank the different applications based on their personal preferences. Once the application has been submitted to the Ministry, the student is not permitted to apply to change them, add more preferences, or change the order of their preferences. If the student is accepted by two or more colleges or universities, the student will be admitted to the college or university that the student ranked highest.
+
+Apart from students applying for guaranteed admission to the department of medicine  or the department of dentistry of a college or university, for which each college or university may separately set regulations governing student admission reviews, if the Ministry has reviewed a student and the student meets the eligibility criteria for guaranteed admission, the college or university shall accept the student.
+
+## Article 8
+
+A student who competes in international mathematics or science olympiad with outstanding results is eligible for a scholarship awarded by the Ministry in accordance with the provisions set out below:
+
+1.Students who receive a gold medal at an international mathematics and science olympiad (except the Asian Pacific Mathematics Olympiad, the Asian Physics Olympiad, or the European Girls' Mathematical Olympiad) will receive a scholarship of NTD $200,000.
+
+2.Students who receive a silver medal at an international mathematics and science olympiad (except the Asian Pacific Mathematics Olympiad, Asian Physics Olympiad or European Girls' Mathematical Olympiad); a Gold Award or a Peter O’Halloran Prize at the Asian Pacific Mathematics Olympiad; or a gold medal at the Asian Physics Olympiad or the European Girls' Mathematical Olympiad will receive a scholarship of NTD $100,000.
+
+3.Students who receive a bronze medal or an Honorable Mention at an international mathematics or science olympiad except the Asian Pacific Mathematics Olympiad, the Asian Physics Olympiad, or the European Girls' Mathematical Olympiad); a Silver Award at the Asian Pacific Mathematics Olympiad; or a silver medal at the Asian Physics Olympiad or the European Girls' Mathematical Olympiad will receive a scholarship of NTD $50,000.
+
+If a student receives two or more awards in the same year, in the same disciplinary area or in different disciplinary areas, the student shall select the best scholarship on the basis of which scholarship offers the largest amount.
+
+## Article 9
+
+A student who participates in an international science fair with outstanding results may be awarded a scholarship by the Ministry as set out in the provisions below:
+
+1.Students who receive 1st Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive a scholarship of NTD $200,000.
+
+2.Students who receive a 2nd Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive a scholarship of NTD $100,000.
+
+3.Students who receive a 3rd Place Grand Award or a 4th Place Grand Award at the Regeneron U.S. International Science and Engineering Fair will receive a scholarship of NTD $50,000.
+
+## Article 10
+
+A senior secondary school level student who represents Taiwan in an international mathematics, physics, chemistry, biology, earth sciences, or informatics olympiad and receives a gold medal and is in the upper 50 percent of the list of gold medal winners, or who takes part in the Regeneron U.S. International Science and Engineering Fair and receives a 1st Place Grand Award and subsequently obtains admission to a department or institute of mathematics or science at a leading foreign college or university recognized by the Ministry may apply to the Ministry for a scholarship to study abroad. Any student who is repeating a year of a program or any student who is admitted to another program at the same degree level through an entrance examination after having graduated will not receive any subsidy funding.
+
+When the calculation of the upper 50 percent of the list of gold medal winners referred to in the preceding paragraph results in a decimal place, it is rounded up to the next whole number.
+
+Students referred to in Paragraph 1 who apply for a scholarship to study a bachelor’s degree, master’s degree, or doctorate program abroad shall submit the documents listed below and apply within one year from the day that they graduate from the preceding educational stage.
+
+1.An application form.
+
+2.Documents demonstrating that the student has Republic of China citizenship and has household registration in the Taiwan Area.
+
+3.A photocopy of the award certificate or related documentary evidence.
+
+4.A photocopy of a certificate of admission to a program in a department or institute of mathematics or science at a leading college or university overseas that is recognized by the Ministry (except a college or university in the Mainland Area, or the Hong Kong, or Macao areas).
+
+Students who apply for a scholarship to study abroad under these Regulations and pass a review by the Ministry will each receive a scholarship to study abroad; the scholarship amount will differ for different countries.
+
+A student whose application for a scholarship to study abroad has been reviewed and approved by the Ministry shall sign an agreement with the Ministry. The agreement shall include the amount of the scholarship, the duration of the scholarship, and any subsequent requirements for the student, reasons for which the scholarship will be terminated or scholarship funds must be repaid, and other rights and obligations.
+
+The Ministry shall establish a panel that is responsible for providing long-term guidance to the students who go abroad to study referred to in the preceding paragraph, monitoring their study circumstances, and providing necessary services.
+
+## Article 11
+
+A senior secondary school level student who represents Taiwan in an international mathematics, physics, chemistry, biology, earth sciences, or informatics olympiad; the Asian Pacific Mathematics Olympiad, Asian Physics Olympiad, European Girls' Mathematical Olympiad; or the Regeneron U.S. International Science and Engineering Fair who meets the meets the eligibility criteria set out in Paragraph 1, Article 8 or in Article 9 will be given a scholarship reward or a subsidy during the period in which they are undertaking a bachelor’s degree program in a department related to mathematics or science at a college or university in Taiwan, in accordance with the following provisions:
+
+1.Each academic year any students listed among the top three in their course year in their department will be awarded a scholarship reward of NTD $120,000.
+
+2.A student who attends an international academic conference and presents a research paper will receive subsidies in accordance with the provisions below:
+
+(1)For the cost of a round-trip economy class airfare, associated living expenses and registration fee, no more than once a year.
+
+(2)If a research paper is co-authored, only one of the co-authors will receive the associated subsidy.
+
+(3)If the student is severely disabled, one round-trip economy class airfare is subsidized for a caregiver for the student.
+
+The college or university a student is attending shall apply to the Ministry on behalf of the student for the scholarship reward referred to in Subparagraph 1 of the preceding paragraph within two months after the end of the academic year and submit a list of students applying and receipts. The period for which the scholarship reward is given does not include any period after a student has transferred to a different college or university or any extension of the standard period for completing the degree program.
+
+After returning to Taiwan, a student who receives the subsidy referred to in Subparagraph 2 of Paragraph 1 shall submit a report on the international academic conference that they attended, within the period stipulated in the ordinances. If a student fails to comply with this requirement, the Ministry will not accept any application from the student for a subsidy to attend a future international academic conference.
+
+## Article 12
+
+If any document or information used to apply for any scholarship or subsidy in accordance with these Regulations contains any falsehood or misrepresentation, the Ministry may revoke that applicant’s eligibility to receive the scholarship or subsidy. If the associated funds have already been issued the Ministry will notify the recipient in writing that an administrative disposition has been taken and that the recipient of the funds must return the funds within a specified period.
+
+Unless the provisions of other legislation state otherwise, a student who receives a subsidy referred to in Paragraph 1, Article 10 or Subparagraph 2, Paragraph 1 of the preceding article is not permitted to apply to the Taiwanese government for another related subsidy or anything similar in nature. If it is investigated and confirmed that a student has applied for another related subsidy or anything similar in nature, the Ministry may revoke that applicant’s eligibility to receive the subsidy. If the subsidy funds have already been issued the Ministry will notify the recipient in writing that an administrative disposition has been taken and that the recipient of the funds must return the funds within a specified period.
+
+## Article 13
+
+Students who receive preferential admission for academic advancement or a scholarship through these Regulations shall assist the Ministry hold activities where they share their experiences, with training teams that will represent Taiwan, with development of teaching materials, and by cooperating with the collection of long-term follow-up data on highly- skilled people, to promote science education related matters.
+
+## Article 14
+
+The Ministry may form a committee to coordinate and review matters relating to preferential admission for academic advancement and scholarship awards for students who take part in international mathematics or science olympiads or international science fairs and achieve outstanding results. The Ministry will prescribe the method of selecting its members of the committee, and the procedures and the criteria for the reviews it conducts.
+
+## Article 15
+
+Any college or university that provides guaranteed admission or recommended admission to the next level of education shall carry out regular follow-up guidance of the students admitted through guaranteed admission or recommended admission.
+
+## Article 16
+
+The Ministry will prescribe the format of documents and forms required under these Regulations.
+
+## Article 17
+
+The provisions of the amendment to Subparagraph 1, Paragraph 1, Article 11 of these Regulations which was promulgated on October 28, 2022 apply to students who are admitted to a college or university in the 2023 academic year or later.
+
+## Article 17-1
+
+The provisions of the amendments to Article 3, Article 8, and Article 11 of these Regulations that were promulgated on July 31, 2024 apply to students who received an award in the European Girls' Mathematical Olympiad before the amendments took effect who have not yet applied for preferential admission for academic advancement or who have not yet been given a scholarship, a reward, or a subsidy. Such students who apply for preferential admission for academic advancement in the year that they graduate shall do so within one month from the date that the amendments came into effect and their applications will be handled in accordance with the provisions of Article 7.
+
+The provisions of the amendments to Article 5 and Article 6 of these Regulations that were promulgated and came into effect on July 31, 2024 apply to students who received an award in the Asian Pacific Mathematics Olympiad or the European Girls' Mathematical Olympiad before that date but have not yet applied for admission to a university or college.
+
+## Article 18
+
+These Regulations take effect from January 1, 2023.
+
+The amendments to these Regulations come into effect on the date of promulgation.
+
+## History
+
+1.Promulgated on April 23,2004
+
+2.Amended on October 28,2004
+
+3.Amended on May 09,2005
+
+4.Amended on August 21,2006
+
+5.Amended on March 26 , 2008
+
+6.Amended on August 23,2013
+
+7.Amended on January 28,2015
+
+8.Amended on October 11,2016
+
+9.Amended on November 05, 2018
+
+10.Amended on October 28, 2022
+
+\11. Amended on July 31, 2024
+
+\12. Amended on August 29, 2025

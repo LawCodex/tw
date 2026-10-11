@@ -1,0 +1,143 @@
+---
+title: "Regulations Governing Payment to the Veterans Long-term Residence In China"
+title_zh: "就養榮民赴大陸地區長期居住就養給付發給辦法"
+identifier: "Q0060005"
+type: regulation
+law_level: "命令"
+category: "行政＞國軍退除役官兵輔導委員會＞就養目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-01-14
+last_amended: 2017-11-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=Q0060005"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Payment to the Veterans Long-term Residence In China
+
+> Translation. The Chinese text ([zh/regulations/veterans-affairs-council/Q0060005-regulations-governing-payment-to-the-veterans-long-term-residence-in-china.md](../../../zh/regulations/veterans-affairs-council/Q0060005-regulations-governing-payment-to-the-veterans-long-term-residence-in-china.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 3, Article 27 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area(hereinafter referred to as "the Act").
+
+## Article 2
+
+For the home-cared veterans approved by the Veterans Affairs Council, (hereinafter referred to as " VAC") who have been approved to reside in China, the home-care allowance shall be paid in accordance with these Regulations.
+
+## Article 3
+
+China born veterans who are approved of fully government-paid home-care and placed in VAC affiliated Veterans’ Homes (hereinafter referred to as “VH”) shall apply for long-term residence in China, and the applicants shall be in sufficient health conditions; veterans with disabilities must be accompanied by relatives.
+
+Where a resettled veteran as referred to in the preceding paragraph has spouse or any underage child in Taiwan, the veteran shall, together with his spouse or child, apply for going to China for long-term residence; besides, other related laws and regulations restricting emigration shall apply. Nonetheless, where it is agreed by the spouse or the underage child has a proper guardian, and a notarized letter of consent is produced, the veteran may solely apply for going to China for long-term residence.
+
+Payment for veterans who have been approved living in China before the regulations amendment on November 28 2017, are not subject to the preceding paragraph regarding their birthplaces.
+
+## Article 4
+
+To go to China for long-term residence, a resettled veteran must file an application to VH where he is resettled prior to emigration, and handle the emigration affairs in accordance with relevant provisions.Where a resettled veteran entered China with permission stays in China due to serious illness or force majeure and has been deprived of the payment in accordance with relevant provisions, but has not set domicile in China or received a P.R.C passport, he may submit the related documents produced by an agency established or designated or a civil association commissioned by the Executive Yuan to VH in which where he was ever resettled, to apply for recovery of the payment and for long-term residence in China.
+
+## Article 5
+
+To apply for going to China for long-term residence, fully government-paid home-cared veterans shall submit the following documents:
+
+\1. Application Form;
+
+\2. Letter of consent for supporting or living together with the veteran, produced by the relatives in China, and verified by an agency established or designated by or a civil association commissioned by the Executive Yuan;
+
+\3. Affidavit;
+
+\4. ROC Veterans ID Card;
+
+\5. National ID Card;
+
+\6. Household Registration Records of the whole family;
+
+\7. Affidavit on the liquidation of private properties, creditor’s rights and debts; and
+
+\8. Certificates set forth in Article 3.
+
+The documents listed in Subparagraphs 4 and 5 of the preceding paragraph will be returned after the process of examination by VH.
+
+## Article 6
+
+For an application for going to China for long-term residence, after the relevant documents are examined, VH shall immediately determine whether or not to approve the application, notify the applicant about the result, and inform VAC and other government agencies concerned.
+
+## Article 7
+
+The benefits which fully government-paid home-cared veterans residing in China may enjoy are as follows:
+
+\1. Spending money;
+
+\2. Food subsidy;
+
+\3. Clothes subsidy;
+
+\4. Holiday benefits; and
+
+5.Spring Festival spending money.
+
+## Article 8
+
+The inquiry about the payment raised by the veterans residing in China shall be answered by the original VH in which they were ever resettled.
+
+## Article 9
+
+The payment is handled by the pre-host VH and based upon the following rules:
+
+\1. Initial payment：Paying off to the next quarter on the first day of the next month of emigration.
+
+2.Subsequent payment：Paying off quarterly in January, April, July, and October prior to the end of every quarter.
+
+## Article 10
+
+Before Veterans emigrate to China for long-term residence, fully government-paid home-cared veterans shall leave all the fingerprint cards as reference for the subsequent payment. Every year VH shall, within a specified time limit, send (mail) the fingerprint papers of the year to the veterans residing in China, and the veterans shall press their fingerprints and send (mail) back the papers to VH within a specified time limit.
+
+VH shall handle the subsequent payments according to the fingerprint papers sent (mailed) back by the veterans on schedule.
+
+Regulations governing the sending (mailing) operations referred to in the preceding paragraph will be prescribed by VAC otherwise.
+
+## Article 11
+
+The accommodation registration of the veterans approved to reside in China shall be kept by VH in which the veterans were originally resettled.
+
+## Article 12
+
+Where fully government-paid home-cared veterans residing in China passes away, his relatives may submit a death certificate verified by an agency established or designated by or a civil association commissioned by the Executive Yuan to apply for payment of the funeral and interment expenses. However, if the total amount of payment received after death is more than the funeral and interment expenses, no subsidy for funeral and interment will be granted; in case the amount is less than the expenses, only the shortage will be granted.
+
+## Article 13
+
+Where fully government-paid home-cared veterans approved to reside in China has his domicile set in China or holds a passport of P.R.C, he will be deprived from the payment.
+
+Where a resettled veteran deprived of the payment under the preceding paragraph has its identity as Taiwanese recovered by the Ministry of the Interior, he may file an application with VH in which he was ever resettled for recovery of accommodation. The same for those who deprived from accommodation under Paragraph Two, Article 27 of the Act.
+
+## Article 14
+
+The provisions of Articles 7~12 shall apply mutatis mutandis to the payment for the veterans who have been approved to reside in China before these Regulations come into force.
+
+## Article 15
+
+Regulations governing the forms, letters and cards, and the fundamentals for applying for long-term residence and payment shall be prescribed by VAC otherwhere.
+
+## Article 16
+
+These Regulations shall take effect as of the date of promulgation.
+
+## History
+
+1.Promulgated on January 14, 1993
+
+2.Amended on September 27, 1993
+
+3.Amended on September 20,2000
+
+4.Amended on August 28, 2001
+
+5.Amended on February 28, 2004
+
+6.Amended on March 26, 2015
+
+7.Amended on November 28, 2017

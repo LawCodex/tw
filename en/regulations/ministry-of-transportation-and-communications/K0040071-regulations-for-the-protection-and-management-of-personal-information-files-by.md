@@ -1,0 +1,217 @@
+---
+title: "Regulations for the Protection and Management of Personal Information Files by Parking Facility Operators"
+title_zh: "停車場經營業個人資料檔案安全維護管理辦法"
+identifier: "K0040071"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞公路目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-09-24
+last_amended: 2025-12-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040071"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Protection and Management of Personal Information Files by Parking Facility Operators
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0040071-regulations-for-the-protection-and-management-of-personal-information-files-by.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0040071-regulations-for-the-protection-and-management-of-personal-information-files-by.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with Paragraph 3, Article 27 of the Personal Information Protection Act (the Act).
+
+## Article 2
+
+Parking operation businesses keeping personal information files shall take appropriate security measures to prevent them from being stolen, altered, damaged, destroyed or disclosed. Parking operation businesses selling monthly passes and other registered tickets shall establish a plan of security measures for personal information files (the Security Plan).
+
+For parking operation businesses setting up the Security Plan referred to in the preceding paragraph, they, if newly established, shall submit the Security Plan to the local authority in charge for future reference when applying for the parking registration certificate. Those having received the parking registration certificate shall submit the Security Plan to the local authority in charge within six months from the implementation date of these Regulations. The Security Plan shall include the organizations and procedures prescribed in Articles 3 through 20 and shall be reviewed and modified on a regular basis according to related laws and regulations.
+
+## Article 3
+
+For the security of personal information files, a parking operation business shall appoint an employee or establish/contract an organization to be in charge.
+
+The employee or organization referred to in the preceding paragraph shall take charge of the following tasks:
+
+\1. Plan, set up, modify, and execute the Security Plan and the disposal measures for the personal information after termination of business and report to the person in charge of the parking operation business on a regular basis.
+
+\2. Set up a personal information protection policy and make the basis and specific purpose of collection, processing, and use of personal information as well as other related matters clear to all employees of the parking operation business.
+
+\3. Organize training courses on basic knowledge and specialties on a regular basis to enable all employees of the parking operation business to understand the laws and regulations pertaining to personal information protection, their responsibilities, and internal methods or measures for personal information protection.
+
+## Article 4
+
+Parking operation businesses shall confirm the specific purpose of collection of personal information, define the type or scope of personal information collected, processed, and used based on the necessity of the specific purpose, and examine personal information which they keep on a regular basis.
+
+If one of the following situations is found in the examination referred to in the preceding paragraph, parking operation businesses shall delete and stop collecting, processing or using personal information voluntarily or upon the party's request:
+
+\1. Personal information is outside the necessary scope of the specific purpose; or
+
+\2. The specific purpose no longer exists or time period expires without the proviso prescribed in Paragraph 3, Article 11 of the Act.
+
+## Article 5
+
+Parking operation businesses shall set up appropriate controls in accordance with the defined scope of personal information and the procedures for collecting, processing, and using personal information.
+
+## Article 6
+
+To address the incident of personal information kept by a parking operation business being stolen, altered, damaged, destroyed or disclosed, parking facility operators shall establish the following measures:
+
+\1. Taking appropriate contingency measures to control the damage caused by the incident to the party.
+
+\2. Investigating the incident and notifying the party of the incident and contingency measures taken in an appropriate way prescribed in Article 12 of this Regulation. The notification shall lay out the facts of the incident, the response measures adopted by the operator, and the consultation service hotline provided.
+
+\3. Reviewing defects and developing preventive measures to prevent similar incidents from happening again.
+
+When the incidents under the preceding paragraph occur, the parking operation businesses shall report to the local authority in charge and notify the central competent authority (the MOTC) within 72 hours after the incidents; if the notification is not made within the time limit, the reason for the delay should be indicated (notification form as attached). After the local authority in charge receives the notifications, with the power granted in Articles 22 to 25 of this Regulation, the mentioned authority is entitled to take appropriate supervisory and management measures.
+
+## Article 7
+
+Parking operation businesses shall examine and confirm whether information collected, processed, and used contains personal information and its specific purpose prescribed in Article 6 of the Act and whether it meets the requirements of related laws and regulations.
+
+## Article 8
+
+To comply with the obligation of notification prescribed in Articles 8 and 9 of the Act, parking operation businesses shall take action as follows:
+
+\1. Examine the specific purpose of collection and processing of personal information.
+
+\2. Examine whether the collection and processing of personal information meet the cause of exemption from the notice; send the notice in an appropriate way based on the collection of personal information if the cause of exemption from the notice is not met.
+
+## Article 9
+
+Parking operation businesses shall examine whether the collection and processing of personal information complies with the specific purpose and statutory requirements prescribed in Article 19 of the Act.
+
+Parking operation businesses shall examine whether the use of personal information complies with the necessary scope of the specific purpose prescribed in Paragraph 1, Article 20 of the Act. If personal information is used outside the specific purpose, parking operation businesses shall examine whether the use of personal information complies with the statutory requirements outside the specific purpose.
+
+## Article 10
+
+When using personal information for marketing for the first time, parking operation businesses shall provide the party a cost-free way to refuse to accept marketing; after the party refuses to accept marketing, parking operation businesses shall stop using his/her personal information for marketing immediately and notify all employees.
+
+## Article 11
+
+When parking operation businesses commission others to collect, process, or use all or part of personal information, they shall supervise appropriately in accordance with Article 8 of the Enforcement Rules of the Act and explicitly stipulate matters and methods of supervision.
+
+## Article 12
+
+To enable the party to exercise his/her rights prescribed in the Act, parking operation businesses may take action as follows:
+
+\1. Confirm whether the party is the individual whose personal information is collected, processed or used or the commissioned individual.
+
+\2. Provide the party a way to exercise his/her rights and comply with the period of processing prescribed in Article 13 of the Act.
+
+\3. Notify the party of any necessary fees.
+
+\4. Notify the party of the reasons to refuse the party to exercise his/her rights in accordance with Articles 10 and 11.
+
+## Article 13
+
+To maintain the correctness of personal information which parking operation businesses keep, they may take action as follows:
+
+\1. Examine whether personal information is collected, processed, or used correctly.
+
+\2. Correct or supplement personal information in a timely manner when finding it incorrect.
+
+\3. Act in accordance with Paragraph 2, Article 11 of the Act in case of disputes over the correctness of personal information.
+
+In cases where parking operation businesses shall be negligent in correcting or supplementing personal information, persons to whom the personal information was provided shall be notified after the correction or supplement.
+
+## Article 14
+
+Parking operation businesses shall take the following security measures for personal information files:
+
+\1. When collecting, processing, or using personal information by computers or automated machines, parking operation businesses shall stipulate the use of portable devices or storage media.
+
+\2. If personal information kept by parking operation businesses needs to be encrypted, it shall be encrypted appropriately when collected, processed, or used.
+
+\3. If personal information needs backup during operation, it shall be protected as the original in accordance with the Act.
+
+\4. When papers, drives, tapes, discs, micro-disks, and integrated circuit chips where personal information is stored are scrapped or used for other purposes, appropriate preventive measures shall be taken to avoid the leaks of personal information. If parking operation businesses commission others to do so, Article 11 shall apply.
+
+## Article 14-1
+
+Parking operation businesses which provide e-commerce service system should adopt the following information security measures:
+
+\1. User identity confirmation and protection mechanism.
+
+\2. Data masking mechanism for personal information display.
+
+\3. Security encryption mechanism for Internet data transmission.
+
+\4. Access control and protection monitoring measures for personal data files and databases.
+
+\5. Prevention mechanism for external network intrusion.
+
+\6. The monitoring and responding countermeasures of illegal or abnormal use of the system.
+
+The term “e-commerce” of the preceding paragraph refers to the advertising, marketing, supply, ordering, delivery or other commercial transactions of goods or services via the Internet.
+
+The countermeasures and mechanism specified in Subparagraph 5 and 6 of Paragraph 1 should be regularly rehearsed and reviewed for improvement.
+
+## Article 15
+
+Parking operation businesses shall take the following measures to manage their employees:
+
+\1. Set different authorities and control employees' access to personal information based on the operational needs.
+
+\2. Examine the employees involved in the collection, processing, and use of personal information in their business processes.
+
+\3. Obtain a signed "obligation of confidentiality" agreement from employees.
+
+\4. After resigning or completing assigned tasks, employees shall hand over personal information obtained for the purpose of performing their tasks; the employees shall not continue using personal information by obtaining the duplicates in private.
+
+## Article 16
+
+Parking operation businesses shall take the following measures to manage the environment of papers, drives, tapes, discs, micro-disks, integrated circuit chips, and computers or automated machines where personal information is stored:
+
+\1. Take appropriate methods to control access based on the content of the operation.
+
+\2. Employees shall take proper care of storage media where personal information is kept.
+
+\3. Install air-conditioning, firefighting, deworming and other protective equipment or technology appropriately based on the environment of storage media.
+
+## Article 17
+
+After parking operation businesses terminate business, personal information kept by them shall be shall processed and recorded as follows:
+
+Records shall be kept for at least five years:
+
+\1. If personal information is destroyed, the method, time, location, and proof of destruction shall be recorded.
+
+\2. If personal information is transferred, the reason, object, method, time, and location of transfer shall be recorded; the legal basis for retaining personal information may be kept by parking operation businesses.
+
+\3. If personal information is deleted or ceased to be processed or used, the method, time or location of deletion or cease shall be recorded.
+
+## Article 18
+
+After operating, parking operation businesses shall set up measures to audit the security of personal information and to examine whether employees implement the prescribed Security Plan or the disposal measures for personal information after termination of business on a regular basis or from time to time.
+
+## Article 19
+
+Parking operation businesses shall take measures to record the use of personal information, history of automated machines or related evidence, so as to explain the progress of the Security Plan when necessary;
+
+Related records shall be kept for at least five years.
+
+## Article 20
+
+Parking operation businesses shall examine whether the Security Plan is appropriate by taking into account the operation, public opinions, technological development, and changes in laws and regulations, and may modify it when necessary.
+
+The Security Plan referred to in the preceding paragraph shall be submitted to the local authority in charge for future reference within six months after modification.
+
+## Article 21
+
+The implementation date of these Regulations shall be determined by the Ministry of Transportation and Communications.
+
+## Attachments
+
+- [Regulations for the Security Protection Plans for and Processing of Personal Information Files in Parking Facility Operation.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007364)
+
+## History
+
+1.Promulgated on Sep 24, 2015.
+
+2.Amended on March 23, 2022.
+
+3.Amended on Dec 9, 2025.

@@ -1,0 +1,183 @@
+---
+title: "Regulations for the Labeling and Safety Data Sheets for Toxic and Concerned Chemical Substances"
+title_zh: "毒性及關注化學物質標示與安全資料表管理辦法"
+identifier: "O0060037"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-12-17
+last_amended: 2022-11-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060037"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Labeling and Safety Data Sheets for Toxic and Concerned Chemical Substances
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060037-regulations-for-the-labeling-and-safety-data-sheets-for-toxic-and-concerned.md](../../../zh/regulations/ministry-of-environment/O0060037-regulations-for-the-labeling-and-safety-data-sheets-for-toxic-and-concerned.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated pursuant to Article 17, Paragraph 2, and Article 27, Paragraph 2 of the Toxic and Concerned Chemical Substances Control Act (herein referred to as this Act).
+
+## Article 2
+
+The terminologies in the regulations are defined as follows:
+
+I. Containers and packaging: These refer to any bags, drums, bottles, boxes, cans, barrels, and other equipment that can be used to contain toxic and concerned chemical substances, but should not include storage tanks, pipes, reactors, and other fixed facilities
+
+II. Handling premises and facilities: These refer to sites for the manufacture, import, export, sale, transport, use, and storage for toxic and concerned chemical substances, pipelines, and other fixed facilities, including storage tanks, reactors, and transport-related holding, loading, and unloading sites, but do not refer to facilities used to perform chemical reactions or the engines, fuel tanks, or other operating systems for transportation vehicles.
+
+## Article 3
+
+The containers or packaging of toxic and concerned chemical substances should comply with the classification and labeling elements that are determined by the National Standard CNS 15030 and should clearly mark the following items in accordance with the format as the attached Table Labeling Format:
+
+I. Pictograms: A square presented at a 45° angle to the vertical direction consisting of a red outline on a white background. The interior of the square should contain a suitable sized black symbol for identification.
+
+II. Contents:
+
+A. Name.
+
+B. Hazardous Ingredients: All toxic and concerned chemical substances exceeding the control concentration shall be labeled with the Chinese and English names announced by the central competent authority and the Chemical Abstracts Service Registry Number. The words "toxic chemical substances” or “concerned chemical substances" and the weight percentages of the substances contained therein shall be stated.
+
+C. Signal words.
+
+D. Hazard Statements
+
+E. Precautionary Statements
+
+F. Name, address, and telephone number of the manufacturer, vendor, or supplier.
+
+If the toxic and concerned chemical substances cannot be labeled in accordance with the classification and labeling elements in the National standard CNS 15030 due to their hazardous characteristics, only the name, hazardous ingredients, and the name, address, and telephone number of the manufacturer, importer or supplier should be labeled.
+
+Containers or packaging less than 100 milliliters specified in Paragraph 1 may be marked only with the name, hazard pictograms, and signal words.
+
+In addition to the first three paragraphs for labeling, the containers and packaging of toxic and concerned chemical substances should be labeled with supplemental information in accordance with “Categories and Management of Handling for Toxic Chemical Substances” and “Categories and Management of Handling for Concerned Chemical Substances”.
+
+## Article 4
+
+Label size of the containers and packaging should comply with the following requirements:
+
+I. Label size should not be smaller than 52 mm × 74 mm for volume under 3 liters.
+
+II. Label size should not be smaller than 74 mm × 105 mm for volume over 3 liters but under 50 liters.
+
+III. Label size should not be smaller than 105 mm × 148 mm for volume over 50 liters but under 500 liters.
+
+IV. Label size should not be smaller than 148 mm × 210 mm for volume over 500 liters.
+
+Due to the size, or shape, or material used for the container or packaging for toxic and concerned chemical substances, the labels may have difficulty meeting the prescription above, in which case fold-out labels, tie-on tags or outer packaging should be used instead and put on a conspicuous place. The size of such label does not subject to the preceding paragraph.
+
+## Article 5
+
+Manufacturers and importers should mark clearly on each container or
+
+packaging the toxic and concerned chemical substances. Purchasers should keep the clarity and integrity of labeling content of each container or package.
+
+## Article 6
+
+The user should label the containers or packaging of toxic and concerned chemical substances that are individually packaged or mixed for self-use as prescribed in Article 3.
+
+When, in the preceding paragraph, the same toxic and concerned chemical substances are contained in several containers or packages in the same location, a placard may replace the individual labels as prescribed in Article 9.
+
+## Article 7
+
+When any one of the following situations is applied, the containers or packaging of toxic and concerned chemical substances may be exempted from the prescription in Article 3:
+
+I. When the outer container or packaging is already labeled and the inner container or packaging is used only as lining and not subsequently removed.
+
+II. When the inner container or packaging is already labeled clearly and also easily seen from the outer container or packaging.
+
+III. Toxic and concerned chemical substances are taken from marked containers or packaging and immediately used solely by the team currently on duty.
+
+IV. Toxic and concerned chemical substances are taken from marked containers or packaging and used by a laboratory for experiment or research on a self-use basis.
+
+## Article 8
+
+Export the containers or packaging of exported toxic and concerned chemical substances may comply with international customary practices or solely comply with relevant regulations of the destination country.
+
+## Article 9
+
+Handling premises and facilities of toxic and concerned chemical substances should display a placard at a clearly visible place and label with pictograms, name, hazardous ingredients, signal words, hazard statements, precautionary statements, and supplemental information prescribed in Article 3, Paragraph 1 and 4.
+
+When a handling premise that handles various kinds of toxic and concerned chemical substances, all labeling content may be written on the same placard. If same contents appeared in hazard statements or precautionary statements mentioned in the preceding paragraph, they can be combined together in the text.
+
+If the placard and labeling contents of a handling premise and facility in Paragraphs 1 and 2 are the same as in other acts and regulations, all of them may be combined together in the text.
+
+## Article 10
+
+When any one of the following situations is applied, the handling premises and facilities of toxic and concerned chemical substances are exempted from the description in Article 9:
+
+I. A temporary storage site for toxic and concerned chemical substances when an application of disposal has been made pursuant to this Act.
+
+II. A warehouse that is prepared for the temporary place of nonspecific toxic and concerned chemical substances before or after transportation by air or sea has been already marked with the words "Dangerous Goods Storage".
+
+III. A handling premise that is employed solely for experimentation, research, and education, and only handles less than the graded handling quantity, with all of the entrances and exits of the site marked with the words " Handling Premises of Toxic Chemical Substances”, “Handling Premises of Concerned Chemical Substances”, or “Handling Premises of Toxic and Concerned Chemical Substances".
+
+## Article 11
+
+On the pipelines that carry the toxic and hazardous concerned chemical substances, the flow directions, Chinese names, English names or abbreviations of chemicals must be displayed clearly and conspicuously. If it is necessary, the markings can be replaced by tags.
+
+## Article 12
+
+A handler who is manufacturing or importing toxic and concerned chemical substances should prepare all of safety data sheets for each material in accordance with contents and formats assigned by the central competent authority.
+
+Following up the handling premise, a handler should regularly review, correct and update the contents of safety data sheets. A review process must be examined at least once every 3 years. Records of updating of content, date, and version, etc. should also be kept for three years for future reference.
+
+The emergency contact telephone number on the safety data sheets should be accessible at all times and able to answer questions about accidents.
+
+## Article 13
+
+When toxic and concerned chemical substances are imported or purchased from a customs auction by a controlling agency, the labeling of the containers or packaging and safety data sheets should be completed within four days after gaining possession of the substances.
+
+## Article 14
+
+When a toxic and concerned chemical substance is a mixture, safety data sheets should be prepared and labeling performed in accordance with the mixture’s toxicological hazard.
+
+For the toxic and concerned chemical substance in the preceding paragraph, the chemical identity of the hazardous ingredients should be listed and judged for their toxicological characteristics or other hazards based on the following:
+
+I. Toxicological characteristics and other hazards will be judged by the results of testing on the mixture as a whole if the testing on the mixture as a whole has been performed.
+
+II. If the testing on the mixture as a whole has not been performed, apart from where corroborating scientific data is available, the health hazard and environmental hazard of such substances should comply with mixture classification standards in the National Standard CNS15030. The physical hazard of substances such as combustion, explosion and reaction should be employed to assess the data with a scientific basis.
+
+## Article 15
+
+Toxic and concerned chemical substances with the same listed number and serial number but with different components or concentrations should prepare the different Chinese and English names and separate safety data sheets. When the hazardous components, usages and classifications are equal, the same safety data sheet is applicable.
+
+## Article 16
+
+Sellers of toxic and concerned chemical substances should have the safety data sheets available for purchasers of those toxic and concerned chemical substances.
+
+## Article 17
+
+Handlers of toxic and concerned chemical substances should keep the safety data sheets in an easily accessible location in the handling premise.
+
+## Article 18
+
+Container, packaging, handling premise and facility, labeling and safety data sheet of toxic and concerned chemical substances must be written mainly in Chinese. English may be added when necessary.
+
+## Article 19
+
+The Regulations take effect on January 16, 2020, except for Articles 3 and 12, which take effect on January 16, 2021.
+
+The amendments to the Regulations take effect on the date of issue, except for Articles 3 and 4, which take effect on October 31, 2023.
+
+## Attachments
+
+- [Attached Table Labeling Format.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007758)
+
+## History
+
+1.Original 18 articles determined and promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No.0960095329 on December 17, 2007.Enforcement from December 31, 2008 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No.0960101710 on December 31, 2007.
+
+2.Revisions to Articles 3 and 9 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0980078120 on September 7, 2009.
+
+3.Amended 18 articles promulgated by the Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 1030094561 on December 11, 2014.
+
+4.Amended 19 articles promulgated by the Environmental Protection Administration Order Huan-Shu-Hua-Tzu No. 1098000003 on January 13, 2020. Enforcement from January 16, 2020, except for Articles 3 and 12, which take effect on January 16, 2021.
+
+5.Revisions to Articles 3, 4, 9, 10, 14 and 19 promulgated by Environmental Protection Administration Order Huan-Shu-Hua-Tzu No. 1118120866 on November 4, 2022. Enforcement from November 4, 2022, except for Articles 3 and 4, which take effect on October 31, 2023.

@@ -1,0 +1,187 @@
+---
+title: "Regulations Governing the Assessment of Energy Development and Utilization"
+title_zh: "能源開發及使用評估準則"
+identifier: "J0130068"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞能源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-11-24
+last_amended: 2025-11-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130068"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Assessment of Energy Development and Utilization
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0130068-regulations-governing-the-assessment-of-energy-development-and-utilization.md](../../../zh/regulations/ministry-of-economic-affairs/J0130068-regulations-governing-the-assessment-of-energy-development-and-utilization.md)) is authoritative.
+
+## Article 1
+
+These regulations are promulgated pursuant to Article 15-1 of the Energy Administration Act (hereinafter referred to as the Act).
+
+## Article 2
+
+The terms applied in these regulations are defined as follows:
+
+\1. Volume: in circumstances of electricity generation or cogeneration systems, refers to installed capacity of power generation equipment; in circumstances of petroleum refineries and massive energy-consumption users, refers to chartered capacity of electricity consumption and installed capacity of self-usage power generation equipment.
+
+\2. Category: refers to coal (metric ton), petroleum (kiloliters of oil equivalent), natural gas (kilo cubic meter) and electricity (megawatt).
+
+\3. Location: north district, refers to areas located north of Feng-Shan River and north of He-Ping River; central district, refers to areas located south of Feng-Shan River, north of Cho-Shui River, and Hualien County; south district, refers to areas located south of Cho-Shui River not belonging to north and central district as well as Taitung County; offshore islands, refer to islands where no transmission lines connecting to the grid of the main island of Taiwan.
+
+\4. Application Period: identified by the planned years of the business operation on the energy utilization manual.
+
+\5. Letter of Approval for Electricity Consumption Plan: refers to the letter for the approval of applications of electricity consumption plans issued to the electricity enterprises.
+
+## Article 3
+
+These regulations apply to the energy users of massive investment and production plan of electricity generation, cogeneration systems, petroleum refineries and massive energy-consumption users (hereinafter referred to as energy users), and the Scope of Applied Energy Users is promulgated in accordance with Article 16, Section 4 of the Act.
+
+## Article 4
+
+Energy users shall submit the energy utilization manual for central competent authorities’ approval through authorities which accept such application before the energy consumption facilities are established or expanded. The applicants shall state the reasons and apply directly to a central competent authority if no local authorities accept the application.
+
+The preceding section applies mutatis mutandis when one of the following circumstances occur in content of the approved energy utilization manual:
+
+\1. Alteration of the energy use category.
+
+\2. Alteration of the location of energy consumption facilities.
+
+\3. Increase of the energy consumption volume.
+
+\4. Alteration of energy consumption efficiency.
+
+## Article 5
+
+Power generating plant energy users’ consumption volume, category, and location of application shall be calculated on the basis of nationwide staging and zoning installed capacity specified in the National Power Supply and Demand Report, and the applicable installed capacity of the category of energy in the applied period shall not be exceeded.
+
+The location shall be identified by the parallel connection point between the power transmission lines of established or expanded energy consumption facilities applied by the power generating plant energy users and the grid.
+
+## Article 6
+
+In order to ensure the stability and security of nationwide power supply, for power generating plant energy users located on offshore islands, their staging and zoning installed capacities and categories are not constrained by the preceding article.
+
+## Article 7
+
+Electricity generation or cogeneration systems energy users’ efficiency shall meet the following rules of best available techniques:
+
+\1. Utility systems and equipment (as table 1).
+
+\2. Processing techniques for electricity generation or cogeneration systems (as table 2).
+
+The preceding section is not applicable in circumstances of being restricted by laws and regulations, patent right protection, international trade barriers, or other factors not attributable to the applicants, given evidence are submitted by the applicants.
+
+## Article 8
+
+The applied volume category, and location of petroleum refineries or massive energy- consumption users shall meet the following rules:
+
+\1. Supplying capacity of electricity enterprise listed on the energy utilization manual shall be provided with letter of approval for Electricity Consumption Plan issued by an electricity enterprise and not exceed the approved supplying capacity.
+
+\2. Supplying capacity of self-usage power generation equipment listed on the energy utilization manual shall be provided with supporting evidence to explain there is no concern for blackout in the self-usage power generation equipment.
+
+## Article 9
+
+Petroleum refineries or massive energy-consumption users’ efficiency shall meet the following rules of Best available techniques:
+
+\1. Utility systems and equipment (as table 1).
+
+\2. Processing techniques:
+
+(1) Petroleum refineries or energy users’ processing techniques (as table 3).
+
+(2) Semi-conductor or panel industrial processing techniques (as table 4).
+
+(3) Steel industrial processing techniques (as table 5).
+
+(4) Gas industrial processing techniques (as table 6).
+
+(5) Data processing, hosting and related activities industrial processing techniques (as table 7).
+
+The preceding section is not applicable in circumstances of being restricted by laws and regulations, patent right protection, international trade barriers, or other factors not attributable to the applicants, given supporting evidence submitted by the applicants.
+
+## Article 10
+
+For the energy utilization manuals which do not comply with the format and essential particulars listed in the Article 16, Section 4 of the Act, or is incomplete, wrongful or omitted in the application documents, shall be asked to take corrective actions within the time prescribed in central competent authorities’ order. Applications shall be rejected if the corrective action is not made in time or fails to comply with the rules.
+
+When the application documents have been found to comply with all requirements, the applicants shall pay the fee of review or revision within 15 days after receiving the notice. The preceding section applies mutatis mutandis if the applicants do not pay in accordance with the regulations.
+
+## Article 11
+
+The central competent authorities shall make one of the following decisions according to Article 16, Section 2 of the Act after receiving the application according to Article 4 or the preceding article:
+
+\1. Approval.
+
+\2. Approval with incidental provisions.
+
+\3. Rejection.
+
+## Article 12
+
+For the following circumstances where no corrective action is made or the correction is incomplete within the time prescribed in central competent authorities’ order, the central competent authorities may reject the application:
+
+\1. The consumption volume, category, or location listed on the energy utilization manual does not comply with rules set in Article 5 or Article 8.
+
+\2. The efficiency listed on the energy utilization manual does not comply with Article 7 or Article 9.
+
+## Article 13
+
+The central competent authorities shall revoke the approval decision if the years of planned business operation listed in the approved energy utilization manual end, and one of the following circumstances exists:
+
+\1. Electricity generation:
+
+(1) Not obtain the preparation approval for electricity enterprise establishment or expansion permit in accordance with electricity enterprise relevant laws and regulations.
+
+(2) The preparation approval for electricity enterprise establishment or expansion permit has been withdrawn, revoked, or voided for other circumstances.
+
+(3) The working permit of electricity enterprise has been withdrawn, revoked, or voided for other circumstances.
+
+\2. Cogeneration systems:
+
+(1) Not obtain the working permit for self-usage power generation equipment in accordance with electricity enterprise relevant laws and regulations.
+
+(2) The working permit for self-usage power generation equipment has been withdrawn, revoked, or voided for other circumstances.
+
+\3. Petroleum refineries:
+
+(1) Not obtain the permit to establish a petroleum refinery in accordance with Petroleum Administration Act.
+
+(2) The permit to establish a petroleum refinery has been withdrawn, revoked, or voided for other circumstances.
+
+\4. Massive energy-consumption users:
+
+(1) Not obtain permit or approval in accordance with relevant enterprise administration laws or regulations.
+
+(2) The permit or approval mentioned in the preceding sub-sub-section has been withdrawn, revoked, or voided for other circumstances.
+
+\5. Energy users fail to complete the business operation.
+
+Energy users found to be under the condition described in Subparagraph 5 of the preceding paragraph may submit its reasons in writing six months before the end of the years of planned business operation listed in the approved energy utilization manual to the central competent authorities, in order to apply for an extension; provided that the extension period shall not exceed five years and is limited to one time only.
+
+## Article 14
+
+These regulations shall come into force after the promulgation date.
+
+## Attachments
+
+- [Table 1  The Best Available Techniques Which Shall Be Applied in Utility Systems and Equipment.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009536)
+- [Table 2  The Best Available Techniques Which Shall Be Applied in Processing Techniques for Electricity Generation or Cogeneration Systems.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009537)
+- [Table 3  The Best Available Techniques Which Shall Be Applied in Processing Techniques for Petroleum Refineries and Massive Energy Consumption Users.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009538)
+- [Table 4  Best Available Techniques for Semiconductor or Panel Industry Process Technology Items.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009539)
+- [Table 5  The Best Available Techniques Which Shall Be Applied in Processing Techniques for Steel Industry.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009540)
+- [Table 6  The Best Available Techniques Which Shall Be Applied in Processing Techniques for Gas Industry.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009541)
+- [Table 7  The Best Available Techniques Which Shall Be Applied in Processing Techniques for Industry of Data Processing, Hosting and Related Activities.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009542)
+
+## History
+
+1.Promulgated on November 24, 2015
+
+2.Amended on April 18, 2023
+
+3.Amended on June 27, 2024
+
+\4. Amended on November 3, 2025

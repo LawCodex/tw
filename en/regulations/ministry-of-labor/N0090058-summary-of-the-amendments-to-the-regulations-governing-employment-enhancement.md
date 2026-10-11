@@ -1,0 +1,481 @@
+---
+title: "Summary of the Amendments to the Regulations Governing Employment Enhancement of Unemployed Middle-Aged Persons and Elderly Persons"
+title_zh: "失業中高齡者及高齡者就業促進辦法"
+identifier: "N0090058"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-12-03
+last_amended: 2025-04-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090058"
+retrieved: 2026-10-12
+---
+
+# Summary of the Amendments to the Regulations Governing Employment Enhancement of Unemployed Middle-Aged Persons and Elderly Persons
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090058-summary-of-the-amendments-to-the-regulations-governing-employment-enhancement.md](../../../zh/regulations/ministry-of-labor/N0090058-summary-of-the-amendments-to-the-regulations-governing-employment-enhancement.md)) is authoritative.
+
+## Chapter One General Principles
+
+### Article 1
+
+These regulations are formulated according to Article 27 of the Middle-Aged and Elderly Employment Promotion Act (hereinafter referred to as the “Act”).
+
+### Article 2
+
+The employers set forth in these regulations shall mean private enterprises, associations or private schools which are the insured units of the employment insurance.
+
+The associations set forth in the preceding paragraph shall refer to associations which are established according to the Civil Association Act or any other law or regulation. However, political groups or political parties are not associations for the purpose of these regulations.
+
+### Article 3
+
+The subsidies, interest aids, allowances or incentives listed in Article 27 of the Act are as follows:
+
+\1. Subsidies for vocational trainings;
+
+\2. Interest aids on business start-up loan;
+
+\3. Cross-region employment subsidy;
+
+\4. Temporary employment allowance; and
+
+\5. Workplace learning and re-adaptation allowance;
+
+\6. Employment incentive.
+
+## Chapter Two Subsidies for Vocational Trainings
+
+### Article 4
+
+If an unemployed middle-aged person or elderly person participates in vocational training course which is held by the central competent authority, or conducted by a third party which is commissioned by the central competent authority or subsidized by the competent authority, the training fees will be fully subsidized.
+
+Any person applying for the subsidy in the preceding subparagraph shall submit the following documents and information to the vocational training unit which will in turn send the said documents and information to the central competent authority for review and approval:
+
+\1. Photocopy of identification document; and
+
+\2. Any other document or information required by the central competent authority.
+
+### Article 5
+
+In order to enhance the employment of the unemployed elderly persons so as to promote employment, the central competent authority may offer vocational training classes specifically designed for the elderly persons by itself, by commissioning third parties to offer such classes or by subsidizing such classes to upgrade job skills of the unemployed elderly persons.
+
+The vocational training classes specifically for the elderly persons in the preceding paragraph shall conform to the following requirements:
+
+\1. The trainee shall be an elderly person who has received employment counselling from the public employment service agency or the commissioned unit and has been referred by the said institution or unit to participate in the training and is subsequently selected by the vocational training unit.
+
+\2. The planning of the vocational training classes specifically designed for the elderly persons shall match the job market of the elderly persons. In addition, the curriculums, teaching materials, teaching methods and evaluation methods shall meet the physical and mental characteristics and needs of the unemployed elderly persons.
+
+### Article 6
+
+In the event that an employer holds training according to Paragraph two of Article 24 of the Act and applies for subsidies for the training expenses, the minimum number of trainees in a class shall reach five persons and the total training hours shall not be less than 80 hours.
+
+### Article 7
+
+An employer applying for subsidies for the training expenses set forth in the preceding article shall submit the following documents and information to the central competent authority for review and approved:
+
+\1. Application form;
+
+\2. Recruitment plan which shall contain the labor conditions for employing middle-aged persons or elderly persons who finish the training;
+
+\3. Written training plan;
+
+\4. Photocopy of registration certificate showing that the employer has been established according to the law; and
+
+\5. Any other document or information required by the central competent authority.
+
+The criteria for granting subsidies are categorized into the following two categories if the subsidies are approved. The part of expenses which is not subsidized shall be solely borne by the employer and the employer shall not charge any fees from the participating trainees.
+
+\1. If the training is handled by the employer, 70% of the total training expenses will be subsidized.
+
+\2. If the training is handled by another party which is commissioned by the employer, 85% of the total training expenses will be subsidized.
+
+### Article 8
+
+The employer shall employ all trainees based on the labor conditions set forth in the recruitment plan after the employer, has handled and finished the training as per Article 6；and if any trainee is not employed, all or part of the training expenses incurred by the said trainee shall not be subsidized. However, the above may not apply to the case where a trainee discontinues his or her training, fails to pass the evaluation or renounces his or her opportunity to be employed due to personal reasons.
+
+If the turnover rate of the employed trainees in the preceding paragraph exceeds 30% within one month after the training ends, the training expenses for those who have already resigned will not be subsidized.
+
+### Article 9
+
+The central competent authority may provide living allowance during vocational training for unemployed middle-aged persons and unemployed elderly persons. The eligibility for application, method, period and rejection of application, revocation or cancellation shall be similarly governed by Articles 3, 18 to 21 and 26 of the Regulations for the Implementation of the Employment Promotion Allowances.
+
+## Chapter Three Interest Aids for Business Start-up Loan
+
+### Article 10
+
+An unemployed middle-aged person or an unemployed elderly person who meets the following requirements and submits the relevant documents and information may apply to the financial institution for disbursement of the business start-up loan after the central competent authority approves his or her loan application:
+
+\1. He or she has been registered as the responsible person of the business with supporting facts that he or she has actually operated the said business;
+
+\2. He or she doesnot serve asthe responsible personof any other business;
+
+\3. He or she has participated in business start-up seminars sponsored by the government for at least 18 hours in the past three years;
+
+\4. The business has been established and registered for less than five years;
+
+\5. The number of employees of the business which he or she operates does not exceed five persons; and
+
+\6. The loan will be used only for purchasing or leasing plant, business premise, machine, equipment orused as working capital.
+
+The term “business” asmentioned in Subparagraphs 1, 4 and 5 of the preceding Paragraphrefers to a business that meets any one of the following conditions:
+
+\1. A business that has completed company registration, business registration, or limited partnership registration as required by law.
+
+\2. A childcare center, kindergarten, after-school care/service center for children, orshort-term class registered for supplementary schoolingthat has completed relevant registration as requiredby law.
+
+\3. A small-sized business that is exempted from registration as per Article 5 of the Business Registration Act and has completed taxation registration as required by law.
+
+If the unemployed person referred to in Paragraph 1startsa business with aperson who is younger than 29 years old, the unemployed person shall submit the written business plan for the business operated actually by them jointly when applying to the financial institution for disbursement of the approved loan.
+
+The joint entrepreneur may not be the unemployed person’s spouse, relative by blood within the third degree, spouse of the relative by blood within the second degree or relative by blood within the second degree of the unemployed person’s spouse or the spouse of the said relative.
+
+### Article 11
+
+The interest rate for the business start-up loan shall be the two-year fixed term deposit floating rate of Chunghwa Post Co., Ltd. plus 0.575%annualrate.
+
+### Article 12
+
+The maximum business start-up loan amountwith interest subsidizationshall be determined in accordance with the following rules:
+
+\1. The amount is Two Million New Taiwan Dollars (NT$2,000,000) for a business belonging to the categories listed in Subparagraph 1 or 2, Paragraph 2 of Article 10.
+
+\2. The amount is Five Hundred Thousand New Taiwan Dollars (NT$500,000)for a business belonging to the category listed in Subparagraph 3, Paragraph 2 of Article 10.
+
+The interest on the loan for the first two years will be fully subsidized by the central competent authority.
+
+If the borrower meets the requirements set forth in Paragraph 3of Article 10, the central competent authority will fully subsidize the interest on the loan for the first three years. From the fourth year onwards, when the annual interest rate exceeds 1.5%, the excess interest amount will be subsidized by the central competent authority. However, when the annual interest rate is 1.5% or lower, the borrower shall pay the interest in full.
+
+The period of interest subsidization in the preceding paragraph shall not exceed seven years.
+
+### Article 13
+
+If the business operated bythe borrower has any of the following circumstances,the central competent authorityshalldiscontinue the interest subsidyas of the day that the circumstance arises. If the subsidy has already been paid,the lending financial institution shall notify the borroweron behalf of the central competent authority to repay the overpaid interest subsidy, and subsequently return the subsidy to the central competent authority.
+
+\1. The business has beensuspended orclosed.
+
+\2. The responsible person haschanged.
+
+In the case that the business operated by the borrower has been suspended during the interest subsidization period, if the principaland interest of the loan have been paid as required and the business resumption has been subsequently registered, the lending institution may apply to the central competent authority to continue interest subsidization from the date of business resumption until the expiration of the originally scheduledsubsidization period.
+
+If the borrower has failed to pay the principal and interest thereonfor six months, the interest subsidywill be discontinued as of the first day of the overdue months. If the subsidy has already been paid,the lending financial institution shall notify the borroweron behalf of the central competent authority to repay the overpaid interest subsidy, and subsequently and return the subsidy to the central competent authority.
+
+In case of the circumstance prescribed in the preceding Paragraph,if the borrower has paid the overdue principal and interest onthe loan in full,and hasresumed making payments on a regular basis,the central competent authoritymay continue the subsidization,butthe subsidization period cannot exceedthe originally scheduledperiod.
+
+If the borrower repaysthe principal and interest thereonbefore they have been in arrears for six monthsand resumesmakingpayments on a regular basis,he or she can be deemed a normal borrower and be granted the interest subsidy.
+
+### Article 14
+
+A person may not receive the business start-up loan set forth herein if the person has received similar interest aid for business start-up loan or subsides granted by the government for the same business start-up plan.
+
+## Chapter Four Cross-region Employment Subsidies
+
+### Article 15
+
+The items of cross-region employment subsidies set forth in these regulations are as follows:
+
+\1. Employment-seeking transportation allowance;
+
+\2. Cross-region employment transportation allowance;
+
+\3. Removal subsidy; and
+
+\4. Rent subsidy.
+
+### Article 16
+
+If an unemployed middle-aged person or an unemployed elderly person has registered employment request in person with the public employment service agency which subsequently offers employment counseling and issues employment referral card, the unemployed person may receive the transportation allowance if any of the following circumstance occurs:
+
+\1. The place of the referral job is located more than 30 kilometers from where the unemployed person lives; or
+
+\2. The person is from low-income or low- and middle-income family, or is a victim of domestic violence.
+
+In addition to the requirements set forth in the preceding paragraph, eligibility for receiving the allowance, amount of allowance and the relevant matters shall be similarly governed by Articles 3, 8 and 9 of the Regulations for the Implementation of the Employment Promotion Allowances.
+
+### Article 17
+
+An applicant applying for the allowance specified in the preceding Article shall submit the following documents and information:
+
+\1. Photocopy of identification document.
+
+\2. Letter of authorization granting consent to query labor insurance, employment insurance, and labor occupational accident insurance data on behalf of the applicant.
+
+\3. Receipt of allowance collection.
+
+\4. Other documents and information required by the central competent authority.
+
+### Article 18
+
+The number of employment-seeking transportation allowances which are received upon application by an unemployed middle-aged person or an unemployed elderly person according to these regulations, the Regulations for the Implementation of the Employment Promotion Allowances and the Regulations for the Implementation Regulations for Employment Promotion with Employment Insurance shall be added up and shall not exceed four times in each calendar year.
+
+### Article 19
+
+Where an unemployed person who meets the following requirements has registered employment request in person with the public employment service agency which subsequently offers employment counseling and issues employment referral card, the person may apply to the public employment service agency located in the place of his or her employment for the cross-region transportation allowance:
+
+\1. If he or she is an elderly person or a middle-aged person who has been unemployed for more than three months or a middle-aged person who is in the state of involuntary resignation.
+
+\2. If the place of employment is located more than 30 kilometers from where the person originally lives;
+
+\3. If there are facts supporting travelling back and forth due to employment; and
+
+\4. If he or she been employed by the same employer for 30 consecutive days.
+
+### Article 20
+
+In the event that a middle-aged person or an elderly person applies for the cross-region transportation allowance set forth in the preceding article, the application procedures, the required documents and information, criteria for approval, the subsidy period, and the rejection or revocation of application shall similarly be governed by Articles 27, 28 and 36 of the Regulations for the Implementation of Employment Promotion with Employment Insurance.
+
+### Article 21
+
+Where an unemployed person who meets the following requirements has registered employment request in person with the public employment service agency which subsequently offers employment counseling and issues employment referral card, the person may apply to the public employment service agency located in the place of his or her employment for the removal subsidy:
+
+\1. If he or she is an elderly person or a middle-aged person who has been unemployed consecutively for more than three months or a middle-aged person who is in the state of involuntary resignation.
+
+\2. If the place of employment is located more than 30 kilometers from where the person originally lives;
+
+\3. If there are supporting facts that he or she actually lives in the place removed and his or her relocation from his or her original place of residence is caused by his or her employment;
+
+\4. If the place of employment is located within 30 kilometers from the place removed; and
+
+\5. If he or she has been employed by the same employer for 30 consecutive days.
+
+### Article 22
+
+The application procedures, required documents and information, criteria for approval, rejection or revocation of application shall be similarly governed by Articles 30, 31 and 36 of the Regulations for the Implementation of Employment Promotion with Employment Insurance.
+
+### Article 23
+
+If an unemployed person who meets the following requirements has registered employment request in person with the public employment service agency which subsequently offers employment counseling and issues employment referral card, the person may apply to the public employment service agency located in the place of his or her employment for the rent subsidy:
+
+\1. If he or she is an elderly person or a middle-aged person who has been unemployed consecutively for more than three months or a middle-aged person who is in the state of involuntary resignation.
+
+\2. If the place of employment is located more than 30 kilometers from where the person originally lives;
+
+\3. If there are supporting facts that he or she actually lives in the rented place and the need to rent a place is caused by his or her employment;
+
+\4. If the place of employment is located within 30 kilometers from the rented place; and
+
+\5. If he or she has been employed by the same employer for 30 consecutive days.
+
+### Article 24
+
+In the event that a middle-aged person or an elderly person applies for the rent subsidy set forth in the preceding article, the application procedure, the required documents and information, criteria for approval, the subsidy period, and the rejection or revocation of application shall be similarly governed by Articles 33, 34 and 36 of the Regulations for the Implementation of Employment Promotion with Employment Insurance.
+
+### Article 25
+
+A middle-aged person or an elderly person may only apply for either the rent subsidy or the cross-region transportation allowance each month.
+
+### Article 26
+
+The rent subsidy, cross-region employment transportation allowance and removal allowance applied by a senior and middle-aged person or an elderly person in accordance with these regulations and the Regulations for the Implementation of Employment Promotion with Employment Insurance shall be added up. The subsidy period for the rent subsidy and cross-region transportation allowance may not exceed 12 months and the removal subsidy shall not exceed Thirty Thousand New Taiwan Dollars (NTD30,000).
+
+## Chapter Five Temporary Work Allowance
+
+### Article 27
+
+If an unemployed middle-aged person or an unemployed elderly person who has any of the following situations has registered employment request in person with the public employment service agency which subsequently offers employment counseling and employment referral, the public employment service agency may dispatch the said person to the recruiting unit to work on a temporary job and the said unemployed person may receive the temporary job allowance from the said agency.
+
+\1. If the said person has not been referred to a job 14 days after he or she registers employment request; or
+
+\2. If the said person has legitimate reason for not accepting the referred job.
+
+The persons which are eligible for receiving the allowance from the public employment service agency in the preceding paragraph shall be similarly governed by Article 3 of the Regulations for the Implementation of the Employment Promotion Allowance.
+
+The legitimate reason, the recruiting unit and the allowance disbursement method prescribed in Paragraph One shall be similarly governed by Paragraphs Two to Four of Article 10 of the
+
+Regulations for the Implementation of the Employment Promotion Allowance.
+
+### Article 28
+
+The payment criteria for the allowance in the preceding Article shall be based on the minimumwage per hour announced by the central competent authority butshall not exceed the minimumwage per month, subject to the maximum period of six months.
+
+### Article 29
+
+The documents and information required for the recruiting unit’s application for the allowance shall be similarly governed by Article 11 of the Regulations for the Implementation of the Employment Promotion Allowance.
+
+If an unemployed middle-aged person or an unemployed elderly person applies for and receives the allowance set forth in Article 27, matters related to leaves of absence and days off shall be similarly governed by Article 13 of the Regulations for the Implementation of the Employment Promotion Allowance.
+
+The public employment service agency’s inspections on the recruiting unit and the termination of the recruiting unit’s plan shall be similarly governed by Articles 14 and 15 of the Regulations for the Implementation of the Employment Promotion Allowance.
+
+In the event that an unemployed middle-aged person or an unemployed elderly person applies for the allowance set forth in Article 27, the revocation, cancellation, suspension or rejection of paying the temporary work allowance shall be similarly governed by Article 16 of the Regulations for the Implementation of Employment Promotion with Employment Insurance.
+
+The recruiting unit’s application for insurance coverage for the unemployed person shall be similarly governed by Article 17 of the Regulations for the Implementation of Employment Promotion with Employment Insurance.
+
+### Article 30
+
+The number of temporary job allowances which are received by a person under these regulations, the Regulations for the Implementation of the Employment Promotion Allowances and the Regulations for the Implementation Regulations for Employment Promotion with Employment Insurance shall be added up and the maximum period to receive the said allowance shall not exceed six months in a two-year period.
+
+## Chapter Six Workplace Learning and Re-adaptation Allowance
+
+### Article 31
+
+If an unemployed middle-aged person or an unemployed elderly person has registered employment request in person with the public employment service agency, the public employment service agency may refer the said person to the recruiting unit for workplace learning and re-adaptation after evaluation.
+
+### Article 32
+
+The recruiting unit referred to in the preceding article shall mean civil associations, private enterprises, public enterprises, non-profit organizations or academic research institutions which have been registered or issued with establishment permits according to the law, excluding political groups or political parties.
+
+The recruiting unit shall submit the workplace learning and re-adaptation plan to its local public employment service agency, it shall employ the middle-aged person or an elderly person referred by the public employment service agency after the latter reviews and approves the submitted plan.
+
+After the plan has been fully executed, the recruiting unit may apply to the public employment service agency for workplace learning and re-adaptation allowance as well as the recruiting unit’s administrative management and counseling fees.
+
+### Article 33
+
+The recruiting unit shall not employ the referred person at a wage lower than the minimumwage announced by the central competent authority during the period in which the recruiting unit is receiving the workplace learning and re-adaptation allowance.
+
+The workplace learning and re-adaptation allowance shall be calculated and disbursed on the basis of the minimumwage per hour which shall not exceed the minimum wage per month.
+
+The period for receiving the allowance set forth in the preceding paragraph shall not exceed three months. However, in the case of an elderly person, the period may be extended to six months after the said person has been evaluated by the local public employment service agency.
+
+The periods in which a middle-aged person or an elderly person changed workplace learning and re-adaptation unit shall be added up. The maximum period shall be up to six months in a two-year period.
+
+### Article 34
+
+In the event that a recruiting unit applies to the public employment service agency for the administrative management and counseling fees according to Article 32 herein, the amount shall be 30% of the actually disbursed workplace learning and re-adaptation allowance.
+
+### Article 35
+
+The recruiting unit shall submit the following documents and information to the public employment service agency in the local jurisdiction district to apply for the allowances and subsidies set forth in Article 32 within 60 days after the unit has fully executed the plan or the plan has been terminated by the public employment service agency:
+
+\1. Photocopy of the plan approval letter.
+
+\2. Receipt.
+
+\3. Collection list of allowances, administrative management and counseling fees, and records of work guidance.
+
+\4. Sign-in form of participating persons or photocopy of document sufficient to prove the participants’ participation in the plan.
+
+\5. Application form for labor insurance and labor occupational accident insurance of the participating persons or other documents serving as proof of insurance.
+
+\6. Photocopy of the approval letter of subsidy extension.
+
+\7. Photocopy of document showing that the recruiting unit has already employed the full number of persons with disabilities and indigenous persons required by the People with Disabilities Rights Protection Act and the Indigenous People’s Employment Rights Protection Act, or photocopy of document showing the payment of the difference in subsidies and cash equivalent.
+
+\8. Other documents and information required by the central competent authority.
+
+### Article 36
+
+The number of persons based on whom the recruiting unit may receive a workplace learning and re-adaptation allowance from the public employment service agency shall be subject to the following restrictions:
+
+\1. The number of persons shall not exceed 30% of the total number of employees insured under labor insurance, employment insurance, and labor occupational accident insurance during the month preceding the date when the recruiting unit makes the application, and if there is less than one person, it shall be counted as one person. However, if the total number of employees is fewer than 10, the maximum number of persons to be subsidized shall be three persons.
+
+\2. The maximum number of persons employed by the same recruiting unit who may be subsidized in each calendar year shall be no more than 10 persons.
+
+### Article 37
+
+The public employment service agency may revoke or cancel all or part of the subsidies to a recruiting unit depending on the severity of the violation if the recruiting unit, which applies and receives the workplace learning and re-adaptation allowance as well as administrative management fees and counseling fees, has any of the following situations; however, that the recruiting unit has already received the payment, the public employment service agency shall order the recruiting unit to return the payment within the stipulated deadline:
+
+\1. The recruiting unit employs the spouse or a relative by blood within the third degree of the responsible person;
+
+\2. The recruiting unit employs a person who has left the same recruiting unit for less than a year;
+
+\3. The employed person has already received employment promotion subsidy or allowance of the same nature from the government agency at the same period of time; or
+
+\4. The recruiting unit employs an unemployed person who is not referred by the public employment service agency.
+
+## Chapter Seven Employment Incentives
+
+### Article 38
+
+If an unemployed middle-aged person or an unemployed elderly person who has been unemployed for 30 consecutive days or longer has registered an employment request with the public employment service agency but could not be referred for a job after employment counseling, the public employment service agency may issue an employment incentive referral card to the said person.
+
+The calculation of the unemployment period in the preceding paragraph shall be dated back to the date when there was no record of the said middle-aged person or elderly person being enrolled in employment insurance, labor insurance, or labor occupational accident insurance.
+
+### Article 39
+
+If an employer employs a middle-aged person or an elderly person prescribed in the preceding article for 30 consecutive days, the public employment service agency shall grant the employment incentive to the employer.
+
+The employment set forth in the preceding paragraph shall mean that the employer employs the worker with a non-fixed term contract or fixed-term contract for more than one year.
+
+### Article 40
+
+If an employer continuously employs the same middle-aged or elderly worker who was issued an employment incentive referral card, the employer shall submit the following documents and information to the public employment service agency in the original referral jurisdiction district within 90 days after the said person has been employed for 30 full days:
+
+\1. Employment incentive application form.
+
+\2. Employment register, payroll list showing the number of hours worked by the employee, and attendance record.
+
+\3. Photocopy of the employee’s identity document or valid residence certificate.
+
+\4. Insurance coverage information list for the labor insurance, employment insurance, and labor occupational accident insurance that is used for applying for employment incentives, or other documents that are sufficient to show that the employee is insured under the aforementioned insurance.
+
+\5. Other documents and information required by the central competent authority.
+
+The employer referred to in the preceding paragraph may apply to the public employment service agency in the original referral jurisdiction district for employment incentives within 90 days after the fulfillment of each three-month period.
+
+The employment period set forth in Paragraph 1 shall be calculated based on a 30-day month. If the last month of the employment period exceeds 20 days but falls short of 30 days, it shall be calculated as one full month.
+
+### Article 41
+
+In the event that an employer applies for the employment incentive as per the two preceding articles, the incentive shall be granted pursuant to the following requirements:
+
+\1. If an elderly person has agreed with the employer that they will be paid for their full-time work with a monthly salary: the incentive of Fifteen Thousand New Taiwan Dollars (NT$15,000) per person per month will be disbursed according to the number of such employees.
+
+\2. If an elderly person has agreed with the employer on employment terms other than those specified in the preceding subparagraph: the incentive of Eighty New Taiwan Dollars (NT$80) per hour per person, up to a maximum of Fifteen Thousand New Taiwan Dollars (NT$15,000) per month, will be disbursed according to the number of such employees.
+
+\3. If a middle-aged person has agreed with the employer that they will be paid for their full-time work with a monthly salary: the incentive of Thirteen Thousand New Taiwan Dollars (NT$13,000) per person per month will be disbursed according to the number of such employees.
+
+\4. If a middle-aged person has agreed with the employer on employment terms other than those specified in the preceding sub-paragraph: the incentive of Seventy New Taiwan Dollars (NT$70) per hour per person, up to a maximum of Thirteen Thousand New Taiwan Dollars (NT$13,000) per month, will be disbursed according to the number of such employees.
+
+If a worker takes a leave of absence in accordance with the relevant laws and regulations of the Labor Standards Act and the Gender Equality in Employment Act, and as a result, the salary paid by the employer is lower than the standards set forth in the respective sub-paragraphs of the preceding paragraph, the employment incentive will be disbursed according to the actual salary received by the worker.
+
+In the event that the same employer employs the same worker, the employment incentives received by the employer in accordance with these regulations and the Implementation Regulations for Employment Promotion with Employment Insurance as well as other subsidies or allowances of the same nature from government agencies shall be calculated together. The maximum period upon application for receiving the incentive is 12 months.
+
+In the event that a worker is employed by two or more employers within the same period and meets the requirements set out in Subparagraph 2 or 4 of Paragraph 1, each employer is entitled to apply for incentives in accordance with the regulations. The public employment service agency shall disburse the incentives according to the timing of the employers’ applications. However, the total monthly incentive shall not exceed the maximum amount specified in Subparagraph 2 or 4 of Paragraph 1.
+
+### Article 42
+
+If an employer employs an unemployed person prescribed in Article 38 and the public employment service agency rejects the disbursement of the incentive or revokes the employment incentive, Paragraph Two of Article 19 of the Implementation Regulations for Employment Promotion with Employment Insurance shall similarly apply.
+
+## Chapter Eight Supplementary Provisions
+
+### Article 43
+
+The employment period or hiring period set forth in Articles 19, 21, 23, and 40 shall be dated back to the day that the worker reported to work and the employment insurance for the worker took effect. However, if the worker is not eligible to participate in the employment insurance by law, the aforementioned period shall be dated back to the day that the labor occupational accident insurance for the worker took effect.
+
+### Article 44
+
+In the event that an employer, recruiting unit or worker applies for the subsidy, allowance or incentive set forth in these regulations but fails to submit all of the required documents, the said employer, recruiting unit or worker shall complete the omitted documents and information within the stipulated deadline notified by the competent authority or the employment service agency；and the application shall be rejected if the said documents or information are still not completed within the deadline.
+
+### Article 45
+
+The competent authority and public employment service agency may check and verify the relevant documents and information in order to inspect the implementation of these regulations. The employer, recruiting unit or worker which/who has received the subsidy, allowance or incentive specified herein shall not avoid, interfere or reject such investigation.
+
+### Article 46
+
+Unless otherwise provided for herein, if any one which/who has received the subsidy, allowance or incentive according to these regulations has any of the following situations, the competent authority or public employment service agency shall disapprove the disbursement of the said subsidy, allowance or incentive. Where the said subsidy, allowance or incentive has already been paid, but revoked or cancelled thereafter, the competent authority or public employment service agency shall order the receiver to return the same within the stipulated deadline.
+
+\1. The person made untruthful application or is overpaid;
+
+\2. The person avoided, interfered or rejected investigation conducted by the competent authority or public employment service agency;
+
+\3. The person has violated any provision of these regulations; or
+
+\4. The person has violated any other relevant labor law or regulation and the violation is serious.
+
+If the situation in subparagraph One of the preceding paragraph occurs, the competent authority or the public employment service agency may cease to grant subsidies to the said person for two years.
+
+### Article 47
+
+The forms and documents required by these regulations shall be prescribed separately by the central competent authority.
+
+### Article 48
+
+The competent authority shall set aside the budget for the implementation of these regulations.
+
+### Article 49
+
+These regulations shall enter into force on December 4, 2020.
+
+Amendments to the Act shall be enforced as of the amendment promulgation date.
+
+## History
+
+1.Enacted and promulgated a total forty-nine articles of the Rules by the Order of Ministry of Labor No.10905184402 on December 3, 2020 , and shall effect from December 4, 2020.
+
+2.Enacted and promulgated a total forty-nine articles of the Rules by the Order of Ministry of Labor No.1130509700A on July 31, 2024 , and shall effect.
+
+3.Enacted and promulgated a total forty-nine articles of the Rules by the Order of Ministry of Labor No.1140504855 on April 28, 2025 , and shall effect.

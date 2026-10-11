@@ -1,0 +1,125 @@
+---
+title: "Regulations Governing Inspection Visits and Information Registration"
+title_zh: "內政部移民署實施查察及查察登記辦法"
+identifier: "D0080131"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-02-25
+last_amended: 2024-02-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080131"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Inspection Visits and Information Registration
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080131-regulations-governing-inspection-visits-and-information-registration.md](../../../zh/regulations/ministry-of-the-interior/D0080131-regulations-governing-inspection-visits-and-information-registration.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted pursuant to Paragraph 3, Article 71 of the Immigration Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+For the applicant whose applying purpose is stay, residency, permanent residency, or registered permanent residence, the National Immigration Agency (hereinafter referred to as “the Agency”) may dispatch personnel, if necessary, to the applicant’s registered residence in Taiwan for an inspection visit within 20 days after receiving such an application.
+
+The Agency, if necessary, is entitled to conduct additional visits before a final decision is made on the applicant’s application.
+
+## Article 3
+
+An inspection visit shall be conducted during the daytime. Nevertheless, under the following conditions, the visit may be conducted during nighttime and the execution of such visit shall cease by the hour of 22:00:
+
+1.With approval from the subject of the inspection visit, a resident of the residence, or a representative of the subject.
+
+2.A visit executed during the daytime may be processed until nighttime upon the subject’s approval.
+
+## Article 4
+
+The objectives for an inspection visit are to ascertain the following :
+
+1.Co-living, interaction, and residency conditions with others.
+
+2.The family situation, conditions of physical and mental health, and the number of children.
+
+3.Other evidence sufficient to uncover the application purpose for visit, residence, permanent residence, or registered permanent residence in Taiwan, and facts relevant to such purpose.
+
+The Agency shall immediately notify the subject to follow the relevant provisions, or shall update registered information if any of the following circumstances are discovered during the visit:
+
+1.Residency conditions inconsistent with what is indicated on the application.
+
+2.Abnormal family situation, r mental or physical health conditions.
+
+3.Other legal matters.
+
+After conducting the inspection visit, the inspection personnel shall complete an inspection statement within seven days and document the following matters:
+
+1.The date of the inspection, the commencement and conclusion time thereof and the address of the subject.
+
+2.The name, nationality, date of birth, ID number and residence in Taiwan of the subject.
+
+3.Matters related to inspection, notification, annotation or others.
+
+## Article 5
+
+For a national without household registration, an alien, a person of the Mainland  Area, or a resident of Hong Kong or Macau, who stays continuously over 3 months on his/her visitor visa or with a residency or permanent residency permit, officers from the Agency shall conduct an inspection visit and complete registration within 1 month after the aforementioned person has stayed past the 3-month mark, obtained Alien Resident Certificate (ARC) or Alien Permanent Resident Certificate (APRC), or changed his/her registered address of residency or workplace.
+
+Additional inspection visits may be conducted by the Agency when needed, in addition to the visits specified in the previous paragraph.
+
+## Article 6
+
+The checklist for the information that an inspection officer of the Agency shall register is as follows:
+
+1.Expiry date of exit and entry permits, passport, Alien Resident Certificate or Alien Permanent Resident Certificate of a subject.
+
+2.Matters concerning a foreign subject’s immigration status with respect to employment, birth, death, marriage, divorce and adoption.
+
+3.Whether the activities a subject engaged in meet the purpose applying for his/her visit or residency.
+
+4.A subject’s change of residency.
+
+5.Information concerning other matters relating to an inspection visit shall also be registered.
+
+The Agency shall immediately notify a subject to submit necessary documentation in accordance with the relevant provisions, or shall update registered information if any of the following circumstances are discovered during the visit:
+
+1.A subject is holding an expired exit and entry permit, passport or Alien Resident Certificate.
+
+2.A subject’s residence condition is inconsistent with what is indicated on the application or is found to be fraudulent.
+
+3.The activities a subject engaged in  do not meet the applying purpose for his/her visit or residency.
+
+4.A subject does not report changes of residency/workplace.
+
+5.Other legal matters.
+
+## Article 7
+
+If the subject of an inspection visit is found to be in violation of immigration regulations, and shall be reported, cancelled documentation, or be faced with mandatory exit, or deportation, relevant provisions shall be followed.
+
+## Article 8
+
+The documents and information which were recorded during inspection visit shall be properly stored and secured.
+
+The information prescribed in the preceding paragraph may be recorded, annotated and maintained through electronic documentation systems.
+
+## Article 9
+
+The Ministry of the Interior determines the effective date of the Regulations.
+
+## History
+
+\1. Jointly enacted and promulgated by Order Tai (89) Nei-Yi-Tzu No.8981149 of the Ministry of the Interior and Order Wai (89) Ling-Er-Tzu No.8968130021 of the Ministry of Foreign Affairs on Feb.25, 2000.
+
+\2. The Regulation(10 articles in full)was revised and published on Aug 1,2008 with the authorization N O.0970948022 of the Ministery of the Interior.
+
+Also, the Ministery of the Interior determines the effective date.
+
+（The Regulation was also known as Regulation governing Registration and Inspection of Alien's Residence and Permanent Residence.）
+
+The Regulation was published and took effect on Aug 1, 2008 with the authorization NO.0971035715 of the Ministery of the Interior.
+
+\3. The amended regulations with all 9 articles were promulgated by Order (113) Tai-Nei-Yi-Tzu No. 11309324111 of the Ministry of the Interior on 20th, February 2024 and went into effect on 1st, March 2024.

@@ -1,0 +1,317 @@
+---
+title: "Regulations for the Fishing Operations of Coastal and Offshore Tuna Longline Fishing Vessels"
+title_zh: "沿近海鮪延繩釣漁船作業管理辦法"
+identifier: "M0050069"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-02-06
+last_amended: 2022-06-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050069"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Fishing Operations of Coastal and Offshore Tuna Longline Fishing Vessels
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050069-regulations-for-the-fishing-operations-of-coastal-and-offshore-tuna-longline.md](../../../zh/regulations/ministry-of-agriculture/M0050069-regulations-for-the-fishing-operations-of-coastal-and-offshore-tuna-longline.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are established pursuant to Article 37, subparagraph (1) and Article 54, subparagraph (5) of the Fisheries Act (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Any fishing vessel permitted by the competent authority to operate tuna longline fishery shall comply with these Regulations when operating in the internal water, territorial sea, or the exclusive economic zone of the Republic of China (hereinafter referred to as “coastal and offshore area”). Notwithstanding such provision, where there is any special provision stipulated in the Regulations for Longline Fishing Vessels Operating in the Maritime Area Subject to the Fisheries Agreement between Taiwan and Japan or the Regulations on the Management of Pacific Bluefin Tuna Fishing Operation, such a special provision shall prevail.
+
+### Article 3
+
+A tuna longline fishing vessel as referred to in these Regulations means a fishing vessel targeting highly migratory species (as listed in Appendix 1), such as tunas, billfishes, or sharks, with longline fishing gears.
+
+Any longline fishing vessel not operating tuna longline fishery shall not target the highly migratory species as listed in Appendix 1.
+
+The targeting of highly migratory species as referred to in the preceding two paragraphs means the catch amount of highly migratory species during the first half or second half of the current year accounts for 50% or more of the total catch amount of the same period.
+
+### Article 4
+
+Any tuna longline fishing vessel operating in the coastal and offshore area shall be installed onboard the automatic location communication (ALC) as designated by the central competent authority. A tuna longline fishing vessel less than 20 GT which has been already installed onboard the Automatic Identification System (AIS) devices is exempted from such provision.
+
+The ALC as referred to in the preceding paragraph shall be certified by the professional institution appointed by the central competent authority (hereinafter referred to as “the professional institution”) that such ALC can regularly and normally transmit vessel positions. Relevant installation fees shall be borne by fishery operators and may be subsidized by the competent authority depending on the financial situation of the government.
+
+For a fishing vessel as referred to in paragraph 1 to be installed with the AIS devices, Article 242-1 and 242-3 of the Regulations for Fishing Vessels Devices shall be complied with, the vessel shall obtain from the National Communication Commission the maritime mobile service identity (MMSI), and the AIS shall be correctly set and regularly and normally transmit vessel positions.
+
+## Chapter II Fishing Vessel and Fishing Gear Markings and the Management of Vessel Position Reporting
+
+### Article 5
+
+Fishing vessels shall be marked with vessel markings in accordance with Appendix 2. Any fishing vessel of 20 GT or above shall also be marked with the International Radio Call Sign (IRCS)
+
+The IRCS of a fishing vessel is its radio call sign.
+
+The IRCS shall be placed above the waterline on both sides of any fishing vessels and on a deck where the IRCS is not obscured by fishing gear(s), and shall be clear of the bow, stern, discharge or areas which might be prone to damage or discoloration. In case that the lowest edge of characters is under the waterline when the fish holds are full, the IRCS shall be placed on the fishing vessel’s superstructure.
+
+Vessel markings shall be painted with marine coating. Characters and the edges thereof for the vessel name and the CT number shall maintain clear and identifiable at all times.
+
+### Article 6
+
+Fishing gears of any tuna longline fishing vessel shall be equipped with floats, signal flags, radar reflector buoys or other similar devices so as to identify the position(s) and fishing area(s).
+
+### Article 7
+
+Before port departure, fishery operators or captains of tuna longline fishing vessels shall turn on the ALC of AIS, and shall check with the Fisheries Monitoring Center (FMC) of the Fisheries Agency, Council of Agriculture, Executive Yuan to confirm the vessel position has been transmitted. After port departure, the ALC or AIS shall be maintained functional.
+
+The ALC shall transmit at least one vessel position every hour.
+
+In the event that the FMC confirms that it does not receive any vessel position, the FMC shall notify the central competent authority. The central competent authority shall order the concerned vessel to return to a port within the required timeframe for repairing. Before returning to a port, the fishery operator or captain shall transmit the vessel positions to a fishery radio station once every hour through the communication equipment. After returning to a port, the concerned vessel shall not leave until the ALC or AIS has been repaired.
+
+Fees for the services and communications of the ALC shall be borne by fishery operators. The competent authority may subsidize depending on the financial situation of the government.
+
+### Article 8
+
+In case that the identification numbers of the ALC have changed, the fishery operator shall notify the professional institution in writing.
+
+In case that the numbers of MMSI have changed, the fishery operator shall notify the central competent authority in writing.
+
+## Chapter III Mitigation Measures for Incidental Catch
+
+### Article 9
+
+For any tuna longline fishing vessel fishing with hooks at a depth shallower than 100 meters, any of the following mitigations measures shall be used:
+
+(1) Large circle hooks shall be used; or
+
+(2) Fishes except for Cephalopods species shall be used as baits.
+
+The large circle hooks as referred to in subparagraph (1) of the preceding paragraph are hooks that are above three inches and are circular or oval in shape. The point is turned perpendicularly back to the shank. These hooks shall have an offset not to exceed 10 degrees (as shown in Appendix 3).
+
+### Article 10
+
+Any tuna longline fishing vessel shall not use shark lines (as shown in Appendix 4) for fishing operation.
+
+### Article 11
+
+Any tuna longline fishing vessel shall carry on board the line cutter, de-hooker and scoop/dip net, specifications of which are as shown in Appendix 5, to release incidentally caught seabirds and sea turtles.
+
+### Article 12
+
+Any tuna longline fishing vessel less than 24 meters in overall length and fishing in the area north of 23°N shall use at least one of the following seabird mitigation measures:
+
+(1) side setting with a bird curtain and weighted branch lines,
+
+(2) night setting with minimum deck light,
+
+(3) tori line, or
+
+(4) weighted branch lines.
+
+Any tuna longline fishing vessel of 24 meters or above in overall length and fishing in the area north of 23°N shall use at least one of the seabird mitigation measures as referred to in the preceding paragraph and shall also use one of the following seabird mitigation measures:
+
+(1) tori line,
+
+(2) blue dyed bait,
+
+(3) deep setting line shooter, or
+
+(4) management of offal discharge.
+
+The specifications of the seabird mitigation measures as referred to in the preceding two paragraphs are as shown in Appendix 6.
+
+## Chapter IV Catch Reports and Catch Limits
+
+### Article 13
+
+In the event that any tuna longline fishing vessel leaves a port, its captain shall daily, completely, and accurately fill in the logbooks, format as shown in Appendix 7, where there is any catch or not.
+
+The logbooks as referred to in the preceding paragraph may be filled in on the designated website or through the mobile device application.
+
+Any captain that reports catch data through the electronic logbook (E-logbook) system shall be exempted from filling out the logbooks as stipulated in paragraph 1.
+
+### Article 14
+
+The logbook(s) submitted or the data reported through the E-logbook shall not be altered or amended, unless there is apparent error with the content and the central competent authority has approved.
+
+### Article 15
+
+In case that any tuna longline fishing vessels enters a port, the logbook(s) for the current fishing trip shall be submitted to the regional fishermen’s association where the port of entry is, within five working days starting from the date of port entry. He/She who submits the catch data in accordance with paragraph 2, Article 13 is exempted from submitting the paper logbooks.
+
+Any regional fishermen’s association that receives logbook(s) of tuna longline fishing vessel(s) registered in other port(s) shall transfer such logbook(s) to the regional fishermen’s association(s) where the port of registry is.
+
+The regional fishermen’s association where the port of registry is shall compile the logbooks received before the 5th day and the 20th day of every month, and deliver to the municipal or county (city) competent authority.
+
+After reviewing the data delivered by the regional fishermen’s association(s), the municipal or county (city) competent authority shall transfer to the central competent authority before the 5th day and the 20th day of every month.
+
+### Article 16
+
+In case that any tuna longline fishing vessel finds any sea turtle during fishing operation, such vessel shall, where practicable, bring aboard any comatose or inactive sea turtle as soon as possible, and foster its recovery and return it to the sea at once after recovery.
+
+Any seabird, sea turtle, cetacean, or prohibited species as promulgated by the central competent authority or the authority for conservation of wild marine animals which is incidentally caught by any tuna longline fishing vessel shall be released when caught alive or discarded when dead, and the number(s) shall be duly recorded in the logbooks or the E-logbook.
+
+### Article 17
+
+For any tuna longline fishing vessel, its catch amount of bigeye tuna or albacore tuna during the first or second half of the current year shall not account for 50% or more of its total catch amount during the same period.
+
+### Article 18
+
+The total annual quota of bigeye tuna in the coastal and offshore area shall be limited to 400 metric tons.
+
+The period for using the total annual quota as referred to in the preceding paragraph shall be from January 1 to December 31 of the current year.
+
+In the event that the total catch amount of bigeye tuna has reached 90% of the total annual quota as referred to in paragraph 1, the central competent authority may order to stop fishing for bigeye tuna by a deadline.
+
+Any bigeye tuna caught by a tuna longline fishing vessel after the deadline as referred to in the preceding paragraph shall be discarded and the number(s) discarded shall be recorded in the logbooks or the E-logbook.
+
+## Chapter V The Management of Transshipment and Landing
+
+### Article 19
+
+Any tuna longline fishing vessel shall not transport any catch not caught by itself, or commission its catch to be transported by other vessel(s).
+
+### Article 20
+
+Ports for any tuna longline fishing vessel to land its catch are as follows:
+
+(1) Keelung City: Badouzi fishing port and Jhengbin fishing port.
+
+(2) Yilan County: Nanfangao fishing port.
+
+(3) Kaohsiung City: Siaogang Linhai New Residential Quarter fishing port, Chienchen fishing port, Cijin fishing port, and Kezailiao fishing port.
+
+(4) Pingtung County: Donggang-YanPu fishing port.
+
+(5) Taitung County: Xingang fishing port and Fugang fishing port.
+
+(6) Taichung City: Wuqi fishing port.
+
+### Article 21
+
+Captains of tuna longline fishing vessels shall fill in and submit landing declarations in accordance with the Regulations for the Submission of Landing Declarations by Coastal and Offshore Fishing Vessels.
+
+Any tuna longline fishing vessel with a distant water fisheries permit obtained in accordance with the Act for Distant Water Fisheries that lands in a port shall apply for the approval and submit the landing declaration pursuant to the Regulations for Tuna Longline or Purse Seine Fishing Vessels Proceeding to the Pacific Ocean for Fishing Operation.
+
+### Article 22
+
+Any fishery operator or captain that is informed by the competent authority to be inspected pursuant to Article 49 of the Act shall only start the landing after the personnel of the competent authority has arrived.
+
+## Chapter VI Observation during Fishing Operation
+
+### Article 23
+
+Tuna longline fishing vessels shall receive the placement of observer(s) as dispatched by the central competent authority for observation mission onboard.
+
+Any fishery operator of a fishing vessel that receives the observer(s) dispatched by the central competent authority shall comply with the following:
+
+(1) He/She shall embark and disembark the observer(s) at the time and place informed by the central competent authority or the organization commissioned by the central competent authority.
+
+(2) He/She shall provide the observer(s), while onboard the vessel, with food, accommodation, adequate sanitary amenities, and medical facilities of a reasonable standard equivalent to those normally available to an officer onboard the vessel.
+
+(3) He/She shall instruct the captain and crew of the vessel matters related to the cooperation with or assisting the observer(s) in carrying out the duties.
+
+### Article 24
+
+Any captain of a fishing vessel that receives the observer(s) dispatched by the central competent authority shall comply with the following:
+
+(1) Upon the boarding of the observer(s), the captain shall inform the observer(s) of the daily routine, personal safety and vessel equipment, and shall inform all the crew onboard of the fact that the observer(s) will conduct observation mission on board.
+
+(2) The captain shall provide the observer(s) with a satellite phone or single sideband (SSB) radiotelephone and assist the observer(s)in using the communication equipment independently.
+
+(3) The captain shall cooperate with and assist the observer in carrying out duties, and shall not evade, obstruct or refuse to answer the inquiry related to the observation mission.
+
+(4) The captain shall not interfere with, assault, intimidate, or bribe the observer.
+
+(5) The captain shall provide the observer with adequate space, facilities, equipment and information on the vessel necessary for his daily living and for carrying out his/her duties.
+
+(6) The captain shall request the crew to comply with the provision stipulated in the preceding three subparagraphs.
+
+(7) The captain shall sign on the record(s) of observation written by the observer. In case there are different views on the record(s) of the observer, captain’s opinions may be added.
+
+(8) The captain shall ensure the safety of the observer. In case of emergency or distress, special care and refuge shall be provided to the observer.
+
+### Article 25
+
+In the event that an observer dies or the search and rescue are ceased for a missing observer fallen overboard, the fishing vessel shall immediately cease fishing operation, and the central competent authority shall order such vessel to navigate directly to the designated port for investigation.
+
+In the event that an observer suffers from a serious illness or injury that threatens his or her health or safety, the fishing vessel shall immediately cease fishing operation and facilitate the disembarkation of the observer for appropriate medical treatment.
+
+In the event that an observer is assaulted, intimidated, threatened, or harassed, the central competent authority may order such vessel to immediately cease fishing operation and navigate to the designated port within the required timeframe.
+
+## Chapter VII Supplemental Provisions
+
+### Article 26
+
+Any tuna longline fishing vessel shall not fish within one nautical mile off a data buoy, or take on board, possess, or cause damage to the data buoy.
+
+In case that the fishing gear becomes entangled with the data buoy, the entangled fishing gear shall be removed with as little damage to the data buoy as possible.
+
+In case of finding any data buoy that is damaged or non-functional, the captain shall report to the central competent authority the date, location, and the identifying information on the data buoy.
+
+### Article 27
+
+In case of any of the following circumstances, the fishery operator and fishery employee shall be respectively liable to a fine between 30 thousand New Taiwan Dollars and 150 thousand New Taiwan Dollars imposed by the central competent authority pursuant to Article 65, subparagraph (8) of the Act:
+
+(1) Failing to install the ALC or AIS in accordance with Article 4.
+
+(2) Failing to mark the fishing vessel or gear(s) in accordance with any provision stipulated in Article 5 or Article 6.
+
+(3) Failing to check or confirm that the vessel position has been transmitted via ALC or AIS before port departure, in violation of Article 7, paragraph 1; or failing to maintain the ALC or AIS functional after port departure.
+
+(4) Failing to transmit the vessel position via the ALC once every hour after port departure, in violation of Article 7, paragraph 1.
+
+(5) Failing to return to a port within the required timeframe, transmit the vessel positions as required, transmit the exact position, or repair the ALC or AIS before port departure, in violation of Article 7, paragraph 3.
+
+(6) Failing to comply with the provisions on notification of the changed identification numbers of ALC or numbers of MMSI in accordance with Article8.
+
+(7) Failing to use mitigation measures for incidental catch in accordance with any provision stipulated in Article 9 to 12.
+
+(8) Failing to fill in or submit the logbook in accordance with Article 13; Article 5, paragraph1; or Article 16, paragraph 2; or misreporting the catch data.
+
+(9) The catch amount of bigeye tuna or albacore tuna accounts for 50% or more of the total catch amount during the first of second half of the current year, in violation of Article 17.
+
+(10) Failing to discard the bigeye tuna, or to record the number(s) discarded in the logbook or the E-logbook, after the central competent authority ordered to stop fishing for bigeye tuna in accordance with Article 18, paragraph 4.
+
+(11) Transporting any catch that is not caught by the fishing vessel itself or commissioning its catch to be transported by other vessel, in violation of Article 19.
+
+(12) Landing in any port that is not stipulated in Article 20.
+
+(13) Evading, obstructing, or refusing the port inspection on landing conducted by personnel of the competent authority, or landing before the arrival of the personnel of the competent authority, in violation of Article 22.
+
+(14) Evading, obstructing, or refusing the placement of observer(s) on board as dispatched by the central competent authority in accordance with Article 23, paragraph 1.
+
+(15) Failing to comply with provisions on observer(s) on board in accordance with subparagraph (1) of Article 23, paragraph 2; and subparagraph (3) to (5) as well as subparagraph (8) of Article 24.
+
+(16) Failing to comply with provisions stipulated in Article 25 in the event that an observer dies, suffers from a serious illness or injury, or is assaulted, intimidated, threatened, or harassed.
+
+(17) Conducting fishing operation within one nautical mile off a data buoy, or taking on board, possessing or causing damage to the data buoy, in violation of Article 26, paragraph 1.
+
+### Article 28
+
+For the violations stipulated in subparagraph (1), (3) to (9), (11), (13) to (16) of Article 27, in addition to the fine imposed, the central competent authority may also suspend the fishing license of the fishery operator and the Certificate of Fishing Vessel Officer or Fishing Vessel Crew Identification of the fishery employee for not more than one year, pursuant to Article 10 of the Act. Where the violation is considered gross, they may be revoked.
+
+### Article 29
+
+In addition to the punishment imposed in accordance with Article 27, the central competent authority may, in accordance Article 68 of the Act, confiscate catches caught or transported by or the fishing gears of the violated fishing vessel, regardless of the ownership; in case the whole or part of such catches or fishing gears cannot be confiscated, the value of such catches or fishing gears shall be collected.
+
+### Article 30
+
+These Regulations shall become effective upon promulgation.
+
+## Attachments
+
+- [Appendix 1 List of highly migratory species.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007528)
+- [Appendix 2 Specification of Width, Height and Color of Characters for Vessel Markings.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007529)
+- [Appendix 3 Large circle hooks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007530)
+- [Appendix 4 Figure of Shark Line.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007531)
+- [Appendix 5 De-hooker (left) and scoop net (right).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007532)
+- [Appendix 6 Specifications for Seabird Mitigation Measures (in accordance with WCPFC CMM 2015-03).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007533)
+- [Appendix 7 Logbook for tuna longline fishing vessels.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007534)
+
+## History
+
+1.The full text of 34 articles promulgated on 6 February 2020 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1091332193.
+
+2.Part of these Regulations amended on 17 June 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1111325101.

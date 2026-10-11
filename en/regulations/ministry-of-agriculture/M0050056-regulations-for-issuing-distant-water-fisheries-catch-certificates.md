@@ -1,0 +1,143 @@
+---
+title: "Regulations for Issuing Distant Water Fisheries Catch Certificates"
+title_zh: "遠洋漁業漁獲證明書核發辦法"
+identifier: "M0050056"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2025-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050056"
+retrieved: 2026-10-12
+---
+
+# Regulations for Issuing Distant Water Fisheries Catch Certificates
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050056-regulations-for-issuing-distant-water-fisheries-catch-certificates.md](../../../zh/regulations/ministry-of-agriculture/M0050056-regulations-for-issuing-distant-water-fisheries-catch-certificates.md)) is authoritative.
+
+## Article 1
+
+These Regulations are hereby established pursuant to Article 10, paragraph 2 and Article 25, paragraph 6 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The competent authority may commission the Fisheries Agency, Ministry of Agriculture to conduct the receipt of applications, issuance, write-offs, cancellation, and re-issuance of catch certificates pursuant to Articles 6 to 8, 10, and 11 as well as other related affairs
+
+## Article 3
+
+Catch certificates stipulated herein are categorized into the following five types:
+
+(1) Fishing Vessel Catch Document means a proving document for the application of exemption of import tax and exemption of import control to the Customs Administration of the Ministry of Finance, for catch caught by any distant water fishing vessel permitted by the competent authority and shipped back to the Republic of China by cargo vessels, foreign carrier vessels, or airplanes.
+
+(2) Catch Origin Document means any of the following documents:
+
+i. A proving document that records the concerned fishing vessel, fishing area(s), fishing period(s), weights, and other information on origin, for the concerned catch or fisheries products.
+
+ii. A proving document that, in addition to recording the information as referred to in the preceding item, proves that the concerned catch has not been processed, as per the requirements of any import country, and that the concerned fishing vessel meets certain sanitation requirements, so as to apply for a Veterinary Certificate for Export of Animal Products.
+
+(3) Catch Statistical Document means a catch trade document issued for bigeye tuna or swordfish in accordance with conservation and management measure(s) of international fisheries organization(s).
+
+(4) Catch Certificate for Sales means a document that proves that fishing operations for the concerned catches or fisheries products are not involved in illegal, unreported and unregulated (IUU) fishing activities.
+
+(5) EU Catch Certificate means a certificate that proves that fishing operations for the concerned catches or fisheries products meet the requirements of the European Union (hereinafter referred to as the “EU”).
+
+## Article 4
+
+For any application of catch certificate, the concerned fishing vessel or catch shall meet the following conditions:
+
+(1) The fishing vessel for the catch or fisheries products shall have a Distant Water Fisheries Permit during the period of fishing operations. For catches that have been transshipped at sea, or transshipped in port to foreign carrier vessels, the concerned carrier vessels shall have transshipment plans and apply to the competent authority for approval.
+
+(2) For any application of a Catch Origin Document as referred to in item ii of Article 3, subparagraph (2), the fishing vessel shall also complete the registration of hygiene establishments of the concerned import country.
+
+(3) For any application of a Catch Statistical Document for fresh bigeye tuna or fresh swordfish, the following conditions shall also be met:
+
+i. Such catch is caught by a tuna longline fishing vessel whose gross tonnage (GT) is under 100.
+
+ii. Such catch is preserved in ice-chilling manner.
+
+(4) For any application of an EU Catch Certificate, the concerned fishing vessel and carrier vessel shall be registered in the EU SANCO list.
+
+## Article 5
+
+Any applicant of a catch certificate shall meet one of the following conditions:
+
+(1) He/She shall be a distant water fisheries operator permitted by the competent authority and catch shall be limited to the catch caught by fishing vessel(s) operated by him/herself.
+
+(2) The industry related to distant water fisheries approved by the competent authority to conduct export trade of catches or fisheries products of distant water fisheries.
+
+Applicants of Fishing Vessel Catch Documents shall be limited to the applicant as referred to in subparagraph (1) of the preceding paragraph.
+
+## Article 6
+
+For any application of a catch certificate, an application form shall be filled in and submitted to the competent authority together with the documents as listed in Appendix 1.
+
+A catch certificate will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with the relevant requirements.
+
+The maximum validity period of any catch certificate shall be four years, except for the Catch Statistical Document of fresh bigeye tuna and fresh swordfish, which shall be valid for two months.
+
+In case that a catch certificate is issued before landing of catches, the validity period as referred to in the preceding paragraph shall begin from the date of issuance. For any catch certificate issued after landing of catches, the validity period shall begin from the date of the completion of landing.
+
+## Article 7
+
+In case that the application as referred to in Article 6, paragraph 1 is under any of the circumstances as listed in Appendix 2, the concerned catch certificate shall not be issued.
+
+In case that any of the circumstances as listed in Appendix 2 is found after the issuance of a catch certificate, the competent authority shall withdraw such catch certificate. For any EU Catch Certificate being withdrawn, the competent authority shall notify the EU Directorate-General for Maritime Affairs and Fisheries (DG MARE).
+
+## Article 8
+
+After the issuance of a catch certificate, write-off or cancellation shall be conducted by the concerned applicant in accordance with the following provisions:
+
+(1) In the event that the catch certificate is used, the types of catch certificates and the timeframe for write-off as well as documents to be enclosed are as listed in Appendix 3.
+
+(2) In the event that the catch certificate is not used, the applicant shall, within the validity period of the catch certificate, take the initiative to apply to the competent authority for the cancellation, with the enclosure of the following documents:
+
+i. Statement of the cause(s) of the cancellation.
+
+ii. The original copy of the catch certificate.
+
+iii. In case that the cause(s) of the cancellation happens after the export of the concerned catch or fisheries products, a copy of shipping document(s) for the export and the proof slip of the export declaration issued by the Customs at the port of exportation, or other proving document(s), shall be enclosed as well.
+
+Should the applicant fail to conduct the write-off within the timeframe as stipulated in subparagraph (1) of the preceding paragraph, he/she may, by the end of the timeframe, apply for the extension to the competent authority, with the enclosure of the original copy of the catch certificate, the relevant proving document(s), and the statement of reason(s) therefor. The maximum period of each extension shall be in accordance with Appendix 3, and shall not exceed the validity period as stipulated in Article 6, paragraph 3.
+
+For any applicant that fails to complete the write-off in accordance with the preceding two paragraphs, the competent authority may notify him/her to do so within the required timeframe.
+
+## Article 9
+
+The following provisions shall apply for any applicant that fails to conduct the write-off in accordance with Article 8:
+
+(1) For the applicant as referred to in subparagraph (1) of Article 5, paragraph 1, a fine between 500 thousand and 2.5 million New Taiwan Dollars shall be imposed, and the concerned fishing license may be suspended for 2 years or under, or be revoked, in accordance with subparagraph (1) of Article 41, paragraph 1 of the Act.
+
+(2) For the applicant as referred to in subparagraph (2) of Article 5, paragraph 1, pursuant to Article 38, paragraphs 2 and 3 of the Act, a fine between 2 million and 10 million New Taiwan Dollars shall be imposed, and the qualification to export catches and fisheries products of distant water fisheries shall be suspended for two years or under, or be revoked, for violating Article 8, paragraph 2 of the Regulations for the Approval and Management of the Exporters of Catches or Fisheries Products of Distant Water Fisheries.
+
+## Article 10
+
+In case that a catch certificate is missing or damaged during its validity period, the concerned applicant shall take the initiative to apply to the competent authority for cancellation and re-issuance with the enclosure of the documents as stipulated in subparagraph (2) of Article 8, paragraph 1. The enclosure of the original copy of the catch certificate is waived in case of loss. He/She not intending to use the catch certificate shall only apply for the cancellation.
+
+## Article 11
+
+In case that the application form submitted, the required documents, or contents therein are incomplete for the application, write-offs, cancellation, or re-issuance of any catch certificate, the competent authority shall notify the applicant to supplement within the required timeframe. Failing to supplement within the required timeframe or incomplete supplement shall be subject to denial of the application. The application shall be denied directly if such incompleteness cannot be supplemented.
+
+## Article 12
+
+These Regulations shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1  Documents to be enclosed for the issuance of catch certificates.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009043)
+- [Appendix 2  Reasons for denial of catch certificates.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009044)
+- [Appendix 3  Types of catch certificates and the timeframe for write-off as well as documents to be enclosed.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009045)
+
+## History
+
+1.The full text of 29 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061332071.
+
+2.The full text of 32 articles amended and promulgated on 16 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061339210.
+
+The mandates that belong to the “Council of Agriculture, Executive Yuan” as stipulated in Article 2; Article 3, subparagraph (1); Article 4, paragraph 1, subparagraph (1), (2); Article 6, paragraph 1; Article 7, subparagraph (3); Article 8, subparagraph (8); Article 9, paragraph 1; Article 10, subparagraph (2); Article 11; Article 13, paragraph 1; Article 15, paragraph 1; Article 16, paragraph 1; Article 17, subparagraph (5); Article 18, paragraph 1, 3, 4; Article 19, paragraph 1; Article 21, paragraph 1; Article 23, paragraph 1; Article 23, paragraph 3, subparagraph (2); Article 25, paragraph 1; Article 26; Article 27, paragraph 2; Article 28, paragraph 1; Article 29, paragraph 1; Article 30 and Article 31 shall be under the mandates of the “Ministry of Agriculture”; and the mandates that belong to the “Fisheries Agency, Council of Agriculture, Executive Yuan” as stipulated in Article 2 shall be under the mandates of the “Fisheries Agency, Ministry of Agriculture”, from August 1, 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1125014346 made by the Executive Yuan on July 27, 2023.
+
+3.The full text of 12 articles amended and promulgated on 4 February 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1131537130.

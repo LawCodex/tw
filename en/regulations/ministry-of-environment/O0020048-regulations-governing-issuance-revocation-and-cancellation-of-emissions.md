@@ -1,0 +1,192 @@
+---
+title: "Regulations Governing Issuance, Revocation, and Cancellation of Emissions Certificate of Conformity for Diesel and Alternative Clean Fuel Engine Vehicles"
+title_zh: "柴油及替代清潔燃料引擎汽車車型排氣審驗合格證明核發撤銷及廢止辦法"
+identifier: "O0020048"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-09-11
+last_amended: 2024-02-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020048"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Issuance, Revocation, and Cancellation of Emissions Certificate of Conformity for Diesel and Alternative Clean Fuel Engine Vehicles
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020048-regulations-governing-issuance-revocation-and-cancellation-of-emissions.md](../../../zh/regulations/ministry-of-environment/O0020048-regulations-governing-issuance-revocation-and-cancellation-of-emissions.md)) is authoritative.
+
+## Article 1
+
+The Regulations are established pursuant to Paragraph 2, Article 42 of the Air Pollution Control Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Terms used in these Standards are defined as follows:
+
+\1. Engine family: The diesel and alternative clean fuel engine (hereinafter referred to as diesel engine) with similar combustion cycle (strokes), cooling mechanism (e.g., air cooled, liquid cooled), cylinder block configuration, number of cylinders; location of air intake valves, air supply method (with or without turbo charge), emission control system, fuel supply system and intake air cooling methods (e.g., after cooler, inter cooler) are deemed as the identical engine family.
+
+\2. Vehicle configuration means light-duty diesel commercial or passenger vehicles that are identical in terms of the basic engine, emission control system, transmission and inertia weight class, and are deemed identical vehicle configuration.
+
+\3. In-use diesel and alternative clean fuel engine vehicle (hereinafter referred to as “in-use foreign diesel vehicle”) from abroad: the diesel vehicle which has been registered and licensed by the motor vehicle supervisory agencies of the country of importation, and an import and commodity tax payment (exemption) certificate issued by Customs must be obtained at the time of importation of such vehicle as documentary proof.
+
+\4. On Board Diagnostics System (hereinafter referred to as OBD): A computer system inside the vehicle that monitors vehicle emissions control equipment and can diagnose current operating status, detect and save malfunction codes, and display the signal indicator if malfunctions occur.
+
+\5. Hybrid Electric Vehicle (hereinafter referred to as HEV): A vehicle which has an internal combustion engine and electric motor dual power sources and uses diesel or other alternative clean fuels.
+
+\6. Deterioration factors: Each engine family shall have separate emissions deterioration factors to present the durability performance of the specified vehicle or engine in real world operation if the user has conducted normal maintenance according to the owner’s manual provided by the manufacturer. The gaseous pollutant’s or particulate matter’s test results shall be multiplied or added by the applicable deterioration factors to represent the durability test results.
+
+\7. Ki factors: Ratio of non-regenerating driving cycle test results to regenerating driving cycle test results for vehicles with a periodically regenerating system.
+
+\8. Evolution coefficient: The exhaust emission ratio between the vehicle reaching its expected stable condition and before it is in use.
+
+\9. Defeat devices: Which, by measuring, sensing or affecting the vehicle’s operating parameters (such as speed, engine rpm, transmission gear position, temperature, altitude, intake manifold vacuum, or other parameters), may trigger, adjust, delay or stop the working or emissions control functionality of some part when the vehicle is in normal operating condition and hence reduce the effect posed to, or render no effect on, the emissions control.
+
+\10. Inspection organization: An organization (institution) or school that has been designated by the central competent authority to issue the inspection report for a diesel and alternative clean fuel engine vehicle (hereinafter referred to as the diesel vehicle) emission Certificate of Conformity (hereinafter referred to as the Certificate of Conformity) or heavy-duty diesel vehicle Letter of Conformity (hereinafter referred to the Letter of Conformity).
+
+\11. PEMS test family: A specific diesel vehicle model that is designed with similar exhaust and emission characteristics; or that can be classified as the same on-board test family according to the PEMS test family classification principles stipulated in No. 715/2007 and the subsequent directives established by the European Union (hereunder briefed as the EU).
+
+## Article 3
+
+Diesel vehicles and their engines shall comply with Article 5 of the Air Emission Standards of Mobile Sources (hereinafter referred to as the Emission Standards) that is defined in Paragraph 2, Article 36 of this Act, as well as relevant requirements herein before the central competent authority issues the Certificate of Conformity.
+
+Before filing an application for the heavy-duty diesel vehicle Letter of Conformity, it is necessary to seek the Certificate of Conformity issued by the central competent authority.
+
+## Article 4
+
+The applicant using engine family as the basis to apply for a Certificate of Conformity shall abide by the following regulations:
+
+\1. For domestically manufactured diesel vehicle, the manufacturer shall submit the application.
+
+\2. For imported diesel vehicles, the diesel vehicle manufacturer's designated agent or association of importers shall submit the application.
+
+\3. For imported diesel vehicles procured by various administrative agencies, the agencies shall submit the application by themselves or winning tenderers on their behalf.
+
+## Article 5
+
+The central competent authority shall take the test results from the following test methods as the basis for judging whether or not an engine family complies with the emission standards:
+
+\1. The test results being conducted by the testing organization domestically according to the following requirements for the vehicles representing the maximum pollutant emission for such engine family that the central competent authority or the applicant has selected:
+
+(1) Before February 28, 2025: Refers to the testing organizations designated by the central competent authority.
+
+(2) After March 1, 2025: Refers to the testing organizations approved by the central competent authority.
+
+\2. For the engine family that has obtained the Certificate of Conformity issued by the United States according to the requirements of the United States, or any EU member or the United Kingdom in accordance with the regulations of the EC or UN/ECE, the foreign testing results for the vehicle representing the engine family as provided by the applicant shall apply.
+
+If the testing organization approved by the central competent authority, as defined in the preceding Item 2 under Subsection 1, is organized by the applicant, then such organization shall not be allowed to conduct the vehicle model inspection and the new vehicle random check.
+
+## Article 6
+
+When using the engine family as the basis to apply for or to modify the Certificate of Conformity, the applicant shall submit the application to the central competent authority by submitting the documents and meeting the compliance requirements in Appendix 1 or Appendix 2, in the format defined in the network transmission application system designated by the central competent authority.
+
+As of January 1, 2025, the applicant shall submit the documents and the compliance matters according to the aforementioned application method and format for securing the inspection report from the inspection organization and then uplink to the Network Transmission Application System designated by the central competent authority. In this case, the expenses required for the inspection shall be borne by the applicant.
+
+## Article 7
+
+The review procedure upon the inspection organization’s receipt of the application for the inspection report is specified as follows:
+
+\1. The inspection organization shall check the integrity of the document. If any missing item or non-compliance is found in the application document, then the inspection organization shall inform the applicant to make a correction and the duration of the correction days shall not be longer than 30 days. If the applicant fails to complete the correction within the specified timeline, then the submitted document will be rejected.
+
+\2. After verifying the document integrity for the application case, the inspection organization shall also check if such document complies with the requirements defined in Appendix 1 or Appendix 2.
+
+\3. If any defect exists in the content of the inspection case, then the inspection organization shall inform the applicant to make a correction and the duration of the correction days shall not be longer than 45 days. If required, the applicant may request an extension of the correction period. However, such extension shall be limited to once only. If the applicant fails to complete the correction within the specified timeline, then the inspection organization may conduct the document review.
+
+\4. The inspection organization shall issue the inspection report.
+
+When conducting the aforementioned review, the inspection organization may undertake the field and the substantive inspections as required. The aforementioned inspections shall include the monitoring of the testing process being executed by the applicant in the domestic premise or the auditing in the applicant’s manufacturing plant or service location. In this regard, the entire inspection process shall be completed within 30 days.
+
+## Article 8
+
+When revising part of the engine family-related data for the same engine family or when adding any new vehicle configuration or engine configuration, the applicant shall apply for modification of Certificate of Conformity with the central competent authority, and also submit the comparative data being acquired before and after the modification. When all of the items affecting the pollutant emission are proven to be identical to the original engine family and provided with the same emission characteristics, then the applicant shall be allowed to modify the Certificate of Conformity of said engine family upon review and approval by the central competent authority.
+
+## Article 9
+
+Applicants shall submit the deterioration factors of all regulated emissions for each engine family. The deterioration factors shall be handled in accordance with Appendix 3.
+
+For a diesel vehicle using the European Union (hereinafter referred to as the EU) NEDC or WLTC or WHTC driving cycle for the tests and required to submit the related regeneration factor Ki and evolution coefficient, Appendix 3 shall apply.
+
+## Article 10
+
+Mass production diesel vehicles or diesel engines for which the applicants have obtained the Certificate of Conformity shall comply with the following requirements:
+
+\1. Each mass production diesel vehicle or diesel engine shall have the same vehicle configuration or engine configuration recorded in the Certificate of Conformity. All items affecting the pollutant emission and the emission control system shall be consistent with the contents and approved items that are mentioned in the application documents, which have already been reviewed and approved.
+
+\2. Any manuals and instructions made available by the manufacturer, manufacturer’s designated agent or association of importers to any agents, distributors, after-sale service units (including depots and stations providing maintenance and repair services) and vehicle owners, and any use, repair, adjustment, maintenance or test related to emission control systems, shall be consistent with the contents and approved items that are mentioned in the application documents which are already reviewed and approved.
+
+\3. The manufacturer, manufacturer’s designated agent or association of importers shall undertake the mass production quality controls, including the quality controls over new vehicles and in-use vehicles. The applicable execution requirements, quality control test items, random inspection ratio and testing result (including related data), and testing result submission schedule shall be handled in accordance with Appendix 4. For the diesel vehicles or diesel engines of which the quality control result does not meet the emission standards, and requirements referred to herein, the reasons causing the non-conformity shall be explained and corrections made.
+
+\4. The applicant shall coordinate with and assist the central competent authority to conduct the audit and designated test and shall also provide vehicle-related sales information. When required, the applicant shall help deliver the selected vehicle to the designated location.
+
+## Article 11
+
+The central competent authority may conduct a new vehicle random check on diesel vehicles or diesel engines that have already obtained the Certificate of Conformity. The test procedures, selection of vehicles, judgment on the testing result, and other compliance requirements shall be handled in accordance with Appendix 5.
+
+If the conducted new vehicle random check is judged as non-compliant by the central competent authority, the Certificate of Conformity for such vehicle configuration or engine family shall be cancelled or revoked. After the day following receipt of the notice, within 45 days, the applicant shall submit a recall and correction plan for unsold and sold vehicles of the failed vehicle configuration or engine. After the central competent authority reviews and approves the plan and the correction is completed, the applicant may reapply for the vehicle configuration’s or engine family's Certificate of Conformity pursuant to the Regulations. The contents of the recall and correction plan shall be handled in accordance with Appendix 5.
+
+## Article 12
+
+For diesel vehicles required to be equipped with an OBD system pursuant to the Emission Standards, when applying for said engine family’s Certificate of Conformity, the applicant shall provide documents and OBD specifications that meet Appendix 1 or Appendix 2 and also Appendix 6.
+
+## Article 13
+
+When importing newly manufactured diesel vehicles or in-use diesel vehicles from overseas separately under a personal name, the applicant shall submit the following testing reports in replace of the Certificate of Conformity for each vehicle:
+
+\1. The certificates showing that the diesel vehicles are already judged by the central competent authority having the vehicle configuration using the engine that meets the Emission Standards, or the following testing reports tested by a central competent authority-approved testing organization showing that the vehicles meet the Emission Standards:
+
+(1) Vehicle driving cycle or engine test cycle testing results.
+
+(2) Smoke opacity testing report.
+
+(3) OBD testing report (to execute at least one circuit continuity test).
+
+\2. If the diesel vehicles cannot be tested by a central competent authority-approved testing organization, then the applicant may submit the testing result that has been judged by the central competent authority as meeting the Emission Standards.
+
+## Article 14
+
+Where the Certificate of Conformity issued by the central competent authority meets any of the following circumstances, the central competent authority may cancel or revoke the Certificate of Conformity:
+
+\1. Violating the provisions of Article 10, the time-limited improvement is imposed three consecutive times within two years.
+
+\2. The results of the new vehicle random check are determined as non-compliance with the applicable standards.
+
+\3. Using any false document in the application, reporting false information, or keeping false records of operations.
+
+\4. Other severe offenses determined by the central competent authority.
+
+## Article 15
+
+The central competent authority may contract agencies (organizations) to handle the relevant matters related to the new vehicle random check.
+
+## Article 16
+
+The Regulations shall be enforced as of the date of promulgation.
+
+## Attachments
+
+- [Appendix 1：Documents required and the compliance matters for the Diesel Vehicle Certificate of Conformity application.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008470)
+- [Appendix 2：Documents required and compliance matters for Heavy-Duty Diesel Vehicle Engine Letter of Conformity applications.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008471)
+- [Appendix 3：Provisions for determination of diesel vehicle and diesel engine deterioration factors, Ki factors, and evolution coefficients.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008472)
+- [Appendix 4：Provisions for quality control over mass production of diesel and alternative clean fuel engine vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008473)
+- [Appendix 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008474)
+- [Appendix 6：Regulations Governing Diesel Vehicles Equipped with OBD Systems.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008475)
+
+## History
+
+1.Promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 0910060153D on September 11, 2002.
+
+2.Revisions to Articles 14 and 17, and Article 5 in Appendix 1 promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 0930097445B and the Ministry of Transportation and Communications Chiao-Lu-Fa-Tzu No. 093B000118 on December 31, 2002.
+
+3.Revisions to Article 2 and Articles 13 to 18, and Appendices 1 through 4 promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 0950055340D and the Ministry of Transportation and Communications Chiao-Lu-Fa-Tzu No. 0950085043 on July 19, 2006.
+
+4.Revisions to Article 2, Articles 5, Articles 7, Articles 11, Articles 12, Articles 14 to 16, and Appendices 1 through 4,Respects to Articles 14-1 and Appendices 5, promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 1000019481D and the Ministry of Transportation and Communications Chiao-Lu-Fa-Tzu No.1000001938 on May 22, 2011.
+
+5.Revised and promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 1080019444 on March 25, 2019
+
+6.Revisions to Article 5-1 and Appendix 1 of Article 5 and Appendix 2 of Article 7, promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 1090048749 on July 3, 2020
+
+7.Revised and promulgated by Ministry of Environment Order Huan-Bu-Kong-Tzu No. 1131005796 on February 1, 2024

@@ -1,0 +1,209 @@
+---
+title: "Regulations For Subsidizing Living Assistance As Well As Childcare And Medical Expenses Of Disadvantaged Children And Youth"
+title_zh: "弱勢兒童及少年生活扶助與托育及醫療費用補助辦法"
+identifier: "D0050180"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2012-05-28
+last_amended: 2026-01-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050180"
+retrieved: 2026-10-12
+---
+
+# Regulations For Subsidizing Living Assistance As Well As Childcare And Medical Expenses Of Disadvantaged Children And Youth
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050180-regulations-for-subsidizing-living-assistance-as-well-as-childcare-and-medical.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050180-regulations-for-subsidizing-living-assistance-as-well-as-childcare-and-medical.md)) is authoritative.
+
+## Article 1
+
+These Regulations are stipulated pursuant to Paragraph 2, Article 23 of the Protection of Children and Youths Welfare and Rights Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Subsidies prescribed in these regulations include Living Assistance and childcare and medical expenses(including the insurance premium for National Health Insurance).
+
+The preceding subsidies along with the relevant examinations, affirmations and allocations shall be handled by competent authorities of the county (city) government.
+
+## Article 3
+
+Subsidy objects for Living Assistance are as follows:
+
+\1. Children and youth from middle-low income households have difficulties.
+
+\2. Children and youth, as well as their offspring, have difficulties resulting from pregnancies or births.
+
+\3. Children and youth are evaluated by competent authorities of the county (city) government to be nurtured without supportive capabilities, to have no legal supporters or that their living is not be supported by legal supporters.
+
+People who apply for the preceding Living Assistance shall prepare complete application forms and provide relevant certificates to competent authorities of the county (city) government in their domicile locations.
+
+## Article 4
+
+Each living assistance subsidy recipient shall receive a monthly subsidy of NT$ 1,900.
+
+Starting in 2016, the subsidy amount specified in the preceding paragraph shall be adjusted every four years by the competent central authority based on the difference in the consumer price index (CPI), published by the competent statistical agency at the central government level, between the most recent year and the year prior. Notwithstanding the foregoing, the subsidy amount shall not be adjusted if the CPI remains level or decreases.
+
+## Article 5
+
+People who have accepted government public expenses for the placement or Living Assistance or allowances of the same nature shall not be re-subsidized; unless otherwise prescribed by the laws, subsidy favorably; differences shall be subsidized for the amount less than Living Assistance.
+
+The preceding Living Assistance or allowances of the same nature shall be affirmed by competent authorities of the county (city) government.
+
+## Article 6
+
+The legal guardian(s) or the person(s) having actual care of a child under two years of age may apply for childcare subsidies in accordance with the regulations set forth by the central competent authority regarding contracted childcare service subsidy application and disbursement for children under two years of age, provided that the child is entrusted to the care of the following personnel or at the following facilities contracted by the municipal or county (city) government:
+
+\1. Family childcare service agencies (hereinafter, “family childcare providers”);
+
+\2. Infant care centers; or
+
+\3. Other facilities that provide childcare services.
+
+Recipients of the subsidy described in the preceding paragraph must meet one of the following requirements:
+
+\1. Be from a low income household;
+
+\2. Be from a medium-low income household;
+
+\3. Be a minor facing hardship due to teenage pregnancy or childbirth; or
+
+\4. Be a child determined by the competent authority at the municipal or county (city) level to be unable to make a living, and who has no parental obligors or whose parental obligors are unable to support the life of the child .
+
+Temporary childcare subsidies may be provided, by application, to the legal guardian(s) or person(s) having actual care of a child under the age of two, who meet one of the requirements set forth in the preceding paragraph but who are only temporarily unable to care for the child due to occupational training, the pursuit of employment, or a family misfortune OR the legal guardian(s) or person(s) having actual care of a child under the age of two with disabilities or developmental delays, who are temporarily unable to care for the child due to an extraordinary circumstance, thus requiring short-term service from the personnel or care facilities described in Paragraph 1 of this article.
+
+Family childcare providers must meet all of the qualifications set forth under Article 26, Paragraph 2, Subparagraphs 1 through 3 of the Act and must be duly registered in accordance with the Registration and Management Regulations for Family Childcare Services Agencies.
+
+## Article 7
+
+The amount of the childcare subsidy described in the preceding article is provided in the appendix.
+
+The preceding paragraph shall apply mutatis mutandis to children aged two or above but under three years of age, whose legal guardian(s) or actual caregiver(s) meet the subsidy criteria set forth under Paragraph 2 of the preceding article.
+
+The amount for temporary childcare subsidies shall be as follows:
+
+\1. NT$100 per hour, up to a maximum of 240 hours per year;
+
+\2. For children with disabilities or developmental delays, NT$120 per hour, up to a maximum of 240 hours a year.
+
+## Article 8
+
+An applicant applying for subsidized childcare expenses and temporary childcare expenses shall prepare complete application forms, attach the children’s identity documents, childcare contracts, family status certificates, and other relevant documents and materials, and submit them to the competent authorities of the county (city) government within fifteen days from the facts of the childcare.
+
+For applicants making applications within the given time limit in the preceding paragraph, childcare expenses shall be calculated from the commencement day of childcare utilization. If overdue, childcare expenses shall be calculated from the arrival date of the completely prepared documents.
+
+## Article 9
+
+Subsidy objects for medical expenses are as follows:
+
+\1. Children and youth from middle and low-income households
+
+\2. Children and youth in possession of emergency Living Assistance
+
+\3. Children and youth under protection according to Schemes for Report and Process on Protection of Children and Youth
+
+\4. Children and youth to be placed in the public and private educational institutes or fostering families
+
+\5. Children under six years old according to provisions prescribed in Article 9 of Statutes for supporting families in special circumstances
+
+\6. Children with developmental delay
+
+\7. Premature infants
+
+\8. Children and Youth, as well as their offspring, with difficulties resulting from pregnancies or births
+
+\9. Children and youth with rare diseases announced by the Ministry of Health and Welfare, or in possession of major injury certificates pursuant to the National Health Insurance Act
+
+\10. Children and youth assessed to be necessarily subsidized by competent authorities of the county (city) government
+
+## Article 10
+
+Subsidies of medical expenses are as follows:
+
+\1. Hospital charges and care charges during hospital stays at own costs pursuant to the National Health Insurance Act will be subsidized a maximum of NT$ 300,000 per year. Hospital charges are limited to diseases and medical advice for injury accidents at own costs pursuant to the National Health Insurance Act. Such subsidies shall not include artificial limbs, prosthetic eyes, artificial teeth, provision of glasses, dental prosthetics, face-fitting, reforming, patient delivery, appointment of doctors, special nurses, charges of appointed drugs, registration fees, disease prevention and preventive surgery of non-disease or birth control ligation and charges of appointed wards.
+
+\2. Medical expenses for unmarried pregnant production and abortion; however, the expenses are limited to non-subsidies pursuant to the Statutes for supporting families in special circumstances.
+
+\3. Charges of parent-child blood appraisals for identity confirmation.
+
+\4. Appraisal charges and early treatment training charges for children with developmental delay exceed the coverage of national health insurance; children under six or those over six and before school age, or appraised to postpone entrance shall be subsidized maximum NT$ 500 once and eight times at most per month.
+
+\5. Medical and hospital charges derived from premature delivery and complications after doctor’s appraisal shall be subsidized a maximum of NT$ 300,000 per year.
+
+\6. Medical expenses for an individual case that is not qualified for national health insurance; however, such expenses are limited to a benefit package of national health insurance and hospital charges at the person’s own cost with a maximum subsidy of NT$ 300,000 per year.
+
+7.Medical expenses for human immunodeficiency virus post- exposure prophylaxis evaluated by the physician as necessary are subject to limitation of up to NT$ 30,000 per treatment.
+
+\8. Other necessary subsidy items after assessment are limited to a maximum of NT$ 300,000 per year.
+
+In the event that the premium referred to in each paragraph of the preceding article paid at own cost for children and youth according to Article 27 of the National Health Insurance Act that was previously uninsured, interrupted or unpaid, competent authorities of the county (city) government shall appropriate partial subsidy to each of the children and youth and limited to one subsidy only.
+
+## Article 11
+
+Subsidy basis for medical expenses in each subparagraph of Paragraph 1 of the preceding article are as follows:
+
+\1. Application of subsidies in each subparagraph of Paragraph 1 of the preceding article prescribed in Paragraphs 6-10 of Article 9 shall be set a subsidy ratio according to income as follows:
+
+(1) The average of total family income not exceeding twice the lowest monthly living expense per person in the current fiscal year in the local area, or not exceeding the average monthly consumption expenditure per person in Taiwan shall be subsidized 75%.
+
+(2) The average of total family income exceeding twice but lower than triple the lowest monthly living expense per person in the current fiscal year in the local area, or not exceeding 1.5 times of the average monthly consumption expenditure per person in Taiwan shall be subsidized 50%.
+
+(3) The average of total family income exceeding triple but lower than quadruple the lowest monthly living expense per person in the current fiscal year in the local area, or not exceeding twice of the average monthly consumption expenditure per person in Taiwan shall be subsidized 25%.
+
+\2. Application of subsidies in each subparagraph of Paragraph 1 of the preceding article prescribed in Paragraphs 1-5 of Article 9 shall be subsidized in full.
+
+The preceding family shall have its population range calculated, including children and youth’s first-degree lineal relatives and brothers and sisters that are really living together. However, parents who are not living together with and fostering their underage children in a single parent family, failing to perform and assume the rights and obligations of parents for their underage children shall not be included.
+
+The calculation method of total family income shall be in accordance with the relevant regulations of the Public Assistance Act.
+
+## Article 12
+
+Applicant’s applying to subsidize medical expenses shall submit the relevant supporting documents, health insurance card copy, original receipt and payment details of self-payment and care expenditures in contracted hospitals or clinics for national health insurance within six months from the date of the hospital stay (date of leaving the hospital), the medical action being closed or applied items being finished to competent authorities of the county (city) government; any overdue application shall not be subsidized.
+
+## Article 13
+
+In regards to the premium referred to in Paragraph 2 of Article 10 paid at the own cost for children and youth according to Article 27 of the National Health Insurance Act that was previously uninsured, interrupted or unpaid, competent authorities of the county (city) government shall confirm the subsidy list by the end of every April and August, delivering to be handled by an insurer of national health insurance, and appropriating such subsidized premiums by the end of every July and November.
+
+## Article 14
+
+Any of the following conditions that occur for subsidizing Living Assistance and medical expenses shall not be subsidized; if subsidy is received, competent authorities of the county (city) government shall terminate subsidies (supports) and order the subsidy to be returned. However, causes not attributable to applicants and corrected by the laws shall be excluded:
+
+\1. Acquire government supports or subsidies for the same events according to other laws.
+
+\2. Supply false documents, refuse to supply or hide documents requested by competent authorities of the county (city) government.
+
+\3. Application or acquisition of subsidy with false certificates, fraud or other improper behavior.
+
+## Article 15
+
+Competent authorities of the county (city) government or commissioned offices of the township (city, district) shall uniformly tabulate to acquire various incomes, properties and tax statuses of the applicant’s family required for subsidizing affairs in these regulations, and respectively mail the data to the National Tax Administration and taxation agency of local taxes, which they shall provide accordingly pursuant to the Tax Collection Act.
+
+## Article 16
+
+Competent authorities of the county (city) government shall input the relevant statistics of applicants’ numbers for the first half of the year in the internet reporting system of the official Ministry of health and welfare statistics for social welfare affairs by the 10th of the next month at the end of every half year, or report it to the central authorized agency.
+
+## Article 17
+
+These Regulations shall come into force on 1 January 2013.
+
+The amendments to these Regulations shall take force from the date of promulgation, with the exception of Article 10 amended and issued on 18 February 2014, which shall take force from 1 January 2014.
+
+## Attachments
+
+- [Appendix  Childcare Subsidy Schedule.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009694)
+
+## History
+
+1.Promulgated by Tai-Nei-Tung-Tze Order No. 1010840262 dated May 28st, 2012
+
+2.Amended on February 18, 2014
+
+3.Amended on December 11, 2015
+
+4.Amended on November 25, 2020
+
+5.Amended on January 7, 2026

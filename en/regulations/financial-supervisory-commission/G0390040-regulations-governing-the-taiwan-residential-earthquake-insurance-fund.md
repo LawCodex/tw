@@ -1,0 +1,147 @@
+---
+title: "Regulations Governing the Taiwan Residential Earthquake Insurance Fund"
+title_zh: "財團法人住宅地震保險基金管理辦法"
+identifier: "G0390040"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-11-30
+last_amended: 2026-08-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390040"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Taiwan Residential Earthquake Insurance Fund
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390040-regulations-governing-the-taiwan-residential-earthquake-insurance-fund.md](../../../zh/regulations/financial-supervisory-commission/G0390040-regulations-governing-the-taiwan-residential-earthquake-insurance-fund.md)) is authoritative.
+
+## Article 1
+
+These regulations are adopted pursuant to Article 138-1, paragraph 4 of the Insurance Act.
+
+## Article 2
+
+Management of Taiwan Residential Earthquake Insurance Fund (TREIF) shall be conducted in accordance with these Regulations.
+
+## Article 3
+
+When TREIF assumes and spreads residential earthquake risks and handles other related business under the “Enforcement Rules for the Risk Spreading Mechanism of Residential Earthquake Insurance” adopted by the competent authority in charge of the particular enterprise, it shall do so in accordance with the provisions of Article 138-1 of the Insurance Act and other applicable acts or regulations.
+
+## Article 4
+
+TREIF may not engage in operations outside the scope authorized by the Insurance Act and its Charter of Endowment.
+
+## Article 5
+
+The balance of the total pure premium received by TREIF in accordance with the provisions of Article 6, subparagraph 1 of its Charter of Endowment after deduction of premium allocated to the Pool and the costs in connection with spreading of risk on domestic, overseas reinsurance or capital markets shall be accumulated in their entirety, and may not be drawn upon except for the claim payments which shall be made in connection with an earthquake event or for the principal and interest payments of financing loans mentioned in paragraph 2.
+
+When the occurrence of a major earthquake disaster results in claim payments that exceed the amount of funds accumulated in TREIF, TREIF shall lay down a financing plan to raise fund with domestic or foreign institutional loans or other financing patterns, and in order to safeguard the interest of the insured parties TREIF may as necessary ask the competent authority and the Ministry of Finance to jointly request Executive Yuan’s approval for the national treasury to provide collateral to obtain the necessary source of funding.
+
+## Article 6
+
+In addition to supporting TREIF’s business needs, the utilization of TREIF’s fund shall be limited to the following purposes:
+
+1.To make NT Dollar or foreign currency deposits in domestic banks;
+
+2.To purchase government bonds, treasury bills, financial bonds, negotiable certificates of deposits, bankers' acceptances, or commercial papers guaranteed by banks or bills finance companies;
+
+3.To purchase publicly issued guaranteed corporate bonds, or unsecured corporate bonds issued by a company which has been rated above certain level by a credit rating agency; the amount of investment used to purchase corporate bonds shall not exceed 30% of TREIF’s total fund;
+
+4.To purchase investment-grade TWD bond fund that are domestically offered and issued by domestic securities investment trust companies; such investment shall not exceed 5% of TREIF’s total fund;
+
+5.To invest in exchange traded fund (ETF) with domestic component securities; however, such investment shall not exceed 0.5% of TREIF’s total fund.
+
+6.To invest in domestic money market funds.
+
+The term “total fund” mentioned in the preceding paragraph include TREIF’s net value and various reserves.
+
+The term “a company which has been rated above certain level” mentioned in the first paragraph, third subparagraph shall have a credit rating that meets one of the following criteria:
+
+1.A long-term credit rating of tw AA- or above from Taiwan Ratings Corp;
+
+2.A long-term credit rating of AA-(twn) or above from Fitch International's Taiwan subsidiary;
+
+3.A long-term credit rating of AA- or above from Standard & Poor's Corporation;
+
+4.A long-term credit rating of AA- or above from Fitch Rating Ltd;
+
+5.A long-term credit rating of Aa3 or above from Moody’s Investors Service.
+
+The total amount of investments under Subparagraphs 4 ~ 6 of Paragraph 1 combined shall not exceed 10% of TREIF’s total fund.
+
+TREIF shall stipulate risk control mechanisms and measures and submit them to the competent authority for recordation.
+
+The balance of the yearly financial income of TREIF after deduction of financial costs, expenses, and losses shall be carried over as accumulated surplus/deficit.
+
+## Article 7
+
+TREIF shall set aside or treat various reserves of the Insurance pursuant to the following provisions:
+
+\1. Assumed unearned premium reserve: For reinsurance contracts issued by TREIF for reinsurance assumed, assumed unearned premium reserve shall be set aside after calculating liability for remaining coverage in accordance with the International Financial Reporting Standards 17 (IFRS 17).
+
+\2. Assumed loss reserve: For reinsurance contracts issued by TREIF for reinsurance assumed, assumed loss reserve shall be set aside after calculating liability for incurred claims in accordance with the IFRS 17.
+
+\3. Ceded unearned premium reserve: For reinsurance contracts held by TREIF for reinsurance ceded, ceded unearned premium reserve shall be set aside after calculating asset for remaining coverage in accordance with IFRS 17.
+
+\4. Ceded loss reserve: For reinsurance contracts held by TREIF for reinsurance ceded, ceded loss reserve shall be set aside after calculating asset for incurred claims in accordance with IFRS 17.
+
+\5. Special reserve:
+
+(1)At the end of each year, TREIF shall set aside the balance of the total amount of earned pure premium received after deduction of premium allocated to the Pool, the costs in connection with spreading risks to domestic, overseas reinsurance or capital markets, retained claim payment, and the difference between loss component in the previous period and the current period as special reserve if positive.
+
+(2)At the end of each year, TREIF shall set aside the balance of the income from expense loading plus the sum of various incomes excluding the financial income after deduction of operating costs and expenses as a special reserve. In the event that the balance of this item is negative, it shall be carried over into accumulated surplus/deficit.
+
+(3)In the event that the special reserve in item 1 is insufficient, the deficit shall be replenished with the recovered special reserve accumulated in the previous years. If any deficit remains, it shall be replenished with the special reserves set aside in the subsequent years.
+
+The costs and expenses referred to in item 2, subparagraph 5 of the preceding paragraph shall not include the costs, expenses, indemnities, and losses deducted as per the provisions of paragraph 5 of the preceding Article and item 1 of subparagraph 5 of the preceding paragraph.
+
+## Article 8
+
+The competent authority in charge of the particular enterprise may from time to time dispatch personnel to examine TREIF’s operational and financial status.
+
+TREIF shall regularly report, in accordance with the regulations of the competent authority in charge of the particular enterprise, its operational and financial status to the competent authority in charge of the particular enterprise or to an organization designated thereby.
+
+## Article 9
+
+TREIF shall submit the budget report and the work plan for the coming fiscal year before July 31 each year as well as the final accounting report and the work result report for the preceding fiscal year before April 15 each year to the competent authority for record after passed by the Board of directors.
+
+Any increase of expenditure due to significant market changes and real business needs may be listed in the annual final accounting report after the increase of expenditure is passed by the Board of directors as well as reviewed and approved by the competent authority.
+
+The budget report and final accounting report of the first paragraph shall include a balance sheet, statement of revenues and expenditures, cash flow statement, statement of changes in net value, and related tables.
+
+The final accounting report and the work result report of the first paragraph shall be submitted to all supervisors for conducting audit separately after they are passed by the Board of directors and then submitted to the competent authority for record along with a supervisory report for the preceding year prepared by the supervisors.
+
+## Article 10
+
+Any TREIF’s personnel change of managerial level or above shall be reported to the competent authority within 15 days of the change.
+
+## Article 11
+
+These regulations shall be enforced from the date of promulgation.
+
+Articles amended and promulgated on June 24, 2024 shall be implemented from January 1, 2026.
+
+## History
+
+\1. Full text of eleven articles were promulgated pursuant to Order No. 0900751337 of the Financial Supervisory Commission, dated 30 November 2001.
+
+\2. Article 3、4、6 and 10 were amended and promulgated pursuant to Order No. 09402564042 of the Financial Supervisory Commission, dated 1 December 2005.
+
+3.Article 4 were amended and promulgated pursuant to Order No. 09502565332 of the Financial Supervisory Commission, dated 29 December 2006.
+
+4.Full text of nine articles were amended and promulgated pursuant to Order No. 09602564102 of the Financial Supervisory Commission, dated 26 November 2007；for the implementation from January 1, 2008.
+
+\5. Article 6、7 and 9 were amended and promulgated pursuant to Order No. 10002566531 of the Financial Supervisory Commission, dated 20 December 2011.
+
+\6. Article 5、7 and 9 were amended and promulgated pursuant to Order No. 10202527731 of the Financial Supervisory Commission, dated 14 October 2013.
+
+\7. Full text of eleven articles were amended and promulgated pursuant to Order No. 10804950051 of the Financial Supervisory Commission, dated 16 September 2019.
+
+\8. Article 7 and 11 were amended and promulgated pursuant to Order No. 11304921251 of the Financial Supervisory Commission, dated 24 June 2024; for the implementation from January 1, 2026.
+
+\9. Article 6 was amended and promulgated pursuant to Order No. 11504928851 of the Financial Supervisory Commission, dated 7 August 2026.

@@ -1,0 +1,321 @@
+---
+title: "The Regulation Governing the Handling of Investigation Procedures for Civil and Public Aircraft Occurrence"
+title_zh: "民用航空器及公務航空器重大飛航事故調查作業處理規則"
+identifier: "K0090053"
+type: regulation
+law_level: "命令"
+category: "行政＞國家運輸安全調查委員會＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-12-21
+last_amended: 2020-03-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090053"
+retrieved: 2026-10-12
+---
+
+# The Regulation Governing the Handling of Investigation Procedures for Civil and Public Aircraft Occurrence
+
+> Translation. The Chinese text ([zh/regulations/taiwan-transportation-safety-board/K0090053-the-regulation-governing-the-handling-of-investigation-procedures-for-civil-and.md](../../../zh/regulations/taiwan-transportation-safety-board/K0090053-the-regulation-governing-the-handling-of-investigation-procedures-for-civil-and.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are enacted pursuant to Article 38 of the Transportation Occurrences Investigation Act (hereinafter referred to as the "Act"). and shall apply to the investigation of major aviation occurrences involving civil and public aircraft.
+
+### Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. Major Aviation Occurrence: Any occurrence classified as specified within the Scope of Major Transportation Occurrences prescribed pursuant to Paragraph 2, Article 2 of the Act.
+
+\2. Death: A person is fatally injured at the scene or within 30 days of sustaining an injury as a result of being in the aircraft, or direct contact with any part of the aircraft, including parts which have become detached from the aircraft, or direct exposure to jet blast, except when the injuries are from natural causes, self-inflicted or inflicted by other persons, or when the injuries are to stowaways hiding outside the areas normally available to the passengers and crew.
+
+\3. Injury: An injury sustained by a person being in the aircraft, or direct contact with any part of the aircraft, including parts which have become detached from the aircraft, or direct exposure to jet blast, and not from natural causes, the person's own behavior, the conduct of unauthorized personnel who are not passengers or pilots or cabin crew, or being a stowaway hiding outside the areas normally available to passengers and crew, which:
+
+(1) requires hospitalization for more than 48 hours, commencing within 7 days from the date the injury was received;
+
+(2) results in a fracture of any bone (except simple fractures of fingers, toes, or nose);
+
+(3)	Hemorrhaging or damage to nerves, muscles or tendons due to laceration;
+
+(4) involves any internal organ;
+
+(5) involves second- or third-degree burns, or any burns affecting more than 5 percent of the body surface.
+
+(6)	involves verified exposure to infectious substances or injurious radiation.
+
+\4. Substantial Damage: Damage or structural failure that adversely affects the structural strength, performance, or flight characteristics of the aircraft, and typically requires major repair or replacement of the affected component, excluding a single engine’s failure or damage on a multi-engine aircraft (including its cowlings or accessories); damage to propellers, wing tips, antennas, probes, vanes, tires, brakes, wheels, fairings, panels, landing gear doors, windscreens, the aircraft skin (such as small dents or puncture holes); minor damage to the main rotor blades, tail rotor blades, or landing gear; and minor damage resulting from hail or bird strikes (including punctures in the radome).
+
+\5. Missing: A status in which the search for an aircraft has been officially terminated by the Taiwan Transportation Safety Board (hereinafter referred to as “TTSB”) and the wreckage has not been located.
+
+\6. Accredited Representative: An individual who, in the event of a major aviation occurrence, is appointed and authorized by the government of the State of Registry, the State of the Owner, the State of the Operator, the State of Design, the State of Manufacture or any other state concerned (excluding States which have a special interest in an accident by virtue of fatalities to its citizens), to lead one or more advisors from the State to participate in the investigation of the major aviation occurrence conducted by the State of Occurrence or by the State that has been delegated by the State of Occurrence to undertake the investigation.
+
+\7.	Duty Officer: A TTSB investigator assigned to 24-hour shifts responsible for receiving and notifications of reporting major aviation occurrences.
+
+\8. On-Scene Investigator: An aviation safety investigator designated by the TTSB upon notification of a major or suspected aviation occurrence, responsible for leading the on-scene team in the on-scene determination of a major aviation occurrence and investigation-related operations, and whose mission shall terminate upon the appointment of the Investigator-in-Charge.
+
+\9. On-Scene Team: An ad hoc group of TTSB investigators assembled to conduct on-site determination, documentation, and data collection in response to a major aviation occurrence.
+
+10.Investigator-in-Charge: An investigator designated by the TTSB in accordance with the Act to lead and manage the investigation of a major aviation occurrence, and to appoint and establish the investigation task force; and direct major relevant investigations.
+
+\11. Investigation Task Force: An ad hoc investigation team established and directed by the Investigator-in-Charge pursuant to the Act to carry out relevant tasks during investigation.
+
+12.Investigation Command Post: A facility established to provide command, control, communication, and logistic support to facilitate on-site investigation, as well as to host meetings and briefings for the investigation task force.
+
+\13. Flight Data Recorder: A flight recorder that records aircraft system, performance and environmental parameters.
+
+14.Cockpit Voice Recorder: A flight recorder that records audio communications and sounds within the cockpit.
+
+### Article 3
+
+In the event of a major aviation occurrence as defined in Paragraph 3, Article 6 of the Act, the TTSB shall, upon the invitation of the investigation agency of the State of occurrence to participate in the investigation, promptly designate an accredited representative and invite the owner of the aircraft, the operator of the aircraft, the designer of the aircraft, the manufacturer of the aircraft and personnel of the Civil Aviation Administration of the Ministry of Transportation and Communications (hereinafter referred to as “CAA”), to form an investigation team.
+
+The expenses incurred from participating in the investigation shall be borne by the agencies (institutes) individually.
+
+## Chapter 2 Reporting of Major Aviation Occurrences
+
+### Article 4
+
+In the event of a major aviation occurrence or a suspected major aviation occurrence in accordance with Article 6 of the Act, the owner and operator of the aircraft, as well as the air traffic control agency (or institution), shall promptly notify the TTSB duty officer by telephone and submit a completed Major Aviation Occurrence Report Form to the TTSB by facsimile or e-mail, within the time limit specified in Article 9 of the Act.
+
+### Article 5
+
+The owner of the aircraft, the operator of the aircraft and the air traffic control agency (institution) shall report to the TTSB any of the following major aviation occurrences or suspected major aviation occurrences:
+
+\1. Death or injury to any person.
+
+\2. An aircraft that is missing or completely inaccessible.
+
+\3. Substantial damage to an aircraft, or where there are sufficient grounds to believe that the aircraft has sustained substantial damage.
+
+\4. An airborne aircraft coming within 500 feet of another airborne aircraft, requiring an avoidance maneuver to prevent a mid-air collision or an unsafe situation.
+
+\5. An aircraft collision that may result in substantial damage to the aircraft.
+
+\6. Occurrences during controlled flight where deviation from the assigned track or failure to comply with air traffic control instructions necessitates an emergency avoidance maneuver to avoid collision with terrain or obstacles.
+
+\7. Aborted take-offs on a closed or engaged runway, on a taxiway or unassigned runway.
+
+\8.	Take-offs from a closed or engaged runway, from a taxiway or unassigned runway.
+
+\9. Landings or attempted landings on a closed or engaged runway, on a taxiway or on an unassigned runway (less than 300 feet above the ground, or instructed by the air traffic controller to make a correction).
+
+\10. Gross failures to achieve predicted performance during take-off or initial climb.
+
+\11. Fires and/or smoke in the cockpit, in the passenger compartment, in cargo compartments or engine fire.
+
+\12. Events requiring the emergency use of oxygen by the flight crew in accordance with the operation manual.
+
+\13.	Aircraft structural failures or engine disintegrations, including uncontained turbine engine failures, not classified as an accident.
+
+\14.	Multiple malfunctions of one or more aircraft systems seriously affecting the operation of the aircraft.
+
+\15. Flight crew incapacitation in flight.
+
+\16. Fuel quantity level or distribution situations requiring the declaration of an emergency by the pilot, such as insufficient fuel, fuel exhaustion, or inability to use all usable fuel on board.
+
+\17. Runway incursions where the aircraft is close to an obstacle or other aircraft during take-off or landing phase.
+
+\18. Take-off or landing incidents, such as under-shooting, overrunning or veering off the side of runways.
+
+\19. System failures, weather phenomena, operations outside the approved flight envelope or other occurrences which caused or could have caused difficulties controlling the aircraft.
+
+\20. Failures of more than one redundant system required for flight guidance and navigation.
+
+\21. The unintentional or emergency release of a slung load or any other load carried externally to the aircraft.
+
+\22. Any other occurrence that is likely to cause death or injury to any person, or that is likely to meet the criteria specified in Subparagraph 17, Article 2 of the Civil Aviation Act.
+
+## Chapter 3 Determination of Major Aviation Occurrences
+
+### Article 6
+
+Upon receipt of any report, where necessary, the TTSB may designate an on-scene investigator to lead an on-scene team to take any necessary action on-site to determine whether an occurrence has taken place. The owner of the aircraft, the operator of the aircraft, the local government, the operator of the airport, the CAA, Taiwan International Ports Corporation Limited (hereinafter referred to as “TIPC”), the Maritime and Port Bureau of the Ministry of Transportation and Communications (hereinafter referred to as “MPB”), the coast guard authority, and other relevant agencies (institutions) shall assist the on-scene investigator.
+
+### Article 7
+
+The TTSB shall, on the basis of the report and the information collected by the on-scene team, determine whether the event in the report is a major aviation occurrence, and, where necessary, may form a review board to review disputes over the determination.
+
+### Article 8
+
+The TTSB may terminate an ongoing investigation after deliberating its feasibility but shall specify the reasons for such termination.
+
+## Chapter 4 On-Scene Conduct
+
+### Article 9
+
+Members of the on-scene team and the investigation task force shall carry a TTSB-issued investigator identification card when entering restricted areas such as the scene of the occurrence, wreckage search area, wreckage storage area, reconstruction area, investigation command post, and airport terminal.
+
+### Article 10
+
+In the event of a major aviation occurrence, the owner of the aircraft, the operator of the aircraft, the local government, the airport terminal operator, the CAA, the TIPC, the MPB, the coast guard authority or the Ministry of National Defense shall cooperate with the investigation task force in matters identified for investigation, and shall render assistance ex officio in respect of any of the following matters:
+
+\1. Collect information regarding casualties.
+
+\2. Collect information regarding the damage to the aircraft.
+
+\3. Collect information regarding the site of the occurrence.
+
+\4. Conduct alcoholic and drug tests on the flight crew.
+
+\5. Locate the flight data recorder and the cockpit voice recorder.
+
+\6. Retain contact information of the flight crew and on-site eyewitnesses and record their statements.
+
+\7. Transportation, aerial reconnaissance, and provision of information joint civil-military airports.
+
+### Article 11
+
+In the event of a major aviation occurrence, the local government, the airport terminal operator, the CAA, the TIPC, the MPB or the coast guard authority where the occurrence occurred shall provide spaces for the operations of the investigation command post, temporary wreckage storage, as well as communication and office equipment.
+
+The TTSB may request the local government and law enforcement to take necessary security and precautionary measures on-site so as to prevent the wreckage or the hazardous materials on board from endangering the public and to preserve the integrity of the scene.
+
+### Article 12
+
+In accordance with Paragraph 2, Article 12 of the Act, the operator of the aircraft shall make every effort to ensure that the personnel on-site to turn off the power source of the cockpit voice recorder after the aircraft has landed and its engines have been shut down. The competent authority shall promptly verify the disconnection of the power source.
+
+### Article 13
+
+During the course of the investigation, the Ministry of the Interior, the Ministry of National Defense, and the Ministry of Transportation and Communications, the coast guard authorities, local governments and any private enterprises deemed appropriate and commissioned by the TTSB may, as requested by the investigation task force, take measures such as aerial surveillance or photography, and promptly report any information obtained to the TTSB.
+
+### Article 14
+
+In the event of a major aviation occurrence, the investigation task force may request the Ministry of Economic Affairs to direct public utilities to furnish the layouts of public gas and fuel lines, diagrams of power transmission lines, markings information and any other necessary data and charts so as to prevent secondary disasters.
+
+### Article 15
+
+If any of the following situations is likely to occur, the Investigator-in-Charge may, in accordance with Article 13 of the Act, permit clearance at the scene of a major aviation occurrence:
+
+\1. Further damage to the wreckage.
+
+\2. Occurrence of secondary disasters.
+
+\3. Injury to the general public.
+
+\4. Environmental pollution.
+
+\5. Suspension of airport operations.
+
+## Chapter 5 Investigation of Major Aviation Occurrences
+
+### Article 16
+
+In the event of a major aviation occurrence referred to in Paragraph 1, Article 6 of the Act , the TTSB shall, in accordance with the standards and recommended practices of the International Civil Aviation Organization (hereinafter referred to as the “ICAO”), report it to the ICAO and the aviation occurrence investigation agency of the State of Registry, the State of the Owner, the State of the Operator, the State of Design, the State of Manufacture or the State having suffered fatalities to their citizens in the occurrence, within 30 days of the determination of the occurrence.
+
+### Article 17
+
+To implement Article 11 of the Act, when necessary, the Investigator-in-Charge shall invite parties consisting of representatives and experts from the following authorities (agencies) to participate in the investigation task force:
+
+\1. The CAA.
+
+\2. The agencies (institutions) involved in the occurrence.
+
+\3. The owner and/or the operator of the aircraft.
+
+\4. The aviation occurrence investigation agency of the aircraft’s State of Registry, State of Manufacture, State of Design, State of Owner and State of Operator.
+
+\5. Any relevant aviation safety organizations.
+
+Neither attorneys nor representatives from insurance companies shall be permitted to participate in the investigation task force.
+
+### Article 18
+
+If any person participating in the investigation referred to in the preceding article fails to comply with any direction given by the Investigator-in-Charge or breaches any provision of the confidentiality agreement, the Investigator-in-Charge may suspend his or her participation in the investigation.
+
+### Article 19
+
+In accordance with Article 20 of the Act, accredited representatives from the aviation occurrence investigation authorities of the State of Registry, the State of the Owner, the State of the Operator, the State of Design and the State of Manufacture may, upon signing a confidentiality agreement and obtaining approval from the Investigator-in-Charge, perform any of the following tasks:
+
+\1. Visit the scene of the occurrence.
+
+\2. Inspect the wreckage.
+
+\3. Interview the witnesses and obtain statements in coordination with the investigation task force.
+
+\4. Examine the evidence.
+
+\5. Receive copies of all relevant documents.
+
+\6. Participate in readouts of the flight recorders.
+
+\7.	Participate in the off-scene investigation, including component examinations, technical briefings, tests and simulations.
+
+\8. Attend progress meetings covering analysis briefings, findings, causes and safety recommendations.
+
+\9. Provide recommendations regarding various aspects of the investigation.
+
+### Article 20
+
+In accordance with Article 20 of the Act, representatives from the aviation occurrence investigation authority of the State whose nationals have died in the occurrence may, upon signing a confidentiality agreement and while complying with the orders of the Investigator-in-Charge, do any of the following:
+
+\1. Visit the scene of the occurrence.
+
+\2. Participate in the identification of the victims.
+
+\3. Assist in interviewing the surviving passengers who are nationals of the State.
+
+\4.	Obtain the relevant factual information and investigation progress reports released by the TTSB.
+
+\5. Receive a copy of the Final Report.
+
+### Article 21
+
+In accordance with Article 14 of the Act, the TTSB has priority in taking custody of any evidence. During the course of an investigation, the TTSB may return evidence that is no longer required to the relevant agencies (institutions).
+
+After the Final Report is released, the TTSB shall promptly return the evidence, including the aircraft, wreckage, documents and manuals, to the agencies (institutions) concerned.
+
+If the major aviation occurrence involves death or injury, the TTSB shall not return evidence such as the aircraft, wreckage, documents and manuals to the agencies (institutions) concerned until approval is granted by the public prosecutors’ office.
+
+## Chapter 6 Interviews
+
+### Article 22
+
+Prior to an interview, an interviewee may request to be accompanied by a person during the interview. Unless permitted by the TTSB, no supervisor, employer, attorney, insurance agent of the interviewee, judge, prosecutor, or agent of the Ministry of Justice Investigation Bureau may accompany insurance agent of the interviewee may accompany the interviewee.
+
+The person accompanying the interviewee may not enter the interview site before committing to non-disclosure of the questions asked and answers given in the interview and noninterference with the interview.
+
+During the interview, the interviewee shall answer truthfully to all questions posed by the TTSB investigation task force. The accompanying person may not make any statements, interfere with, or interrupt the interview; however, the interviewee may consult with the accompanying person regarding the questions.
+
+Prior to the interview, the supervisor or employer of the interviewee shall not attempt to influence the interviewee's statement or interfere with the interview in any manner.
+
+Only persons permitted by the investigation task force may enter the interview site.
+
+After the interview, the interviewee shall not disclose the content of the interview to any third party.
+
+### Article 23
+
+Where the audio recordings, transcripts of interviews, or any restricted documents are subject to Article 21, Article 22 of the Act or any subparagraph under Paragraph 1, Article 18 of the Freedom of Government Information Law, their public disclosure shall be restricted.
+
+## Chapter 7 Draft Final Report Review and Safety Recommendations
+
+### Article 24
+
+In accordance with Paragraph 3, Article 24 of the Act, all relevant domestic and foreign authorities (agencies), as well as any entities being under investigation, are entitled to file an application in writing within 15 days of receipt of the draft Final Report to present their comments on the report at a TTSB board meeting.
+
+### Article 25
+
+Where a major aviation occurrence involving an aircraft registered in the Republic of China or operated by an airline incorporated in the Republic of China transpires outside R.O.C. territory and the investigation is conducted by the State of Occurrence, the relevant agencies (institutions) shall, within 90 days of receiving the safety recommendation from the State of Occurrence forwarded by the TTSB, report to the TTSB the preventive action taken or under consideration, or give reasons for being unable to comply with the requirement.
+
+To enhance flight safety, the TTSB may, in accordance with Article 27 of the Act, provide flight safety recommendations to government agencies based on the final report issued by the State of Occurrence as mentioned in the preceding paragraph.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 26
+
+Where the reporting, determination, on-scene operations, interviews, investigation, and release of investigation reports relating to a major aviation occurrence involves international elements and is beyond the purview of these Regulations, the TTSB may consult the standards, recommendations, methods or procedures in international conventions and their annexes to supplement these Regulations with enacting Directions.
+
+### Article 27
+
+These Regulations shall become effective as of the date of promulgation.
+
+## History
+
+1.Promulgated by Aviation Safety Council Order 0930012023 on December 21, 2004
+
+2.Amended by Aviation Safety Council Order1 030211017 on November 20, 2014
+
+3.27 clauses established and promulgated on March 6, 2020

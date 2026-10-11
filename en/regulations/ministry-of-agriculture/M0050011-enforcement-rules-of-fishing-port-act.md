@@ -1,0 +1,193 @@
+---
+title: "Enforcement Rules of Fishing Port Act"
+title_zh: "漁港法施行細則"
+identifier: "M0050011"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-11-30
+last_amended: 2019-10-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050011"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Fishing Port Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050011-enforcement-rules-of-fishing-port-act.md](../../../zh/regulations/ministry-of-agriculture/M0050011-enforcement-rules-of-fishing-port-act.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established pursuant to Article 27 of Fishing Port Act (hereinafter referred to as “the Act”)
+
+## Article 2
+
+Details of infrastructures of fishing ports, public utilities, and general facilities as referred to in Items 1 to 4 of Paragraph 4 of Article 3 of the Act are as follows:
+
+1.Infrastructures
+
+(1)Embankment Preventive Facilities: facilities such as breakwater, detached, groin jetties, sea dike, lock, tidegate, revetment, seawall, etc.
+
+(2)Pier Facilities: facilities such as piers, trestles, floating platforms bollards, etc.
+
+(3)Waterbasin facilities: facilities such as navigation channels, anchorage, navigation buoys, mooring buoys, etc.
+
+(4)Transport Facilities: facilities such as roads, parking lots exclusively for use of the fishing industry, bridges, etc.
+
+(5)Navigation Aid Facilities: Facilities such as navigation sign, light, signals, etc.
+
+(6)Sewage Facilities: facilities such as drainage, sewage drains, sewage, waste water treatment, etc.
+
+(7)Fishery Communication Facilities: facilities such as land-base radio stations, broadcasting stations, weather signals, etc.
+
+(8)Government Fisheries Related Agency Offices: facilities such as port administrative agency, coast guard agency office and police office, etc.
+
+\2. Public utilities
+
+Facilities such as fish markets, slipways, dry-docks, fishing gear preparation yard, fish net drying yard, fish offloading facilities, fishermen’s activity centers, fishermen’s recreational facilities.
+
+\3. General Facilities
+
+(1)Utility Facilities: such facilities as fuel supply, electricity, telecommunication, post office, water supply facilities.
+
+(2)Facilities for associated industries and other facilities of necessity to support the functioning of the fishing port: such facilities as ice making factories, cold storages, seafood processing plants, shipyards, engine repair shops, net manufacturers, fish wholesales business centers, fishermen’s associations, fishery organizations, offices of fishery operators.
+
+## Article 3
+
+First and Second Categories of fishing ports that mapped out by Article 4 of the Act shall be met with the following regulations:
+
+1.First Category fishing ports
+
+(1)Those ports having a mooring space of an area exceeding 100,000 sq. m., capable of accommodating more than 100 vessels of 1 million tonnages class.
+
+(2)Those ports having fish market, loading and offloading piers, as well as full facilities of supplies (fuel, water and ice), fish processing, freezing, vessel engine repairs and maintenance; those ports having convenient traffic outlets, facilitating transport and the auctioning of fish catches.
+
+(3)Those ports having an annual amount of fish catches for more than 20,000 metric tons.
+
+(4)Those ports accommodating more than 100 local fishing vessels of 500,000 tonnages class.
+
+2.Second Category: all other fishing ports that do not belong to the First Category.
+
+The local fishing vessels mentioned in the above item refers to fishing vessels belonging to that port, according to information on the fishing licenses.
+
+## Article 4
+
+In accordance with Paragraphs 1 or 2 of Article 5 of the Act, the competent authorities shall submit the following documents to the application for mapping out the fishing port area:
+
+1.Main reason for the designation or amendment.
+
+2.A description of the fishing port area.
+
+3.Survey form of related areas.
+
+4.Survey form of the facilities of the port.
+
+5.Structural drawings of the major facilities of the port.
+
+6.Plane of the fishing port area.
+
+7.Jurisdiction map of the municipality/county (city).
+
+8.Other necessary documents or proof.
+
+## Article 5
+
+Classification of the specific zone as referred to in Paragraph 3 of Article 5 of the Act, shall include the following:
+
+1.Passenger transportation and freight zone.
+
+2.Yacht building zone
+
+3.Yacht wharf zone
+
+4.Leisure zone
+
+5.Energy generation zone
+
+6.Other specific zones as mapped out by the competent authority.
+
+The designation of the specific zone mentioned in the preceding paragraph, it shall be subject to the consent of the competent authority of specific business; the Second Category fishing ports shall also consult with the central competent authority.
+
+According to the types of specific zone mapped out based on the regulations of Paragraph 1, as for the designation of specific zones that belong to the First Category fishing port, they shall be administrated by the central competent authority of specific business, which also can be entrusted the competent authorities of municipality/county (city) where the port located, or the fishermen’s associations, or other related corporations and organizations to undertake the management and maintenance tasks for the fishing port; as for zones within the Second Category fishing ports, they shall be administrated by the competent authorities of municipality/county (city).
+
+## Article 6
+
+The fishing port planning referred to in Paragraph 1 or 2, Article 6 of the Act, shall include the following:
+
+1.Scope of water and land areas.
+
+2.Objective of port development.
+
+3.Plan on the distribution of the use of water area.
+
+4.Plan on the distribution of the use of land area.
+
+5.Plan on port facilities
+
+6.Plan on transport system
+
+7.Plan on construction of facilities
+
+8.Other related planning made by the competent authority.
+
+## Article 7
+
+Fishing ports shall build the following piers according to actual needs:
+
+1.Fish offloading pier.
+
+2.Fuel taking pier.
+
+3.Ice supply pier.
+
+4.Water supply pier.
+
+5.Repair pier.
+
+6.Supply pier.
+
+7.Resting pier.
+
+8.Public affair errands pier.
+
+9.Pier for other specific zones
+
+The location and length of fishing port stated in previous item shall be mapped out and promulgated by the competent authority, except for the regulation stated in Item 9, which shall be subjected to the designation by the competent authority jointly with the competent authorities of specific business.
+
+## Article 8
+
+Pursuant to Article 9 of the Act, the permission that made by the competent authority to the applications of newly and additionally constructing or reconstructing buildings and each facility within the fishing port area should be conformed to the fishing port planning of the said port.
+
+## Article 9
+
+Pursuant to Paragraph 1, Article 16 of the Act, all vessels entering into and departing from fishing ports should fill up an application form to apply the permission from the competent authority. Application times are as follows:
+
+1.For domestic fishing vessels but not registered with the fishing port: three days before operations
+
+2.For other vessels without domestic flags: three days prior to entering the port
+
+3.For foreign fishing vessels or fish transport vessels: fourteen days prior to entering the port
+
+## Article 10
+
+The central competent authority shall entrust the management of the fishing ports mentioned in Article 11, the collection of management fees mandated in Paragraph 1, Article 12; the management of the fishing port’s public utilities, repair and maintenance work, as well as the implementation of the regulations in Articles 15 to 19 of the Act to the competent authorities of municipality and county (city).
+
+## Article 11
+
+These Regulations shall enter into force on the date of promulgation.
+
+## History
+
+1.Promulgated by the Council of Agriculture, Executive Yuan on November 30 1992, under Order No. 81 Nung-Yu-Tsi 1040952A.
+
+2.Promulgated by the Council of Agriculture, Executive Yuan (’99) on December 31 1999, under Order No. Nung-Yu-Tsi 88620520 by adding Article 7.
+
+3.Promulgated by the Council of Agriculture, Executive Yuan on May 14 2004, under Order No. Nung-Yu-Tsi 0931341791, by adding Article 7 Paragraph 1.
+
+4.Promulgated by the Council of Agriculture, Executive Yuan on March 15 2007, under Order No. Nung-Yu-Tsi 0961340232, by amendment.
+
+5.Promulgated by the Council of Agriculture, Executive Yuan on October 17 2019,under Order No. Nung-yu-tzu 1081316774A by amended Article 5 .

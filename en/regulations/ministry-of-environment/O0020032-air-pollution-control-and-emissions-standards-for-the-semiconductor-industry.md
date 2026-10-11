@@ -1,0 +1,137 @@
+---
+title: "Air Pollution Control and Emissions Standards for the Semiconductor Industry"
+title_zh: "半導體製造業空氣污染管制及排放標準"
+identifier: "O0020032"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-01-06
+last_amended: 2023-05-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020032"
+retrieved: 2026-10-12
+---
+
+# Air Pollution Control and Emissions Standards for the Semiconductor Industry
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020032-air-pollution-control-and-emissions-standards-for-the-semiconductor-industry.md](../../../zh/regulations/ministry-of-environment/O0020032-air-pollution-control-and-emissions-standards-for-the-semiconductor-industry.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Article 20, Paragraph 2 and Article 23, Paragraph 2 of the Air Pollution Control Act.
+
+## Article 2
+
+Terms and symbols used in these Standards are defined as follows:
+
+\1. “Semiconductor manufacturing industry” mean operators engaging in integrated circuit wafer manufacturing, wafer packaging, epitaxy, photomask manufacturing, lead frame manufacturing, etc.
+
+\2. “Integrated circuit wafer fabrication” means the operations to produce wafers of various specifications intended for various uses, including physical vapor deposition, chemical vapor deposition, photoresistance, photolithography, etching, diffusion, ion implantation, oxidation, heat treatment and other processes.
+
+\3. “Integrated circuit wafer package” means the operations to produce semiconductor products from completed wafers intended for various uses, including cutting into dice, followed by welding, electroplating, organic solvent washing, acid washing and other processes.
+
+\4. “Photoresist” means the acid-resistant photosensitizer required during the selective etching process in the manufacture of integrated circuit wafers.
+
+\5. “Photoresist process” means the process in which wafers undergo photoresist coating, exposure and development in order to produce various types of circuits on wafers.
+
+\6. “Volatile Organic Compounds (VOCs)” mean the general designation for air pollutants with an initial boiling point measured below 250 degrees Celsius at one bar pressure, which, however, does not include methane, carbon monoxide, carbon dioxide, carbon disulfide, carbonic acid, carbonate, ammonium carbonate, cyanide, thiocyanide and other compounds.
+
+\7. “Closed gathering system” means a system that can trap air pollutants emitted or released from processes, pollution sources or equipment components, and keep them from directly contacting the atmosphere. Such system includes gas gathering equipment, pipelines and connecting devices.
+
+\8. “Discharge reduction rate” means the emission reduction percentage of air pollutants treated by pollution prevention and control equipment, which is calculated based on the concentration and emission volume of exhaust gases at the front end and back end of the pollution prevention and control equipment through synchronous monitoring or detection. The calculation formula is as follows:
+
+R: Discharge reduction rate.
+
+E: Unit hourly discharge volume of air pollutants before they enter the pollution prevention and control equipment via the closed gas gathering system; the unit is kg/hr.
+
+E0: Unit hourly discharge volume of air pollutants directly discharged into the atmosphere through the pollution prevention and control equipment; The unit is kg/hr.
+
+\9. Existing process means the semiconductor manufacturing process that has been completed, is under construction, has its project bidding process completed, or has the contract for the construction of the project executed without the bidding process prior to the promulgation of these Standards.
+
+\10. “Newly established process” means the semiconductor process established on the date of promulgation and implementation of these Standards, and the existing semiconductor process complies with the modification conditions stipulated in the Stationary Pollution Source Installation, Operating and Fuel Use Permit Management Regulations Amended Clauses.
+
+\11. “Annual consumption of volatile organic compounds (VOCs)” means the product of the approved maximum design quantity of all raw materials (supplies) set forth in all fixed pollution source operating permits times the percentage of VOCs in such raw materials (supplies) for any object listed in Paragraph 1 in a single public or private premises; the unit is ton/year.
+
+\12. “Total plant discharge quantity” means the sum of all individual air pollutants discharged from all discharge pipes within the peripheral boundaries of a single plant per hour; the unit is kg/hr.
+
+\13. “Effective quarterly monitoring rate” means (hours of pollution source operations per quarter - hours of flowmeter or concentration monitor failure during pollution source operations per quarter)/hours of pollution source operations per quarter.
+
+\14. Flowmeter means any facility that can directly or indirectly measure the volume flow rate of exhaust gas emissions.
+
+## Article 3
+
+These Standards shall apply to the Semiconductor manufacturing industry. However, the substance in question shall not be subject to these Standards when the annual consumption of raw materials (supplies) of the Semiconductor manufacturing industry is less than the amount listed in the following table:
+
+## Article 4
+
+Air pollutants generated by the Semiconductor manufacturing industry shall be gathered by a closed gas gathering system. They may not be discharged until provisions set forth in the following table are observed:
+
+In the event that the foregoing exhaust gases discharged, including nitric acid, hydrochloric acid, phosphoric acid, hydrofluoric acid, sulfuric acid, etc., cannot be proved to meet the standard under the preceding paragraph due to safety concerns, relevant documentary evidence shall be submitted to the competent authority of the municipality or county (city) to prove the control conditions with the equivalent or better treatment effect:
+
+## Article 5
+
+For exhaust gases collected in accordance with the preceding article, flowmeters and concentration monitors shall be installed at the exhaust gas inlet of the pollution prevention and control equipment or at the discharge outlet of the discharge pipe. The installation shall meet the following requirements:
+
+\1. Flowmeters shall be installed for the Semiconductor manufacturing industry governed by these Standards.
+
+\2. In the event that the annual consumption of volatile organic compounds (VOC) is more than 25 tons or the total plant discharge volume is more than 0.6 kg per hour, it shall be deemed as a pipeline with VOCs discharge greater than 14 ppm under an existing established process or with VOCs discharge greater than 10 ppm under a newly established process, a VOCs concentration monitor shallbe installed to prove its compliance with the discharge reduction rate hereunder. Where an existing process and a newly established process are combined to set up a discharge pipeline, the newly established process shall prevail.
+
+\3. The effective quarterly monitoring rate of the flow meters and concentration monitors shall exceed 80%. Comparative testing shall be performed using standard testing methods at least once each year; the comparative testing shall last for at least two hours on each occasion, and results obtained from the flowmeters and concentration monitors shall be corrected on the basis of the most recent comparative testing results.
+
+When the flow meters and concentration monitors have not been installed as prescribed in the foregoing paragraph, the public or private premises may submit an alternative solution that can prove that the discharge of the pollutants complies with the discharge standard set forth in the preceding article to the competent authority of the municipality or county (city) for approval. Upon this approval, the restriction will not apply.
+
+## Article 6
+
+The recording, preservation and declaration of VOCs, trichloroethylene, nitric acid, sulfuric acid, hydrochloric acid, phosphoric acid, hydrofluoric acid, etc., shall meet the following requirements:
+
+\1. Air pollutant input volume (volume added to processes as a solvent or in other forms), output volume (volume leaving processes with waste solvent, waste, wastewater or in other forms), pollution prevention and control equipment reduction quantity and other data shall be recorded on a monthly basis.
+
+\2. When the pollution prevention and control equipment is an acid-alkali washing and absorption facility, service and maintenance matters shall be recorded, and the washing cycle water volume and pH value of each washing tank shall be recorded on a daily basis.
+
+\3. When the pollution prevention and control equipment is a water washing and absorption facility, service and maintenance matters shall be recorded, and the washing cycle water volume andwastewater discharge rate of each washing tank shall be recorded on a daily basis.
+
+\4. When the pollution prevention and control equipment is a condenser, condensate volume shall be recorded monthly, and condenser outlet temperature shall be recorded daily.
+
+\5. When the pollution prevention and control equipment is a biological treatment facility, service and maintenance matters shall be recorded to ensure that the state of the facility is suitable for biological growth and metabolism, and the volume of gas treated, inlet temperature and outlet relative humidity shall be recorded on a daily basis.
+
+\6. When the pollution prevention and control equipment is a thermal incinerator, combustion temperature shall be recorded on a daily basis.
+
+\7. When the pollution prevention andcontrol equipment is a catalytic incinerator, the type of catalyst and the catalytic bed replacement date shall be recorded, and the catalytic bed inlet and outlet gas temperatures shall be recorded on a daily basis.
+
+\8. When the treatment is carried out using other pollution prevention and control equipment, service and maintenance matters shall be recorded, and chief operating parameters shall be recorded on a daily basis.
+
+\9. When flowmeters and concentration monitors are required, the flow and concentration monitoring results shall be corrected based on the last testing results to calculate the discharge reduction rate and the discharge volume, and the hourly average and daily average shall be recorded on a daily basis.
+
+\10. Records under the preceding nine paragraphs shall be kept in electronic form for reference for at least six years, and records of the previous quarter shall be submitted to the local competent authorities by the end of January, April, July and October each year in a format required by the central competent authority. The competent authority may adjust the contents and frequency of such submissions when appropriate.
+
+## Article 7
+
+Should an existing process fail to meet the discharge standard set forth in Article 4 or the installation provision set forth in Article 5, the public or private premises shall, within six months following the implementation of this Amendment, submit an air pollution rectification plan to the competent authority of the municipality or county (city) for the approval of a rectification period, and complete the rectification to meet the requirements hereunder prior to the expiration of such period.
+
+The foregoing air pollution rectification plan shall include at least the type, structure, efficiency, processes, design diagrams, installation cost and progress of the rectification for raw materials (supplies), facilities or prevention and control equipment of the process, and the rectification period shall not exceed 18 months.
+
+Should the rectification fail to be completed within the rectification period approved under Paragraph 1, the public or private premises may, within one to three months prior to the expiration of the rectification period, submit an extension statement, plan and change to the rectification plan to the competent authority of the municipality or county (city) for approval to extend the rectification period. The extended rectification period shall not exceed 12 months, unless the extension is otherwise approved by the competent authority of the municipality or county (city).
+
+## Article 8
+
+These Standards shall take effect from the date of promulgation.
+
+## Attachments
+
+- [Article 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007982)
+- [Article 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007983)
+- [Article 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007984)
+
+## History
+
+1.Ten articles promulgated by Environmental Protection Administration Order (87) Huan-Shu-Kung-Tzu No. 0087593 on January 6,1999.
+
+2.Revisions to Articles 1 and 8 promulgated by Environmental Protection Administration Order (88) Huan-Shu-Kung-Tzu No.0019418 on April 7, 1999.
+
+3.Revisions to Article 1 promulgated in Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 0910069403J on October 16, 2002.
+
+4.Amended on May 4, 2023

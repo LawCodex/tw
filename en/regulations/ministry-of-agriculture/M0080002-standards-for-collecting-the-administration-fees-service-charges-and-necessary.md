@@ -1,0 +1,186 @@
+---
+title: "Standards for Collecting the Administration Fees, Service Charges and Necessary Charges in Agricultural Technology Parks"
+title_zh: "農業科技園區管理費服務費及必要費用收費標準"
+identifier: "M0080002"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞農業科技園區目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-09-30
+last_amended: 2026-03-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0080002"
+retrieved: 2026-10-12
+---
+
+# Standards for Collecting the Administration Fees, Service Charges and Necessary Charges in Agricultural Technology Parks
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0080002-standards-for-collecting-the-administration-fees-service-charges-and-necessary.md](../../../zh/regulations/ministry-of-agriculture/M0080002-standards-for-collecting-the-administration-fees-service-charges-and-necessary.md)) is authoritative.
+
+## Article 1
+
+This Standards is enacted pursuant to Paragraph 2, Article 9 of the Act of the Establishment and Administration of Agricultural Technology Parks (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The Agricultural Technology Park Administration (hereinafter referred to as “the Administration”) shall collect administration fees, service charges and related necessary charges from Park enterprises in accordance with the Standards.However, non-profit governmental organizations are exempted fromsuch collection.
+
+## Article 3
+
+The administration fees paid by the Park enterprises are calculated according to the size of the land, factory buildings or business premises rented. The standard computation rate is setforth in Appendix 1. In the event that more than two types of land or buildings are rented simultaneously, the higher amount of the two shall apply.
+
+The Park enterprises, which have received the approval of residency from the Administration and acquired the for-profit business registration, with the sales revenue exceeding the estimated amount set forth in Appendix 1, shall pay the administration fees in an amount equal to 2%o of the sales revenue of the current month.
+
+Only after obtaining a license to use the portion of newly established factory buildings that has been approved by the Administration shall those Park enterprises that pay for administration fees in accordance with Paragraph 1 of this Articleinclude the new increased portion into computation.
+
+In the event that a Park enterprise has set up the head office inside the Park and a branch office outside the Park, or vice versa,the head office and branch office shall file their sales revenues with their respective local competent tax authorities and pay the respective business taxes.
+
+The term “sales revenue”, as used in the Standards, shall refer to the sum calculated on the basis of the sales amounts stated in the “sales amount of business and declaration form of the tax return”, receipts, allocation and transfer of the services and goods between the head office and branch office, and other referencesthat are sufficient to objectively estimate the output value after the items specified in Article 9 are deducted.
+
+## Article 4
+
+The Park enterprises, which have received the approval of residency from the Administration and completed the registrationof the establishment of companies and business registration withcompetent tax authorities, shall pay the administration fees in accordance with the preceding Article commencing from the first day of the subsequent month following the completion of the business registration; for the Park enterprises which have not completed the for-profit business registration but have completed the registration of companies for a year, it shall pay the fees commencing from the first day of the subsequent month after one year of completing the registration of companies.
+
+## Article 5
+
+Financial institutions shall pay the administration fees in an amount equal to 0.02% of the sales amount.
+
+## Article 6
+
+Park organizations other than the Park enterprises and financialinstitutions (hereinafter referred to “other Park Organizations)shall pay the administration fees in accordance with Appendix 2.
+
+The classification of other Park Organizations set forth in the appendix referred to in the preceding paragraph shall be determinedby the Administration depending upon the nature of the institutions.
+
+## Article 7
+
+The procedure for the Park enterprises and the financial institutions to file and pay the administration fees, the deadlines for such filing and payment, and relevant supporting documents and materials that shall be submitted are as follows:
+
+1.Every two months is selected as the payment period. The Park enterprises and the financial institutions shall file the administration fees with the Administration and pay the fees to the banks designated by the Administration on or before the twentieth (20th) day of every odd month.
+
+2.Park enterprises which have received approval from the competent tax authority for business registration shall submit the following documents to the Administration before paying the administration fee:
+
+(1)Detailed list of the application report for the administration fees;
+
+(2)A copy of “Sales amount of business and declaration form of the tax return” with the remark of received properly stamped bythe competent tax authority;
+
+(3)Certificate for offsetting items.
+
+(4)Detailed list of receipts issued by Agricultural Technology Park enterprises that are exempt from the use of uniform invoices;Park enterprises shall also fill the aggregated amount of thereceipts in related fields of the “sales amount of business and declaration form of the tax return”.
+
+(5)In the event that a Park enterprise has set up the head office inside the Park and a branch office outside the Park, or vice versa, and that the head office files the combined sales revenue with the local competent tax authority and pay the combinedbusiness tax, the Park enterprise shall also submit the “sales amount of business and declaration form of the tax return” compiled by and filed by the head office and affixed with the receipt seal of the competent tax authority. Moreover, the Administration may request the Park enterprise to provide import/export declarations, delivery certificates, sales orders, or other supporting documents which are sufficient to prove its sales revenues, as approved by the Administration.
+
+3.Park enterprises which have not obtained the approval of business registration from the competent tax authority shall submit the detailed list of the application report for the administration fees when paying administration fees.
+
+4.Upon paying the fee to the bank designated by the Administration, the financial institution shall complete and deliver the following documents to the Administration and provide the payment slip issued by the Administration. Unless otherwise auto-deducted by the bank, the Park enterprise shall deliver to the Administration a copy of receipt of the payment slip for the administration fee:
+
+(1)Detailed list of the application report for the administration fees;
+
+(2)A copy of “Sales amount of business and declaration form of the tax return” with the remark of received properly stamped by the competent tax authority;
+
+5.Park enterprises and financial institutions shall properly keep payment receipts as they serve as evidence for the payment of administration fees.
+
+The detailed list of the application report for the administration fees, which shall be submitted in accordance with Subparagraphs 2 and 3 of the preceding paragraph, shall be filed online using the administration fee filing system established by the Administration.
+
+In the event that the Administration finds any underpayment of the administration fee, the Park enterprise or financial institution shall pay the overdue in the next payment period.If any correction of the previous reported sales amount is filed with the competent tax authority, the administration fees thereof shall be adjusted and included into the report of the administration fees of the payment term when filing the correction.
+
+## Article 8
+
+Other Park Organizations, after concluding an agreement with the Administration, shall pay the administration fees by the payment slips issued by the Administration to the designated banks and pay the administration fees on or before the twentieth (20th) day of each month, the twentieth (20th) day of the first month of every quarter, or January 20 of every year.
+
+If other Park Organizations are allowed to self-construction on rented land, they shall enter into an agreement with the Administration and pay the administration fees in accordance with the provision of the preceding paragraph following the date of obtaining the construction license.
+
+## Article 9
+
+The administration fees shall be waived in the event that the Park enterprises provide sufficient evidence in documentation from with respect to sales return, allowances, paid and received on behalf of others, sales of fixed assets or obsolescent materials, sample giveaway, interest income and financial lease. In the event that the administration fees paid have calculated the said items, the Park enterprises may report to the Administration for deduction or reimbursement within six (6) months,with evidence in documentation form.The application shall be rejected upon the failure to meet the deadline for the deduction or reimbursement.
+
+## Article 10
+
+Park Organizations which fail to pay the administration fees within the prescribed deadline shall be subject to Article 40 of the Act.
+
+## Article 11
+
+The Administration may request the Park enterprises to provide information regarding the projection of sales revenue for reference to forecast the future administration fees to be collected, so as to estimate the value of output, operation, sales and other similar numerical quantity of each industry.
+
+The Administration may investigate the filing of administration fees by Park enterprises and financial institutions, and, when necessary, may request competent tax authorities to provide filing-related documents, such as the “sales amount of business and declaration form of the tax return” filed by Park enterprises or financial institutions for the head offices and branch offices. If inconsistency is found, the reasons shall be investigated and steps shall be taken according to the result of investigation.
+
+## Article 12
+
+The items of and standards for service charges and related necessary charges collected by the Administration are as follows:
+
+1.Facility Maintenance Fees for Short-term Use: Computing and collecting according to the different sections, sites and facilities. The standard computation rate is set forth in Appendix 3.
+
+2.Co-use Pipeline Maintenance Fees: Computing and collecting according to the total length of the pipelines and the used space.The standard computation rate is set forth in Appendix 4.
+
+3.Sewage Treatment Plant and Sanitary Sewer Fees: Computing and collecting according to the quantity and quality of waste water. The standard computation rate is set forth in Appendix 5.
+
+4.Maintenance fee for pre-embedded circuit casings: The fee covers uses of each type of pipelines such as telecommunication pipelines, broadband pipelines, cable TV pipeline and water supply pipelines. Computing and collecting according to the total length of the pipelines. The standard computation rate is set forth in Appendix 6.
+
+5.Water use fee: The fee covers industrial water, domestic water, soft water and seawater. The standard computation rate is set forth in Appendix 7.
+
+Each item of the services charges or related necessary charges shall be paid in cash before the deadline stipulated in the payment slips.
+
+## Article 13
+
+In the event that the approval of residency of the Park enterprises, which shall pay the administration fees pursuant to the Standards, has subsequently been revoked by the Administration or other Park Organizations have properly terminated the agreement, the administration fees due for the current payment term shall be waived In the event that the agreement is terminated, the application of withdraw from the Park has been filed and the procedure for handing over has been completed, the Administration shall immediately cease to collect service charges or related necessary charges from the Park organizations, except that facility maintenance fees for short-term use will be charged in accordance with the actual use of the facilities.
+
+## Article 13-1
+
+(Deleted)
+
+## Article 13-2
+
+Park Organizations in the Floral Industry Innovation Park shall pay the administration fees and service charges from January 1, 2023, in accordance with the following provisions:
+
+\1. Administration fees:
+
+1.1 From January 1, 2023 to December 31, 2027: the fees calculated at NT$7.94 per square meter per year; the provisions of Articles 3, 5, and 6 of this set of Standards are not applicable.
+
+1.2 Commencing January 1, 2028, the fees shall be calculated in accordance with Paragraph 1 of Article 3, Article 5, or Article 6 of this set of Standards.
+
+\2. Service charges: The fee schedule for venue rental in the Floral Industry Innovation Park is set forth in Appendix 8 and shall be paid in cash within the time limit specified on the payment slip.
+
+## Article 14
+
+The Standards shall be enforced from the date of promulgation.
+
+The amended articles of the Standards promulgated on October 8, 2024, and February 19, 2025, shall be put into effect on January 1, 2025; and the amended articles promulgated on March 13, 2026, shall be put into effect on January 1, 2026.
+
+## Attachments
+
+- [Appendix1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008838)
+- [Appendix2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008839)
+- [Appendix3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008840)
+- [Appendix4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008841)
+- [Appendix5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008842)
+- [Appendix6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008843)
+- [Appendix7.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008844)
+- [Appendix8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009773)
+
+## History
+
+1.Promulgate on September 30, 2004
+
+2."Standards of Administration Fees in Agricultural Technology Parks" was amended and the Title of the Standards was renamed to "Standards for Collecting the Administration Fees, Service Charges and Necessary Charges of the Agricultural Technology Parks." on August 23, 2007
+
+3.Amended to Article 12 and Appendix 2 of Article 6 promulgated on July 11st, 2008
+
+4.Amendment to Articles 3, 4, 7, 11, 13-1 and Appendix 5 of Article 12 promulgated on April 13, 2009.
+
+5.Amended on October 31, 2012
+
+6.Amended on August 7, 2014
+
+7.Partial provisions amended and promulgated as per the decree of Nong-Sheng-Yuan-Chou-Zih No. 1064016952A issued by the Council of Agriculture, Executive Yuan on March 1, 2017.
+
+8.Partial provisions amended and promulgated as per the decree of Nong-Sheng-Yuan-Chou-Zih No. 1094017594A issued by the Council of Agriculture, Executive Yuan on February 5, 2021.
+
+9.Article 13-2 amended and promulgated per Decree Nong-Sheng-Yuan-Chou-Zih No. 1114017475 issued by the Council of Agriculture, Executive Yuan on December 21, 2022.
+
+10.Article14 and Appendix 3, 5, and 7 of Article 12 and Appendix 8 of Article 13-2 amended and promulgated per Decree Nong-Ke-Yuan No. 1137225679 on October 8, 2024, and put into effect on January 1, 2025.
+
+11.Article 13-2 and 14 amended and promulgated per Decree Nong-Ke-Yuan No. 1147225337 on February 19, 2025.
+
+12.Articles 13-2 and 14 amended and promulgated, and Article 13-1 deleted per Decree Nong-Ke-Yuan No. 1157225370 on March 13, 2026, and put into effect on January 1, 2026.

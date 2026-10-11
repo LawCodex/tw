@@ -1,0 +1,149 @@
+---
+title: "Enforcement Rules of Gender Equality in Employment Act"
+title_zh: "性別平等工作法施行細則"
+identifier: "N0030015"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動條件及就業平等目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-03-06
+last_amended: 2026-04-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030015"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Gender Equality in Employment Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0030015-enforcement-rules-of-gender-equality-in-employment-act.md](../../../zh/regulations/ministry-of-labor/N0030015-enforcement-rules-of-gender-equality-in-employment-act.md)) is authoritative.
+
+## Article 1
+
+The Enforcement Rules are enacted pursuant to Article 39 of the Gender Equality in Employment Act (hereinafter referred to as the “Act”).
+
+## Article 1-1
+
+Before enforcement of Paragraphs 2 to 4 of Article 5 of the Act amended and promulgated on August 16, 2023, various competent authorities have established the gender equality work committees pursuant to Article 5 of the Act, and the committee members who hold the term of office to be expired after enforcement of said amendments may continue to hold the position until expiration of the term of office.
+
+## Article 2
+
+Discriminatory treatments referred to in Articles 7-11, 31 and 35 of the Act shall mean that employers directly or indirectly treat employees or applicants adversely because of their gender or sexual orientation.
+
+## Article 3
+
+The nature of work only suitable to a specific gender referred to in Article 7 of the Act shall mean a work that cannot be accomplished or cannot be possibly accomplished by the applicants or employees of a specific gender.
+
+## Article 4
+
+Deleted
+
+## Article 4-1
+
+When the school an intern attends finds out the intern has encountered sexual harassment, the school shall urge the unit providing the practical training to take immediate and effective action to rectify and remedy the conduct as well as provide the intern with necessary assistance.
+
+When an appeal applicant is an intern, the local competent authority may request the education authority and the school the intern attends to conduct joint investigations.
+
+## Article 4-2
+
+The collaborative work referred to in Subparagraph 2, Paragraph 3 of Article 12 and Paragraph 2 of Article 13 of the Act means the engagement in the work for common purposes in the same period.
+
+The persistent sexual harassment referred to in Subparagraphs 1 and 2, Paragraph 3 of Article 12 of the Act means the sexual harassment occurring during both working hours and non-working hours, and also time-intensive in nature.
+
+Highest-ranking official as referred to in Subparagraph 2, Paragraph 8 of Article 12 of the Act shall be determined by the local competent authority in accordance with the following provisions:
+
+\1.	The legal representative of a legal person, partnership, non-legal person group, and other organizations with representatives or managers: The person recorded as the external representative in company registration, business registration, limited partnership registration, foundation registration, or other relevant documentary proof of lawful establishment shall prevail. The same shall apply where establishment registration is required by law but has not been completed.
+
+\2.	A person equivalent to the representative referred to in the preceding subparagraph: A person who substantially performs the duties of the representative or substantially controls the organization’s personnel affairs, finances, or business operations, and who falls under any of the following circumstances within the organization:
+
+(1)	Is currently serving or has previously served as a director (trustee) or supervisor.
+
+(2)	Holds twenty percent (20%) or more of the shares.
+
+(3)	Has been identified by a labor union, shareholder, cooperating vendor, or complainant in a sexual harassment case as a person equivalent to the representative, with specific supporting evidence.
+
+(4)	Is the spouse or former spouse of the representative; a blood relative within the fourth degree of kinship; the spouse of a blood relative within the third degree of kinship; a blood relative of the spouse within the third degree of kinship; or the spouse thereof.
+
+(5)	Where the representative has been re-elected or replaced but the registration has not yet been completed.
+
+(6)	 Occupies a specially important position.
+
+## Article 4-3
+
+The phrase “become aware of” referred to in the preface of Paragraph 2 of Article 13 of the Act is not subject to the victim’s initiation of the complaint against sexual harassment with the employer only.
+
+The local competent authority referred to in Paragraph 4 of Article 13 of the Act means the competent authority of the municipality or county (city) where the victim provides labor services.
+
+## Article 4-4
+
+The employer, employee or job applicant who disagrees with the decision made by the central competent authority’s Gender Equality Work Committee pursuant to Paragraph 2 of Article 34 of the Act as of the date of enforcement of Article 34 of the Act amended and promulgated on August 16, 2023 may file an administrative litigation pursuant to laws, before filing an appeal.
+
+## Article 5
+
+In computation of employees hired referred to in Paragraph 1 to Article 13, Article 19 and Paragraph 1 to Article 23 of the Act, the number of employees shall include those who are hired by branch offices and affiliated units.
+
+The number of employees hired referred to in Article 19 of the Act shall be calculated by the total amount of employees hired by the employers on the first working day of the month that the employees file their applications or make their requests.
+
+## Article 6
+
+The computation of the period of maternity leave referred to in Paragraph 1 to Article 15 of the Act shall be computed consecutively according to calendar.
+
+## Article 7
+
+For the seven-day pregnancy checkup accompaniment and paternity leaves referred to in Paragraph 5 of Article 15 of the Act, except that the pregnancy checkup leave shall only be applicable during the gestation period of the spouses, employees shall have the paternity leave during a 15-day window before and after the day their spouses are in labor.
+
+## Article 8
+
+Where a female employee giving child-birth or miscarrying a child during a non-pay parental leave pursuant to Paragraph 1 to Article 16 of the Act and before the expiration of the leave-taking period and if the periods of her maternity leave as prescribed by Paragraph 1 to Article 15 of the Act survive after her reinstatement date, her employer shall still offer them the maternity leave pursuant to the Act. However, the period from the date of child-birth or miscarriage to the date of reinstatement should be deducted from the period of maternity leave.
+
+## Article 9
+
+The labor occupational accident insurance of the labor insurance program shall not be included in the original social insurance programs referred to in Paragraph 2 of Article 16 of the Act that employees are entitled to continuously participate. The employees on leave shall be continuously covered through the original insured units.
+
+## Article 10
+
+For those employees who participate continually in the original social insurance programs referred to in Paragraph 2 to Article 16 of the Act, matters concerning their insurance procedures, insurance amount, payment of premiums and insurance benefit payments shall be processed in accordance with the related statutes and administrative regulations.
+
+## Article 11
+
+Feeding in person referred to in Paragraph 1 to Article 18 of the Act shall also include female employees using containers to store their breast milk in order to feed their babies.
+
+## Article 12
+
+The children referred to in Paragraph 1 to Article 16, Paragraph 1 to Article 18 and Article 19 of the Act mean children born within wedlock, illegitimate children and adopted children.
+
+## Article 13
+
+When employees file applications or make requests pursuant to Articles 15 to 20 of the Act, employers may require them to provide with related verification documentations, if necessary.
+
+## Article 14
+
+The child care facilities or suitable child care measures that employers shall set up for their employees referred to in Paragraph 1 to Article 23 of the Act shall include the facilities or measures that are jointly provided for in conjunction with other employers, or the facilities or measures provided for by other child care institutions or kindergarten that are commissioned by the employer.
+
+## Article 15
+
+The Enforcement Rules shall be enforced as of the date of promulgation.
+
+Article 7 of the Enforcement Rules amended and promulgated on January 18, 2022 shall be enforced as of January 18, 2022. Article 9 of the Enforcement Rules shall be enforced as of May 1, 2022. Articles 4-2 and 4-3 of the Enforcement Rules amended and promulgated on January 17, 2024 shall be enforced as of March 8, 2024.
+
+## History
+
+\1. Enacted and promulgated a total fifteen articles of the Rules by the Order of Council of Labor Affairs, Executive Yuan No. 0910010554 on March 6, 2002
+
+\2. Amended and promulgated title and Articles 1, 2, 7 of the Rules by the Order of Council of Labor Affairs, Executive Yuan No. 0970130523 on July 11, 2008
+
+\3. Amended on April 23, 2012
+
+\4. Amended on January 16, 2014
+
+\5. Amended on October 6, 2014
+
+\6. Amended on March 27, 2015
+
+\7. Amended and promulgated Articles 7,9,15 of the Rules by the Order of Ministry of Labor No.1110140034 on January 18, 2022, Article 7 of the Rules was enforced as of January 18, 2022;  Article 9 of the Rules was enforced as of May 1, 2022
+
+\8. Amended and promulgated title and Articles 1,15；added Articles 1-1、4-2～4-4 of the Rules by the Order of Council of Labor Affairs, Executive Yuan No. 1130147544 on January 17, 2024
+
+\9. Amended and promulgated Articles 4-2～4-3 of the Rules by the Order of Ministry of Labor No.1150147759 on April 8, 2026

@@ -1,0 +1,1379 @@
+---
+title: "Regulations Governing the Preparation of Financial Reports by Insurance Enterprises"
+title_zh: "保險業財務報告編製準則"
+identifier: "G0390085"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-12-30
+last_amended: 2026-02-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390085"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Preparation of Financial Reports by Insurance Enterprises
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390085-regulations-governing-the-preparation-of-financial-reports-by-insurance.md](../../../zh/regulations/financial-supervisory-commission/G0390085-regulations-governing-the-preparation-of-financial-reports-by-insurance.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+These Regulations are adopted pursuant to Paragraph 3, Article 148-1 of the Insurance Act (the “Act”).
+
+These Regulations shall also apply to insurance enterprises established pursuant to other laws, unless it is otherwise provided by such other laws or approved by the competent authority.
+
+#### Article 2
+
+Except as otherwise approved by the Financial Supervisory Commission (the “FSC”), an insurance enterprise shall use calendar year as its fiscal year and establish its accounting system based on the nature of its accounting matters, actual business status, and development and management needs.
+
+The accounting system referred to in the preceding paragraph shall, based on the nature of the insurance enterprise’s business operations, and in a way that accommodates the needs of preparation of consolidated financial reports and ensures consistency in the accounting policies of the insurance enterprise and its subsidiaries, contain the following items:
+
+\1. A general description;
+
+\2. A chart of journals and ledgers;
+
+\3. Financial statements;
+
+\4. Accounting items,  account books, and accounting documents;
+
+\5. Accounting standards and procedures adopted; and
+
+\6. Other items prescribed by the FSC.
+
+An insurance enterprise shall see to it that its subsidiaries establish their accounting systems in accordance with the preceding paragraph.
+
+#### Article 3
+
+The financial reports of an insurance enterprise shall be prepared in accordance with these Regulations and other applicable laws and regulations. Matters not provided for therein shall be governed by the generally accepted accounting principles (GAAP).
+
+The GAAP described in the preceding paragraph shall mean the following, as endorsed by the FSC: International Financial Reporting Standards (IFRS), International Accounting Standards (IAS), and Interpretations developed by the International Financial Reporting Interpretations Committee (IFRIC) or the former Standing Interpretations Committee (SIC).
+
+#### Article 4
+
+"Financial report" means financial statements, statements of major accounting items, and other disclosures and explanations helpful to  the decision making of the primary users.
+
+A complete set of financial statements shall comprise balance sheet, statement of comprehensive income, statement of changes in equity, statement of cash flows, and accompanying notes or supplementary schedules thereto.
+
+An insurance enterprise, unless newly established, or under any of the circumstances set out in Paragraph 4 hereof, or otherwise required by the FSC, shall prepare the major financial statements and accompanying notes described in the preceding paragraph by presenting comparative information for two consecutive periods. The major financial statements shall also be signed or sealed on each page by the insurance enterprise’s chairperson, managerial officer, and chief accounting officer.
+
+When an insurance enterprise applies an accounting policy retrospectively or makes a retrospective restatement of items in its financial reports, or when it reclassifies items in its financial reports, it shall do so in accordance with the applicable provisions of IAS 1.
+
+For the purposes of these Regulations, information is material if omitting, misstating or obscuring the information in the financial reports could reasonably be expected to influence decisions that the primary users of general purpose financial reports make on the basis of information in those financial reports. Judgments of materiality depend on qualitative factors and quantitative factors. Whether information is quantitatively material is assessed by considering not only the size of the impact recognized in the financial report, but also any unrecognized items that could ultimately affect primary users' overall perception of the insurance enterprise financial position, financial performance and cash flows (e.g., contingent liabilities or contingent assets). When assessing qualitative factors, consideration shall be given to both insurance enterprise-specific and external qualitative factors, including involvement of a related party, uncommon transactions or features of a transaction, unexpected variation or changes in trends, the insurance enterprise geographical location, its industry sector, or the state of the economy or economies in which it operates.
+
+#### Article 5
+
+A financial report shall present fairly the financial position, financial performance, and cash flows of an insurance enterprise without being misleading to an interested party in making judgments and decisions.
+
+If a financial report violates these Regulations or any other applicable requirements, for which the FSC as a result of an audit gives a notice requiring adjustment to be made, an insurance enterprise shall make the required adjustment and correction. If the adjusted amount reaches the threshold set by the FSC, a corrected financial report shall be publicly disclosed, together with a description of the reasons, items, and amount specified in the FSC notice for adjustment.
+
+#### Article 6
+
+An insurance enterprise shall comply with the following provisions when making accounting change:
+
+\1. Change in accounting policy:
+
+(1)"Accounting policies" refer to specific principles, bases, conventions, rules and practices adopted by an insurance enterprise in preparing and presenting financial statements.
+
+(2)When an insurance enterprise changes an accounting policy voluntarily in a new fiscal year in order to produce financial reports that provide reliable and more relevant information about the effects of transactions or other events or conditions on the insurance enterprise’s financial position, financial performance, or cash flows, it shall request its certified public accountant (CPA) to provide an item-by-item analysis and review opinion on the reasonableness of the nature of the change in accounting policy, the reasons why applying the new accounting policy provides reliable and more relevant information, each line item affected and the estimated effect for the fiscal year preceding the earliest fiscal year affected by retrospective application of the new accounting policy, and the actual effect on the opening balance of retained earnings for the immediately preceding fiscal year. These shall be submitted as a proposal for adoption by resolution of the board of directors (council), after which they shall be submitted to the FSC for approval. Upon approval by the FSC, the insurance enterprise shall publicly announce the estimated effects arising from the application of the new accounting policy and the CPA review opinion.
+
+(3)If, for the voluntary change in accounting policy in the new fiscal year, it is impracticable to determine either the period-specific effects or the cumulative effect of the change, as described in paragraph 23 of IAS 8, the insurance enterprise shall calculate the effects in accordance with paragraph 24 of IAS 8 and the preceding item, and shall request a CPA to provide an item-by-item analysis and review opinion on the reasonableness of the reasons why retrospective application is impracticable and how and from when the change in accounting policy has been applied, and also provide an opinion on the impact on the audit opinion for the fiscal year preceding the change in accounting policy. The insurance enterprise shall then follow the procedure described above.
+
+(4)Unless it is impracticable to determine the effects as described in the preceding item, an insurance enterprise shall, within 2 months after the beginning of the fiscal year in which the new accounting policy is adopted, calculate the line items affected and the actual effect for the fiscal year preceding the earliest fiscal year affected by retrospective application of the new accounting policy and the actual effect on the opening balance of retained earnings for the immediately preceding fiscal year, and shall submit the calculations for adoption by the board of directors (council), after which they shall be publicly announced and filed and submitted to the FSC for recordation. If the difference between the actual effect of the change in accounting policy and the original estimated effect in public announcement and filing is NT$10 million or more, and exceeds 1% of the  insurance revenue for the immediately preceding fiscal year or 5% of the paid-in capital, the insurance enterprise shall analyze the reasons for the difference and request a CPA to provide an opinion on its reasonableness. The analysis and the CPA's opinion shall also be publicly announced and filed with the FSC.
+
+(5)Except when an insurance enterprise applies a new accounting policy to newly purchased assets, in which case the provisions of the preceding items need not apply, if a change in accounting policy is adopted without having been duly filed for approval, the financial reports for the fiscal year in which the new accounting policy was applied shall be restated, and the new accounting policy may only be applied starting from the next fiscal year after a supplementary filing has been made and approved.
+
+(6)When an insurance enterprise voluntarily changes its accounting policy after the start date of a fiscal year in accordance with the provisions of the preceding paragraph, it shall publicly announce and file the change period that the new accounting policy applies retroactively, line items affected and the actual effect for the immediately preceding fiscal year, and the actual effect on the opening balance of retained earnings for the immediately preceding fiscal year, and add an explanation to the reasonableness and necessity of changing the accounting policy or accounting estimates after the start date of a fiscal year. The insurance enterprise shall also request a CPA to provide an item-by-item analysis and review opinion on the reasonableness of changes and other items. These shall be submitted as a proposal for adoption by resolution of the board of directors (council) and then handled the same according to the procedure set out in Item (2) of the Subparagraph 1. If the effect of an insurance enterprise’s retrospective application of a new accounting policy on the financial statements for any quarter of the current fiscal year reaches the threshold for restatement of financial reports set out in Paragraph 2, Article 5 of these Regulations, the insurance enterprise shall restate the financial report for the relevant period and request the attesting CPAs to re-audit or review the financial statements and then public announce and file the report again.
+
+2.Changes in accounting estimates:
+
+(1)"Accounting estimates" means amounts in financial statements that are subject to measurement uncertainty and are estimated by an insurance enterprise using measurement techniques and inputs.
+
+(2)If a change in an accounting estimate arises from a change in the useful life or the depreciation or depletion method of depreciable or depletable assets, a change in the amortization period or amortization method of intangible assets, a change in the residual value of any such assets, or a change in a technique used to estimate the fair value thereof, the insurance enterprise shall request the attesting CPAs to provide an analysis and review opinion on the reasonableness of the nature of changes and the reasons why the changes can provide reliable and more relevant information. Those changes in accounting estimates shall then be submitted as a proposal for adoption by resolution of the board of directors (council), publicly disclosed and filed after approval by the FSC, and then handled the same according to the procedure set out in Item (5) of the preceding subparagraph. If the insurance enterprise makes a change in an accounting estimate during a fiscal year, the insurance enterprise shall do the same as described in Item (6) of the preceding subparagraph, and in addition, provide explanations on the reasonableness and necessity of the time of the change.
+
+The expression "publicly announce and file" as used in this article means entering the information into the website designated by the FSC for the submission of electronic filings.
+
+Where an insurance enterprise has established the position of independent director, when it submits proposals for adoption by resolution of the board of directors (council) pursuant to Paragraph 1 hereof, it shall take into full consideration each independent director's opinion; where an independent director has an objection or reservation, the objection or reservation shall be recorded in the minutes of the meeting of the board of directors.
+
+#### Article 7
+
+An insurance enterprise shall prepare consolidated financial reports in accordance with Chapter II herein and IFRS 10, prepare annual parent company only financial reports in accordance with Chapter III and Chapter V herein, and prepare semi-annual parent company only financial reports in accordance with Chapter V herein.
+
+An insurance enterprise that does not have a subsidiary shall prepare individual financial reports in accordance with Chapter II herein, and when preparing annual individual financial reports, shall prepare a section on “Additional Disclosures” in accordance with Chapter III herein and a section on “statements of major accounting items” in accordance with Article 29 herein.
+
+An insurance enterprise preparing interim financial reports shall follow the provisions of Chapters II and IV herein as well as IAS 34 and IFRS17.
+
+#### Article 8
+
+The terms "parent", "subsidiary", "associate " and "joint arrangement" as used in these Regulations shall be determined in accordance with IFRS 10, IFRS 11, and IAS 28.
+
+The meaning of "control," "significant influence," or "joint control" as used in these Regulations shall be determined in accordance with IFRS 10, IFRS 11, and IAS 28.
+
+## Chapter II Financial Reports
+
+### Section I Balance Sheet
+
+#### Article 9
+
+Assets shall be properly classified and presented in the order of relative liquidity.
+
+For each asset line item, the total amount expected to be recovered within 12 months after the balance sheet date and the total amount expected to be recovered more than 12 months after the balance sheet date shall be separately disclosed in the notes to the financial statements (referred to as the “Notes” hereunder).
+
+Assets presented in the balance sheet shall include at least the following line items:
+
+\1. Cash and cash equivalents:
+
+(1) Cash on hand, demand deposits, and short-term, highly liquid time deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+
+(2) An insurance enterprise shall disclose the components of cash and cash equivalents and the policy which it adopts in determining the composition of cash and cash equivalents.
+
+\2. Receivables: Including receivables other than insurance contract assets or liabilities and reinsurance contract assets or liabilities, such as notes receivable, premiums receivable and other receivables.
+
+(1) Notes receivable:
+
+A. These receivables include notes receivables and non-accrual receivables.
+
+B. Notes receivable shall be measured at amortized cost using the effective interest method. However, short-term notes receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+
+C. With respect to discounted or transferred notes receivable, an assessment shall be made to determine whether the risks and rewards of the notes receivables, and the control retained over them will qualify them for derecognition under IFRS 9.
+
+D. Notes receivables arising from operating activities and other notes receivable arising from non-operating activities shall be separately presented. Notes receivables from related parties in significant amounts shall also be separately presented.
+
+E. Notes furnished as security shall be indicated in the Notes.
+
+F. The amount of non-accrual receivables shall be disclosed in the Notes.
+
+(2) Other receivables:
+
+A. These receivables include receivables and non-accrual receivables other than notes receivable and premiums receivable.
+
+B. The amount of non-accrual receivables shall be disclosed in the Notes.
+
+\3. Current tax assets: The portion of the tax amount already paid in respect of current and prior periods that exceeds the amount due for those periods.
+
+\4. Assets held for sale:
+
+(1) “Assets held for sale” means any asset or asset included in a disposal group held for sale, that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such assets (or disposal groups), and whose sale must be highly probable.
+
+(2) The measurement, presentation, and disclosure of assets held for sale and disposal groups held for sale shall be made in accordance with IFRS 5.
+
+(3) When assets or disposal groups classified as held for sale no longer meet the criteria in IFRS 5, they shall cease to be classified as held for sale.
+
+(4) When assets or disposal groups meet the definition of held for distribution to owners, they shall be reclassified from held for sale to held for distribution to owners, and shall be deemed an extension of the original disposal plan, and the classification, presentation, and measurement of the new disposal plan shall apply. When the assets or disposal groups classified as held for distribution to owners no longer meet the criteria in IFRS 5, they shall cease to be classified as held for distribution to owners.
+
+\5. Financial assets measured at fair value through profit or loss:
+
+(1) These assets refer to financial assets other than those measured at amortized cost or those measured at fair value through other comprehensive income.
+
+(2) Financial assets carried at amortized cost or at fair value through other comprehensive income may be designated as financial assets measured at fair value through profit or loss to eliminate or significantly reduce an accounting mismatch.
+
+\6. Financial assets measured at fair value through other comprehensive income:
+
+(1) Debt instrument investments that meet the following conditions simultaneously:
+
+A. The debt instrument is held by the insurance enterprise within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets; and
+
+B. The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+(2) Equity investments not held for trading for which an irrevocable election is made at initial recognition to recognize changes in fair value in other comprehensive income (fair value through other comprehensive income).
+
+\7. Financial assets measured at amortized cost are assets that meet the following conditions simultaneously:
+
+(1) The debt instrument is held by the insurance enterprise within a business model whose objective is achieved by collecting contractual cash flows; and
+
+(2) The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+\8. Financial assets for hedging are effective hedging instruments designated as such according to hedge accounting requirements.
+
+\9. Investments accounted for using the equity method:
+
+(1) The valuation and presentation of investments accounted for using the equity method shall be made in accordance with IAS 28.
+
+(2) When investment gain or loss is recognized, if the financial report prepared by an associate do not conform to these Regulations, the financial report shall first be adjusted to achieve conformance before it may be used to recognize investment gain or loss. The financial report of an associate to which the equity method applies shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of significant transactions or events that occur between that date and the date of the investor's financial report. However, under no circumstances should the difference between the balance sheet date of the associate and that of the investor be longer than three months. If a CPA determines, pursuant to Standards on Auditing 320, that an associate has a material effect on the fair presentation of the financial report of an investor, the financial report of the associate shall be audited by a CPA in accordance with the Regulations Governing Financial Statement Audit and Attestation Engagements of Certified Public Accountants and the Standards on Auditing .
+
+(3) If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, the fact shall be noted.
+
+\10. Other financial assets: Financial assets not attributable to any of the classes above; if the loss allowance is set aside, the financial asset shall be presented on a net basis with the loss allowance deducted.
+
+\11. Right-of-use asset:
+
+(1) Means an asset that represents a lessee's right to use an underlying asset for the lease term.
+
+(2) A right-of-use asset shall be accounted for in accordance with IFRS 16.
+
+\12. Investment property:
+
+(1) Investment property shall mean property held, by the owner or by the lessee with the right of use, to earn rentals, or for capital appreciation, or both.
+
+(2) Investment property shall be accounted for in accordance with IAS 40, and investment property that is subsequently measured using the fair value model shall be subject to the following provisions:
+
+A. Fair value measurement shall use income approach or cost approach. However the preceding provision does not apply to investment properties that have been subsequently measured after initial recognition using the fair value model prior to the promulgation of the amendment on May 11, 2020, in which case, valuation shall use market value as basis of fair value measurement, and may not be performed based on specific market value, specified market value or special value.
+
+B. An investment property that is leased out with a lease term of more than one year shall be measured using the income approach and subject to the following provisions:
+
+a. Cash flow: Cash flow shall be valued on the basis of existing lease. If there is an end-of-period value, the present value of the end-of-period value may be added.
+
+b. Analysis period: When there is no specified period for the income, the analysis period should not be longer than the years of the property’s physical durability; when there is a specified period for the income, the income shall be estimated for the remainder of the specified period.
+
+c. Discount rate: The discount rate shall be determined using the risk premium approach only, with the calculation based on a certain interest rate, plus an estimate based on the individual characteristics of the investment property. The term "based on a certain interest rate" means the interest rate may not be lower than the floating interest rate offered by the Chunghwa Post Co., Ltd. for 2-year time deposit of a small amount, plus 1.25 percentage points.
+
+C. An investment property without a lease term of more than one year or with a lease that has been terminated, rescinded or nullified for more than one year shall be measured using the cost approach.
+
+D. An insurance enterprise shall, at the time fair value model is adopted for its investment property, engage an external joint appraisers office to assess the value of each and every investment property in accordance with relevant provisions of these Regulations, and at the balance sheet date, engage an appraiser to review the original appraisal report to determine whether to issue a new appraisal report. In addition, an insurance enterprise shall obtain an appraisal report issued by an appraiser at least once every half a year.
+
+E. When the valuation of any single investment property held is above NT$1 billion, an insurance enterprise shall engage at least two joint appraisers offices to conduct the appraisal.
+
+F. Property valuation shall use market value as basis of fair value measurement, and may not be performed based on specific market value, specified market value or special value.
+
+G. If an insurance enterprise uses the fair value model for subsequent measurement of investment property, it shall adopt the same model for all of its investment property in accordance with IAS 40. However for vacant lands, an insurance enterprise shall measure the property in accordance with paragraph 53 of IAS 40 after obtaining construction license and undertaking development, and describe the change in the Notes for the current year.
+
+H. The external joint appraisers office mentioned in Item (2). D. hereof and its appraisers shall perform appraisal in accordance with the relevant Statements of Valuation Standards issued by the Accounting Research and Development Foundation (ARDF), the Real Estate Appraiser Act and the Regulations Governing Real Estate Appraisals as well as appraisal methods and appraisal report contents set out in the technical bulletins issued by the real estate appraisers association, and shall meet the following requirements:
+
+a. The joint appraisers office shall have at least five employees and at least two practicing real estate appraisers who are members of an real estate appraisers association.
+
+b. The appraiser must have at least 5 years of practical experience in real estate appraisal.
+
+c. The appraiser has had the experiencing of participating in the valuation of real estate owned by a domestic company listed on Taiwan Stock Exchange (TWSE) or Taipei Exchange (TPEx).
+
+d. The appraiser has relevant appraisal experience within the past year with respect to the location and category of the investment property being appraised.
+
+e. The appraiser has never received a fixed prison sentence or a more severe punishment from a court due to an offense involving fraud, breach of fiduciary duty, embezzlement, or forgery in connection with real estate appraisal business.
+
+f. The appraiser does not have a related party or substantive related party relationship as defined in IAS 24 with the insurance company requesting valuation service.
+
+g. The appraiser does not have a record of poor credit in connection with negotiable instruments or with debt in the most recent 3 years nor a record of being subject to disciplinary action by a real estate appraiser disciplinary board in the most recent 5 years.
+
+I. The appraiser shall issue a statement undertaking at least that he or she does not have a direct or indirect substantive relationship with the insurance enterprise requesting appraisal service and the legal consequences of failing to comply with applicable laws and regulations or failing to perform due professional care.
+
+J. An insurance enterprise shall establish operating procedures for real estate valuation and include them in its internal control system. The procedures shall encompass the professional qualifications and conditions to be met by the outsourced joint appraisers office and appraisers, obtaining and analysis of information, checking the pertinence of appraised value and external appraisal report and preservation of relevant documents. The documentation regarding the checking of external appraisal report shall present information on which the checking is based and reasons for the conclusion reached, and shall be signed by the responsible officer. In addition, the checking shall cover at least whether the contents of the appraisal report are complete with respect to the following: basic data on the subject property, appraisal date, transactions of comparable properties located in the area of the subject property, assumptions and limitations of the appraisal, appraisal method and procedures, the pertinence of conclusions reached, and appraisal reporting date, whether there is error in the calculation of appraised value, whether assumptions made in the appraisal or reference data quoted are inappropriate or erroneous, and the reasonableness and veracity of appraisal parameters that have significant influence on the appraisal results. The checking documents shall be retained for at least 5 years for future reference of the competent authority.
+
+K. A CPA shall review the appraisal report issued by a joint appraisers office engaged by an insurance enterprise in accordance with Statement of Auditing Standards No. 71 Standards on Auditing 620. The review process performed by the CPA shall be double checked item-by-item by the professional evaluation team in the office the CPA works for so as to confirm the reasonableness of the methods and calculations used and made in the appraisal report.
+
+L. The professional evaluation team at the CPA office described above should include a member meeting ROC’s qualification requirements for real estate appraiser. If not, the CPA office may engage the service of an external real estate appraiser that meets the qualification requirements set out in Item (2). H. hereof.
+
+M. Disclosure of investment property that is subsequently measured using the fair value model, in addition to being handled in accordance with IAS 40, shall include the following information in the Notes:
+
+a. Description of the appropriateness and reasonableness of appraisal methods used and important assumptions and parameters used;
+
+b. If the above information differs substantially from that for prior periods, description of the reason for the difference and the effect on the fair value;
+
+c. If there is a situation provided in IAS 40 paragraph 53, description of reasons therefor and subsequent changes made; and
+
+d. Information on the names of the joint appraisers office and appraiser used, and appraisal date.
+
+(3) If an investment property is pledged as collateral or otherwise subject to any restriction or limitation, the fact shall be noted.
+
+\13. Loans: They include insurance contract loans of investment contracts, insurance contract premium of investment contracts and secured loans.
+
+(1) Insurance contract loans of investment contracts: Loans made pursuant to the insurance contract through application by the proposer, with the policy as collateral, for insurance contracts issued by insurance enterprises that meet the definitions for investment contracts specified in IFRS 9.
+
+(2) Insurance contract premium loans of investment contracts: Loans made pursuant to the insurance contract to pay a premium due, for insurance contracts issued by insurance enterprises that meet the definitions for investment contracts specified in IFRS 9.
+
+(3) Secured loans:
+
+A. All loans made in accordance with Article 146-3 of the Act or approved by the competent authority on an ad hoc basis. Secured loans include loans guaranteed by banks, loans backed by pledge or collateral of real property, movable property, or securities, and loans and non-accrual receivable approved by the competent authority on an ad hoc basis.
+
+B. Secured loans of significant amount to related parties shall be presented separately from other loans. An insurance enterprise shall assess impairment loss or uncollectible amount of secured loans on the balance sheet date in accordance with the Regulations for Handling Assessment of Assets, Non-performing Loans, Non-accrual Receivable and Bad Debts by Insurance Enterprises and IFRS 9, with an appropriate amount of loss allowance set aside and non-accrual receivable disclosed in the Notes.
+
+C. Secured loans shall be measured at amortized cost using the effective interest method. However, secured loans may be measured at the original loan amount if the effect of discounting is immaterial.
+
+\14. Insurance contract assets: Assets of insurance contracts and investment contracts with discretionary participation features recorded as debit balance after aggregated to insurance contract portfolios recognized pursuant to IFRS 17, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises. They include the liability for remaining coverage, the liability for incurred claims, and assets for insurance acquisition cash flows.
+
+\15. Reinsurance contract assets: Assets of reinsurance contracts recorded as debit balance after aggregated to reinsurance contracts held portfolios recognized pursuant to IFRS 17, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises. They include the asset for remaining coverage and the asset for incurred claims, and the effect of any risk of non-performance by the issuer of the reinsurance contracts.
+
+\16. Property and equipment:
+
+(1) “Property and equipment” means tangible assets that are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than one fiscal year.
+
+(2) Property and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
+
+(3) Each component of property and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
+
+(4) When items of property and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, each class of their material components shall be presented in the Notes.
+
+(5) If a property or equipment is provided as a guarantee, pledged or subject to a lien in accordance with Paragraph 3, Article 143 of the Act with approval of the competent authority, the fact shall be noted.
+
+\17. Intangible assets:
+
+(1) An intangible asset is an identifiable non-monetary asset without physical substance that meets the definition of identifiability, control by an entity, and existence of future economic benefits.
+
+(2) Intangible assets shall be subsequently measured using the cost model and accounted for, recognized, measured, and disclosed in accordance with IAS 38.
+
+(3) The amortization method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed by the entity. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
+
+\18. Deferred tax assets: It refers to the amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
+
+\19. Other assets: It refers to assets not attributable to any of the classes above, including prepayments, service contract assets, incremental costs of obtaining a contract, non-operating assets, miscellaneous assets, guarantee deposits paid (including the classes of assets above that are used as deposits), temporary payments and suspense accounts, reinsurance contract performance reserve contributed, deferred expenses, special-purpose funds and other miscellaneous assets.
+
+(1) Prepayments include prepaid expenses, office supplies and other prepayments.
+
+(2) Service contract assets refer to assets recognized pursuant to IFRS 15 in the form of distinct goods or services sold as insurance products by insurance enterprises that have been transferred to customers but for which the insurance enterprises have not yet attained a right to consideration that is unconditioal.
+
+(3) Incremental costs of obtaining a contract are incremental sales costs attributed to the provision of services that are recognized in accordance with IFRS 15. Considerations for recognition method and the end of reporting period should be consistent with related service contracts.
+
+(4) Reinsurance contract performance reserve contributed are performance bonds deposited to various ceding company pursuant to reinsurance contracts.
+
+(5) Impairment or unrecoverable amount of guarantee deposits paid and reinsurance contract performance reserve contributed shall be assessed at balance sheet date with an appropriate amount of loss allowance set aside and non-accrual receivable disclosed in the Notes.
+
+(6) Collaterals and residuals taken over are collaterals or articles originally or additionally provided by borrowers according to law or as agreed to repay the money borrowed. Collateral and residuals taken over shall be stated at the price of possession, and assessed at balance sheet date based on its carrying value or fair value less cost of sale, whichever is lower.
+
+(7) Special-purpose funds are assets set aside for special purposes. The proposal and measure that the appropriation of funds is based on should be noted. Welfare fund set aside in accordance with the Employee Welfare Fund Act shall be recorded as expense.
+
+\20. Assets on insurance products - separate account: This is the sum total of assets on insurance product in separate accounts.
+
+The accounting treatment and recognition and measurement of loss allowance for financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, other financial assets, loans and receivables, insurance contract assets, reinsurance contract assets, and incremental costs of obtaining a contract described in the preceding paragraph shall be carried out in accordance with IFRS 17, IFRS 9, IFRS 15, and IAS 32.
+
+The loss allowance mentioned in the preceding paragraph shall be respectively stated as a deduction from financial assets measured at amortized cost, loans, and receivables. If those items are further classified, the loss allowance shall be stated accordingly.
+
+An insurance enterprise shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in Paragraph 3 hereof in relation to investments accounted for using the equity method, property and equipment, right-of-use assets, investment property measured using the cost model, and intangible assets. If any such evidence exists, the insurance enterprise shall recognize the amount of impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose additional information on the fair value measurement, including the level of fair value hierarchy, valuation techniques, and key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for fair value measurement.
+
+The fair value measurement and disclosure of financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, notes receivable, other receivables, assets held for sale and investment property mentioned in Paragraph 3 hereof shall be carried out in accordance with IFRS 13.
+
+#### Article 10
+
+Liabilities shall be properly classified and presented in the order of relative liquidity.
+
+For each liability line item, the total amount expected to be settled within 12 months after the balance sheet date and the total amount expected to be settled more than 12 months after the balance sheet date shall be separately disclosed in the Notes.
+
+Liabilities presented in the balance sheet shall include at least the following line items:
+
+1.Short-term borrowing:
+
+(1)Short-term borrowing includes short-term borrowings from banks, notes and bonds sold under repurchase agreement, and other short-term borrowings.
+
+(2) For short-term borrowing, whether the purpose of borrowing meets the relevant provisions of the Act, the guarantee status and interest rate range shall be noted based on the type of borrowing. If collateral is provided, the name and carrying amount of the collateral and approval number obtained from the FSC when the collateral was provided shall also be noted.
+
+(3) Borrowings from financial institutions, shareholders, employees, related parties, and other individuals or institutions shall be separately noted.
+
+(4)Notes and bonds sold under repurchase agreement are short-term borrowing arising from short-term bills or bonds issued by a financial institution under the mandate of the insurance enterprise for the purpose of fund utilization and with approval of the FSC.
+
+(5) Commercial paper payable and notes and bonds sold under repurchase agreement shall be measured at amortized cost using the effective interest method. However, short-term commercial paper payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial.
+
+2.Payables: Including payables other than insurance contract assets or liabilities and reinsurance contract assets or liabilities such as notes payable, commissions payable, and other payables.
+
+(1) Notes payable:
+
+A.These are all kinds of notes payable. Notes payable shall be measured at amortized cost using the effective interest method. However, short-term notes payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial.
+
+B.Notes payable arising from operating and non-operating activities shall be separately presented.
+
+C.Notes payable of significant amount to banks and related parties shall be separately presented.
+
+D.Notes payable with collateral provided shall have the name and carrying amount of the collateral noted.
+
+E.For notes that are used as security and can be recovered for cancellation at the termination of guarantee responsibility, the nature and amount of the guarantee shall be disclosed in the Notes.
+
+(2)Commissions payable: It includes all commissions, agency fees, and service fees in relation to direct underwriting payable on an accrual basis.
+
+(3)Other payables: It includes any other payable not included under notes payable, claims payable, reinsurance indemnity payable, commissions payable, or due to reinsurers and ceding companies, such as taxes payables, interest payable, dividend and bonus payables, etc. For dividends and bonuses payable passed by resolution of the shareholders meeting, the distribution method and scheduled payment date, if determined, shall be disclosed.
+
+3.Current tax liabilities: Unpaid taxes for current and prior periods.
+
+4.Liabilities directly associated with assets held for sale: Any liability included in a disposal group held for sale that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such disposal groups, and whose sale must be highly probable.
+
+5.Financial liabilities measured at fair value through profit or loss mean financial liabilities that meet any of the following conditions:
+
+(1) Financial liabilities held for trading:
+
+A.Liabilities that are incurred principally for the purpose of repurchasing them in the near term.
+
+B.Liabilities that, upon initial recognition, are part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent actual pattern of short-term profit-taking.
+
+C.Liabilities that are derivative financial liabilities, except for financial guarantee contracts or derivative financial liabilities that are designated and effective hedging instruments.
+
+(2)Financial liabilities measured at fair value through profit and loss for  investment contracts: They refer to insurance contracts issued by insurance enterprises that constitute investment contracts and must be recognized as financial liabilities measured at fair value through profit and loss pursuant to IFRS 9.
+
+(3)Financial liabilities that are designated as at fair value through profit or loss.
+
+(4)Financial liabilities measured at fair value through profit or loss shall be measured at fair value. However, with respect to a financial liability designated as at fair value through profit or loss, if the amount of change in the fair value of the financial liability is attributable to change in the credit risk, it shall be recognized in other comprehensive income, unless for the purpose of avoiding accounting mismatch or in the case of loan commitments and financial guarantee contracts, under which circumstances the amount of changes in fair value shall be recognized in profit or loss.
+
+6.Financial liabilities measured at amortized cost refer to liabilities that meet any of the following criteria:
+
+(1)Financial liabilities measured at amortized cost of investment contracts: They refer to insurance contracts issued by insurance enterprises that constitute investment contracts and must be recognized as financial liabilities measured at amortized cost pursuant to IFRS 9.
+
+(2) Other financial liabilities measured at amortized cost: They refer to financial liabilities that do not meet the following criteria:
+
+A.Financial liabilities measured at fair value through profit or loss.
+
+B.Financial liabilities derived when the transfer of financial assets does not meet derecognition criteria or the application of the continuing involvement approach.
+
+C.Financial guarantee contracts.
+
+D.Commitments to provide loans at interest rates below market rates.
+
+E.Financial liabilities measured at amortized cost of investment contracts.
+
+7.Financial liabilities for hedging: A financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
+
+8.Bonds payable: Corporate bonds already issued by the insurance enterprise. Premiums and discounts on bonds payable are valuation items of bonds payable. They shall be reported as an addition to or deduction from the bonds payable, and shall also be amortized as an adjustment to interest expenses using the effective interest method during the period of bond circulation.
+
+9.Preferred shares liability: It means preference (preferred) shares issued that is a financial liability in nature in accordance with IAS 32.
+
+10.Other financial liabilities: Financial liability not attributable to any of the accounts mentioned in Subparagraphs 5 to the preceding subparagraph hereof.
+
+\11. Insurance contract liabilities: Liabilities of insurance contracts and investment contracts with discretionary participation features recorded as credit balance after aggregated to insurance contract portfolios  recognized pursuant to IFRS 17, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises. They include the liability for remaining coverage, the  liability for incurred claims, and assets for insurance acquisition cash flows.
+
+12.Reinsurance contract liabilities: Liabilities of reinsurance contracts recorded as credit balance after aggregated to reinsurance contracts held portfolios recognized pursuant to IFRS 17, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises. They include the asset for remaining coverage, the asset for incurred claims, and the effect of any risk of non-performance by the issuers of the reinsurance contracts.
+
+13.Provisions:
+
+(1)It means any liability of uncertain timing or amount.
+
+(2)Provisions shall be accounted for in accordance with IAS 37.
+
+(3)A provision shall be recognized when an insurance enterprise has a present obligation as a result of a past event, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation, and a reliable estimate can be made of the amount of the obligation.
+
+(4)An insurance enterprise shall disaggregate provisions into provisions for employee benefits and other items in the Notes.
+
+\14. Lease liabilities:
+
+(1)Means the present value of the lease payments that the lessee has not paid.
+
+(2)Lease liabilities shall be accounted for in accordance with IFRS 16.
+
+15.Deferred tax liabilities: It is the amounts of income taxes payable in future periods in respect of taxable temporary differences.
+
+16.Other liabilities: Other liabilities refers to liabilities not attributable to any of the items above such as advance receipts, service contract liabilities, guarantee deposits and reinsurance contract performance reserves received, special reserves, other reserves, liabilities under trust, agency and guaranty, temporary receipts and suspense accounts, and other miscellaneous liabilities.
+
+(1)Advance receipts are various funds received in advance, including advance premiums or deposits received in advance of services provided. Major categories of advance receipts shall be listed separately, with added notes where any special stipulations are involved.
+
+(2) Service contract liabilities refer to service contract reserves recognized pursuant to IFRS 15 in the form of distinct goods or services sold as insurance products by insurance enterprises and the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises.
+
+(3)Reinsurance contract performance reserves received are performance bonds deposited by ceded companies in accordance with the reinsurance contracts signed in association with reinsurance ceded.
+
+(4)Special reserve: This is the special reserve set aside by an insurance enterprise at balance sheet date in accordance with the Act, Compulsory Automobile Liability Insurance Act, Regulations Governing the setting aside of various Reserves by Insurance Enterprises, Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises and related interpretations.
+
+(5)Other reserves: Other reserves refers to reserves that need to be set aside as required by the competent authority and include changes in reserve for foreign exchange valuation set aside in accordance with these Regulations, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and related interpretations.
+
+The accounting treatment for financial liabilities measured at fair value through profit or loss, financial liabilities measured at amortized cost, financial liabilities for hedging, payables, insurance contract liabilities, and reinsurance contract liabilities described in the preceding paragraph shall be carried out in accordance with IFRS17, IFRS 9 and IAS 32.
+
+The measurement and disclosure of financial liabilities measured at fair value through profit or loss, financial liabilities measured at amortized cost, financial liabilities for hedging, payables, liabilities directly associated with assets held for sale, and bonds payable described in Paragraph 3 hereof shall be carried out in accordance with IFRS 13.
+
+#### Article 11
+
+Equity items, their components, and information to be disclosed in the balance sheet are as follows:
+
+1.Equity attributable to owners of the parent:
+
+(1) Share capital:
+
+A.Capital contributed by shareholders to an insurance enterprise and registered with the competent authority in charge of company registration, but excluding preferred shares in the nature of liabilities.
+
+B.For share capital, the classes, par value per share, the number of shares authorized, the number of shares issued and fully paid, a reconciliation of the number of shares outstanding at the beginning and at the end of the period, the rights, preferences and restrictions attaching to each class of share capital, shares of the insurance enterprise held by the insurance enterprise or by its subsidiaries or associates, shares reserved for issue (or for transfer or conversion) under options and contracts for the sale of shares, and special conditions shall be disclosed in the Notes.
+
+C.If convertible preferred shares or overseas depositary receipts are issued, the issuing area, issuance and conversion methods, converted amount, and special conditions shall be disclosed.
+
+(2) Capital surplus:
+
+A.It means the equity components of financial instruments issued by an insurance enterprise or premiums resulting from share capital transactions between an insurance enterprise and its owners, which typically includes premium in excess of the par value of the shares issued, treasury shares traded, donated surplus, and others arising as a result of regulatory provisions associated with these Regulations.
+
+B.Capital surpluses shall be presented separately according to their nature; if there is any restriction on their use, the restriction shall be disclosed in the Notes.
+
+(3)Retained earnings (or accumulated deficit): Equity resulting from operating activities, including legal reserves, special reserves, and undistributed earnings (or deficit to be offset).
+
+A.Legal reserve: A fixed-percentage reserve to be appropriated in accordance with the Act and the Company Act.
+
+B.Special reserve: A reserve appropriated from earnings in accordance with the Act, Regulations Governing the setting aside of various Reserves by Insurance Enterprises, Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises, as well as relevant regulations, contracts, or articles of incorporation, or as resolved at the shareholders meetings.
+
+C.Undistributed earnings (or deficit to be offset): Undistributed and unappropriated earnings ("deficit to be offset" is deficit not yet offset).
+
+D.An earnings distribution or deficit offset shall not be accounted for unless and until approved by a shareholders meeting. However, an earnings distribution or deficit offset proposed before the financial reporting date shall be disclosed in the Notes for the period.
+
+(4)Other equity: It includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of gain or loss from financial assets measured at fair value through other comprehensive income, of gain and loss on hedging instruments, of revaluation surplus, insurance finance  income or expenses recognized in other comprehensive income, and finance income or expenses from reinsurance contracts held recognized in other comprehensive income.
+
+(5)Treasury shares: Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
+
+\2. Non-controlling interest:
+
+(1)It means the equity in a subsidiary not attributable, directly or indirectly, to a parent.
+
+(2)For each business combination, the components of non-controlling interest in the acquiree shall be measured in accordance with IFRS 3.
+
+(3)An insurance enterprise shall disclose information on any subsidiary in which it has a non-controlling interest of materiality and on the non-controlling interest in accordance with IFRS 12.
+
+An insurance enterprise may elect to recognize the remeasurements of defined benefit plans in retained earnings or other equity, and disclose the accounting policy in the Notes. Remeasurements of defined benefit plans that have been recognized in other equity may not be reclassified into profit or loss or transferred into retained earnings in a subsequent period.
+
+### Section II Statement of Comprehensive Income
+
+#### Article 12
+
+An insurance enterprise shall present all items of income and expense recognized in a period in a single statement of comprehensive income displaying components of profit or loss and components of other comprehensive income.
+
+An insurance enterprise shall present revenues and expenses recognized through profit or loss under the preceding paragraph using a classification based on their function, and shall also disclose additional information on the nature of these items, including depreciation and amortization expense and employee benefits expense.
+
+When items of income or expense are material, an insurance enterprise shall disclose their nature and amount separately in the statement of comprehensive income or in the Notes. Other operating income or cost that accounts for 1% or higher of insurance revenue shall be separately presented in the statement of comprehensive income.
+
+The statement of comprehensive income shall include at least the following line items:
+
+\1. Insurance service result: They refer to income or loss in the current period incurred due to insurance revenue from insurance contracts, insurance service expenses from insurance contracts, and income or expenses from reinsurance contracts held pursuant to insurance contracts governed by IFRS 17.
+
+(1) Insurance revenue: The provision of services arising from the group of insurance contracts for direct underwriting business and reinsurance ceded, and shall reflect the consideration to which insurer expects to be entitled in exchange for those services. It includes the following items:
+
+A. The amount relating to changes in the liability for remaining coverage such as the insurance service expenses incurred during the period (measured at the amounts expected at the beginning of the period), the change in the risk adjustment for non-financial risk, the amount of the contractual service margin recognized in profit or loss because of the transfer of insurance contract services in the period, insurance revenue recognized under the premium allocation approach, and other amounts.
+
+B. The allocation of the portion of the premiums that relate to the recovery of insurance acquisition cash flow.
+
+(2) Insurance service expenses: The provision of services arising from the group of insurance contracts for direct underwriting business and reinsurance ceded, and shall reflect the insurer's claims and expenses for providing such services. They include the following items:
+
+A. The amount related to changes for incurred claims such as incurred claims (excluding investment components), other incurred insurance service expenses, any subsequent changes in fulfillment cash flows reacting to incurred claims and incurred expenses.
+
+B. The amount related to changes in the liabilities for remaining coverage such as losses on onerous groups of contracts and reversals of such losses.
+
+C. Amortization of insurance acquisition cash flows.
+
+D. Impairment loss and reversals of impairment from assets for insurance acquisition cash flows.
+
+(3) Income or expenses from reinsurance contracts held: They are derived from the income or expenses on the group of reinsurance contracts held and include the following items:
+
+A. The amounts recovered from the reinsurer.
+
+B. An allocation of the premiums paid.
+
+C. The effect of the changes in the risk of non-performance by the issuer of reinsurance contracts held.
+
+\2. Finance result: They refer to the net investment incomes (losses), insurance finance income or expenses, and finance income or expenses from reinsurance contracts held.
+
+(1) Net investment incomes (losses): These are incomes or losses arising from investing activities, including interest income, gain (loss) on financial assets and liabilities measured at fair value through profit or loss, realized gain (loss) on financial assets measured at fair value through other comprehensive income, gain (loss) from derecognition of financial assets measured at amortized cost, share of profit (loss) of associates and joint ventures accounted for using equity method, foreign exchange gain (loss), net changes in reserve for foreign exchange valuation, gain (loss) on investment property, expected credit impairment loss and reversal gain on investment, other impairment loss and reversal gain on investment, gain (loss) on reclassification of financial assets, net change in financial liabilities measured at amortized cost of investment contracts, and net income (losses) on assets on insurance products in separate accounts; except for interest income, each investment gain (loss) described above shall be reported on a net basis.
+
+A. Interest income: Interest earned from bank deposits, short-term bills, loans, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost or other financial assets.
+
+B. Gain (loss) on financial assets and liabilities measured at fair value through profit or loss include:
+
+a、Gain (loss) incurred on trading or lending of financial assets and liabilities measured at fair value through profit or loss and financial assets and liabilities designated as measured at fair value through profit or loss, dividends, interests, and bonus income, and valuation gain (loss) based on fair value at end-of-period.
+
+b、Net changes in financial liabilities measured at fair value through profit and loss of investment contracts: They refer to the net changes in the current period in financial liabilities measured at fair value through profit or loss for investment contracts recognized in accordance with IFRS 9 and set aside in accordance with these Regulations, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and related interpretations.
+
+C. Realized gain (loss) on financial assets measured at fair value through other comprehensive income: Gain (loss) on trading or lending of debt instruments classified as financial assets measured at fair value through other comprehensive income or dividend and bonus income generated from equity instruments classified as financial assets at fair value through other comprehensive income.
+
+D. Gain (loss) from derecognition of financial assets measured at amortized cost: Gain (loss) incurred on trading or lending of financial assets measured at amortized cost.
+
+E. Share of profit (loss) of associates and joint ventures accounted for using equity method: The profit or loss of associates and interests in joint ventures that an insurance enterprise recognizes using the equity method according to its share in the associates and the interests in joint ventures.
+
+F. Foreign exchange gain (loss): Gain (loss) incurred in actual exchange, valuation or hedging of foreign-currency investment (principal and interest) and insurance liabilities of foreign currency policies due to exchange rate variation measured in accordance with IAS 21. However when a life insurance enterprise so concludes in accordance with paragraph 19 of IAS 1, starting January 1, 2026, for its directly held financial assets classified as debt instruments measured at amortized cost where the associated foreign currency risk components have not been designated as hedged items, the unrealized exchange differences in each period arising from foreign currency amortized costs calculated based on carrying amount after previous exchange or new acquisition costs shall be amortized per instrument per transaction foreign exchange gain (loss), on a straight line basis over the expected remaining duration; the unamortized accumulated unrealized net exchange gain or loss shall be recognized as other assets or other liabilities; when a debt instrument is derecognized, any unamortized amount shall be recognized under current foreign exchange gain (loss) in its entirety. The life insurance enterprise that applies the proviso hereof shall disclose information mentioned in paragraph 20 of IAS 1.
+
+G. Net changes in reserve for foreign exchange valuation: Changes occurred during the current period in reserve for foreign exchange valuation set aside and offset by an insurance enterprise in accordance with the Act, Regulations Governing the setting aside of various Reserves by Insurance Enterprises and related interpretations. An insurance enterprise shall disclose respectively in the Notes the amount of reserve for foreign exchange valuation recovered and set aside for the period.
+
+H. Gain (loss) on investment property: Expenses incurred on investment property, gain (loss) from lease or sale of investment property, and gain (loss) from changes in the fair value of investment property measured using the fair value model.
+
+I. Expected credit loss and reversal on investment: Amount of expected credit loss (or reversal) on financial assets for investment recognized in accordance with the Regualtions for Handling Assessment of Assets, Non-performing Loans, Non-accrual Receivable on Demand and Bad Debts by Insurance Enterprises or IFRS 9.
+
+J. Other impairment loss and reversal on investment: The calculation and presentation of impairment losses and reversal gain on investment assets (including investment property) where expected credit loss is not recognized in accordance with IFRS 9 as described above shall be made in accordance with generally accepted accounting principles.
+
+K. Gain (loss) on reclassification of financial assets refers to reclassification gain (loss) that meets any of the conditions below in accordance with IFRS 9:
+
+a. Net gain (loss) on reclassification of financial assets from measured at amortized cost to measured at fair value through profit or loss; or
+
+b. Cumulative net gain (loss) on reclassification of financial assets from measured at fair value through other comprehensive income to measured at fair value through profit or loss.
+
+L. Net changes in financial liabilities measured at amortized cost of investment contracts: They refer to the net changes in financial liabilities measured at amortized cost other than finance costs and others for investment contracts recognized in accordance with IFRS 9 and set aside in accordance with these Regulations, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, and related interpretations.
+
+M. Net income or losses on assets on insurance products in separate accounts: They refer to the income and losses, dividends and bonuses, and valuation gains and losses derived from the purchase and sale of investment assets by the insurer in accordance with the investment methods and investment objectives approved or designated by the proposer in the investment insurance contract.
+
+N. Other net investment income (losses): Income (losses) incurred from other investing activities not attributable to any of the items above.
+
+(2) Insurance finance income or expenses: They refer to the effect on a group of insurance contracts as a result of the time value of money, changes in the time value of money, financial risks, and the effect of changes in financial risk, including gains and losses on foreign currency insurance contracts due to changes in foreign exchange rates as measured in accordance with IFRS 17. However, the time value of money and the effect of financial risks of insurance contracts with discretionary participation features included in the calculation of insurance service expenses must be excluded.
+
+(3) Finance income or expenses from reinsurance contracts held: They refer to the effect on the reinsurance contracts held as a result of the time value of money, changes in the time value of money, financial risks, and the effect of changes in financial risk, including gains and losses on reinsurance contracts held in foreign currency due to changes in foreign exchange rates as measured in accordance with IFRS 17.
+
+\3. Other operation result: They refer to gains or expenses that are not the derived from the insurance service result and finance result.
+
+(1) Asset management service revenue: They refer to the revenue related to the provision of asset management services in insurance operations, which should be processed in accordance with IFRS 15.
+
+(2) Other operating revenue: Business revenue not attributable to any of the items above, such as interest income and foreign exchange gain generated from non-investing activities.
+
+(3) Finance costs: They include interest on other liabilities, gains or losses from fair value hedging instruments and adjustment to the hedged items, changes in the fair value of cash flow hedging instruments as reclassified from equity to profit or loss, and interest on financial liabilities measured at amortized cost of investment contracts, with the portion eligible for capitalization being deducted.
+
+(4) Other operating costs: Business related expenses and losses not attributable to any of the items above, such as amortization of incremental costs of obtaining a contract, stabilization fund expenses for insurance contracts not governed by IFRS 17, net changes in special reserves, net changes in other reserves, interest paid on borrowing and reinsurance deposits received, and foreign exchange loss arising from non-investing activities.
+
+A. Industry stabilization fund expense is reserve set aside for stabilization fund as required by law.
+
+B. Net changes in special reserve: They refer to net changes in the special reserves set aside in the current period pursuant to these Regulations, Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises, Compulsory Automobile Liability Insurance Act, and related interpretations.
+
+C. Net changes in other reserves: They refer to the net changes in the provision of prescribed by the competent authority other than the net change in reserve for foreign exchange valuation .
+
+(5) Other Operating expenses: The refer to expenses not directly attributable to fulfilling insurance contracts and include general expenses, administrative expenses, and employee training expenses, and expected credit impairment loss and reversal gain not derived from investments.
+
+A. General expenses: These are expenses indirectly borne during the period in association of with the insurance and investment business (not under operating costs), including personnel, general affairs, depreciation or leasing of business premises, taxes, advertising, entertainment, impairment loss on reinsurance assets and other expenses.
+
+B. Administrative expenses: These are expenses incurred during the period in association with administration, including personnel, general affairs, depreciation or leasing of business premises, taxes, advertising, entertainment and other expenses.
+
+C. Employee training expenses: These are expenses incurred in association with employee training, including personnel, general affairs, depreciation or leasing of business premises and other expenses.
+
+D. Non-investment expected credit loss and reversal: This is the amount of expected credit loss (or reversal) on non-investment financial assets recognized in accordance with the Regualtions for Handling Assessment of Assets, Non-performing Loans, Non-accrual Receivable on Demand and Bad Debts by Insurance Enterprises or IFRS 9.
+
+\4. Non-operating income and expenses: Income and expenses generated and incurred during the current period not connected with ordinary business activities, including gains or losses on disposal of fixed assets not related to main business items, impairment losses on non-financial assets, reversal of impairment losses on non-financial assets and dividends of preferred shares in the nature of liabilities.
+
+\5. Profit (loss) from continuing operations: This is the net of the preceding four subparagraphs.
+
+\6. Tax expense (benefit): The aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
+
+\7. Net profit (net loss) from continuing operations: This is the net of the preceding two subparagraphs.
+
+\8. Profit (loss) from discontinued operations: The post-tax profit or loss of discontinued operations and the post-tax gain or loss recognized on the measurement to fair value less costs to sell or on the disposal of the assets or disposal group(s) constituting the discontinued operation. The presentation and disclosure of profit or loss of discontinued operations shall be made in accordance with IFRS 5.
+
+\9. Net profit (loss): Profit or loss for the current reporting period.
+
+\10. Other comprehensive income: It means each component of other comprehensive income classified by nature, including share of the other comprehensive income of associates and joint ventures accounted for using the equity method.
+
+(1) Items that may be subsequently reclassified into profit or loss: Include exchange differences resulting from translating the financial statements of a foreign operation, gain (loss) on debt instruments measured at fair value through other comprehensive income, gains and losses on hedging instruments, insurance finance income or expenses, finance income or expesnes for reinsurance contracts held, etc.
+
+(2) Items not to be reclassified into profit or loss: Include revaluation surplus, valuation gain (loss) on equity instrument measured at fair value through other comprehensive income, insurance finance income or expenses, gains and losses on hedging instruments and remeasurements of defined benefit plans.
+
+\11. Other comprehensive income (net of tax).
+
+\12. Total comprehensive income.
+
+\13. Allocations of profit or loss during the period attributable to non-controlling interest and owners of the parent.
+
+\14. Allocations of total comprehensive income during the period attributable to non-controlling interest and owners of the parent.
+
+\15. Earnings per share:
+
+A. Basic and diluted earnings per share for profit or loss from continuing operations attributable to the ordinary equity holders of the parent entity and for profit or loss attributable to the ordinary equity holders of the parent entity.
+
+B. The calculation and presentation of earnings per share shall be made in accordance with IAS 33.
+
+### Section III Statement of Changes in Equity
+
+#### Article 13
+
+The statement of changes in equity shall include at least the following line items:
+
+\1. Total comprehensive income during the period, showing separately the total amounts attributable to owners of the parent and to non-controlling interest.
+
+\2. For each component of equity, the effects of retrospective application or retrospective restatement recognized in accordance with IAS 8.
+
+\3. For each component of equity, a reconciliation between the carrying amount at the beginning and the end of the period, separately disclosing changes resulting from:
+
+(1) net profit (or net loss) for the period;
+
+(2) other comprehensive income; and
+
+(3) transactions with owners (in their capacity as owners), showing separately contributions by and distributions to owners and changes in ownership interests in subsidiaries that do not result in a loss of control.
+
+An insurance enterprise shall present, either in the statement of changes in equity or in the Notes, the amount of dividends recognized as distributions to owners during the period, and the related amount of dividends per share.
+
+### Section IV Statement of Cash Flows
+
+#### Article 14
+
+A statement of cash flows provides the primary users of financial reports with a basis to assess the ability of the insurance enterprise to generate cash and cash equivalents and the needs of the insurance enterprise to utilize those cash flows. Namely, it presents, through inflows and outflows of cash and cash equivalents, a summary report on the insurance enterprise’s operating, investing, and financing activities during the period. The presentation and disclosure of cash flow information shall be made in accordance with IAS 7.
+
+### Section V Notes
+
+#### Article 15
+
+To meet the objective of presenting full and complete information about the financial position, financial performance, and cash flows of an insurance enterprise, financial reports shall contain explanatory notes disclosing the following:
+
+1.Company history and scope of business operations.
+
+2.A statement undertaking that the preparation of financial report complies with these Regulations, applicable laws and regulations (the titles of the laws or regulations), as well as IFRS, IAS, IFRIC Interpretations, and SIC Interpretations.
+
+3.The date on which the financial report was authorized for issue and the process involved in authorizing the financial report for issue.
+
+4.The effect or impact that may arise when it has or has not applied a new or revised IFRS, IAS, IFRIC Interpretation, or SIC Interpretation endorsed by the FSC.
+
+5.A summary of significant accounting policies used that are relevant to an understanding of the financial report, and the measurement basis (or bases) used in preparing the financial report.
+
+6.Significant accounting judgments, estimations, and assumptions, as well as information about the assumptions it makes and other major sources of estimation uncertainty.
+
+7.Objectives, policies and processes for managing capital, and any change in capital structure, including funding, liability, and equity.
+
+8.If for a special reason there is a change in accounting treatment, thus affecting the comparison of financial data between two successive periods, the reason for the change and its effect on the financial report shall be noted.
+
+9.The following information shall be disclosed for the issuance of insurance contracts that meet the definition set out in IFRS 17:
+
+(1)The amounts recognized in the financial statements for contracts within the scope of IFRS 17 prescribed in paragraph 93 (a), the significant judgments, and changes in those judgments, made when applying IFRS 17 prescribed in paragraph 93 (b) of IFRS 17, and the nature and extent of the risks from contracts within the scope of IFRS 17 prescribed in paragraph 93 (c) of IFRS 17, including but not limited to the following items:
+
+A.     Reconciliations from the opening to the closing balances separately for each of liabilities (or assets) for remaining coverage, liabilities for incurred claims, and any loss component.
+
+B.     An insurance enterprise shall disclose when it expects to recognize the contractual service margin remaining at the end of the reporting period in profit or loss, quantitatively, in appropriate time bands. Such information shall be provided separately for insurance contracts issued and reinsurance contracts held.
+
+C.     An insurance enterprise shall disclose the requirements for the inputs, assumptions, and estimation techniques used for significant judgments and changes in judgments made.
+
+(2)Other information required for disclosure in accordance with IFRS 17.
+
+\10.   If it is necessary to provide the basis of valuation for any amount, financial instrument, or other items presented in the financial report, that basis of valuation shall be noted.
+
+\11.   If any item presented in the financial report is subject to any legal, regulatory, contractual, or other restriction, the circumstances and timing of the restriction and other related information shall be noted.
+
+\12.   Material contingent liabilities and unrecognized contractual commitments.
+
+\13.   Financial risk management objectives and policies.
+
+\14.   Borrowing to meet cash flow needs arising from payment of major benefits.
+
+\15.   The addition, construction, idling or sale of major operating assets and investment assets.
+
+\16.   Significant transactions with related parties.
+
+\17.   Losses due to material disasters.
+
+\18.   Material litigation pending or concluded.
+
+\19.   The signing, completion, voidance, or lapse of material contracts.
+
+\20.   Information on financial instruments. The information shall be disclosed in accordance with IFRS 7, including the significance of financial instruments for an entity's financial position and performance, qualitative and quantitative information on risk exposure for each type of financial instrument, and if overlay approach is selected, relevant information required of disclosure in accordance with IFRS 4.
+
+\21.   Relevant information about leases. The information shall be disclosed in accordance with IFRS 16, including disclosure of information that gives a basis for the primary of the financial reports to assess the effect that the leases have on the financial position, financial performance, and cash flows of the Insurance Enterprise, and relevant qualitative and quantitative information about its leasing activities.
+
+\22.   Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, certainty of future cash flows, actuarial losses arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+
+\23.   An insurance enterprise that offers investment-linked insurance plans shall disclose, separately for insurance contracts that comply with and those that do not comply with the definition set out in IFRS 17, in the notes the statement of reconciliation for assets on insurance products in separate  accounts (Form 6 - 36), including the increase and decrease of assets, related expenses, and  investment gain or loss.
+
+\24.   An insurance enterprise that operates non-life insurance shall disclose the amount of respectively the retained gross earned premium from compulsory and non-compulsory insurance and present the calculation process.
+
+\25.   An insurance enterprise that operates non-life insurance shall disclose the amount of respectively the retained claims for compulsory and non-compulsory insurance and present the calculation process.
+
+\26.   An insurance enterprise that operates non-life insurances hall disclose the insurance retention limit per risk unit by type of insurance.
+
+\27.   An insurance enterprise that operates compulsory auto liability insurance shall disclose in the Notes information on its assets, liabilities, income and costs in tabulated format (Forms A ~ B).
+
+\28.   Investment items and limits under discretionary management of a securities investment trust enterprise or securities investment consulting enterprise.
+
+\29.   Operating segment information. The information shall be disclosed in accordance with IFRS 8.
+
+\30.   Information on discontinued operations.
+
+\31.   Major operations, assets and liabilities assigned to or assumed from other enterprises.
+
+\32.   When the insurance enterprise is a subsidiary of a financial holding company, manner of revenue, cost, expense and profit (loss) sharing between the insurance enterprise and the financial holding company and other subsidiaries in terms of business or trading activities, joint business promotions, sharing of information, and sharing of facilities or premises.
+
+\33.   Information on investment in the Mainland Area.
+
+\34.   In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
+
+\35.   Information about investments in derivative instruments.
+
+36.Information for which disclosure is required by law.
+
+\37.   When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+
+\38.   Material organizational adjustments and material management reforms.
+
+\39.   Material effects of changes in government laws and regulations.
+
+40.Description of important accounting policy for foreign exchange valuation reserve mechanism, hedging strategy and risk exposures, he effect on profit (loss), liabilities and equity by not applying this reserve mechanism and calculated earnings per share without applying this reserve mechanism.
+
+\41.   Fair value information. The information shall be disclosed in accordance with IFRS13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+
+\42.   Foreign-currency-denominated assets and liabilities that have significant influence, including the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies.
+
+\43.   The net worth ratio which means equity divided by total assets excluding separate accounts for investment-linked insurance.
+
+\44.   Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, including material information that could affect the insurance enterprise’s future cash flows, or other necessary descriptions essential for avoiding misunderstanding by  the primary users or for the fair presentation of the financial reports.
+
+#### Article 16
+
+A financial report shall include explanatory notes on the following subsequent events that occur between the balance sheet date and the date when the financial report is authorized for issue:
+
+\1.    Change in capital structure.
+
+\2.    Borrowing to meet cash flow needs arising from payment of major benefits..
+
+\3.    The addition, construction, idling or sale of major operating assets and investment assets.
+
+\4.    Significant changes in the premium rate schedule for major direct underwriting business.
+
+\5.    Significant changes in policy sales channels and policies for major direct underwriting business.
+
+\6.    Significant changes in the method for setting aside reserves.
+
+\7.    Major operations, assets and liabilities assigned to or assumed from other enterprises.
+
+\8.    Losses due to material disasters.
+
+\9.    Material litigation pending or concluded.
+
+\10.    The signing, completion, voidance, or lapse of material contracts.
+
+\11.    Material organizational adjustments and material management reforms.
+
+\12.    Material effects of changes in government laws and regulations.
+
+\13.    Other material events or measures sufficient to affect future financial position, financial performance, and cash flows.
+
+#### Article 17
+
+An insurance enterprise shall separately disclose in the Notes information on the following events between the insurance enterprise and its subsidiaries during the current period, and on parent-subsidiary transactions:
+
+\1. Information on significant transactions:
+
+(1) Acquisition of real estate reaching NT$100 million or 20% of paid-in capital or more.
+
+(2) Disposal of real estate reaching NT$100 million or 20% of paid-in capital or more.
+
+(3) Transactions with related parties involving main business items reaching NT$100 million or 20% of paid-in capital or more.
+
+(4) Accounts receivable from related parties reaching NT$100 million or 20% of paid-in capital or more.
+
+(5) Trading in derivative instruments.
+
+(6) Others: The business relationship between the parent and the subsidiaries and between each subsidiary, and the circumstances and amounts of any significant transactions between them, and accounting policies if the parent and subsidiaries adopt different accounting policies; in addition, amounts presented in the financial report shall be separately disclosed.
+
+\2. Information on investees (other than those in the Mainland Area):
+
+(1) If the insurance enterprise directly or indirectly exercises significant influence or control over, or has a joint venture interest in the investee, it shall disclose information on the investee, reporting the name, location, principal business activities, original investment amount, shareholding at the end of the period, profit or loss for the period, and recognized investment gain or loss.
+
+(2) If the insurance enterprise directly or indirectly exercises significant influence or control over, or has a joint venture interest in the investee, it shall disclose additionally information on loans made to others, endorsements/ guarantees for others, securities held at the end of the period, and transactions where the aggregate purchases or sales of the same security reaching NT$100 million or 20% of paid-in capital or more.
+
+(3) The insurance enterprise is exempted from the requirements of items (1) to (6) of the preceding subparagraph when the investee it controls directly or indirectly is a financial, insurance, or securities enterprise.
+
+(4) When the total assets or insurance revenue of an investee directly or indirectly controlled by the insurance enterprise does not reach 10% that of the insurance enterprise or the insurance enterprise directly or indirectly controls the investee’s personnel, finance or business, the insurance enterprise is only required to disclose information on loans made to others, endorsements/ guarantees for others, securities held at the end of the period, and transactions where the aggregate purchases or sales of the same security reaching NT$100 million or 20% of paid-in capital or more.
+
+(5) The term “20% of paid-in capital” referred to under this item is calculated based on the paid-in capital of the insurance enterprise that has direct or indirect control of the investee.
+
+\3. Investment and business information on investments in the Mainland Area:
+
+(1) If the insurance enterprise directly or indirectly exercises significant influence or control over, or has a joint venture interest in an investee in the Mainland Area, it shall disclose information on the investee company, showing the name, principal business activities, paid-in capital, method of investment, inward and outward remittance of funds, shareholding ratio, profit or loss for the period and recognized investment gain or loss, carrying amount of the investment at the end of the period, repatriated investment gains, and limit on the amount of investment in the Mainland Area.
+
+(2) If the investee is an insurance enterprise, disclose additionally its location, fund utilization status and profit (loss) thereon, amounts of insurance contract assets and liabilities and reinsurance contract assets and liabilities, insurance revenue and its percentage of the insurance revenue of the investing insurance enterprise, and insurance service expenses and their percentage of the insurance service expenses of the investing insurance enterprise.
+
+(3) Any of the following significant transactions with investees in the Mainland Area, either directly or indirectly through a third area, and their prices, payment terms, and unrealized gains or losses:
+
+A. For transactions involving each other’s main business, such as underwriting an insurance policy where the proposer is the investee, the amount and percentage of transactions and the balance and percentage of the related payables at the end of the period.
+
+B. The amount of property transactions and the amount of the resultant gains or losses.
+
+C. The highest balance, the end of period balance, the interest rate range, and total current period interest with respect to financing of funds.
+
+D. Other transactions that have a material effect on the profit or loss for the period or on the financial position, such as the rendering or receiving of services.
+
+E. The amount or balance of transactions mentioned in subitems A ~ D above that reaches 20% or more of the insurance enterprise’s total amount or balance of such transactions shall be separately presented, while the rest may be added up and reported as an aggregate amount.
+
+(4) When an insurance enterprise recognizes investment gain or loss using the equity method or prepares consolidated financial statements with respect to a Mainland Area investee, the recognition or preparation shall be made based on the investee's financial report audited and certified by an international accounting firm having a business cooperation relationship with an R.O.C. accounting firm, provided that when preparing first quarter and third quarter interim consolidated financial reports, the recognition or preparation may be made based on the investee's financial report reviewed by an international accounting firm having a business cooperation relationship with an R.O.C. accounting firm.
+
+(5) The location of the insurance enterprise’s branch in Mainland Area, the branch’s outward remittances of operating capital, fund utilization status and profit (loss) thereon, amounts of insurance contract assets and liabilities and reinsurance contract assets and liabilities, insurance revenue and its percentage of the insurance revenue of the investing insurance enterprise, insurance service expenses and their percentage of the insurance service expenses of the investing insurance enterprise, and profit (loss) status.
+
+(6) If the overseas branch of an insurance enterprise has reinsurance business dealings with the branch of a foreign insurance enterprise in Mainland Area or the overseas branch of a Mainland Area insurance enterprise, the name of company that the overseas branch has dealings with , insurance revenue from insurance service results, and the share allocation of reinsurance premiums paid for the income or expenses from reinsurance contracts held.
+
+(7) If the overseas branch of an insurance enterprise has insurance underwriting business dealings with Mainland Area individuals, juristic persons, organizations or other institutions, the name of business customer involving significant amount and actual premiums received. The actual premiums received refer to insurance and reinsurance premiums received from the sale of insurance policies with significant insurance risks in the business of insurance and reinsurance assumed.
+
+\4. Notes to the parent company only financial report shall disclose relevant information in accordance with the preceding three subparagraphs herein. However if the total assets or insurance revenue of an investee does not reach 10% that of the insurance enterprise, or the insurance enterprise directly or indirectly controls the investee’s personnel, finance or business, provisions of Subparagraph 2 herein do not apply. If the transactions disclosed by the insurance enterprise pursuant to the aforementioned provisions have been offset during the preparation of consolidated financial report, the insurance enterprise should provide proper explanations in the notes.
+
+#### Article 18
+
+An insurance enterprise shall fully disclose information on related party transactions in accordance with IAS 24, and in compliance with the following provisions:
+
+\1. The name and relationship of the related party shall be presented.
+
+\2. If the transaction amount or balance of any single related party reaches 10% or more of the insurance enterprise’s total amount or balance of such transactions, the name of each such related party shall be individually presented.
+
+In considering whether a counterparty is a related party, attention shall be directed to the substance of the relationship in addition to the legal form. Unless it can be established that no control, joint control, or significant influence exists, a party falling within any of the following shall be deemed to have a substantive related party relationship, and relevant information shall be disclosed in the Notes in accordance with IAS 24:
+
+\1. An affiliated enterprise within the meaning given in Chapter VI-I of the Company Act, and any of its directors, supervisors, and managerial officers.
+
+\2. A company or institution governed by the same general management office as the insurance enterprise, and any of its directors, supervisors, and managerial officers.
+
+\3. A person holding the position of manager or higher in the general management office.
+
+\4. A company or institution shown as an affiliated enterprise in the insurance enterprise’s public announcement or publications.
+
+\5. Another company or institution whose board chairman or president is the same person as, or is the spouse or a relative within the second degree of kinship of, the board chairman or president of the insurance enterprise.
+
+### Section VI Titles of Financial Statements and Statements of Major Accounting Items
+
+#### Article 19
+
+Titles and forms of financial statements are as follows:
+
+\1. Balance Sheet. (Form 1)
+
+\2. Statement of Comprehensive Income. (Form 2)
+
+\3. Statement of Changes in Equity. (Form 3)
+
+\4. Statement of Cash Flows. (Form 4)
+
+\5. Schedules to the financial report. (Forms 5 -1 ~ 5-5)
+
+## Chapter III Additional Disclosures
+
+#### Article 20
+
+An insurance enterprise shall provide information on its business conditions in accordance with the following provisions:
+
+\1. Significant business matters:
+
+The insurance enterprise shall provide information on matters arising over the most recent 5 fiscal years that have had a significant impact on its business, including acquisition or merger, demerger, change in management rights (equity) reaching 10% or more, transfer of business, investments in affiliated enterprises, reorganization, acquisition or disposal of major assets, and significant changes in operation method (including sales system) or business activity.
+
+\2. Remuneration to directors, supervisors, president (general manager), vice presidents (assistant general managers),and Chairmen of the board and presidents (general managers) rehired as consultants after retiring from the insurance enterprise or its affiliate enterprises and related information:
+
+(1) Remuneration paid to directors, supervisors, president (general manager), vice presidents (assistant general managers),and consultants in the most recent fiscal year: (Form 9, and Form 9-1)
+
+A. An insurance enterprise may opt either to disclose aggregate remuneration information, with the name(s) indicated for each remuneration bracket, or to disclose the name of each individual and the corresponding remuneration amount.
+
+B. An insurance enterprise having any of the following circumstances is required to disclose the remuneration paid to each individual director, supervisor , president (general manager) and consultants:
+
+a. The insurance enterprise’s most recent capital adequacy ratio, whether CPA-reviewed or adjusted following FSC examination, is below statutory standard.
+
+b. The insurance enterprise showed an after-tax deficit in the parent company only or individual financial reports for the most recent three fiscal years. This requirement, however, shall not apply if the parent company only or individual financial report for the most recent fiscal year shows net income after tax and such net income after tax is sufficient to make up the accumulated deficits.
+
+c. The insurance enterprise is required by the FSC to increase capital but fails to complete capital increase according to its proposed capital increase plan.
+
+C. The insurance enterprise, if a public company that has had an insufficient director or supervisor shareholding percentage stipulated in Article 2 of the Rules and Review Procedures for Director and Supervisor Share Ownership Ratios at Public Companies for three (3) consecutive months or longer during the most recent fiscal year, shall disclose the remuneration paid to each of the directors or supervisors.
+
+D. The insurance enterprise that has had an average ratio of share pledging by directors or supervisors in excess of 50% in any three months during the most recent fiscal year, shall disclose the remuneration paid to each of the directors or supervisors having a ratio of pledged shares in excess of 50% for each such month.
+
+E. If the total amount of remuneration received by all of the directors and supervisors in their capacity as directors or supervisors of the companies listed in the financial report exceeds 2% of the net income after tax, and the remuneration received by any individual director or supervisor exceeds NT$15 million, the insurance enterprise shall disclose the remuneration paid to that individual director or supervisor.
+
+F. If an insurance enterprise listed on the TWSE or the TPEx is ranked in within the lowest two tier in the corporate governance evaluation for the most recent fiscal year, or in the most recent fiscal year or up to the date of publication of the financial report for that year, the insurance enterprise's securities have been placed under an altered trading method, suspended from trading, delisted from the TWSE or the TPEx, or the Corporate Governance Evaluation Committee has resolved that the insurance enterprise shall be excluded from evaluation, the insurance enterprise shall disclose the remuneration paid to each individual director and supervisor.
+
+G. If the average annual salary of the full-time non-supervisory employees in a TWSE or TPEx listed insurance enterprise is less than NT$500,000 in the most recent fiscal year, the insurance enterprise shall disclose the remuneration paid to each individual director and supervisor.
+
+H. A TWSE or TPEx listed insurance enterprise had an increase of 10 percent or more in net profit after tax for the most recent fiscal year, but the average annual salary of its full-time non-management employees did not increase relative to the preceding fiscal year , the insurance enterprise shall disclose the remuneration paid to each individual director and supervisor.
+
+I. A TWSE or TPEx listed insurance enterprise had a decline in after-tax net income reaching 10 percent and exceeding NT$5 million for the most recent fiscal year, along with an increase in its average remuneration per director (not including the remuneration of those who are also employees) reaching 10 percent or more and exceeding NT$100,000 , the insurance enterprise shall disclose the remuneration paid to each individual director and supervisor.
+
+J. If the circumstance in item B.b or item F applies to an insurance enterprise listed on the TWSE or the TPEx, it shall disclose the individual remuneration paid to each of its top five management personnel.
+
+(2) Where the insurance enterprise’s chairperson, president (general manager), or any managerial officer in charge of finance or accounting matters has in the most recent year held a position at the accounting firm of its attesting CPA or at an affiliated enterprise of such accounting firm, the name and position of the person, and the period during which the position was held at the accounting firm, shall be disclosed.
+
+(3) The term "affiliated enterprise of the attesting CPA’s accounting firm" means one in which the accountant(s) at the accounting firm of the attesting CPA hold more than 50% of the shares, or of which such accountant(s) hold more than half of the directorships, or a company or institution listed as an affiliated enterprise in the external publications or printed materials of the accounting firm of the attesting CPA.
+
+(4) The term "affiliated enterprises" in this Subparagraph refers to those conforming with Article 369-1 of the Company Act.
+
+\3. Labor-management relations: (Form 10)
+
+(1) Report major employee benefit policies, professional development, training, or retirement programs and the status of their implementation, as well as agreements between labor and management and policies for safeguarding employees' rights and interests.
+
+(2) Report the loss sustained as a result of labor disputes in the most recent 3 fiscal years, together with the disclosure of an estimate of losses incurred to date or likely to be incurred in the future and the mitigation measures taken or to be taken. If the losses cannot be reasonably estimated, the insurance enterprise shall make a statement to that effect.
+
+(3) Describe any violation of the Labor Standards Act found during the labor inspection; including the disposition date, disposition reference No., provisions of the regulations breached, description of the violation, and the disposition.
+
+\4. Cyber security management:
+
+(1) Describe the cyber security risk management framework, cyber security policies, concrete management programs, and investments in resources for cyber security management.
+
+(2) List the losses suffered in the most recent facial year due to significant cyber security incidents, the possible impacts therefrom, and measures being or to be taken. If a reasonable estimate cannot be made, an explanation of the facts of why it cannot be made shall be provided.
+
+(3) Impact of cyber security risks on the Company’s finance and operations, and measures taken in response.
+
+\5. Changes in president (general manager), chief audit officer and actuaries in the most recent 2 years.
+
+\6. Changes in the method for allocation of all kinds of reserves.
+
+\7. The insurance enterprise had the situation in the most recent year where its shareholders’ meeting has adopted the resolution to carry out capital increase or decrease or its board of directors (council) has adopted the resolution to issue new shares but the application (or filing) was not approved (or approved for record) by the FSC, or where its application for capital change registration was not approved by the Ministry of Economic Affairs.
+
+\8. Cases of claim payment and claim recovery from reinsurer involving amount exceeding NT$20 million in the most recent 3 years and financial impact analysis therefor.
+
+\9. Names of reinsurers to whom the allocation of reinsurance premiums paid for gains or losses on reinsurance contracts held in the most recent year account for more than 1% of total insurance revenue and the credit rating of those reinsurers.
+
+\10. Where a credit rating agency has been engaged to rate the reinsurer, the name of the credit rating agency, and date and result of rating; if no credit rating agency is engaged, such fact shall be disclosed as well.
+
+#### Article 21
+
+An insurance enterprise shall disclose the market price of securities it has issued, its dividend payout and distribution of ownership:
+
+\1. Per share market price, net worth, earnings per share, dividends in the past 2 years, and related information. If shares are distributed in connection with a capital increase out of earnings or capital surplus, disclose further information on market prices and cash dividends retroactively adjusted based on the number of shares after distribution. (Form 11)
+
+\2. Dispersion of ownership: Describe the dispersion of ownership of common shares and preferred shares at balance sheet and provide a table that groups shareholders according to the number of shares held, and that further indicates the percentage of shares held by each different group. (Form 12)
+
+An insurance enterprise shall disclose any transfer of equity interests and/or pledge of or change in equity interests by a director, supervisor, managerial officer, or shareholder holding more than 10% of shares. Where the counterparty in any such transfer or pledge of equity interests is a related party, disclose in addition the counterparty's name, its relationship between that party and the company or the company's director, supervisor, and shareholder holding more than 10% of shares, and the number of shares transferred or pledged. (Form 13)
+
+If an insurance enterprise has been granted approval to issue securities by self registration, it shall disclose the approved amount and information regarding securities to be issued and already issued. (Form 14)
+
+#### Article 22
+
+An insurance enterprise shall disclose the following financial overview covering the most recent 5 years:
+
+\1. Condensed balance sheet and statement of comprehensive income. (Form 15)
+
+\2. Important financial ratios analysis. (Form 16)
+
+\3. Other significant information sufficient to enhance understanding of its financial position, financial performance and cash flows or trends of change (e.g. the effects of exchange rate fluctuation).
+
+#### Article 23
+
+An insurance enterprise shall review its financial position, financial performance, and cash flows and analyze reasons for changes, which shall cover at minimum the following:
+
+\1. Financial position: The reasons for, and impact of, any significant change over the most recent 2 fiscal years in its assets, liabilities, or equity. Where the impact is significant, describe further how the insurance enterprise plans to respond. (Form 17)
+
+\2. Financial performance: Analyze the components of profit or loss for continuing operations, important transactions, non-transaction matters and changes in economic environment that affect their changes in the most recent 2 fiscal years. When there is significant change in income or cost, describe the main reasons for the change. If major changes in operating policy, market condition or other internal or external factors that have already occurred or are expected to occur that will significantly increase or decrease the income or expenses of the continuing operations, describe the facts and impact thereof. (Form 18)
+
+#### Article 24
+
+An insurance enterprise shall disclose the amounts of the audit fees and non-audit fees paid to the CPA, and to the accounting firm  to which they belong and to any affiliated enterprises as well as the details of the non-audit services (Form 19), and disclose the following information regarding its CPA:
+
+1.An insurance enterprise with any of the following conditions shall disclose the following information:
+
+(1)When the insurance enterprise changes its accounting firm and the audit fees paid for the fiscal year in which the change took place are lower than those paid for the fiscal year immediately preceding the change, disclose the amount of the audit fees before and after the change and the reason for the change.
+
+(2)When the audit fees paid for the current fiscal year are lower than those paid for the immediately preceding fiscal year by 10% or more, disclose the amount and percentage of and reason for the reduction in audit fees.
+
+(3)The term “audit fees” referred to in Item (1) hereof means professional fees paid by the insurance enterprise to its CPA for audits, reviews, and secondary reviews of financial reports, reviews of financial forecasts, and tax certification.
+
+2.If an insurance enterprise changed its CPA during the most recent 2 years or any subsequent interim period, it shall disclose the following information: (Form 20)
+
+(1)Regarding the former CPA:
+
+A.Date of and reason for the change in CPA, together with a description of whether the CPA or the insurance enterprise terminated or discontinued the engagement.
+
+B.If the former CPA issued an audit report during the most recent 2 years containing an opinion other than an unqualified opinion, state the opinion and reason.
+
+C.Whether there were any disagreements between the insurance enterprise and the former CPA on:
+
+a.accounting principles or practices.
+
+b.financial and business report disclosure.
+
+c.auditing scope or procedure.
+
+d.If any such disagreements did exist, the insurance enterprise shall describe in detail the nature of each such disagreement, how the insurance enterprise addressed it (including whether the insurance enterprise has authorized the former CPA to respond fully to the inquiries of the successor CPA concerning such above-mentioned disagreements), and the final results.
+
+D.Disclose the following matters, if any:
+
+a.The former CPA once advised the insurance enterprise that it lacked the sound internal controls necessary to develop reliable financial reports
+
+b.The former CPA once advised the insurance enterprise that the CPA was unable to rely on the insurance enterprise’s written representations, or was unwilling to be associated with the issue of the insurance enterprise’s financial report.
+
+c.The former CPA once advised the insurance enterprise that the scope of the audit must be expanded, or there was information indicating that an expanded audit might impact the reliability of either a previously issued financial report or the financial report to be issued, but due to the change of the CPA or for any other reason, the former CPA did not expand the scope of the audit.
+
+d.The former CPA once advised the insurance enterprise that information has come to the CPA's attention that might impact the reliability of either a previously issued financial report or the financial report to be issued, but due to the change of the CPA or for any other reason, the former CPA did not address the issue.
+
+(2)Regarding the successor CPA:
+
+A.Names of the successor accounting firm and CPA, and date of engagement.
+
+B.If prior to the formal engagement of the successor CPA, the insurance enterprise consulted the new CPA regarding the accounting treatment of or application of accounting principles to a specific transaction, or the type of audit opinion that might be rendered on the insurance enterprise’s financial report, the insurance enterprise shall disclose the matters that were the subjects of those consultations and the consultation results.
+
+C.The insurance enterprise shall consult and obtain written views from the successor CPA regarding the matters on which the insurance enterprise disagreed with the former CPA, and disclose information on these views.
+
+(3)The insurance enterprise shall by letter provide the former CPA with a copy of the disclosures it is making in response to Item (1) and Item (2) C of Subparagraph 2 herein, and advise the CPA of the need to respond by letter within ten (10) days should the CPA disagree on any such matters. The insurance enterprise shall disclose the content of the reply letter from the former CPA.
+
+#### Article 25
+
+An insurance enterprise preparing and disclosing information on matters specified in this chapter shall request its CPA to issue a review opinion in accordance with the Directions for Review of Other Disclosures in Financial Reports.
+
+## Chapter IV Interim Financial Reports
+
+#### Article 26
+
+Interim financial reports shall include interim financial reports for each of the following periods:
+
+\1. Balance sheets as of the end of the current interim period, as of the end of the immediately preceding fiscal year, and as of the end of the comparable interim periods of the immediately preceding fiscal year.
+
+\2. Statements of comprehensive income for the current interim period, for the current fiscal year to the end of the current interim period, for the comparable interim periods of the immediately preceding fiscal year, and for the immediately preceding fiscal year to the end of the comparable interim periods.
+
+\3. Statement of changes in equity for the current fiscal year to date, with a statement of changes in equity for the same period of the immediately preceding fiscal year.
+
+\4. Statement of cash flows for the current fiscal year to date, with a statement of cash flows for the same period of the immediately preceding fiscal year.
+
+Interim financial reports shall disclose events or transactions of materiality that have occurred since the date of the end of the reporting period of the immediately preceding fiscal year; the disclosure shall be made in accordance with IAS 34, and shall include the following information:
+
+\1. Possible impact that the application of newly issued or revised standards or interpretations will have on the insurance enterprise, as required to be disclosed in accordance with IAS 8.
+
+\2. Qualitative and quantitative disclosure of risks arising from financial instruments, including credit risk, liquidity risk, and market risk, and management of such risks.
+
+\3. Aged analysis of accounts receivable, and changes in loss allowances.
+
+\4. Foreign-currency-denominated assets and liabilities that have significant influence, including the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items.
+
+\5. Sensitivity analysis of exchange rate risk for monetary items denominated in foreign currencies.
+
+## Chapter V Parent Company Only Financial Reports
+
+#### Article 27
+
+An insurance enterprise preparing parent company only financial reports shall apply accounting treatment conforming to the requirements of Chapter II of these Regulations, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method.
+
+The profit or loss during the period and other comprehensive income presented in parent company only financial reports shall be the same as the allocations of profit or loss during the period and of other comprehensive income attributable to owners of the parent presented in the financial reports prepared on a consolidated basis, and the owners' equity presented in the parent company only financial reports shall be the same as the equity attributable to owners of the parent presented in the financial reports prepared on a consolidated basis.
+
+#### Article 28
+
+An insurance enterprise preparing parent company only financial reports is not required to prepare segment information within the scope of IFRS 8.
+
+#### Article 29
+
+An insurance enterprise preparing parent company only financial reports shall prepare statements of major accounting items.
+
+The titles of the statements of major accounting items and forms therefor are as follows:
+
+\1. Statements of assets, liabilities and equity:
+
+(1) Statement of cash and cash equivalents. (Form 6 - 1)
+
+(2)Statement of notes receivable. (Form 6 - 2)
+
+(3)Statement of other receivables. (Form 6 - 3)
+
+(4) Statement of assets held for sale. (Form 6 - 4)
+
+(5)Statement of financial assets at fair value through profit or loss. (Form 6 - 5)
+
+(6)Statement of financial assets at fair value through other comprehensive income. (Form 6 - 6)
+
+(7)Statement of financial assets for hedging. (Form 6 - 7)
+
+(8)Statement of financial assets measured at amortized cost. (Form 6 - 8)
+
+(9)Statement of changes in investments accounted for using the equity method.(Form 6 - 9)
+
+(10)Statement of changes in accumulated impairment of investments accounted for using the equity method. (Form 6 - 10)
+
+(11)Statement of other financial assets. (Form 6 - 11)
+
+(12)Statement of changes in right-of-use assets (Form 6-12).
+
+(13)Statement of changes in accumulated depreciation of right-of-use assets (Form 6-13).
+
+(14)Statement of changes in accumulated impairment of right-of-use assets (Form 6-14).
+
+(15)Statement of changes in investment property. (Form 6- 15)
+
+(16)Statement of changes in accumulated depreciation of investment property. (Form 6- 16)
+
+(17)Statement of changes in accumulated impairment of investment property. (Form 6- 17)
+
+(18)Statement of loans made to others. (Form 6 -18)
+
+(19)Statement of change in property and equipment. (Form 6 - 19)
+
+(20)Statement of changes in accumulated depreciation of property and equipment. (Form 6 - 20)
+
+(21)Statement of changes in accumulated impairment of property and equipment. (Form 6 – 21)
+
+(22)Statement of changes in intangible assets. (Form 6 - 22)
+
+(23)Statement of deferred income tax assets. (Form 6 - 23)
+
+(24) Statement of other assets. (Form 6 - 24)
+
+(25)Statement of changes in accumulated impairment of other assets. (Form 6 - 25)
+
+(26)Statement of reconciliation for insurance contract assets and liabilities. (Form 6 - 26)
+
+(27)Statement of reconciliation for components of  insurance contract assets and liabilities (excluding the premium allocation approach). (Form 6 - 27)
+
+(28)Statement of reconciliation for assets for insurance acquisition cash flows. (Form 6 - 28)
+
+(29)Statement of the effects of insurance contracts issued that are initially recognized in the period. (Form 6 - 29)
+
+(30)Statement of the expected recognition of the contractual service margin in profit or loss for  the insurance contracts issued by time bands. (Form 6 - 30)
+
+(31)Statement of reconciliation for assets and liabilities of reinsurance contract held. (Form 6 - 31)
+
+(32)Statement of reconciliation for components of assets and liabilities of reinsurance contracts held (excluding the premium allocation approach). (Form 6 - 32)
+
+(33)Statement of the effects of reinsurance contracts held that are initially recognized in the period. (Form 6 - 33)
+
+(34)Statement of the expected recognition of the contractual service margin for the reinsurance contracts held. (Form 6 - 34)
+
+(35)Statement of assets on insurance products in separate accounts. (Form 6 - 35)
+
+(36)Statement of reconciliation for assets on insurance products of in separate accounts. (Form 6 - 36)
+
+(37)Statement of short-term borrowing. (Form 7 - 1)
+
+(38)Statement of notes payable. (Form 7 - 2)
+
+(39)Statement of other payables. (Form 7 - 4)
+
+(40)Statement of liabilities directly associated with assets held for sale. (Form 7 - 4)
+
+(41)Statement of financial liabilities measured at fair value through profit or loss. (Form 7 - 5)
+
+(42)Statement of financial liabilities measured at amortized cost. (Form 7 - 6)
+
+(43)Statement of changes in financial liabilities of investment contracts. (Form 7 - 7)
+
+(44)Statement of financial liabilities for hedging. (Form 7 - 8)
+
+(45)Statement of bonds payable. (Form 7 - 9)
+
+(46)Statement of preferred shares liability. (Form 7 - 10)
+
+(47)Statement of other financial liabilities. (Form 7 - 11)
+
+(48)Statement of changes in special reserves. (Form 7 - 12)
+
+(49)Statement of changes in special reserves (special reserves for catastrophic event and fluctuation of risk). (Form 7 - 13)
+
+(50)Calculation of special reserves (special reserves for catastrophic event and fluctuation of risk) allocated. (Form 7 - 14)
+
+(51)Calculation of special reserves (special reserves for catastrophic event and fluctuation of risk) recovered. (Form 7 - 15)
+
+(52)Statement of changes in other reserves. (Form 7 - 16)
+
+(53)Statement of provisions. (Form 7 - 17)
+
+(54)Statement of lease liabilities (Form 7-18)
+
+(55)Statement of deferred tax liabilities. (Form 7 -19)
+
+(56)Statement of other liabilities. (Form 7 - 20)
+
+\2. Statements of profit or loss items:
+
+(1)Statement of insurance revenue. (Form 8 - 1)
+
+(2)Statement of insurance service expenses. (Form 8 - 2)
+
+(3)Statement of income or expenses from reinsurance contracts held. (Form 8 - 3)
+
+(4)Statement of interest income. (Form 8 - 4)
+
+(5)Statement of gain (loss) on financial assets and liabilities at fair value through profit or loss. (Form 8 - 5)
+
+(6)Statement of realized gain (loss) on financial assets at fair value through other comprehensive income. (Form 8 -6)
+
+(7)Statement of gain (loss) from derecognition of financial assets measured at amortized cost. (Form 8 - 7)
+
+(8)Statement of share of profit (loss) of associates and joint ventures accounted for using equity method. (Form 8 - 8)
+
+(9)Statement of foreign exchange gain (loss). (Form 8 - 9)
+
+(10)Statement of gain (loss) on investment property. (Form 8 - 10)
+
+(11)Statement of expected credit loss and reversal on investment. (Form 8 - 11)
+
+(12)Statement of other impairment loss and reversal on investment. (Form 8 - 12)
+
+(13)Statement of insurance finance income or expenses. (Form 8 - 13)
+
+(14)Statement of finance income or expenses reinsurance contracts held. (Form 8 - 14)
+
+(15)Statement of net income on assets on insurance products in separate accounts. (Form 8 - 15)
+
+(16)Statement of other net investment gains (losses). (Form 8 - 16)
+
+(17)Statement of other operating income or cost. (Form 8 - 17)
+
+(18)Statement of other income and expense - net. (Form 8 - 18)
+
+(19)Statement of finance costs. (Form 8 - 19)
+
+(20)Statement of other operating expenses. (Form 8 - 20)
+
+(21)Summary of employee benefits, depreciation, depletion and amortization expenses by functional account. (Form 8 - 21)
+
+(22)Statement of non-operating income and expenses. (Form 8 - 22)
+
+An insurance enterprise may determine, having regard to the concept of materiality, whether or not to separately present the schedules of assets, liabilities and equity described in Subparagraph 1 of the preceding paragraph.
+
+## Chapter VI Consolidated Financial Statements and Business Combination
+
+#### Article 30
+
+An insurance enterprise shall prepare and present consolidated business reports and consolidated financial statements of affiliates as well as affiliation reports in accordance with the Criteria Governing Preparation of Affiliation Reports, Consolidated Business Reports and Consolidated Financial Statements of Affiliated Enterprises adopted by the FSC.
+
+If the entities that must be included in consolidated financial statements of affiliates pursuant to the Criteria Governing Preparation of Affiliation Reports, Consolidated Business Reports and Consolidated Financial Statements of Affiliated Enterprises are entirely the same as those that IFRS 10 requires to be included in preparing the consolidated financial report covering the parent and its subsidiaries, and if the required disclosures to be made in the consolidated financial statements of affiliates are already made in the consolidated financial report covering the parent and its subsidiaries, an insurance enterprise is not required to prepare a consolidated financial statements of affiliates, provided that a statement to that effect is made and presented on the front page of the consolidated financial report.
+
+#### Article 30-1
+
+When an insurance enterprise undergoes business combination, it shall determine the actual acquirer and whether it is an actual transfer of control in accordance with IFRS 3. Unless otherwise provided, it shall measure the acquiree's identifiable assets and liabilities at fair value on the date of acquisition, and recognize goodwill or a gain from a bargain purchase. The date of acquisition is the date on which the acquirer obtains control of the acquiree.
+
+If any investment property or interest in joint operations that the insurance enterprise acquires and obtains constitutes a "business" as defined under IFRS 3, it shall be handled in accordance with the preceding paragraph.
+
+When an insurance enterprise undergoes business combination and acquires insurance contracts or reinsurance contracts held within the scope of IFRS 17, it shall measure the liabilities or assets in accordance with IFRS on the acquisition date. If acquired insurance contracts issued are onerous, the insurance enterprise shall recognize them as part of goodwill or gain on a bargain purchase (for contracts acquired in a business combination within the scope of IFRS 3), or as a loss in profit or loss (for contracts acquired in a transfer).
+
+#### Article 30-2
+
+Goodwill which is recognized in connection with a business combination of an insurance enterprise shall be tested for impairment at least annually in accordance with IAS 36. If there is any significant difference between the actual operation conditions of the acquired company after the business combination and the expected benefits at the time of acquisition, it shall be disclosed in the Notes.
+
+## Chapter VII First-time Adoption (Deleted)
+
+#### Article 31
+
+(Deleted)
+
+#### Article 32
+
+(Deleted)
+
+#### Article 33
+
+(Deleted)
+
+## Chapter VIII Joint Arrangements
+
+#### Article 34
+
+Joint arrangements are either joint operations or joint ventures, and have the following characteristics:
+
+\1. All of the parties are bound by a contractual arrangement.
+
+\2. The contractual arrangement gives two or more of those parties joint control of the arrangement.
+
+When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses of the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
+
+When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Subparagraph 9, Paragraph 3 of Article 9 and IAS 28.
+
+## Chapter IX Supplementary Provisions
+
+#### Article 35
+
+For excess interest expense incurred by an insurance enterprise from providing its retired employees preferential savings rate in excess of market rate in accordance with its internal rules or employment contract and for long-term severance benefits paid by the post office to its employees of simple life insurance business, IAS 19 – Employee Benefits applies immediately when the employee retires.
+
+#### Article 36
+
+Unless it is approved or otherwise prescribed by the competent authority, an insurance enterprise shall observe the following provisions with regard to its financial reports:
+
+\1. Within 75 days after the end of each fiscal year, prepare consolidated and parent company only financial reports in accordance with these Regulations, have the reports audited and certified by a CPA, passed by the board of directors (council) and acknowledged by the supervisors, and then submit them to the competent authority. In the case of a domestic insurance enterprise, the insurance enterprise shall also have the reports acknowledged in its shareholders’ meeting and then submit them to the competent authority for record within fifteen (15) days afterwards. However a non-public insurance enterprise that is the subsidiary of a financial holding company shall complete the preparation of its financial report and submit it to the competent authority within 3 months after the end of each fiscal year.
+
+\2. Within 2 months after the end of each half fiscal year, prepare consolidated and parent company only financial reports in accordance with these Regulations and have the reports audited and certified by a CPA, passed by the board of directors (council) and acknowledged by the supervisors.
+
+\3. Within 45 days after the end of the first quarter and the third quarter, prepare a financial report in accordance with these Regulations and have it reviewed by a CPA and submit it to the board of directors (council).
+
+#### Article 37
+
+The financial report and related attachments that a publicly held insurance enterprise is required to file under Article 36 of the Securities and Exchange Act shall be separately bound and submitted to the FSC Securities and Futures Bureau. If the stock of the insurance enterprise is listed on the stock exchange, a copy shall also be sent to Taiwan Stock Exchange Corporation; if the stock of the insurance enterprise is traded over-the-counter, a copy shall also be sent to Taipei Exchange.
+
+The forms for affiliates that a publicly held insurance enterprise is required to prepare in accordance with the Criteria Governing Preparation of Affiliation Reports, Consolidated Business Reports and Consolidated Financial Statements of Affiliated Enterprises as well as documents required to file in accordance with Article 6 herein shall also be filed with a copy sent to the relevant organizations in accordance with the preceding paragraph.
+
+#### Article 38
+
+An insurance enterprise shall submit financial and business reports in accordance with these Regulations, and in addition, compile information on its business and financial conditions according to the prescribed format and content, and report the information to the competent authority or an institution designated by the competent authority within the time period prescribed by the competent authority.
+
+Information on investment-linked insurance products shall be filled out in the forms and in a format prescribed by the competent authority.
+
+#### Article 39
+
+These Regulations shall come into force from the date of promulgation, with the exception of Article 2, Article 4, Article 6, Paragraph 1 of Article 7, Articles 8 ~ 11, Item (4)-G of Subparagraph 1, Subparagraphs 10, 13 and 14 of Paragraph 4 of Article 12, Article 13, Article 15, Subparagraph 2, Paragraph 1 of Article 17, Article 19, Article 26, Article 27, Article 30, and Article 34 amended and promulgated on October 21, 2014, which shall come into force from fiscal year 2015 on, articles amended and promulgated on January 24, 2017, which shall come into force from fiscal year 2017 on, articles amended and promulgated on August 23, 2017, which shall come into force from fiscal year 2018 on, subparagraphs 11 and 12 of Paragraph 3, and Paragraph 6 of Article 9, Article 10, Article 15, Article 29, and Form 1 of Article 19 amended and promulgated on July 30, 2018, which shall come into force from fiscal year 2019 on, articles amended and promulgated on March 24 and May 11, 2020, which shall come into force from fiscal year 2020 on, and articles amended and promulgated on November 18, 2021, which shall come into force from fiscal year 2022 on , Article 6 and Article 9, amended and promulgated on December 29, 2022, which shall come into force from fiscal year 2023 on, articles amended and promulgated on November 8, 2023, which shall come into force from fiscal year 2026 on, Subparagraph 9 of Article 20 amended and promulgated on January 23, 2024, which shall come into force from fiscal year 2026 on, Article 9, Article 17, Subparagraph 9 of Article 20, Form 5-3 of Article 19, and Form 16 of Article 22 amended and promulgated on December 26, 2025, which shall come into force from fiscal year 2026, and  Subparagraph 5 of Article 17 deleted under the old Act, which  shall come into force in fiscal year 2025, Article 12, and Form 8-9 of Article 29 amended and promulgated on February 5, 2026, which shall come into force from fiscal year 2026.
+
+## History
+
+\1. All 32 articles were promulgated on December 30, 2009 per Order Ref. Jin-Kuan-Bao-Tsai 09802506492 of the Financial Supervisory Commission. Enforce from January 1, 2011.
+
+\2. All 37 articles were amended on August 23, 2011 per Order Ref. Jin-Kuan-Bao-Tsai 10002511792 of the Financial Supervisory Commission. Except for Paragraph 1 of Article 34, which shall enter into force on January 1, 2012, all other provisions shall enter into force on January 1, 2013.
+
+\3. Part of articles amended on December 29, 2011 per Order Ref. Jin-Kuan-Bao-Tsai 10002519491 of the Financial Supervisory Commission. The amendments shall enter into force on January 1, 2013.
+
+\4. Part of articles amended on February 7, 2012 per Order Ref. Jin-Kuan-Bao-Tsai 10102501571 of the Financial Supervisory Commission. The amendments shall enter into force on March 1, 2012.
+
+\5. Part of articles amended on January 10, 2014 per Order Ref. Jin-Kuan-Bao-Tsai 10202513451 of the Financial Supervisory Commission. Except for Subparagraph 13 of Paragraph 3 of Article 9 and Paragraph 5 of Article 32, which shall apply from January 1, 2014, the amendments shall enter into force from the date of promulgation.
+
+\6. All 39 articles were amended on October 21, 2014 per Order Ref. Jin-Kuan-Bao-Tsai 10302507621 of the Financial Supervisory Commission. Except for Articles 2, 4, 6, Paragraph 1 of Article 7, Articles 8 to 11, Item 7 of Subparagraph 4 of Paragraph 4 of Article 12, Subparagraphs 10, 13, and 14 of Paragraph 4 of Article 12, Article 13, Article 15, Subparagraph 2 of Paragraph 1 of Article 17, Article 19, Article 26, Article 27, Article 30, and Article 34, which shall apply from the fiscal year 2015, all other provisions shall enter into force from the date of promulgation.
+
+\7. Part of articles amended on January 24, 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10502505671 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2017.
+
+\8. Part of articles amended on 23 August 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10602502861 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2018.
+
+\9. Part of articles amended on 30 July 2018 per Order Ref. Jin-Kuan-Bao-Tsai 10704503371 of the Financial Supervisory Commission. Except for Subparagraphs 11 and 12 of Paragraph 3 of Article 9, Paragraph 6 of Article 9, Articles 10, 15, and 29, and Form 1 of Article 19, which shall apply from the fiscal year 2019, all other amendments shall enter into force from the date of promulgation.
+
+\10. Article 15, Article 20, and Article 24, as well as Form 16 of Article 22 and Form 8-20 of Article 29 amended on 15 February 2020 per Order Ref. Jin-Kuan-Bao-Tsai 10904902551 of the Financial Supervisory Commission.
+
+\11. Articles 17, Article 39 and Form 21 of Article 17 amended on 24 March 2020 per Order Ref. Jin-Kuan-Bao-Tsai 10904907871 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2020.
+
+\12. Articles 6, Article 9, and Article 39 amended on 11 May 2020 per Order Ref. Jin-Kuan-Bao-Tsai 10904917641 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2020.
+
+\13. Form 16 of Article 22 and Form 8-20 of Article 29 amended and issued per 21 December 2020 Order No. Jin-Kuan-Bao-Tsai 10904947571 of the Financial Supervisory Commission.
+
+\14. Article 36 and Article 39 amended and issued on 18 November 2021 per Order No. Ref. Jin-Kuan-Bao-Tsai 11004943871 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2022.
+
+\15. Article 20, Article 24, Form 11 of Article 21 and Form 15 of Article 22 amended and issued on 16 February 2022 per Order No. Ref. Jin-Kuan-Bao-Tsai 11104904971 of the Financial Supervisory Commission.
+
+\16. Article 4, Article 6, Article 9, Article 14, Article 15, Article 16, Form 11 of Article 21 and Form 15 of Article 22 amended and issued on 29 December 2022 per Order No. Ref. Jin-Kuan-Bao-Tsai 11104953451 of the Financial Supervisory Commission. Except for Articles 6 and 9, which shall apply from the fiscal year 2023, all other amendments shall enter into force from the date of promulgation.
+
+\17. Part of articles amended and issued on 8 November 2023 per Order No. Ref. Jin-Kuan-Bao-Tsai 11204937102 of the Financial Supervisory Commission. The amendments shall apply from the fiscal year 2026.
+
+\18. Article 20, Article 39 and Form 9 of Article 20 amended and issued on January 23, 2024 per Order No. Ref. Jin-Kuan-Bao-Tsai 11304900901 of the Financial Supervisory Commission. Except for Subparagraph 9 of Article 20, which shall apply from the fiscal year 2026, all other amendments shall enter into force from the date of promulgation.
+
+19.Article 9, Article 17, Subparagraph 9 of Article 20, Form 5-3 of Article 19, and Form 16 of Article 22 amended and issued on December 26, 2025 per Order No. Ref. Jin-Kuan-Bao-Tsai 11404950261 of the Financial Supervisory Commission. Pursuant to Article 39, except for Article 9, Article 17, Subparagraph 9 of Article 20, Form 5-3 of Article 19, and Form 16 of Article 22, which shall apply from the fiscal year 2026, and the deletion of Subparagraph 5 of Article 17 of the existing provisions, which shall apply from the fiscal year 2025, all other amendments shall enter into force from the date of promulgation.
+
+20.Article 12, and Form 8-9 of Article 29 amended and issued on February 5, 2026 per Order No. Ref. Jin-Kuan-Bao-Tsai 11504903801 of the Financial Supervisory Commission. Pursuant to Article 39, except for Article 12 and Form 8-9 of Article 29, which shall apply from the fiscal year 2026, all other amendments shall enter into force from the date of promulgation.

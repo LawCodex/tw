@@ -1,0 +1,266 @@
+---
+title: "Effluent Standards"
+title_zh: "放流水標準"
+identifier: "O0040004"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞水質保護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-05-05
+last_amended: 2024-12-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040004"
+retrieved: 2026-10-12
+---
+
+# Effluent Standards
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0040004-effluent-standards.md](../../../zh/regulations/ministry-of-environment/O0040004-effluent-standards.md)) is authoritative.
+
+## Article 1
+
+The Standards are established pursuant to Article 7, Paragraph 2 of the Water Pollution Control Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The water quality items and limits for the effluent standards of the enterprises, sewage systems and building sewage treatment facilities are specified below:
+
+I. Enterprises
+
+(I) Wafer and semiconductor manufacturing industry: Table 1.
+
+(II) Optoelectronic materials and components manufacturing industry: Table 2.
+
+(III) Petrochemical industry: Table 3.
+
+(IV) Chemical engineering industry: Table 4.
+
+(V) Primary metal industry, metal finishing industry, electroplating industry, and PCB manufacturing industry: Table 5.
+
+(VI) Power plant: Table 6.
+
+(VII) Seawater desalination plant : Table 7.
+
+(VIII) Industries other than those referred to in the preceding 7 subparagraphs: Table 8.
+
+II. Sewage systems
+
+(I) Dedicated sewage systems in science parks: Table 9.
+
+(II) Dedicated sewage systems in petrochemical industrial parks: Table 10.
+
+(III) Dedicated sewage systems in other industrial parks: Table 110.
+
+(IV) Dedicated sewage systems in communities: Table 12.
+
+(V) Dedicated sewage systems in other specified areas or places: Table 13.
+
+(VI) Public sewage systems: Table 14.
+
+III. Building sewage treatment facilities: Table 15.
+
+For the wastewater or sewage that an enterprise or sewage system discharges into a special receiving water body in the total quantity control zone (hereinafter referred to as the “Total Quantity Control Zone”) of a water body for farmlands that must be protected as announced by the special municipality, county or city competent authority, the requirements of Table 16 shall be applicable to the limits of copper, zinc, total chromium, nickel, cadmium and hexavalent chromium in such wastewater or sewage. However, the requirements of Table 16 are not applicable in case enterprises or sewage systems located in the Total Quantity Control Zone do not discharge wastewater or sewage into a receiving water body in the Total Quantity Control Zone.
+
+Where other effluent standards are established for any industries or any enterprises, sewage systems and building sewage treatment facilities in the Total Quantity Control Zone, or the special municipality, county or city competent authority additionally establishes or more strictly revises the effluent standards in the area under their respective administration power pursuant to Article 7, Paragraph 2 of the Act, such effluent standards shall apply.
+
+## Article 2-1
+
+Requirements of Table 9 shall apply in case the permitted and approved sewer-connected water volume for the petrochemical and chemical engineering industries with respect to a sewage system in an industrial park reaches more than fifty percent of the permitted and approved discharge volume. Requirements of Table 10 shall apply in case such permitted and approved sewer-connected water volume for the petrochemical and chemical engineering industries does not reach fifty percent of the permitted and approved discharge volume.
+
+The wastewater (sewage) discharged from seawater desalination plants is subject to the following effluent standards:
+
+I. When seawater is treated as raw water and brine, filtering and backwashing wastewater, membrane cleaning wastewater or other mixed treatment wastewater with regard to desalination is discharged, Table 7 shall apply.
+
+II. When the produced wastewater (sewage) is discharged through marine discharge pipes to the ocean, the Marine Discharge Pipe Effluent Standards shall apply.
+
+## Article 3
+
+Enterprises and the associations to which the enterprises belong or any environmental protection groups may put forward scientific data or information at any time as a reference for review and amendment.
+
+## Article 4
+
+The COD limits specified in the Standards shall be tested using the potassium dichromate oxidation method; the true color shall be tested using the true color colorimetry.
+
+## Article 5
+
+Terms used in the Standards shall be defined below:
+
+I. Total toxic organics: means the total concentration of 30 compounds: 1,2-Dichlorobenzene, 1,3-Dichlorobenzene, 1,4-Dichlorobenzene, 1,2,4-Trichlorobenzene, Toluene, Benzen, Chloroform, 1,2-Dichloroethane, Dichloromethane, 1,1,1-Trichloroethane, 1,1,2-Trichloroethane, Bromodichloromethane, Perchloroethylene, Trichloroethylene, 1,1-Dichloroethene, 2-Chlorophenol, 2,4-Dichlorophenol, 4-Nitrophenol, Pentachlorophenol, 2-Nitrophenol, Phenol, 2,4,6-Trichlorophenol, Bis(2-ethylhexyl)phthalate, Dibutyl phthalate, Benzyl butyl phthalate, Anthanthrene, 1,2-Diphenylhydrazine, Isophorone, Carbon tetrachloride and Naphthalene.
+
+II. Processes of high nitrogen connection in the petrochemical industry: means the following processes that uses nitrogen and produces wastewater with a volume reaching more than forty percent of the permitted and approved discharge volume:
+
+(I) Nitrogen trifluoride and electronic-grade liquid ammonia manufacture process.
+
+(II) Chemical manufacture process of methyl methacrylate (MMA).
+
+(III) Acrylonitrile manufacture process.
+
+(IV) Chemical manufacture process of acrylonitrile-butadiene (AB).
+
+(V) Chemical manufacture process of acrylonitrile-butadiene-styrene (ABS).
+
+(VI) Chemical manufacture process of acrylonitrile-butadiene-styrene (AS).
+
+(VII) Caprolactam manufacture process.
+
+(VIII) Chemical manufacture process of ammonium sulfate.
+
+(IX) Polyamide (Nylon) manufacture process.
+
+III. Processes of high nitrogen connection in the chemical engineering industry: means the following processes that uses nitrogen and the chemical engineering industry that produces wastewater with a volume reaching more than forty percent of the permitted and approved discharged volume:
+
+(I) Chemical manufacture process of ammonium.
+
+(II) Nitrogenous fertilizer manufacture process.
+
+(III) Chemical manufacture process of ammonium fertilizer.
+
+(IV) Ammonium phosphate fertilizer manufacture process.
+
+(V) Compound fertilizer with nitrogen manufacture process.
+
+(VI) Nitrogen trifluoride manufacture process.
+
+(VII) Chemical manufacture process of ammonium sulfate.
+
+(VIII) Chemical manufacture process of ethylenediamine tetraacetate (EDTA).
+
+(IX) Other Ammonia-bearing compounds manufacture process.
+
+(X) Acrylonitrile manufacture process.
+
+(XI) Chemical manufacture process of urea.
+
+(XII) Aniline manufacture process.
+
+(XIII) Caprolactam manufacture process.
+
+(XI) Chemical manufacture process of ethanolamine.
+
+(XV) Chemical manufacture process of acid amine.
+
+(XVI) Other synthetic amine and nitrile compounds manufacture process.
+
+(XVII) Chemical manufacture process of Methyl methacrylate (MMA).
+
+(XVIII) Urethane manufacture process.
+
+(XIX) Urea formaldehyde resin manufacture process.
+
+(XX) Melamine resin manufacture process.
+
+(XXI) Polyacrylonitrile (PAN) fiber manufacture process.
+
+(XXII) Polyamide (nylon) manufacture process.
+
+(XXIII) Chemical manufacture process of acrylonitrile-butadiene copolymer (AB).
+
+(XXIV) Chemical manufacture process of acrylonitrile-butadiene-styrene copolymer (ABS).
+
+(XXV) Chemical manufacture process of acrylonitrile-styrene copolymer copolymer (AS).
+
+(XXVI) Dye manufacture process (Azo dyes).
+
+(XXVII) Coke manufacture process, including coke and its by-product, beehive coke, fluidized coke and petroleum coke manufacturing process.
+
+IV. Dioxin: The test value is calculated as the product of the measured concentrations of 17 compounds, including 2,3,7,8-tetrachlorinated dibenzo-p-dioxin-2,3,7,8-TeCDD, 2,3,7,8-tetrachlorinated dibenzofuran,2,3,7,8-TeCDF and 2,3,7,8- penta-, hexa-, hepta-, and octa-chlorinated dioxins and furans multiplied by the international dioxin toxic equivalency factors (I-TEF), and is expressed as Toxicity Equivalency Quantity (TEQ) of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin quantity.
+
+V. Total organophosphates: Total amount of the 29 compounds, Methamidophos, Phosdrin (Mevinphos), Demeton-s-methyl, Ethoprophos, Monocrotophos, Phorate, Dimethoate, Terbufos, Diazinon, Dyfonate, Disulfoton, Methyl Parathion, Pirimifos-methyl, Fenitrothion, Malathion, Chlorpyrifos, Fenthion, Parathion, Bromophos-methyl, Phenthoate, Bromophos-ethyl, Methidathion, Prothiofos, Ethion, Triazophos, Carbophenothion, EPN, Phosalone and Azinphos-methyl.
+
+VI. Total carbamates: Total amount of the 9 compounds, Fenobucarb, Carbofuran, Methomyl, Undam, Isoprocarb, Oxamyl, Aldicarb, Carbaryl and Mercaptodimethur.
+
+VII. Herbicides: Total amount of the 7 compounds, Butachlor, Paraquat, 2,4-D, Alachlor, Chlornitrofen, Imazapyr, Glyphosate and Diquat.
+
+VIII. 7-Day average: Sampling every 4 to 8 hours and do 4 samples a day. Combining those 4 samples into 1 for analyzing and take the arithmetic mean of those samples from 7 continuous days.
+
+## Article 6
+
+The limits of all the items, except for the hydrogen ion concentration index defined as a range, are defined as a maximum allowed value with the following measuring units:
+
+I. Hydrogen ion concentration index: No unit.
+
+II. True color: No unit.
+
+III. Coliform group: CFU/100mL.
+
+IV. Dioxin: pg I-TEQ/L.
+
+V. Other items: mg/L.
+
+## Article 7
+
+The limits of all the items, except for water temperature and hydrogen ion concentration index, of the non-contact cooling water that enterprises or sewage systems take from a water body and use it for cooling or circulation purpose are not subject to the Standards if it is discharged into the surface water body in the original water intake area.
+
+## Article 8
+
+In the event that enterprises, sewage systems, or building sewage treatment facilities belong to two or more industry types within the scope of the Standards or to a single industry type but have different processes, the combined treatment and discharge of wastewater shall conform to the effluent standards for each of the concerned industry types. If different control limits are available for the same control item, the stricter limit shall apply. In the event that the flow of wastewater from one of the industry types in the preceding paragraph is at least 75% of the total flow of wastewater, and that independent and exclusive cumulative water measuring facilities have been installed, an application may be submitted to the competent authority for the use of the effluent standards of concerned industry type as the basis of control for all common items.
+
+The percentage of the flow of wastewater in the preceding paragraph shall be calculated in accordance with the records of the six months prior to the date of application.
+
+## Article 9
+
+The Standards come into force on the promulgation date unless any other enforcement date is specified.
+
+## Attachments
+
+- [Table 1 Water quality items and limits of discharge from the wafer and semiconductor manufacturing industry.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009010)
+- [Table 2 Water quality items and limits of discharge from the optoelectronic materials and components manufacturing industry.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009011)
+- [Table 3 Water quality items and limits of discharge from the petrochemical industry.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009012)
+- [Table 4 Water quality items and limits of discharge from the chemical engineering industry.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009013)
+- [Table 5 Water quality items and limits of discharge from the primary metal industry, metal finishing industry, electroplating industry, and PCB manufacturing industry.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009014)
+- [Table 6 Water quality items and limits of discharge from power plants.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009015)
+- [Table 7 Water quality items and limits of discharge from seawater desalination plants.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009016)
+- [Table 8 Water quality items and limits of discharge from all industries.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009017)
+- [Table 9 Water quality items and limits of discharge from dedicated sewage systems in science parks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009018)
+- [Table 10 Water quality items and limits of discharge from dedicated sewage systems in petrochemical industrial parks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009019)
+- [Table 11 Water quality items and limits of discharge from dedicated sewage systems in other industrial parks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009020)
+- [Table 12 Water quality items and limits of discharge from dedicated sewage systems in communities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009021)
+- [Table 13 Water quality items and limits of discharge from dedicated sewage systems in other specified areas or sites.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009022)
+- [Table 14 Water quality items and limits of discharge from public sewage systems.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009023)
+- [Table 15 Water quality items and limits of discharge from building sewage treatment facilities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009024)
+- [Table 16.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009025)
+
+## History
+
+1.Original 4 articles promulgated by Department of Health Order Wei-Shu-Huan-Tzu No. 654798 on May 5, 1987.
+
+2.Revisions promulgated by EPA Order (80) Huan-Shu-Fa-Tzu No. 00359 on January 16, 1991.
+
+3.Revisions promulgated by EPA Order (80) Huan-Shu-Fa-Tzu No. 46873 on November 29, 1991.
+
+4.Revisions promulgated by EPA Order (86) Huan-Shu-Shui-Tzu No. 09953 on March 19, 1997.
+
+5.Revisions promulgated by EPA Order (86) Huan-Shu-Shui-Tzu No. 78804 on December 24, 1997.
+
+6.Revisions to Article 6 promulgated by EPA Order (88) Huan-Shu-Shui-Tzu No. 0060545 on September 22, 1999.
+
+7.Revisions to original eight articles promulgated by EPA Order (89) Huan-Shu-Shui-Tzu No. 0004191 on February 9, 2000.
+
+8.Revisions to Articles 2 and 6 promulgated by EPA Order (90) Huan-Shu-Shui-Tzu No. 0004055 on February 7, 2001.
+
+9.Revisions to Article 2 promulgated by EPA Order (90) Huan-Shu-Shui-Tzu No. 0069097 on November 21, 2001.
+
+10.Revisions to Article 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 09200847 on November 26, 2003.
+
+11.Revisions to original eight articles promulgated by EPA Order Huan-Shu-Shui-Tzu No. 0960065740 on September 3, 2007.
+
+12.Revisions to Articles 2 and 6 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 0980065341 on July 28, 2009.
+
+13.Nine articles promulgated by EPA Order Huan-Shu-Shui-Tze No. 0990112348F on December 15, 2010.
+
+14.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 10000103860 on December 1, 2011.
+
+15.Revisions to Articles 2,5 and 6 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1010090770 on October 12, 2012.
+
+16.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1030005842 on January 22, 2014.
+
+17.Revisions to Articles 2 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1040110356 on January 6, 2016.
+
+18.Revisions to Articles 2, 2-1 and 5 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1060101625 on December 25, 2017.
+
+19.Revisions to Articles 2 and 2-1 promulgated by EPA Order Huan-Shu-Shui-Tzu No. 1080028628 on April 29, 2019.
+
+20.Revisions to Tables 1 to 11, 14, and 15 annexed to Article 2, promulgated by MOENV Order Huan-Bu-Shui-Tzu No. 1131081975 on December 18, 2024.

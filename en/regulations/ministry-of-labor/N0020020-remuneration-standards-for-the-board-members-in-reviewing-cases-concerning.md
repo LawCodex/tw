@@ -1,0 +1,85 @@
+---
+title: "Remuneration Standards for the Board Members in Reviewing Cases Concerning Unfair Labor Practices"
+title_zh: "不當勞動行為裁決委員案件審理給付報酬標準"
+identifier: "N0020020"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動關係目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-06-09
+last_amended: 2023-08-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0020020"
+retrieved: 2026-10-12
+---
+
+# Remuneration Standards for the Board Members in Reviewing Cases Concerning Unfair Labor Practices
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0020020-remuneration-standards-for-the-board-members-in-reviewing-cases-concerning.md](../../../zh/regulations/ministry-of-labor/N0020020-remuneration-standards-for-the-board-members-in-reviewing-cases-concerning.md)) is authoritative.
+
+## Article 1
+
+The Standards are prescribed in accordance with Paragraph 3 to Article 46 of the Act for Settlement of Labor-Management Disputes (here-in-after referred to as the Act).
+
+## Article 2
+
+When a member of the Board conducts preliminary review of case(s) based on Paragraph 2 of Article 14 of the Regulations for Decision on the Unfair Labor Practices (hereinafter referred to as the Regulations), he/she shall be paid NT$1,525.
+
+When a member of the Board based on Paragraph 3 of Article 14 of the Regulations attends a meeting for preliminary review of case(s) where the parties concerned are present to provide explanation, he/she shall be paid NT$2,500 for each meeting.
+
+## Article 3
+
+When a member of the Board conducts a fact-finding procedure, he/she shall be paid NT$2,500 per investigation meeting on the case and shall be paid no more than N.T.$ 10,000 for each case.
+
+## Article 4
+
+When a member of the Board convenes a meeting in accordance with Articles 44 to 46 of the Act, he/she may be paid transportation fees and accommodation fees after verification by referring to the Directions on the Application and Payment of Travel Grants in Domestic Areas.
+
+## Article 5
+
+A board member assigned to conduct a fact-finding shall in person write the fact-finding report and shall be paid, and the payment for the writing is calculated on the basis of NT$1,350 for one thousand Chinese characters.
+
+A board member shall in person write the suggestions for a decision and shall be paid, and the payment for the writing is calculated on the basis of NT$2,300 for one thousand Chinese characters.The total payment for writing a fact-finding report and the suggestions for a decision of each case shall be no more than NT$35,000, and the borad member shall write the decision award in accordance with the decision of the Board.
+
+The board may, if necessary, assign a member to write the decision award referred to in the preceding paragraph, and the payment for the writing is NT$2,000 each case.
+
+## Article 6
+
+When a board member attends the Board meeting, he/she shall be paid NT$2,500 for each meeting.
+
+## Article 7
+
+The Chair of the Board shall be paid NT$8,500 per month on a part-time basis for assigning cases and handling all related businesses.
+
+## Article 8
+
+When a standing member of the Board reviews the comments, records of investigation, reports of investigation, and proposals for decisions and rulings of the preliminary review in accordance with Paragraph 2 of Article 14, Paragraph 3 of Article 22, and Paragraph 3 of Article 27 of the Regulations, he/she shall be paid NT$1,525 for each review.
+
+The fees for the review of records of investigation stipulated in the preceding Paragraph shall not be paid more than four times for each case.
+
+When a standing member of the Board attends the consultation meeting on the decision system for unfair labor practices, decision cases, or administrative remedies, he/she shall be paid NT$2,500 for each meeting.
+
+## Article 9
+
+The expenditures prescribed in the Standards shall be paid by the Central Competent Authority from its budget.
+
+## Article 10
+
+The Standards shall become effective on Jan. 1, 2023.
+
+## History
+
+1.Prescribed and promulgated a total nine articles by the Council of Labor Affairs, Executive Yuan Order No. 1000125932 on June 9, 2011, and become effective on May 1, 2011
+
+2.Amended on December 27, 2012
+
+3.Articles 2, 3, 6 and 9, as amended, were promulgated by the Order No. Lao-Dong-Guan-4-Zi-1070127094 dated June 20, 2018 from Ministry of Labor and shall become effective on Jan. 1, 2018
+
+4.Articles 7 and 9, as amended, were promulgated by the Order No. Lao-Dong-Guan-4-Zi-1080125823 dated April 2, 2019 from Ministry of Labor and shall become effective on Jan. 1, 2019.
+
+5.Articles 2 and 9, as amended, and Article 7-1, as added, were promulgated by Order No. Lao-Dong-Guan-4-Zi-1110139922 dated Nov. 10, 2022 from the Ministry of Labor shall become effective on the date of promulgation except for Article 7-1, which became effective on Oct. 1, 2021.
+
+6.Total ten articles, as amended, were promulgated by the Order No. Lao-Dong-Guan-4-Zi-1120143700A dated August 17, 2023 from Ministry of Labor and shall become effective on Jan. 1, 2023.

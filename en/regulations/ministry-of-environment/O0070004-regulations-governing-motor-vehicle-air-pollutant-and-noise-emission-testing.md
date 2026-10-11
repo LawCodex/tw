@@ -1,0 +1,333 @@
+---
+title: "Regulations Governing Motor Vehicle Air Pollutant and Noise Emission Testing Organizations"
+title_zh: "機動車輛排放空氣污染物及噪音檢驗測定機構管理辦法"
+identifier: "O0070004"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞國家環境研究目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-05-31
+last_amended: 2025-10-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0070004"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Motor Vehicle Air Pollutant and Noise Emission Testing Organizations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0070004-regulations-governing-motor-vehicle-air-pollutant-and-noise-emission-testing.md](../../../zh/regulations/ministry-of-environment/O0070004-regulations-governing-motor-vehicle-air-pollutant-and-noise-emission-testing.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are determined pursuant to Article 49, Paragraph 2 of the Air Pollution Control Act and Article 20, Paragraph 2 of the Noise Control Act.
+
+### Article 2
+
+Terms used in these Regulations are defined as follows:
+
+Ⅰ. Motor vehicle air pollutant and noise emission testing" implies various testing methods be used to perform motor vehicle air pollutant and noise emission testing.
+
+Ⅱ. Motor vehicle air pollutant and noise emission testing organization" (herein called testing organization) implies organizations that have been issued a permit for the performing of motor vehicle air pollutant or noise emission testing pursuant to these Regulations.
+
+Ⅲ. Motor vehicle air pollutant and noise emission testing laboratory" (herein called testing laboratory) implies premises that perform motor vehicle air pollutant or noise emission testing including their instruments and equipment and the testing sites or laboratories that house the facilities.
+
+Ⅳ. Motor vehicle air pollutant and noise emission testing personnel" (herein called testing personnel) implies professional technical personnel such as laboratory managers, quality assurance/control personnel and other personnel that perform motor vehicle air pollutant or noise emission testing.
+
+## Chapter 2 Permission
+
+### Article 3
+
+Those that apply for testing organization permits shall apply to the central competent authority.
+
+### Article 4
+
+Those that apply for testing organization permits shall meet one of the following conditions:
+
+Ⅰ. Be a company with paid in capital, or a non-profit corporation with registered assets of at least five million NTD.
+
+Ⅱ. Be a public enterprise or a government agency or organization other than an environmental protection competent authority.
+
+Ⅲ. Be an academic institution at the public college level or higher.
+
+IV. Cooperatives established and registered under the Cooperatives Act.
+
+### Article 5
+
+Those that apply for testing organization permits shall possess their own laboratories; each laboratory shall possess dedicated instruments and equipment and six or more dedicated testing personnel, including one laboratory manager and quality assurance/quality control personnel.
+
+### Article 6
+
+Testing personnel shall hold a central competent authority qualification certificate attesting to training in relevant testing items.
+
+### Article 7
+
+The laboratory manager in Article 5 shall meet one of the following conditions:
+
+Ⅰ. Graduates of public, or registered private schools at the college level or higher or overseas schools at the college level or higher that are recognized by the Ministry of Education and have three or more years of testing experience in the testing of air pollutants or noise items and provide relevant verification documents. But graduates of public, or registered private schools at the university level or higher or at overseas schools at the university level or higher that are recognized by the Ministry of Education may have one year less testing experience.
+
+Ⅱ. Graduates of public, or registered private schools at the senior (vocational) high school level or overseas schools at the senior (vocational) high school level that are recognized by the Ministry of Education and have five or more years of testing experience in the testing of air pollutants or noise items and provide relevant verification documents.
+
+### Article 8
+
+The quality assurance/control personnel in Article 5 shall meet one of the following conditions:
+
+Ⅰ. Graduates of public, or registered private schools at the college level or higher or overseas schools at the college level or higher that are recognized by the Ministry of Education and have two or more years of testing experience in the testing of air pollutants or noise items and provide relevant verification documents. But graduates of public, or registered private schools at the university level or higher or at overseas schools at the university level or higher that are recognized by the Ministry of Education may have one year less testing experience.
+
+Ⅱ. Graduates of public, or registered private schools at the senior (vocational) high school level or overseas schools at the senior (vocational) high school level that are recognized by the Ministry of Education and have three or more years of testing experience in the testing of air pollutants or noise items and provide relevant verification documents.
+
+### Article 9
+
+Those that apply for testing organization permits shall meet one of the following conditions:
+
+Ⅰ. An application form;
+
+Ⅱ. Organization identification documents of the agency or organization;
+
+Ⅲ. A photocopy of the personal identification document of the statutory responsible person;
+
+Ⅳ. A diagram of the geographical locations of laboratories;
+
+Ⅴ. Placement and layout diagrams of the analysis facilities;
+
+Ⅵ. Labor Insurance documents proving employment of testing personnel, photocopies of documents verifying education and work experience as well as necessary training of the testing personnel, and written consent to Labor Insurance information inquiries;
+
+Ⅶ. Such documents as those explaining application categories and the names of usage methods;
+
+Ⅷ. Fifteen or more sets of real testing data and related quality control diagrams related to the testing items for which the permit application has been submitted;
+
+Ⅸ. Laboratory Quality Management Manual;
+
+Ⅹ. Other documents designated by the central competent authority;
+
+The Laboratory Quality Management Manual in the item IX of the foregoing Article implies the Laboratory Quality Management Manual prepared in accordance with the Basic Norm of Quality System of Motor vehicle air pollutant and noise emission testing laboratory proclaimed by the central competent authority. It shall have content at least include: impartiality, confidentiality, organization, personnel, facilities and environmental conditions, equipment, metrological traceability, externally provided products and services, review of requests, tenders and contracts, selection, verification and validation of methods, sampling, handling of testing vehicles, technical records, ensuring the validity of results, reporting of results, complaints, nonconforming work, control of data and information management, management system documentation, control of management system documents, control of records, actions to address risks and opportunities, improvement, corrective actions, internal audits, management reviews.
+
+Those testing organizations for which application documents in the foregoing paragraph do not comply with regulations or for which contents are incomplete shall be notified by the central competent authority to make corrections within a limited time period; those applications failed to make corrections by the deadline shall be rejected and all application documents will not be returned.
+
+### Article 10
+
+When testing organizations establish more than one laboratory, separate permit application must be submitted pursuant to these Regulations.
+
+Testing organizations which apply for extensions, resumption of business, relocation of laboratory, or addition of laboratory, testing category or testing item shall submit documents listed in Subparagraph 1 and Subparagraphs 4 through 10 of Article 1.
+
+Testing organizations which apply for relocation of laboratory shall apply to central competent authority for relocation of laboratory 15 days in advance and submit the plan of relocation for references. Testing organizations shall complete the relocation in accordance with the plan of relocation and submit documents mentioned in previous Article within 30 days after the completion of relocation.
+
+### Article 11
+
+The testing categories and items for permits applications by testing organizations are as followings:
+
+Ⅰ. Air pollutant emission testing categories for gasoline engine vehicles and clean alternative fuel engine vehicles.
+
+Ⅱ. Air pollutant emission testing categories for diesel engine vehicles and clean alternative fuel engine vehicles.
+
+Ⅲ. Motorcycle air pollutant emission testing categories.
+
+Ⅳ. Motor vehicle noise testing categories.
+
+Ⅴ. Other testing categories officially announced by the central competent authority.
+
+The foregoing testing categories and items shall be limited to those controlled items regulated by the Air Pollution Prevention Act and the Noise Control Act and those items listed in the standard testing methods announced by the central competent authority or those items announced by central competent authority.
+
+### Article 12
+
+The central competent authority shall perform the following matters for the review of testing organization permit applications, extensions, the resumption of business, the relocation of a laboratory, the addition of a laboratory, and the addition of a testing category or testing item; permits shall be issued after it pass the review of application. However, the application for addition of testing item may be waived for systems evaluation procedure.
+
+Ⅰ. Documentary review: Review of application documents submitted by the testing organization.
+
+Ⅱ. Related testing evaluation: A review of the testing items for which the testing organization has submitted an application through related testing by a testing organization designated by the central competent authority. The central competent authority may demand related testing to be carried out through relevant domestic or foreign testing organization or laboratory for the testing items that yet not designated any authorized testing organizations for related testing. Related testing shall be allowed to be conducted only once.
+
+Ⅲ. Systems evaluation: An on-site review and grading of the quality control systems of individual laboratories that testing organization has applied.
+
+### Article 13
+
+The central competent authority may establish a technical evaluation committee to conduct reviews, evaluations and inquiries for various applications in this regulation.
+
+### Article 14
+
+Permits shall record the following items:
+
+Ⅰ. The name of the organization.
+
+Ⅱ. Name and address of laboratory.
+
+Ⅲ. The name of the laboratory manager.
+
+Ⅳ. Testing categories, items and methods.
+
+Ⅴ. Valid period of time.
+
+Ⅵ. Other items designated by the central competent authority.
+
+### Article 15
+
+Maximum validity period of permits shall not exceed five years. Extension applications shall be filed by the testing organizations within five to six months prior to the permit expiration. Period of each extension will not exceed five years. However, if during the validity period of the permit the testing organizations is found to have involved in any of the circumstances specified in Paragraph 5 of Article 22, and punishment from the central competent authority has been confirmed, the extension of the permit’s validity period shall be for a maximum of three years.
+
+Those testing organizations apply for extension of which application documents do not comply with regulations or for which contents are incomplete shall be notified by the central competent authority to make corrections within a limited time period. Those application failed to make corrections by the deadline shall be rejected.
+
+Those testing organizations apply for extension in accordance with subparagraph 1 within the regulated period of time that are able to be determined for the approval or rejection due to the review need of central competent authority before the expiration date of the permit, the testing organizations may continue their testing items in accordance with their original permit content during the time period from the permit expiration date to the completion date of the review.
+
+Those testing organizations failed to apply for extension in accordance with subparagraph 1 within the regulated period of time, shall stop their testing items since the expiration date of the permit when central competent authority have not determined the approval or rejection for the application. The testing organizations may continue their testing items in accordance with their original permit content during the time period from the permit expiration date to the completion date of the review. Those failed to apply for extension before the expiration date of the permit shall lose the validity of their permits since the expiration date of the permits. One shall apply a new permit application if they want to continue the testing business of said items.
+
+### Article 15-1
+
+Where a testing organization is found to have involved in any of the following circumstances, the central competent authority shall revoke the permit for the testing items concerned the violation:
+
+I. The testing organization provides false information regarding the deployment or qualifications/experiences of its testing personnel.
+
+II. The testing organization provides false testing data in its permit application for the testing items.
+
+Where a testing organization is found to have involved in any of the following circumstances, the central competent authority shall cancel its permit for the testing items concerned in the violation:
+
+I. Issuance of a testing report without actually performing the sampling or test or alternation of test results without justifiable reason.
+
+II. Adjustment of instruments or software settings for testing in order to falsify data.
+
+Ⅲ. Those violate Paragraph 2 or 3 of Article 16 and have been punished two times by central competent authority for the same testing item in one year.
+
+IV. Those that, in accordance with Article 18, yield a related testing evaluation result with a difference between testing organizations and the designated testing organization exceed the allowable range in two consecutive testing. After a notification of correction in limited deadline and still not able to complete the correction.
+
+If the falsification of testing report data involves criminal liability and a criminal judgment has been rendered by the court, and it is determined that the falsification was directed by the representative of the testing organization, the central competent authority shall cancel the permits for all testing items of that testing organization.
+
+### Article 15-2
+
+Where a testing organization has had all of its testing items under permits revoked or canceled by the central competent authority, it shall not, within two years from the date of service of the penalty decision on revocation or cancelation, apply for a testing business permit under the same or a similar organization name or under the same business identification number. The representative of that organization shall not, within five years from the date of service of the penalty decision, apply to serve as the representative of any testing organization. Where a testing organization has had part of its testing items under its permit revoked or cancelled by the central competent authority, the organization shall not, within two years from the date of service of the penalty decision on revocation or cancellation, apply to the central competent authority for the same testing items.
+
+Testing personnel, quality assurance/control personnel, or laboratory managers involved in data falsification shall not, within two years from the date of service of the penalty decision imposed on the testing organization, serve as testing personnel, quality assurance/control personnel, or laboratory managers of any testing organization.
+
+### Article 15-3
+
+If the testing report issued by the testing organization has involved in violation of the regulations as stipulated in Paragraph 1, Subparagraph 2 or 3 of Article 16, the laboratory manager or signatory that signed the said report shall being evaluated and approved by the central competent authority to resume the authorization to sign on the report of testing items relevant to the foregoing problematic report.
+
+Where the central competent authority has revoked or cancelled the permits of a testing organization for the testing items involved in a violation, the laboratory manager or signatory who signed the report may, only after the expiration of the restriction period, apply for evaluation by the central competent authority, and may resume signing reports for the testing items involved in the violation after passing such evaluation.
+
+## Chapter 3 Management
+
+### Article 16
+
+Testing organizations shall observe the following regulations when performing testing:
+
+Ⅰ. A laboratory's testing personnel shall use the laboratory's dedicated instruments and equipment.
+
+Ⅱ. A standard operating procedures manual shall be prepared in accordance with analysis methods and quality control items officially announced by the central competent authority, and shall be placed in the laboratory for reference; testing shall be performed in accordance with the manual.
+
+Ⅲ. Prepare a laboratory management manual based on the basic quality system standards officially announced by the central competent authority, and conduct lab operations based on this manual.
+
+Ⅳ. Other items designated by the central competent authority.
+
+### Article 17
+
+Testing reports presented by testing organizations shall be signed by the managers of each laboratory at issue. However, in consideration of a professional field or operational requirements, testing reports may be signed by a testing report signatory that has been evaluated and authorized by the central competent authority.
+
+The regulations for laboratory managers shall apply to the qualifications for the testing report signatory in the foregoing paragraph.
+
+The time period for the authorization by the central competent authority of the signing of reports by the testing report signatory shall be the same as the validity period for permits. Testing organization may apply for the authorization of the testing report signatory at the same time as applying for the extension of a permit.
+
+### Article 18
+
+Testing organizations shall carry out the related testing evaluation with the vehicles and testing organization designated by the central competent authority. The testing also must be completed and test results be sent out by mail within the designated deadline.
+
+Differences between testing results of testing organizations and designated testing organizations in the foregoing paragraph must not exceed the allowable range set by the central competent authority two times in a row.
+
+Expenses required for the carrying out of the first paragraph shall be the responsibility of the testing organization applying for the item.
+
+### Article 19
+
+Any change of the testing personnel of a testing organization laboratory shall be registered within thirty days after the change. For those circumstances in which there is a personnel change for a laboratory manager or quality assurance/quality control personnel, vacated positions shall be filled within thirty days. As the remaining number of testing personnel fail to be in compliance with the regulations for the number of analysis personnel in Article 5 due to personnel change, all vacated positions shall be filled within ninety days after the change.
+
+For those circumstances in which there are changes to the items recorded on a permit, the testing organization shall register the changes through the central competent authority within thirty days after the change.
+
+### Article 20
+
+The central competent authority may dispatch personnel carrying with proving documents entering the testing organization or testing site to proceed inspection works and order to provide relevant information. The testing organization shall not evade, retard or refuse the inspection works.
+
+The central competent authority shall abide the confidential responsibility for all information involve individual privacy, corporate secrets or military secrets of the one under inspection acquired during the proceeding of inspection following the regulation cited in foregoing paragraph or in the process of applications, reviews, issuance, replacement, revocation, or cancellation of testing organization permits.
+
+### Article 21
+
+A testing organization, when suspending business on its own initiative, shall submit its permit to the central competent authority for cancellation.
+
+For those testing organizations that terminate business, are dissolved, or lose the ability to conduct operations, the central competent authority may directly cancel their permits.
+
+Those analysis organizations in the two foregoing paragraphs for which permits are cancelled by the central competent authority shall be exempt from the restrictions of Article 10, Article 15, Paragraph 3 of Article 17, Article 18, and Article 19.
+
+### Article 22
+
+If one of the following situations occur at testing organizations, they shall be punished pursuant to Article 70 of the Air Pollution Control Act and Paragraph 2 of Article 32 of the Noise Control Act:
+
+Ⅰ. Those violate Paragraph 3 of Article 10, Paragraph 1, 2 or 4 of Article 16, Paragraph 1 of Article 17, Paragraph1 of Article 18, Paragraph 2 of Article 19 or Paragraph 1 of Article 20.
+
+Ⅱ. Those violate Paragraph 3 of Article 16 that fail to follow the regulations cited in the laboratory management manual regarding personnel, equipment, review of requests, tenders and contracts, selection, verification and validation of methods, sampling, handling of testing vehicles, technical records, reporting of results, control of management system documents, control of records.
+
+Ⅲ. Those violate Paragraph 1 of Article 19 but belonging to those circumstances in which personnel that are not laboratory manager or quality assurance personnel and fail to register personnel change within regulated time limit in accordance with Paragraph 1 of Article 19 and has violated three times totally in a year.
+
+IV. Any violation mentioned in Article 15-1.
+
+V. Rectification of errors in reporting materials has not been completed after designated deadlines.
+
+VI. Conducting of testing and analysis authorized under the environmental laws specified in Article 1 without approval or without a permit issued by the central competent authority.
+
+### Article 23
+
+Those testing organizations whose permits have been revoked or cancelled by the central competent authority for the test items involved in regulatory violations shall not conduct the said item of testing after the date of service of the penalty decision.
+
+### Article 23-1
+
+The central competent authority may reward the institutions or individuals that demonstrate outstanding performance in conducting inspections and tests of air pollutants and noise emissions of motor vehicles.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 24
+
+The central competent authority may commission relevant agencies or organizations to perform guidance, review, evaluation and inspection matters for testing organizations.
+
+### Article 25
+
+Obsolete
+
+### Article 26
+
+For those relevant documents designated in these Regulations which are in a foreign language, a translated Chinese version certified by an overseas unit or an authorized organization of the Ministry of Foreign Affairs shall be attached. However, if the supporting document is in English, a translated Chinese version is not required.
+
+### Article 27
+
+Obsolete
+
+### Article 27-1
+
+For those people that have already acted as the laboratory manager and quality assurance and control personnel with a central competent authority permit before the Regulations promulgated at June 5, 2015, their education qualification shall not restricted by Article 7 and 8.
+
+### Article 28
+
+The amended articles of these Regulations shall enter into force from the date of issuance, with the exception of the Subparagraph 2 of Article 9 and Paragraph 2, Subparagraph 1 of Article 22 as amended on 23 April 2021, which shall enter into force from 1 June 2021.
+
+## History
+
+1.Formulated and promulgated in 24 articles by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 2440 on May 31, 1995
+
+2.Amended and proclaimed by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0035561 on June 10, 1998 Amended and promulgated in 28 articles by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0920041822 on June 18, 2003
+
+3.Amended and promulgated in 28 articles by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0920041822 on June 18, 2003
+
+4.Article 7 and Article 8 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0940081504E on October 17, 2005
+
+5.Article 16 and Article 17 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0960064616 on August 29, 2007
+
+6.Article 1 and Article 22 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0980028103C on April 7, 2009
+
+7.Article 3, Article 6, Article 9, Article 15, Article 19, Article 20, Article 22, Article 23 and Article 26 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1010016121 on March 1, 2012
+
+8.Article 7 to 9, Article 11, Article 14 and Article 15 amended and promulgated, Article 27-1 added, Article 27 deleted by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 104043738 on June 5, 2015
+
+9.Part of items amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1060061376 on August 11, 2017
+
+10.Article 1 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No.1088000092 on March 11 , 2019
+
+11.Part of items amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1108000092 on April 23, 2021
+
+12.Article 21 and Article 26 amended and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No.1117108472 on December 7 , 2022
+
+13.Revisions to Article and promulgated by Ministry of Environment Order Huan-Bu-Yan-Tzu No. 1145112937 on October 3, 2025

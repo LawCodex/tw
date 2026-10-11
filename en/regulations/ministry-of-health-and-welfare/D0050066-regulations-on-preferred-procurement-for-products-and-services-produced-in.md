@@ -1,0 +1,191 @@
+---
+title: "Regulations on Preferred Procurement for Products and Services Produced in Disability Welfare Care Facilities and Institutions and Sheltered Workshops"
+title_zh: "優先採購身心障礙福利機構團體或庇護工場生產物品及服務辦法"
+identifier: "D0050066"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-10-12
+last_amended: 2024-04-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050066"
+retrieved: 2026-10-12
+---
+
+# Regulations on Preferred Procurement for Products and Services Produced in Disability Welfare Care Facilities and Institutions and Sheltered Workshops
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050066-regulations-on-preferred-procurement-for-products-and-services-produced-in.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050066-regulations-on-preferred-procurement-for-products-and-services-produced-in.md)) is authoritative.
+
+## Article 1
+
+The following regulations have been formulated in accordance with Article 69, Paragraph 3 of the People with Disabilities Rights Protection Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The definitions of pertinent terms used in Article 69 of the Act are as follows:
+
+1.Disability welfare facilities and institutions (collectively, “institutions”): Welfare facilities and institutions established in accordance with Articles 62 and 63 of the Act to provide care services to individuals with physical and/or mental disabilities
+
+2.Disability welfare organizations (hereinafter, “organizations”): Foundations or charitable organizations established or registered in accordance with the law, whose articles expressly identify said foundations/organizations as a disability welfare organization
+
+3.Sheltered workshops (hereinafter, “workshops”): Institutions, organizations, and schools established in accordance with Article 35 of the Act to provide sheltered employment for individuals with disabilities
+
+4.Obligated procurement units: Government agencies, public schools, and state-owned enterprises, as well as government-subsidized organizations, associations, and private schools, as described in Article 69, Paragraph 1 of the Act.
+
+5.Reasonable price: A tender price that fits one of the following descriptions:
+
+1)For tenders with a price estimate, a price that is in line with the estimate
+
+2)For tenders without a price estimate, a price that is determined to be reasonable by a committee established under Article 74 of the Enforcement Rules of the Government Procurement Act, or by the procurement unit if a committee is not required
+
+## Article 3
+
+When determining a reasonable price as described in Subparagraph 5 of the preceding article, an obligated procurement unit shall take into consideration the operating costs borne by the institution, organization, or workshop.
+
+## Article 4
+
+Products covered by Article 69 of the Act shall include food items, handicrafts, cleaning agents, gardening tools, assistive devices, home goods, publications, and other products specified by the central competent authority.
+
+Services covered by Article 69 of the Act shall include cleaning, dining/catering, car washing, laundry, customer service, handiwork, arts performances, transportation/logistics, and other services specified by the central competent authority.
+
+The products and services specified in the preceding two paragraphs shall be produced or provided by individuals with disabilities at the location specified by or belonging to the tender-winning institution, organization, or workshop (collectively, “preferred provider”).
+
+Products produced in locations described in the preceding paragraph must be of sufficient quantity; services shall be provided be in a continuous manner, and must meet the specifications and requirements set forth by the procurement unit. Preferred providers may not purchase goods from third parties for resale or subcontract a service tender to a third party.
+
+## Article 5
+
+The “certain amount” described in Article 69, Paragraph 1 of the Act shall be the amount announced by the Executive Yuan Public Construction Commission in accordance with the Government Procurement Act.
+
+“Government-subsidized institutions, associations, and private schools,” as described in Article 69, Paragraph 1 of the Act, shall refer to any such organization that receives a subsidy in an amount equal to or greater than half of the announced tender price.
+
+The “certain percentage” described in Article 69, Paragraph 2 of the Act shall mean that the annual direct and indirect (as through a subcontract) procurement volume from preferred providers described in Paragraphs 1 and 2 of the preceding paragraph must account for at least 10% of an obligated procurement unit’s total procurement volume for the year.
+
+The percentage described in the preceding paragraph shall be reviewed every other year.
+
+The provisions in Paragraph 3 shall become effective on January 1, 2025.
+
+## Article 6
+
+Local competent authorities at the municipal, county, and city levels shall regularly review and update their list of products and services provided by preferred providers, publish the list on their official website, and forward it to the central competent authority for announcement in accordance with Article 69, Paragraph 2 of the Act. If necessary, the local competent authorities may notify obligated procurement units of the updated list via official letter.
+
+Local competent authorities shall appoint personnel to regularly inspect preferred providers’ production conditions and provide the necessary guidance.
+
+If during an inspection a preferred provider is found to be in violation of Article 4, Paragraph 3 or the final proviso of Paragraph 4, their products and services (as specified in Article 4, Paragraphs 1 and 2) shall be removed from the list for a period of one year. Upon conclusion of the one-year period, the preferred provider may be included on the list again upon passing another inspection.
+
+## Article 7
+
+Obligated procurement units shall give priority to preferred providers in the procurement of the products and services specified in Article 4, Paragraphs 1 and 2.
+
+If the products and services described in the preceding paragraph are reasonably priced and are below the announced tender price, the obligated procurement unit may proceed with the tender in one of the following ways:
+
+1.Without issuing a tender announcement, invite two or more preferred providers for price comparison, or negotiate the price with only one preferred provider
+
+2.Issue a tender announcement and invite both preferred providers and regular providers to put in bids (the tender documents shall stipulate that priority shall be given to preferred providers pursuant to Article 8 and 9 herein)
+
+3.Issue a tender announcement stipulating certain requirements, allow preferred providers to submit qualification documents for review, and then invite eligible providers to put in a bid
+
+## Article 8
+
+For preferred procurement cases described in Paragraph 2, Subparagraph 2 of the preceding article, the obligated procurement unit shall award the tender to the bidder with the lowest asking price in accordance with the following provisions:
+
+1.In the event of a tie in the bidding price:
+
+1)Priority shall be given to sheltered workshops:
+
+a.In the event that the bids from a preferred provider and a regular provider are the same, priority shall be given to sheltered workshops followed by institutions and then organizations, provided that the bidding price is consistent with the requirements of the tender documents.
+
+b.In the event that there is a tie between two or more workshops (or in the absence of any bidding workshops, between two or more institutions/organizations), lots shall be drawn to determine the winner.
+
+2)Priority shall be given to preferred providers willing to reduce their asking price to the minimum bid:
+
+a.In the event that a regular provider submits the lowest bid that is consistent with the requirements of the tender documents, the obligated procurement unit shall ask the participating preferred provider to lower their asking price. If they agree to do so, the tender shall be awarded to the preferred provider.
+
+b.In the event that there are multiple preferred providers, the obligated procurement unit shall ask each provider (beginning with the one with the lowest bid) to lower its asking price. The first provider to agree to lower the price shall be awarded the tender. In the event that the original asking price of two or more preferred providers is the same, the provider that offers the lowest new price shall be awarded the tender. If a tie still persists, lots shall be drawn to determine the winner.
+
+2.An asking price lower than 80% of the estimate: If a regular provider is eligible to win a tender with an asking price lower than 80% of the price estimate, the obligated procurement unit may still negotiate the price with preferred providers pursuant to Article 58 of the Government Procurement Act.
+
+## Article 9
+
+For preferred procurement cases described in Article 7, Paragraph 2, Subparagraph 2, obligated procurement units shall award the tender to the bidder with the most advantageous offer in accordance with the following provisions:
+
+1.Tenders with a fixed rate or without a reserve price:
+
+1)A tie between preferred and regular providers:
+
+a.In the event of a tie between a preferred provider and regular provider whose bids have both been determined by a majority vote of the procurement review committee to be consistent with tender requirements, the procurement unit shall first enter into price negotiations with sheltered workshops, followed by institutions and then organizations.
+
+b.In the event of a tie between two or more participating workshops (or in the absence of any bidding workshops, between two or more institutions/organizations), the one with the highest score in the most heavily-weighted scoring item shall be given priority. If two or more scoring items have the same weight, the combined score of all such items shall apply. If a tie still persists, lots shall be drawn.
+
+2)A regular provider has the most advantageous offer:
+
+a.If a regular provider has the highest score or the best ranking and there is only one participating preferred provider, the obligated procurement unit shall first enter into price negotiations with the preferred provider, provided that the bids of both the regular and preferred providers are determined by a majority vote of the procurement review committee to be consistent with tender requirements.
+
+b.In the event that there are multiple preferred providers, the obligated procurement unit shall enter into price negotiations with each provider (beginning from the top-ranked/highest-scoring one). In the event of a tie between two or more preferred providers, the one with the highest score in the most heavily-weighted scoring item shall be given priority. If two or more scoring items have the same weight, the combined score of all such items shall apply. If a tie still persists, lots shall be drawn.
+
+2.Tenders without an estimate nor a fixed rate or price: Winners shall be determined through price negotiations, with a price recommended by the procurement review committee in accordance with Article 75 of the Enforcement Rules of the Government Procurement Act. However, if all bids are within the reasonable price range, the committee may abstain from recommending a price and directly award the contract to the winning bidder or rescind the tender in accordance with the following provisions:
+
+1)A tie between preferred and regular providers:
+
+a.In the event of a tie between a preferred provider and a regular provider whose bids have both been determined by a majority vote of the procurement review committee to be consistent with tender requirements, the procurement unit shall first enter into price negotiations with sheltered workshops, followed by institutions and then organizations.
+
+b.In the event of a tie between two or more participating workshops (or in the absence of any bidding workshops, between two or more institutions/organizations), the one with the highest score in the most heavily-weighted scoring item shall be given priority. If two or more scoring items have the same weight, the combined score of all such items shall apply. If a tie still persists, lots shall be drawn.
+
+2)A regular provider has the most advantageous offer:
+
+a.If a regular provider has the highest score or the best ranking and there is only one participating preferred provider, the obligated procurement unit shall first enter into price negotiations with the preferred provider, provided that the bids of both the regular and preferred providers are determined by a majority vote of the procurement review committee to be consistent with tender requirements.
+
+b.In the event that there are multiple preferred providers, the obligated procurement unit shall enter into price negotiations with each provider (beginning from the top-ranked/highest-scoring one). In the event of a tie between two or more preferred providers, the one with the highest score in the most heavily-weighted scoring item shall be given priority. If two or more scoring items have the same weight, the combined score of all such items shall apply. If a tie still persists, lots shall be drawn.
+
+3.The provisions in the preceding subparagraph may apply mutatis mutandis to tenders with an estimate. In the event that an eligible provider offers a price higher than the estimate, the provisions of Article 53, Paragraph 2 of the Government Procurement Act shall apply.
+
+## Article 10
+
+Obligated procurement units may include non-preferred procurement into their calculation of the preferred procurement volume for the year in any of the following circumstances:
+
+1.No preferred providers offer a bid or are able to meet the qualifications in a preferred procurement case described in the preceding two articles.
+
+2.No preferred providers are eligible to win the tender in a preferred procurement case described in the preceding two articles.
+
+3.The tender documents from a regular provider in a preferred procurement case above a certain amount may specify the items and dollar value of work that will be subcontracted to preferred providers, which shall be ratified in the procurement contract if said regular provider wins the tender.
+
+4.A procurement contract with a preferred provider has been terminated or rescinded due to reasons unattributable to the obligated procurement unit.
+
+5.The winning preferred provider fails to fulfill contract obligations without just cause.
+
+## Article 11
+
+Obligated procurement units shall stipulate in their procurement contracts that preferred providers are prohibited from supplying products or services not produced or provided by, or sourced or contracted from, individuals with disabilities. A provider found to have submitted a bid, signed a contract, or performed obligations for or under the pretense of being a preferred provider shall be subject to contract termination or rescission.
+
+Violators of the preceding paragraph shall be referred to the competent municipal, county, or city authority for processing in accordance with Article 6, Paragraph 3 herein.
+
+## Article 12
+
+Obligated procurement units shall inspect the documentation submitted by preferred providers, verify its authenticity with the competent authority, and if necessary, request assistance from said authority.
+
+## Article 13
+
+The Presidential Office, National Security Council, Executive Yuan, Legislative Yuan, Judicial Yuan, Examination Yuan, Control Yuan, second-level central government agencies under the five Yuan, independent agencies, and municipal, county, and city governments shall tabulate the total volume and percentage of preferred procurement (for products and services specified in Article 4, Paragraphs 1 and 2 herein) of their subordinate agencies in the preceding fiscal year and submit the results to the central competent authority for publication within the first six months of the current fiscal year.
+
+The preferred procurement volume and percentage of government-subsidized private organizations, associations, and schools (for products and services specified in Article 4, Paragraphs 1 and 2 herein) in the preceding fiscal year shall be tabulated by the competent authority and reported to the central competent authority for publication within the period described in the preceding paragraph.
+
+Obligated procurement units that fail to reach the preferred procurement percentage set forth in Article 5, Paragraph 3 herein shall provide a statement on the reason(s) for failing to do so. Units without just cause shall be subject to Article 97 and Article 102, Paragraph 2 of the Act. The disciplinary action taken shall be reported to the central competent authority for recordation.
+
+## Article 14
+
+Except for Article 5, Paragraph 5, whose implementation date shall be announced separately, these regulations shall take effect on the date of promulgation.
+
+## History
+
+1.On October 12, 2005, the Ministry of Interior document number 0940715576 set and announced all of Article 11; implement following the announcement.
+
+2.On January 24, 2006, the Ministry of Interior document number 0950714703 amended and announced Article 3.
+
+3.On January 23, 2008, the Ministry of Interior document number 0970715330 amended and announced the full name and Article 10; implement after announcement (Original name: Guidelines for Priority Purchase of Products or Services Produced by Mental/Physical Disabilities Welfare Institutions or Organization)
+
+4.March 27, 2017, Ministry of Health and Welfare document number 1060700289 amended and announced Articles 3 to 5 and Article 8; the articles are to be put into effect immediately after announcement.
+
+5.Amended on April 3, 2024

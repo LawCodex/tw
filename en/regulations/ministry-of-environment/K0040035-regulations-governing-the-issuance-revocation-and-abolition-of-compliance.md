@@ -1,0 +1,180 @@
+---
+title: "Regulations Governing the Issuance, Revocation and Abolition of Compliance Certification for Motorcycle Configuration Exhaust Emission"
+title_zh: "機車車型排氣審驗合格證明核發撤銷及廢止辦法"
+identifier: "K0040035"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-10-24
+last_amended: 2024-01-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040035"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Issuance, Revocation and Abolition of Compliance Certification for Motorcycle Configuration Exhaust Emission
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/K0040035-regulations-governing-the-issuance-revocation-and-abolition-of-compliance.md](../../../zh/regulations/ministry-of-environment/K0040035-regulations-governing-the-issuance-revocation-and-abolition-of-compliance.md)) is authoritative.
+
+## Article 1
+
+This measure is set based on Article 42, Paragraph 2 of Air Pollution Control Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Terms used in these Standards are defined as follows:
+
+\1. Motorcycle model composition patterns (hereinafter referred to as Motorcycle configuration): Refers to when the power system of the motorcycle (such as internal combustion engine or hybrid power system with an electric motor, etc.), basic engine, fuel supply system, emission control system, transmission, and inertial mass are the same, then they are of the same model.
+
+\2. Engine family: Motorcycles have similar power system, combustion cycle (number of strokes), type of cooling system (air, seawater), cylinder block structure (i.e. parallel, V-type, opposite type, cylinder aperture center spacing distance, etc.), number of cylinders, air supply method, fuel supply (method, numbers and measuring systems, etc.), evaporated gas storage device, catalytic converters (oxidation catalyst, reduction catalyst or three-way catalytic), secondary air system, electronic control module vehicle can be summarized as the same engine family.
+
+\3. In-use motorcycles from overseas: Motorcycles registered and licensed by the motor vehicle supervisory agencies of the country of importation must obtain an import and commodity tax payment (exemption) certificate issued by Customs at the time of importation as documentary proof.
+
+\4. On Board Diagnostics System (hereinafter referred to as OBD): A computer system inside the motorcycles that monitors motorcycle emissions control equipment and can diagnose current operating status, detect and save malfunction codes, and display the signal indicator if malfunctions occur.
+
+\5. Hybrid motorcycle: Refers to motorcycles with both internal combustion engines and electric motor-generator system.
+
+\6. Idle-stop or stop-start devices: Devices which while a moving motorcycle temporarily stops for traffic lights, etc., may maintain the motorcycle in an idle state for a while and then have the engine enter the off-state automatically, but can re-start the engine once the throttle is opened.
+
+\7. Defeat devices: Devices which, by measuring, sensing or affecting the motorcycle’s operating parameters (such as speed, engine RPM, transmission gear position, temperature, altitude, intake manifold vacuum, or other parameters), may trigger, adjust, delay or stop the operation or emissions control functionality of some part when the motorcycle is in normal operating condition and hence reduce the effect posed to, or render no effect on, the emissions control.
+
+\8. Inspection organization: An organization (institution) or school that has been designated by the central competent authority to issue the inspection report for a motorcycle configuration’s emission Certificate of Conformity (hereinafter referred to as a Certificate of Conformity).
+
+\9. Evolution coefficient: The exhaust emission ratios between the motorcycle reaching its expected stable condition and before the motorcycle is in use.
+
+## Article 3
+
+Motorcycles shall comply with Article 6 and Article 7 of the Air Emission Standards of Mobile Sources (hereinafter referred to as the Emission Standards) defined in Paragraph 2, Article 36 of this Act, as well as relevant requirements herein, before the central competent authority issues the Certificate of Conformity.
+
+## Article 4
+
+The applicant using engine family as the basis to apply for a Certificate of Conformity shall abide by the following regulations:
+
+\1. For domestically manufactured motorcycles, the manufacturer shall submit the application.
+
+\2. For imported motorcycles, the manufacturer's agent, importers, associations formed by importers or non-profit-seeking organizations formed by importers shall submit the application.
+
+\3. For motorcycles procured and imported by various administrative agencies, the agencies shall submit the application by themselves or winning tenderers on behalf of them.
+
+## Article 5
+
+The central competent authority shall use the test results from the following test methods as the basis for judging whether or not an engine family complies with the emission standards:
+
+\1. The tests shall be conducted by the testing organization domestically according to the following requirements for the vehicles representing the maximum pollutant emission for such engine family that has been selected by the central competent authority or the applicant:
+
+(1) Before February 28, 2025: Refers to the testing organizations designated by the central competent authority.
+
+(2) After March 1, 2025: Refers to the testing organizations approved by the central competent authority.
+
+\2. For an engine family which has obtained the Certificate of Conformity issued by the United States or United Kingdom in accordance with the regulations of the European Union (EU) or UN/ECE, the testing results for the motorcycles representing the engine family shall apply.
+
+If the testing organization approved by the central competent authority, as defined in Item 2 under subparagraph 1 of the preceding paragraph, is assigned by the applicant, then such organization shall not be allowed to conduct the motorcycle configuration inspection or new motorcycle random test.
+
+The emission test applicable to the motorcycle configuration inspection as defined in Paragraph 1 shall be conducted according to the regulations specified in Appendix 1.
+
+## Article 6
+
+When using the engine family as the basis to apply for or to modify the Certificate of Conformity, the applicant shall submit the application to the central competent authority by submitting the documents and meeting the compliance requirements in Appendix 1 and Appendix 2, in the format defined in the network transmission application system designated by the central competent authority.
+
+As of January 1, 2025, the applicant shall submit the documents and the compliance matters according to the aforementioned application method and format for securing the inspection report from the inspection organization and then uplink to the Network Transmission Application System designated by the central competent authority. In this case, the expenses required for the inspection shall be borne by the applicant.
+
+## Article 7
+
+The review procedure upon the inspection organization’s receipt of the application for the inspection report is specified as follows:
+
+\1. The inspection organization shall check the integrity of the document. If any missing information or non-compliance is found in the application document, the inspection organization shall inform the applicant to make corrections with the duration of the period for correction not exceeding 30 days. If the applicant fails to complete the corrections within the specified timeline, then the submitted document will be rejected.
+
+\2. After verifying the document’s integrity for the application case, the inspection organization shall also check if said document complies with the requirements defined in Appendix 1 and Appendix 2.
+
+\3. If any defect exists in the content of the inspection case, then the inspection organization shall inform the applicant to make a corrections with the duration of the period for correction not exceeding 45 days. If required, the applicant may request to extend the correction period; however, such an extension shall be limited to once only. If the applicant fails to complete the corrections within the specified timeline, then the inspection organization may conduct the document review.
+
+\4. The inspection organization shall issue the inspection report.
+
+When conducting the aforementioned review, the inspection organization may undertake field and substantive inspections as required. The aforementioned inspections shall include monitoring of the testing process being executed by the applicant in the domestic premise or the auditing in the applicant’s manufacturing plant or service location. In this regard, the entire inspection process shall be completed within 30 days.
+
+## Article 8
+
+When revising part of the engine family-related data for the same engine family or when adding any new motorcycle configuration, the applicant shall apply for modification of Certificate of Conformity with the central competent authority, and also submit the comparative data being acquired before and after the modification. When all of the items affecting the pollutant emissions are proven to be identical to the original engine family and have the same emission characteristics, then the applicant shall be allowed to modify the Certificate of Conformity of said engine family upon review and approval by the central competent authority.
+
+## Article 9
+
+Mass production motorcycles that have obtained the Certificate of Conformity shall comply with the following requirements:
+
+\1. Each mass produced motorcycle shall have the same configuration recorded in the Certificate of Conformity. All items affecting the pollutant emission and the emission control system shall be consistent with the contents and approved items that are mentioned in the application documents, which have already been reviewed and approved.
+
+\2. Any manuals and instructions made available by the applicant to any agents, distributors, after-sale service units (including depots and stations providing maintenance and repair services) and motorcycle owners, and any use, repair, adjustment, maintenance or test related to emission control systems, shall be consistent with the contents and approved items that are mentioned in the application documents which have already been reviewed and approved.
+
+\3. The applicant shall undertake the mass production quality controls, including the quality controls over new motorcycles and in-use motorcycles. The applicable execution requirements, quality control test items, random inspection ratio and testing result (including related data), and testing result submission schedule shall be handled in accordance with Appendix 3. Regarding motorcycles for which quality control results do not meet the emission standards and requirements referred to herein, the applicant shall explain the reasons causing the non-conformity and make corrections within 30 days from the date when the non-conformity is found.
+
+\4. The applicant shall coordinate with and assist the central competent authority to conduct the audit and designated tests and shall also provide motorcycle-related sales information. When required, the applicant shall help deliver the selected motorcycle to the designated location.
+
+Where the applicant violates the provisions of the preceding paragraph, the central competent authority may increase the number of new motorcycles subject to random tests, suspend the verification and authorization process, or suspend the application for the Certificate of Conformity.
+
+## Article 10
+
+The central competent authority may conduct the new motorcycle random test on motorcycles that have already obtained the Certificate of Conformity. The test procedures, selection of motorcycles, evaluation of the test result, and other compliance requirements shall be handled in accordance with Appendix 4. Where the applicant fails to work with the central competent authority to complete the new motorcycle random test, the central competent authority may suspend the applicant’s verification and authorization process.
+
+If the new vehicle random inspection conducted is non-compliant, the Certificate of Conformity for the said engine family shall be cancelled. After receiving the notice, within 30 days, the applicant shall submit a recall and correction plan for unsold and sold vehicles of the failed engine family. If the central competent authority reviews and approves the plan, the applicant shall start to implement and complete the plan. After completing all the necessary measures, the applicant may reapply for the engine family's Certificate of Conformity. The contents of the recall and correction plan shall be in accordance with Appendix 4.
+
+## Article 11
+
+When importing newly manufactured motorcycles or in-use motorcycles from overseas separately under a personal name, the applicant shall submit the following testing reports in place of the Certificate of Conformity for each motorcycle:
+
+\1. The testing report prepared by the central competent authority-approved testing organization verifying that the motorcycle complies with Article 6 of the Emission Standards (for the deterioration factors, please apply the provisions of Appendix 1).
+
+\2. If said motorcycle is found by the central competent authority-approved testing organization as not having been equipped with the evaporative emission control system or components thereof, or if the installed evaporative emission control system or components thereof fail to operate effectively such that the motorcycle may cause pollution, then the applicant shall submit the testing report that is issued by the central competent authority-approved testing organization indicating that it complies with Article 7 of the Emission Standards.
+
+\3. If the central competent authority-approved testing organization cannot test the motorcycle, then the applicant may submit the testing result report that has been evaluated by the central competent authority as meeting the Emission Standards.
+
+If an in-use motorcycle imported from overseas is defined as an antique motorcycle in the Regulations Governing Road Traffic Safety, the requirements specified in the preceding paragraph may be exempted.
+
+## Article 12
+
+An applicant, with an annual domestic sales volume of new motorcycles equipped with internal combustion engines exceeding ten thousand units, shall produce or import motorcycles with idle-stop function, hybrid motors, or electric motors in accordance with the ratios defined in Article 6 of the Emission Standards as of 2017. The calculation of such ratios shall be rounded up to the nearest whole digit.
+
+If applicants sell domestic and imported motorcycles simultaneously, domestic and imported motorcycle quantities can be merged or separated to calculate the ratio.
+
+If the applicant fails to attain the ratios referred to in Paragraph 1, in addition to the Certificate of Conformity for motorcycles with idle-stop function, hybrid motors or electrical motors, the central competent authority may also suspend the issuance of that for the other motorcycles.
+
+## Article 13
+
+Where the Certificate of Conformity issued by the central competent authority meets any of the following circumstances, the central competent authority may revoke or abandon the Certificate of Conformity, and may require the applicant to recall and correct it in accordance with the provisions of Appendix 4:
+
+\1. Using any false document in the application, reporting false information, or keeping false records of operations.
+
+\2. Violating the provisions of Article 9 for 3 consecutive times within two years without making improvement within the time limit.
+
+\3. Other severe offenses determined by the central competent authority to be in violation of this Act or these provisions.
+
+## Article 14
+
+The central competent authority may contract any agencies (organizations) to handle the relevant matters related to the new motorcycle random test.
+
+## Article 15
+
+The Regulations shall be enforced as of the date of promulgation.
+
+## Attachments
+
+- [Appendix 1：Exhaust emission testing and regulations applicable for vehicle model inspection.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008411)
+- [Appendix 2：Documents Required and Compliance Matters for Certificate of Conformity ApplicatioC.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008412)
+- [Appendix 3：Quality Control Requirements for Motorcycle Mass Production.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008413)
+- [Appendix 4：Random Tests for New Motorcycles and Provisions for Recall and Correction Testing for In-Service Motorcycles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008414)
+
+## History
+
+\1. Original 18 articles jointly formulated and announced on October 24, 2001 by Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 0064608 and Ministry of Transportation and Communications Order Chiao-Lu-Fa-Tzu No. 00062.
+
+\2. Article 1 revised and announced on October 2, 2002,by Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 0910066044.
+
+\3. Full text of 18 articles jointly revised and announced on October 26, 2007, by Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 0960078212 and Ministry of Transportation and Communications Order Chiao-Lu-Tzu No. 0960085048; also revised was the Chinese name of the law,which originally read “Regulations Governing Verification Issuance and Cancellation of Certification Compliance for Motorized Bicycle Configuration Emissions”.
+
+\4. Full text of 19 articles jointly revised and announced on February 24, 2016, by Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 1050012531 and Ministry of Transportation and Communications Order Chiao-Lu-Tzu No. 10500034561; also revised was the Chinese name of the law, which originally read “Regulations Governing Verification Issuance, Revocation and Cancellation of Certification Compliance for Motorized Bicycle Configuration Emissions”.
+
+\5. Article 1, Article 2, Article 3, Article 12, Article 16, Appendix 2,Appendix 3 and Appendix 5 revised on July 29, 2019, by Environmental Protection Administration Order Huan-Shu-Kung-Tzu No. 1080054160.
+
+6.The full text consisting of 15 articles was amended and promulgated via the Order under the Ministry of Environment Huan-Bu-Kong-Zi No. 1131001905 dated January 26, 2024, and enforced as of the date of promulgation.

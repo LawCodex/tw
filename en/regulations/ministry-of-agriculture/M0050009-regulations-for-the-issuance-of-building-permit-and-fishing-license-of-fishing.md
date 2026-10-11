@@ -1,0 +1,550 @@
+---
+title: "Regulations for the Issuance of Building Permit and Fishing License of Fishing Vessel"
+title_zh: "漁船建造許可及漁業證照核發準則"
+identifier: "M0050009"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1989-11-17
+last_amended: 2025-04-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050009"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Issuance of Building Permit and Fishing License of Fishing Vessel
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050009-regulations-for-the-issuance-of-building-permit-and-fishing-license-of-fishing.md](../../../zh/regulations/ministry-of-agriculture/M0050009-regulations-for-the-issuance-of-building-permit-and-fishing-license-of-fishing.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with Article 7 and Article 8, paragraph 3 of the Fisheries Act (hereinafter referred to as the Act).
+
+## Article 2
+
+The permissions of the building, modification, chartering and importation of fishing vessels, fishery types to be engaged in, and the issuance of fishing licenses shall be conducted pursuant to these Regulations. Notwithstanding this provision, provisions as stipulated otherwise in the Regulations for Recreational Fishery and the Rules for the Registry of Fishing Right shall prevail.
+
+## Article 3
+
+The definitions of terms used in these Regulations are as the follows:
+
+(1) “Fishing license” means the fishing license or fishery certificate.
+
+(2) “Fishery type” means the main fishery registered on the fishing license, excluding the part-time fishery.
+
+(3) “Loss of a fishing vessel” means a fishing vessel that has been scrapped, sunk, stranded, damaged or missing.
+
+(4) “Replacement qualification” means any of the following qualifications:
+
+i. The fishery operator whose fishing license is submitted and revoked after the loss of his/her fishing vessel is granted the qualification to build a new fishing vessel of the same tonnage to replace the original one and continue to engage in the same fishery type.
+
+ii. After replacing a tuna purse seine fishing vessel of the same size level registered in a regional fisheries management organization, the fishery operator is authorized and granted by the central competent authority the qualification to build, export, and continue to engage in the tuna purse seine fishery.
+
+iii. The fishery operator of Matzu and Kinmen who obtains the qualification to engage in the same fishery type after his/her fishing vessel is authorized by the competent authority before 30 June 2006 to change into a cargo vessel.
+
+(5) “Replacement tonnage” means the tonnage granted to the fishery operator whose fishing vessel has been granted the replacement qualification.
+
+(6) “Fishing vessel tonnage” means the gross tonnage measured by the navigation authority pursuant to the Regulations for Measurement of Ships. In the case that a fishing vessel was measured before the promulgation of the amendment of the Regulations for Measurement of Ships on 16 July 1982 under Order No. Jiao-Hang (71) 1584, the tonnage of such fishing vessel shall be added by 30%.
+
+(7) “Length overall” means the distance measured in a straight line between the foremost point of the bow and the aftermost point of stern.
+
+## Article 4
+
+Any fishery operator that meets any of the following requirements may apply for the issuance of fishing license:
+
+(1) The fishery operator has obtained a fishing vessel newly built with the replacement qualification to engage in fisheries;
+
+(2) The fishery operator is authorized to engage in fisheries with a newly-built fish carrier of 1,500 gross tonnages or above;
+
+(3) The fishery operator engages in fisheries with an imported fishing vessel that is permitted by the central competent authority;
+
+(4) The fishery operator engages in fisheries with an assumed or chartered fishing vessel;
+
+(5) The fishery operator is authorized to change the fishery type to be engaged in with the existing fishing vessel;
+
+(6) The fishery operator whose fishing vessel is authorized to be used exclusively for fisheries training, research, and patrolling;
+
+(7) Instead of building a new fishing vessel, the fishery operator who obtains the replacement qualification pursuant to these Regulations engages in fisheries with the acquisition of a fishing vessel whose fishing license has been revoked by the central competent authority.
+
+The fishery operator as referred to in subparagraph (7) of the preceding paragraph shall not be the one upon whom the revocation of fishing licenses was originally imposed, and the reason for the revocation of the fishing license of the fishing vessel that the fishery operator obtains shall not be any of the following:
+
+(1) The fishing vessel has engaged in firearms, drugs or human trafficking, or high seas driftnet fishing.
+
+(2) The fishing vessel has conducted fishing activities illegally, and has been listed as an illegal, unreported, and unregulated (IUU) vessel by any international fisheries organization.
+
+## Article 5
+
+Application for the renewal of the existing fishing license for the expiration of its validity shall be made three months before the expiration. Notwithstanding such a provision, any of the following circumstances shall be exempted:
+
+(1) The competent authority has permitted beforehand the postponement of the renewal of the fishing license, and as such, one may apply for the renewal before the date approved by the competent authority.
+
+(2) The fishery operator who has been permitted by the competent authority the suspension of the operation may apply for renewal of the fishing license before the resumption of the operation.
+
+Failure to apply for renewal of the fishing license before the expiration shall be subject to punishments by the competent authority pursuant to the Act.
+
+## Article 6
+
+The application of the fishing license by any fishery operator who has assumed a fishing vessel from others shall be conducted within one month after the navigation authority completes the change of vessel ownership.
+
+## Article 7
+
+In case that there is any change to the contents that shall be recorded on the fishing license, application for the recording of such a change shall be made within one month after the occurrence of such a change, together with enclosure of certifying document(s).
+
+In case of the change of the fishery operator, fishing vessel name, or fishery type, application for re-issuing fishing license shall be made.
+
+## Article 8
+
+In case of loss of a fishing vessel, the fishery operator shall apply for the revocation of the fishing license with enclosure of certifying document(s), document(s) issued by the navigation authority certifying the cancellation of vessel registration, and the original fishing license.
+
+The competent authority shall cancel the fishing license in case of the forfeiture, confiscation, or export of the fishing vessel.
+
+## Article 9
+
+In case that a fishery operator does not build a new fishing vessel after being granted with the replacement qualification, he/she may apply, with other existing fishing vessel(s), for the change of fishery type to the same as the replacement qualification granted.
+
+In case that an existing fishing vessel has changed its fishery type with the replacement qualification as referred to in the preceding paragraph, its fishery operator may apply for the replacement qualification of the original fishery type of such a fishing vessel.
+
+## Article 9-1
+
+Any fishery operator of trawl or gillnet fishery may apply for exchanging the fishery type with a tuna longline or longline fishing vessel of the same size and level. This provision shall apply vice versa.
+
+In case that the concerned replacement tonnages are unequal for the exchange of the fishery type as referred to in the preceding paragraph, the following provisions shall apply to reserve or complement the replacement tonnage:
+
+(1) In case that the replacement tonnage of an existing trawl or gillnet fishing vessel is greater than that of an existing tuna longline or longline fishing vessel:
+
+i. The concerned fishery operator of trawl or gillnet fishery may apply for reserving the surplus replacement tonnage from the trawl or gillnet fishery, the validity period of which shall be one year from the date of approval.
+
+ii. The concerned fishery operator of tuna longline or longline fishery is waived from complementing the shortfall of tuna longline or longline replacement tonnage. In case of future replacement, the size and level of the replacement qualification shall be the same as the ones of the original tuna longline or longline fishing vessel.
+
+(2) In case that the replacement tonnage of an existing trawl or gillnet fishing vessel is less than that of an existing tuna longline or longline fishing vessel:
+
+i. The concerned fishery operator of trawl or gillnet fishery shall complement the shortfall in the trawl or gillnet replacement tonnage.
+
+ii. The concerned fishery operator of tuna longline or longline fishery may apply for reserving the surplus tuna longline or longline replacement tonnage, the validity period of which shall be one year from the date of approval.
+
+## Article 10
+
+In case of any of the following circumstances, the fishery operator may directly apply for the change of fishery type:
+
+(1) Any fishing vessel of coral fishery, shellfish fishery, or fishery using submarine device(s) changes to engage in other fishery type except for the trawl fishery and gillnet fishery.
+
+(2) Any fishing vessel other than pole and line boote or troll line fishery changes to engage in pole and line boote fishery or troll line fishery.
+
+(3) Any fishing vessel of tuna longline fishery changes to engage in longline fishery.
+
+In case that a fishery operator applies to build a new vessel with the replacement qualification, he/she may change the fishery type in accordance with the preceding paragraph.
+
+## Article 11
+
+Where the change of fishery type has been approved, application for the change of fishery type shall not be made again within two years.
+
+Any imported fishing vessel shall not apply for the change of fishery type. Notwithstanding this provision, for the fishing vessel imported pursuant to subparagraph (3) of Article 27, paragraph 1, provisions of the preceding two articles may apply.
+
+## Article 12
+
+Provisions for the interchange or part-time operation of fishing vessels of directed fisheries, recreational fishery, and fishing right fishery are as the followings:
+
+(1) A fishing vessel of directed fishery may apply for engaging in or part-time operation of other fishery type(s), except for part-time fishing right fishery. Notwithstanding this provision, mackerel purse seine fishing vessels and fish carriers shall not apply for engaging in other fishery type(s).
+
+(2) A fishing vessel of full-time recreational fishery shall not apply for engaging in or part-time operation of other fishery type. Notwithstanding this provision, for a fishing vessel whose age is 3 years or above and which has been authorized by the competent authority for modification, the application for engaging in directed fisheries may be made.
+
+(3) A fishing vessel of fishing right fishery may apply for the change of fishery type(s), but shall not part-time operate other fishery type(s).
+
+In case that a fishing vessel of full-time recreational fishery applies for the change to engage in directed fisheries, the types of the directed fisheries shall be limited to pole and line boote fishery, troll line fishery, longline fishery, spear fishery and other fishery type(s) approved and promulgated by the central competent authority.
+
+In case that a fishing vessel of fishing right fishery applies for the change to engage in directed fisheries, it shall not engage in coral fishery, shellfish fishery, fishery using submarine device, or other fisheries type(s) prohibited and promulgated by the central competent authority.
+
+## Article 13
+
+Fishing vessels of directed fisheries, full-time recreational fishery and fishing right fishery may be replaced among one another.
+
+In case that any fishing vessel of full-time recreational fishery or of fishing right fishery is replaced to be engaged in directed fishery, it shall not engage in coral fishery, shellfish fishery, fishery using submarine device, trawl fishery, or any other fishery type(s) prohibited and promulgated by the central competent authority.
+
+## Article 14
+
+In case that any fishery operator applies for building a new fishing vessel with the replacement qualification of at least one fishing vessel of the same fishery type, and the replacement tonnage is less than the fishing vessel tonnage of the newly-built fishing vessel, the shortfall shall be complemented, except that the shortfall is less than one tonnage after the measurement upon the completion of building.
+
+Where the replacement tonnage exceeds the fishing vessel tonnage of the newly-built fishing vessel by one tonnage or above, the surplus replacement tonnage shall be reserved for one year starting from the date of approval of reservation. The fishery type of the reserved surplus replacement tonnage shall be the same as that of the original replacement qualification, and the reserved surplus replacement tonnage shall be used only to complement the shortfall of the replacement tonnage of other fishing vessel(s).
+
+Where the replacement tonnage to be complemented in accordance with paragraph 1 is complemented by the surplus replacement tonnage of other fishery types reserved pursuant to the preceding paragraph or by the tonnage from other fishery types except for mackerel purse seine fishing vessels and fish carrier vessels, the replacement tonnage complemented shall not exceed 5% of the fishing vessel tonnage of the newly-built fishing vessel.
+
+Where a fishery operator applies with the replacement qualification for the change of the fishery type of the existing fishing vessel in accordance with Article 9, paragraph 1, and the replacement tonnage is less or more than the fishing vessel tonnage of the existing fishing vessel, the provisions stipulated in paragraph 1 to the preceding paragraph shall, mutatis mutandis, apply.
+
+In case that a fishery operator builds a fish carrier vessel or a mackerel purse seine fishing vessel, the fishing vessel tonnage of the vessel shall not be less than that of the existing fishing vessel. The replacement tonnage of these vessels shall not be used by fishing vessel(s) of other fishery type(s) for the replacement or complement, and the surplus replacement tonnage shall not be reserved.
+
+Where a fishery operator applies for importing a fishing vessel of new fishing method, the provisions stipulated in paragraph 1 to 3, Article 15, and Article 16 shall apply mutatis mutandis to the replacement qualification and replacement tonnage. Notwithstanding such a provision, in case that a fishing vessel of the same fishery type or a full-time recreational fishing vessel is not available domestically, the required replacement tonnage for the fishing vessel to be imported shall be from other fishery types except for those of mackerel purse seine fishing vessels and fish carrier vessels.
+
+For any longline or tuna purse seine fishing vessel of 20 gross tonnage or above with the age of 25 years or above that has been lost before these Regulations were amended and became effective on 14 December 2020, the replacement tonnage shall be 74% of the original fishing vessel tonnage.
+
+In case that a fishery operator obtains a fishing vessel in accordance with Article 4, subparagraph (7), the provisions stipulated in paragraph 1 to 3, Article 15, and 16 for complementing the replacement tonnage shall mutatis mutandis apply.
+
+## Article 15
+
+Where a fishery operator builds a fishing vessel or applies for changing the fishery type with the replacement qualification pursuant to Article 9, paragraph 1, the following provisions shall apply:
+
+(1) For a fishing vessel of 24 meters or above length overall, the fishery operator shall obtain the replacement tonnage from at least one fishing vessel of 24 meters or above length overall and of 100 gross tonnage or above of the same fishery type. In case of building a new fishing vessel, the gross tonnage of newly-built vessel shall not be less than 100.
+
+(2) For a fishing vessel of 15 meters or above length overall but less than 24 meters, the fishery operator shall obtain the replacement tonnage from at least one fishing vessel of 15 meters or above length overall but less than 24 meters and of 20 gross tonnage or above of the same fishery type, or from a fishing vessel of 24 meters or above length overall and less than 100 gross tonnage of the same fishery type. In case of building a new fishing vessel, the gross tonnage of newly-built vessel shall be no less than 20 and no more than 100.
+
+(3) For a fishing vessel less than 15 meters length overall, the fishery operator shall obtain the replacement tonnage from at least one fishing vessel less than 15 meters length overall of the same fishery type, or from a fishing vessel of 15 meters or above length overall and less than 20 gross tonnage of the same fishery type. In case of building a new fishing vessel, the gross tonnage of newly-built vessel shall be no more than 20.
+
+In case that any fishery operator obtains the replacement qualification from one fishing vessel of the same level of length overall and gross tonnage to build a fishing vessel or change the fishery type pursuant to the preceding paragraph, and 95% of the replacement tonnage of the same fishery type is not reached, the replacement tonnage shall be complemented by the replacement qualification or surplus replacement tonnage of the same level of length overall and gross tonnage of the same fishery type pursuant to the provisions of each subparagraph in the preceding paragraph.
+
+Any fishing vessel less than 5 gross tonnage may be used only for the replacement of fishing vessel less than 5 gross tonnage, and shall not be used for the replacement or as complementary tonnage of fishing vessel of 5 gross tonnage or above.
+
+## Article 15-1
+
+Where a fishery operator obtains the replacement qualification of a fishing vessel whose length overall is 15 meters or above and whose gross tonnage is less than 20, and applies for building a fishing vessel before 22 March 2008, he/she may build the fishing vessel of the same fishery type with the length overall of 15 meters or above and the gross tonnage less than 20. The length overall of the newly-built fishing vessel shall be no more than 20 meters upon completion of building.
+
+## Article 15-2
+
+For any fishery operator that builds a tuna purse seine vessel for operation in the western and central Pacific Ocean, sizes of fishing vessels are classified as the following levels:
+
+(1) Level 1: length overall of 80 meters or above, with the gross tonnage of 2,000 or above.
+
+(2) Level 2: length overall of 50 meters or above but less than 80 meters, with the gross tonnage of 700 or above but less than 2,000.
+
+(3) Level 3: length overall less than 50 meters, with the gross tonnage of 200or above but less than 700.
+
+(4) Level 4: length overall less than 50 meters, with the gross tonnage less than 200.
+
+Any fishery operator that builds a fishing vessel classified in the preceding paragraph shall obtain the replacement qualification of a tuna purse seine vessel of the same level, except for the circumstances stipulated in paragraph 5. In case that the replacement tonnage is less than the fishing vessel tonnage of the newly-built fishing vessel, the provisions on complementing the replacement tonnage and reserving the surplus replacement tonnage as stipulated in Article 14, paragraph 1 to 3 and paragraph 8, as well as Article 15, paragraph 2, shall not apply.
+
+Any tuna purse seine vessel of any size level shall be replaced for building into one single vessel, and shall not be divided for replacing and building of several fishing vessels. Tuna purse seine vessels of a smaller size level shall not be combined together for the replacing and building of a tuna purse seine vessel of a larger size level.
+
+The replacement tonnage of any tuna purse seine vessel built pursuant to paragraph 1 shall be the same as that of the fishing vessel to be replaced, and the overall fish hold capacity after the completion of building shall not exceed that of the fishing vessel to be replaced.
+
+In case that a new purse seine vessel of 2,000 gross tonnage or above is built with the replacement qualification of a vessel from level 2, replacement qualification from at least one tuna longline fishing vessel which has obtained a distant water fisheries permit shall be acquired to complement two times of the shortfall that exceeds 2,000 gross tonnage.
+
+For the newly-built fishing vessel as referred to in the preceding paragraph to be replaced, it shall have the same size and level of replacement qualification as those of the replacement qualification it obtained originally.
+
+## Article 15-3
+
+Any fishery operator intending to build a new squid jigging vessel shall obtain the replacement qualification of a squid jigging vessel, and provisions on complementing the replacement tonnage and reserving the surplus replacement tonnage as stipulated in Article 14, paragraph 1 to 3 and paragraph 8, as well as Article 15, paragraph 2, shall not apply. The gross tonnage of a newly built squid jigging vessel shall not exceed 1,500.
+
+## Article 15-4
+
+The following fishing vessels whose keels are placed or the building of which has reached to the stage similar to placing the keel after 16 November 2020 shall meet the requirements on accommodation as provided in Annex III of C188-Work in Fishing Convention (hereinafter referred to as “the accommodation requirements”):
+
+(1) Any fishing vessel whose length overall is 24 meters or above.
+
+(2) Any fishing vessel whose length overall is less than 24 meters and engages in distant water fisheries.
+
+The certificate(s) proving that fishing vessels meet the accommodation requirements shall be promulgated by the central competent authority.
+
+## Article 15-5
+
+For the building of a fishing vessel in accordance with the accommodation requirements, the replacement tonnage to be complemented pursuant to Article 14, paragraph 1 shall be waived for the following spaces:
+
+(1) For the bridge is located at upper deck: the superstructure (as shown in Appendix 1).
+
+(2) For the bridge is located at the first deck that is above the upper deck (hereinafter referred to as “the first deck”): the superstructure above the first deck (as shown in Appendix 2).
+
+The space where the replacement tonnage to be complemented is waived as referred to in the preceding paragraph shall not be used as fish hold(s). In case of violating this provision, in addition to the sanction(s) imposed by the competent authority pursuant to the Act, the replacement tonnage shall be complemented for the tonnage of the fish hold(s).
+
+In case that the fishing vessel as referred to in paragraph 1 does not meet the accommodation requirements upon completion of building, the replacement tonnage shall be complemented in accordance with Article 14, paragraph 1.
+
+For any fishing vessel built in accordance with paragraph 1 that applies for the replacement qualification, the tonnage not to be complemented shall not be counted as the replacement tonnage.
+
+## Article 15-6
+
+For the building of a fishing vessel of 24 meters or above length overall and of 100 gross tonnage or above but less than 200 in accordance with the accommodation requirements, with the replacement qualification of a fishing vessel of 20 gross tonnage or above but less than 100, the obtainment of the replacement qualification of a fishing vessel of 24 meters or above length overall and of 100 gross tonnages or above pursuant to subparagraph (1) of Article 15, paragraph 1 shall be waived.
+
+For the fishing vessel built in accordance with the preceding paragraph, the replacement tonnage to be complemented pursuant to Article 14, paragraph 1 shall be the replacement tonnage of a fishing vessel of 20 gross tonnages or above but less than 100 of the same fishery type. The replacement tonnage to be complemented for a tuna longline fishing vessel proceeding to the Pacific or Indian Ocean for distant water fishery shall also meet one of the following requirements:
+
+(1) The replacement tonnage of at least one tuna longline fishing vessel of the same group which operates in the same Ocean and has obtained the distant water fisheries permit shall be acquired. The remaining replacement tonnage shall be the surplus replacement tonnage of tuna longline fishing vessel(s) which has obtained the distant water fisheries permit(s).
+
+(2) The replacement tonnage of at least two tuna longline fishing vessels which have obtained the distant water fisheries permits shall be acquired. The remaining replacement tonnage shall be the surplus replacement tonnage of tuna longline fishing vessel(s) which has obtained the distant water fisheries permit(s).
+
+For the fishing vessel as referred to in paragraph 1, the number of crew registered on its fishing license shall not exceed three plus that registered on the fishing license of the fishing vessel to be replaced before these regulations were amended and became effective on 14 December 2020.
+
+For the fishing vessel built in accordance with paragraph 1 to be replaced, the size and level of its replacement qualification shall be the same as those of the replacement qualification it obtained originally.
+
+## Article 16
+
+A longline or tuna longline fishing vessel operating with a distant water fisheries permit in the convention area of an international fisheries organization in the Pacific Ocean, Atlantic Ocean or Indian Ocean shall not be replaced by any other fishing vessel on the vessel list of other international fisheries organization.
+
+## Article 17
+
+Where the approved modification of a fishing vessel results in the increase of the gross tonnage, the provisions stipulated in Article 14 and 15 shall, mutatis mutandis, apply to the replacement tonnage to be complemented, except for any of the following scenarios where the tonnage exceeded is not to be complemented, and the tonnage not to be complemented will not be counted as the replacement tonnage in the case of applying for the replacement qualification in the future:
+
+(1) Structures to decrease sailing resistance and increase the buoyancy and stability of hull are installed, so as to enhance the safety.
+
+(2) Spaces and numbers of accommodation are increased.
+
+(3) Modifications other than the preceding two subparagraphs, where the length overall, beam, and depth of the vessel are not changed after modification, and, after measurement, the tonnage increased is not more than half of the gross tonnage before the modification.
+
+Any fishing vessel that exceeds the size and level originally approved after modification shall obtain the replacement qualification of equivalent size and level in accordance with Article 15, and may reserve its original replacement qualification. For any fishing vessel that exceeds the size and level originally approved due to the scenario stipulated in subparagraph (1) or (2) of paragraph 1, the requirement of obtaining the replacement qualification of equivalent size and level after modification shall be waived, and the size and level of its replacement qualification shall be the same as those of the replacement qualification it obtained originally.
+
+In case that a fishing vessel that meets the proviso clause in the preceding paragraph is a tuna longline fishing vessel of 20 gross tonnage or above but less than 100 and conducts distant water fisheries, and its modification is due to other reason(s) in addition to the scenario stipulated in subparagraph (1) and/or (2) of paragraph 1, such a fishing vessel shall meet one of the following requirements:
+
+(1) It shall still obtain the replacement qualification of the equivalent size and level after modification and may reserve the replacement qualification of the vessel of original size and level.
+
+(2) If it meets the accommodation requirements after modification, it is waived from obtaining the replacement qualification of equivalent size and level. The replacement qualification to be complemented shall meet any of the following requirements:
+
+i. The replacement tonnage of at least one tuna longline fishing vessel of the same group which operates in the same Ocean and has obtained the distant water fisheries permit shall be acquired. The remaining replacement tonnage shall be the surplus replacement tonnage of tuna longline fishing vessel(s) which has obtained the distant water fisheries permit(s).
+
+ii. The replacement tonnage of at least two tuna longline fishing vessels which have obtained the distant water fisheries permits shall be acquired. The remaining replacement tonnage shall be the surplus replacement tonnage of tuna longline fishing vessel(s) which has obtained the distant water fisheries permit(s).
+
+iii. In case of failing to obtain the replacement qualification in accordance with the preceding two items, the surplus replacement qualification of a tuna longline fishing vessel which has obtained the distant water fisheries permit shall be used to complement 1.6 times of the shortage in the replacement qualification.
+
+For any tuna longline fishing vessel engaging in distant water fisheries and less than 200 gross tonnage after modification, if the application is made to the central competent authority before 31 December 2023, and the maritime authorities confirm that the modified vessel is not consistent with the original measurement plan, and any of the following requirement is met, such a vessel is waived from obtaining the replacement qualification equivalent to the size and level after modification, and the provisions in subparagraph (2) of the preceding paragraph shall apply for complementing the replacement qualification:
+
+(1) The vessel is equipped with potable water generator.
+
+(2) The vessel is equipped with wireless fidelity.
+
+(3) The vessel is equipped with closed-circuit television.
+
+(4) Individual berths not less than 180 by 70 centimeters shall be provided to each crew onboard the vessel.
+
+(5) At least one inflatable life jacket shall be provided to each crew onboard the vessel.
+
+(6) Lighting of the sleeping room(s) shall be in compliance with the Regulations on Vessel Equipment.
+
+(7) The vessel shall be equipped with at least one toilet and shower.
+
+For the fishing vessel modified in accordance with paragraph 3, subparagraph (2) and the preceding paragraph to be replaced, the size and level of its replacement qualification shall be the same as those of the replacement qualification it obtained originally.
+
+## Article 18
+
+Application for the replacement qualification shall be accompanied by the following documents:
+
+(1) The original fishing license.
+
+(2) The document certifying the cancellation of the Certificate of Registry for the fishing vessel to be replaced.
+
+(3) The document certifying the loss of the fishing vessel, or documents certifying the exportation of the tuna purse seine fishing vessel approved on a case-by-case basis.
+
+(4) For fishing vessels in Matzu and Kinmen authorized to be changed into cargo vessels pursuant to subparagraph (4) of Article 3, relevant certificates issued by the navigation authority are required.
+
+(5) Any other documents or information as specified.
+
+A fishery operator whose fishing license has been cancelled pursuant to Article 8, paragraph 1, is not required to submit the documents as referred to in subparagraph (1) to (3) of the preceding paragraph when applying for the replacement qualification.
+
+## Article 19
+
+The replacement qualification is valid for 3 years starting from the date of the loss of the fishing vessel. However, a fishing vessel that applies for scrapping within the following period and the scrapping is completed within three months after the approval date of the application shall not be subject to this provision:
+
+(1) From 7 July to 31 December 2023: the replacement qualification is valid for 15 years starting from the date of the loss of the fishing vessel.
+
+(2) From 1 January to 31 December 2024: the replacement qualification is valid for 12 years starting from the date of the loss of the fishing vessel.
+
+(3) From 1 January to 31 December 2025: the replacement qualification is valid for 9 years starting from the date of the loss of the fishing vessel.
+
+The replacement qualification permitted in accordance with Article 9, paragraph 2 shall be valid for 3 years starting from the date of the approval.
+
+## Article 20
+
+In case of any of the following circumstances, no application for the replacement qualification shall be allowed:
+
+(1) The fishing vessel has not been lost.
+
+(2) Any circumstances as referred to in Article 7-1 of the Act, where application of fishing license has been refused.
+
+(3) At the time of the application for scrapping of the fishing vessel, the validity of the fishing license or the duration of approved suspension of fishery operation has been expired.
+
+(4) Any imported fishing vessel of new fishing method which has not obtained the replacement qualification after the promulgation of vessel building restriction by the central competent authority on 17 November 1989.
+
+(5) Where a fishing vessel has been stranded and its owner has not addressed properly, causing risks in navigation, or pollution of marine environment.
+
+(6) Where the fishing vessel is forfeited or confiscated by a foreign government.
+
+(7) Where the fishing vessel has encountered accident abroad and its owner has unpaid expenses that are paid in advance by relevant government authorities.
+
+## Article 21
+
+In the event that an existing fishing vessel is scheduled to be scrapped, the application for building of a new fishing vessel may be made first. Notwithstanding such a provision, the existing fishing vessel shall be scrapped completely and its original fishing license shall be cancelled before the application for issuing the fishing license of the new vessel.
+
+## Article 22
+
+Main fishery such as trawl fishery, tuna longline fishery, longline fishery, squid jigging fishery, tuna purse seine fishery, mackerel purse seine fishery and gillnet fishery shall not be registered as part-time fishery.
+
+Where the trawl fishery, longline fishery, squid jigging fishery, tuna purse seine fishery, mackerel purse seine fishery and gillnet fishery has been approved as part-time fishery, at the time of application for issuing or renewal of the fishing license, the competent authority shall cancel such part-time fishery.
+
+In case of any of the following circumstances, the original fishery operator may engage in part-time gillnet fishery until the loss of the concerned fishing vessel or the change of the fishery operator:
+
+(1) The part-time gillnet fishery was approved before these Regulations are amended and effective on 5 January 2017.
+
+(2) The approved part-time bottom-gillnet, drift net, or drift gillnet fishery is changed to gillnet fishery in accordance with Article 25-1.
+
+Any of the following circumstances is not subject to the provision of the preceding paragraph:
+
+(1) The fishing vessel is lost due to natural disaster(s), distress at sea, or other reason(s) that the fishery operator is not hold accountable. The fishery operator engages in fishery with a fishing vessel newly built with the replacement qualification of the lost fishing vessel, or the fishery operator chooses not to build a new fishing vessel but to operate an existing fishing vessel.
+
+(2) The change of fishery operator resulted from succession or the transfer between spouse or direct relative(s).
+
+## Article 23
+
+No new fishing license shall be issued to a fishing vessel of coral fishery, shellfish fishery, and fishery using submarine device, except for the renewal of fishing license upon expiry.
+
+Fishing vessels identified by the central competent authority as equipped with coral harvesting device before 31 December 2007 may operate part-time coral fishery in accordance with the regulations stipulated by the central competent authority upon these Regulations being amended and effective on 22 May 2008.
+
+In case that the fishery operator applies for the replacement qualification for the fishery types stipulated in paragraph 1, the fishery operator shall change such fishery types to other fishery type.
+
+## Article 24
+
+No restriction shall be made on the fishery type of fishing vessels less than 5 gross tonnage, except for the operation of the fishery such as coral fishery, shellfish fishery, fishery using submarine device, trawl fishery, and gillnet fishery which shall be operated in accordance with the relevant provisions of these Regulations.
+
+## Article 25
+
+Registration of the main fishery on the fishing license shall be limited to one type only and registration of part-time fishery shall be limited to three types.
+
+## Article 25-1
+
+Bottom gillnet fishery, drift net fishery, or drift gillnet fishery shall not be registered on the fishing license. Where any of such fisheries has been registered, the competent authority shall change the registration as gillnet fishery at the time of application for issuing or renewal of the fishing license.
+
+## Article 25-2
+
+Fishery operators of longline fishing vessels that catch highly migratory species, such as tunas, billfishes, and sharks, shall apply for the change of registration to tuna longline fishery within one year after these Regulations were amended and became effective on 14 December 2020, or when the fishery operators apply for the issuance or renewal of the fishing license for the first time. Such a change of registration shall be limited to only once. In case that a fishery operator fails to apply for the change within the required timeframe, he/she shall not engage in tuna longline fishery.
+
+## Article 25-3
+
+Any fishery operator that obtains the replacement qualification of a fishing vessel of other fishery type(s), the size and level of which are the same as the existing fishing vessel, may apply for operating the additional fishery type(s).
+
+The application of operating additional fishery type(s) pursuant to the preceding paragraph is waived from the limitation in Article 25 where the main fishery is limited to one type.
+
+## Article 25-4
+
+For any fishery operator that has been approved to operate additional fishery type(s) in accordance with Article 25-3 for three years or above, he/she may apply for reserving one main fishery type and cancelling other type(s), and may reserve the replacement qualification(s) of the cancelled fishery type(s), the replacement tonnage(s) of which shall be the same as the one(s) of the original fishing vessel.
+
+In case of the loss of a fishing vessel which has been approved to operate additional fishery type(s) in accordance with Article 25-3, an application may be filed to reserve the replacement qualifications of the respective fishery type.
+
+## Article 26
+
+Fishing vessel approved to be built shall complete the building and apply for fishing license within five years after the approval. In case that the completion of the building is past the timeframe, the approval shall be deemed as invalid
+
+In case that, before the expiry of the deadline for building a fishing vessel, the building is unable to complete or is combined with other vessel(s), the building may proceed after applying to the competent authority for approval for transferring to other person(s) or combining with other vessel(s). The deadline for completion of building shall be as follows:
+
+(1) For the building that transfers to other person(s): the deadline is as originally approved by the competent authority.
+
+(2) For the building that combines with other vessel(s): the deadline is the longest one among all the vessel(s) combined for building, as originally approved by the competent authority.
+
+For any fishing vessel whose approved deadline for building is not expired before the promulgation of the amendments of these Regulations on 5 July 2023, it shall complete the building and apply for fishing license within five years starting from the original approved date.
+
+## Article 27
+
+No fishing vessel shall be imported from foreign countries, except for any of the following circumstances:
+
+(1) A fishing vessel of new fishing method as reviewed and approved by the central competent authority, with the age of the vessel less than10 years starting from the date of launch to the date of application.
+
+(2) A newly-built fishing vessel of full-time recreational fishery.
+
+(3) A fishing vessel exported to and registered in a foreign country under the guidance of the central competent authority on a case-by-case basis, before the amendment and promulgation of these Regulations on 21 January 2025, resumes its registration in the Republic of China; or a fishing vessel exported to and registered in a foreign country under the guidance of the central competent authority on the basis of governmental cooperation between the Republic of China and any other foreign country, after the amendment and promulgation of these Regulations on 21 January 2025, resumes its registration in the Republic of China.
+
+(4) A tuna purse seine fishing vessel approved by the central competent authority to be exported to the small island developing States in the western and central Pacific Ocean resumes its registration in the Republic of China.
+
+(5) A fishing vessel which complies with the provisions of Article 29 or Article 29-1.
+
+For the application for the import of the fishing vessel as referred to in subparagraph (1) of the preceding paragraph, the applicant shall first obtain the replacement qualification.
+
+For the application for the import of the fishing vessel as referred to in subparagraph (2) of paragraph 1, the applicant shall first obtain the replacement qualification and the approval from the municipal or county (city) competent authority where such a vessel intends to register, and submit to the central competent authority for final approval.
+
+## Article 28
+
+[Deleted]
+
+## Article 29
+
+From 1 January 2003 to 21 March 2007 when these Regulations were amended and became effective, for any foreign flag squid jigging fishing vessel of 100 gross tonnage or above built within the Republic of China and exported and operated by the national of the Republic of the China, the import application may be made after obtaining enough replacement tonnage pursuant to Article 14.
+
+The review procedures for relevant documents for squid jigging fishing vessels imported pursuant to the preceding paragraph are subject to promulgation of the central competent authority.
+
+## Article 29-1
+
+For a foreign flag tuna purse seine fishing vessel which has been authorized by the competent authority to be invested in or operated in accordance with the Act to Govern Investment in the Operation of Foreign Flag Fishing Vessels, in case that its construction is completed within the Republic of China and its age is less than fifteen years from the launch date to the date of applying for importation, it may be imported after obtaining the replacement qualification of a tuna purse seine fishing vessel of the same level pursuant to Article 15-2.
+
+## Article 30
+
+In case that the fishing license is lost or defaced, the fishery operator shall apply to the original issuing authority for the reissuance or renewal with relevant certifying documents.
+
+## Article 31
+
+For the issuance, renewal or reissuance of the fishing license, the license fee as shown in the attached table shall be paid pursuant to Article 7 of the Act.
+
+## Article 32
+
+Rules for the fishery type, replacement and modification of sampans and fishing rafts may be established by the central or municipal competent authority. The coral fishery, shellfish fishery, fishery using submarine devices, and trawl fishery shall not be operated by sampans and fishing rafts.
+
+In addition to complying with Article 9, any sampan shall not apply for the change of its main fishery into gillnet fishery, and Article 22 shall apply mutatis mutandis.
+
+## Article 33
+
+These Regulations shall enter into force from the date of promulgation.
+
+## Attachments
+
+- [Attached Table：Attached Table standards for the license fee.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004829)
+- [Attached Table：Attached Table standards for the license fee.DOC](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003091)
+- [Appendix 1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006529)
+- [Appendix 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006530)
+
+## History
+
+1.The full text of 15 articles promulgated by the Council of Agriculture, Executive Yuan on November 17, 1989 under Order No. 78 Nong-Yu-Tsu 8040367A.
+
+2.Amended and promulgated by the Council of Agriculture, Executive Yuan on December 24, 1990 under Order No. 79 Nong-Yu-Tsu 9040585A.
+
+3.The title and articles amended and promulgated by the Council of Agriculture, Executive Yuan on December 24, 1991 under Order No. 80 Nong-Yu-Tsu 004065A.
+
+4.Amended and promulgated by the Council of Agriculture, Executive Yuan on September 30, 1992 under Order No. 81 Nong-Yu-Tsu 1040799A.
+
+5.The original title “The Regulations for Issuance of Fishing License of Fishing Vessel” and full text of 31 articles amended and promulgated by the Council of Agriculture, Executive Yuan on April 28, 1995 under Order No. 84 Nong-Yu-Tsu 4040367A.
+
+6.Article 21-1 and 22 amended and promulgated by the Council of Agriculture, Executive Yuan on January 31, 1997 under Order No. 86 Nong-Yu-Tsu 86040026A.
+
+7.Article 26 amended and promulgated by the Council of Agriculture, Executive Yuan on February 27, 1997 under Order No. 86 Nong-Yu-Tsu 86040096A.
+
+8.Article 4, 11, 14, 15, 18, and 26 amended and promulgated by the Council of Agriculture, Executive Yuan on January 6, 1998 under Order No. 87 Nong-Yu-Tsu 86040853.
+
+9.Article 30 amended and promulgated by the Council of Agriculture, Executive Yuan on November 24, 1999 under Order No. 88 Nong-Yu-Tsu 88670098.
+
+10.Article 11, 12, 14, 15, 18, and 26 amended, and Article 22 and 23 deleted, and promulgated by the Council of Agriculture, Executive Yuan on October 18, 2000 under Order No. (89) Nong-Yu-Tsu 891321449.
+
+11.Article 26 amended and Article 26-1 and 26-2 added and promulgated by the Council of Agriculture, Executive Yuan on September 28, 2001 under Order No. (90) Nong-Yu-Tsu 901321600.
+
+12.Article 12 amended and promulgated by the Council of Agriculture, Executive Yuan on June 28, 2002 under Order No. 88 Nong-Sou-Yu-Tsu 0911320977.
+
+13.Article 18, and 26-2 amended, and Article 28 deleted, and promulgated by the Council of Agriculture, Executive Yuan on June 30, 2003 under Order No. Nong-Sou-Yu-Tsu 0921321090.
+
+14.Article 3, 16, 26 and 26-3 amended and promulgated by the Council of Agriculture, Executive Yuan on June 29, 2005 under Order No. Nong-Sou-Yu-Tsu 0941331395.
+
+15.The full text of 33 articles amended and promulgated by the Council of Agriculture, Executive Yuan on March 21, 2007 under Order No. Nong-Sou-Yu-Tsu 0961320588.
+
+16.Article 3, 15, 23 and 27 amended, Article 15-1 and 15-2 added, and Article 28 deleted and promulgated by the Council of Agriculture, Executive Yuan on May 22, 2008 under Order No. Nong-Sou-Yu-Tsu 0971321101.
+
+17.Article 2, 4 and 14 amended and promulgated by the Council of Agriculture, Executive Yuan on December 21, 2009 under Order No. Nong-Yu-Tsu 0981333641.
+
+18.Article 15-2 amended and promulgated by the Council of Agriculture, Executive Yuan on December 2, 2011 under Order No. Nong-Yu-Tsu 1001331820.
+
+19.Article 14 amended and promulgated by the Council of Agriculture, Executive Yuan on April 4, 2012 under Order No. Nong-Yu-Tsu 1011321306.
+
+20.Article 14, and 15-3 amended and promulgated by the Council of Agriculture, Executive Yuan on July 13, 2012 under Order No. Nong-Yu-Tsu 1011322598.
+
+21.Article 15-2 amended and promulgated by the Council of Agriculture, Executive Yuan on February 27, 2014 under Order No. Nong-Yu-Tsu 1031332760.
+
+22.Article 27 amended and promulgated by the Council of Agriculture, Executive Yuan on January 13, 2016 under Order No. Nong-Yu-Tsu 1041338511F.
+
+23.Articles 3, 10, 19, 20, 22, 24, 25-1, and 32 amended and promulgated by the Council of Agriculture, Executive Yuan on January 5, 2017 under Order No. Nong-Yu-Tsu 1051329241A.
+
+24.Articles 27, 29, and 29-1 amended and promulgated by the Council of Agriculture, Executive Yuan on December 11, 2018 under Order No. Nong-Yu-Tsu 1071329528A.
+
+25.Part of these regulations amended and promulgated by the Council of Agriculture, Executive Yuan on June 6, 2019 under Order No. Nong-Yu-Tsu 1081327320A.
+
+26.Article 4 amended and promogulated by the Council of Agriculture, Executive Yuan on January 15, 2020 under Order No. Nong-Yu-Tsu 1081329899A.
+
+27.Article 10, 14, 15-4, 15-5, 15-6, 16 to 18, 22, and 25-2 amended and promulgated on December 14, 2020 by the Council of Agriculture, Executive Yuan under Order No. Nong-Yu-Tsu 1091328927A.
+
+28.Article 17 amended and promulgated on January 27, 2022 by the Council of Agriculture, Executive Yuan under Order No. Nong-Yu-Tsu 1111332148.
+
+29.Article 15-2, 15-6, 17, 19, and 26 amended and promulgated on 5 July 2023 by the Council of Agriculture, Executive Yuan under Order No. Nong-Yu-Tsu 1121325196.
+
+30.Article 22 amended and promulgated on 27 September 2023 by the Ministry of Agriculture under Order No. Nong-Yu-Tsu 1121327353.
+
+31.Part of these Regulations amended and promulgated on 21 January 2025 by the Ministry of Agriculture under Order No. Nong-Yu-Tzu 1131526393.
+
+32.Article 29-1 amended and promulgated on 2 April, 2025 by the Ministry of Agriculture under Order No. Nong-Yu-Tsu 1141533142.

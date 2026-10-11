@@ -1,0 +1,207 @@
+---
+title: "Regulations Governing Management of Designated Psychiatric Care Institutions"
+title_zh: "指定精神醫療機構管理辦法"
+identifier: "L0020136"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞心理健康目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-07-02
+last_amended: 2024-11-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020136"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Management of Designated Psychiatric Care Institutions
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0020136-regulations-governing-management-of-designated-psychiatric-care-institutions.md](../../../zh/regulations/ministry-of-health-and-welfare/L0020136-regulations-governing-management-of-designated-psychiatric-care-institutions.md)) is authoritative.
+
+## Article 1
+
+These Regulations were enacted pursuant to Paragraph 4, Article 48 of the Mental Health Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+An institution that has passed the hospital accreditation or psychiatric hospital accreditation and is equipped with psychiatric acute beds may apply to the municipal/city/county competent authority (hereinafter referred to as the “Local Competent Authority”) to become a designated psychiatric institution.
+
+The designated psychiatric institution referred to in the preceding paragraph shall have two (2) or more psychiatrists. With regard to the offshore islands or remote areas, however, such an institution may have only one psychiatrist.
+
+The application referred to in the first paragraph shall be made by submitting a completed application form as well as the documents and materials specified by the Local Competent Authority to said authority.
+
+## Article 3
+
+Where an application referred to in Paragraph 1 of the preceding Article is reviewed and approved, the Local Competent Authority shall declare it.
+
+The designated period of validity referred to in the preceding paragraph shall be three (3) years. If an extension is necessary, an application shall be made three (3) months prior to the expiration. The approved extension shall be granted and is limited to a three-year term.
+
+The rules set forth in the preceding article shall apply mutatis mutandis to the qualifications, documents, materials, and procedures required for the extension application.
+
+A designated psychiatric institution may continue to provide the services set forth in Article 5 hereof before the Local Competent Authority completes the review procedure for the extension referred to in Paragraph 2.
+
+The extension application is approved by the Local Competent Authority, and the extension period of the designated psychiatric institution shall commence from the day following the expiration of the previous designation period.
+
+## Article 4
+
+Where the resources for the designated mental health care within its district are insufficient, the Local Competent Authority may designate a psychiatric institution on its own authority within its jurisdiction or request another Local Competent Authority to coordinate with a designated psychiatric institution within its jurisdiction to assist in providing the services set forth in Article 5 hereof.
+
+The Local Competent Authority shall submit the list of designated psychiatric institutions referred to in Paragraphs 1 and 2 of the preceding Article and in the preceding paragraph to the central competent authority for reference, and to notify the local police and fire agencies.
+
+## Article 5
+
+A designated psychiatric institution shall cooperate with the commission or designation of the Local Competent Authority, and provide the following services:
+
+\1. Emergency placement, mandatory hospitalization, and mandatory community treatment of severely afflicted patients;
+
+\2. Emergency handling of severely afflicted patients or other patients;
+
+\3. Acceptance of patients sent in by the police or firefighting agencies;
+
+\4. Acceptance of patients referred by other medical institutions; and
+
+\5. Other services commissioned or designated by the Local Competent Authority.
+
+## Article 6
+
+A designated psychiatric institution may apply to the Local Competent Authority for its psychiatrists to become designated specialist physicians (hereinafter referred to as the “Designated Physician”).
+
+Psychiatrists at a non-designated institution may apply to the Local Competent Authority for becoming a Designated Physician.
+
+The applications under the preceding two paragraphs shall be announced by the Local Competent Authority once approved by that authority. The Local Competent Authority shall also submit the list of Designated Physicians to the central competent authority for the record.
+
+The qualification of the Designated Physician referred to in the preceding two paragraphs shall be valid for six (6) years, and may handle the matters specified in Article 14 within jurisdictions other than that of the Local Competent Authority which made the public announcement.
+
+Where the number of Designated Physicians is insufficient within its district, the Local Competent Authority may request other Local Competent Authorities to have the Designated Physicians within their districts support and assist in the matters set forth in Article 14 hereof.
+
+## Article 7
+
+Designated Physicians shall complete continuing education training courses within the validity period of their designation.
+
+Those who have completed the courses referred to in the preceding paragraph may submit relevant evidence documents and apply to the Local Competent Authority for an extension of their qualification three (3) months prior to the expiration. Each approved extension shall be valid for a term of six years.
+
+The courses referred to in Paragraph 1 shall be conducted by the central competent authority, the local competent authority, or agencies, institutions, legal persons, or organizations designated by the central competent authority (hereinafter collectively referred to as the “Organizers”).
+
+## Article 8
+
+Designated Physicians who fail to apply for an extension before the expiration of their qualification shall not continue to handle the matters set forth in Article 14 and shall complete the extension application procedures referred to in Paragraph 2 of the preceding Article as soon as possible.
+
+Once the extension is completed, the renewed qualification shall commence from the day following the expiration of the previous designation period.
+
+## Article 9
+
+The continuing education courses set forth in the first paragraph of Article 7 cover the following:
+
+\1. Mandatory assessment, mandatory hospitalization, and mandatory community treatment.
+
+\2. Ethics in psychiatry and protection of human rights.
+
+\3. Mental Health Act and its relevant regulations.
+
+\4. Quality of mental health care.
+
+A total of at least two (2) points is required for a participant to accumulate from attending the courses set forth in Subparagraphs 3 and 4 in the preceding paragraph; if a total of more than six (6) points is accumulated by a participant, he/she will be considered to have accumulated a total of six (6) points.
+
+The points accumulated from all courses referred to in Paragraph 1 shall total at least twelve (12) points within each six-year period, and may, depending on their properties or contents, be used as an exemption of points according to Regulations Governing Registration of Medical Personnel for Practice and Their Continuing Education.
+
+## Article 10
+
+Regulations on the methods of implementing the continuing education courses and the accumulation of points are as follows:
+
+\1. A participant who attends lecture-based courses accumulates 1 point per hour; one who serves as a lecturer accumulates 2 points per hour.
+
+\2. A participant who attends practice-based courses (including discussion of case studies) accumulates 1 point per hour; one who serves as a lecturer accumulates 2 points per hour.
+
+\3. A participant who attends seminars on topics related to mandatory assessment, mandatory hospitalization, and mandatory community treatment that are held by domestic or international professional associations accumulates 1 point per hour; one who lectures on a topic in a seminar accumulates 2 points per hour.
+
+The maximum number of points that a participant can accumulate from attending the courses set forth in Subparagraph 2 in the preceding paragraph is six (6); if more than six (6) points are accumulated by a participant, he/she will be considered to have accumulated six (6) points.
+
+## Article 11
+
+A participant who takes up the position as a lecturer for the continuing education courses set forth in Subparagraphs 1 and 2 in the first paragraph of the preceding article shall have one of the following qualifications:
+
+\1. Be an attending physician with a bachelor’s degree or above in medicine, who has seven (7) years of experience or more working in the department of psychiatry in a teaching hospital or in a psychiatric teaching hospital.
+
+\2. Be a professional with a bachelor’s degree or above in medical affairs or fields related to social work, who has seven (7) years of experience or more working in the department of psychiatry in a teaching hospital or in a psychiatric teaching hospital.
+
+\3. Be a law specialist or a professional with a bachelor’s degree or above in fields related to mental health, who has been recognized by the central competent authority.
+
+\4. Be a physician, a member of nursing staff, an occupational therapist, a psychologist, a social worker, and a health administrator who has five (5) years of experience or more in an administrative role within a mental health agency.
+
+\5. Be among other professionals who have been recognized by the central competent authority.
+
+The academic qualifications referred to in Subparagraphs 1 to 3 of the preceding paragraph shall be limited to degrees from a domestic or international university recognized by the Ministry of Education.
+
+The personnel referred to in Subparagraphs 1 to 4 of Paragraph 1 shall have at least three (3) years of practical experience in mandatory assessment, mandatory hospitalization, or mandatory community treatment.
+
+## Article 12
+
+The procedures for conducting continuing education courses are as follows:
+
+\1. The Organizers shall submit information on the course title, hours, content, the academic credentials and experience of the lecturers, and other specified documents and materials to the central competent authority for review and recognition application thirty (30) days prior to a course being conducted.
+
+\2. Within seven (7) days of offering a continuing education course, the Organizers shall submit the list of participants and the effectiveness evaluation results to the Taiwan Society of Psychiatry and to the Local Competent Authorities where the participants reside for record. Only after completing this process may the Organizers issue certificates of course hours.
+
+\3. Upon receiving the materials referred to in the preceding paragraph, the Local Competent Authority shall upload the information into the information management system established by the central competent authority.
+
+Where the Organizers fail to comply with the procedures in the preceding paragraph, the Local Competent Authority shall not recognize the certificates of course hours issued.
+
+## Article 13
+
+The central competent authority may entrust its agency, an agency, an institution, a professional legal person, or an organization to handle the review and recognition application set forth in the first subparagraph of the preceding article.
+
+The institution, legal person, or organization referred to in the preceding paragraph shall meet the following criteria:
+
+\1. Be a national medical association, a professional society, or a professional association in fields related to psychiatry and psychology.
+
+\2. Be established for three years.
+
+\3. The number of its members shall reach 50% or more of the practicing psychiatrists if it is a physician group.
+
+When being entrusted to handle the review and recognition of a course set forth in the first paragraph, the professional legal person or organization referred to in the preceding paragraph shall submit the following documentation and materials to the central competent authority for application:
+
+\1. Documents certifying establishment, charter, organization overview, and data on the number of members.
+
+\2. Manpower allocation and handling procedure adopted by the course.
+
+\3. Methods of process monitoring adopted by the course.
+
+\4. Document preservation adopted by the course.
+
+\5. Methods for managing course quality.
+
+\6. Items and amount charged.
+
+\7. Other documentation and materials required by the central competent authority.
+
+## Article 14
+
+The Designated Physician shall, upon commission or designation by the Local Competent Authority, handle the tasks set forth in Paragraph 2 of Article 54, Paragraph 1 of Article 55, Paragraph 4 of Article 57, Paragraphs 2 and 4 of Article 59, and Paragraph 2 of Article 63 of the Act.
+
+## Article 15
+
+Where a Designated Physician loses his/her qualification as a psychiatrist, the qualification of the designation shall become invalid.
+
+Where a Designated Physician seriously violates the Act or other laws or regulations related to medical affairs, the Local Competent Authority may revoke the designation.
+
+## Article 16
+
+The designated psychiatric institutions may apply to the central competent authority for subsidies to cover expenses incurred in providing the services set forth in Article 5 and maintaining related safety measures.
+
+## Article 17
+
+These Regulations shall be enforced from December 14, 2024, except for Article 14, which shall take effect on the date of enforcement of Chapter V of the Act as amended and promulgated on December 14, 2022.
+
+## History
+
+1.The full text of 10 articles formulated and promulgated as per Department of Health Order Wei-Shu-Yi-Zi-Di No. 0970209942 on July 2, 2008
+
+2.Article 9-1 amended and promulgated as per Department of Health Order Wei-Shu-Yi-Zi-Di No. 0990201021 on February 9, 2010
+
+3.The full text of 17 articles amended as per Department of Health Order Wei-Shu-Yi-Zi-Di No. 1010201683 on January 19, 2012
+
+4.The full text of 17 articles amended and promulgated as per Ministry of Health and Welfare Order Wei-Bu-Xin-Zi-Di No. 1131762773 on November 22, 2024; effective from December 14, 2024, except for Article 14, which shall take effect on the implementation date of Chapter 5 of the Mental Health Act amended and promulgated on December 14, 2022
+
+Corrigendum of Articles 6 and 17 and the comparison table of Article 17 as per Ministry of Health and Welfare Order Wei-Bu-Xin-Zi-Di No. 1141760223E on March 13, 2025

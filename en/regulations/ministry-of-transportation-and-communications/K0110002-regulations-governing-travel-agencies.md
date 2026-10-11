@@ -1,0 +1,991 @@
+---
+title: "Regulations Governing Travel Agencies"
+title_zh: "旅行業管理規則"
+identifier: "K0110002"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1953-10-27
+last_amended: 2024-12-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110002"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Travel Agencies
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0110002-regulations-governing-travel-agencies.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0110002-regulations-governing-travel-agencies.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These regulations are promulgated in accordance with Paragraph 3, Article 66 of the Statute for the Development of Tourism (hereinafter “the Statute”)
+
+### Article 2
+
+The establishment, change or dissolution of travel agencies, issuance of operating licenses, operation and management, punishing and rewarding, and management and the training of travel agency managers and staff shall be administered by the Tourism Administration under the commission of the Ministry of Transportation and Communications (hereinafter“ the MOTC”).Commissioned operations along with related legal grounds shall be announced and publicized in government bulletins or newspapers.
+
+### Article 3
+
+Travel agencies are divided into consolidated travel agencies, Class-A travel agencies, and Class-B travel agencies.
+
+The business scope of consolidated travel agencies shall consist of the following:
+
+1.) Being commissioned to sell passenger tickets for domestic or foreign land, sea, and air transportation operators, or to buy domestic or overseas passenger tickets and to handle shipment of luggage for travelers.
+
+2.) Being commissioned to handle inbound and outbound procedures and visa applications for travelers.
+
+3.) Soliciting of business from or receiving domestic and overseas tourists, and arranging for their tours, food, accommodation, and transportation.
+
+4.) Arranging domestic and overseas tours, food and accommodation, and transportation for travelers as well as related services, through chartered or self-organized tour packages.
+
+5.) Commissioning of other consolidated travel agencies to solicit business as indicated in the preceding sub-paragraph.
+
+6.) Commissioning of Class-A travel agencies to solicit business as indicated in the preceding sub-paragraph.
+
+7.) Commissioning of Class-B travel agencies to solicit domestic tour group business as indicated in sub-paragraph 4 of this article.
+
+8.) Handling of communication, promotion, and price quotation on behalf of foreign travel agencies.
+
+9.) Planning of domestic and overseas tours, and arranging for tour guides or tour managers.
+
+10.) Providing of advice on domestic and overseas tours.
+
+11.) The sale of travel-related merchandise and services, the collection of fees via online platforms and phone applications, and the collection of travel-related insurance premiums for products offered by collaborating insurance companies.
+
+12.) Operating other domestic and overseas tour-related businesses as approved by the central administrative authority.
+
+The business scope of Class-A travel agencies shall consist of the following:
+
+1.) Being commissioned to sell passenger tickets for domestic or foreign land, sea, and air transportation operators, or to buy domestic or overseas passenger tickets and to handle shipment of luggage for the traveler.
+
+2.) Being commissioned to handle inbound and outbound procedures and visa applications for travelers.
+
+3.) Soliciting of business from or receiving domestic and overseas tourists; arranging for their tour, food, accommodation, and transportation.
+
+4.) Arranging of overseas tours, food and accommodation, and transportation for travelers as well as provision of related services, through self-organized tour packages.
+
+5.) Soliciting of businesses as indicated in sub-paragraph 6 of the preceding paragraph on behalf of consolidated travel agencies.
+
+6.) Handling of communication, promotion, and price quotation on behalf of foreign travel agencies.
+
+7.) Planning of domestic and overseas tours, and arranging for tour guides or tour managers.
+
+8.) Providing of advice on domestic and overseas tours.
+
+9.) The sale of travel-related merchandise and services, the collection of fees via online platforms and phone applications, and the collection of travel-related insurance premiums for products offered by collaborating insurance companies.
+
+10.) Operating other domestic and overseas tour-related businesses as approved by the central administrative authority.
+
+The business scope of Class-B travel agencies shall consist of the following:
+
+1.) Being commissioned to sell passenger tickets for domestic land, sea, and air transportation operators, or to buy domestic passenger tickets and handle shipment of luggage on behalf of travelers.
+
+2.) Soliciting of business from or receiving domestic tourists or foreigners with legal residence permits, including the people of the Mainland Area, the residents of Hong Kong and Macau; arranging for tours, food and accommodation, and transportation; and providing of related services.
+
+3.) Soliciting of businesses related to domestic group tours on behalf of consolidated travel agencies as indicated in sub-paragraph 7 of Paragraph 2 of this Article.
+
+4.) Planning of domestic tours.
+
+5.) Providing of advice on domestic tours.
+
+6.) The sale of travel-related merchandise and services, the collection of fees via online platforms and phone applications, and the collection of travel-related insurance premiums for products offered by collaborating insurance companies.
+
+7.) Operation of other domestic tour-related businesses as approved by the central administrative authority.
+
+The businesses as stipulated by the preceding three paragraphs may not be conducted unless the operator has duly received travel agency operating license. Such restrictions shall not apply to the selling of passenger tickets for ordinary domestic sea, land or air transportation.
+
+### Article 4
+
+A travel agency shall be incorporated and operated exclusively for travel businesses, and the name of the incorporated travel agency shall include the Chinese words for travel agency, “Lu Sing She”.
+
+## Chapter II Registration of Travel Agencies
+
+### Article 5
+
+A travel agency shall produce the following documents when applying to the Tourism Administration of the MOTC (hereinafter “the Tourism Administration”) for establishment:
+
+1.) Application form for travel agency establishment.
+
+2.) List of founders.
+
+3.) List of managers and photocopies of managers’ certificates of completion.
+
+4.) Documentary proof of use permit of business premises concerned.
+
+### Article 6
+
+A travel agency, after having been approved for establishment, shall complete corporate registration within two months. It shall pay a Travel Agency Guarantee Deposit together with registration fee, and apply for registration with the Tourism Administration by presenting the documents listed below. Failure to comply within the time limit shall result in the revocation of the establishment approval. However, in case there is valid reason for such delay, the applicant may apply for a single extension.
+
+1.) Application form for travel agency registration.
+
+2.) Documents proving corporate registration.
+
+3.) Corporate charter.
+
+4.) Travel agency establishment and registration card detailing the business items.
+
+A travel agency may not commence business unless the aforesaid application has been approved, the travel agency registration has been issued, and a designated serial number for registration has been given.
+
+### Article 7
+
+To establish a branch company, a travel agency shall apply to the Tourism Administration by presenting the following documents:
+
+1.) Application form for the establishment of the branch company.
+
+2.) Minutes of the board of directors meeting, or written agreement of stockholders.
+
+3.) Corporate charter.
+
+4.) List of managers and documentary proof of their educational background, and photocopy of graduation certificates of travel agency managers.
+
+6.) Documentary proof of use permit for business premises concerned.
+
+### Article 8
+
+A travel agency, after having been approved for the establishment of the branch company, shall duly complete registration procedures for the establishment of the branch company, and shall pay a Travel Agency Guarantee Deposit and registration fee, and apply for registration with the Tourism Administration by presenting the documents listed below. Failure to comply within the time limit shall result in the revocation of the establishment approval. However, in case there is valid reason for such delay, the applicant may apply for a single extension.
+
+1.) Application for registration of the branch company.
+
+2.) Documentary proof of corporate registration of the branch company.
+
+Paragraph 2 of Article 6 shall apply mutatis mutandis to the application for establishment of a branch company.
+
+### Article 9
+
+In the event of any change in the organizational structure, name, type, invested capital, address, representative, board directors, supervisors, or managers of a travel agency, or if a travel agency is merged with other travel agencies, the travel agency concerned shall, within fifteen days after such change or merger, apply with the Tourism Administration for approval by presenting the documents listed below. It shall then complete registration of such corporate changes in accordance with the Company Law, and apply for replacement of the operating license within two months by presenting the related documents.
+
+1.) Application form for changes in corporate registration.
+
+2.) Other related documents.
+
+The regulation in the preceding paragraph shall apply mutatis mutandis to changes in the address or managers of branch companies of a travel agency.
+
+Transfer of stocks or invested capital of a travel agency to another party shall be conducted in accordance with due procedures for registration of stock transference or for change in invested capital, and shall be reported to the Tourism Administration.
+
+### Article 10
+
+A Consolidated travel agency or Class-A travel agency which intends to establish a branch institution or to operate a travel business in a foreign country, Hong Kong, Macau or mainland China, cooperate with a travel agency in a foreign country, Hong Kong, Macau or mainland China, shall follow the provisions of related laws and regulations and report such venture to the Tourism Administration.
+
+### Article 11
+
+The minimum amount of the paid-in capital of a travel agency shall be as follows:
+
+1.) Consolidated travel agencies: NT$30 million.
+
+2.) Class-A travel agencies: NT$6 million.
+
+3.) Class-B travel agencies: NT$ 1.2 million.
+
+A capital increase of NT$1.5 million shall be required for each new domestic branch company of a consolidated travel agency. A capital increase of NT$1 million shall be required for each new domestic branch company of a Class-A travel agency. A capital increase of NT$600,000 shall be required for each new domestic branch company of a Class-B travel agency. A travel agency that has an original invested capital sufficient to cover the capital increment required for such establishment of a new branch company is exempt from these provisions.
+
+### Article 12
+
+A travel agency shall pay a registration fee and Travel Agency Guarantee Deposit in accordance with the following provisions:
+
+1.) Registration fee:
+
+(A). One-thousandth of total invested capital.
+
+(B). One-thousandth of capital increase for a branch company.
+
+2.) Guarantee deposit:
+
+(A). NT$10 million for Consolidated travel agencies.
+
+(B). NT$1.5 million for Class-A travel agencies.
+
+(C). NT$600,000 for Class-B travel agencies.
+
+(D). NT$300,000 for each branch company of consolidated or Class-A travel agencies.
+
+(E). NT$150,000 for each branch company of Class-B travel agencies.
+
+(F). For a travel agency that has no record of business suspension for the last two years, that has not been subject to compulsory execution of the Travel Agency Guarantee Deposit, and that has obtained membership in a public-interest association for tourism that is recognized by the central administrative authority as a competent agent for safeguarding the interests of tourists, the guarantee deposit may be reduced to one-tenth of the mandatory amount for same type of travel agency as indicated in Item A to Item E.
+
+In the event of any of the following changes in a travel agency, the starting point of the two-year period as indicated in item F of subparagraph 2 shall be changed to the time of occurrence of such change:
+
+1.) Change in the name of travel agency.
+
+2.) Change of representative, with the new representative being other than an original stockholder of the agency and has qualified as a stockholder the less than a year.
+
+Payment of the Travel Agency Guarantee Deposit shall be made in the form of a certificate of deposit issued by a bank.
+
+The charge for licensing, replacement, or reissuance of a travel agency operating license shall be NT$1,300.
+
+The renewal or reissuance of an operating license for a travel agency, necessitated by a change of address caused by the rezoning of the administrative district or by a change in the property numbering system affecting the travel agency in question, shall be without charge.
+
+### Article 13
+
+A travel agency and its subsidiaries shall each assign at least one manager to be responsible for supervision and administration of its business.
+
+The managers of a travel agency as indicated in the preceding paragraph shall work exclusively for the travel enterprise on a full-time basis. They may not work as a part- time manager of another travel agency, nor may they operate another travel agency owned by themselves or other persons.
+
+### Article 14
+
+A person having engaged in any of the following acts may not assume the post of founder, board director, supervisor, manager, or stockholder in the capacity of business executive or corporate representative, and, if already assumed, shall be discharged ipso facto of such post. In such cases, the Tourism Administration shall revoke or annul the pertinent travel agency registration and notify the administrative authority of corporate registration.
+
+1.) Having committed an offence as specified in the Statute for Prevention of Organizational Crimes and subsequently convicted of a crime, and has not started serving the sentence, has not completed serving the sentence, or five years have not elapsed since completion of serving the sentence, expiration of the probation, or pardon.
+
+2.) Having committed the offence in terms of fraud, breach of trust or misappropriation and subsequently convicted with imprisonment for a term of more than one year, and has not started serving the sentence, has not completed serving the sentence, or two years have not elapsed since completion of serving the sentence, expiration of the probation, or pardon.
+
+3.) Having committed the offense as specified in the Anti-corruption Act and subsequently convicted of a crime, and has not started serving the sentence, has not completed serving the sentence, or two years have not elapsed since completion of serving the sentence, expiration of the probation, or pardon.
+
+4.) Having been adjudicated bankrupt or adjudicated of the commencement of liquidation process by a court, and having not been reinstated to his rights and privileges.
+
+5.) Having been dishonored for unlawful use of credit instruments, and the term of such sanction has not expired yet.
+
+6.) Having no or only limited disposing capacity.
+
+7.) Having been adjudicated of the commencement of assistantship and such assistantship having not been revoked yet.
+
+8.) Having operated another travel agency, whose operating license has been revoked or annulled less than five years ago.
+
+### Article 15
+
+Managers of a travel agency shall meet one of the following qualification conditions, and may not assume their post until they have obtained the pertinent certificate upon successful completion of a training course organized by the Tourism Administration or by an authorized organization, group, or school under the commission of the Tourism Administration.
+
+1.) Having graduated from college or above, or having passed the senior civil service examination, and having served as the representative of a travel agency for more than two years.
+
+2.) Having graduated from college or above, or having passed the senior civil service examination, and having been in charge of the operating unit of an enterprise providing sea, air, or land transportation services for passengers for more than three years.
+
+3.) Having graduated from college or above, or having passed the senior civil service examination, and having worked for a travel agency as a full-time employee for more than four years, or as a tour manager or tour guide for more than six years.
+
+4.) Having graduated from senior high school, having passed the junior civil service examination, having completed at least two-thirds of the required credits at two-year vocational college, three-year vocational college, or university, or five-year vocational junior college, and having worked for a travel agency as a representative for more than four years, as a full-time employee for more than six years, or as a tour manager or tour guide for more than eight years.
+
+5.) Having worked as a full-time employee at a travel agency for more than ten years.
+
+6.) Having graduated from college or above, or having passed the senior civil service examination, and having taught courses in professional tourism at a domestic or overseas university or college for more than two years.
+
+7.) Having graduated from college or above, or having passed the senior civil service examination, and having worked as a full-time employee at an operating unit of a tourism administrative agency for more than three years, or having graduated from senior high school and having worked as a full-time employee at an operation unit of a tourism administrative agency or an association of travel agencies for more than five years.
+
+Seniority qualifications as indicated in sub-paragraph 2 to sub-paragraph 4 of the preceding paragraph shall be reduced by one year for a person who has graduated from the tourism department of a senior high school, college or higher institution of education.
+
+Those who have successfully completed a training course as indicated in sub- paragraph 1 but have not been employed by a travel agency for following three years, may not be employed as manger unless they have retaken and successfully completed the training course.
+
+### Article 16
+
+The training of travel agency managers shall be undertaken by the Tourism Administration or a related organization, institution, or school appointed thereby.
+
+The appointed organization or school in the preceding paragraph must meet one of the following qualifications:
+
+1.) It must be a tourism organization connected with the travel industry or travel agency managers, and has been either under mandate of the Tourism Administration, or within the preceding two years, has undertaken relevant training of persons pursuing employment in the travel industry on its own initiative.
+
+2.) It must be a school at tertiary level or above that has established a tourism related department, and has been either under mandate of the Tourism Administration, or within the preceding two years, has undertaken relevant training of persons pursuing employment in the travel industry on its own initiative.
+
+### Article 17
+
+The methods, curriculum, fees and related rules of travel agency manager training shall be stipulated by the Tourism Administration or mapped out by a related organization or institution appointed by the Tourism Administration and submitted to the Tourism Administration for approval.
+
+### Article 18
+
+Applicants to participate in travel agency manager training shall submit an application with appended certification of qualification and payment of the training fees to the Tourism Administration or the related organization or institution appointed thereby, and shall report to receive training at the appointed training time.
+
+Participants in travel agency manager training may, after paying registration fees and up to seven days prior to commencement of training, cancel their registration and apply for reimbursement of seventy percent of training fees, but shall not be entitled to reimbursement for later cancellation. However, if they are unable to attend training owing to maternity leave, serious illness, or other proper cause, they may apply for reimbursement of the whole of the training fees.
+
+### Article 19
+
+Travel agency manager training shall consist of sixty lessons, each of fifty minutes in duration.
+
+Trainees may not be absent from class at training times for more than ten percent of the lessons.
+
+Each time a trainee is more than ten minutes late for a lesson or leaves a lesson more than ten minutes early shall be counted as an absence from the lesson.
+
+### Article 20
+
+Test results of travel agency manager training shall be marked out of one hundred points, with seventy points as the pass mark.
+
+Those who fail to obtain a passing mark shall apply for retesting one time within seven days; those who fail to obtain a passing mark on retesting shall not complete the training course.
+
+Those who, owing to maternity leave, serious illness, or other proper cause, obtain approval to postpone being tested shall apply for testing within one year; and those who fail the test shall be subject to the provisions in the preceding paragraph.
+
+### Article 21
+
+If any of the following situations applies to a person receiving travel agency manager training during the training period, the person shall withdraw from the training, and may not apply for reimbursement of any training fees already paid:
+
+1.) The trainee is absent from more than ten percent of the lessons.
+
+2.) Someone else attends the training in the trainee's name.
+
+3.) A certificate of qualification submitted with the trainee's registration is forged or has been altered.
+
+4.) The trainee acts violently or threateningly toward an instructor, training assistant or any other training personnel during the training period.
+
+5.) A serious instance of other concrete fact sufficient for inferring that the trainee's moral conduct violates the code of professional ethics.
+
+If any of sub-paragraphs 2 to sub-paragraphs 4 of the preceding paragraph, the person may not participate in travel agency manager training within two years after withdraw from the training.
+
+### Article 22
+
+An organization, institution or school appointed to conduct travel agency manager training shall implement the training program as approved by the Tourism Administration, and within fifteen days of the completion of the training shall submit for reference to the Tourism Administration a list of the trainees’ results and the numbers of trainees who have completed and withdrawn from training.
+
+### Article 23
+
+If an organization, institution, or school appointed to conduct travel agency manager training fails to comply with the requirements in the preceding Article, the Tourism Administration may notify it to make correction within a set time; and if it fails to make correction within the set time, its appointment may be revoked, and it may not participate in selection for training appointment within the ensuing two years.
+
+### Article 24
+
+After completion of travel agency manager training, trainees who have been affirmed as achieving the requisite pass mark and have paid the certification fee shall be issued with certificates of completion by the Tourism Administration.
+
+The aforementioned certification fee shall be NT$700 per copy; and the same shall apply to the issuance of replacement copies.
+
+### Article 25
+
+A travel agency shall have a permanent business premise; and there should be a clear separation space between its business premises and other profit-making enterprises.
+
+### Article 26
+
+A foreign travel agency that intends to establish a branch company in the ROC may not commence business un-less it has applied with the Tourism Administration for approval, followed through with the procedures specified by law for Company Act registration of a branch company, and obtained an operating license. Regulations governing the head company of a ROC travel agency shall apply mutatis mutandis to the business scope, funds for business operation within the ROC, Travel Agency Guarantee Deposit, registration fee, and license replacement fee for such company.
+
+### Article 27
+
+When meeting the following conditions, a foreign travel agency that has not established a branch company in the ROC may appoint a business representative or entrust a domestic consolidated travel enterprise or a Class-A travel agency to handle communication, promotion, and price quotation on its behalf, but may not practice business by itself:
+
+1.) Being a corporation for international travel businesses established in accordance with the related laws of its home country.
+
+2.) Having been forbidden by the pertinent administrative authorities from doing business
+
+3.) Having no record of violating business principles of good faith.
+
+The business representative as indicated in the preceding paragraph shall establish a representative office, and shall produce the following documents when applying with the Tourism Administration for approval, upon which a report must be submitted in compliance with the Company Act to the central administrative authority for registration within two months:
+
+1.) Application form.
+
+2.) Authority of the business representative gave by the head office.
+
+3.) Identification of the business representative.
+
+4.) Photocopy of travel agency’s permit and commencement of business papers notarized by an overseas representative office of the R.O.C
+
+A foreign travel agency may entrust a domestic consolidated travel enterprise or a Class-A travel agency to handle communication, promotion, and price quotation on its behalf, and shall produce the following documents when applying with the Tourism Administration for approval:
+
+1.) Application form.
+
+2.) Written agreement of the consolidated travel agency or the Class-A travel agency to serve as proxy for businesses.
+
+3.) Photocopy of travel agency operating license and document certifying business practice notarized by an overseas representative office of the ROC.
+
+The representative of a foreign travel agency may not be simultaneously employed by domestic travel agencies.
+
+When the corporate name is used for the identification of the representative office as indicated in Paragraph 2 of this Article, the additional wording “business representative office” shall be added for clarification.
+
+### Article 28
+
+If a registered branch of a foreign travel agency in the ROC needs to change its business representative, it should submit for approval the following documents to the Tourism Administration of the Ministry of Transportation and Communications:
+
+1.) A completed application form
+
+2.) A letter of authorization for the new business representative
+
+3.) Identity papers for the above representative
+
+If a foreign travel agency needs to change its business address, it should submit for approval the following documents to the Tourism Administration of the Ministry of Transportation and Communications:
+
+1.) A completed application form
+
+2.) The ownership certificate of the building where the business is located; in the case that the owner is not the responsible person of the business or a partner, the written consent of the owner shall be attached. The ownership certificate of the building can be substituted by the lease agreement signed between the business and the owner or other documents specifying that the building can be used for business registration or for business use.
+
+If the operator of a foreign travel agency branch in the ROC decides to close the branch, it should submit for approval the following documents to the Tourism Administration of the Ministry of Transportation and Communications:
+
+1.) A completed application form
+
+2.) Document of proof showing that the business representative has been relieved of his/her responsibilities.
+
+### Article 29
+
+A travel agency, having been approved and registered, shall commence business within one month after obtaining its operating license.
+
+The travel agency may put up its signboard only after it has obtained its operating license. In the event of a change in its address, the travel agency shall remove the signboard at the original address before changing its operating license.
+
+The stipulations of the preceding two paragraphs shall apply mutatis mutandis to the branch company of a travel agency.
+
+## Chapter III Operation
+
+### Article 30
+
+Before commencing business, a travel agency shall submit notification of the date of business commencement and a list of employees to the Tourism Administration based on the Administration’s format.
+
+The list of employees mentioned in the preceding paragraph shall be consistent with the payroll list of the travel agency. In the event of any change in the travel agency’s employed staff, the travel agency shall file the change in accordance with the regulations of the Tourism Administration within ten days.
+
+A travel agency shall, prior to June 30th every year, fill out a report on its financial and operational status in the form specified by the Tourism Administration.
+
+### Article 31
+
+A travel agency that intends to suspend operations for more than one month shall submit an application, with reasons for suspension stated, along with the minutes of the shareholders’ meeting or written agreement of the shareholders to the Tourism Administration for filing within fifteen days following the suspension, and shall return all its registration and license.
+
+An application as indicated in the preceding paragraph may not be made for a suspension of operations in excess of one year. A travel agency may however apply, with reasonable justifications, for an extension of suspension for up to one year. The application for extension should be filed within the final fifteen days of the original period of suspension.
+
+After the suspension period expires, the travel agency should apply for business resumption with the Tourism Administration within fifteen days and reclaim its registration and license.
+
+Having applied for business suspension in accordance with the provisions of Paragraph 1 of this Article, a travel agency may not engage in any business during the suspension period unless it has applied for business resumption with the Tourism Administration.
+
+If a travel agency suspends operations for more than one month, it shall, within 15 days of passage of a stockholder resolution/agreement approving this suspension, submit for approval the following documents to the Tourism Administration of the Ministry of Transportation and Communications. These documents apply for the voiding of its tourism license and the identification cards for dedicated delivery personnel. In the event that the agency fails to do so within the prescribed time frame, the Tourism Administration of the Ministry of Transportation and Communications may unilaterally void its tourism license and the identification cards for its dedicated delivery personnel.
+
+1.) Completed application form
+
+2.) Minutes of the stockholders meeting that includes passage of the relevant resolution or agreement
+
+3.) A copy of the company’s articles of association
+
+4.) The original tourism license and identification cards for dedicated delivery personnel
+
+In the above situation, after the change has been finalized the agency’s business representative may apply to the Tourism Administration of the Ministry of Transportation and Communications for a return of agency’s security deposit.
+
+### Article 32
+
+A travel agency shall set reasonable tariffs for its business. A travel agency may not engage in unfair competitive behavior by illicit means.
+
+Airfares, prices for food and accommodation, and prices for means of transportation in the tour market shall be announced every three months by the Travel Quality Assurance Association R.O.C. for the reference of consumers.
+
+### Article 33
+
+A consolidated travel agency or Class-A travel agency receiving or guiding tourists from overseas, or from Hong Kong, Macau or mainland China, shall assign or hire licensed English-language, Japanese-language, other foreign-language or Chinese- language tour guides to act as tour guides. However, this is not applicable for travel agencies that solicit the business of domestic tours from foreigners with legal residence permits, people of the Mainland Area, and residents of Hong Kong and Macao.
+
+A consolidated travel agency or Class-A travel agency receiving or guiding non- Chinese-speaking foreign tourists as referred to in the preceding paragraph may not assign or hire a Chinese-language tour guide licensed only to receive Mainland Chinese tourists to act as tour guide. However, when receiving or guiding non- Chinese-speaking, less commonly used-language foreign tourists, the travel agencies may assign or hire a Chinese-language tour guide with a rarely used-language translator accompanying the tour.
+
+Depending on the situation of the tourism market and tour guide personnel, the Tourism Administration, Ministry of Transportation and Communications will make announcements regarding the foreign less commonly used-language types and the duration for the regulations mentioned previously.
+
+A consolidated travel agency or Class-A travel agency shall strengthen the supervision and management of the tour guides it assigns or hires, and shall not allow them to engage in tour guiding business for a non-travel-service operator. When a full-time tour guide for whom the aforesaid travel agency has obtained a tour guide license leaves the said travel agency’s employment, the travel agency shall within fifteen days thereof return the tour guide license to the Tourism Administration or its appointed organization; if it fails to do so, the Tourism Administration shall publicly announce the revocation of the license.
+
+### Article 34
+
+A travel agency shall sign contracts with tour guides or tour managers that it assigns or hires to conduct the receiving or guiding of tourists. A contract shall not violate the provisions announced as prohibited by the Tourism Administration.
+
+Remuneration that a travel agency pays to tour guides or tour managers may not be replaced by tips, shopping commissions, or the like in any other name.
+
+### Article 35
+
+A consolidated travel agency or Class-A travel agency shall strengthen the supervision and management of the tour guides it assigns or hires, and shall not allow them to engage in tour guiding business for a non-travel-service operator or government or groups.
+
+### Article 36
+
+A travel agency, when arranging a tour for a group or individual, shall sign a written contract with the travelers or traveler either in person or by establishing an electronic document in accordance with the Electronic Signatures Act, and shall attach its corporate name and serial number of corporate registration on its printed promotional documents.
+
+A contract for group tour services shall specify the following particulars, and shall be implemented only after it has been reported to and approved by the Tourism Administration.
+
+1.) Corporate name, corporate address, name of representative, and serial number of corporate registration.
+
+2.) Date and place of execution of the contract.
+
+3.) Tour destinations, itinerary, and the tours starting and ending dates and places.
+
+4.) Detailed descriptions of transportation, hotels, meals, excursions, and other services included in the planned itinerary.
+
+5.) Minimum number of travelers required for a group tour.
+
+6.) Total amount as well as terms and conditions of payment of tour expenses.
+
+7.) Reasons and conditions under which the travelers may cancel the contract.
+
+8.) Liability and compensation for damages caused to travelers due to tour accidents or breaches of contract by the travel agency.
+
+9.) Rights of travelers under liability insurance and performance insurance.
+
+10.) Other agreed items.
+
+The stipulations of the preceding paragraph, except for those on meals and accommodation under sub-paragraph 4 and those under sub-paragraph 5, shall apply mutatis mutandis to a contract regarding tours for individuals.
+
+A travel agency that has publicized the standardized contract promulgated by the Tourism Administration and has it printed on the receipt of payment given to travelers, unless otherwise agreed upon, shall be deemed as having concluded the contract with the travelers in accordance with sub-paragraph 1.
+
+### Article 37
+
+Contents of the standardized travel services contract shall be separately formulated by the Tourism Administration.
+
+A travel agency that has prepared a travel services contract in accordance with the preceding paragraph shall be deemed as having reported to and been approved by the Tourism Administration in accordance with paragraph 2 and paragraph 3 of the preceding article.
+
+When operating travel businesses, a travel agency shall prepare delivery documents for the travelers and receipts for payment to be kept by both parties, and shall arrange the safekeeping of the aforesaid documents and receipts, along with the travel services contract for one year.
+
+### Article 38
+
+When arranging domestic or overseas package group tours, a consolidated travel agencies enterprise shall prepare tour plans in advance, specifying tour destinations, itinerary, means of transportation, accommodation, food, sightseeing, and other services to be provided to the travelers as well as details on the purchase of liability insurance; and expenses to be paid by the travelers. The enterprise also shall announce promotional documents before it starts soliciting travelers for the tour group or commissioning this business to other consolidated travel agencies, Class-A travel agencies or Class-B travel agencies in accordance with sub-paragraph 5 to sub-paragraph 7 of Paragraph 2 of Article 3.
+
+The above regulation about announcing promotional documents applies to Class-A travel agencies for domestic or overseas package group tours and Class-B travel agencies for domestic package tours.
+
+### Article 39
+
+A Class-A travel agency that acts on behalf of a consolidated travel agency to solicit business as indicated in sub-paragraph 6 of Paragraph 2 of Article 3, or a Class-B travel enterprise that acts on behalf of a consolidated travel agency to solicit business as indicated sub-paragraph 7 of Paragraph 2 of Article 3, shall be commissioned by the consolidated travel agency concerned and shall conclude the travel services contract with the travelers in the name of that consolidated travel agency.
+
+The travel services contract mentioned in the preceding paragraph shall be co-signed by the travel agency selling the travel services.
+
+The above two regulations apply to other consolidated travel agencies when they act on behalf of a consolidated travel agency to solicit business as indicated in sub-paragraph 5 of Paragraph 2 of Article 3.
+
+### Article 40
+
+A travel agency, when providing tour group services initiated by itself, may not transfer such business to another travel agency without written agreement from the travelers.
+
+The transferee agency, when undertaking transferred business as indicated in the preceding paragraph, shall conclude a new travel services contract with the travelers.
+
+A Class-A travel agency or Class-B travel agency, when operating group tour business initiated by itself, may not place its promotional documents at another travel agency or commission the sales and solicitation of its businesses to another travel agency.
+
+### Article 41
+
+A travel agency, when operating domestic tours, shall assign designated service personnel to accompany tour groups, applies to article 34
+
+### Article 42
+
+When posting advertisements and promotion for each tour organized, the information indicated in the travel document shall not include any exaggerated, false or misleading representations or symbols.
+
+The above-mentioned advertisements and promotions include those on any type of media readily accessed by the public, such as television, internet videos, slides, newspapers, magazines, brochures, posters, signboards, computer-related, telephones, or video conferencing.
+
+The above-mentioned advertisements should specify the name and itinerary of the tour, the departure location and date, the number of days and expenses of the travel, the amounts covered by the liability insurance and contract fulfillment guarantee insurance taken, the name, type of travel agency, as well as business registration number and telephone number of the company. However, consolidated travel agencies may use their registered trademarks to replace company names.
+
+Where the items of information to be indicated in advertisements as described in Paragraph 1 cannot be completely presented, travel agencies shall provide such information on their websites and service web pages or through other appropriate channels for consumers to access
+
+### Article 43
+
+Travel agencies intending to use their trademarks to attract customers shall apply for trademark registration according to law and present the approved trademark to the Tourism Administration for reference. Nonetheless, such companies shall still sign tour contracts using their company names.
+
+Only one trademark may be presented for reference by each travel agency as specified in the preceding paragraph
+
+### Article 44
+
+A travel agency that intends to operate its businesses on its own or other internet platforms, apps or other kinds of electronic methods, shall specify the following particulars on the page of its website:
+
+1.) Corporate name, corporate address, name of representative, and serial number of corporate registration.
+
+2.) Telephone number, fax number, e-mail address, and contact person.
+
+### Article 45
+
+A travel agency that accepts online purchases from travelers over the Internet based on the previous article shall publicize pertinent travel services contracts on its website, and shall inform tourists in an honest manner of any restrictions on products and services as well as other matters concerning purchase confirmation procedures, contract termination or cancellation, and refunds.
+
+Upon receiving payment from travelers, a travel agency shall deliver a receipt for payment to the travelers.
+
+### Article 46
+
+A travel agency and its employees when operating or implementing travel business must handle and use the collection of travelers personal information in a way that respect their individual rights. The information should be handled in a bona fide way. Collection of personal information should not exceed the scope of the travel business and should be reasonable and fair.
+
+### Article 47
+
+A travel agency may not establish a branch institution in a name other than that of a branch company, nor may it allow other parties or non-travel-service operators to operate travel businesses under its name.
+
+### Article 48
+
+A consolidated travel agency or Class-A travel agency operating the business of sending tour groups overseas shall, prior to a tour group’s departure, either provide each participating tourist with written information concerning travel safety and explanation of other circumstances as necessary, or organize a pre-departure orientation meeting. When a tour group is formed, the agency shall assign a tour manager to accompany and serve it throughout the tour.
+
+A consolidated travel agency or Class-A travel agency operating the business of sending tour groups overseas as referred to in the preceding paragraph shall assign foreign-language tour managers to lead such groups, and shall not assign or hire Chinese-language tour managers to lead such groups.
+
+A consolidated travel agency or Class-A travel agency shall strengthen the supervision and management of the tour managers it assigns or hires, and shall not allow them to engage in tour managing business for a non-travel-service operator. When a full- time tour manager for whom the aforesaid travel agency has obtained a tour manager license leaves the said travel agency’s employment, the travel agency shall within fifteen days thereof return the tour manager license to the Tourism Administration or its appointed organization; if it fails to do so, the Tourism Administration shall publicly announce the revocation of the license.
+
+### Article 49
+
+A consolidated travel agency or Class-A travel agency shall strengthen the supervision and management of the tour managers it assigns or hires, and shall not allow them to engage in tour managing business for a non-travel-service operator.
+
+Examinees passing the examination and training and acquiring their Tour manager licenses are required to carry out tour guiding work for the recommending travel agency only. They may not be employed by other travel agencies or recruited by government agencies or institutions to execute tour guiding work.
+
+### Article 50
+
+Travel agency and its assigned service personnel accompanying a tour group shall comply with the following provisions when operating a tour business:
+
+1.) They may not speak or behave in a manner detrimental to the national interest.
+
+2.) They may not leave the group without authorization or arbitrarily disband the group during the tour.
+
+3.) They shall utilize only those amusement and accommodation facilities established by a lawful operator in accordance with applicable laws and regulations.
+
+4.) They shall ensure the safety of tourists during the tour.
+
+5.) Except in the instance of force majeure, they may not change the itinerary without prior request from the tourists.
+
+6.) They may not keep passports and identification documents of the tourists for whatever reason without prior request from the tourists, except when handling necessary matters for tourists on a temporary basis.
+
+7.) They shall arrange the safekeeping, and prevent any losses, of traveler passports and identification documents under their keeping.
+
+8.) Legal means of transportation provided by legal operators and qualified drivers should be used; those who charter a tour bus should sign a rental contract, and the content of the contract must not violate the items that should be recorded or not recorded in the travel industry tour bus rental contract announced by the Ministry of Transportation and Communications.
+
+9.) While using the tour bus as transportation, the escape and safety guide shall be explained and demonstrated before the journey begins each day in accordance with the checklist prescribed by the Directorate General of Highways, MOTC and the regulations regarding the work hours of rental tour bus drivers and vehicle use set forth in the Regulations for Bus Transportation Operators.
+
+10.) They shall carry only members of the tour group on the bus, and shall not take on board any other passengers during the journey.
+
+11.) The travel itinerary should be properly arranged and the content of the itinerary should be disclosed.
+
+### Article 51
+
+A consolidated travel agencies or Class-A travel agency, when operating an overseas group tour for ROC nationals, shall prudently select a registered foreign travel agency that has been duly certified by the local government of the host country, and shall secure a letter of commitment or guarantee documents from the foreign travel agency before commissioning reception or tour guide services. In the event of a breach of contract by the foreign travel agency resulting in damages to the rights and interests of the tourists, the domestic travel agency shall be responsible for reparations.
+
+### Article 52
+
+In the event of any emergency or accident involving a Taiwanese domestic or outbound tour group, or an inbound tour group from a foreign country, Hong Kong, Macau or mainland China, the responsible travel agency shall act promptly and appropriately to protect the rights and interests of the tourists, and shall provide all necessary assistance to the family members of injured tourists. It shall report to the Tourism Administration within twenty-four hours following the occurrence of such emergency or accident, and report the development and state of handling of the emergency or accident.
+
+An emergency or accident as referred to in the preceding paragraph means a natural disaster or any other kind of occurrence that causes the death, injury or detention of a tourist.
+
+The report as referred to in the first paragraph should be made by filling out an emergency or accident report form, and submitting it along with a name list of the members of the tour group, the tour itinerary, the liability insurance policy, and other relevant materials. However, if the place where the accident occurs has no fax machine or internet facilities, thus preventing the report from being submitted immediately, the accident may first be reported by phone and an official report submitted later.
+
+### Article 53
+
+In order to supervise and administer travel agencies, the Tourism Administration may send authorized personnel, on a regular or irregular basis, to the business premises of a travel agency or the place where its business personnel operate to inspect its business operations.
+
+When the Tourism Administration performs such inspection as indicated in the preceding paragraph, it can order the travel agency or its business personnel to provide reports and documents pertaining to its business operations.
+
+The travel agency or its business personnel shall truthfully state its status of business operations, may not evade, obstruct, or reject the aforesaid inspection, and shall provide necessary assistance.
+
+The documents as indicated in the preceding second paragraph refer to traveler delivery documents, bills of payment, travel services contracts under Paragraph 3 of Article 37, and various record books and accounts, and certificates issued by the administrative authority for the tourism industry, and other related documents.
+
+A travel agency shall fill out documents according to fact and maintain complete records.
+
+### Article 54
+
+When handling inbound or outbound procedures and visa application on behalf of clients, a consolidated travel agencies or Class-A travel agency shall meticulously check the authenticity of the application forms, related documents and photos of the applicant concerned, shall fill out documents according to fact, and may not allow a person other than the applicant to sign those documents that need to be signed by the applicant in person.
+
+### Article 55
+
+When handling inbound or outbound procedures and visa applications on behalf of clients, a consolidated or Class-A travel agency and its employees may not forge or alter related documents for the applicant.
+
+### Article 56
+
+When handling inbound or outbound procedures on behalf of the traveler, a consolidated or Class-A travel agency shall apply to the Tourism Administration, or another travel industry related entity mandated by the Tourism Administration, for the issuance of an identification pass for designated document delivery personnel, shall assign designated personnel for such delivery, and shall closely supervise such personnel. The number of identity cards applied for will be announced by the Tourism Administration of the Ministry of Transportation and Communications.
+
+A consolidated or Class-A travel agency shall arrange the safekeeping of its identification passes for designated document delivery personnel, shall not lend such passes to another travel agency or a non-travel services operator, and, in the event of damage to or loss or destruction of an identification pass, shall apply for its replacement or reissuance, submitting a written explanation of the reasons; In the event that an original identity card loses its validity, the travel agency shall within 10 days return the identity card to the Tourism Administration of the Ministry of Transportation and Communications or its entrusted travel agency. If it fails to do so, the Tourism Administration of the Ministry of Transportation and Communications shall cancel the card’s validity.
+
+A fee of two hundred New Taiwan dollars shall be payable for each issuance, replacement or reissuance of a designated document deliverer identification pass.
+
+When a consolidated or Class-A travel agency handles inbound or outbound procedures on behalf of travelers, and commissions the delivery of documents to another travel agency, the two travel agencies shall execute a written commission contract.
+
+Matters concerning the mandate referred to in the first paragraph of this article, and the legal basis thereof, shall be publicly announced and published in government bulletins or newspapers.
+
+### Article 57
+
+When handling inbound or outbound procedures and visa applications on behalf of clients, a consolidated travel agencies or Class-A travel agency shall arrange the safekeeping of certificates and documents of the clients. These documents shall be returned to the clients upon the completion of required procedures.
+
+In the event of loss of the certificates and documents indicated in the preceding paragraph, the travel agency shall submit a report along with other related documents to the Tourism Administration within twenty-four hours.
+
+### Article 58
+
+A travel agency that has been required to forfeit its guarantee deposit by the court or an administrative enforcement agency shall submit funds to make up the required amount of the guarantee deposit and improve its business operations in accordance with item 1 to item 5 of sub-paragraph 2, Paragraph 1 of Article 12 within fifteen days from the date on which notification from the Tourism Administration is received.
+
+### Article 59
+
+Upon the dissolution of a travel agency, the travel agency shall, within fifteen days following the completion of registration procedures for corporate dissolution as required by law, remove its signboard and return its travel agency operating license and all identification passes obtained previously. Its corporate liquidator shall then apply for the return of guarantee deposit with the Tourism Administration.
+
+When a travel agency has its operating license revoked, its corporate liquidator shall comply with the preceding paragraph within fifteen days following confirmation of such punishment.
+
+The provisions of Paragraph 1 of this article shall apply mutatis mutandis to the closure of a subsidiary of a travel agency by abolishing registration.
+
+### Article 60
+
+Once a travel agency has its license revoked or repealed, or is dissolved or declared bankrupt, application for approval to use its company name shall be subject to the restrictions set forth in Article 26-2 of the Company Act.
+
+The name of a new travel agency in the application filed for approval of establishment may not tend to have an implication of offending against public order or good customs, or be the same as the name or trademark of any other travel agency in pronunciation. The name or trademark of such a new travel agency also may not be the same as or similar to any name recognized by the general public in order to prevent confusion with the name or trademark of another travel agency. The applicant shall acquire the permission of the Tourism Administration before applying to the Ministry of Economic Affairs for a preliminary name search. Travel agencies intending to change their company names shall take the same procedure. However, use of a name similar to the name or trademark of another travel agency for the purpose of providing brand services may be approved provided that the other travel agency has given its consent in writing and none of the following situations has occurred to the other travel agency:
+
+1.) The company has been sanctioned to suspend operation within the past two years.
+
+2.) The company’s travel agency guarantee deposit has been placed under compulsory enforcement within the past two years.
+
+3.) The company check rejection period has not yet expired.
+
+4.) The Tourism Administration has concluded the practice is likely to jeopardize the rights and interests of consumers.
+
+Mainland Chinese travel agencies using names that are the same or similar to the names and trademarks of other travel agencies in mainland China before they apply for approval for use of such names in Taiwan as described in the preceding paragraph shall be rejected.
+
+### Article 61
+
+Operating personnel of a travel agency shall receive professional training organized by the Tourism Administration and the administrative authority for the tourism industry of a special municipality under the direct jurisdiction of the Executive Yuan, and shall comply with related rules for trainees.
+
+When organizing aforesaid training, the administrative authority for the tourism industry may charge a registration fee, tuition fee, and certification fee.
+
+The administrative authority for the tourism industry may commission the task of organizing professional training as indicated in Paragraph 1 to a related organization or group.
+
+### Article 62
+
+A travel agency may not engage in any of the following behaviors:
+
+1.) Handling inbound and outbound procedures or visa application on behalf of a tourist with prior knowledge of the untruthfulness of that tourist certificates or documents.
+
+2.) Having discovered a violation of Article 42 of the Regulations Governing Tour Guides by a tour guide in its employment, and not denouncing such violation.
+
+3.) Engaging in business with a foreign travel agency that has been disqualified by related government agencies.
+
+4.) Allowing the representative office of a foreign travel agency to be established in its company without completing due reporting and approval procedures.
+
+5.) Engaging in document delivery or collection for a non-travel services operator.
+
+6.) Engaging in foreign exchange arbitrage or unauthorized foreign exchange in business operations.
+
+7.) Commissioning travelers to carry goods for profit.
+
+8.)Arranging tourist activities that violate laws and regulations of the R.O.C. or of the local government of the tourist destination.
+
+9.) Arranging tourist activities without consent from the tourists.
+
+10.) Arranging for travelers to purchase goods at prices that do not reflect their quality, or forcing them to go into or make purchases in a store.
+
+11.) Attempting to sell an item to a tourist, or facilitating such a sale via a third party, without prior declaration of such a sales effort in the travel documents and without receiving the tourist’s prior consent.
+
+12.) Taking a tour group overseas without having made appropriate arrangements for visas, airplane seats or accommodation as specified in the contract.
+
+13.) Violating the principle of good faith in transaction.
+
+14.) Collecting payment or capital from non-specific persons under false pretenses when no tour is organized.
+
+15.) Failing to be present on the scheduled date for tour dispute settlement without justifiable reasons after having been duly notified by the Tourism Administration.
+
+16.) Failing to note the passenger’s name on the air ticket when selling air tickets.
+
+17.) Failing to specify the departure date of itinerary in the order documents when selling the travel products.
+
+18.) Failing to comply with administrative and supervisory rules set by the Tourism Administration while operating travel businesses.
+
+### Article 63
+
+Employees of a travel agency may not engage in any of the following behaviors:
+
+1.) Transferring to another travel agency before completing the leave procedures.
+
+2.) Lending identification passes for designated document delivery personnel to be used by others.
+
+3.) Being simultaneously employed by another travel agency.
+
+4.) Covering up for an unqualified tour manger to lead tourist groups on an overseas tour.
+
+5.) Covering up for an unqualified tour guide to receive or guide tourists visiting the ROC from overseas or mainland China.
+
+6.) Conducting advertisement of tourism products through the internet without permission.
+
+7.) Engaging in behavior indicated in sub-paragraph 1, sub-paragraph 2, sub- paragraph 5 to sub-paragraph 12 of the preceding article.
+
+### Article 64
+
+The actions of personnel assigned or hired by a travel agency within the business scope of the travel agency shall be deemed as the actions of the travel agency.
+
+### Article 65
+
+A travel agency may not commission a person that is not an employee of a travel enterprise to conduct travel businesses. However, those designated service personnel accompanying a tourist group in accordance with Article 41 may be exempt from such restriction.
+
+Travel agency businesses engaged in by a person that is not an employee of a travel agency shall be deemed illegal.
+
+### Article 66
+
+When operating tours for groups or individuals, or receiving tourist groups or individuals from foreign countries or mainland China, a travel agency shall purchase liability insurance with the pertinent coverage and minimum insured value as specified below:
+
+1.) A minimum of NT$2.5 million and a maximum of NT$5.0 million per person for the accidental death of a tourist or accompanying employee.
+
+2.) A minimum of NT$100,000 and a maximum of NT$200,000 per person for medical expenses related to bodily injury incurred by a tourist or accompanying employee.
+
+3.) Necessary transportation expenses incurred by family members of travelers or accompanying service personnel going overseas or coming to the ROC to handle accident-related problems:NT$100,000 per person; for handling matters related to domestic travel：NT$50,000 per person.
+
+4.) Reparation for loss of travelers’ or accompanying persons’ identification documents: NT$2,000 per person.
+
+When operating domestic or overseas tours, a travel agency shall purchase a performance bond insurance policy, with the pertinent coverage and minimum insured value as specified below:
+
+1.) NT$100 million for consolidated travel agencies.
+
+2.) NT$30 million for Class-A travel agencies.
+
+3.) NT$16 million for Class-B travel agencies.
+
+4.) Additional insurance of NT$8 million shall be required for each branch company of a consolidated travel agencies or Class-A travel agency, and additional insurance of NT$4 million shall be required for each branch company of a Class-B travel agency.
+
+A travel agency that has obtained membership in a public interest association for tourism that is recognized by the central administrative authority as a competent agent for safeguarding the interests of tourists is not applied to the preceding paragraph and shall purchase a performance bond insurance policy with the minimum insured value as specified below:
+
+1.) NT$80 million for consolidated travel agencies.
+
+2.) NT$15 million for Class-A travel agencies.
+
+3.) NT$8 million for Class-B travel agencies.
+
+4.) Additional insurance of NT$4 million shall be required for each branch company of a consolidated travel agencies or Class-A travel agency, and additional insurance of NT$2 million shall be required for each branch company of a Class-B travel agency.
+
+The scope of the performance bond insurance shall cover required payments to travelers, within the amount of the insured value incurred on a travel agency that has failed to deliver part or all of the tourist programs originally arranged due to financial problems resulting in the inability of the agency to fund part or all of the necessary expenses for travel affairs.
+
+Those travel agencies which haven’t purchased a performance bond insurance policy as specified in sub-paragraph 2 to sub-paragraph 3 should purchase the insurance policy before June 1, 2025.
+
+### Article 67
+
+In the event that a travel agency is found to have met any of the following conditions, the travel agency that has purchased a performance bond insurance policy in accordance with Paragraph 3 of the preceding article shall make up the required amount of purchasing a performance bond insurance policy as specified in sub- paragraph 1 to sub-paragraph 4 of Paragraph 2 of the same Article within 15 days after receiving notification from the Tourism Administration:
+
+1.) Having been imposed business suspension and within less than 2 years after the suspension expires.
+
+2.) Having been disqualified as a member of a public-interest association for tourism recognized by the Tourism Administration.
+
+3.) Belonging to a public-interest association for tourism which has been dissolved or has been recognized by the central administrative authority as an incompetent agent for safeguarding the interests of tourists.
+
+### Article 68
+
+After purchasing a performance bond insurance policy according to regulations, the travel agency shall provide the policy information in the format specified by the Tourism Administration within 10 days.
+
+## Chapter IV Awards and Penalties
+
+### Article 69
+
+The administrative authority, or in coordination with the competent authority for related matters, may award or acknowledge the operator of a travel agency who has met any of the following conditions:
+
+1.) Having performed in an outstanding manner in enthusiastic participation in international promotional campaigns or fostering international friendship.
+
+2.) Having made special contributions to defending national honor or protecting tourist safety
+
+3.) Having written reports or offered information deemed as valuable for reference or implementation.
+
+4.) Having outstanding performance in domestic or overseas operations of travel, food and accommodation, and tourist guide services.
+
+5.) Having other good conduct or practices deemed by the administrative authority as worthy of award and recognition.
+
+### Article 70
+
+In the event that a travel agency is found to have met any of the following conditions, the travel agency that has originally submitted a guarantee deposit in accordance with item 6 of sub-paragraph 2 of Paragraph 1 of Article 12 shall make up the required amount of guarantee deposit as specified in item 1 to item 5 of the same sub-paragraph within 15 days after receiving notification from the Tourism Administration:
+
+1.) Having been imposed the punishment of business suspension.
+
+2.) Having been imposed specific performance for its guarantee deposit.
+
+3.) Having been disqualified as a member of a public-interest association for tourism recognized by the Tourism Administration.
+
+4.) Belonging to a public-interest association for tourism which has been dissolved.
+
+5.) Having been in a condition as specified in Paragraph 2 of Article 12.
+
+## Chapter V Supplementary Provisions
+
+### Article 71
+
+The Tourism Administration may publicly announce a travel agency that is found to have met any of the following conditions:
+
+1). Having had its guarantee deposit seized or having been imposed specific performance for its guarantee deposit by the court or an administrative enforcement agency.
+
+2).Having been imposed the punishment of business suspension or revocation of its travel agency operating license.
+
+3).Having arbitrarily suspended business operations without justifiable reasons.
+
+4).Having been dissolved.
+
+5).Having been declared as a dishonored company by a clearinghouse.
+
+6).Having failed to comply with provisions in Article 66.
+
+### Article 72
+
+When applying to convert into a consolidated travel agency, a Class-A travel agency that has no record of business suspension for the last two years, that has not been imposed specific performance for payment of guarantee deposit, and that has obtained membership in a public-interest association for tourism recognized by the central administrative authority as a competent agent for safeguarding interests of the tourist, shall be charged a guarantee deposit at one-tenth of the upward- adjusted guarantee deposit for consolidated travel agencies promulgated on June 24, 1995.
+
+When the guarantee deposit for a consolidated travel enterprise as indicated in the preceding paragraph has been the object of imposed punishment of specific performance by the court or an administrative agency, the travel agency shall make up the guarantee deposit in accordance with Article 58 of these Regulations.
+
+### Article 73
+
+A travel agency ordered to suspend its business shall return all licenses and certificates issued by the Tourism Administration on the starting day of the suspension, and shall apply for business resumption and reclaim all licenses and certificates within fifteen days after the suspension period.
+
+### Article 74
+
+A legal person for public tourism interests established by a travel agency by law, when handling affairs of travel quality assurance for its members, shall be subject to the supervision of the Tourism Administration.
+
+### Article 75
+
+A travel agency that meets conditions as specified in item 6 of sub-paragraph 2 of Paragraph 1 of Article 2 of these Regulations may produce documentary proof and apply for the refund of guarantee deposit with the Tourism Administration.
+
+In the event that wars, epidemic diseases, or other major disasters have caused severe negative impacts on the operations of a travel agency, the travel agency may apply with the Tourism Administration for a temporary refund of 90% of its guarantee deposit in accordance with the preceding paragraph within one month following the date of such announcement by the Tourism Administration, and shall be exempt from the two-year restriction provision as indicated in item 6 of sub-paragraph 2 of Paragraph 1 of Article 12.
+
+A travel agency that has applied for temporary refund of guarantee deposit in accordance with the preceding paragraph shall re-pay the guarantee deposit in accordance with item 1 to item 5 of sub-paragraph 2 of Paragraph 1 of Article 12 within fifteen days following the expiration date of six months after the refund period. The period of applying for the guarantee deposit refund shall be excluded from the two-year period limitation specified in item 2 of subparagraph 2 of Paragraph 1 of Article 12.
+
+### Article 76
+
+All charges levied in accordance with these Regulations shall be administered in accordance with government budgeting procedures.
+
+### Article 77
+
+A Class-A travel agency established before April 15, 1992 may apply for the refund of part of Travel Agency Guarantee Deposit so as to be consistent with the required amounts as specified in item 2 and item 4 of sub-paragraph 2 of Paragraph 1 of Article 12.
+
+### Article 78
+
+The enforcement date of the regulations shall be specified in an order from the Ministry of Transportation and Communications.
+
+## History
+
+\1. Promulgated on October 27, 1953
+
+\2. Amended on October 21, 1954
+
+\3. Amended on July 19, 1956
+
+\4. Amended on June 29, 1960
+
+\5. Amended on November 29, 1961
+
+\6. Amended on July 12, 1963
+
+\7. Amended on July 07, 1969
+
+\8. Amended on December 29, 1969
+
+\9. Amended on February 02, 1972
+
+\10. Amended on November 19, 1975
+
+\11. Amended on December 16, 1976
+
+\12. Amended on February 20, 1979
+
+\13. Amended on September 22, 1979
+
+\14. Amended on September 19, 1981
+
+\15. Amended on December 14, 1982
+
+\16. Amended on December 19, 1984
+
+\17. Amended on December 15, 1987
+
+\18. Amended on April 15, 1991
+
+\19. Amended on April 15, 1992
+
+\20. Amended on June 24, 1995
+
+\21. Amended on May 29, 1996
+
+\22. Amended on January 09, 1997
+
+\23. Amended on June 29, 1999
+
+\24. Amended on December 30, 1999
+
+\25. Amended on February 20, 2001
+
+\26. Amended on August 03, 2001
+
+\27. Amended on April 25, 2003
+
+\28. Re-edited all articles promulgated on May 30, 2003
+
+\29. Amendment to Article 10,23,26,28,36,38,41~44,49,53,54,56 and augment to Article 15-1 ~15-9 promulgated on April 19, 2005
+
+\30. Amendment to Article 3,37 promulgated on February 27,2007
+
+\31. Amendment to Article12,49,53,56 promulgated on June 15, 2007
+
+\32. Amendment to Article 53 and augment to Article 53-1 promulgated on January 31, 2008
+
+\33. Amendment to Article 3 and 18 promulgated on March 12, 2009
+
+\34. Amended and promulgated Article 12 and 53 on September 2, 2010.
+
+\35. Amendments to Articles 3,5~8,13,15~15-3,15-5,15-7,15-8,17,19,20,23,36,37,39,43,46,47,49,53,56,60,addition to Article 23-1 and deletion of Article 61 promulgated on March 5, 2012.
+
+\36. Amendment to Articles 22 and 54 promulgated on September 5, 2012
+
+\37. Amendments to Articles 11,12,30,32,34,37,47,53,56 and deletion of Article 54 promulgated on May 21, 2014.
+
+\38. Amendment to Article 2、10、20、23-1、39、40、46、49、50、51、53、56、57 on January 14, 2015.
+
+\39. Amendment to Article 23 and 56 promulgated on November 24, 2015.
+
+\40. Amendment to Article 23 promulgated on January 03, 2017.
+
+\41. Amendment to Article 37 promulgated on March 03, 2017.
+
+\42. Amendment to Article 26、30、37 promulgated on August 22, 2017.
+
+\43. Amendment to Article 23 promulgated on February 01, 2018
+
+\44. Amendment to Article 30、31、47 promulgated on October 19, 2018
+
+\45. Amendment to Article 3、11、17、18、23、25、31、49 promulgated on September 23, 2019
+
+\46. Amendment to Article 14、16 promulgated on October 22, 2020
+
+\47. Amendment to Article 5、7、20、24、37,addition to Article 53-2 and deletion of Article 56、57 promulgated on November 22, 2022
+
+\48. Amendment to Article 3、21、43、49、50、53,addition to Article 18-1 promulgated on July 26, 2023
+
+\49. Re-edited all articles promulgated on December 27, 2024

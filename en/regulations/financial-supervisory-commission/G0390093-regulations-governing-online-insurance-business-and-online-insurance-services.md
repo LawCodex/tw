@@ -1,0 +1,253 @@
+---
+title: "Regulations Governing Online Insurance Business and Online Insurance Services of Insurance Agent Companies and Insurance Broker Companies"
+title_zh: "保險代理人公司保險經紀人公司辦理網路投保業務及網路保險服務管理辦法"
+identifier: "G0390093"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-10-24
+last_amended: 2025-09-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390093"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Online Insurance Business and Online Insurance Services of Insurance Agent Companies and Insurance Broker Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390093-regulations-governing-online-insurance-business-and-online-insurance-services.md](../../../zh/regulations/financial-supervisory-commission/G0390093-regulations-governing-online-insurance-business-and-online-insurance-services.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 163-1 of the Insurance Act.
+
+## Article 2
+
+The terms used in these Regulations are defined as follows:
+
+1.“Insurance agent/broker company” means a company operating insurance agent or broker business in the capacity of a corporate organization or a bank engaging concurrently in insurance agent or broker business with approval from the competent authority.
+
+2.“Online insurance business” means the business entailing a natural person applicant enters or negotiates an insurance contract with an insurance company via the Internet through an insurance agent/broker company after completing the first-time registration and identity verification process.
+
+3.“Online insurance services” means insurance services of an insurance company other than purchasing insurance online received by existing customers of an insurance agent/broker company via the Internet through the agent/broker company which is linked up with the system of the insurance company after the customer has completed the registration and identity verification process.
+
+\4. “Major sanctions and penalties” means major sanctions and penalties specified in  Article 2 of the Regulations Governing Public Disclosure by the Financial Supervisory Commission of Material Enforcement Actions for Violations of Financial Legislation.
+
+## Article 3
+
+An insurance agent/broker company that conducts online insurance business and online insurance services shall set up a website section or webpage or build a mobile insurance application (APP) as a service platform, and its insurance agents, brokers and solicitors who perform business solicitation may not set up their own service platform.
+
+When an insurance agent/broker company cooperates with a business in a different industry (referred to as “cross-industry partner” hereunder) in the offering of online insurance business and online insurance services in accordance with the Directions for Promoting Insurance Service Business Through Collaboration with Business Entities in Other Industries, the insurance agent/broker company shall be responsible for managing, maintaining, and disclosing related information on the website section, webpage or mobile insurance application (APP) built by its cross-industry partner.
+
+## Article 4
+
+When conducting online insurance business, an insurance agent/broker company should make sure that the insurance company it works for as an agent or cooperates with will reflect the costs saved therefrom in the surcharges for the insurance product.
+
+## Article 5
+
+An insurance agent/broker company that applies for approval to conduct online insurance business shall meet the following qualification requirements:
+
+1.The company has established and implemented internal control and audit system as well as solicitation system and procedures in accordance with the Regulations Governing the Implementation of Internal Control and Audit System and Business Solicitation System of Insurance Agent Companies and Insurance Broker Companies.
+
+2.The company has not been subject to major sanctions and penalties imposed by the competent authority in the most recent year, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority.
+
+3.The company can present its annual financial statements that have been audited and certified by a certified public accountant. The preceding provision does not apply to recently established internet-only banks that are unable to present annual financial statements.
+
+4.The company is ISO 27001 (information security standards) and PIMS (Personal Information Management System) certified and has established a traffic cleaning mechanism against distributed denial-of-service attack (DDoS).
+
+When an internet-only bank applies for approval to conduct online insurance business, if the time elapsed from the date it starts business to the date of application is shorter than the time period specified in Subparagraph 2 of the preceding paragraph, the duration during which the bank has been in business shall apply.
+
+## Article 6
+
+An insurance agent/broker company that currently conducts online insurance business on behalf of/with an insurance company may provide its existing customers online insurance services associated with the insurance contracts the agent/broker company sells for/negotiates with the insurance company. The specifics of the online insurance services will be prescribed separately by the competent authority.
+
+## Article 7
+
+An insurance agent/broker company that conducts online insurance business and online insurance services shall confirm that the insurance company that it works for as an agent or cooperates with has taken actions in accordance with the Directions for Insurance Enterprises Conducting Electronic Commerce (referred to as the “E-Commerce Directions” hereunder).
+
+The types and scope of insurance products that an insurance agent/broker company may include in its online insurance business shall be limited to the types and scope of insurance products that the insurance company it works for as an agent or cooperates with may sell online.
+
+## Article 8
+
+An insurance agent/broker company that conducts online insurance business or online insurance services shall provide one of the means below for customers with legal capacity to carry out registration and identity verification, and may not allow a customer to purchase insurance online or receive online insurance services until the customer has completed the registration and identity verification process:
+
+1.Online:
+
+(1)The legally required information that should be posted on the website section, webpage or mobile insurance app built by an insurance agent/broker company or its cross-industry partner includes but is not limited to declaration of consent to online insurance purchase or online insurance services and disclosure obligation pursuant to the Personal Information Protection Act (referred to as the “Personal Information Act”) for perusal by the customers, and may not proceed with the registration and identity verification until the customer has indicated that he/she has read the disclosure and consented to online insurance purchase or online insurance services.
+
+(2)When a customer undergoes registration and identity verification, the customer should be required to fill out basic information that is sufficient to verify his/her identity and given an account number through the identity verification process. However, with customer consent, an agent/broker company may carry out customer registration and identity verification through the customer’s online banking account (only if the account is opened by customer at the bank counter in person) or digital deposit account (only if the account is a type 1 account that applies to high-risk electronic transfer of funds and transaction instruction).
+
+(3)After a customer has completed the registration and identity verification process, the insurance agent/broker company should verify the customer’s identity by means of one-time password (OTP), biometrics, mobile ID, Financial Fast Identity Online (Fast-ID) or digital certificate and guide the customer to complete identity confirmation.
+
+2.In person:
+
+(1)A customer may visit the business place of an insurance agent/broker company or its branches in person to apply for online insurance or service.
+
+(2)The insurance agent/broker company should provide the customer with legally required information in writing or in another verifiable manner, including but not limited to declaration of consent to online insurance purchase or online insurance services and disclosure obligation pursuant to the Personal Information Act for perusal and signing by the customers to complete the registration and identity verification process.
+
+(3)The customer should provide basic personal data that is sufficient to verify his/her identity.
+
+For a customer who has completed the identity verification process under the preceding paragraph and obtained the account password but has not negotiated any insurance contract with or requested insurance service from an insurance company through the insurance agent/broker company in five (5) years after completing the application, the customer may not use the account password to purchase insurance online or request online insurance service until he/she completes the identity verification process under the preceding paragraph again.
+
+An insurance agent/broker company that conducts online insurance business and carries out registration and identity verification using methods described in Subparagraph 1 of Paragraph 1 hereof may, with customer consent, also use the member account of the cross-industry partner.
+
+## Article 9
+
+For an insurance agent/broker company that adopts an automated check system for its online insurance business, it will, with the confirmation or consent of the insurance company that it works for as an agent or cooperates with, set up the conditions, scope and check contents of the automated check system and internal audit method therefor.
+
+Before adopting an automated check system the first time, an insurance agent/broker company should take the following actions and hold an online insurance meeting to confirm the following operations, and produce minutes on the contents and results of the meeting that will be submitted to the company president for review and approval and saved for future examination by the competent authority:
+
+\1. Inspect whether the contents of products available online are consistent with the policy clauses.
+
+\2. Establish a mechanism for understanding the needs of applicants and product or service suitability.
+
+\3. Examine whether the check operation complies with applicable regulations and consumer protection regulations.
+
+After adopting an automated check system, an insurance agent/broker company shall take actions in accordance with the preceding paragraph at least once every quarter or whenever there is an amendment of online insurance related regulations or an increase of product types.
+
+## Article 10
+
+An insurance agent/broker company that conducts online insurance business shall comply with the following:
+
+1.The insurance agent/broker company should provide on its website section, webpage or mobile insurance app or those built by its cross-industry partner a description of all insurance products that may be purchased online and the policy clauses for browsing by consumers at any time.
+
+2.After a consumer has entered application data and selected the insurance product to be purchased, the insurance agent/broker company should prompt on its website section, webpage or mobile insurance app or those built by its cross-industry partner the full text of insurance policy and important content of the insurance product selected for perusal and agreement by the consumer.
+
+3.Purchase and identity verification operation: Before the applicant sends the purchase confirmation, the insurance agent/broker company should verify the applicant’s identity by means of one-time password (OTP), biometrics, mobile ID, Financial Fast Identity Online (Fast-ID) or digital certificate and guide the applicant to complete identity confirmation before completing the whole purchase operation.
+
+4.When an insurance agent/broker company handles the online purchase of travel inconvenience insurance or travel comprehensive insurance where the applicant and the insured are not the same person, the process shall be handled in the following manner, except where the applicant purchases insurance for his or her minor child under the age of seven, for which the applicant should declare intent (consent) on behalf of his or her child according to the preceding subparagraph:
+
+(1)The applicant and the insured shall complete identity verification and declaration of intent through biometrics, mobile ID, Financial Fast Identity Online (Fast-ID) or digital certificate.
+
+(2)When an applicant applies for insurance for his or her minor child over the age of seven, the insured may declare intent by uploading his or her identity document and signing on the signature document for intent to purchase insurance. The insurance agent/broker company should confirm by appropriate means that the declaration of intent is signed by the insured.
+
+5.When an insurance agent/broker company handles the online purchase of a personal insurance product where the applicant and the insured are not the same person and the applicant registers with his/her Citizen Digital Certificate, the insured shall declare his/her intent (consent) using the Citizen Digital Certificate only. However for the purchase of travel accident insurance and add-on medical reimbursement insurance, the application may be processed in a manner provided in the preceding subparagraph.
+
+6.For the situations in the preceding two subparagraphs, the insurance agent/broker company shall also post on its website section, webpage or mobile insurance app or those built by its cross-industry partner in a conspicuous manner a reminder that the relationship between the applicant and the insured must comply with Article 14 or Article 16 of the Insurance Act.
+
+For personal insurance products that are investment-linked annuities, an insurance agent/broker company shall implement the following controls and support operations on its website section, webpage or mobile insurance app:
+
+1.Prompt and inform product features and associated risks; in addition, when a consumer applies to purchase such a product, confirm consumer’s understanding of associated risks and consumer’s intent to purchase the product.
+
+2.Disclose the entire product content, including but not limited to the following:
+
+(1)Operating process for the use of premiums.
+
+(2)Policy benefits.
+
+(3)Brief introduction of targeted investment.
+
+(4)Policy related expenses.
+
+(5)Underwriting rules (age and premium limits, etc.)
+
+(6)Sales documents (policy clauses and product description) download link.
+
+(7)Investment related risks.
+
+(8)Reminder about the different time points of premium payment and actual investment.
+
+3.Confirm in the application process that the policyholder has fully read important sales documents (e.g. policy clauses and product description) and confirm item-by-item that the policyholder understands the important contents of product and investment risks.
+
+4.Clearly disclose various operating processes. Those operations include but are not limited to the following:
+
+(1)Payment of premiums.
+
+(2)Underwriting.
+
+(3)Phone interview.
+
+(4)Policy issue.
+
+(5)Refund of premiums in case of underwriting denial or contract cancellation.
+
+5.Make sure the applicant has given consent to the manner by which the underwriting insurance company will deliver product description and insurance policy in hardcopy or electronic form to the applicant according to applicant’s instruction, and make sure there are no situations of the applicant being enticed into doing something. If it is agreed with the policyholder that the insurance policy will be provided in electronic form, make sure the underwriting insurance company has established an assistance mechanism that reminds policyholder to read or download and sign for the receipt of policy if the policyholder fails to do so within a certain period of time and a response mechanism, and would save the record of policyholder perusing or downloading and signing for the receipt of policy and relevant trail.
+
+6.Immediately forward any notification information to the underwriting insurance company via linkup.
+
+The disclosure of operating processes mentioned in Subparagraph 4 of the preceding paragraph must be complemented with a timeline that shows the time of each operation. In addition, the difference between the time points of premium payment and actual investment should be clearly revealed to the policyholder.
+
+The response mechanism mentioned in Subparagraph 5 of Paragraph 2 hereof means when a policyholder fails to read or download and sign for the receipt of policy within 30 days after the insurance company has delivered the policy, the insurance company should send a hardcopy of the policy to the policyholder for policyholder to read, review and sign for its receipt.
+
+## Article 10-1
+
+An insurance agent/broker company that conducts online insurance services should guide the policyholder to complete identity confirmation before the policyholder sends the service application.
+
+When an insurance agent/broker company conducts the identity confirmation operation in the preceding paragraph, it should do so based on the risk level of the online insurance service of the insurance company it works for as an agent or cooperates with.
+
+## Article 11
+
+For its online insurance business, an insurance agent/broker should send relevant information to the insurance company in real-time by linking up with the system of the insurance company.
+
+## Article 12
+
+For online purchase of insurance, an insurance agent/broker company should ask the applicant to make payment to the insurance company and ascertain that the payment operation and supplementary identity verification mechanism of the insurance company that it works for as an agent or cooperates with observe the provisions of the E-Commerce Directions.
+
+## Article 13
+
+To confirm the intent of an applicant to purchase insurance online, except for any of the following situations, an insurance agent/broker company should perform the following confirmation procedure before the insurance company mails the insurance policy to the applicant:
+
+1.The applicant purchases compulsory automobile liability insurance, travel accident insurance, comprehensive travel insurance, mountaineering comprehensive insurance, or maritime activities comprehensive insurance singly.
+
+2.The applicant is an existing policyholder of non-life insurance who has completed the application procedure online before the existing policy expires.
+
+3.The applicant completes the purchase and identity verification by means of biometrics, mobile ID, Financial Fast Identity Online (Fast-ID) or digital certificate. However this provision does not apply if the insurance agent/broker company has been found to be in violation of relevant regulations in its identity verification or confirmation operations for the Business and disciplined by the competent authority, and has not taken concrete improvement actions to remedy the violation that are recognized by the competent authority.
+
+The confirmation procedure under the preceding paragraph shall be performed in the following manner:
+
+(1)For applicants who negotiate an insurance contract with an insurance company through the insurance agent/broker company the first time but do not apply for account password using the digital certificate or in person, the insurance agent/broker company should sample 5% of such applicants for phone interview to confirm their intent to purchase insurance.
+
+(2)For online purchase cases not under the preceding subparagraph, the insurance agent/broker company should sample 2% of the applicants for phone interview to confirm their intent to purchase insurance.
+
+(3)Phone interview shall be conducted for all online applications to purchase investment-linked annuity insurance so as to ensure that the applicant understands clearly the content and the risks of investment-linked annuity and confirm applicant’s intent to purchase the product.
+
+If it is confirmed in the phone interview under Subparagraph 1 and Subparagraph 2 of the preceding paragraph that an applicant does not intend to purchase insurance, the insurance agent/broker company shall immediately inform the insurance company not to underwrite a policy. Where the phone interview under Subparagraph 3 of the preceding paragraph fails to take place, the insurance agent/broker company should notify the insurance company immediately.
+
+For the phone interview under Paragraph 2, the insurance agent/broker company shall, with applicant’s consent, tape record the entire interview process and save a copy of the tape. If the insurance agent/broker company is unable to reach the applicant by phone or if the applicant declines the phone interview, except for purchasing investment-linked annuity, the insurance agent/broker company shall follow up with sending another letter, text message or email to remind the applicant of related insurance interests, and save the record or trail of such action. For the phone interview under Paragraph 1 hereof, the insurance agent/broker company should, with applicant’s consent, tape record the entire interview process and save a copy of the tape. If the applicant has speech or hearing impairment, the insurance agent/broker company may use text messaging, email or other viable methods to confirm the applicant’s intent to purchase insurance.
+
+## Article 14
+
+Rewards and disciplines for insurance agent/broker companies that meet the following key indicators for differentiated management are as follows:
+
+1.For an insurance agent/broker company that has not, in the past one year, violated any online insurance related regulations and has not been subject to major sanctions and penalties imposed by the competent authority in connection with its insurance broker or agent business, or if it has, concrete improvement actions have been taken to remedy the violation and recognized by the competent authority, the company may increase the insured amount of its online insurance business by 25% and decrease the phone interview sampling set out in Subparagraph 1, Paragraph 2 of the preceding article by one half.
+
+2.For An insurance agent/broker company that has, in the past one year, violated any online insurance related regulations or has been subject to major sanctions and penalties imposed by the competent authority in connection with its insurance broker or agent business, the company shall decrease the insured amount of its online insurance business by 25% and increase the phone interview sampling set out in Subparagraph 1, Paragraph 2 of the preceding article by one half.
+
+The insured amount of online insurance business after the increase under the preceding paragraph may not exceed the insured amount of the insurance company’s online insurance business.
+
+## Article 15
+
+The online insurance business of an insurance agent/broker company may not accept retrospective insurance cases.
+
+## Article 16
+
+An insurance agent/broker company shall save a backup copy of the electronic record on consumer’s selection or consent.
+
+The retention period for the backup copy mentioned in the preceding paragraph shall not be less than five (5) years after the insurance contract has expired or after the insurance company has notified the applicant of its decision not to underwrite the insurance.
+
+## Article 17
+
+An insurance agent/broker company that conducts online insurance business and online insurance services should include compliance with these Regulations in its internal business solicitation systems and procedures, and into its internal controls and audit, and perform internal audit and self-inspection. If an insurance agent/broker company violates any provision of these Regulations, the competent authority may, in view of the severity of violation, take appropriate disciplinary actions in accordance with the Insurance Act and other applicable regulations.
+
+## Article 18
+
+Except for Article 5 amended and promulgated on September 25, 2025 that will be in force on January 1, 2027, these Regulations shall enter into force on the date of promulgation.
+
+## History
+
+1.Promulgated on 24 October 2018 per Order No. Jin-Guan-Bao-Zong-Zi 10704566251 of the Financial Supervisory Commission
+
+2.Amended on 26 October 2020 per Order No. Jin-Guan-Bao-Zong-Zi 10904939561 of the Financial Supervisory Commission.
+
+3.Amended on 17 May 2022 per Order No. Jin-Guan-Bao-Zong-Zi 11104917151 of the Financial Supervisory Commission.
+
+4.Amended on 29 June 2023 per Order No. Jin-Guan-Bao-Zong-Zi 11204921382 of the Financial Supervisory Commission.
+
+5.Issued on 18 December 2023 per Order No. Jin-Guan-Bao-Zong-Zi 11204943471 of the Financial Supervisory Commission.
+
+6.Amended on 22 July 2024 per Order No. Jin-Guan-Bao-Zong-Zi 11304922171 of the Financial Supervisory Commission.
+
+7.Amended on 25 Sept. 2025 per Order No. Jin-Guan-Bao-Zong-Zi- 11404934641 of the Financial Supervisory Commission

@@ -1,0 +1,399 @@
+---
+title: "Regulations Governing Issuance of Certificates of Origin and Certificates of Processing"
+title_zh: "原產地證明書及加工證明書管理辦法"
+identifier: "J0090016"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞國際貿易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-12-25
+last_amended: 2024-12-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0090016"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Issuance of Certificates of Origin and Certificates of Processing
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0090016-regulations-governing-issuance-of-certificates-of-origin-and-certificates-of.md](../../../zh/regulations/ministry-of-economic-affairs/J0090016-regulations-governing-issuance-of-certificates-of-origin-and-certificates-of.md)) is authoritative.
+
+## Article 1
+
+These regulations are established pursuant to Paragraph 4 of Article 20-2 of the Foreign Trade Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+Certificates of Origin include Certificates of Origin for products originating in the Republic of China (hereinafter referred to as “the ROC”) and Certificates of Origin for products originating in foreign countries.
+
+Certificates of Origin for products originating in foreign countries include Certificates of Origin for re-exported products and Certificates of Origin for products directly shipped from a third country to the importing country.
+
+Enterprises that process foreign products in the ROC before re-exporting such products, but for which the processing does not meet the requirements to be labeled as products originating in the ROC, may apply for ROC Certificates of Processing.
+
+The International Trade Administration (hereinafter referred to as “TITA”) of the Ministry of Economic Affairs shall define the types and formats of application forms for Certificates of Origin and Certificates of Processing, and determine the information to be indicated thereon, in accordance with the nature and use of different products.
+
+## Article 3
+
+Products for export originating in the ROC shall meet one of the criteria prescribed below:
+
+\1. They are wholly obtained or wholly produced in the ROC.
+
+\2. If the processing, manufacturing or materials of the products involve tasks in the ROC and other countries or regions, the last substantial transformation shall be done in the ROC.
+
+Products originating in the ROC may be awarded the MIT (Made in Taiwan) Smile Logo in accordance with the MIT Smile Logo Certification System; however, products shall abide by pre-requisites for criteria set forth in the preceding paragraph in order to be granted the MIT Smile Logo.
+
+## Article 4
+
+The provision “products wholly obtained or wholly produced in the ROC” described in Subparagraph 1 of Paragraph 1 of Article 3 above refers to the following:
+
+\1. Mineral products excavated in the ROC;
+
+\2. Plant products harvested or collected in the ROC;
+
+\3. Live animals born and raised in the ROC;
+
+\4. Products obtained from live animals in the ROC;
+
+\5. Products obtained from hunting or fishing in the ROC;
+
+\6. Fish and other products obtained from the ocean by vessels registered in the ROC or products made from such materials;
+
+\7. Products excavated from the ocean floor or subsoil in areas that are outside of ROC waters but where the ROC has the right to excavate;
+
+\8. Recycled materials from used goods, or surpluses and scraps generated during the process of manufacturing that are collected in the ROC;
+
+\9. Products produced in the ROC with the materials described in Subparagraphs 1 to 8.
+
+## Article 5
+
+Unless otherwise defined by the TITA, and in compliance with the requirements of importing countries or in accordance with the nature of the products or specific regions, the substantial transformation referred to in Subparagraph 2 of Paragraph 1 of Article 3 shall mean either of the following:
+
+\1. After a raw material is processed or manufactured, the first six digits of the tariff number for the product is different from that of the raw material.
+
+\2. No change of tariff number, as described in the preceding subparagraph, happens after a raw material is processed or applied to produce a product, but the added value exceeds 35% or the product is produced through a specific production process that the TITA has announced as a significant production process.
+
+The added value described in the aforementioned Subparagraph 2 shall be calculated by the following formula: [Export price of product (FOB) - Prices of directly and indirectly imported raw materials and components (CIF)] ÷ [Export price of product (FOB)].
+
+The following procedures shall not be considered substantial transformation:
+
+\1. Preservation required for transportation or storage;
+
+\2. Categorization, grading, sub-packing, packaging, additional marking or re-labeling required for marketing or shipping purposes;
+
+\3. Assembling or mixing that does not create significant characteristic differences between the final product and the products used for assembling or mixing;
+
+\4. Processing operations involving simple cutting, bonding or assembling;
+
+\5. Testing, simple drying, dilution, and concentration/inspissation procedures that do not change the nature of the product.
+
+## Article 6
+
+The place of origin on the Certificate of Origin for re-exported products shall be the country of origin indicated on one of the following documents:
+
+\1. The Certificate of Origin from the country of origin; or
+
+\2. The photocopy of the original import declaration.
+
+The place of origin on the Certificate of Origin for products directly shipped from a third country to the importing country shall be the country of origin indicated on the Certificate of Origin from the country of origin.
+
+## Article 7
+
+Foundations, industrial organizations, business organizations, farmers’ associations, fishermen's associations, provincial or higher-level agriculture cooperatives, or provincial or higher-level agricultural production and marketing associations commissioned by the TITA to issue Certificates of Origin or Certificates of Processing in accordance with Paragraph 1 or 2 of Article 20-2 of the Act shall meet the following requirements:
+
+\1. Foundations:
+
+(1) Foundations engaging in economic activities under the supervision of the Ministry of Economic Affairs (hereafter referred to as “the MOEA”).
+
+(2) Foundations with articles of endowment that accept commission by the government to issue certificates as needed by industries.
+
+\2. Industrial and business organizations:
+
+(1) Rated by the competent authority with Level A performance over the previous two years or certified by the competent authority as conducting normal operations over the previous two years.
+
+(2) No record during the previous year that the TITA suspended commissioning by the organization to issue Certificates of Origin or Certificates of Processing for six months or terminated such commissioning.
+
+\3. Farmers’ Associations:
+
+(1) County (city) or higher-level farmers’ associations.
+
+(2) Rated by the competent authority with Level A performance over the previous two years or certified by the competent authority as conducting normal operations over the previous two years.
+
+(3) Associations with provisions that accept commission by the government or gain special approval from the competent authority to handle specific affairs.
+
+(4) No record during the previous year that the TITA suspended commissioning by the association to issue Certificates of Origin or Certificates of Processing for six months or to terminated such commissioning.
+
+\4. Fishermen's associations, provincial or higher-level agricultural cooperatives, or provincial or higher-level agricultural production and marketing associations:
+
+(1) Rated by the competent authority with Level A performance over the previous two years or certified by the competent authority as conducting normal operations over the previous two years.
+
+(2) Associations with provisions that accept commission by the government or gain special approval from the competent authority to handle specific affairs.
+
+(3) No record during the previous year that the TITA suspended commissioning by the association to issue Certificates of Origin or Certificates of Processing for six months or terminated such commissioning.
+
+## Article 8
+
+Industrial organizations, business organizations, farmers’ associations, fishermen's associations, provincial or higher-level agriculture cooperatives, or provincial or higher-level agricultural production and marketing associations that meet the requirements specified in the preceding Article may apply with the TITA during the period announced by the TITA for authorization to issue the Special Certificates of Origin prescribed in the proviso in Paragraph 2 of Article 20-2 of the Act. However, the TITA may refuse authorization under any one of the following circumstances:
+
+\1. The application does not comply with international treaties or agreements, regulations of international organizations or requirements specified by foreign governments.
+
+\2. An issuing body that is applying for renewal of authorization has been suspended from issuing Certificates of Origin during the previous year.
+
+\3. An issuing body did not issue any Certificates of Origin during the previous year.
+
+\4. It has been less than one year since the applicant's authorization to issue Certificates of Origin was repealed.
+
+An issuing body authorized to issue Certificates of Origin shall submit its official seal that will be used to stamp Certificates of Origin for review by the TITA. The same procedure shall apply when seals are changed.
+
+An issuing body suspended by the TITA from issuing Special Certificates of Origin in accordance with Paragraph 3 of Article 28 of the Act shall reapply for permission to issue Special Certificates of Origin in accordance with Paragraph 1 of the same Article if it wishes to resume its authority to issue Special Certificates of Origin when the suspension period expires.
+
+## Article 9
+
+Under any of the following circumstances, the TITA may revoke authorization given in accordance with Paragraph 1 of the preceding Article:
+
+\1. An issuing body issued fewer than 60 Special Certificates of Origin in the previous year.
+
+\2. An issuing body applies for termination of authorization to issue Special Certificates of Origin.
+
+\3. An issuing body is found to be in violation of these regulations or regulations governing the issuance of Special Certificates of Origin and fails to make improvements within the period given.
+
+Revocation of authorization for an industrial organization as described in Subparagraph 1 of the preceding Paragraph may be nullified if such an organization is able to provide evidence as proof that it has issued more than 50 Special Certificates of Origin, and the TITA confirms that the products in question do comply with the characteristics of the industry and that the certificates have been issued to members of the organization.
+
+## Article 10
+
+Before issuing Certificates of Origin or Certificates of Processing in accordance with Paragraph 1 or 2 of Article 20-2 of the Act, foundations, industrial organizations, business organizations, provincial or higher-level agricultural cooperatives, or provincial or high-level agricultural production and marketing associations are required to submit the following documents to the TITA for review and subsequent commission or reference:
+
+\1. Proof of business registration and compliance with the requirements specified in Article 7.
+
+\2. Samples of the issuing body's seal to be stamped on Certificates of Origin and Certificates of Processing and the personal seal of the person responsible for issuance. Also, proof of remuneration to the person responsible for issuance or his/her Labor Insurance coverage.
+
+\3. A list of software and hardware equipment specified by the TITA as required for the issuance of Certificates of Origin or Certificates of Processing.
+
+\4. The application form for a Certificate of Origin or Certificate of Processing to be submitted via the online operating system.
+
+Any change of the issuing body's seal that is to be stamped on Certificates of Origin or Certificates of Processing or the personal seal of the person responsible for issuance shall be filed with the TITA in advance.
+
+## Article 11
+
+An applicant for a Certificate of Origin or Certificate of Processing (hereinafter referred to as “the applicant”) shall be the exporter indicated on the export declaration unless an exception approved by the TITA has been obtained.
+
+If the exporter on the Certificate of Origin or Certificate of Processing is a third party other than the applicant on the Certificate of Origin or Certificate of Processing or the buyer indicated on the export declaration, in addition to following the relevant procedures set forth in these regulations, the applicant shall also submit photocopies of documents that prove the transaction between the applicant and the third party or documents indicating that the TITA has given special approval.
+
+The applicant for a Certificate of Origin for products directly shipped from a third country to the importing country shall be referred to as the domestic seller.
+
+## Article 12
+
+Unless approved by the TITA, applicants and issuing bodies shall transmit the corresponding electronic data via the TITA's online operating system for applications for Certificates of Origin and Certificates of Processing (hereinafter referred to as “the operating system”) to apply for and issue Certificates of Origin or Certificates of Processing. However, the applicant may apply in writing if the computer system of the TITA is out of order. The TITA shall announce procedures for hard copy applications separately.
+
+## Article 13
+
+The applicant shall adopt either of the following means to transmit electronic data as described in the preceding Article:
+
+\1. Access the TITA website, log in, and transmit the data required to apply for a Certificate of Origin or Certificate of Processing; or
+
+\2. Transmit the data required to apply for a Certificate of Origin or Certificate of Processing through the CPT Single Window.
+
+## Article 14
+
+Except for applicants with an IC card issued by the MOEA, the applicant is required to set up a user code and password through the TITA by filing an application on the TITA website before applying for a Certificate of Origin or Certificate of Processing via the operating system.
+
+If the applicant does not meet the requirements for importer/exporter, relevant documents shall be submitted.
+
+## Article 15
+
+Once an application for the Certificate of Origin or Certificate of Processing is submitted to an issuing body, the applicant may not revise the contents.
+
+When an application for the Certificate of Origin or Certificate of Processing is filed online, it shall be considered as effectively submitted once the operating system records its reception.
+
+When an application for the Certificate of Origin or Certificate of Processing is recorded as approved on the operating system, it shall be considered effectively as approved; the applicant may request the body to print out the Certificate of Origin or Certificate of Processing, or request the issuing body to provide the electronic data of the Certificate of Origin or Certificate of Processing for the use of a customs declaration service provider to process cross-border shipment procedures.
+
+Each issuing body may issue up to three original copies and six duplicate copies of a Certificate of Origin or a Certificate of Processing. If the applicant requires additional copies for business needs, they must provide justification for the request. In such cases, the issuing body may issue up to five original copies and ten duplicate copies. If more copies are required, the applicant must submit a special permit document issued by the TITA.
+
+Every Certificate of Origin or Certificate of Processing shall carry the seal of the issuing body and the personal seal of the person responsible for the issuance to be effective.
+
+## Article 16
+
+Those applications for Certificates of Origin with the ROC as the place of origin, besides complying with Paragraph 1 of Article 21, shall be filed after custom clearance. Each application shall be submitted to an issuing body along with the following documents, but information that can be accessed through the operating system need not be provided:
+
+\1. The application.
+
+\2. The export declaration or other export documents; photocopies of the export declaration are not required for products specified in Subparagraph 6 or 7 of Article 4 to be sold outside the country, but other export documents are still required.
+
+\3. Other required documents as stipulated in related regulations.
+
+## Article 17
+
+Applications for Certificates of Origin for re-exported products, besides complying with Paragraph 1 of Article 21, shall be filed after customs clearance. Each application shall be submitted along with the following documents, but information that can be accessed through the operating system need not be provided:
+
+\1. The application.
+
+\2. The Certificate of Origin or the original import declaration from the country of origin.
+
+\3. The export declaration.
+
+\4. Other required documents as stipulated in related regulations.
+
+If either of the documents specified in Subparagraph 2 of the preceding Paragraph is unavailable, the applicant may submit a duplicate of the export declaration in place of it as proof of exportation indicated in the Product Description column or the Remark column, or submit the export declaration with the country of origin indicated in the Product Name column obtained via the operating system.
+
+## Article 18
+
+Applications for Certificates of Origin for products directly shipped from a third country to the importing country shall be submitted along with the following documents, but information that can be accessed through the operating system need not be provided.
+
+\1. The application.
+
+\2. A photocopy of the Certificate of Origin from the country of origin or the third country.
+
+\3. A photocopy of the bill of lading from the third country or photocopies of shipping documents with importing or exporting location.
+
+\4. Other required documents as stipulated in related regulations.
+
+## Article 19
+
+Applications for Certificates of Origin for re-exported products transshipped to another country from a port in the ROC shall be filed after customs clearance. Each application shall be submitted along with the following documents, but information that can be accessed through the operating system need not be provided:
+
+\1. The application.
+
+\2. The transshipment permit from Customs.
+
+\3. The Certificate of Origin from the original exporting country.
+
+\4. Other related documents specially approved by the TITA.
+
+## Article 20
+
+Applications for Certificates of Processing, besides complying with Paragraph 1 of Article 21, shall be filed after customs clearance. Each application shall be submitted along with the following documents, but information that can be accessed through the operating system need not be provided:
+
+\1. The application.
+
+\2. The Certificate of Origin from the country of origin or the original import declaration.
+
+\3. The export declaration or other related export documents.
+
+## Article 21
+
+Under any of the following circumstances, the applicant may apply for a Certificate of Origin with the ROC as the country of origin, a Certificate of Origin with a foreign country as the place of origin, or a Certificate of Processing before customs clearance:
+
+\1. The Certificate of Origin or Certificate of Processing are to be submitted if it is so requested by the government of the importing country in order to apply for import permits or customs clearance.
+
+\2. The Certificate of Origin or Certificate of Processing shall accompany the products being shipped; products that have been declared to Customs and placed in a warehouse, without an export declaration being previously released; or for shipment that takes less than three days.
+
+\3. The applicant has applied to Customs according to the Regulations Governing the Certification and Management of the Authorized Economic Operators and obtained the approval to be an authorized economic operator.
+
+\4. Specific products announced by the TITA.
+
+The application described in the preceding paragraph shall be submitted to the issuing body along with the following documents, but information that can be accessed through the operating system, or that the issuing body can access on the internet need not be provided:
+
+\1. The application.
+
+\2. Photocopies of the exporter/importer's registration, company registration and business registration.
+
+\3. Related documents that comply with the conditions specified in the preceding Paragraph.
+
+\4. A photocopy of the commercial receipt or transaction contract.
+
+\5. The Certificate of Origin or a photocopy of the original import declaration from the country of origin is required if the application is for a Certificate of Origin for re-exported products or for a Certificate of Processing.
+
+\6. Other required documents as stipulated in related regulations.
+
+The applicant shall provide the export declaration number(s) and the product item(s) as released by Customs via the operating system within 180 days after issuance of the Certificate of Origin or Certificate of Processing described in the preceding Paragraph or within the period announced by the TITA, or submit relevant export documents to the original issuing body to apply for extension of the completion process.
+
+## Article 22
+
+If the applicant is found to be in one of the following situations, the issuing body may reject the application described in the preceding Article:
+
+\1. Applicants who have their importer/exporter registration revoked, repealed or canceled, or their export operations suspended by the TITA;
+
+\2. Applicants who fail to apply for extension of the completion process within 180 days or the period announced by the TITA and do not attach the related documents specially approved by the TITA as described in Paragraph 3 of the preceding Article;
+
+\3. Products have already cleared customs and have been released.
+
+## Article 23
+
+The applicant shall submit certified documents to apply for a Certificate of Origin or Certificate of Processing in accordance with Articles 16 to 20 within 180 days after the products are released by Customs, but information that can be accessed through the operating system need not be provided.
+
+If the application described in Paragraph 1 is not filed within 180 days after the products are released by Customs, the applicant shall submit a duplicate of the export declaration as proof of exportation issued by Customs in order to apply to the TITA for special approval, but information that can be accessed through the operating system need not be provided.
+
+Applications for Certificates of Origin or Certificates of Processing for different batches of goods included in the same export declaration shall be filed within 15 days after the first certificate is obtained unless the TITA has given special approval.
+
+## Article 24
+
+An application for cancellation or cancellation and renewal of Certificate of Origin or Certificate of Processing shall be submitted to the original issuing body along with the entire copy of the original Certificate of Origin or Certificate of Processing that had previously been issued. If the original copy is not available, the applicant shall submit documents indicating that the TITA has given special approval.
+
+A Certificate of Origin or Certificate of Processing of the same certificate number shall be issued to applicants applying for certificate cancellation and renewal as described in the preceding paragraph unless the application is for a different type of certificate.
+
+Applications for reissuance of Certificate of Origin or Certificate of Processing due to loss of the original certificate shall be filed with the original issuing body along with explanatory information. Applications for reissuance due to loss of the reissued certificate shall be submitted along with documents proving that the TITA has given special approval.
+
+Applications for cancellation, cancellation and renewal or reissuance of Certificate of Origin or Certificate of Processing shall be filed within 180 days after issuance of the original certificate.
+
+## Article 24-1
+
+If the applicant fails to meet the requirements set forth in these regulations, resulting in the inability to apply for an extension of the completion process, cancellation, cancellation (payment) and renewal, or reissuance of the Certificate of Origin or Certificate of Processing from the issuing body, they must submit a special approval document issued by the TITA.
+
+## Article 25
+
+The content of any Certificate of Origin or Certificate of Processing may not be altered; any alteration shall render the certificate invalid.
+
+## Article 26
+
+Issuing bodies shall keep confidential the information provided by applicants.
+
+Starting from the date of issuance, issuing bodies shall retain the written information provided by each applicant for three years in case the TITA needs to access and inspect such information. The information shall be destroyed when the three-year period expires.
+
+Starting from the date of issuance, electronic information with regard to Certificates of Origin or Certificates of Processing shall be retained for five years and deleted when the five-year period expires.
+
+## Article 27
+
+The TITA may send its staff to audit the operations for issuing certificates by the issuing bodies at any time it chooses.
+
+Issuing bodies that discover that the applicant has provided false information to apply for a Certificate of Origin or Certificate of Processing or have doubts about the recognition of the place of origin shall report to the TITA.
+
+## Article 28
+
+The TITA may request the applicant to provide documents to prove the sources of products indicated on the Certificate of Origin or execution of processing indicated on the Certificate of Processing to confirm the place of origin or processing.
+
+The applicant shall retain the documents described in the preceding paragraph for five years.
+
+## Article 29
+
+Issuing bodies may charge a NT$250 fee for issuance, cancellation and renewal, and reissuance of each Certificate of Origin or Certificate of Processing.
+
+When issuing more than three original copies and six duplicate copies of the Certificate of Origin or Certificate of Processing to the applicant, the issuing body may charge a NT$50 fee for each extra copy.
+
+## Article 30
+
+Articles 2, 3, 4, 5, 7, 15, 16, 17, 21, 22, 23, 24, 25, and 26 shall not apply in situations where there are relevant regulations set forth in related international treaties, pacts, agreements or documents established in accordance with international treaties, pacts or agreements. If there are no relevant regulations in related international treaties, pacts, agreements or documents established in accordance with international treaties, pacts or agreements, the provisions in these Regulations shall apply.
+
+## Article 31
+
+These Regulations shall enter into force from the date of promulgation.
+
+## History
+
+1.Promulgated all twenty articles on December 25, 2002 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09104631580.
+
+2.Amendment to Articles 11, 15 and 19, promulgated on March 31, 2004 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09304602980.
+
+3.Amendment to Articles 4, 9, 10, 12, 13, 17, and the addition of Article 19-1, promulgated on August 11, 2004 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09304606300.
+
+4.Articles amended and promulgated in full (25 articles) on August 23, 2005 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09404606920.
+
+5.Articles amended and promulgated in full (29 articles) on February 18, 2008 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09704600560.
+
+6.Title, Articles amended and promulgated in full (34 articles) on July 20, 2010 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 09904604380. However, the dates of implementation for Articles 7, 13, 22 and Articles 2 and 3 related to Certificates of Processing applications and Articles 13 and 19 related to Certificates of Origin applications for products directly shipped from a third country to the importing country are separately established by the competent authority.
+
+(Original Title: Regulations Governing Issuance of Certificates of Origin; New title: Regulations Governing Issuance of Certificates of Origin and Certificates of Processing.)
+
+Articles 7, 13, 22, and 23 related to applications to Certificates of Processing and Articles 13 and 19 related to applications to Certificates of Origin for products directly shipped from a third country to the importing country promulgated April 19, 2011 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 10004602190 takes effect as of May 1, 2011.
+
+7.Amendment to Articles 3, 4, 5, 7 and 23, promulgated on September 1, 2011 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 10004605450.
+
+8.Amendment to Article 9, and the addition of Article 9-1, promulgated on January 17, 2013 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 10204600290.
+
+9.Articles amended on July 4, 2016, promulgated in full (31 articles) on August 1, 2016 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 10504602790 takes effect as of 1 August, 2016.
+
+10.Amendment to Articles 11, 15, 18, 21, 23, 24 and 31 promulgated on April 3, 2018 by the Bureau of Foreign Trade, Ministry of Economic Affairs Decree No. 10704601950 takes effect on 10 April, 2018.
+
+11.Articles amended and promulgated in full (31 articles) on November 14, 2023 by the International Trade Administration, Ministry of Economic Affairs Decree No. 11250400320.
+
+12.Amendment to Articles 15, 21, and 24-1, promulgated on December 25, 2024 by the International Trade Administration, Ministry of Economic Affairs Decree No. 11350201840

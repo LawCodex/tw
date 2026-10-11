@@ -1,0 +1,192 @@
+---
+title: "Regulations governing Foreign Aircrafts Flying in ROC Territory"
+title_zh: "外籍航空器飛航國境規則"
+identifier: "K0090002"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1975-07-16
+last_amended: 2020-09-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090002"
+retrieved: 2026-10-12
+---
+
+# Regulations governing Foreign Aircrafts Flying in ROC Territory
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090002-regulations-governing-foreign-aircrafts-flying-in-roc-territory.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090002-regulations-governing-foreign-aircrafts-flying-in-roc-territory.md)) is authoritative.
+
+## Article 1
+
+This Regulation is established in accordance with the provisions in Paragraph 3 of Article 78 of the Civil Aviation Act (hereinafter referred to as this Act).
+
+## Article 2
+
+Foreign aircraft operating within ROC territory may be divided into the following six categories according to the nature of their operations:
+
+\1. Foreign scheduled aircraft, inbound or outbound, taking off and/or landing, and loading and unloading passengers, cargo and mail.
+
+\2. Foreign scheduled aircraft, inbound or outbound, taking off and/or landing without loading or unloading passengers, cargo and mail.
+
+\3. Foreign scheduled aircraft conducting overflights of the ROC.
+
+\4. Foreign non-scheduled aircraft, inbound or outbound, taking off and/or landing, and loading and unloading passengers, cargo and mail.
+
+\5. Foreign non-scheduled aircraft, inbound or outbound, taking off and/or landing without loading or unloading passengers, cargo and mail.
+
+\6. Foreign non-scheduled aircraft conducting overflights of the ROC.
+
+\7. Foreign private aircraft engaging in flights of non-profit activities in the territory of the ROC.
+
+## Article 3
+
+Application to conduct operations set forth in Item 1 of Article 2 shall be processed in accordance with pertinent provisions of This Law and the Regulations of Foreign Civil Air Transport Enterprise.
+
+## Article 4
+
+The following five items, along with application for approval to conduct operations set forth in Item 2 of Article 2, shall be submitted to the Civil Aviation Administration (hereinafter referred to as CAA) seven working days before starting the scheduled service:
+
+\1. Nature of operation;
+
+\2. Name of aircraft operator;
+
+\3. Aircraft type and country of registry;
+
+\4. Proposed airport of landing in the ROC; and
+
+\5. Proposed schedule.
+
+## Article 5
+
+The following five items, along with application to conduct operations set forth in Item 3 of Article 2 shall be submitted to Air Navigation and Weather Services of CAA (hereafter referred as the ANWS) for approval by the aircraft operator or its authorized agent, seven working days before starting the schedule service.
+
+1.Nature of operation; 2.Name of aircraft operator;
+
+\3. Aircraft type and country of registry;
+
+\4. Estimated time of entering and departing the ROC Flight Information Region; and
+
+\5. Proposed schedule.
+
+## Article 6
+
+Applications for approval to conduct operations set forth in Items 4 and 5 of Article 2 for foreign civil air transport enterprise shall be processed in accordance with the Regulations of Foreign Civil Air Transport Enterprise. For the other applicants, an application for approval (see Attachment 1) shall be completed and filed with CAA two workdays prior to the proposed date of entry to or exit from ROC.
+
+## Article 7
+
+If applicant has not yet operated scheduled services or has no local general agent in the ROC, application to conduct operations set forth in Items 2, 4, 5 and 7 of Article 2, shall be delegated to a local civil air transport enterprise who is approved to conduct international operations. However, this provision shall not apply if one of the following circumstances occurs:
+
+\1) A general aviation enterprise engaged in international business charter operations may be delegated to process the application for business charter or private aircraft flight operations.
+
+\2) An aircraft maintenance service legally registered in the ROC may be delegated to process the application for maintenance ferry or test flights.
+
+\3) A local civil air transport enterprise who is approved to conduct domestic operations or a general aviation enterprise may be delegated to process the application for flight activities of free balloons or airships.
+
+## Article 7-1
+
+The validity of the flight approval in Item 2, 4, 5 and 7 of Article 2 shall be twenty-four hours before and after the estimated time of departure and arrival as shown in the flight notification (see attachment 2).
+
+## Article 8
+
+To conduct operations set forth in Item 6 of Article 2, an application (see attachment 1) shall be submitted to the ANWS for approval by the aircraft operator or agent one working day prior to the aircraft entering the ROC.
+
+To apply for operations stated in the preceding paragraph via telegram, the applicant shall complete the items listed in the application form and send in according to the number sequence.
+
+## Article 8-1
+
+Application to conduct operations set forth in Item 7 of Article 2 shall be complied with the following provisions:
+
+\1) The provisions of Article 7-1 of the Regulations Governing Private Aircraft Activities shall be applied to the application for flight activities of free balloons or airships, and the copies of the aircraft nationality registration certificate, the airworthiness certificate and the aircraft pilot rating shall be enclosed to apply for CAA permission.
+
+\2) For the other operations excluding flight activities of free balloons and airships, an application (see attachment 1) shall be submitted to CAA for approval two working days prior to the expected takeoff when using a civil airport or three working days before the expected takeoff when using a civil and military airport.
+
+## Article 9
+
+Foreign aircraft operating in the ROC shall have its nationality mark and registration number clearly displayed on a conspicuous exterior part of the aircraft.
+
+## Article 10
+
+Foreign aircraft shall carry the following documents when operating in the ROC:
+
+\1. Aircraft registration certificate;
+
+\2. Airworthiness certificate;
+
+\3. Flight logbook;
+
+\4. Aircraft radio station license;
+
+\5. Passenger manifest when carrying passengers; and
+
+\6. Cargo and mail manifest when carrying cargo and mail.
+
+## Article 11
+
+The flight crew of a foreign aircraft taking off or landing in ROC shall carry their rating and medical fitness certificates, and shall obey all ROC relevant procedures.
+
+## Article 12
+
+All foreign aircraft, passengers and cargo carried shall be subject to inspections by appropriate ROC authorities prior to departure and after landing.
+
+## Article 13
+
+If a foreign aircraft makes an emergency landing at any airport in the ROC due to unavoidable circumstances, the aircraft operator or agent shall provide a report to the airport authority regarding pertinent facts of the emergency. Only after the report has been received and reviewed by the appropriate airport authority will the aircraft be cleared to continue with the operation.
+
+## Article 14
+
+Foreign aircraft landing at an unauthorized airport, unless for the purpose of saving lives or for safety or security reasons, shall not evacuate passengers, baggage, or cargo from the aircraft. After landing, the pilot-in-command must report as soon as practical to the nearest appropriate authority.
+
+If the above aircraft can resume flight after a brief period of time, it shall transport the original passengers, cargo, and mail, and continue its operation to the designated international airport.
+
+Except for those persons with serious injury that must be sent to a medical facility for treatment, the pilot-in-command shall ensure that all the passengers, baggage and cargo, evacuated from the aircraft under circumstances described in the first paragraph, remain together at an approved location assigned by an appropriate ROC official.
+
+## Article 15
+
+CAA may revoke or abolish the permit, or forbid operations for any foreign aircraft as defined in this Regulation, if found violating this Regulation or the provisions of relevant statutes, or not following the conditions set forth in the permit.
+
+## Article 15-1
+
+All flight application mentioned in this regulations may be applied through the on-line information system designated by CAA.
+
+## Article 15-2
+
+CAA may commission the airport operator to conduct and approve the flight application or changes in Article 6 and 8-1.
+
+The commissioned the airport operator and matters, and the legal basis for such commission in the preceding paragraph shall be publicly announced and published in a government gazette.
+
+## Article 16
+
+This Regulation shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Attachment 1 Civil Aviation Administration Ministry of Transportation and Communications, Republic of China Civil Aircraft Application for Making Flights in the ROC.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008138)
+- [Attachment 2 Notice of Civil Aviation Administration, Ministry of Transportation & Communication, granting permission to a flight by civil aircraft.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008139)
+
+## History
+
+1.As promulgated by MOTC Order No.06294 on July 16, 1975
+
+2.Amended by MOTC Order No.2379 on June 4, 1985
+
+3.Full text Amended by MOTC Order No. 88104 on November 24, 1999
+
+There are 16 Articles in the Regulations.
+
+4.Amendments to Articles 1, 15 promulgated by MOTC Order No. 00081 on November 27, 2001；
+
+5.Amendments to Articles 1, 6~8, 11 promulgated by MOTC Order No. 0970085030 on May 2, 2008
+
+6.Amendment to Article 6 promulgated by MOTC Order No. 0990085031 on June 24, 2010
+
+7.Amendment to Articles 2, 3, 6~8, 8-1, 15, attachments 1, 2 promulgated by MOTC Order No.10150123961 on August 28, 2012
+
+8.Amendment to Articles 7, 8-1, promulgated by MOTC Order No.10250027001 on March 20, 2013
+
+9.Amendment to Article 5, 6, 7, 8 and addition of Article7-1,15-1,15-2 promulgated by MOTC Order No. 10450097191 on July 30, 2015
+
+10.Amendments to Articles7, 8-1 ,promulgated by MOTC Order No. 10950105071 on September 1, 2020

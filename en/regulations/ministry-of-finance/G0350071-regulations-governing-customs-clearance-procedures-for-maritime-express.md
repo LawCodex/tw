@@ -1,0 +1,349 @@
+---
+title: "Regulations Governing Customs Clearance Procedures for Maritime Express Consignments"
+title_zh: "海運快遞貨物通關辦法"
+identifier: "G0350071"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2013-11-29
+last_amended: 2026-02-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350071"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Customs Clearance Procedures for Maritime Express Consignments
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350071-regulations-governing-customs-clearance-procedures-for-maritime-express.md](../../../zh/regulations/ministry-of-finance/G0350071-regulations-governing-customs-clearance-procedures-for-maritime-express.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed in accordance with Paragraph 2, Article 27 of the Customs Act.
+
+## Article 2
+
+Customs clearance procedures for maritime express consignments conducted through Maritime Express Handling Units shall be governed by these Regulations.
+
+## Article 3
+
+The “maritime express consignments” referred to in these Regulations means the goods forwarded and delivered by maritime express delivery enterprises and the customs clearance procedure of which is processed in the Maritime Express Handling Units.
+
+The categories of goods which are not allowed to be cleared through the Maritime Express Handling Units are listed as follows:
+
+\1. Shipments of commodities prohibited from importation by the Customs Act, controlled commodities, intellectual property right infringing articles, imported fresh agriculture/fishery /livestock products, live animals/plants, and protected wildlife and their products.
+
+\2. Shipments with gross weight of more than 70 kg packed in a single package or bag.
+
+\3. Imported consignments which are loaded in an open container.
+
+All of the imported and exported maritime express consignments shall be inspected by X-ray instruments, except for goods which are not suitable for x-ray inspection and exempted by the Customs.
+
+## Article 4
+
+The “Maritime Express Handling Unit” (hereinafter referred to as the “Unit”) in these Regulations is a closed area designated exclusively for temporary storage of containers awaiting disassembly, the storage of import and export maritime express consignments, and the handling of customs clearance.
+
+The Unit defined in the preceding paragraph shall be located in a controlled area of an international commercial port. It must be established by applying to Customs in accordance with the “Regulations Governing the Customs Management of Container Terminals” or “ the Regulations Governing the Customs Management of Import and Export Warehouses”, and shall be subject to Customs management., The Unit must also comply with the following provisions:
+
+\1. Fencing walls or other physical barriers fixed to the ground must be installed around the Unit, and security guard posts shall be established.
+
+\2. The establishment of designated areas for temporary container storage, consignment checking, import, export, X-ray inspection, narcotic detection dogs and quarantine dogs service areas, inspection, detention, pending release, and release areas is required. Each section should be clearly separated and labelled, with sufficient space for customs clearance operations. A temporary container storage area may be established outside the Unit, subject to Customs approval, provided it meets the following criteria.
+
+(1) It shall be located within the same section of the controlled wharf area of the Unit.
+
+(2) It shall be surrounded by physical isolation facilities and equipped with surveillance camera systems; and a security guard post shall be established.
+
+(3) The storage and transportation safety of the containers shall be verified by Customs.
+
+\3. The area must be equipped with the necessary facilities and equipment for customs clearance and inspection.
+
+Customs may require the Unit Operators to add or replace facilities or equipment as necessary for customs clearance and inspection.
+
+Operators of the Unit who have submitted applications to Customs before the amendment of these Regulations on May 20, 2021, must, when expanding the cargo clearance line, complete the installation of physical isolation facilities, security guard posts, and temporary container storage areas in accordance with the provisions set forth in Subparagraphs 1 and 2, Paragraph 2.
+
+## Article 5
+
+The “Maritime Express Handling Unit Operator” referred to in these Regulations (hereinafter the “Unit Operator”) is a warehouse operator that is approved by the Customs to conduct customs clearance activities of maritime express consignments.
+
+## Article 5-1
+
+(Deleted)
+
+## Article 6
+
+The term “maritime express delivery enterprise” referred to in these Regulations means any profit-seeking enterprise that operates the business of forwarding and delivering maritime express consignments.
+
+## Article 7
+
+The district Customs office at the location of the Unit shall, before the end of October each year, announce the port areas, number of lines, application conditions, and application period for the following year, regarding the acceptance of applications for the establishment or expansion of cargo clearance lines.
+
+Any applicant that applies to establish a Unit shall have a net asset value of not less than NT$50 million. If the applicant’s net asset value is less than NT$50 million, a guarantee shall be provided.
+
+If the requirements specified in the preceding two paragraphs are satisfied met, the following documents shall be submitted to the district Customs office where the Unit is located to apply for the establishment of the Unit:
+
+\1. Application Form: The name, Business Administration Number (BAN), address, and telephone number of the enterprise; and the name, National ID Card Number, telephone number, and address of the responsible person shall be specified. If the responsible person does not have a National ID card number, a passport number or residence permit number must be provided.
+
+\2. Certificates of use permits for the land and buildings of the Unit issued by the district Commercial Port Administrative Authority, Maritime and Port Bureau, or the agency designated by the Executive Yuan where the Unit is located.
+
+\3. Floor plan of the enclosed facility: clearly indicating with the location of physical barriers such as fencing walls and security guard posts.
+
+\4. Operation Plan: Including the location of the Unit, expansion capability, building structure, estimated volume of goods, operating plan and team, boat landing dock, operating finance plan, operating facility building schedule plan, and other documents related to operation plans.
+
+\5. Customs Clearance Equipment Blueprint: Including an X-ray inspection instrument, conveyors suitable for detector dog operations, a warehouse access code swiping equipment, a warehouse access anomaly alarm system, a monitor recording system, a synchronous display system of X-ray image & commodity description, and other customs clearance equipment.
+
+\6. Narcotic Detection Dog Facilities Design plan: Including the detector dog waiting room, duty room, and other relevant facilities.
+
+\7. Quarantine Dog Facility Design Plan: Including a quarantine dog standby room, a multiple procedure room, and other relevant facilities.
+
+\8. Computer network and Equipment Plan: Including the information systems, computer backup measures, and other relevant software and hardware equipment that meet the operational requirements of customs management.
+
+\9. Other equipment plans required for customs inspection and customs clearance.
+
+Unit operator who changes the original plans, facilities, or equipment must submit relevant documents and apply in advance for approval, in accordance with the preceding paragraph.
+
+The Customs at the location of the Unit shall establish a review panel to conduct a review for the application of the announcement of Paragraph 1 and the application for the establishment or modification of a Unit as specified in the previous two paragraphs. If necessary, other authorities may be invited to participate in the review. The review process for the previous two paragraphs shall be completed within 60 days from the day following the completion of the review documents. If there are special circumstances, an extension may be granted, not exceeding 30 days.
+
+The district Customs office at the location of the Unit may approve, partially approve, or deny the application based on the review results of the aforementioned review panel.
+
+## Article 8
+
+The operator that passed the review under the preceding Article shall complete the establishment of the facilities and equipment included in the documents listed under Paragraph 3 of the preceding article and file a written application to the district Customs office where the Unit is located for an on-site inspection within six months from the day following the date of the delivery of the notification. If the on-site inspection by the evaluation committee is passed, the district Customs office at the location of the Unit shall approve the registration and the Unit Operator may start operation.
+
+If the operator specified in the preceding paragraph fails to complete the establishment before the prescribed period, it must submit written application stating the reasons for an extension to the district Customs office at the location of the Unit before the expiration of the period. The extension period shall be limited to three months. If no extension is applied or if the construction is not completed within the extended period and the operator fails to submit a written application for an on-site inspection, the district Customs office may revoke its approval granted under the preceding Article.
+
+## Article 8-1
+
+Containers carrying maritime express consignments shall be dismantled and delivered to the warehouse within three working days from the day after being stored in the temporary container storage area. However, in special circumstances approved by Customs, this time limit may not apply.
+
+Operators of the Unit who applied to Customs for establishment before the amendment of the Regulations on May 20, 2021 but have not established a temporary container storage area , may store containers carrying maritime express consignments in temporary storage areas outside the Unit approved by Customs. Such storage shall be subject to the provisions set forth in the preceding paragraph.
+
+## Article 9
+
+The maritime express operator shall submit the following documents to Customs for registration:
+
+\1. Application Form: The form shall specify the company name, Business Administration Number (BAN), location, and the name, address, National ID Card number and telephone number of the responsible person. If the responsible person does not have a National ID Card Number, his (her) passport number or Resident Certificate Number must be provided.
+
+\2. Maritime contracting and transport permit documents (including combined sea/air transport) and their photocopies.
+
+The aforementioned operator which does not possess customs brokerage qualifications, they shall designate a cooperating customs broker and submit their original customs brokerage license and its photocopy.
+
+## Article 10
+
+Maritime express delivery enterprises shall attach corresponding commercial invoices, recognizable bar codes or labels onto their maritime express consignments for Customs check, but in a case of non-commercial transaction, a statement of the consignment’s value endorsed by the consignor shall be attached instead to replace commercial invoices.
+
+Where any invoice, bar code or label refered to in the previous paragraph is found missing, coming off or damaged, it should first be reattached before customs clearance. The forwarding operator and maritime express delivery enterprise shall jointly state the reasons for reattaching the invoice, bar code or label. Upon approval by Customs, the reattachment shall be processed in the presence of supervising personnel designated by Customs.
+
+For maritime express consignments declared with a general import/export declaration form and approved for document review or physical examination as the customs clearance method, its invoices and other relevant documents shall also be enclosed upon supplementing the written declaration for Customs inspection.
+
+## Article 10-1
+
+If necessary, Customs may require maritime express delivery enterprises to provide original and authentic detailed documents or computer files regarding the foreign consignment and domestic delivery, and the maritime express delivery enterprises shall not refuse to do so.
+
+## Article 11
+
+The maritime express delivery enterprises shall make declarations with Customs through a computer connection or transmission of electronic information.
+
+Import and export maritime express consignments shall be classified according to their natures and values into the following categories and then be handled respectively:
+
+\1. Import document;
+
+\2. Duty-free low-value import consignment with a Customs value not more than NT$2,000;
+
+\3. Low-value dutiable import consignment with a Customs value of NT$2,001-50,000;
+
+\4. High-value import consignment with a Customs value exceeding NT$50,000;
+
+\5. Export document;
+
+\6. Low-value export consignment with a free on board (FOB) value not more than NT$50,000; and
+
+\7. High-value export consignment with a FOB value exceeding NT$50,000.
+
+## Article 12
+
+If the import/export maritime express consignment meets any of the following conditions, customs clearance shall be conducted using a general import/export declaration form:
+
+\1. High-value import maritime express consignment prescribed in Subparagraph 4, Paragraph 2 of the previous Article, or high-value export maritime express consignment prescribed in Subparagraph 7 of the same paragraph of the same Article.
+
+\2. Subject to specific import/export regulations, unless otherwise announced by the customs due to special circumstances.
+
+\3. Application for duplicates of their declarations is necessary for the purpose of requesting duty drawback, offset or bonding.
+
+\4. Returned or re-exported and shall be cross-checked with the original export/import declarations.
+
+\5. Goods eligible for duty reduction or exemption pursuant to the Customs Act and relevant regulations, and additional notes in the Customs Import Tariff, but duty-free samples pursuant to Subparagraph 9, Paragraph 2, Article 49 of the Customs Act imported by non-individuals may apply to using the simplified declaration procedure if the aggregate value of declaration is under NT$3,000.
+
+\6. Goods inapplicable to the G1 mode of Declaration for Import Goods, the G5 mode of Export Declaration, or the F5 mode of Export Declaration for Free-Trade-Zone Goods.
+
+\7. Goods taxable in accordance with the Commodity Tax Act or the Specifically Selected Goods and Services Tax Act.
+
+\8. Goods subject to the imposition of countervailing duty, antidumping duty, or retaliatory duty publicly announced by the Ministry of Finance.
+
+\9. Goods subject to adoption of import relief in accordance with the Foreign Trade Act by the Ministry of Economic Affairs or special safeguard measures publicly announced by the Ministry of Finance.
+
+\10. Goods subject to tariff quota.
+
+Maritime express consignments other than those defined in the previous paragraph may be cleared through simplified declaration.
+
+## Article 13
+
+The customs clearance in the Unit shall be limited to the Customs office hours unless otherwise specially announced by the district Customs office where the Unit is located.
+
+## Article 14
+
+Where a simplified declaration is made on import/export document or on low-value consignments by a maritime express delivery enterprise, a consolidated declaration in one entry is allowed for goods of the same category under one master waybill number while belonging to different duty payers or exporters.
+
+The consignee’s name of an imported express consignment should be declared in a consolidated declaration in accordance with the preceding paragraph, and the consignee’s address and uniform tax numbers should also be declared if the declaration is not made for documents. The identification number, uniform number of alien resident certificate or passport number should also be declared in a case where the consignee is an individual.
+
+If a mobile phone number registered under a real name of the consignee has been declared in a simplified import declaration, the declarant may be exempted from declaring the identification number, alien resident certificate number or passport number.
+
+The duty-payer is not required to be listed in a consolidated declaration in accordance with the first paragraph. In such case the Customs may issue a duty memo to the consignee of the consolidated declaration for duty payment.
+
+Those goods which are declared in consolidation pursuant to the first paragraph shall be cleared separately except for documents.
+
+## Article 15
+
+Maritime delivery enterprises shall not make separate declarations to Customs for a single importation of maritime express consignments.
+
+A single importation of maritime express consignments referred to in the previous paragraph is all the express consignments shipped from one consignor to one consignee in the same voyage.
+
+## Article 16
+
+Where commodity inspections or quarantine measures are required for import or export maritime express consignments, they shall be handled in accordance with the relevant regulations.
+
+## Article 17
+
+A maritime express delivery enterprise shall only transmit the import declaration form after the forwarder transmits the import manifest. Declaration shall be completed within one day following the date on which the goods are fully unloaded from the container.
+
+Before the arrival of the ship, Customs will notify the relevant Unit Operator of goods subject to physical examination and those for which examination is waived through a computer connection or electronic data transmission.
+
+## Article 18
+
+If a consignee of import maritime express consignments entrusts a customs broker to handle the clearance through simplified declaration, customs declaration authorization shall be completed in one of the following methods:
+
+\1. Case-processing or long-term authorization in writing; if case-processing authorization in writing has been established, a customs broker shall provide an affidavit at online declaration to present a power of attorney after the declaration as per Customs requirements;
+
+\2. Online case-processing or long-term authorization through the Customs-Port-Trade (CPT) Single Window system;
+
+\3. Online case-processing authorization through the express delivery real-name authentication platform established by the enterprise operating network for customs clearance.
+
+If customs declaration authorization has not been completed in accordance with the methods referred to in one of the subparagraphs in the preceding paragraph, and recorded in the customs clearance information system, Customs may refuse to process the declaration.
+
+If Customs demands the presentation of the power of attorney after the declaration and before the release of import or export maritime express consignments, a copy of the power of attorney  signed by a customs broker for confirmation can be presented in lieu of the original document temporarily; when Customs considers it necessary to examine the power of attorney, a Customs officer may demand the presentation of the original document in accordance with the provisions of Paragraph 2, Article 12 of Regulations Governing the Establishment and Management of Customs Brokers.
+
+Where the declarations of import or export maritime express consignments are involved with the case of false declaration or other violations of the Customs Anti-smuggling Act, and the customs brokers are unable to prove that they have been entrusted by the importer or exporter to file customs declaration, and are also unable to prove that there is an actual owner of the express consignment, said customs brokers shall be liable for such violations.
+
+## Article 18-1
+
+Where, before the simplified declared import goods are withdrawn from the warehouse, customs brokers fail to acquire importers’ Power of Attorney through the ways stipulated in paragraph 1 and paragraph 2 of the preceding article, and the importation meets the following conditions, maritime express delivery enterprises may apply to Customs for replacing the importer’s name shown on the declaration with his or hers within 7 working days from the date on which the consignment is warehoused or the declaration thereof is submitted to return the express consignments abroad:
+
+\1. The importation has not violated the Customs Anti-smuggling Act; or, although it has violated the Customs Anti-smuggling Act, it may be legally exempted from penalty.
+
+\2. The importation has not violated other laws and regulations; or, although it has violated other laws and regulations, there is no need for Customs to refer it to competent authorities for penalty.
+
+## Article 19
+
+A maritime express delivery enterprise entrusted by a consignor to deliver express consignments in a door-to-door manner may declare the consignments to Customs as the holder of the consignments, and pay duties and charges according to relevant regulations.
+
+Where a maritime express delivery enterprise declares its consignment to Customs as the holder of the imported consignments, it shall include the names, addresses and uniform tax numbers of the consignees concerned. If the consignee is an individual, the identification number, uniform number of alien resident certificate or passport number should be declared.
+
+If a mobile phone number registered under a real name of the consignee has been declared in a simplified import declaration, the declarant may be exempted from declaring the identification number, alien resident certificate number or passport number.
+
+Where the maritime express delivery enterprise declares its consignments to Customs in a simplified filing form in accordance with the previous two paragraphs, the consignees declared should be duty-payers under the simplified declaration form and tax payment certificate and Customs give them duty memos.
+
+## Article 20
+
+A maritime express delivery enterprise entrusted by a consignor to ship export express documents or low-value export express consignments may make Customs declarations in the capacity of the holder of those consignments.
+
+## Article 21
+
+Payment of duties and charges on maritime express consignments shall be levied in accordance with the provisions prescribed in the Regulations Governing the Implementation of Post-Release Duty Payment Procedures for Imported Goods or through a security deposited in advance, and then deducted online when the consignments have been cleared Customs.
+
+## Article 22
+
+Express clearance handling fees shall be levied on maritime express consignments pursuant to relevant provisions prescribed in the Rules for the Collection of Customs Fees.
+
+## Article 23
+
+Maritime express delivery enterprises shall observe Customs acts and regulations and cooperate with Customs closely in order to prevent the smuggling of drugs, firearms, strategic high-tech articles, IPR infringing articles, conserved wild animals/plants and products thereof, as well as other illegal conduct, such as commercial frauds. They shall also maintain the security of the Unit.
+
+## Article 24
+
+If a maritime express delivery enterprise conducts customs clearance in the Unit with regard to goods that do not satisfy the conditions for maritime express consignments in violation of Paragraph 2 of Article 3, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 25
+
+If the unit operator fails to add or replace the facilities or equipment required by Customs, in violation of Paragraph 3, Article 4, or makes unauthorized changes to an original zone plan, facilities or equipment, in violation of Paragraph 4, Article 7, Customs shall issue a warning or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and may order corrective action within a certain period of time. If the correction is not made within the specified period, further penalties will be imposed for each violation. If the correction is not completed after three penalties or if the violation is deemed serious, the Customs may suspend the business of the clearance of maritime express consignment for up to six months or revoke the registration.
+
+If the unit operator violates the provisions prescribed in Article 8-1, Customs shall issue a warning or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and may order corrective action within a certain period of time. If the correction is not made within the specified period, further penalties will be imposed for each violation. If the correction is not completed after three penalties or if the violation is deemed serious, the Customs may suspend the business of the clearance of maritime express consignment for up to six months or revoke the registration.
+
+## Article 26
+
+If a maritime express delivery enterprise violates the provisions prescribed in Paragraph 1, 2 of Article 10 or Article 10-1, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 27
+
+If a maritime express delivery enterprise declares import/export non-document consignments with the simplified form that is used for express documents in violation of Paragraph 2 of Article 11, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 28
+
+If an express delivery enterprise fails to comply with the provisions prescribed in Paragraph 1 of Article 12 by making simplified declaration for non-qualified consignments, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 29
+
+If a maritime express delivery enterprise violates Paragraph 5 of Article 14 of the said Regulations stipulating that the consolidated clearance with bags is not allowed, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 30
+
+If a maritime express delivery enterprise makes separate declarations for a single importation of maritime express consignments in violation of Paragraph 1 of Article 15, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+For single importation of maritime express consignments, in case of the event under the previous paragraph, Customs shall add up customs values of all the consignments concerned in the calculation of the duty to be collected. In the case a false declaration was made, the enterprise shall be fined based on the total amount of the duty evaded or total customs value of consignments, pursuant to relevant provisions prescribed in the Customs Anti-smuggling Act.
+
+## Article 31
+
+If a maritime express delivery enterprise fails to transmit the import declaration after transmitting the import manifest within the time required under Paragraph 1 of Article 17, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the maritime express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 31-1
+
+If a maritime express delivery enterprise violates these Regulations in the same year, and the total amount of fines imposed by Customs reaches NT$200,000, it will be regarded as a serious violation, whereby Customs shall suspend its clearance privileges for less than six months under the provisions of Article 87 of the Customs Act; if the total amount reaches NT$500,000, Customs shall repeal its registration.
+
+For maritime express delivery enterprises having violated these Regulations before the amended Regulations took effect on Feb 4, 2023, the fines imposed by Customs are allowed to be excluded from the total amount stipulated in the preceding paragraph.
+
+## Article 31-2
+
+A maritime express delivery enterprise whose registration is repealed by Customs is prohibited from applying for the express delivery enterprise under the same name within a period of five years from the repeal date.
+
+The scope of the same name specified in the preceding paragraph includes the names of its head office and branch office.
+
+## Article 32
+
+These Regulations shall become effective from the date of their proclamation, but Paragraph 2, Article 11, which was amended and promulgated on September 25, 2017, shall come into effect on January 1, 2018. Paragraph 2, Article 18, which was amended and promulgated on February 23, 2026, shall come into effect on March 1, 2026.
+
+## History
+
+\1. Promulgated by the Ministry of Finance Order No.1021027019 on November 29, 2013.
+
+\2. Articles 3,6,9,17, and 18 amended and promulgated by the Ministry of Finance Order No. 1041006322 on March 26, 2015.
+
+\3. Article 3,12,14, and Articles 24 to 31 amended and promulgated by the Ministry of Finance Order No. 1061005071 on March 14, 2017.
+
+\4. Articles 3, 10 to 12, 14, 19, and 32 amended and promulgated by the Ministry of Finance Order No. 1061020248 on September 25, 2017; except for Paragraph 2 of Article 11, which came into force on January 1, 2018, the remaining provisions came into force on the date of promulgation.
+
+\5. Articles 14, 17 to 19, and 29 amended and promulgated by the Ministry of Finance Order No. 1071015531 on July 12, 2018.
+
+\6. Article 18 amended and promulgated, and Article 18-1 added, by the Ministry of Finance Order No. 10810104953 on May 22, 2019.
+
+\7. Article 12 amended and promulgated by the Ministry of Finance Order No. 1091006967 on April 1, 2020.
+
+\8. Articles 3 to 5, 7, 10, 13, 25, and 26 amended and promulgated, and Articles 5-1, 8-1, and 10-1 added, by the Ministry of Finance Order No. 1101013007 on May 18, 2021.
+
+\9. Articles 18 and 24 to 31 amended and promulgated, and Articles 31-1 and 31-2 added, by the Ministry of Finance Order No. 1121002008 on February 2, 2023.
+
+\10. Articles 7, 8, 9, and 25 amended and promulgated, and Article 5-1 deleted, by the Ministry of Finance Order No. 1131017829 on July 1, 2024.
+
+\11. Article 4 and Article 8-1 amended and promulgated by the Ministry of Finance Order No. 1131030215 on November 13, 2024.
+
+\12. Articles 12, 18, and 32 amended and promulgated by the Ministry of Finance Order No. 1151004666 on February 23, 2026, and effective from the date of promulgation; provided that Paragraph 2 of Article 18 came into force on March 1, 2026.

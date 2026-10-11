@@ -1,0 +1,369 @@
+---
+title: "Regulations Governing Investment of Investment-linked Insurance"
+title_zh: "投資型保險投資管理辦法"
+identifier: "G0390048"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-21
+last_amended: 2026-04-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390048"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Investment of Investment-linked Insurance
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390048-regulations-governing-investment-of-investment-linked-insurance.md](../../../zh/regulations/financial-supervisory-commission/G0390048-regulations-governing-investment-of-investment-linked-insurance.md)) is authoritative.
+
+## Article 1
+
+The regulations are instituted based on paragraph 6 of article 146 of Insurance Act (hereunder calledthe Act).
+
+## Article 2
+
+In order to protect investment rights and interests of the insurance applicant or beneficiary, whenentering into an investment-linked insurance contract, the insurer shall follow the Act and otherrelated statutory regulations to state relevant clauses in the contract.
+
+## Article 3
+
+The insurer shall fully disclose relevant information when selling investment-linked insuranceproducts, and explain the following items to the insurance applicant with the notification of importantinformation which shall be signed by the insurance applicant when entering into a contract.1. Various expenses.2. Investment objects and their possible risks.3. Related warnings.4. Other items as regulated by competent authorities.The directions regarding information disclosure and sales as mentioned in the preceding paragraphshall be instituted by competent authorities separately.
+
+## Article 4
+
+The insurer engaging in investment-linked insurance business shall make out an seperate account torecord the values of investment assets.The said seperate account shall meet the following principles
+
+\1. The assets in the seperate account shall be individually managed and;
+
+\2. Unless otherwise stated in the regulations, the insurer shall follow the life insurance accountingtemplate submitted to competent authorities by the Life Insurance Association of the Republic ofChina (hereunder called the Association) to periodically valuate the assets in the seperate account,calculate the benefiting assets value in the seperate account and inform the insurance applicant ofthe value according to the method agreed in the insurance contract.
+
+\3. The assets in the seperate account shall be utilized in conformity to the investment method andobject agreed or specified by the insurance applicant.
+
+## Article 5
+
+The insurer shall follow one of the following ways in utilizing or managing the assets in the seperateaccount:
+
+\1. The insurer may designate the professionals equipped with financial, securities or other investmentexperience to utilize and manage the assets in the seperate account. However, in the event that theinsure plans to discretionarily invest in the securities regulated in article 6 of Securities and ExchangeLaw, the insurer shall separately apply for concurrently engaging in discretionary investment servicesin accordance with investment business with Securities Investment Trust and Consulting Act.
+
+\2. For the investment-linked insurance not having discretionary decision from the insurer on theinvestment object, the insurer may entrust the enterprise approved by competent authorities or theone concurrently engaging in discretionary investment services to utilize and manage the assets inthe seperate account. The entrusted enterprise shall be selected according to the capitalmanagement outsourcing procedure internally regulated by the insurer and other related statutoryregulations. In addition, the insurer shall report the selected enterprise to competent authorities. Also,any change of the selected enterprise shall be reported to competent authority within 15 working daysafter the change.
+
+The insurer using the assets in the seperate account to proceed with investments and transactions inaccordance with the preceding paragraph shall keep records in writing which shall be monthlyreviewed, reported and filed by law.Any of the following behaviors is not allowed when the insurer follows the regulations in the firstparagraph to utilize and manage the assets in the seperate account
+
+\1. Use the assets in the seperate account for guarantee.
+
+\2. Lend the assets in the seperate account to others, but it is not limited to the situation otherwiseregulated by competent authorities
+
+\3. Engage in the investment items prohibited by law.
+
+## Article 6
+
+The insurer shall manage the assets in the seperate account for the interests of the insuranceapplicant or beneficiary.
+
+The insurer shall send the assets in the seperate account to the custodian institution for custody andreport the selected custodian institution to competent authorities. Any change of the selectedcustodian institution shall be reported to competent authority within 15 working days after the change.
+
+The contents of the custody contract shall be provided when the insurance contract defined in chapter2 is signed by the insurer and insurance applicant, and, according to the custody contract, the assetsin the seperate account as mentioned in paragraph 1 shall be sent to the custodian institution forcustody. Also, the insurer shall report the selected custodian institution to competent authorities, andany change of the selected custodian institution shall also be reported to competent authority within15 working days after the change.
+
+The custodian institution as referred to in the preceding two paragraphs is a financial institutionreaching a certain level of grade as rated by the credit rating agency recognized by competentauthorities.
+
+The regulations in paragraph 2 and 4 are applicable to the insurer who follow subparagraph 2 ofparagraph 1 of the preceding article to commission a trust enterprise approved by competentauthority for concurrently engaging in discretionary investment services to utilize and manage theassets in the seperate account, in which the assets are under the custody of the trust enterprise.
+
+## Article 7
+
+The investment method of investment-linked insurance or change of its investment objects shall be incompliance with statutory laws and regulations and the ones as agreed in the insurance contract.
+
+## Article 8
+
+The assets in the seperate account and the ones in the insurer's general account are not allowed tobe sold, swapped or transferred to each other, but it is not limited to any of the following conditions
+
+\1. Transfer the assets in the general account to the seperate account of the investment-linkedinsurance not having discretionary decision from the insurer on the investment object, so as toestablish the seperate account and give normal operation of the policy where the assets aretransferred into its seperate account
+
+\2. Necessary transfer-out of the insurance cost or the expenses regulated in article 3.
+
+\3. Protect the interests of the insurance applicant or beneficiary, which shall be approved bycompetent authorities.Unless otherwise approved by competent authority in advance to use the underlying assets regulatedin paragraph 1 of article 10 in transfer, the transfer shall be made by cash.
+
+## Article 9
+
+The directors, supervisors, managers and the persons responsible for utilizing and managing theassets in the seperate account shall act as good fiduciaries to carefully and loyally take care ofinvestment and management of the assets in the seperate account. They are not allowed to conductinvestment related transactions for themselves or the persons beyond the policyholder of theseperate account through the information learned in their posts, or reveal the related information toothers.
+
+In the event that the issuer or agency of the linked investment objects provided in the investment-linked insurance contract goes bankrupt, the insurer shall aggressively get the redemption accordingto the best interests of the insurance applicant and beneficiary.
+
+## Article 10
+
+Except the discretionary investment services provided by the insurer as agreed by the insuranceapplicant in the insurance contract, the linked investment objects provided in the investment-linkedinsurance contract and utilization of the assets in the separate account are limited to the following:
+
+\1. Bank deposits.
+
+\2. Beneficiary certificates of securities investment trust funds.
+
+\3. Offshore funds.
+
+\4. Beneficiary securities of mutual trust funds.
+
+\5. Real estate investment trust beneficiary securities or real estate asset trust beneficiary securitiesissued in accordance with Real Estate Securitization Act.
+
+\6. Beneficiary securities or asset-backed securities issued in accordance with Financial AssetSecuritization Act.
+
+\7. Bonds and treasury bills issued by central banks of various countries.
+
+\8. Financial bonds.
+
+\9. Secured corporate bonds issued by public companies, the ones issued by the companies havingcredit ratings above a certain level, or the ones trading on foreign stock exchange markets or OTCmarkets.
+
+\10. Structured products.
+
+\11. Mortgage-backed securities issued or guaranteed by Fannie Mae, Fredde Mac or Ginnie Mae.
+
+\12. Other investment objects as approved by competent authorities.
+
+For the aforesaid assets in the separate account, the total of the proprietary position and otherinvestments of the insurer shall not exceed the limits specified in Articles 146 to 146-2, 146-4, 146-5and 146-7 of the Act.
+
+When the insurer entrusts an enterprise approved by the competent authorities to engage in orconcurrently engage in discretionary investment service to utilize and manage assets in a separateaccount in accordance with subparagraph 2, paragraph 1 of Article 5, the linked investment objectsprovided in the investment-linked insurance contract and the utilization of assets in the separateaccount may include, in addition to the objects listed under paragraph 1 hereof, currency relatedderivatives transactions for the purpose of currency hedging in connection with the assets in theseparate account, provided such transactions comply with the range, conditions and relevantprovisions set out by the competent authorities.
+
+## Article 10-1
+
+When the insurer entrusts an enterprise approved by the competent authorities to engage in orconcurrently engage in discretionary investment service to utilize and manage the assets in theseparate account in accordance with subparagraph 2, paragraph 1 of Article 5, the insurer shallcomply with the following provisions:
+
+\1. The insurer shall establish the procedures for handling entrusted discretionary investment serviceproviders and have the procedures approved by its board of directors. The handling procedures shallinclude at least operating procedures, internal control system, internal audit system, accountingsystem, risk management measures, selection and management measures for discretionaryinvestment service providers, and mechanism for handling losses arising from the failure of thediscretionary investment service provider to perform in accordance with the entrustment agreement.
+
+\2. The insurer shall make sure prior to the entrustment that the entrusted enterprise already hasprocedures for handling its discretionary investment services in place and such procedures havebeen approved by the board of directors of the entrusted enterprise. The handling procedures shallinclude at least trading principles and directions, operating procedures, internal control systems,internal audit system, risk management measures and counterparty risk management system. Theentrusted enterprise shall also include the following into its annual audit plan and produce an auditreport thereon:
+
+(1) Auditing compliance with regulations and entrustment agreement;
+
+(2) Including internal control and articulation functions in the audit of internal control measures;
+
+(3) Assessing the independence and implementation of risk management operation; and
+
+(4) Auditing the reliability of the sources of transaction documents.
+
+When the insurer entrusts an enterprise approved by the competent authorities to engage in orconcurrently engage in discretionary investment service to utilize and manage the assets in theseparate account in accordance with subparagraph 2, paragraph 1 of Article 5, the provisions ofParagraph 4, Article 28 of the Regulations Governing the Conduct of Discretionary InvestmentBusiness by Securities Investment Trust Enterprises and Securities Investment ConsultingEnterprises do not apply.
+
+## Article 11
+
+The following are the range for the utilization of objects entrusted to the insurer by the insuranceapplicant for discretionary investment services:
+
+\1. Bank deposits.
+
+\2. Government bonds and treasury bills.
+
+\3. Financial bonds, convertible time certificates, bankers' acceptances, and bank-backed commercialpapers.
+
+\4. Corporate stocks issued by public companies.
+
+\5. Secured corporate bonds issued by public companies, or the ones issued by the companies havingcredit ratings above a cartain level.
+
+\6. Beneficiary certificates of securities investment trust funds and beneficiary securities of mutual trustfunds.
+
+\7. Taiwan depositary receipts.
+
+\8. Beneficiary securities or asset-backed securities issued in accordance with Financial AssetSecuritization Act.
+
+\9. Real estate investment trust beneficiary securities or real estate asset trust beneficiary securitiesissued in accordance with Real Estate Securitization Act.
+
+\10. Foreign securities.
+
+\11. Securities related products.
+
+\12. Other investment objects as approved by competent authorities.
+
+The foreign securities as referred to in subparagraph 10 of the preceding paragraph are limited to thefollowing:
+
+(1) Bonds and treasury bills issued by foreign countries' central banks.
+
+(2) Financial bonds, convertible time certificates and mid-term floating rate notes issued by foreign
+
+banks.
+
+(3) Stocks and corporate bonds trading on foreign stock exchange markets or OTC markets.
+
+(4) Offshore funds.
+
+(5) Mortgage-backed securities issued or guaranteed by Fannie Mae, Fredde Mac or Ginnie Mae.
+
+## Article 12
+
+Unless otherwise regulated by competent authorities, the following behaviors are not allowed for theinsurer in utilizing the objects as mentioned in the preceding article:
+
+\1. Make loans.
+
+\2. Have transaction behavior with the investment assets in the seperate account of other investment-linked insurance or the ones in the insurer's general account. However, it is not limited to the situationwhere the deal is done through stock exchange markets or securities firms' business outlets andthere is no intention for the occurrence of the corresponding transaction.
+
+\3. Invest in the stocks or corporate bonds issued by the insurer.
+
+\4. Invest in the stocks, corporate bonds or financial bonds issued by the interested party of theinsurer.
+
+\5. Invest in the securities underwritten by the securities underwriter having conflict of interest with theinsurer.
+
+\6. Invest in private-placement securities.
+
+\7. Engage in securities credit transactions.
+
+\8. Lend or borrow securities.
+
+## Article 13
+
+In the event that the investment objects of investment-linked insurance are the ones regulated insubparagraph 7 to subparagraph 11of paragraph 1 of article 10, they shall pass a certain level ofgrade rated by the credit rating agency approved by competent authorities.
+
+The preceding paragraph is also applicable to the investment-linked insurance in which theinvestment objects include government bonds, bonds or mortgage-backed securities as regulated insubparagraph 3 and 5 of paragraph 1 and subparagraph 1, 2, 3 and 5 of paragraph 2 of article 11.
+
+## Article 14
+
+In the event that the investment objects of investment-linked insurance are beneficiary certificates ofsecurities investment trust funds, those beneficiary certificates of securities investment trust fundsshall be the ones approved by competent authorities or coming into effect upon declaration forplacement and issuance. In case that the investment objects are offshore funds, those offshore fundsshall be the ones approved by competent authorities or coming into effect upon declaration for localplacement and sales. However, the situation is not limited to exchange traded funds (ETFs) trading on foreign securities exchange markets.
+
+In the event that the investment objects of investment-linked insurance are beneficiary certificates ofmutual trust funds, they shall be approved by competent authorities.
+
+The structured products used as the investment objects of investment-linked insurance are theproducts either combining fixed-income products and financial derivatives or structured notes.
+
+The limits and restrictions on the investment objects listed in paragraph 1 of article 10 and article 11are to be regulated separately by competent authorities.
+
+## Article 15
+
+The assets in the seperate account shall be valuated according to the market price on the givenvaluation date as agreed in the investment-linked insurance contract, and the assets detailed list shallbe prepared according to related statutory regulations. However, they are not limited to theproprietary position of the insurer and the investment risk partially taken by the insurer as agreed inthe insurance contract.
+
+## Article 16
+
+The insurer shall follow the regulations below in exercising their voting right for the stocks held in theseperate account of investment-linked insurance.
+
+\1. Unless otherwise provided by law, the voting right shall be exercised by the involved personneldesignated by the insurer.
+
+\2. When exercising the voting right, the insurer shall do to meet the best interests of the policyholderof investment-linked insurance, and is not allowed to directly or indirectly participate in the businessrun by the company issuing the stock, or have improper arrangements.
+
+\3. Prior to attending the shareholders' meeting held by the company issuing the stock held in theseperate account of investment-linked insurance, the insurer shall evaluate and analyze how toproperly exercise the voting right, and give a summary.
+
+\4. The insurer shall register and manage the notifications and attendance tickets of the shareholders'meetings held by the companies issuing the stocks held in the seperate account of investment-linkedinsurance, and keep records of evaluation and analysis of exercising the voting right, decision makingprocedure and execution results in writing which shall be numbered, filed and kept for at least 5years.
+
+When attending the beneficiary meeting held by the securities investment trust fund issuing thebeneficiary certificate held in the seperate account of investment-linked insurance, the insurer shall do to meet the best interests of the policyholder of investment-linked insurance in exercising theirvoting right, and follow subparagraph 3 and 4 of the preceding paragraph.
+
+## Article 17
+
+In case of dissolution and liquidation, the remaining assets left in the seperate account afterdeducting the debts and expenses incurred due to closing the seperate account shall be distributed tothe insurer and insurance applicant or beneficiary according to the ratios of the beneficiary equityentitled respectively to the insurer and insurance applicant as listed in the seperate account.
+
+## Article 18
+
+When entering into an investment-linked insurance contract, the insurer and insurance applicant shallagree on a currency used in amount receipts and payments which include premium, insurancebenefit, expenses, but it is not allowed to agree on a currency to be used in conversion between theNT dollar and a foreign currency. However, in the event of foreign-currency- denominated investment-linked annuity insurance in which the linked investment objects will be totally disposed, sold andconverted into the spot annuity insurance with general account after the expiry of the annuityaccumulation period, it can be agreed in the contract to pay the annuity in NT dollars.The insurer engaging in the foreign-currency-denominated investment-linked insurance business andfollowing the proviso of the preceding paragraph to pay annuity in NT dollars shall be approved by theCentral Bank of Republic of China.
+
+The assets in the separate account of the foreign-currency- denominated investment-linked insurancecontract are limited to foreign-currency-denominated investment objects. The insurer and insuranceapplicant shall agree on the payment/receipt method in advance, and all the payments and receiptsshall be handled through the foreign currency deposit account. However, the foregoing provisions donot apply to any of the following situations:
+
+\1. Payment of annuity in NT dollars in accordance with the proviso in the first paragraph.
+
+\2. The insurer and the insurance applicant have agreed that on the date the living benefits of anotherforeign currency insurance contract entered between the insurer and the insurance applicantbecomes payable, the living benefits will be used to pay for the premiums of another same-currencyinsurance contract and the beneficiary of the living benefits and the applicant of the insurancecontract to be paid for are the same person.
+
+For the NT dollar-denominated investment-linked insurance contract, the exchange settlement shallbe made in accordance with the Regulations Governing the Declaration of Foreign ExchangeReceipts and Disbursements or Transactions regulated by the Central Bank of the Republic of China.
+
+## Article 19
+
+The insurer shall meet the following qualifications in selling the investment-linked insurance withdiscretionary investment services:
+
+\1. The ratio of proprietary capital to risk capital in the recent year shall comply with the adequacy ratioregulated in paragraph 1 of article 143-4 of the Act.
+
+\2. Having not been subject to major sanction and disciplinary action by the competent authority in therecent year, or if it has, concrete improvement actions have been taken to remedy the violation andrecognized by the competent authority.
+
+\3. Value at Risk has been applied to the risk assessment for their foreign investment, and the riskassessment shall be conducted at least once a week.
+
+\4. A risk control committee in the board of directors, or a risk control division with a risk chief or anexecutive in the equivalent rank shall be placed in a company to take full charge of overall riskcontrol.
+
+\5. Ranked in the top eighty percent in the past year in terms of the results of the Treating CustomerFairly Principle evaluation of life insurance companies.The preceding provision does not apply to alife insurance company that could provide reasonable explanation (for not ranking in the top eightypercent) and such explanation is approved by the competent authority.
+
+The major sanction and disciplinary action as prescribed in Subparagraph 2 of the precedingParagraph refer to Article 2 of the Regulations Governing Public Disclosure by the FinancialSupervisory Commission of Material Enforcement Actions for Violations of Financial Legislation.
+
+The value at risk (VaR) as referred to in subparagraph 3, Paragraph 1 shall be calculated on weeklybasis with at least three years of sampling period, or on daily basis with at least one year of samplingperiod. The sample data shall be updated at least once a week and the 10-trading-day VaR shall becalculated with 99% confidence level at least. In addition, monthly back-test shall be conducted.
+
+Prior to applying for concurrently engaging in the discretionary investment business in accordancewith Securities Investment Trust and Consulting Act, the insurer shall meet the qualification listed inparagraph 1 and approved by the competent authority.
+
+## Article 20
+
+The discretionary investment business that the insurer is approved for engaging in the form ofcommission for the assets in the seperate account of investment-linked insurance refers to the sale ofthe investment-linked insurance with discretionary investment services from the insurer (hereundercalled discretionary investment-linked insurance), in which assets in the seperate account ofdiscretionary investment-linked insurance are discretionarily decided and utilized by the insurer.
+
+## Article 21
+
+The assets in the seperate account of discretionary investment-linked insurance shall be put undercustodian institutions' custody separately by insurance product in accordance with paragraph 3 and 4of article 6.
+
+## Article 22
+
+In addition to the investment-linked insurance related information required to be disclosed and theitems required to be stated as regulated in the Regulations Governing the Conduct of DiscretionaryInvestment Business by Securities Investment Trust Enterprises and Securities InvestmentConsulting Enterprises, the following items shall also be stated in the discretionary investment-linkedinsurance contract and insurance product prospectus:
+
+\1. Insurance contract:
+
+(1) Insurance contract conversion clause.
+
+(2) Responsibility ascription for trading beyond authority.
+
+(3) Other items required to be stated as regulated by competent authorities.
+
+\2. Insurance product prospectus:
+
+(1) The items regarding the characters, scope, operating principles, fee collection methods,prohibitions, the legal relationship among the policyholder, insurer and custodian institution, andoperation methods of the discretionary investment-linked insurance.
+
+(2) Analysis methods, information sources and investment strategies to be used for discretionaryinvestment assets.
+
+(3) The education and experiences of division heads and associated persons engaging in thediscretionary investment-linked insurance business.
+
+(4) Income statements and balance sheets for the past two years.
+
+(5) Explanation of the litigation or non-litigation cases occurring in business practices
+
+(6) Warnings of investment or trading risks, characteristics of investment or trading objects, possiblerisks and statutory restrictions, etc.
+
+Any change in the preceding product prospectus which may result in material influence onpolicyholder's rights and interests shall be reported to competent authority for future reference.
+
+The insurance contract of discretionary investment-linked insurance and its related documents shallbe kept for at least five years after termination or invalidation of the contract.
+
+## Article 23
+
+The insurance applicant of the discretionary investment-linked insurance contract is eligible to applyto the insurer for converting the contract into other discretionary investment-linked insurance contractwith different investment strategy. In this case, the insurer cannot reject it except that the change inthe insurance category, period or sum assured may increase the insurer's insurance risk.
+
+By handling the application for contract conversion, the insurer shall institute contract conversion anddispute mediation regulations and announce them.
+
+In the event that the contract conversion fee is required, the insurer shall inform the insuranceapplicant in advance when accepting the conversion application.
+
+## Article 24
+
+In the event that the investment or transaction range increases or decreases due to change instatutory regulations after the discretionary investment-linked insurance contract being signed, theinsurer shall notify the insurance applicant no less than 60 days before the change.
+
+In this case, the insurance applicant may submit objection and apply to terminate the insurancecontract during the foresaid period, and the insurer shall not collect any surrender fee from theinsurance applicant.
+
+## Article 25
+
+The accounting system of the seperate account of discretionary investment-linked insurance shall bein accordance with Generally Accepted Accounting Principle, the regulations stipulated by theAssociation and relevant statutory regulations.
+
+## Article 26
+
+For the insurance contract, unless otherwise agreed, the insurer shall respectively calculate the policyaccount value of each insurance applicant according to the seperate account of discretionaryinvestment-linked insurance on every business day.
+
+## Article 27
+
+Based on the seperate account of discretionary investment-linked insurance, the insurer shall makeout an account book stating the processing status of the seperate account of discretionaryinvestment-linked insurance, and periodically prepare a utilization status report.
+
+Within four months after the end of the fiscal year, the insurer shall prepare a year-end report on theassets in the seperate account of discretionary investment-type insurance according to the seperateaccount of respective piece of discretionary investment-linked insurance, send to competentauthorities and make announcement after being audited and certified by the certified publicaccountant.
+
+## Article 28
+
+In the event that the insurer violates the regulations resulting in harm to the rights and interests of theinsurance applicant or beneficiary, competent authorities may follow the regulations of the Act topunish the insurer according to the level of the violation.
+
+## Article 29
+
+The regulations shall come into force on the day of their promulgation.
+
+## History
+
+\1. Promulgated by Ministry of Finance (90-tai-tsai-pao No. 0900712668) on 2001.12.21 in total of 18 articles; the law comes into force since the promulgate date.
+
+\2. Tai-Tsai-Pao-Tzu-Ti 0930750680 issued by MOF on 5/3/2004
+
+\3. Jin-Guan-Pao (2) Tzu-Ti 09402525441 issued by FSC on 11/22/2005
+
+\4. Jin-Guan-Pao (2) Tzu-Ti 09702522571 issued by FSC on 4/24/2008
+
+\5. Jin-Guan-Pao (Shou) Tzu-Ti 10302543581 issued by FSC on 3/28/2014
+
+\6. Amended on 7 January 2016 per Order Ref. Jin-Kuan-Bao-Shou 10402550361 of the Financial Supervisory Commission
+
+\7. Amended on 12 December 2016 per Order Ref. Jin-Kuan-Bao-Shou 10502547891 of the Financial Supervisory Commission.
+
+8.Amended on 5 November 2020 per Order Ref. Jin-Kuan-Bao-Shou 10904942672 of the Financial Supervisory Commission.
+
+9.Amended on 30 May 2022 per Order No. Jin-Guan-Bao-Shou-Zi- 11104920993 of the Financial Supervisory Commission
+
+10.Amended on 29 April 2026 per Order No. Jin-Guan-Bao-Shou-Zi- 11504910981 of the Financial Supervisory Commission

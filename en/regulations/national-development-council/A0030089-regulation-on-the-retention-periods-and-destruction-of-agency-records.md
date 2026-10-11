@@ -1,0 +1,255 @@
+---
+title: "Regulation on the Retention Periods and Destruction of Agency Records"
+title_zh: "機關檔案保存年限及銷毀辦法"
+identifier: "A0030089"
+type: regulation
+law_level: "命令"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-12
+last_amended: 2017-01-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030089"
+retrieved: 2026-10-12
+---
+
+# Regulation on the Retention Periods and Destruction of Agency Records
+
+> Translation. The Chinese text ([zh/regulations/national-development-council/A0030089-regulation-on-the-retention-periods-and-destruction-of-agency-records.md](../../../zh/regulations/national-development-council/A0030089-regulation-on-the-retention-periods-and-destruction-of-agency-records.md)) is authoritative.
+
+## Article 1
+
+This Regulation is prescribed in accordance with paragraph 4 of Article 12 of the Archives Act (hereinafter referred to as the Act).
+
+## Article 2
+
+When government agencies set record retention periods in accordance with Article 10 of the Act, the following matters shall be taken into consideration:
+
+1.The effect on national security, social development and public interest.
+
+2.The value of the records as historical material.
+
+3.Preservation of value as legal evidence.
+
+4.Evidence of administrative procedure.
+
+5.Reference for academic research.
+
+6.Distinctive features of the agency's organizational history and its operations and functions.
+
+7.Protection of individual rights and interests.
+
+8.Other similar important matters which should be considered.
+
+## Article 3
+
+The retention period for the following records shall be permanent:
+
+1.Those which relate to important systems, decisions or plans of the national government or the agency holding the records.
+
+2.Those which relate to enactments, amendments or interpretations of important laws or regulations of the national government or the agency holding the records.
+
+3.Those which relate to the organizational history or main operations and functional evolution of the agency holding the records.
+
+4.Those which have been of important value to national development or the administrative undertakings of government agencies.
+
+5.Those of important value as evidence of the administrative undertakings of the national government or the agency.
+
+6.Those of important value as evidence of important properties of the national government, government agencies, groups or individual persons.
+
+7.Those which have exerted important influence on the protection of the interests of the nation, government agencies, the public or individual.
+
+8.Those of important technological value.
+
+9.Those of important historical, social or cultural value.
+
+10.Those pertaining to unusual matters that are materially newsworthy or are unique, special or representative.
+
+11.Those for which permanent retention is required by laws or regulations.
+
+12.Other records pertaining to important matters with permanent preservation value.
+
+## Article 4
+
+The retention period for temporary records shall be set at thirty years, twenty-five years, twenty years, fifteen years, ten years, five years or one year, however, this requirement shall not apply to the following:
+
+1.Records set out in the General Records Schedules enacted by the central archives competent authority.
+
+2.Those records set out in Article 7.
+
+3.Records for which a retention period of greater than thirty years has been set, and for which the central archives competent authority has given its consent.
+
+4.Records otherwise provided for any other laws or regulations.
+
+## Article 5
+
+When government agencies establish their comprehensive records schedules based on this Regulation, the General Records Schedules, and other applicable laws and regulations, they shall specify the retention periods and disposal methods for each particular type of record.
+
+With respect to the disposal methods referred to in the preceding paragraph, the government agencies shall specify one of the following four methods for each records category: archives; agency records to be retained permanently; records to be assessed upon expiration; and records to be destroyed in accordance with regulation.
+
+The government agencies shall implement their comprehensive records schedules, referred to in paragraph 1, only after submitting them to the central archives competent authority for approval in accordance with the procedures set out in paragraph 1 of Article 10 of the Enforcement Rule of the Act. This provision shall apply to amendments to records schedules, however, not to amendments of the General Records Schedules.
+
+## Article 6
+
+Government agencies shall review their comprehensive records schedules at least every ten years and may amend them when necessary.
+
+## Article 7
+
+For a temporary record that has been converted to microfilm, electronic format, or some other format for the purpose of storage, the agency should file information showing that retention measures have been adopted which ensure that the reproduced and stored record can be effectively accessed, and the retention period for its original may be amended under the following conditions:
+
+1.The retention period is not for more than twenty years.
+
+2.The record is classified as one to be destroyed in accordance with regulation.
+
+A retention period amended in accordance with the preceding paragraph shall not be less than one-half of the statutory period, and shall be rounded up to the nearest whole number.
+
+After a retention period has been amended in accordance with the first paragraph, once the central archives competent authority has approved destruction of the record's original, the reproduced and stored record shall be made available for access, and shall be retained for at least as long as the record's retention period as originally set. After the originally set retention period expires, once the plan to destroy the reproduced and stored record has been submitted to the central archives competent authority for reference, the original may be destroyed.
+
+## Article 8
+
+In principle, government agencies shall conduct the destruction of temporary records once every year.
+
+For records that have expired, the records  management division or the records manager in the government agencies shall prepare a destruction catalog in the format required by the central archives competent authority for the relevant divisions to solicit their opinions. If a division considers it necessary to extend the retention period, it shall specify the number of years for extension and reasons for the extension.
+
+The destruction catalog in the preceding paragraph shall specify the following information:
+
+1.Year, classification number and folder number.
+
+2.The number of volumes.
+
+3.Folder title.
+
+4.Creator of the records.
+
+5.The start and end dates of the records in the folder.
+
+6.Retention periods. The original retention periods and the reasons for any revisions thereto.
+
+7.Summary.
+
+8.Other matters stated by the central archives competent authority.
+
+If the records are not cataloged at the folder level, but cataloged instead by item, the catalog shall include the following:
+
+1.File number.
+
+2.Folder title.
+
+3.Subject.
+
+4.Sender (recipient).
+
+5.Receiving and sending numbers.
+
+6.Creation dates of the files.
+
+7.Retention periods. The original retention periods and the reasons for any revisions thereto.
+
+8.Other matters stated by the central archives competent authority.
+
+## Article 9
+
+Destruction catalogs of government agencies may be provided to historic heritage agencies for approval for destruction. Records that have been approved for destruction shall be noted in the destruction plan and destruction catalogs.
+
+After a retention period has been amended in accordance with paragraph 1 of Article 7 and a historic heritage agency has approved an original for destruction, said original shall not be forwarded to the historic heritage agency until after the reproduced and stored record has been retained to the end of the originally set retention period and the plan to destroy the reproduced and stored record has been submitted to the central archives competent authority for reference in accordance with paragraph 3 of Article 7.
+
+## Article 10
+
+The destruction plan under paragraph 2 of Article 12 of the Act shall contain the following:
+
+1.The years of the records to be destroyed, and their quantity.
+
+2.The storage place for the records to be destroyed.
+
+3.The time, place and method of destruction.
+
+4.Where a record's retention period has been amended in accordance with Article 7, indicate the retention measures used to ensure that the reproduced and stored record can be effectively accessed.
+
+5.Other matters stated by the central archives competent authority.
+
+The retention measures used to ensure that the reproduced and stored record can be effectively accessed as referred to subparagraph 4 of the preceding paragraph shall include the following items:
+
+1.Establishment of standard operating procedures for long-term retention of reproduced and stored records.
+
+2.A plan for remote backup of reproduced and stored records.
+
+3.Assessment of the viability of media, software, and hardware; the conversion procedures and their cost effectiveness.
+
+4.Other matters stated by the central archives competent authority.
+
+Both the destruction plan of the first paragraph and the destruction catalogs of Article 8 shall, in accordance with paragraph 1 of Article 10 of the Enforcement Rule of the Act, be submitted to the central archives competent authority for approval.
+
+## Article 11
+
+If the central archives competent authority or the agency holding the records considers it necessary to have records electronically stored as provided for under paragraph 3 of Article 12 of the Act, the records may be microfilmed or stored by another method in accordance with Article 9 of the Act.
+
+## Article 12
+
+Records approved for destruction shall be stored collectively in a safe place before their destruction and the security during their transit shall be ensured.
+
+The destruction of records shall be implemented by the records management entity in consultation with relevant entity by appointing officers to supervise the whole process and shall pay due attention to environmental protection matters.
+
+## Article 13
+
+The methods for destruction of records shall include the following:
+
+1.Shredding or pulping.
+
+2.Burning.
+
+3.Breaking down into pieces from which it is impossible to discern the content of the record.
+
+4.Pulverizing.
+
+5.Demagnetizing.
+
+6.Deleting electronic files or reformatting the medium.
+
+7.Any other methods that can delete or destroy the content of records.
+
+The methods mentioned in the preceding paragraph can be used together when necessary.
+
+## Article 14
+
+Records may be destroyed directly under any one of the following circumstances and if the situation is urgent:
+
+1.The records have degenerated and are emitting hazardous substances that may seriously affect human health.
+
+2.A war, riot or some other conflict has occurred, and immediate destruction is necessary for the sake of national security or national interest.
+
+Under circumstances in the preceding paragraph, the government agencies shall submit the reason and the file numbers, file names, quantity, time, place and method of destruction and any other relevant details to the central archives competent authority for reference.
+
+## Article 15
+
+The  records were damaged due to natural disasters or accidents and are deemed irreparable after appraisal, the government agencies shall submit a report detailing the reason and the file numbers, file names, quantity of destroyed records and other details to the central archives competent authority for reference, and then the records may be destroyed.
+
+When records are damaged or lost due to a natural disaster or an unforeseen event, the government agencies shall submit a report detailing the reason, time, place, scope and quantity of the lost records, and other related information and supporting documents, to the central archives competent authority for its reference.
+
+## Article 16
+
+If the government agencies find that records have been destroyed illegally in any of the ways set out in Article 24 of the Act, they shall submit the reason and the file numbers, file names, quantity, time, place and manner of destruction of the records and other details to the central archives competent authority for reference.
+
+## Article 17
+
+After records have been destroyed, the reference number of the approval document and destruction date for the destroyed records shall be entered in the destruction catalogs, folder schedules and any other related catalogs. If they are stored on microfilm, in electronic format or any other form, their serial numbers shall be noted. If an entire folder of records has been destroyed, however, it is not necessary to specify this on the folder schedules.
+
+Where the catalogs for  destroyed records in accordance with the preceding paragraph  have already been submitted to the central archives competent authority, catalogs should be resubmitted after completing relevant notations.
+
+## Article 18
+
+The catalogs of destroyed records should be retained permanently along with the documents in relation to the approval approved for destruction.
+
+## Article 19
+
+This Regulation shall come into force from the date of  promulgation.
+
+## History
+
+1.Promulgated on December 12, 2001
+
+2.Amendment on Jan 3, 2005
+
+3.Amendment on Jan 5, 2016

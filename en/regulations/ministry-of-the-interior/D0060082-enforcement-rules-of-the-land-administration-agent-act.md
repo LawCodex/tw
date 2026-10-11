@@ -1,0 +1,263 @@
+---
+title: "Enforcement Rules of the Land Administration Agent Act"
+title_zh: "地政士法施行細則"
+identifier: "D0060082"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞地政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-08-01
+last_amended: 2025-09-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060082"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Land Administration Agent Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0060082-enforcement-rules-of-the-land-administration-agent-act.md](../../../zh/regulations/ministry-of-the-interior/D0060082-enforcement-rules-of-the-land-administration-agent-act.md)) is authoritative.
+
+## Article 1
+
+This Rules for the Enforcement of the Land Administration Agent Act is instituted in accordance with Article 58 of Land Administration Agent Act (hereinafter called this Act).
+
+## Article 2
+
+The term ‘passing the examination for Land Administration Agent’ as referred to in the provision of Paragraph I of Article 4 in this Act includes the examinations planned in accordance with the laws before the promulgation of this Act by Examination Yuan, and took place in 2002, after the promulgation of this Act, the Professional Land Registration Agent Examination of the Examinations for Professional Occupational and Technical Personnel, and application for Qualification of Professional Land Registration Agent before December 31st, 2005.
+
+## Article 3
+
+According to the provisions of Article 5,Paragraph II of Article 53, or Article 54 in this Act, the following documentations shall be submitted to the competent central authority for application for Certificate of Land Administration Agent.
+
+\1. Application form.
+
+\2. Any of the following documentations in respect of qualification:
+
+(1) In the case of submitting application in accordance with the provision of Article 5 of this Act, the certificate and copies of passing the examination of Land Administration Agent are required.
+
+(2) In the case of submitting application in accordance with the provision of Paragraph II of Article 53 of this Act, the certificate and copies of passing the examination of Professional Land Registration Agent, or the certificate and copies for Qualification of Professional Land Registration Agent are required.
+
+(3) In the case of submitting application in accordance with the provision of Article 54 in this Act, document and copies of qualification for Land Registration Agent issued by the competent authority in a Municipality or a County / City, or card and copies for professional agent for land registration are required.
+
+\3. Copies of Identification Documentation.
+
+The documents of evidence, referred to in Subparagraph 2 of the preceding Paragraph, may not be required if they are able to be duly investigated through processing by computer.
+
+For applications in compliance with the provisions stated in the first Paragraph, a Certificate of Land Administration Agent shall be issued. For applications not in compliance with the provisions stated in the previous Paragraph, the applications shall be rejected. As regards applications for which further proofs or supplemental documents are required, a re-submission with required further documentation within 15 days shall be notified of the applicants. Applications for which re-submission are required within 15 days but the applicants fail to comply with shall be rejected.
+
+For applications rejected in accordance with the provision in previous Paragraph, the original documentations submitted as stated in Subparagraphs 2 and 3 of Paragraph I shall be returned to applicants.
+
+Persons who were issued with a Certificate of Professional Land Registration Agent in accordance with the laws before this Act comes into effect can use the Certificate as the document of qualification as required in Subparagraphs 2 of Paragraph I and apply for Certificate of Land Administration Agent in accordance with the provision of Paragraph I. In this case, the Certificate of Professional Land Registration Agent shall not be returned to applicants after a Certificate of Land Administration Agent is issued.
+
+## Article 4
+
+According to the provisions of Article 7 in this Act, the following documentations shall be submitted to the competent authority in a Municipality or a County / City for applying for a practicing license.
+
+\1. Application form.
+
+\2. Certificate and copies of Land Administration Agent or Professional Land Registration Agent.
+
+\3. Copies of Identification Documentation.
+
+\4. A two-inch photo of the applicant taken within the past one year.
+
+\5. Copies of the document certifying the legal use of the office premises.
+
+The documents of evidence, referred to in Subparagraph 2 of the preceding Paragraph, may not be required if they are able to be duly investigated through processing by computer.
+
+The provision of Paragraph III of Article 3 applies to Paragraph I of this Article. In the case that an application is rejected, the original documentations of Paragraph I submitted as stated in Subparagraphs 2 to 5 of Paragraph I shall be returned to the applicant.
+
+## Article 5
+
+In the case that physical Certificate of Land Administration Agent or physical Professional Land Registration Agent is missing, destroyed, or stained, application form and copies of Identification Documentation shall be submitted to the competent central authority to apply for reissue or renewal of the certificate.
+
+## Article 6
+
+In the case that physical Practicing License of Land Administration Agent is missing, destroyed, or stained, the following documentations shall be submitted to the original competent authority in a Municipality or a County / City to apply for reissue or renewal of the practicing license.
+
+\1. Application form.
+
+\2. Copies of Identification Documentation.
+
+\3. A two-inch photo of the applicant taken within the past one year.
+
+The valid date of a re-issued or renewed practicing license is the same as that of the original practicing license.
+
+## Article 7
+
+For an application for re-issuing a practicing license in accordance with the provisions of Article 8 in this Act, the following documentations shall be submitted to the competent authority in a Municipality or a County / City at least six months prior to the expiry of the original practicing license.
+
+\1. Application form.
+
+\2. The original practicing certificate and its copies, except for the case that original practicing license is missing or destroyed.
+
+\3. Copies of Identification Documentation.
+
+\4. Documentation of completing at least 30 hours’ professional training or supporting evidence of receiving equivalent professional training within the past four years.
+
+\5. A two-inch photo of the applicant taken within the past one year, except for making a note of extending the expiry date on the original practicing license.
+
+The valid date of a practicing license renewed in accordance with the provision of the previous Paragraph is extended for four years starting from the next date of the expiry date on the original practicing license.
+
+For an application in compliance with the provision of Paragraph I, the competent authority in a Municipality or a County / City shall renew a practicing license or make a note of extending the expiry date on the original practicing license. For an application not in compliance with the provision of Paragraph I, the application shall be rejected. As regards an application for which further proofs or supplemental documents are required, a re-submission of required documentation within 15 days shall be notified of the applicant. An application that fails to re-submit required further documentation within 15 days shall be rejected.
+
+For an application that is rejected in accordance with the provision of Paragraph I, the original documentations submitted as stated in Subparagraph 2 to 5 of Paragraph I shall be returned to the applicant.
+
+Applicants who apply for renewal of their business license online through the system provided by the central competent authority are exempt from submitting the documents specified in Subparagraph 2 of Paragraph I.
+
+## Article 7-1
+
+A Land Administration Agent who voluntarily ceases practice and whose registration is cancelled, and who applies to resume practice before the expiry date of the original practicing license, shall submit the documents specified in Subparagraphs 1 to 3 and 5 of Paragraph I of the preceding Article to the competent authority in a Municipality or a County / City.
+
+The practicing license issued in accordance with the preceding paragraph shall be valid until the expiry date of the original practicing license.
+
+## Article 8
+
+The term ‘within four years’ as referred to in the provision of Paragraph I of Article 8 in this Act means four years between the date when professional training is completed and the date when re-application for a practicing license is submitted.
+
+## Article 9
+
+In the event of reporting alternations for future reference in accordance with the provisions of Paragraph II of Article 9 in this Act, Land Administration Agent shall submit application form and documentation in respect of the alternations to the competent authority in the local Municipality or County / City where the office is located.In the case that alternations are those specified in the provisions of Subparagraph 1 or 4 Paragraph I of Article 9 in this Act, except for the address specified in Subparagraph 1, Land Administration Agent can apply for a renewal of Certificate of Land Administration Agent or Practicing License in accordance with the provisions of Articles 5 and 6.
+
+In the case of applying for a renewal of the Certificate of Land Administration Agent or Practicing License due to the change of address of the office or joint office as specified in the preceding paragraph, the documents specified in Subparagraph 5 of Paragraph I of Article 4 shall also be submitted.
+
+## Article 10
+
+For an application of Practicing License in accordance with the provisions of Paragraph III of Article 11 in this Act, the applicant shall submit supporting documentations and the documents as stated in Paragraph I of Article 4 in this Act to the competent authority in the local Municipality or County / City where the office is located.
+
+## Article 11
+
+A Land Administration Agent shall submit the original Practicing License and documents as stated in Paragraph I of Article 4 to the competent authority in the Municipality or County / City where the office is moving into for re-registration in accordance with the provision of Article 14.
+
+The physical practicing license of the preceding Paragraph, may not be required if they are able to be duly investigated through processing by computer.
+
+The competent authority dealing with re-registration application shall examine the case and issue a new practicing license where appropriate and return the original practicing license to the original competent authority for cancellation of the previous registration.
+
+The expiry date of a practicing license issued in accordance with the provision of previous Paragraph is the same as that on the original practicing license.
+
+For those who apply for registration online through a system provided by the central competent authority and hold the physical Practicing License of Land Administration Agent are exempt from submitting the physical practicing license specified in Paragraph I.
+
+## Article 12
+
+(Deleted)
+
+## Article 13
+
+The areas where a Land Administration Agent practices is not subject to the jurisdiction where he / she registered with.
+
+## Article 14
+
+In the event that a Land Administration Agent applies for registration as an attesting witness for signatories, the following documents shall be submitted to the competent authority in a Municipality or a County / City where the office is located.
+
+\1. Application form.
+
+\2. Copies of Identification Documentation.
+
+\3. Documentation and its copies of qualification as stated in the provision of Paragraph I of Article 19 in this Act.
+
+\4. Documentation and its copies of paying fees to the Attestation Guarantee Fund as stated in the provision of Paragraph II of Article 22 in this Act.
+
+\5. Copies of seal and signature of an attesting witness.
+
+## Article 15
+
+The competent authority in a Municipality or a County / City dealing with registration of Attesting Witness is responsible for examining the applications, creating files for the cases in compliance with the provisions in this Act and setting up a Register of Attesting Witnesses. The Register of Attesting Witnesses shall be sent to the Land Office in the local jurisdiction, the Land Administration Agent Guild that the applicant joined, and the National Association of Land Administration Agent Guilds (hereinafter called the National Association), and the competent authorities in other Municipalities or Counties / Cities and the local Land Offices in their jurisdictions. In the case of nullification of status of an Attesting Witness, the same procedures apply.
+
+A register of Attesting Witnesses shall specify the following matters:
+
+\1. Name, Gender, Date of Birth, Number of Identification Card and Address of an Attesting Witness.
+
+\2. Name, Address and telephone number of the office.
+
+\3. Registration number of a practicing license.
+
+\4. The copy of seal and signature of an Attesting Witness.
+
+## Article 16
+
+When handling with the cases in relation to attestation, a Land Administration Agent shall set up files for personal details of signatories, which shall specify the following Subparagraphs:
+
+\1. Name.
+
+\2. Date of Birth.
+
+\3. Number of Identification Card.
+
+\4. Address of Residence.
+
+\5. Corresponding Address and telephone number.
+
+\6. The copy of seal and signature.
+
+## Article 17
+
+The record set up by a Land Administration Agent in accordance with the provisions of Paragraph I of Article 25 in this Act shall specify the following matters.
+
+\1. The category and contents of the entrusted cases.
+
+\2. The name or title and address of clients.
+
+\3. The date of commission.
+
+\4. The date of application.
+
+\5. The process of the entrusted cases.
+
+A Land Administration Agent shall include the matters stated in the previous Paragraph in the record while handling attestation cases.
+
+## Article 18
+
+The mandatory duration of keeping the record as referred to in the provisions of Paragraph II of Article 25 in this Act starts from the date when Land Administration Agent submits an application to the competent authority.
+
+## Article 19
+
+The name of a Land Administration Agent Guild shall include the name of the local Municipality or County / City.
+
+A Professional Land Registration Agent Guild established before the Act comes into effect and in compliance with the provision of Article 30 in this Act can apply for a change of name to the competent authority of civilian associations. A Guild, after having its name changed, shall submit its Chart, the List of its Members and the List of its Staff to the competent authority of civilian associations for future reference in accordance with the deadline instituted by the competent central authority, also with copies submitted to the competent authority in the local Municipality or County / City.
+
+## Article 20
+
+Land Administration Agents issued with a practicing license shall join the Land administration Agent Guild in the local Municipality or County / City, except for the case that a Land Administration Agent who applies to join the Land Administration Agent Guild in an adjacent Municipality or County / City in accordance with the provision of Article 31 in this Act.
+
+A Land Administration Agent who previously joined the Land Administration Guild in an adjacent Municipality or County / City in accordance with the provision of Article 31 in this Act shall join the Land Administration Agent Guild in the local Municipality or County / City where he / she practices once it is established, and has his / her membership withdrawn from the original Land Administration Guild he / she registered with in an adjacent Municipality or county / City.
+
+## Article 21
+
+The representatives of National Association shall be elected and appointed by Land Administration Agent Guilds in Municipalities or Counties / Cities. The number of representatives shall be instituted in the Chart of National Association.
+
+The representatives elected and appointed by Land Administration Agent Guilds in Municipalities or Counties / Cities as stated in the previous Paragraph shall not be limited to the Boards of Directors and Supervisors from those local guilds.
+
+## Article 22
+
+The candidates for Boards of Directors and Supervisors in the National Association shall not be limited to the representatives elected and appointed by Land Administration Agent Guilds in Municipalities or Counties / Cities.
+
+## Article 23
+
+The term of three years for Boards of Directors and Supervisors of a Land Administration Agent Guild in accordance with Paragraph III of the Article 36 in this Act shall be applied since the first re-election after this Act comes into effect. The number of the re-elected members in the Board of Directors and the Board of Supervisors can not exceed a half of the respective total number of the Board of Directors and that of Supervisors.
+
+## Article 24
+
+The awards as referred to in the provision of Article 42 in this Act shall be given by overtly presenting a certificate, or a plaque, or a medal.
+
+## Article 25
+
+The punishment as referred to in Paragraph II of Article 43 in this Act shall add up the punishments disciplined in all Municipalities or Counties / Cities.
+
+## Article 26
+
+The competent authority in a Municipality or a County / City should take account of the punishment disciplined in all Municipalities or Counties / Cities while dealing with the matters concerning disciplining a Land Administration Agent. A Land Administration Agent who has been given reprimands more than three times or disciplined of ceasing the right to practice for a total of more than three years shall be sent to the Land Administration Agent Disciplinary Committee for consideration of giving the punishment of ceasing the right to practice or disqualification.
+
+## Article 27
+
+The Rules for the Enforcement shall come into effect from the date of its promulgation.
+
+The enforcement date for the amended articles of this Rules for the Enforcement, promulgated on September 15, 2025, shall be determined by the central competent authority.
+
+## History
+
+1.Promulgated on August 01, 2002
+
+2.Articles 3,4,5,6,7,9,11 and 27 amended and promulgated, Article 7-1 added and Articles 12 delted on September 15, 2025 pursuant to the Ministry of the Interior’s Tai-Nei-Ti-tzu Order No. 1140265381; enforced on November 1, 2025.

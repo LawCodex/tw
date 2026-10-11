@@ -1,0 +1,325 @@
+---
+title: "Regulations for Start-up Assistance for the Unemployed Under Employment Insurance"
+title_zh: "就業保險失業者創業協助辦法"
+identifier: "N0040013"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-12-11
+last_amended: 2026-06-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0040013"
+retrieved: 2026-10-12
+---
+
+# Regulations for Start-up Assistance for the Unemployed Under Employment Insurance
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0040013-regulations-for-start-up-assistance-for-the-unemployed-under-employment.md](../../../zh/regulations/ministry-of-labor/N0040013-regulations-for-start-up-assistance-for-the-unemployed-under-employment.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 4, Article 12 of the Employment Insurance Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+Insured persons under the Employment Insurance who become unemployed and intend to start their businesses (hereinafter referred to as the “Entrepreneurs”) may apply to the Ministry of Labor (hereinafter referred to as the “MOL”) for start-up assistance, which includes the following:
+
+\1. Entrepreneurial counseling and adaptive assessment.
+
+\2. Entrepreneurship training courses.
+
+\3. Start-up loans (hereinafter referred to as the “loan”) and interest subsidies.
+
+\4. Other relevant measures.
+
+The aforementioned items may be delegated by the MOL to its own subordinate agencies (institutions) or commissioned to relevant institutions, schools, organizations, legal persons, or business entities.
+
+## Article 3
+
+To carry out entrepreneurial counseling and adaptive assessment, the Ministry of Labor (MOL) may recruit consultants, arrange counseling sessions according to the needs of the entrepreneurs, and provide appropriate consultant fees.
+
+## Article 4
+
+To conduct entrepreneurial training courses, the MOL may arrange both in-person and online courses to equip entrepreneurs with knowledge in business operations, finance, marketing, and other areas related to entrepreneurship. Enterprise observation or internship opportunities may also be arranged when necessary.
+
+The hours an entrepreneur completes in the aforementioned training courses shall be certified by the Ministry of Labor through a certificate of study hours.
+
+Where entrepreneurial courses are implemented by the MOL’s subordinate agencies (institution) or commissioned to relevant agencies (institution), schools, groups, legal persons or institutions, the certificate shall be issued by those said organizations.
+
+## Article 5
+
+Entrepreneurs shall meet all of the following qualifications and apply for the loan in the name of their business:
+
+\1. Have received entrepreneurial counseling and adaptive assessment from the MOL.
+
+\2. Have participated in entrepreneurial training courses provided by the MOL or government agencies (institution) for at least 18 hours within the past three years.
+
+\3. Be registered as the representative or responsible person (hereinafter collectively referred to as the “responsible person”) of the applicant business, and be actually operating the business.
+
+\4. Have no employment insurance enrollment record and not be the responsible person of any other business within 14 days before being registered as the responsible person of the business referred to in the preceding subparagraph.
+
+## Article 6
+
+The applicant business referred to in the preceding article shall meet any of the following conditions:
+
+\1. Have completed company registration, business registration, or limited partnership registration in accordance with the law.
+
+\2. Be institutions such as child day care centers, kindergartens, after-school care centers, or short-term tutoring centers, and have completed establishment registration in accordance with the law.
+
+\3. Be small businesses exempt from registration under Article 5 of the Business Registration Act, and have completed tax registration in accordance with the law.
+
+## Article 7
+
+The loan limit for this loan shall be determined as follows:
+
+\1. For businesses that fall under Subparagraph 1 or 2 of the preceding Article, the maximum loan amount shall be NT$2 million.
+
+\2. For businesses that fall under Subparagraph 3 of the preceding Article, the maximum loan amount shall be NT$500,000.
+
+The loan term for each loan shall not exceed seven years. The business that has been granted the loan (hereinafter referred to as the “loan recipient business”) shall repay the principal and interest in equal monthly installments. However, with the consent of the lending financial institution, the MOL may grant a grace period of up to one year during each loan term with only interest payments are required.
+
+## Article 8
+
+The business applying for the loan shall submit an application form along with the following documents and information to the MOL:
+
+\1. Employment insurance enrollment record of the responsible person of the applicant business.
+
+\2. A business plan.
+
+\3. Photocopies of registration and tax registration certificates issued by the competent authority for the applicant business.
+
+\4. Photocopy of both sides of the National Identification Card of the responsible person of the applicant business.
+
+\5. One copy each of comprehensive credit reports issued by the Joint Credit Information Center within the past three months for both the applicant business and its responsible person.
+
+\6. Affidavit for Entrepreneurial Loans for the Unemployed under Employment Insurance.
+
+\7. Photocopies of documentary proof of course hours in entrepreneurial training programs provided by the MOL or government agencies (institution) participated in by the responsible person of the applicant business.
+
+\8. Other supporting documents as required by the MOL.
+
+If the documents or information to be submitted under the preceding paragraph are incomplete, the applicant business shall make corrections within 30 days from the date following the date of receiving notification by the MOL. Failure to do so within the deadline shall result in the application not being accepted.
+
+## Article 9
+
+The loan recipient business may reapply for the loan during the loan period. However, such reapplication is limited to two additional times.
+
+For loan recipient businesses that reapply under the preceding paragraph, the total amount granted across the first, second, and third loans shall not exceed the maximum loan amount specified in each subparagraph of Paragraph 1, Article 7. The same shall apply where the responsible person of the loan recipient business has previously obtained this loan for the same business.
+
+If a loan recipient business re-applying for the loan has not changed its responsible person, it shall be exempt from submitting the documents and information specified in Subparagraphs 1 and 7 of Paragraph 1, Article 8.
+
+## Article 10
+
+This loan shall be provided by the lending financial institutions using their own funds.
+
+## Article 11
+
+The loan interest rate shall be calculated based on the two-year floating interest rate of time deposits set by Chunghwa Post Co., Ltd., plus an annual interest rate of 0.575%.
+
+The interest for the first three years of each loan shall be fully subsidized by the MOL. From the fourth year onward, if the annual interest rate exceeds 1.5%, the MOL shall subsidize the difference. However, if the annual interest rate is 1.5% or lower, the loan recipient business shall bear the full actual interest.
+
+## Article 12
+
+The purpose of the loan is limited to the purchase or lease of factories, business premises, machinery, equipment, or as working capital.
+
+## Article 13
+
+To review loan applications, the MOL shall establish a Review Committee composed of five to eleven members. One member shall serve as the convener and shall be concurrently appointed from MOL personnel. The remaining members shall be appointed by the MOL from among the following:
+
+\1. One representative from the Small and Medium Enterprise Credit Guarantee Fund of Taiwan (hereinafter referred to as the “SMEG”).
+
+\2. Two to seven representatives from lending financial institutions.
+
+\3. One to two experts or scholars.
+
+Among the members mentioned in the preceding paragraph, the proportion of either gender shall not be less than one-third.
+
+Members of the Review Committee shall serve without remuneration. However, representatives from lending financial institutions and experts or scholars may be paid attendance and transportation fees in accordance with relevant regulations.
+
+## Article 14
+
+Members of the Review Committee shall attend meetings in person and may not appoint proxies.
+
+Review Committee members shall keep confidential all information obtained during the review process.
+
+## Article 15
+
+Review Committee meetings shall only be convened with the attendance of more than half of all committee members.
+
+If, upon review, the Review Committee determines that the applicant business must provide additional explanations or submit relevant documents or information, the applicant business shall comply within 30 days from the date following the date of receiving notification by the MOL; failure to do so within the deadline shall result in the loan not being approved.
+
+The review decision of each loan application must be approved by a majority of the attending committee members.
+
+The results of the Review Committee’s decision shall be issued to the applicant in the form of a written notification by the MOL.
+
+## Article 16
+
+A member of the Review Committee shall recuse himself or herself and shall not participate in the review in any of the following circumstances:
+
+1.The member or his/her spouse currently holds or held any position in, or provided entrepreneurial counseling to, the applicant business, and was dismissed or resigned from such role less than one year prior.
+
+2.The member or his/her spouse is related by marriage, lineal relative, or collateral relative within the third degree to the person responsible for the applicant business, a director, supervisor, manager, or shareholder holding more than 10% of shares.
+
+3.The member or his/her spouse shares a joint business or profit-sharing relationship with the person responsible for the applicant business, a director, supervisor, manager, or shareholder holding more than 10% of shares.
+
+4.Any other circumstances set forth in Article 32 of the Administrative Procedure Act that require recusal.
+
+## Article 17
+
+Where an applicant business or its responsible person is found to fall under any of the following circumstances, the loan shall not be approved. If a review result notification has already been issued, it may be revoked or annulled:
+
+1.Where an inquiry with the bill clearinghouse reveals that the loan applicant is subject to a sanction of denial of dealings, or that the number of dishonored cheques or promissory notes that remain unsettled has reached the threshold for such sanction.
+
+2.Where, upon inquiry with the Joint Credit Information Center or during the credit assessment process, it is discovered that the applicant has overdue principal not yet repaid, has failed to make scheduled installment payments for more than one month, has unpaid interest overdue by more than three months, or has overdue credit card payments resulting in forced card suspension by the issuing bank, and the overdue amount has not yet been settled.
+
+3.Where any documents or materials submitted in connection with the loan application are found to be concealed or false.
+
+4.Where they have any of the circumstances set forth in the preceding article with a member of the review committee, and their reliance is deemed unworthy of protection.
+
+5.Where the same business has previously received loans from the MOL in accordance with Directions of the Phoenix Micro-Enterprise Start-up Loan or Start-up Loan Regulations for the Unemployed Middle-Aged and Elderly Persons; provided, however, this restriction shall not apply if the prior loan has been fully repaid.
+
+6.Where the responsible person of the applicant business has previously obtained the Phoenix Micro-Enterprise Start-up Loan, the Start-up Loan for the Unemployed Middle-Aged and Elderly Persons, or this Loan from the MOL under another business, and such loan has not yet been fully repaid.
+
+## Article 18
+
+Where a loan application has been approved upon review, the applicant business shall apply for the loan with the lending financial institution within three months from the date of receipt of the review result notification.
+
+If the applicant business is unable to complete the loan process within the period specified in the preceding paragraph, it may apply to the MOL for an extension before the period expires, stating the reason. The extension shall not exceed three months and may be granted only once.
+
+A lending financial institution, in processing this loan, shall conduct a review in accordance with Subparagraphs 1 and 2 of the preceding Article and verify any occurrence of business suspension, business discontinuation, or change of the responsible person of the applicant business.
+
+A lending financial institution shall complete the review and loan disbursement within 14 days starting from the day following the date on which the applicant business applies for the loan with the institution pursuant to Paragraph 1.
+
+Where a lending financial institution fails to complete the review and disbursement within the period prescribed in the preceding paragraph, it shall state the reasons and submit an explanation to the MOL.
+
+## Article 19
+
+If a loan application has been reviewed and approved by the Review Committee but is returned by the lending financial institution or the loan amount is adjusted, the MOL may convene a coordination meeting with the lending financial institution, the SMEG, and the responsible person of the loan recipient business to negotiate and resolve the matter.
+
+## Article 20
+
+The expenditures required for the performance of guarantee obligations in processing this loan shall be met by funds contributed by the MOL to the SMEG pursuant to Paragraph 3, Article 12 of the Act, alongside equal matching funds provided by the SMEG.
+
+Where the contributed funds and matching funds described in the preceding paragraph are insufficient to cover the expenditures for the performance of guarantee obligations required for this loan, the MOL and the SMEG shall respectively make up the deficit for their allocated shares.
+
+A loan recipient business applying for credit guarantee in accordance with the relevant regulations of the SMEG shall receive a guarantee coverage ratio of 95%, and shall bear the guarantee fee under the annual guarantee fee rate set by the SMEG.
+
+Guarantors for this loan shall be limited to the responsible person of the loan recipient business, and no collateral shall be required.
+
+## Article 21
+
+Lending financial institutions shall not charge the loan recipient business any fees other than the credit guarantee fee and necessary credit inquiry fees.
+
+## Article 22
+
+Interest subsidies for this loan shall be applied for by the lending financial institution to the MOL monthly.
+
+The lending financial institution shall, on a monthly basis, compile and submit the loan recipient business’s monthly repayment details, overdue collections, compulsory enforcement and related information to the MOL as the basis for disbursing the interest amount of the subsidies.
+
+## Article 23
+
+Where the loan recipient business falls under any of the following circumstances, the MOL shall stop the interest subsidy from the date of the occurrence of the fact. If any subsidies have already been disbursed, the lending financial institution shall notify the loan recipient business to repay the overpaid subsidy interest and return it to the MOL:
+
+\1. Suspension or closure of the business.
+
+\2. Change of the responsible person.
+
+If the loan recipient business is suspended during the subsidy period but has continued to repay loan principal and interest in accordance with regulations, and subsequently completes resumption registration, the lending financial institution may apply to the MOL for resumption of interest subsidy from the date of business resumption until the original subsidy period expires.
+
+## Article 24
+
+If the loan recipient business is in arrears on loan principal and interest for six months, the interest subsidy shall be suspended starting from the first month of delinquency. If any subsidies have already been disbursed, the lending financial institution shall notify the loan recipient business to repay the overpaid subsidy interest and return it to the MOL.
+
+In the case described above, once the loan recipient business repays the outstanding principal and interest and resumes regular repayment, the MOL may resume the subsidy. However, the resumed subsidy period shall not exceed the originally approved subsidy period.
+
+If the loan recipient business repays the outstanding principal and interest within six months and resumes regular repayment, they may be regarded as a normal loan recipient business and continue to receive interest subsidies.
+
+## Article 25
+
+If a lending financial institution fails to conduct the verification procedures required under Paragraph 3, Article 18, and the loan recipient business or its responsible person is found to meet any of the conditions set forth in Subparagraphs 1 or 2 of Article 17 or in Paragraph 1 of Article 23, the institution shall return the disbursed interest subsidy to the MOL.
+
+## Article 26
+
+If a loan recipient business suffers a disaster as defined under the Disaster Prevention and Protection Act, or a socioeconomic catastrophe recognized by the MOL, it may apply to the lending financial institution within six months from the date of the disaster occurrence or the official recognition announcement of the catastrophe for either of the following:
+
+\1. Postponement of loan principal and interest payments for up to six months.
+
+\2. Extension of the loan repayment period for up to six months.
+
+The MOL may, based on the nature, scope, and severity of the disaster or the catastrophe, publicly announce an extension of the application or repayment periods set out in the preceding paragraph.
+
+The loan recipient business applying under Paragraph 1 shall submit one of the following supporting documents:
+
+\1. A disaster victim certificate issued by the Special municipality, county (city) government, or township (town, city, or district) office.
+
+\2. A certificate showing that the responsible person of the loan recipient business was injured or fell ill as a result of the disaster.
+
+\3. A certificate of serious injury or death of the spouse, lineal relatives, or the spouse’s lineal relatives of the responsible person of the loan recipient business due to the disaster.
+
+\4. Other documents as specified by the MOL.
+
+A loan recipient business falling under any of the conditions set forth in Paragraph 1, Article 23 or Paragraph 1, Article 24 is not eligible to apply under Paragraph 1 of this Article.
+
+A lending financial institution approving an application under Paragraph 1 shall report such approval to the MOL for the record.
+
+During the postponement period for loan principal and interest payments, interest shall be subsidized by the MOL, except in cases where the interest subsidy is terminated under Paragraph 1, Article 23.
+
+After the postponement period expires, the repayment method for the principal and interest originally due during that period shall be determined through mutual agreement between the loan recipient business and the lending financial institution.
+
+## Article 27
+
+The MOL and the SMEG may, jointly with relevant agencies, conduct on-site visits to inspect the business operations of the loan recipient business and the handling of loan services by the lending financial institutions.
+
+The inspection tasks described in the preceding paragraph may be entrusted to non-governmental organizations.
+
+## Article 28
+
+In any of the following circumstances, the MOL may revoke or annul the issued review result notification and shall not grant any interest subsidy. If subsidies have already been disbursed, the lending financial institution shall notify the loan recipient business to repay the overpaid subsidy interest and return it to the MOL:
+
+1.Evasion, obstruction, or refusal of inspections conducted by the MOL and relevant agencies.
+
+2.Violation of the provisions of these Regulations.
+
+3.Other serious violations of relevant labor laws and regulations.
+
+## Article 29
+
+Lending financial institutions, the SMEG, and all levels of responsible personnel handling this loan shall be exempt from liability for damages arising from bad debts unless caused by intentional act, gross negligence, or unlawful conduct.
+
+## Article 30
+
+Entrepreneurs counseled by the MOL or units assisting in the promotion of entrepreneurial services who are rated as having excellent performance through MOL evaluations may be recognized and rewarded.
+
+## Article 31
+
+The funds required under these Regulations shall be provided from the appropriations made pursuant to Paragraph 3, Article 12 of the Act.
+
+## Article 32
+
+The formats of documents and forms required under these Regulations shall be prescribed by the MOL.
+
+## Article 33
+
+These Regulations shall come into force on August 1, 2026.
+
+## History
+
+1.Promulgated all 18 articles of the Rules by the Council of Labor Affairs No. 0980136398 on December 11, 2009.
+
+2.Amended and promulgated all 18 articles of the Rules by the Ministry of Labor No.1039800598 on December 25, 2014.
+
+3.Amended and promulgated all 32 articles of the Rules by the Ministry of Labor No.1060521600 on November 29, 2017.
+
+4.Amended and promulgated Articles 8, 10, 18, 20 and 25 of the Rules by the Ministry of Labor No.1080511169 on August 26, 2019.
+
+5.Amended and promulgated Article 26 of the Rules by Order of the Ministry of Labor No.1090505669 on April 23, 2020.
+
+6.Amended and promulgated all 33 articles of the Rules by Order of the Ministry of Labor No.1140502845 on March 13, 2025.
+
+7.Amended and promulgated Article 26 of the Rules by Order of the Ministry of Labor No.1140508519 on June 11, 2025.
+
+8.Amended and promulgated all 33 articles of the Rules by Order of the Ministry of Labor No.1150507318 on June 10, 2026.

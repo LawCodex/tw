@@ -1,0 +1,495 @@
+---
+title: "Amendment to the Fuel Economy Standards and Regulations on Vehicle Inspection and Administration"
+title_zh: "車輛容許耗用能源標準及檢查管理辦法"
+identifier: "J0130009"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞能源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-07-24
+last_amended: 2025-01-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130009"
+retrieved: 2026-10-12
+---
+
+# Amendment to the Fuel Economy Standards and Regulations on Vehicle Inspection and Administration
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0130009-amendment-to-the-fuel-economy-standards-and-regulations-on-vehicle-inspection.md](../../../zh/regulations/ministry-of-economic-affairs/J0130009-amendment-to-the-fuel-economy-standards-and-regulations-on-vehicle-inspection.md)) is authoritative.
+
+## Article 1
+
+These regulations are formulated in accordance with Article 15 of the Energy Administration Act. Any matters not provided for in these regulations herein shall be subject to the provisions of other applicable laws and regulations.
+
+## Article 2
+
+The term "Competent Authority" referred hereinafter denotes the Ministry of Economic Affairs, and the Bureau of Energy of the Ministry of Economic Affairs is authorized to be the executive agency under these regulations.
+
+## Article 3
+
+The term "Transportation Management Authority" referred hereinafter denotes the Ministry of Transportation and Communications.
+
+## Article 4
+
+4.1 	Any passenger car (including sedans and station wagons) with a gasoline or diesel engine, manufactured or imported by the entity shall comply with the following Subparagraph 4.1.1 or 4.1.2 regarding the standards governing the energy efficiency of vehicles (hereinafter referred to as the Energy Efficiency Standards):`
+
+4.1.1 Energy efficiency testing is conducted in accordance with the Federal Test Procedure (FTP-75) of the United States:
+
+4.1.1.1 Energy Efficiency Standards
+
+4.1.1.2 The combined energy efficiency value for passenger cars (including sedans and station wagons) is calculated by the following equation:
+
+4.1.2 Energy efficiency testing is conducted in accordance with Directive 1999/100/EC and subsequent amendments:
+
+4.1.2.1 Energy Efficiency Standards
+
+4.1.2.2 The combined energy efficiency value for passenger cars (including sedans and station wagons) is calculated by the following equation:
+
+4.2 Effective from Jan.1, 2016 for manufactured or imported passenger car (including sedans and station wagons) with a gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
+
+4.2.1 The sales weighted average energy efficiency value of the manufacturer sold vehicles shall be higher than the required sales weighted average energy efficiency target value.
+
+4.2.2 The Sales Weighted Average Energy Efficiency Limits corresponding to different vehicle types prescribed by the required sales weighted average energy efficiency target value are as follows. But if the previous year’s annual sales in Taiwan of a vehicle model by the entity were less than 300 units and the vehicle model’s global annual production is less than 10,000 units, or the entity being approved as a small volume manufacturer and applicable to comply with a specific CO2 emission (energy efficiency) standard issued by the government of vehicle’s Country of Origin, a proposal for its energy efficiency improvement may be submitted and being approved by the central competent authority to execute its improvement project announced by the central competent authority, and not applicable for the sales weighted average energy efficiency standard limits prescribed herein.
+
+4.2.2.1 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2017 till Dec. 31, 2021:
+
+4.2.2.2 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2022 till Dec. 31, 2029:
+
+4.2.2.3 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2030 (for vehicles being tested by following the WLTC driving cycle only):
+
+4.2.3 The sales weighted average energy efficiency value and sales weighted average energy efficiency target value prescribed in Subparagraph 4.2.1 shall be calculated by using the following formula:
+
+4.2.3.1 Sales weighted average energy efficiency value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+FCi: Energy efficiency test value (km/liter) for manufactured or imported vehicle type i.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+Wi : Correspond Credit Multiplier for Vehicle Type i.
+
+4.2.3.2 Sales weighted average energy efficiency target value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+Ti: Sales Weighted Average Energy Efficiency Limits (km/liter) of the manufactured or imported vehicle type i in accordance with Subparagraph 4.2.2 of this Article.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+4.2.4 The sales weighted average energy efficiency values for each individual manufacturer shall be calculated by the central competent authority by using the fuel economy test values registered by each individual manufacturer; different manufacturers may be combined for their sales weighted average energy efficiency value calculation, if being approved by the central competent authority.
+
+4.2.5 Vehicle entities pursued Subparagraph 4.2.4 may consent to end their combined calculation of sales weighted average energy efficiency value; their previous earned credits from exceed the required target value may continue to be used by the assigned manufacturer through agreement; the deficiency from under their target value shall be managed in accordance with Subparagraph 4.2.8 of this Article.
+
+4.2.6 The same vehicle entity manufactured or imported different brands of vehicles, may calculate the sales weighted average energy efficiency value separately for different brands, if being approved by the central competent authority.
+
+4.2.7 Vehicle entities with annual sales number over 100 units or values over 100 million NT dollars being approved by the central competent authority may use their annual sales number for the calculation of sales weighted average energy efficiency value. If the calculated sales weighted average energy efficiency value is over the target value, the earned credits may be accumulated for the calculation of next 3 year’s sales weighted average energy efficiency values. After this amended regulation becomes effective upon its promulgation in 2018, if the calculated sales weighted average energy efficiency value is over the target value, the earned credits may be accumulated for the calculation of the next 4 year’s sales weighted average energy efficiency values.
+
+4.2.8 For vehicle entities mentioned in the previous Subparagraph 4.2.7, if their calculated sales weighted average energy efficiency values are under their required target values at specific year, their subsequent market sold vehicles must comply with the Sales Weighted Average Energy Efficiency Limits being defined by Subparagraph 4.2.2 of this Article until the difference of calculated and target values are being complemented or acquired from other entities’ credits to regain their sales weighted average energy efficiency value calculation by their annual sales numbers.
+
+4.2.9 For Electric vehicles or Fuel Cell vehicles (sedans and station wagons) that being sold by the vehicle entity, till Dec. 31, 2025 its sales may be multiplied by 10; from Jan. 1, 2026  till Dec. 31, 2027 multiplied by 4, and from Jan. 1, 2028  multiplied by 2 as the correspond sales and being used in the calculation of sales weighted average energy efficiency value; for Plug-In Hybrid Electric sedans and station wagons with pure electric travel mileage over 50 kilometers, till Dec. 31, 2025 their correspond sales multiplier may be set as 5; from Jan. 1, 2026 till Dec. 31, 2027, their correspond sales multiplier may be set as 2. The Subparagraph 4.2.2 to 4.2.8 are also applicable, and the energy efficiency test values shall be rated by the competent authority in other provisions.
+
+4.2.10 Effective from Jan. 1, 2022, for the sedans or station wagons that being sold by the vehicle entity, if its energy efficiency value is higher than the correspond Sales Weighted Average Energy Efficiency Limits as listed in Item 4.2.2.2 of this Article, the multipliers for the calculation of sales weighted average energy efficiency value are set as follows：
+
+4.2.10.1 Over by 10%, till Dec. 31, 2025, set as 1.5.
+
+4.2.10.2 Over by 20%, till Dec. 31, 2025, set as 2; from Jan. 1, 2026, till Dec. 31, 2027, set as 1.1.
+
+4.2.10.3 Over by 30%, till Dec. 31, 2025, set as 2.5; from Jan. 1, 2026, till Dec. 31, 2027, set as 1.2.
+
+4.2.10.4 Over by 40%, till Dec. 31, 2025, set as 3; from Jan. 1, 2026, till Dec. 31, 2027, set as 1.3.
+
+4.2.10.5 Over by 50%, till Dec. 31, 2025, set as 3.5; from Jan. 1, 2026, till Dec. 31, 2027, set as 1.4.
+
+4.3 The Energy Efficiency Standards listed in Article 6 are applicable to vehicles with importer provided the listing of US certificate being classified as LDT model or with the EU certificate being classified as M1G model.
+
+## Article 5
+
+5.1 Any motorcycle manufactured or imported by any entity shall comply with the following Energy Efficiency Standards:
+
+5.2 The combined energy efficiency value for motorcycles is calculated by the following equation:
+
+5.3 Effective from Jan.1, 2016 for manufactured or imported motorcycles by any entity to apply for vehicle type fuel economy certificates shall comply with the following requirements:
+
+5.3.1 The sales weighted average energy efficiency value of the manufacturer sold vehicles shall be higher than the required sales weighted average energy efficiency target value.
+
+5.3.2 The Sales Weighted Average Energy Efficiency Limits corresponding to different vehicle types prescribed by the required sales weighted average energy efficiency target value are as follows.
+
+5.3.2.1 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2016 till Dec. 31, 2021:
+
+5.3.2.2 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2022, till Dec. 31, 2029:
+
+5.3.2.3 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2030:
+
+5.3.3 The sales weighted average energy efficiency value and sales weighted average energy efficiency target value prescribed in Subparagraph 5.3.1 shall be calculated by using the following formula:
+
+5.3.3.1 The sales weighted average energy efficiency value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+FCi: energy efficiency test value (km/liter) for manufactured or imported vehicle type i.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+Wi : Correspond Credit Multiplier for Vehicle Type i.
+
+5.3.3.2 The sales weighted average energy efficiency target value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+Ti: Sales Weighted Average Energy Efficiency Limits (km/liter) of the manufactured or imported vehicle type i in accordance with Subparagraph 5.3.2 of this Article.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+5.3.4 The calculation of sales weighted average energy efficiency value and sales weighted average energy efficiency target value for vehicle entity with combined reporting or end of their combined reporting, the qualification for using annual sales weighted average energy efficiency value calculation and credit accumulation, and the handling process for vehicle entities failed to comply with their required annual sales weighted average energy efficiency target value shall be in accordance with stipulations in Article 4.
+
+5.3.5 For electric motorcycles being sold by the vehicle entity, till Dec. 31, 2025, the sales may be multiplied by 2.5; from Jan. 1, 2026, till Dec. 31, 2026, multiplied by 2.0; from Jan. 1, 2027, till Dec. 31, 2028, multiplied by 1.5 then being used for the calculation of sales weighted average energy efficiency value, and the previous provisions are also applicable. The energy efficiency test value for electric vehicle shall be rated by the competent authority in other provisions.
+
+## Article 6
+
+6.1 Any light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car (not sedans or station wagons) with gasoline or diesel engine manufactured or imported by the entity shall comply with the following Subparagraph 6.1.1 or 6.1.2 regarding standards governing energy efficiency of vehicles:
+
+6.1.1 Energy efficiency testing is conducted in accordance with the Federal Test Procedure (FTP-75) of the United States:
+
+6.1.1.1 Energy Efficiency Standards
+
+6.1.1.2 The combined energy efficiency value for light-duty trucks of a gross weight less than 2,500 kilograms, commercial vehicles and passenger cars (not sedans or station wagons) is calculated by the following equation:
+
+6.1.2 Energy Efficiency testing is conducted in accordance with Directive 1999/100/EC and subsequent amendments:
+
+6.1.2.1 Energy Efficiency Standards
+
+6.1.2.2 The combined energy efficiency value for light-duty trucks of a gross weight less than 2,500 kilograms, commercial vehicles and passenger cars (not sedans or station wagons) is calculated by the following equation:
+
+6.2 Effective from Jan.1, 2025 for manufactured or imported light-duty truck with gasoline (diesel) engine of a gross weight over 2,500 kilograms and less than 3,500 kilograms, its energy efficiency test value after being divided by the following energy efficiency correction factor, shall comply with the previous defined 6.1.1.1 and 6.1.1.2 standards.
+
+energy efficiency correction factor: 0.8 + 0.2 × (3500 kg – vehicle gross weight) × 10-3
+
+6.3 Effective from Jan.1, 2016 for manufactured or imported light-duty truck of a gross weight less than 2,500 kilograms, commercial vehicle and passenger car (not sedans or station wagons) with gasoline or diesel engine by any entity to apply for vehicle type fuel economy certificates shall be tested in accordance with the test procedures prescribed in the European directive 1999/100/EC and its subsequent revisions; effective from Jan. 1, 2017, the previous mentioned vehicles shall comply with the following requirements:
+
+6.3.1 The sales weighted average energy efficiency value of the manufacturer sold vehicles shall be higher than the required sales weighted average energy efficiency target value.
+
+6.3.2 The Sales Weighted Average Energy Efficiency Limits corresponding to different vehicle types prescribed by the required sales weighted average energy efficiency target value are as follows.
+
+6.3.2.1 The Sales Weighted Average Energy Efficiency Limits effective from Jan.  1, 2017 till Dec. 31, 2021:
+
+6.3.2.2 The Sales Weighted Average Energy Efficiency Limits effective from Jan. 1, 2022, till Dec. 31, 2029:
+
+6.3.2.3 Effective from Jan.1, 2030, the Sales Weighted Average Energy Efficiency Limits (only for vehicles that being tested by using the WLTC driving cycle test) are as follows:
+
+6.3.2.4 The being sold light duty trucks that comply with the Air Emission Standards of Mobile Source set by the central environmental protection authority shall be applicable from January 1, 2022, to December 31, 2029. The Sales Weighted Average Energy Efficiency Limits are as follows:
+
+6.3.2.5 The being sold light duty trucks that comply with the Air Emission Standards of Mobile Source set by the central environmental protection authority, effective from January 1, 2030 (only for vehicles that being tested by using the WLTC driving cycle test), shall be applicable to the Sales Weighted Average Energy Efficiency Limits as follows:
+
+6.3.3 The sales weighted average energy efficiency value and sales weighted average energy efficiency target value prescribed in Subparagraph 6.3.1 shall be calculated by using the following equation:
+
+6.3.3.1 Sales weighted average energy efficiency value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+FCi: energy efficiency test value (km/liter) for manufactured or imported vehicle type i.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+Wi : Correspond Credit Multiplier for Vehicle Type i.
+
+6.3.3.2 Sales weighted average energy efficiency target value:
+
+i: manufactured or imported vehicle type’s sequence number.
+
+Ti: Sales Weighted Average Energy Efficiency Limits (km/liter) of the manufactured or imported vehicle type i in accordance with Subparagraph 6.3.2 of this Article.
+
+Vi: sales number (units) of manufactured or imported vehicle type i.
+
+6.3.4 The calculation of sales weighted average energy efficiency value and sales weighted average energy efficiency target value for vehicle entity with combined reporting or end of their combined reporting, the calculation of sales weighted average energy efficiency value for different brands under the same vehicle entity, the qualification for using annual sales weighted average energy efficiency value calculation and credit accumulation, and the handling process for vehicle entities failed to comply with their required annual sales weighted average energy efficiency target value shall be in accordance with stipulations in Article 4.
+
+6.3.5 For Electric or Fuel Cell light-duty trucks, commercial vehicles and passenger cars (not sedans or station wagons) that being sold by the vehicle entity, till Dec. 31, 2025, its sales may be multiplied by 10; from Jan. 1, 2026 to Dec. 31, 2027, multiplied by 4, and from Jan.1, 2028, multiplied by 2 as the correspond sales and being used in the calculation of sales weighted average energy efficiency value; for Plug-In Hybrid Electric light-duty truck, commercial vehicle and passenger car (not sedans or station wagons) with pure electric travel mileage over 50 kilometers, till Dec. 31, 2025, the correspond sales multiplier may be set as 5; from Jan. 1, 2026 till Dec. 31, 2027, the multiplier may be set as 2, and the previous mentioned provisions are also applicable  and the energy efficiency test values shall be rated by the competent authority in other provisions.
+
+6.3.6 Effective from Jan. 1, 2022 till Dec. 31, 2025, for light-duty trucks, commercial vehicles and passenger cars (not sedans or station wagons) that being sold by the vehicle entity, if its energy efficiency value is higher than the correspond Sales Weighted Average Energy Efficiency Limits as listed in Item 4.2.2.2 of Article 4, the multipliers for the calculation of sales weighted average energy efficiency value are set as follows：
+
+6.3.6.1 Over by 10%, set as 1.5.
+
+6.3.6.2 Over by 20%, set as 2.
+
+6.3.6.3 Over by 30%, set as 2.5.
+
+6.3.6.4 Over by 40%, set as 3.
+
+6.3.6.5 Over by 50%, set as 3.5.
+
+6.3.7 For light-duty trucks, commercial vehicles and passenger cars (not sedans or station wagons) that being sold by the vehicle entity that comply with the Paragraph 4.1.2 standards, may select to combine with its sold passenger cars with gasoline (diesel) engines (sedans or station wagons) for the calculation of sales weighted average energy efficiency values when apply for the energy efficiency certificates.
+
+6.4 Effective from Jan.1, 2030, for manufactured or imported light-duty trucks with gasoline (diesel) engines of a gross weight over 2,500 and less than 3,500 kilograms, shall comply with previous mentioned provisions when apply for the vehicle type fuel economy certificates.
+
+## Article 7
+
+7.1 Effective from Jan. 1, 2022, for the vehicle entity developed eco-innovation technology or product with proof of energy-saving capability that can improve the fuel efficiency of vehicles, and the central competent authority has approved a certain amount of related credit value for the calculation of the entity’s sales weighted average energy efficiency value, the vehicle entity may add the approved credit value to the sold vehicle for the sales weighted average energy efficiency value calculation.
+
+7.2 The above Paragraph 7.1 mentioned eco-innovation technologies, products and their related amount of credits for the calculation of sales weighted average energy efficiency values shall be set and promulgated by the central competent authority.
+
+## Article 8
+
+8.1 Vehicle entities shall implement the energy efficiency labeling for the manufactured or imported gasoline (diesel) passenger cars, light duty trucks (gross vehicle weight less than 2,500 kilograms), commercial vehicles and motorcycles. Effective from Jan. 1,2025, the light duty trucks with gasoline (diesel) engines of a gross vehicle weight over 3,500 kilograms shall also comply with the previous mentioned provisions.
+
+8.2 The Paragraph 8.1 described energy efficiency label shall include the following contents:
+
+8.2.1 Annual fuel consumption.
+
+8.2.2 Vehicle type.
+
+8.2.3 Name of manufacturer.
+
+8.2.4 Certified vehicle model.
+
+8.2.5 Energy efficiency value: including test method, test results, and energy efficiency values for tests in accordance with different test method stipulated individual driving cycles.
+
+8.2.6 The energy efficiency ranking.
+
+8.3 For Plug-in Hybrid Electric passenger cars, light-duty trucks and commercial vehicles, the labeling requirement to state individual energy efficiency value under different test method stipulated driving cycles as mentioned in Subparagraph 8.2.5 is not applicable. But the contents of labeling shall include the individual test methods for its energy efficiency value and pure electric range.
+
+8.4 The format for Paragraph 8.1 mentioned energy efficiency label shall be announced by the central competent authority.
+
+## Article 9
+
+9.1 The vehicle entity shall implement the energy efficiency labeling for its manufactured or imported electric passenger cars, light-duty trucks (gross vehicle weight less than 2,500 kilograms), commercial vehicles and motorcycles. Effective from Jan. 1, 2030, the electric light duty trucks of gross vehicle weight over 2,500 kilograms and less than 3,500 kilograms shall also comply with the previous mentioned provisions.
+
+9.2 The contents of the above-mentioned labeling shall include the following:
+
+9.2.1 Annual electricity consumption.
+
+9.2.2 Vehicle type.
+
+9.2.3 Name of manufacturer.
+
+9.2.4 Certified vehicle model.
+
+9.2.5 Energy efficiency value: including test method and result value.
+
+9.2.6 Pure electric range: including test method and result value.
+
+9.3 The format for Paragraph 9.1 mentioned energy efficiency label shall be announced by the central competent authority.
+
+## Article 10
+
+10.1	The energy efficiency labeling shall be implemented in accordance with Article 8 and Article 9 by vehicle entities as prescribed in the following:
+
+10.1.1 Vehicles displayed at the show room or selling location shall affix the energy efficiency label at the following spots:
+
+10.1.1.1 Cars: on the windshield of front passenger side or driver side, with contents facing outside.
+
+10.1.1.2 Motorcycles: when affix on the seat, the contents facing upward; when affix on front fender the contents facing forward; without front fender the label should be affixed on the fuel tank, the contents facing upward.
+
+10.1.2 The vehicle catalog at display or selling location shall contain the energy efficiency label; if only text or tables were used in the vehicle catalog, then the vehicle annual fuel (electricity) consumption, energy efficiency test results, test method and energy efficiency ranking should be listed in the catalog.
+
+10.1.3 The vehicles for sale should be affixed with the energy efficiency label or have the label printed or attached in the owner’s manual.
+
+10.2 The contents of printed or affixed energy efficiency label should follow the format of samples that approved by the Competent Authority, contents modification, hide, impair or using other methods to make the label indistinguishable are not allowed. When printed in the catalog or owner’s manual to describe the energy efficiency information, the label is allowed to be enlarged or shrunk as long as it is clear and recognizable.
+
+## Article 11
+
+11.1 Energy efficiency testing and retesting should be performed by test agencies or vehicle manufacturers (hereinafter referred to as Accredited Agencies) authorized by the Competent Authority.
+
+11.2 The energy efficiency testing for passenger cars, commercial vehicles, and light-duty trucks shall be tested in accordance with either the Federal Test Procedure (FTP-75) of the United States or Directive 1999/100/EC of the European Union and subsequent amendments (may adopt either NEDC or WLTC driving cycle for the test); the energy efficiency testing for motorcycles shall be tested in accordance with Motorcycle Fuel Economy Test Method (as attachment).
+
+11.3 The energy efficiency labeling for electric passenger cars, light-duty trucks and commercial vehicles shall be in accordance with EU directive ECE R101 and its subsequent amendments (may adopt either NEDC or WLTC driving cycle for the test); the energy efficiency labeling testing method for electric motorcycles shall be in accordance with National Standards CNS15819-4 and its subsequent amendments, but the driving cycles and vehicle simulated inertia weight shall be in accordance with “the Fuel Economy Test Method for Motorcycles” (attachment).
+
+## Article 12
+
+12.1 To apply for a certificate license and become an Accredited Agency as mentioned in the proceeding article, a test agency or vehicle manufacturer should provide and submit the following application documents to the Competent Authority. The application procedure for certificate license renewal is the same.
+
+12.1.1 The education and work experience papers for test personnel,
+
+12.1.2 A quality control plan,
+
+12.1.3 A test equipment layout,
+
+12.1.4 The original drawings and specifications of the test equipment, and
+
+12.1.5 Correlated test results conducted within the past six months.
+
+12.2 If the application documentations stated in Paragraph 12.1 do not conform to the rules or incur deficiencies in the contents, the Competent Authority shall notify the applicant to make corrections by a specified deadline; if the requested corrections are not made by the deadline, the application shall be rejected.
+
+12.3 The Competent Authority shall issue certificate licenses with a valid period of no more than three years to those applicants who pass the review. Anyone who has obtained a certificate and applied for an extension needs to submit the documents required by Paragraph 12.1 180 days prior to the expiration date; the extension period is three years. The applicant must reapply for certification if he was not able to apply for an extension by the time specified above.
+
+12.4 To review the certificate application procedures stated in Paragraph 12.1 and the certificate extension procedures stated in Paragraph 12.3, the Competent Authority may invite relevant experts to form a review group. The review group may examine the testing equipment as well as the status of personnel allocation and operation on site, and request the applicant to conduct a vehicle fuel economy test on a chassis dynamometer if and when the review group deems necessary.
+
+## Article 13
+
+13.1 The Competent Authority may, on a regular or an unannounced basis, inspect an Accredited Agency. If there is any defect found during inspection, the Competent Authority shall order the Accredited Agency to make improvements before a specified deadline, and the Competent Authority shall conduct a re-inspection after the deadline has passed.
+
+13.2 If there are any instances of falsification or untruthfulness in the contents of the application documents or related to the allocation of test personnel, the Competent Authority may revoke the certification license and order the Accredited Agency to surrender its certification license before the specified deadline.
+
+13.3 If the Accredited Agency incurs any one of the following events, the Competent Authority may annul its certification license and order the Accredited Agency to surrender its certificate license before the specified deadline.
+
+13.3.1 The Accredited Agency issues an untruth inspection report, record or inspection result.
+
+13.3.2 The data quality control plan is defective, or the degree of precision and accuracy of the inspection does not conform to the required scope, and the defects mentioned above are not corrected by the specified deadline.
+
+13.4 When the certificate license is revoked or annulled according to Paragraph 13.2 and Paragraph 13.3, the agency will not be allowed to reapply for a certificate within one year after the date of its license is being revoked or annulled.
+
+## Article 14
+
+14.1 Vehicle energy efficiency tests designated by the Competent Authority shall be conducted as follows:
+
+14.1.1 Type approval test, and
+
+14.1.2 Conformity test.
+
+14.2 The Competent Authority, along with Transportation Management Authority, shall be entitled to assign the personnel or authorize an Accredited Agency to select the test vehicles randomly for the tests mentioned above. The conformity test for any new vehicle specified in this Article shall be delivered to the Accredited Agency appointed by the Competent Authority.
+
+14.3 If the vehicle is imported by a manufacturer with an original energy efficiency test document (issued by a test agency or by the vehicle manufacturer approved by the local governments where the vehicle was manufactured) to verify this vehicle complies with the Energy Efficiency Standards in this Article, the type approval test can be waived. The application shall be filed to the Competent Authority for a fuel economy certificate.
+
+## Article 15
+
+15.1 The type approval test provided in Article 14 means the energy efficiency test for any vehicle should follow the procedures listed below:
+
+15.1.1 For each model of domestic vehicle manufactured by each entity, one vehicle shall be selected randomly for the test.
+
+15.1.2 For each model of vehicle imported by each entity, one vehicle shall be selected randomly for the test.
+
+## Article 16
+
+16.1 Any vehicle that meets the Energy Efficiency Standards in respect to the results of the type approval test shall be deemed as undergoing a model change when any one of the following changes occurs, requiring a new certificate application.
+
+16.1.1 Change in the body styling and model name of the vehicle,
+
+16.1.2 Change in the weight class of the vehicle,
+
+16.1.3 Change in the engine model, engine displacement, number of engine cylinders, engine fuel system (including fuel supply or feedback control system) or turbo-charging of the vehicle,
+
+16.1.4 Change in the power train system of the vehicle,
+
+16.1.5 Change in the vehicle's country of manufacture, or
+
+16.1.6 Any other changes of the vehicle that will affect the results of the energy efficiency test.
+
+16.2 If the changing of vehicle's specifications or components will not affect the energy efficiency test results, which shall be subject to the judgment and approval of the Competent Authority, then this vehicle shall be exempt from the requirement of a type approval test. Nevertheless, the vehicle conformity test specified in Article 14 shall still be conducted.
+
+## Article 17
+
+17.1 The conformity test prescribed in Article 14 indicates the energy efficiency test for any new vehicle that is being distributed into the market, meets the Energy Efficiency Standards in respect to the results of the type approval test, and has obtained a fuel economy certificate. The Central Competent Authority shall perform the conformity test according to the following procedures:
+
+17.1.1 For domestically manufactured vehicles:
+
+17.1.1.1 For each model of domestic vehicle (including passenger cars, light-duty trucks and commercial vehicles) manufactured by each entity, one sample for every one thousand new vehicles shall be selected randomly for testing.
+
+17.1.1.2 For each model of domestic motorcycle manufactured by each entity, one sample for every two thousand new vehicles shall be selected randomly for testing.
+
+17.1.2 For imported vehicles: The selection procedure of the conformity test for imported vehicle shall be the same as the procedure mentioned above for domestic vehicles.
+
+17.2 In the event that the number of vehicles for a particular model of car or truck, produced or imported, is less than one thousand units within six months, one sample shall be selected randomly for testing. In the event that the number of vehicles for a particular model of motorcycle, produced or imported, is less than two thousand units within six months, one sample shall be selected randomly for testing.
+
+17.3 The selection ratio for the conformity test provided in this Article may be subject to adjustment as determined by the Administration Authority.
+
+## Article 18
+
+18.1 By the twentieth day of each month, the entity that manufactured or imported the vehicles shall, in accordance with Articles 15 and 17, furnish its manufacturing and import plan for the following month and the actual manufacturing/sales or importing/sales data of the preceding month to the Competent Authority for energy efficiency test purposes. Upon the selection of test vehicles, the entity that manufactured or imported the vehicles shall send the test vehicles to the Accredited Agency for the test within twenty-eight days.
+
+18.2 In the event of any change in the manufacturing/sales or importing/sales plan or data mentioned previously in this Article, a written notice should be given to the Competent Authority within three days upon the date of such change.
+
+18.3 The Central Competent Authority, along with the Transportation Management Authority, shall be entitled to review the actual manufacturing/sales or importing/sales data raised by the above-mentioned entity.
+
+## Article 19
+
+19.1 For any manufactured or imported vehicle that meets the Energy Efficiency Standards in respect to the results of type approval test and comply with the Air Emission Standards of Mobile Sorce set by the central environmental protection competent authority.  The Competent Authority shall issue a certificate of conformity with respect to that vehicle model.
+
+19.2 The Paragraph 19.1 mentioned energy efficiency and pollutant emissions tests shall be conducted by the same accredited test organization, prior the tests, the vehicle shall not perform any adjustments on the test vehicles.
+
+19.3 In no event shall the Transportation Management Authority issue a vehicle license to any vehicle without a certificate of conformity as mentioned in Paragraph 19.1.
+
+19.4 The Competent Authority may consign an approved agency to issue and approve the certificate of conformity mentioned in Paragraph 19.1 of this Article.
+
+## Article 20
+
+20.1 Effective from July 1, 2010, the competent authority may not issue the fuel economy certificates if the vehicle entities failed to submit the following auditing documents for the manufactured or imported vehicles:
+
+20.1.1 The sample energy efficiency label fabricated according to Article 8 and Article 9.
+
+20.1.2 The name, address and telephone number of the domestic manufacturer, importer, distributor or display location; E-mail contact information should also be provided if available.
+
+20.2 If the previous described document contents were changed, vehicle entity should deliver the related documents to the Competent Authority for reference within 30 days.
+
+20.3 The Competent Authority may commission agency for the energy efficiency labeling auditing as described in Paragraph 20.1.
+
+## Article 21
+
+The vehicle type or vehicle fuel economy certificate which is being issued to a specific manufacturer or importer may transfers to specific entity, if the vehicle original manufacturer promises to provide vehicles with the same specifications and quality as the certified vehicles to the entity.
+
+## Article 22
+
+22.1 For any vehicle which does not meet the Energy Efficiency Standards in respect to the results of the conformity test provided in Article 4, Article 5 and Article 6, the entity who applied for the type approval test may apply for a retest. The retest shall be performed according to the following procedures:
+
+22.1.1 The results of three retests for the original sample test vehicle shall be averaged to a single value (hereinafter referred to Y).
+
+22.1.2 Y and all of the one-time retest results for each vehicle requested for retesting by the application entity and selected by the Competent Authority shall be averaged to determine a single value (hereinafter referred to X).
+
+22.1.3 In the event that the difference of X and the product of statistical parameter times the standard deviation is not smaller than the Energy Efficiency Standards, the vehicles covered by the application shall be regarded as meeting the Energy Efficiency Standards. The standard deviation is calculated by the following equation:
+
+22.2 In the event that the entity does not apply for retesting, or the results of the retesting do not meet the Energy Efficiency Standards under this Article, the certificate of conformity in respect to the vehicle or the model of vehicle covered by the certificate shall be annulled. The Competent Authority shall forthwith withhold from the entity the right to sell the vehicles and order the entity to take actions to improve the energy efficiency of the vehicles. The Transportation Management Authority shall not issue vehicle licenses to the vehicles of the model concerned or to any entity who commits a breach of Article 18 as well.
+
+22.3 The entity applying for a retest as described in Paragraph 22.1 of this Article shall deliver the vehicles to the Accredited Agency appointed by the Competent Authority.
+
+## Article 23
+
+23.1 If the conformity test results for the domestic-manufactured or imported vehicles that failed to reach within 92% of the energy efficiency label listed values, the entity should be noticed by the Competent Authority to process energy efficiency retest.
+
+23.2 The Competent Authority officers should be accompanied by the personnel of the Accredited Agency to the vehicle storage location and pick up at least twice the number of the previous sampled vehicle type that failed to reach within 92% of the energy efficiency label value. The selected vehicles should be delivered to the Accredited Agency by the vehicle entity to perform the energy efficiency retest.
+
+23.3 According to Article 21 of Energy Management Act, should the vehicle entities failed to meet the deadline to perform energy efficiency retests or the mean value of the test results for the delivered sample vehicles failed to reach within 92% energy efficiency label value will be notified by the Competent Authority for improvements.
+
+## Article 24
+
+24.1 The same test method and driving cycle should be used for the vehicle type approval test, conformity test as described in Paragraph 14.1 of Article 14, for the retest as defined in Article 22, and for the energy efficiency retest as described in Article 23.
+
+24.2 The same Accredited Agency that conduct the test should be used for the conformity test as described in Paragraph 14.1 of Article 14, for the retest as defined in Article 22, and for the energy efficiency retest as described in Article 23.
+
+## Article 25
+
+The Competent Authority shall periodically publish the energy efficiency test results.
+
+## Article 26
+
+These Regulations shall become effective upon promulgation.
+
+## Attachments
+
+- [Attachment  The Fuel Economy Test Method for Motorcycles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008857)
+- [ARTICLE 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008858)
+- [ARTICLE 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008859)
+- [ARTICLE 6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008860)
+- [ARTICLE 22.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008861)
+
+## History
+
+\1. Approved and promulgated by the Executive Yuan and enforced on June 25, 1987；Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on July 24, 1987
+
+\2. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on November 24, 1989
+
+\3. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on December 30, 1991
+
+\4. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 20, 1997
+
+\5. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on December 28, 2001
+
+\6. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on January 14, 2004
+
+\7. evised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on June 7 , 2007
+
+\8. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 4, 2009
+
+\9. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on May 7, 2010
+
+\10. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on August 11, 2014
+
+\11. Amended on December 23, 2016
+
+\12. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on October 18, 2018
+
+\13. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on February2, 2020
+
+\14. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on December 5, 2023.
+
+\15. Revised and promulgated by the Ministry of Economic Affairs and the Ministry of Transportation and Communications on January 2, 2025.

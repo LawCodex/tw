@@ -1,0 +1,95 @@
+---
+title: "Regulations Governing Applications for Deferral or Installments of Tax Payment Made by Taxpayers"
+title_zh: "納稅義務人申請延期或分期繳納稅捐辦法"
+identifier: "G0340138"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-05-26
+last_amended: 2015-05-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340138"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Applications for Deferral or Installments of Tax Payment Made by Taxpayers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340138-regulations-governing-applications-for-deferral-or-installments-of-tax-payment.md](../../../zh/regulations/ministry-of-finance/G0340138-regulations-governing-applications-for-deferral-or-installments-of-tax-payment.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to the provisions set out in Paragraph 2 of Article 26 of the Tax Collection Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The term "natural disaster or incident, force majeure" and "being economically disadvantaged" as used under Article 26 of the Act shall be determined in accordance with the following provisions:
+
+1.Natural disasters or incidents and force majeure shall refer to earthquakes, storms, floods, droughts, frost, fire, debris flow, tsunamis, epidemics, plagues of insects, wars, nuclear emergency, gas explosions, or other unforeseeable and unavoidable disasters or events that cannot be resisted by human force.
+
+2.Being economically disadvantaged shall refer to the low-income households described in Paragraph 1 of Article 4 of the Public Assistance Act.
+
+## Article 3
+
+The term "deferral of the tax payment" referred to in these Regulations means to pay tax in full within the deferral period; the term "installments of the tax payment" means to pay tax in monthly installments.
+
+A taxpayer applying for the deferral of the tax payment or for payment by installments can only apply for one or the other.
+
+After the competent tax authority accepts the application filed by a taxpayer according to the preceding paragraph, the deferral period or installment period is determined in accordance with the following provisions:
+
+1.Occurrence of a natural disaster or incident and force majeure:
+
+(1)Where the amount of tax payment is less than NT$200,000, the deferral period can be extended for 1 to 2 months, or the number of installments can be from 2 to 3.
+
+(2)Where the amount of tax payment is more than NT$200,000 and less than NT$1,000,000, the deferral period can be extended for 1 to 3 months, or the number of installments can be from 2 to 6.
+
+(3)Where the amount of tax payment is more than NT$1,000,000 and less than NT$5,000,000, the deferral period can be extended for 1 to 6 months, or the number of installments can be from 2 to 12.
+
+(4)Where the amount of tax payment is more than NT$5,000,000 and less than NT$10,000,000, the deferral period can be extended for 1 to 12 months, or the number of installments can be from 2 to 24.
+
+(5)Where the amount of tax payment is more than NT$10,000,000, the deferral period can be extended for 1 to 12 months, or the number of installments can be from 2 to 36.
+
+2.Being economically disadvantaged:
+
+(1)Where the amount of tax payment is less than NT$30,000, the deferral period can be extended for 1 to 6 months, or the number of installments can be from 2 to 12.
+
+(2)Where the amount of tax payment is more than NT$30,000 and less than NT$200,000, the deferral period can be extended for 1 to 12 months, or the number of installments can be from 2 to 24.
+
+(3)Where the amount of tax payment is more than NT$200,000, the deferral period can be extended for 1 to 12 months, or the number of installments can be from 2 to 36.
+
+The amount of each installment shall not be less than a specific amount of payment waived in accordance with Article 25-1 of the Act.
+
+## Article 4
+
+A taxpayer applying with the competent tax authority for the deferral of the tax payment or for payment by installments shall fill in an application form, state the reasons for being unable to pay in full a tax, and attach the following supporting documents:
+
+1.Occurrence of a natural disaster or incident and force majeure:
+
+(1)Disaster damage certification documents issued by the competent tax authority or other relevant authorities, disaster loss application letter and list of loss received by the competent tax authority.
+
+(2)Relevant documents proving that a taxpayer receives subsidies from authorities or groups due to the occurrence of a natural disaster or incident and force majeure, or relevant certification documents by the municipal government or county (city) government listing that he/she is one of the affected households.
+
+(3)Relevant supporting documents proving that a taxpayer is unable to pay in full a tax due to the occurrence of other natural disaster or incident and force majeure.
+
+2.Being economically disadvantaged: the low-income households certification document issued by the competent authority.
+
+Certification documents referred in the preceding paragraph are not required to be provided by a taxpayer, if the competent tax authority can obtain those documents ex officio.
+
+Where an application based on Paragraph 1 can not be filed within the statutory period by reasons of the occurrence of a natural disaster or incident and force majeure, the applicant may apply for restoration to the status quo ante, for the deferral of the tax payment or for payment by installments as well within ten days after the cause [preventing the filing] vanishes.
+
+## Article 5
+
+A tax payment that has been approved for the deferral of the tax payment or for payment by installments shall not be re-applied for the deferral of the tax payment or for payment by installments again based on the same reason.
+
+A tax payment that has been approved for the deferral of the payment or for payment by installments may be re-applied for the deferral of the remaining payment or for the remaining payment by installments based on a different reason. And the deferral period or installment period shall be determined in accordance with Paragraph 3 of Article 3 by the competent tax authority considering the application reason and the payment of the remaining tax. The remaining tax applied for the deferral of the payment previously will be limited to be approved for the deferral of the payment, and the remaining tax applied for payment by installments previously will be limited to be approved for the payment by installments. Neither the total period approved for the deferral of the payment nor for payment by installments may exceed three years.
+
+## Article 6
+
+These Regulations shall enter into force from the date of promulgation.
+
+## History
+
+1.Promulgated per the Order of Tai-Tsai-Shuei-Tze No. 10404569950 issued by the Ministry of Finance on May 26, 2015.

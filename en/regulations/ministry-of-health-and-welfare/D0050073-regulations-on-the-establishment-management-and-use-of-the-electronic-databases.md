@@ -1,0 +1,117 @@
+---
+title: "Regulations on the Establishment, Management, and Use of the Electronic Databases for Domestic Violence and for Sexual Assault Cases"
+title_zh: "家庭暴力及性侵害電子資料庫管理使用辦法"
+identifier: "D0050073"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-03-25
+last_amended: 2023-08-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050073"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Establishment, Management, and Use of the Electronic Databases for Domestic Violence and for Sexual Assault Cases
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050073-regulations-on-the-establishment-management-and-use-of-the-electronic-databases.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050073-regulations-on-the-establishment-management-and-use-of-the-electronic-databases.md)) is authoritative.
+
+## Article 1
+
+The Regulations are stipulated in accordance with Paragraph 3 of Article 5 of the Domestic Violence Prevention Act and Paragraph 3 of Article 5 of the Sexual Assault Crime Prevention Act.
+
+## Article 2
+
+The central competent authority shall prepare computer software and hardware to manage and keep the electronic data of domestic violence and sexual assault.
+
+The Judicial Yuan, the Ministry of Justice, and the police departments shall prepare their own computer hardware to establish, transmit, or search the electronic data of domestic violence and sexual assault.
+
+## Article 3
+
+The electronic data of domestic violence mentioned in the Regulations refers to the electronic data provided by the following agencies:
+
+\1. Judicial Yuan: Civil protection orders and relevant rulings, and judgments of domestic violence crimes and violations of protection orders.
+
+\2. Ministry of Justice: Indictments, written rulings not to prosecute, written rulings to defer the prosecution, and written rulings of setting aside the rulings of deferred prosecution of domestic violence crimes and violations of protection orders.
+
+\3. Police departments: Investigation records (reports) of dealing with domestic violence cases, referral papers of criminal cases, and enforcement records of protection orders.
+
+\4. Competent authorities at the special municipality or city (county) level: Reports of accepting domestic violence cases, individual records of victims, and treatment records of offenders.
+
+\5. Other data related to victims or respondents of domestic violence provided with consent after the central competent authority negotiates with relevant agencies.
+
+The agencies providing electronic data in the preceding Paragraph shall assign dedicated personnel to handle matters related to the electronic database for domestic violence.
+
+## Article 4
+
+The electronic data of sexual assault mentioned in the Regulations refers to the electronic data provided by the following agencies:
+
+\1. Judicial Yuan: Judgments of the sexual assault crimes under Subparagraph 1 of Article 2 of the Sexual Assault Crime Prevention Act, the crimes under Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, the crimes under Paragraph 1 of Article 319-2 of the Criminal Code, and the violations under Paragraph 3 of Article 50 and Articles 37 to 38 of the Sexual Assault Crime Prevention Act and under Article 91-1 of the Criminal Code.
+
+\2. Ministry of Justice: Written rulings to defer the prosecution, written rulings of setting aside the rulings of deferred prosecution, and guidance and treatment records of inmates of the sexual assault crimes under Subparagraph 1 of Article 2 of the Sexual Assault Crime Prevention Act, the crimes under Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, the crimes under Paragraph 1 of Article 319-2 of the Criminal Code, and the violations under Paragraph 3 of Article 50 of the Sexual Assault Crime Prevention Act.
+
+\3. Police departments: Registration and visitation data of offenders of the sexual assault crimes under Subparagraph 1 of Article 2 of the Sexual Assault Crime Prevention Act, the crimes under Paragraph 1 of Article 25 of the Sexual Harassment Prevention Act, and the crimes under Paragraph 1 of Article 319-2 of the Criminal Code.
+
+\4. Competent authorities at the special municipality or city (county) level: Reports of accepting sexual assault cases, referrals of accepting sexual image cases, individual records of victims, and treatment records of offenders or actors.
+
+\5. Other data related to victims, offenders, or actors of sexual assault provided with consent after the central competent authority negotiates with relevant agencies.
+
+The agencies providing electronic data in the preceding Paragraph shall assign dedicated personnel to handle matters related to the electronic database for sexual assault.
+
+## Article 5
+
+The electronic data regulated in Subparagraphs 1 and 2 of Paragraph 1 of Article 3 and Subparagraphs 1 to 3 of Paragraph 1 of the preceding Article will be transmitted to the electronic databases for domestic violence and for sexual assault regularly by the Judicial Yuan, the Ministry of Justice, and the National Police Agency, Ministry of the Interior.
+
+Within seven days of receiving the electronic data regulated in Subparagraphs 3 and 4 of Paragraph 1 of Article 3 and Subparagraph 4 of Paragraph 1 of the preceding Article, police departments and competent authorities at the special municipality or city (county) level shall archive files based on the format of the database information system and transmit them to the electronic databases for domestic violence and sexual assault.
+
+## Article 6
+
+Staff members of competent authorities at the special municipality or city (county) level who are responsible for handling domestic violence or sexual assault prevention cases may search the electronic databases for domestic violence and sexual assault via Internet.
+
+Staff members of courts, prosecutor offices, correction authorities, and police departments who are responsible for handling domestic violence or sexual assault prevention cases may search the electronic data regulated in Article 3 and the treatment, registration, and visitation records of offenders of sexual assault regulated in Article 4 via Internet.
+
+The central competent authority shall be responsible for the archiving of the electronic databases for domestic violence and for sexual assault, the configuration of the access authority under Paragraphs 1 and 2, and the identification and password management of the searching personnel of competent authorities at the special municipality or city (county) level.
+
+The Judicial Yuan, the Ministry of Justice, and the National Police Agency, Ministry of the Interior shall be responsible for the identification and password management of the searching personnel of the courts, prosecutor offices, correction authorities, and police departments under Paragraph 2.
+
+## Article 7
+
+Physicians, nursing staffs, psychologists, social workers, and government organizations, who are not listed in the preceding Article but have a necessity to use the electronic data of domestic violence when handling or dealing with domestic violence cases, shall state the reasons, types of the data in need, contents, and purposes of usage in writing and submit applications. However, facsimile may be used in case of emergency.
+
+The applications in the preceding Paragraph shall be submitted to local competent authorities at the special municipality or city (county) level. If the data in need involves two or more jurisdictions of competent authorities at the special municipality or city (county) level, the applications may be submitted to the central competent authority.
+
+## Article 8
+
+When the provision or search of the electronic data of domestic violence and sexual assault is conducted via Internet by the central competent authority and other relevant agencies, the data encryption, user identification, firewall, or other information safety protection measures shall be strengthened during the transmission.
+
+## Article 9
+
+The electronic data of domestic violence and sexual assault obtained through works or businesses shall be kept confidential unless otherwise prescribed by the law.
+
+Necessary confidential measures shall be adopted when the electronic data of domestic violence and sexual assault is processed and used. Any violation of this confidentiality obligation shall be punished in accordance with relevant laws.
+
+## Article 10
+
+The central competent authority, after notified by the juvenile court (tribunal) in accordance with the law to remove a juvenile’s criminal records and relevant data, shall immediately remove such records and data.
+
+## Article 11
+
+The electronic data of domestic violence and sexual assault under the Regulations shall be retained for at least seven years; those that belong to a juvenile shall be retained at least seven years after the juvenile reaches adulthood.
+
+If a longer retention period is prescribed by other laws and regulations, such laws and regulations shall apply.
+
+## Article 12
+
+The Regulations shall come into force on February 17, 2023.
+
+## History
+
+1.Announced under Tai(91)-Nei-Jia Zi No. 0910068006 on March 25, 2002.
+
+2.Amended and announced under Tai-Nei-Fan Zi No. 0960146999 on September 27, 2007. (Previously Known as  Regulations on Establishment, Management and Use of Domestic Violence Data.)
+
+3.Amended on August 16, 2023

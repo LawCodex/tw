@@ -1,0 +1,103 @@
+---
+title: "Regulations Governing the Application for Prior Release of Mechanical Products"
+title_zh: "機械類產品申請先行放行辦法"
+identifier: "N0060057"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業安全衛生目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-10-22
+last_amended: 2022-10-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060057"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Application for Prior Release of Mechanical Products
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0060057-regulations-governing-the-application-for-prior-release-of-mechanical-products.md](../../../zh/regulations/ministry-of-labor/N0060057-regulations-governing-the-application-for-prior-release-of-mechanical-products.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with Paragraph 5 of Article 8 of the Occupational Safety and Health Act (the Act).
+
+## Article 2
+
+The obligatory applicants who import mechanical products that are subject to the type certification required by Article 8 of the Act may apply to the central competent authority for prior release of their products and present a letter of attestation:
+
+\1. Products that pass type certification, but the qualification labels have not attached in accordance with related requirements;
+
+\2. Products of which the applications for type certification have been made, but the certificates of type certification have not yet been issued;
+
+\3. Products that pass type certification and are not assembled;
+
+\4. Products that are separated or partly separated components and pass type certification;
+
+\5. Other situations where prior release is necessary and approved by the central competent authority.
+
+Permission for a prior release issued in accordance with subparagraph 2 of the preceding paragraph shall be limited to one time only for each obligatory applicant with the same product, except for applications under one of the following conditions approved by the central competent authority.
+
+\1. The number of samples to be tested that have been permitted for prior release is insufficient, so that the type certification cannot be completed.
+
+\2. Products that have been permitted for prior release are not identified as type representative, which makes it difficult to perform type certification.
+
+In accordance with the proviso of the preceding paragraph, the obligatory applicants should apply to the central competent authority for prior release of their products before the expiration of the approval period for the original application, and attach the explanatory document that is issued by the body performing the type certification. The application is limited to one time, and the approval period is subject to the period for the original application.
+
+## Article 3
+
+Applications for prior release of products under any of the following circumstances shall be denied:
+
+\1. If the same type of products were not shipped back, destroyed, dissembled to unusable conditions, or disposed of by other necessary measures within 6 months from the date of the noncompliance notice of type certification.
+
+\2. If the same obligatory applicant failed to obtain certificate of type certification for the same type of products within 1 year from the date of prior release notice, and the products were not shipped back, destroyed, dissembled to unusable conditions, or disposed of by other necessary measures. Where extended time is granted for the application for type certification, the extended time limit shall apply.
+
+\3. If there are safety concerns.
+
+## Article 4
+
+The obligatory applicant shall make an application for prior release to the central competent authority by submitting a completed application form together with related documents. The approval letter from the central competent authority mentioned in paragraph 2 of Article 2 shall also be provided, where applicable.
+
+## Article 5
+
+Where prior release is approved, the central competent authority shall issue a prior-release notice and send a copy to authorized certification bodies. Where prior release is not approved, reasons of the decision shall be made known to the applicant.
+
+The central competent authority shall transmit the preceding prior-release notice electronically to the customs for customs clearance.
+
+## Article 6
+
+Prior-released products shall not transported to places outside of the installed or storage locations before they are type certified, neither shall them be put into service nor the ownership be transferred to a third party.
+
+The obligatory applicant are required to put up the qualification label, obtain certificate of type certification or complete the assembly of the prior-released products mentioned in the preceding paragraph, and report to the central competent authority within the specified time limit.
+
+The central competent authority may commission authorized certification bodies to perform the necessary audits or surveillance to verify completion of the obligations mentioned in the preceding two paragraphs at locations where the prior-released products are installed or stored.
+
+The obligatory applicant shall apply for approval from the central competent authority  in order to change the locations of installation or storage of prior-released products mentioned in paragraph 1 of this Article.
+
+## Article 7
+
+Where the obligatory applicant is not able to put up the qualification label, obtain certificate of type certification or complete the assembly of the prior-released products within the specified time limit, an extension of the time limit may be filed with the central competent authority.
+
+The extension of time limit mentioned in the preceding paragraph shall not exceed 6 month and be limited to one time only.
+
+## Article 8
+
+Where the prior-released products under attestation do not pass type certification, they shall be shipped back, destroyed, dissembled to unusable conditions or disposed of with other necessary measures by the obligatory applicant within 6 months from the date of noncompliance notice.
+
+## Article 9
+
+Forms specified by these Regulations shall be stipulated by the central competent authority.
+
+## Article 10
+
+These Regulations shall take effect on January 1, 2015.
+
+The amended articles of these Regulations come into effect on the day of promulgation.
+
+## History
+
+1.Promulgated on October 22, 2014,10 Articles adopted and promulgated in full by Ministerial Order on January 1, 2015.
+
+2.Articles 2, 3 and 10 amended and promulgated by Ministerial Order on October 21, 2022

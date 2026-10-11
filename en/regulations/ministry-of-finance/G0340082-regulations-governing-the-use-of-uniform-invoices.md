@@ -1,0 +1,479 @@
+---
+title: "Regulations Governing the Use of Uniform Invoices"
+title_zh: "統一發票使用辦法"
+identifier: "G0340082"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1980-09-20
+last_amended: 2024-12-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340082"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Use of Uniform Invoices
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340082-regulations-governing-the-use-of-uniform-invoices.md](../../../zh/regulations/ministry-of-finance/G0340082-regulations-governing-the-use-of-uniform-invoices.md)) is authoritative.
+
+## Chapter1 General Provisions
+
+### Article 1
+
+These Regulations are adopted pursuant to Paragraph 4, Article 32 of the Value-Added and Non-Value-Added Business Tax Act ("the Act").
+
+### Article 2
+
+Unless otherwise provided for in the Act, the use of uniform invoices by business entities shall be governed by these Regulations.
+
+### Article 3
+
+Except when a business entity is exempted from the use of uniform invoices pursuant to Article 4, the competent tax authority shall impose the use of uniform invoices on all business entities.
+
+## Chapter2 Exemptions
+
+### Article 4
+
+Business entities or operations meeting any of the following criteria may be exempted from the use or issuance of uniform invoices:
+
+\1. Small-scale business entities
+
+\2. Massage businesses operated by visually impaired persons who have duly obtained qualifications to engage in massage operations, and entirely staffed with visually impaired persons to provide massage services.
+
+\3. Passenger fare income of taxi operators or of other transport businesses.
+
+\4. Duly registered or established duty-free shops and duty-free shops on offshore islands.
+
+\5. Agricultural irrigation water supplies.
+
+\6. Medical services, medications, patient accommodation and meals provided by hospitals, clinics, and convalescent institutions.
+
+\7. Social welfare services provided by social welfare organizations or institutions or labor organizations, duly established with permission of the competent authority, and social welfare services outsourced by the government.
+
+\8. Education services provided by schools, kindergartens, and other cultural and educational institutions, as well as cultural services performed under government entrustment.
+
+\9. Intern shops set up by vocational schools that are not open to the public.
+
+\10. Employee welfare facilities set up by government agencies, government-run business entities, and social organizations according to relevant laws that are not open to the public.
+
+\11. Prison factories and the selling places of the finished products there from.
+
+\12. Business operations carried out by postal and telecommunications administrations according to law or through government entrustment, as well as monopoly goods sold through government monopoly offices. The preceding provision shall not include operations outside the designated business area of said institutions.
+
+\13. Legally registered street vendors.
+
+\14. (Deleted).
+
+\15. Barber shops and public bath operators
+
+\16. Special food and beverage service enterprises who pay business tax based on assessed sales by the competent authority
+
+\17. Legally registered newspaper agencies, magazine agencies, news agencies, television broadcasting stations, and radio broadcasting stations selling newspapers, publications, newsletters, or putting on advertisements, showing or airing programs within the scope of their respective designated business areas. The preceding provision shall not include advertisements sold by newspaper agencies or commercials aired by television broadcasting stations
+
+\18. Stamp tax ticket or postal stamp selling services by entrustment
+
+\19. Cooperatives, farmers’ associations, fishermen’s associations, labor unions, chambers of commerce, or trade unions selling goods or services to members through legal operations or carrying out businesses under government entrustment.
+
+\20. Bonds issued by all levels of governments and securities subject to securities transaction tax by law
+
+\21. Remaining or discarded materials from biddings organized by various levels of government
+
+\22. Courts, customs, or other institutions auctioning off confiscated or seized properties, goods, or pledges
+
+\23. Banking business entities
+
+\24. Insurance business entities
+
+\25. Business entities engaged in trust investment, securities, futures, or short-term bills.
+
+\26. Interest revenues of pawn-broking businesses and accrued rentals from pawned objects
+
+\27. Entrance fee revenues of entertainment businesses, and income from storytelling shows, funfairs, billiards-playing facilities, table tennis facilities, fishing yards, and amusement parks
+
+\28. Passenger fare or freight rate revenues of foreign international transport operators without a fixed place of business within the Republic of China carrying passengers or goods from overseas into the country that are collected by agents of said operators.
+
+\29. Compensation income acquired by business entities
+
+\30. Income, gained from goods sold through auctions or fund-raising sales by legally incorporated charity or relief organizations or fund-raising performances for charity causes, after for the disbursement of necessary expenditures for the said activities, and used for operation of business
+
+\31. Research services provided by academic or technological research institutions established under the approval of the competent authority
+
+\32. Consignees in agricultural product wholesale markets
+
+\33. Goods exported by business entities or services related to exports or services supplied within the territory of the ROC but used in foreign countries and provided by business entities.
+
+\34. Goods sold by business entities located in bonded zones to business entities located in taxable zones and exported directly without being transported to a taxable zone.
+
+\35. Others exempted from the use or issuance of uniform invoices with approval of the Ministry of Finance(hereinafter referred to as the MOF)
+
+## Chapter3 Purchase, Use, and Declaration
+
+### Article 5
+
+When purchasing uniform invoices for the first time, business entities shall file an application with the competent tax authority for the issuance of a uniform invoice purchase certificate. The purchase certificates are required to be stamped with the unique uniform invoice seal of the entity.
+
+The unique uniform invoice seal shall contain the name, the uniform serial number, and the address of the business entity, as well as the words “Uniform Invoice Seal”. The uniform serial number number thereon shall be engraved in arabic numerals using standard No. 5 font size in bold face.
+
+### Article 5-1
+
+Under any of the following circumstances, the competent tax authority shall prohibit the business entity from purchasing uniform invoices:
+
+\1. The business entity issues false uniform invoices.
+
+\2. The business entity is on suspension and moves to an unknown address.
+
+\3. The business entity is on temporary suspension or cancellation of registration.
+
+\4. The business entity changes the address to other taxation agency.
+
+\5. The business entity is punished by suspension.
+
+\6. The business entity doesn’t sell goods or services in the address of registration.
+
+\7. The business entity that had changed the uniform serial number purchases uniform invoices with the former uniform serial number.
+
+\8. The business entity had been changed the way of paying business tax from filing sales amounts into assessed sales by the competent authority provided in Article 40 of the Act.
+
+Under any of the following circumstances, the competent tax authority shall regulate the business entity from purchasing uniform invoices:
+
+\1. The business entity is suspected of issuing false uniform invoices.
+
+\2. The business entity has no factual purchase and reported input tax falsely.
+
+\3. The business circumstance of the business entity is unclear, either it is newly established or the location of business is moved.
+
+\4. The business entity that had changed the address doesn’t file an application for change of address with the competent tax authority.
+
+\5. The business entity fails to file its sales amount, tax payable or overpaid within the specified time limit.
+
+\6. The business entity fails to pay the delinquent business taxes.
+
+\7. The business entity sells left over goods or services after cancellation of registration.
+
+\8. The business entity fails to correct matters investigated by the competent tax authority, or other matters in violation of laws and regulations or in significantly abnormal circumstances.
+
+Where the reasons for prohibition or restriction from purchasing the uniform invoice in the preceding two paragraphs cease to exist, the business entity may apply to the competent tax authority to lift the restrictions after verification by the tax authority.
+
+### Article 6
+
+In the event of a change to the name, uniform serial number, address, responsible person, or the unique uniform invoice seal, business entities shall present the original uniform invoice purchase certificate to the competent tax authority for re-issuance.
+
+In the event of merger, transfer, dissolution, or discontinuation, business entities shall submit the original uniform invoice purchase certificate to the competent tax authority for cancellation.
+
+In the event of loss of the uniform invoice purchase certificate, business entities shall immediately report the certificate number to the competent tax authority for recordation and apply for re-issuance.
+
+### Article 7
+
+The types and uses of uniform invoices are as follows:
+
+\1. Triplicate uniform invoices: Exclusively for use by business entities when selling goods or services to other business entities and calculating business tax under Section 1, Chapter 4 of the Act. The first copy shall be the retention copy to be retained by the invoice issuer; the second copy shall be the deduction copy to be returned to the purchaser for tax deduction or reduction declarations pursuant to the provisions of the Act; the third copy shall be the receipt copy to be given to the purchaser as an accounting voucher.
+
+\2. Duplicate uniform invoices: Exclusively for use by business entities when selling goods or services to non-business entities and calculating business tax under Section 1, Chapter 4 of the Act. The first copy shall be the retention copy to be retained by the invoice issuer; the second copy shall be the receipt copy to be given to the purchaser as receipt.
+
+\3. Special uniform invoices: Exclusively for use by business entities when selling goods or services and calculating business tax under Section 2, Chapter 4 of the Act. The first copy shall be the retention copy to be retained by the invoice issuer; the second copy shall be the receipt copy to be given to the purchaser as receipt.
+
+\4. Cash register uniform invoices: Exclusively for use by business entities that calculate business tax under Section 1, Chapter 4 of the Act when selling goods or services and issuing uniform invoices through a cash register. The use of such uniform invoices and the tax declaration procedures thereof shall be governed by the Regulations Governing the Use of Cash Register by Business Entities.
+
+\5. Electronic uniform invoices: Refers to the uniform invoice issued, transmitted or obtained via the internet or by other electronic means when business entities selling goods or services to a purchaser; there shall be the retention media file, the receipt media file and the certification media file. The uses of uniform invoices are as follows:
+
+(1) The retention media file is retained by the invoice issuer.
+
+(2) The receipt media file is given to the purchaser as receipt. If the purchaser is a business entity, it could be used as an accounting voucher and for tax deduction or reduction declarations pursuant to the provisions of the Act.
+
+(3) The certification media file is transmitted to E-Invoice Platform of MOF (hereinafter referred to as“the Platform”) by the invoice issuer as certification.
+
+Where necessary, an additional copy may be prepared for the uniform invoices under the Subparagraphs 1 to 4 of the preceding paragraph if approved by the MOF.
+
+The issuer of an electronic uniform invoice may download and print the certification copy of the electronic uniform invoice from the retention media file, or the purchaser may download and print it from the certification media file on the Platform, in the prescribed format and on the required paper, as documentary evidence for accounting purposes or for claiming a prize, respectively.
+
+A business entity issuing electronic uniform invoices to a non-business purchaser shall transmit the electronic uniform invoices information, along with the carrier identification codes and random codes approved by the MOF and used by the purchaser to request electronic uniform invoices, to the Platform for certification within the time limit prescribed by the Act after issuance. The business entity shall also ensure that the purchaser can query and receive the aforementioned information on the Platform. The same requirements apply in cases of invoice corrections, nullifications, sales returns or allowances, donations, printing certification copies of electronic uniform invoices, and any other changes to the invoice information.
+
+A business entity issuing electronic uniform invoices to a business purchaser shall transmit the electronic uniform invoice information to the Platform for certification within the time limit prescribed by the Act after issuance. The Platform shall notify the purchaser to receive the information. If the purchaser has not set up the automatic acceptance method on the Platform, the issuer of the electronic uniform invoice shall notify the purchaser directly. In cases of invoice corrections, nullifications, sales returns or allowances, the issuer shall ensure that the purchaser is notified and the information is transmitted to the Platform for certification within the aforementioned time limit.
+
+A business entity issuing electronic uniform invoices and complying with the provisions of the preceding two paragraphs shall be regarded as having issued the invoices to the purchaser, who shall likewise be deemed to have received them.
+
+### Article 7-1
+
+The cloud invoice is a kind of electronic invoice which is issued, transferred, and obtained pursuant to provisions of the preceding Article. It is not printed in the certificated copy of electronic invoices when a business entity sells goods and services to a purchaser using the carriers approved by the MOF, or designated by a purchaser that an invoice shall be donated to an institution or a group via the use of a donation code.
+
+The business entity prescribed in Subparagraph 4, Article 6 of the Act shall issue cloud invoices to the purchaser.
+
+### Article 8
+
+Business entities shall issue uniform invoices in the normal sequence of time and shall stamp the unique uniform invoice seal on both the deduction and receipt copies. However, if a business entity issues and transmits electronic invoices via the Internet or by other electronic means, it may print its name, address, and uniform serial number in the "Unique Uniform Invoice Seal of the Business Entity" box of the uniform invoice, and is exempt from stamping the unique uniform invoice seal thereon.
+
+In using uniform invoices, business entities that calculate business tax under Section 1, Chapter 4 of the Act shall issue separate uniform invoices for taxable, zero-tax rate, and tax-free items and shall check the corresponding box of tax classification of the uniform invoice.
+
+When a business entity is engaged to handle collection and payment on behalf of another party, if there is no difference between the amount collected and the amount paid, and the purchaser specified on the payment receipt voucher is the engaging party, then the business entity may deliver the voucher to the engaging party and is exempt both from issuing a uniform invoice and from including the payment as a sales amount.
+
+When a business entity engaged in the food and beverage or lodging and accommodation industry, or a travel agency, pays miscellaneous expenses (such as fares, postage, or telecommunication bills) on behalf of others, it may indicate the items and amount of receipts and disbursements in the remarks column of the uniform invoice, and is exempt from including the amount in the sales amount and the total amount on the uniform invoice.
+
+### Article 9
+
+Business entities shall provide the alphabetical letters and numbers of the uniform invoice, actual date, item name, quantity, unit price, item subtotal, sales amount, tax classification, tax, and total amount of the transaction in the required format and shall in addition thereto, fulfill the following requirements upon issuance of a uniform invoice; and where the purchaser is a non-business entity, the uniform invoice shall be issued at the list price:
+
+\1. For business entities using triplicate uniform invoices or computerized uniform invoices, the name and the uniform serial number of the purchaser shall be provided. If the name of the purchaser cannot be produced by the computer in print, the uniform serial number of the purchaser shall suffice.
+
+\2. Business entities in the manufacturing or import trade businesses issuing uniform invoices for goods or services sold to non-business entities shall provide the name and address or the national identification number of the purchaser.
+
+\3. With the exception of the preceding clause, business entities issuing uniform invoices to non-business entity purchasers need not provide the name and address of the purchaser unless under request of the purchaser.
+
+\4. (Deleted)
+
+\5. The certain requirements and particulars recorded in the cloud invoices which are issued by business entities prescribed in Subparagraph 4, Article 6 of the Act may be in a foreign language; the actual date may be displayed in the Christian Era; the unit price, item subtotal, and total amount may be listed in foreign currency, but the business entities shall add its source.
+
+Business entities using classification codes in place of item names on uniform invoices shall report the code-name index list to the competent tax authority in advance. In the event of any changes to said list, the same shall apply.
+
+### Article 10
+
+(Deleted)
+
+### Article 11
+
+Foreign international transportation enterprises which have no fixed place within the territory of the Republic of China, but which operate through agent(s) to carry outbound freight beyond the national territory of the Republic of China shall require the agent(s) to issue uniform invoices prior to the departure day of the vessel and shall fill in the purchaser’s name on the invoice according to the following:
+
+\1. Where the freight charges are collected within the Republic of China, the name of the payer is to be filled in as purchaser.
+
+\2. Where the freight charges are not collected within the Republic of China, the name of the freight consignee is to be filled in as purchaser.
+
+Where the freight charges are not collected within the Republic of China as set forth in subparagraph 2 of the preceding paragraph, a single uniform invoice may be issued in the total amount of freight revenue per voyage with the number of voyages indicated and the words “invoice issued in combination” noted down in the remarks column of the invoice.
+
+### Article 12
+
+Business entities providing goods or services in exchange for goods or services with others shall issue a uniform invoice upon such exchange.
+
+### Article 13
+
+Business entities sending out sales people to conduct sales outside the business premises shall have said sales personnel carry the uniform invoices for issuance to a purchaser upon conclusion of a transaction.
+
+### Article 14
+
+Business entities offering gift coupons shall issue uniform invoices according to the following:
+
+\1. Goods coupons: Where the coupon states a fixed amount of goods for which a coupon may be converted, an uniform invoice shall be issued upon selling of such gift coupons.
+
+\2. Cash coupons: Where the coupons only indicate the cash amount to be converted into for exchange of goods, the uniform invoice shall be issued upon the conversion of coupon into goods.
+
+Where the cash coupons under subparagraph 2 of the preceding paragraph indicate an agreement with other specific business entities for the conversion of coupons into goods, the uniform invoice shall be issued by the business entities making the conversion upon such conversion transactions.
+
+### Article 15
+
+For a single transaction with a combined total of the sales amount and the output tax amount less than NT$50, unless under request by the purchaser, business entities are not required to issue a uniform invoice for each of such transactions, but should in any event issue a combined uniform invoice in the total amount of the day’s sales upon closing of each business day and with the words “issued in combination” indicated, and shall put down “issued in combination on a daily basis” in the remarks column of the uniform invoice breakdown statement of the current term for reference.
+
+For business entities issuing electronic uniform invoices via the internet or by other electronic means, issuing uniform invoices by cash registers, or issuing receipts by cash registers in a piecemeal fashion in lieu of uniform invoices issued in a piecemeal fashion, and for business entities selling goods or services via automatic vending machines and which are imposed to use uniform invoices, the provisions under the preceding paragraph shall not apply.
+
+### Article 15-1
+
+Business entities meeting the following requirements may issue a combined uniform invoice for the month at the end of each month for the goods or services sold to other business entities, provided an application has been previously filed and an approval has been granted by the local competent tax authority:
+
+\1. Business entities with no records of past due business tax or business income tax payments and/or fines which have been confirmed.
+
+\2. Business entities having filed CPA-certified business income tax returns or filed business income tax returns on the “Blue Form” as required by the tax authority in the preceding two years.
+
+For application for combined uniform invoice issuance by the month to other business entities pursuant to the provisions of the preceding paragraph, business entities shall submit along with the application a directory containing the names, addresses, and uniform serial numbers of all the business entity purchasers to the local competent tax authority.
+
+In the event of a violation of the provisions under Paragraph 1 after the approval of the application for monthly combined uniform invoice issuance by a business entity, the competent tax authority may suspend the approved status of the business entity and request the issuance of a uniform invoice with each piecemeal transaction instead.
+
+### Article 16
+
+For business entities whose time limit for uniform invoice issuance is the time of payment collection pursuant to the provisions under “Time Limit for Issuing Sales Documentary Evidence” of the Act, the uniform invoices for checks received may be issued on the date as stated on such checks.
+
+### Article 17
+
+Business entities providing purchase agency services shall issue a uniform invoice for the service charges, and shall in addition thereto, issue a separate uniform invoice in the amount of the actual purchasing price for the goods acquired with the words “purchase under agency” indicated, and shall deliver said invoices to the consignor upon delivery of the goods.
+
+Business entities consigning goods to an agent for selling shall issue a uniform invoice in the amount of the selling price agreed upon by both parties in the contract upon goods delivery and shall indicate “selling under consignment” on said invoice to the business entity engaged for the consigned selling activity as purchase voucher. Business entities undertaking the selling of the consignments shall issue a uniform invoice in the amount of selling price agreed upon by both parties in the contract to the purchaser with “selling under consignment” indicated on said invoice upon conclusion of the transaction.
+
+The business entities undertaking the selling of the consignments as set forth in the preceding paragraph shall issue a uniform invoice and an account settlement statement for the amount of service charges or commissions receivable according to the goods sold and the time limit for settlement of the account stated in the contract and shall indicate the names, quantities, unit prices, total amounts, and selling dates of goods were sold and the numbers of the uniform invoices issued to the consignor. Said account settlement period shall not exceed two (2) months.
+
+For goods entrusted to agricultural product wholesale markets for selling, business entities may issue the uniform invoice in the sales amount upon account settlement to the wholesale market.
+
+### Article 18
+
+Business entities selling goods through installment payments shall issue a uniform invoice upon each agreed collection of payment except where both parties have agreed to issue a uniform invoice in full amount at first payment.
+
+Business entities selling goods or services via automatic vending machines shall issue the uniform invoices in the total amount received upon collection of payment; however, business entities selling foods, beverages, or charging parking fees via automatic vending machines accompanied with the function of automatic printing of uniform invoices shall issue uniform invoices for each piecemeal transaction and give them to purchasers.
+
+### Article 19
+
+Business entities omitting the issuance of uniform invoices or issuing them in lower amounts, if found, shall immediately issue remedy invoices to the correct amount with “corrections for violation of the Act” indicated in the remarks column of such remedy invoices and shall submit them to the competent tax authority for recordation or further processing.
+
+For business entities omitting uniform invoice issuance or issuing invoices in lower amounts as described in the preceding paragraph, if found through purchaser’s report, the remedy invoices thus issued may be delivered to the purchaser without specifying “corrections for violation of the Act” in the remarks column of such invoices. The business entities however shall provide a letter of undertaking admitting their violation of the rules of uniform invoice use.
+
+### Article 20
+
+In the event of sales return, swap, or allowance after the issuance of uniform invoices, business entities selling the goods or services shall complete the requirements set forth below upon the occurrence of such events. And for swaps, business entities shall reissue a new uniform invoice in the actual amount of the goods swapped with the purchaser.
+
+\1. With a business entity as purchaser:
+
+(1) Where the sales amount for the issued uniform invoice has not yet been declared, business entities shall retrieve the receipt and deduction copies of the original invoice and attach them onto the retention copy of the same invoice with the word “nullified” added. Where the original uniform invoice contains the name and uniform serial number of the purchaser, purchaser’s certificate of sales return, purchase return or allowances on purchased merchandise may suffice.
+
+(2) Where the sales amount for the issued uniform invoice has been declared, purchaser's certificate of sales return, purchase return or allowances on purchased merchandise is required; such a case however shall be limited to instances where the original uniform invoices contain the name and uniform serial number of the purchaser.
+
+\2. With a non-business entity as purchaser:
+
+(1) Where the sales amount for the issued uniform invoice has not yet been declared, business entities shall retrieve the receipt copy of the original invoice and attach it onto the retention copy of the same invoice with the word “nullified” added.
+
+(2) Where the sales amount for the issued uniform invoice has been declared, business entities shall obtain the purchaser's certificate of sales return, purchase return or allowances on purchased merchandise, and shall in addition thereto, retrieve the receipt copy of the original uniform invoice issued. Where the retrieval of the receipt copy is not possible, a copy of said receipt copy may be used in replacement. In the event that both parties have established a sale and purchase agreement and where the original uniform invoice contains the name and address of the purchaser, the retrieval of the receipt copy of the original uniform invoice is not necessary.
+
+The certificate of sales return, purchase return or allowances on purchased merchandise set forth in the preceding paragraph shall contain four copies of a same form, with the first and second copies for use by the business entity selling the goods or services as output tax deduction declaration and accounting voucher respectively, and the third and fourth copies for use by the purchaser as input tax deduction declaration and accounting voucher respectively.
+
+### Article 20-1
+
+When a business entity sells goods or services and issues an electronic uniform invoice, and subsequently both the seller and the purchaser agree to a sales return or allowance, or a purchase return or allowance, the entity shall issue, transmit, or receive the Certificate of Sales Return, Purchase Return, or Allowances via the Internet or other electronic means. The relevant files shall include the retention media file, the receipt media file, and the certification media file. The purposes of these files are as follows:
+
+\1. Retention Media File: To be retained by the seller business entity and used as an accounting voucher and for declaring deductions of output tax in accordance with the provisions of the Act.
+
+\2. Receipt Media File: To be provided to the purchaser as a receipt and, where the purchaser is a business entity, used as an accounting voucher and for declaring deductions of input tax in accordance with the provisions of the Act.
+
+\3. Certification Media File: To be transmitted by the seller business entity to the Platform for certification.
+
+The seller business entity may download and print the Certificate of Sales Return, Purchase Return, or Allowances in the prescribed format from the retention media file to serve as an accounting voucher and for declaring deductions of output tax.  The purchaser business entity may download and print the Certificate of Sales Return, Purchase Return, or Allowances from the certification media file on the Platform, to serve as an accounting voucher and for declaring deductions of input tax.
+
+### Article 21
+
+Non-current term uniform invoices shall not be issued or used, with the exception of approval by the competent tax authority.
+
+Neither the uniform invoices purchased by business entities or the alphanumeric code numbers of uniform invoices assigned by the tax authority may be transferred for use by others.
+
+### Article 22
+
+For unused blank uniform invoices purchased for the term, business entities shall cut away a corner to nullify them and retain them for sampling inspection by tax authorities and shall indicate the alphabetic code and the starting and ending uniform invoice numbers of such invoices on the uniform invoice breakdown statement.
+
+### Article 23
+
+In the event of loss of unused blank uniform invoices, business entities shall immediately report the matter together with a description of the cause of loss, the type and alphanumeric code numbers of the lost invoices to the competent authority for cancellation.
+
+In the event of loss of the retention copies of issued uniform invoices, if a copy of the original receipt copy from the purchaser with an official stamp impressed thereon for certification has been obtained, the said copy of the purchaser’s receipt copy may be used as the retention copy.
+
+In the event of loss of the deduction copy or the receipt copy of a uniform invoice, if a copy of the original retention copy from the original business entity seller with an official stamp impressed thereon for certification has been obtained, or if the remaining copy of the receipt is impressed with an official stamp of the business entity itself for certification is used, said copy may be used in replace of the lost deduction copy or receipt copy as the input tax deduction or accounting voucher.
+
+### Article 24
+
+According to the regulations in paragraph 1, Article 9 of the Act, business entities recording errors in uniform invoices shall reissue new uniform invoices.
+
+In the aforementioned situation, the business entities shall indicate the word “nullified” on the receipt copy and the tax deduction copy of the uniform invoice containing the error and attach said copies onto the retention copy; if issuing electronic uniform invoices, the printed certification copy shall be recovered; and a remark on the matter shall be clearly made on the uniform invoice breakdown statement for the term.
+
+### Article 24-1
+
+In the event of a computer or a machine failure causing inability to issue cash register uniform invoices or electronic uniform invoices, business entities shall issue the invoice as required manually and shall make a remark of the matter on the breakdown statement.
+
+### Article 24-2
+
+(Deleted).
+
+## Chapter4 Computer Uniform Invoices
+
+### Article 25
+
+(Deleted).
+
+### Article 26
+
+(Deleted).
+
+### Article 27
+
+(Deleted).
+
+### Article 28
+
+(Deleted).
+
+### Article 29
+
+(Deleted).
+
+## Chapter5 Supplementary Provisions
+
+### Article 30
+
+Any violations of the provisions of these Regulations shall be subject to punishments under the relevant provisions of the Act or the Tax Collection Act.
+
+### Article 31
+
+Uniform invoices, except those self produced by cash registers pursuant to proper approval, or issued or transmitted via the internet or by other electronic means, shall be printed and sold by the Printing Shop of the Ministry of Finance. The supervision and management over the quality, quantity, and price of such produced uniform invoices shall be the responsibility of the competent tax authority for business tax.
+
+### Article 32
+
+These Regulations shall come into force from April 1, 1986.
+
+The articles of these Regulations amended and promulgated on June 14, 1988 shall come into force on July 1, 1988.
+
+The articles of these Regulations amended and promulgated on March 16, 1993 shall come into force from April 1, 1993.
+
+The articles of these Regulations amended and promulgated on June 26, 1997 shall come into force from July 1, 1997.
+
+The article of these Regulations amended and promulgated on June 29, 1999 shall come into force from July 1, 1999.
+
+The article of these Regulations amended and promulgated on December 19, 2003 shall come into force from the day of promulgation.
+
+The articles of these Regulations amended and promulgated on October 25, 2005 shall come into force from the day of promulgation.
+
+The articles of these Regulations amended and promulgated on April 21, 2010 shall come into force from the day of promulgation.
+
+The articles of these Regulations amended and promulgated on May 12, 2011 shall come into force from April 1, 2011.
+
+The articles of these Regulations amended and promulgated on December 14, 2012 shall come into force from the day of promulgation, except the effective date of Article 7 shall be prescribed by the MOF.
+
+The articles of these Regulations amended and promulgated on December 31, 2013 shall come into force from January 1, 2014.
+
+The articles of these Regulations amended and promulgated shall come into force on March 9, 2015 from the day of promulgation, except Article 4 shall come into force from January 1, 2016.
+
+The articles of these Regulations amended and promulgated shall come into force on July 15, 2016 from the day of promulgation.
+
+The articles of these Regulations amended and promulgated shall come into force on January 19, 2018 from the day of promulgation, with the exception of Paragraphs 4 to 6 of Article 7 which shall come into force from March 1, 2018, and, the exception of Paragraphs 1 and 2, Article 7; Article 8; Subparagraph 1 of Paragraph 1 of Article 9; Article 24-1; Articles 25 to 27; and Article 31, which shall come into force from January 1, 2021.
+
+The articles of these Regulations amended and promulgated shall come into force on July 16, 2018 from the day of promulgation, with the exception of Paragraph 2, Article 7-1; Subparagraph 5 of Paragraph 1 of Article 9; and Paragraph 2, Article 20-1, which will come into force on January 1,  2019；Subparagraph 1 of Paragraph 1 of Article 9 which will come into force on January 1, 2021.
+
+The articles of these Regulations amended and promulgated on October 22, 2021 shall come into force on January 1, 2022.
+
+The articles of these Regulations amended and promulgated on December 12, 2024 shall come into force on January 1, 2025.
+
+## History
+
+\1. Amendment by the Ministry of Finance on 20 September 1980 under Decree No. 37909.
+
+\2. Amendment by the Ministry of Finance on 8 September 1981 under Decree No. 37575.
+
+\3. Amendment by the Ministry of Finance on 26 June 1984 under Decree No. 54788.
+
+\4. Amendment by the Ministry of Finance on 27 February 1986 under Decree No. 7521403.
+
+\5. Amendments to Articles 4, 7, 9, 10,11,15,17,18,20,22 and 32 by the Ministry of Finance on 14 June 1998 under Decree No. 770657830.
+
+\6. Amendments to Articles 9, 10, 19,26,27,31, and 32 by the Ministry of Finance on 16 March 1993 under Decree No. 821480442.
+
+\7. Amendments to Articles 4, 9, 10,15-1,20,21,22,24,26&32 and deletion of Article 10 by the Ministry of Finance on 26 June 1997 under Decree No. 861902617.
+
+\8. Amendments to Articles 31 and 32 by the Ministry of Finance on 29 June 1999 under Decree No. 881923165.
+
+\9. Amendments to Articles 31 and 32 by the Ministry of Finance on 19 December 2003 under Decree No. 0920454882.
+
+\10. Amendments to Articles 4, 9, 15-1and 32 by the Ministry of Finance on 25 October 2005 under Decree No. 09404576720.
+
+\11. Amendments to Articles 7, 8and 32 by the Ministry of Finance on 21 April 2010 under Decree No. 09904508510.
+
+\12. Amendments to Articles 1,4,5,8,9,15-1,21,25and 32 by the Ministry of Finance on 12 May 2011 under Decree No. 10004509700.
+
+\13. Amendments and promulgated on 14 December 2012 shall take force from the day of promulgation(Articles 24-1,24-2,28,29,31and 32), except the effective date of Article 7 shall be prescribed by the Ministry of Finance.
+
+\14. Amendments to Articles 1,7,24-2and 32 by the Ministry of Finance on 31 December 2013 under Decree No. 10204706040.
+
+\15. Amendments of Articles 4, Article 5-1 and Article 32 were and promulgated by the Ministry of Finance on 9 March 2015 under Decree No. 10404525110, which shall come into force from the day of promulgation, except Article 4 shall become effective from 1 January 2016.
+
+\16. Amendments to Articles 15, 25and 32 by the Ministry of Finance on 15 July 2016 under Decree No. 10504604020.
+
+\17. Amendments of Articles 1, 7 to 9, 11, 14, 20, 24, 24-1, 31 and 32 were and promulgated by the Ministry of Finance under Decree No. 10704510060 on 19 January 2018, which shall come into force from the day of promulgation, with the exception of paragraph 4 to 6 of Article 7 which shall become effective from 1 March 2018, and, the exception of paragraph 1 and paragraph 2 of Article 7; Article 8; subparagraph 1 of paragraph 1 of Article 9; Article 24-1; Articles 25 to 27; and Article 31, which shall become effective from 1 January 2020.
+
+\18. Amendments of Articles 7-1, Article 9, Article 20-1, and Article 32 were promulgated by the Ministry of Finance under Decree No. 10704607090 on 16 July 2018, which shall come into force from the day of promulgation, with the exception of Paragraph 2 of Article 7-1; Subparagraph 5, Paragraph 1, Article 9; and Paragraph 2 of Article 20-1, which will become effective on 1 January 2019.
+
+\19. Article 32 was amended and promulgated by the Ministry of Finance under Decree No. 10804570280 on 24 May 2019. Paragraph 1 and Paragraph 2 of Article 7, Article 8, Subparagraph 1 of Paragraph 1 of Article 9, Article 24-1, Articles 25 to 27, and Article 31, as amended on 19 January 2018, and Subparagraph 1 of Paragraph 1 of Article 9, as amended on 16 July , shall become effective from 1 January 2021.
+
+\20. Amendments to Articles 15, 18, and 32 were promulgated by the Ministry of Finance on 22 October 2021 under Decree No. 11004647340, which shall come into force on 1 January 2022.
+
+\21. Amendments to Articles 7, 20-1, and 32 were promulgated by the Ministry of Finance on December 12, 2024 under Decree No. 11304654281, which shall come into force on January 1, 2025.

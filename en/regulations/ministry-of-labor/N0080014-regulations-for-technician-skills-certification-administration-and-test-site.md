@@ -1,0 +1,727 @@
+---
+title: "Regulations for Technician Skills Certification Administration and Test Site"
+title_zh: "技術士技能檢定作業及試場規則"
+identifier: "N0080014"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業訓練目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-12-31
+last_amended: 2023-11-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0080014"
+retrieved: 2026-10-12
+---
+
+# Regulations for Technician Skills Certification Administration and Test Site
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0080014-regulations-for-technician-skills-certification-administration-and-test-site.md](../../../zh/regulations/ministry-of-labor/N0080014-regulations-for-technician-skills-certification-administration-and-test-site.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are enacted in accordance with Paragraph 3, Article 33 of the Vocational Training Act (hereinafter referred to as the Act).
+
+### Article 2
+
+The skills certification guideline stated in Paragraph 3, Article 33 of the Act refer to the directions regarding the scope and job category of skills certification, work items, skill categories and standards of skills, and related knowledge to set the basis for the formulation of written and field tests.
+
+### Article 2-1
+
+The Central Competent Authority may appoint its subordinate agencies (organizations) to handle the development and adjustment of job categories involved in the skills assessment as stipulated in this rule, the formulation of skills assessment specifications, the qualification examination of regulation makers, the issuance of appointment letters for regulation makers, the refund of written and field test fees, the issuance of qualification certificates of supervisory personnel, the selection and commission of supervisory personnel to stop the assessment, and the rechecking of written and field test scores.
+
+Regarding the review of written and field test scores as stipulated in these regulations, the Central Competent Authority may authorize the review to other institutions, schools, or corporate bodies, or delegate to the regulatory authorities of cities, counties, or municipalities directly under the central government.
+
+## Chapter II Development of Job Categories
+
+### Article 3
+
+The Central Competent Authority shall consider the national economic development policy, the trend of industrial development and the needs of the employment market when developing and adjusting the job categories involved in skill certification.
+
+### Article 4
+
+Development and adjustment of job categories shall be conducted as a priority for occupations that meet either of the following descriptions:
+
+\1. Those requiring employment of certified technicians according to law;
+
+\2. Those technically involving public safety issues.
+
+### Article 5
+
+Development of job categories shall not be conducted for occupations that meet any of the following descriptions:
+
+\1. Those to be categorized as requiring professional occupations and technologies;
+
+\2. Those requiring tests conducted by the competent authority of the related business;
+
+\3. Those involving knowledge and skills for which objective evaluation standards are not yet to be established.
+
+### Article 6
+
+Related professional organizations and agencies (institutions) may present proposals regarding development or adjustment of job categories of skills certification to The Central Competent Authority.
+
+A proposal as described in the preceding paragraph shall include the name of the job category, reasons for development, expected results, supply and demand of the labor market, work scope of the job category,, and main work items in writing.
+
+## Chapter III Establishment guidelines of Skills Certification
+
+### Article 7
+
+The Central Competent Authority shall meet with the regulatory authority of the relevant purposeful business, schools, training institutions, industrial organizations or groups, when it establishes the standards for skill certification.
+
+### Article 8
+
+The Central Competent Authority shall appoint 6 to 12 persons that meet one of the following qualifications to establish the guidelines of skills certification for each job category:
+
+1.Those who are or were working as assistant professors or above at universities and have had more than five years of teaching experience in related field.
+
+2.Holding a university or higher degree and having at least 10 years of teaching experience in related fields.
+
+3.Holding a college or higher degree and having held an executive position for at least 5 years or a non-executive position for 8 years in the technical or training department of government agencies (institutions)or a legally registered organization.
+
+4.Holding a senior high or vocational school or higher diploma and the highest skills certificate for a related job category, and having at least 10 years of practical experience in a related occupation or having been a vocational trainer in a related field for at least 10 years.
+
+5.Representing The Central Competent Authority or The Central Competent Authority of the industry in concern.
+
+Establishment guidelines of skills certification for certain specified job categories shall not be subject to the restrictions set forth in the preceding paragraph.
+
+### Article 9
+
+The Central Competent Authority may request the competent authority of the related business, schools, enterprises, vocational training agencies (institutions), and organizations to make recommendations when appointing the personnel stated in the preceding Article; those appointed shall be issued a certificate of appointment.
+
+The validity of the certificate of appointment stated in the preceding paragraph shall last from the date of appointment till December 31 of the same year.
+
+## Chapter IV Test Questions formulation and Marking
+
+### Article 10
+
+The Central Competent Authority shall randomly select written and field test questions of skills certification from the test question bank or with centralized composing.
+
+Field test questions that are to be disclosed to the public shall follow the usage instruction of the test questions.
+
+### Article 11
+
+The certification administration agency of the written test might mark all written tests or non-multiple-choice written field tests at a designated site.
+
+Where a written or a field test is computer-based, the responsible organization must adopt online scoring via the computer system.
+
+### Article 12
+
+When marking with computerized grading system, written test answer cards shall be scanned at a high-sensitivity setting and a low-sensitivity setting once each and the score most advantageous to the examinee shall be the final result.
+
+### Article 13
+
+Answer cards containing answers not given according to regulations but still identifiable when marking with computerized grading system, shall be processed in accordance with the following:
+
+\1. Answer cards containing texts or symbols other than those requested and thus making it impossible to identify, all the answers shall not be given any point.
+
+\2. Answer cards containing answers not provided with specified writing instruments and thus making it difficult to identify the answers shall be given points in accordance with the identifiable answers.
+
+\3. Answer cards containing messy erasures or answers marked too lightly or too heavily and thus making it difficult to identify the answers shall be given points in accordance with the identifiable answers.
+
+\4. Single-choice questions to which two or more answers are given shall not be given any point.
+
+\5. Answer cards that are smeared or damaged and thus difficult to read shall be given points in accordance with the identifiable answers.
+
+### Article 14
+
+Answer cards that are damaged and not readable when marking with computerized grading system shall be processed in accordance with the followings:
+
+1 .If the damage is confirmed as having been caused by the examinee and leading to the mutilation of the answer card by computerized grading system and the answer card thus becomes unreadable, no point shall be given.
+
+\2. If the damage is confirmed as having been caused by negligence during the grading process or by the computerized grading system, The Central Competent Authority and the certification administration agency shall photocopy the answer card and reread it with computerized grading system or mark it manually and enter the result in the computer. The photocopy shall be remarked with the cause and co-signed by the competent authority and the certification administration agency before it is sealed with the original answer card and filed by the certification administration agency.
+
+### Article 15
+
+Manual grading shall be divided into initial grading and final grading to be conducted by different personnel. The result of the final grading shall be the official score. When significant differences occur between the initial and final grading, the tests shall be re-graded by a third party and the result shall be final.
+
+The grading and scoring procedures specified in the preceding paragraph shall not apply to tests questions that are subject to different regulations.
+
+### Article 16
+
+When tests are graded manually, answer sheets containing answers not given according to regulations shall be processed in accordance with the following:
+
+\1. A 5-point deduction shall be imposed on examinees who have not applied requested symbols or used a pencil to answer the questions as specified.
+
+\2. No point shall be given for questions the answers to which are misplaced or single-choice questions to which two or more answers are given.
+
+\3. No point shall be given for questions the answers to which have been corrected repeatedly and become unidentifiable.
+
+\4. No point shall be given for the subject if the answer sheet contains unnecessary texts, symbols or marks.
+
+## Chapter V Test Operating Procedure
+
+### Article 17
+
+The method of application for the technical examination shall be in accordance with the simplified regulations of that year. Those who intend to participate in the examination may not request withdrawal of application, refund of fees, return of materials involved in the technical examination, or change of the category, level, examination order or examination area after application.
+
+Under one of the following circumstances, the applicant may apply to the Central Competent Authority for a full refund of the test fees for the written and fine arts exams by attaching the documents stipulated in each subparagraph:
+
+\1. The unit that administers the test is unable to administer the test due to a natural disaster, change of events, or unforeseen circumstances and must schedule the test for another date, but the applicant is unable to participate in the test: the admission ticket or the notification for the field tests and other relevant documents.
+
+\2. The applicant is unable to take the test due to a natural disaster, accident, occupational disaster, military service enlistment, or call to duty (education): a certificate of natural disaster, accident, proof of public service or injury, or proof of Laborers' Occupational Disability Insurance coverage, or an order for military service enlistment or call to duty, or other relevant documents.
+
+\3. The applicant died before the test: his/her legal successor should submit relevant documents such as death certificate or autopsy certificate.
+
+If, on the day of the written and/or field tests, an applicant is unable to take the tests due to childbirth, pregnancy, marriage, hospitalization due to serious injury or illness, or during a period of convalescence as ordered by a physician, or if the applicant is unable to take the tests because of the death of one of his/her relatives within the third degree of consanguinity, the applicant may apply for a reimbursement of one-half of the fees for the written and/or field tests from the Central Competent Authority, upon submission of the relevant supporting documents.
+
+### Article 18
+
+Repeated registrations for or taking of skills certification tests of the same stage, job category, class and item shall be disallowed.
+
+### Article 19
+
+Skills certification shall be divided into written and field tests.
+
+Written tests shall be taken in written or online, or through other means when necessary. The full score of written tests shall be 100 points and 60 points shall be the passing grade.
+
+Field tests shall be assignment of practical tasks in principle. The following methods may be adopted if assignment of practical tasks is infeasible:
+
+1.Computer tests.
+
+2.Machine simulation tests.
+
+3.System simulation tests.
+
+4.Non-choice-question written tests.
+
+5.Other methods for technology development, characteristics of the job category.
+
+Evaluation of field test results of the previous paragraph shall be conducted with 100 points as the full score, or by determining examinees as passing or failing the test. When the full score is 100 points, 60 points shall be the passing grade.
+
+If the relevant competent authority has different regulations with regard to the passing standards of written and field tests, the said regulations shall prevail.
+
+### Article 20
+
+The certification administration agency conducting a field test shall provide the test applicants with related information 14 days in advance. Unless otherwise specified for the field test questions, the said regulations shall prevail.
+
+### Article 21
+
+Once grades are given, the written and field test answer sheets (cards) or evaluation sheets shall be sealed and guarded for one year after the test results are mailed to examinees, but the ones over which contentions have been raised during the said period shall be guarded for five years.
+
+The registration forms and proof of identity of applicants for Level C and Single-class Skills certification shall be guarded for one year after registration but those of applicants who have raised contentions about test results during the said period shall be guarded for five years.
+
+The registration forms and proof of identity of applicants for Level B and Level A Skills certification shall be guarded for five year after registration
+
+Certification administration agencies conducting the written and field tests shall guard the documents specified in the three preceding paragraphs for the said periods and establish lists of the said documents. If necessary, The Central Competent Authority may pull and read the said documents for review and request the said agencies to extend the guarding period.
+
+### Article 22
+
+Those participating in or conducting Skills certification and aware of or in possession of any of the following informations shall keep such information confidential and may not use it for their advantage or disclose it or steal it for own use:
+
+\1. Written or field test questions;
+
+\2. Field test evaluation standards and evaluation sheet contents;
+
+\3. Referential answers to written or field test questions;
+
+\4. Written or field test answer sheets (including field test work pieces and evaluation sheet contents);
+
+\5. Information involving test results over which contentions have been raised; and
+
+\6. The names and related information of those personnel participating in test question formation, invigilation and marking.
+
+The restrictions set forth in this article shall not apply to the information described in Subparagraphs 1 to 3 when it is to be disclosed to the public in advance.
+
+### Article 23
+
+Certification administration agency employees who are involved in field test administration may not take field tests conducted by his or her employer. If there is only one certification administration agency for the field test, the agency conducting the field test shall obtain the consent of The Central Competent Authority in advance and appoint test invigilation and marking personnel from other certification administration agencies.Chapter VI Written Test Invigilating and Field Test Invigilating and Marking
+
+## Chapter VI Field invigilation for written and field tests and field marking
+
+### Article 24
+
+Certification administration agencies conducting written and field tests shall appoint individuals who meet one of the following qualifications to be invigilators of any written or field test:
+
+1.Those who are or who were government agency (institution) personnel of elementary rank status or equivalent level;
+
+2.Those who are or who were teachers or administrative staff members of public and private schools.
+
+3.Those who carry the qualification as a field marker for technician skills certification.
+
+Invigilators for computer written and field tests shall meet one of the qualifications described in the preceding paragraph or hold a college or higher degree and are currently employed by certification administration agencies and trained and certified by The Central Competent Authority.
+
+### Article 25
+
+Regarding the field tests commissioned, delegated, or authorized by the Central Competent Authority, the organizing unit shall select and employ a person with the qualification of supervisor to perform the supervisory and evaluation work.
+
+### Article 26
+
+Certification administration agencies shall abide by the following regulations when appointing invigilators and markers for field tests:
+
+1.When less than 5 invigilators and markers are required for a field test, no more than one person shall be appointed from each unit.
+
+2.When 6 or more invigilators and markers are required for a field test, no more than one third of the total required or 4 persons at the maximum shall be appointed from the same unit.
+
+3.For field tests lasting less than 5 days, the same certification administration agency shall not appoint the same person to be an invigilator or marker for the same field test, stage, job category or class for more than 2 days. For those tests lasting more than 5 days, the same person shall not be an invigilator or marker for more than half of the duration of testing.
+
+4.The same person shall not serve as an invigilator or marker in field test for the same job category for more than 15 days in the same month.
+
+5.Do not appoint full-time or part-time instructors of the certification administration agency and teaching assistant industrial experts to be field test invigilators, markers for the students or trainees of the agencies.
+
+The restrictions set forth in the preceding paragraph shall not be applicable in situations where the number of invigilators and markers are not enough due to an incident on the field testing day, or a certain specified job category without enough qualified invigilators and markers.
+
+### Article 27
+
+Invigilators and markers shall recuse invigilation and marking jobs under any of the following circumstances:
+
+1.Their spouses, ex-spouses, blood relatives within the top four degrees of kinship, or marital relatives within the top three degrees of kinship are taking the field test.
+
+2.Any persons who currently undertake or undertook inspection duties of the examinee within 2 years of the first date of registration.
+
+3.Any current head superintendent of institutes (organizations), group, school or enterprises of the examinee.
+
+4.Any current full-time or part-time instructors of the certification administration agency and teaching assistant industrial experts for examinees or students taking the field test.
+
+5.There is concrete evidence showing that they are likely to be partial when executing their duties.
+
+Invigilators under the circumstances specified in subparagraph 1 of the preceding paragraph shall recuse themselves from test field invigilation jobs.
+
+Invigilators or makers covered under the circumstances specified in the preceding two paragraphs who fail to recuse themselves, shall be ordered to recuse themselves by certification administration agencies conducting written and field tests.
+
+### Article 27-1
+
+When it is discovered at the test site and in vicinity any examinee attempts to cause trouble, hinder the peace of a test field, disrupt the test order or commit any irregularities, the invigilator shall instantaneously advise and prevent as well as process in accordance with regulations provided in Articles 35 through 36-1.
+
+The invigilator shall report and request the certification administration agency to process any examinee who commits events specified in the preceding paragraph and refuses to listen to advice; and the agency shall report and request the district police station to handle if a particularly serious violation is involved.
+
+### Article 28
+
+When examinees point out errors or incompleteness that renders test questions incomprehensible during a test, invigilators and markers shall immediately contact the concerned certification administration agency to verify and address the problem; they may not make any correction on their own.
+
+### Article 29
+
+When invigilators of written and field tests are found to be with one of the following situations, the concerned certification administration agency shall immediately relieve them of their duties and notify The Central Competent Authority and their employers:
+
+1.Being 15 minutes late for or absent from a pre-test invigilation workshop without justification;
+
+2.Unable to maintain order of examination sites effectively;
+
+3.Losing tests or answer sheets (cards);
+
+4.Having bad attitudes or arguing with examinees when invigilating;
+
+5.Failing to recuse themselves in accordance with Article 27;
+
+6.Having other negligent conduct that has had negative effects on examinees’ interests or test related matters.
+
+When invigilators have any of the situations described in the preceding paragraph, certification administration agencies may assess the degree of severity of the circumstances and never appoint them for invigilation again.
+
+### Article 30
+
+Field test invigilators and markers who are confirmed to be with one of the following situations shall be suspended from invigilation and marking work from 2 years.
+
+\1. Being absent for marking work without asking the certification administration agency for leave in advance;
+
+\2. Failing to maintain order of examination sites effectively and causing it impossible for the field test to proceed;
+
+\3. Being unfamiliar with field test questions and marking standards and therefore unfit for invigilating and marking work;
+
+\4. Refusing to be appointed to invigilate at the field test site without justified reason.
+
+\5. Losing all or part of test sheets, answer sheets(cards), workpieces or review sheets.
+
+\6. Announcing the test results to the public without permission.
+
+\7. Participating in field test of the job category and serving the post of invigilator in any round of the same stage and the same job category concurrently.
+
+\8. Having other negligent conduct that has had negative effects on examinees' interests or test related matters.
+
+### Article 30-1
+
+Field test invigilators and markers who are confirmed to be with one of the following situations shall be suspended from invigilation and marking work for 6 months:
+
+\1. Being absent from coordination meeting prior to invigilating and marking without justification;
+
+\2. Failing to catch cheating acts during field tests due to negligence;
+
+\3. Leaving their invigilation or marking posts or engaging in irrelevant matters during field tests;
+
+\4. Providing examinees with test-related technical clues during field tests;
+
+\5. Conversing with examinees about irrelevant subjects during field tests;
+
+\6. Failing to turn off their communications equipment during field tests;
+
+\7. Failing to record causes of point deductions on the evaluation sheet;
+
+\8. Miscalculating test scores;
+
+\9. Being absent from workshops on field test invigilator and marker violations;
+
+\10. Having other negligent conduct that has had negative effects on examinees’ interests or test related matters.
+
+### Article 31
+
+Certification administration agencies shall record the performance evaluation of each invigilator and marker at each field test.
+
+Where the performance evaluation for the field marker in the preceding paragraph records any of the matters listed in the preceding two articles or Articles 39 and 39-1 of the Regulations on Technician Skills Certification and Issuance of Certificates, such evaluation records shall be forwarded to the central competent authority for handling.
+
+### Article 32
+
+Certification administration agencies may appropriately award written and field test invigilators and markers who have successfully prevented or discovered cheating during tests or request their employers in writing to award them for the performance.
+
+## Chapter VII Directions of Written and Field Test Sites
+
+### Article 33
+
+Written examinee shall locate their designated desks and be seated when the preparatory ring goes off. Those failing to enter the test room within 15 minutes after the test begins shall be disallowed entry. Examinees may not leave the room within 45 minutes after the test begins but this restriction shall not apply to people taking online written tests.
+
+### Article 33-1
+
+Those, who hold a certificate of disability, a disability certificate issued by the education authorities, or the result of identification of disability, shall apply to the certification administration agency for lengthening the duration of the written and field test by 20%.
+
+### Article 34
+
+Examinees of the written tests shall enter the examination room by presenting their admission tickets along with a photo ID such as a national ID, passport, national insurance card, driver’s license, technician certificate, resident certificate or entry/exit permit that qualifies for the application for the certificate.
+
+After being seated at their designated desks, examinees shall place their admission tickets and the photo ID specified in the preceding paragraph on the left front corner of the desktops or places instructed by the invigilator for further verification; Examinees shall verify the notes stuck on the margin of the answer sheets or the name, test registration number, job categories, level and test questions and other information on the answer cards and, in an event of any data inconsistency or seal angle not being sealed properly, examinees shall report it to the invigilator immediately.
+
+Regarding the entry of the examination room, the written tests examinees shall behave in accordance with the following regulations:
+
+1.Prepare one’s own stationary for the test, and shall not ask to borrow it from others during test.
+
+2.All items shall be placed in accordance with the indications of invigilators, except for stationary to be used for the test.
+
+3.Examinees are not allowed to carry mobile phones, wearable devices, or other devices and equipment with information transmission, sensing, camera, or recording functions with them. The devices or equipment shall not be placed in the drawers, tables, or chairs, or at the side of the seats; The same restrictions apply even if such devices or equipment are turned off.
+
+### Article 34-1
+
+Those who have registered for two or more tests of different job categories 、classes or items held at the same time or same test site, the job categories which the examinees are unable to take will be listed as absent from the class or item of the job category.
+
+### Article 35
+
+Before or during the written test, an examinee who commits any of the following shall have his/her test participating qualification cancelled and have his/her eligibility to participate in tests withheld.
+
+1.Having a imposture examinee;
+
+2.Holding forged or altered proof of identity
+
+Before or during the written test, an examinee who commits any of the following shall have his/her test participating qualification cancelled and his/her eligibility to participate in tests withheld.
+
+1.Exchanging seats or test sheets or answer cards with others;
+
+2.Using mobile phones, wearable devices or other information transmission, or any sensing, shooting, recording equipment and facility.
+
+3.Failure to abide by the rules of the test site, not accepting the invigilator’s advice, and disrupting the overall order of the test site.
+
+Examinee who commits any of the preceding two specified offences shall only be allowed to leave the test site after the stipulated time.
+
+The written test score of an examinee who commits any of the following during the test shall be zero:
+
+1.Deliver documents, reference materials, or write related articles or signals.
+
+2.Take books, references, texts of relevant writing, or related signals.
+
+3.Refuse to submit test questions or answer sheet (card).
+
+4.Use tools inconsistent with test questions requirement.
+
+5.Peek into the answer sheet (card) of others, allow others to peek into one’s own answer intentionally, or talk with one another.
+
+6.Writes (copies) relevant texts, symbols on table, chair, stationary, body parts, test ticket or other places.
+
+7.Borrowing stationery from others.
+
+If an examinee is found to have committed any offense specified in paragraph 1, 2 or any of the preceding paragraph, after the completion of the written test, his/her written test score shall be counted as zero.
+
+### Article 36
+
+A 20-point deduction shall be imposed on written examinees found with one of the following situations:
+
+1.Having used the seat and therefore the answer card of another examinee throughout the entire test;
+
+2.Opening or damaging the sealed corner of the answer sheets (card) or cutting or smearing the answer sheets (card);
+
+3.Tearing of the tag attached to the test sheets, or writing his or her name or putting down other texts or symbols on the answer sheets;
+
+4.Leaving the test room within 45 minutes after the test begins;
+
+5.Carrying mobile phones, wearable devices or other equipment and devices with information transmission, sensing, shooting and recording functions, or placing the above devices in the drawers, tables, chairs or seats during the test.
+
+6.Self-preparing tools and other items which do not follow the instructions of the Invigilator.
+
+### Article 36-1
+
+A 10-point deduction shall be imposed on written examinees who is discovered to have committed one of the following situations:
+
+\1. Opening and reading the test sheets and beginning to answer the questions before the beginning bell goes off;
+
+\2. Continuing taking the test after the test time has ended or not leaving the test room right after delivering the test sheets;
+
+\3. Having used the wrong seat and therefore the answer card of another examinee but realized the mistake and then made the correction immediately;
+
+\4. Carrying blank paper into the test room;
+
+\5. Reentering the test room without the permission of the invigilator;
+
+\6. Smoking, chewing gum, eating betel nuts or drinking alcoholic beverages in the test field; or
+
+\7. Copying the test questions or answers and leaving the test site before the end of the allotted time.
+
+### Article 37
+
+Written examinees shall turn in both the answer sheets (card) and the test sheets to the invigilator before leaving the test room and reentry shall be disallowed.
+
+### Article 38
+
+During field tests, examinees shall enter the examination room on time. Those failing to enter the examination room within 15 minutes after the test begins shall be refused entry to the examination room. For tests conducted in stages or at different sites, other than those of the first stage (at the first site), the other examinees are also required to enter the examination room on time or shall be refused entry. But if the examination entry time is specified otherwise on the field test instructions, those instructions shall be followed.
+
+For examinees of field tests adopting written tests of non-choice questions or computer-based tests, regulations from Article 33-1 to the preceding Article shall apply. However, for tests adopting manual grading, the regulations of Article 16 shall apply.
+
+### Article 39
+
+Prior to entering the field test examination room, the examinee shall submit test tickets, field test examination notices, ID documents and their own tools to invigilators for inspection, forbidden equipment, accessories, drawings, mobile phones, wearable devices or other equipment and devices with functions of information transmission, sensing, lenses or recording shall not be brought into the examination room.
+
+If uniforms are required, those not wearing the required uniforms shall be disallowed entry and are considered having failed the test.
+
+### Article 40
+
+To take field tests, examinees shall take position in the designated spot in accordance with their test position numbers and place their test admission, field test notification and proof of identity in the designated location for verification.
+
+Examinees having questions about the machines, equipment, tools or materials that the certification administration agency provides shall raise their questions immediately. No questions may be raised after the test begins.
+
+When questions are raised as stated in the preceding paragraph, invigilators or markers shall solve the problems immediately.
+
+### Article 41
+
+Field examinees shall abide by the regulations invigilators or markers have explained.
+
+When discovering any examinees’ intention to cause trouble, hinder the peace of the test field, disrupt the test order or commit any irregularities, invigilators or markers shall instantaneously advise and prevent as well as process in accordance with regulations provided in Article 48.
+
+Invigilators or markers shall report and request the certification administration agency conducting a field test to dispose of any examinee who commits events specified in the preceding paragraph refuses to obey advice; the agency shall report and request the district police station to handle particularly serious violations.
+
+### Article 42
+
+Certification administration agency of invigilation, invigilators or markers shall determine the beginning and end of field tests according to each test questions. Examinees may not make their own decisions to start early or extend the test time.
+
+### Article 43
+
+Field examinees shall take safety precautions when operating machines and equipments.
+
+### Article 44
+
+Examinees causing malfunctions to the machines and equipments used in field tests due to negligence during operation must eliminate the malfunctions on their own and no extra test time shall be given.
+
+### Article 45
+
+Field examinees shall operate the machines and equipments used in the test with care. Those damaging the machines and equipments intentionally shall be held responsible for the damages.
+
+### Article 46
+
+During breaks from the test, field examinees shall place their own tools and work pieces according to the instructions of invigilators or markers.
+
+### Article 47
+
+Field examinees shall turn in the finished assignment, workpieces and remaining materials to invigilators or markers when the test is over; same for those who leave in the middle of the test. Those who have turned in the said objects and left disallowed reentry.
+
+### Article 48
+
+Before or during the field test, an examinee who commits any of the following offences shall have his/her test participating qualification cancelled and his/her eligibility to participate in tests withheld.
+
+1.Having a imposture examinee;
+
+2.Holding forged or altered proof of identity
+
+Before or during the field test, examinee who commits any of the following shall have his/her test participating qualification cancelled and shall have his/her eligibility to participate in tests withheld.
+
+1.Passing information or signals;
+
+2.Assisting or asking others to do the test;
+
+3.Exchanging workpieces or diagrams with others;
+
+4.Carrying any tools, equipment, accessories, pictograms, mobile phones, wearable devices or other equipment and devices with information transmission, sensing, photographing and recording functions or other items which not comply with the requirements of the test.
+
+5.Damaging the machines or equipment intentionally;
+
+6.Failing to abide by these Regulations and disobeying the instructions of invigilators or markers and causing disturbances in and outside the test site;
+
+The field test scores of examinee who commits any of following shall be regarded as disqualified:
+
+1.Failing to turn in the work pieces, diagrams or test sheets that are to be turned in;
+
+2.The disposal of self-owned tools, artifacts and related articles without desktop or following the instructions of the invigilator or marker.
+
+3.Violating Article 23;
+
+4.Knowing that an invigilator or marker has failed to recuse himself or herself as set forth in Article 27 but continuing to take the test.
+
+An examinee found after the test to have been with one of the situations described in the subparagraphs of the preceding paragraph shall be considered failing the test.
+
+For tests conducted in stages or at different stations, any person who has had his/her eligibility withheld shall not be able to further participate in tests conducted in stages or at different stations and his/her written test result shall be regarded as disqualified.
+
+## Chapter VIII Test Disputes and Score Review
+
+### Article 49
+
+Examinees having doubts regarding the written test questions or answers or regarding non-choice-questions in field test in written tests format shall submit a physical or electronic written statement including the following information to the competent authority or the responsible certification administration agency of the written or field test within 7 days after the test:
+
+1.The name, test registration number, address and telephone number of the examinee;
+
+2.The job category, class, and examination number of the test, and the numbers of the questions in concern;
+
+3.The reasons why the questions or answers are considered inappropriate or erroneous, related information shall be submitted.
+
+The doubts about the test shall be submitted before deadline, the postmark or the time when the electronic submission is completed is deemed the time of submission. Doubts submitted after the deadline will not be accepted.
+
+An examinee shall be allowed to submit their doubts about one question only one time.
+
+### Article 49-1
+
+If the written and/or field tests are conducted online or by computer, the test questions and answers will not be disclosed after the test.
+
+If the field tests are written tests instead of pre-set questions from a test bank, the answers will not be disclosed after the test.
+
+### Article 50
+
+The Central Competent Authority and certification administration agencies shall handle the doubts described in Article 49 according to the following procedure:
+
+1.If the doubt involves the actual content of a question, The Central Competent Authority shall turn the information presented by the examinee, the question and the answer over to the original persons of composing test questions bank and request for a reply within 7 days. If necessary, The Central Competent Authority may invite other specialists to examine the reply, review the answer sheet in concern, and inform the examinee of the result.
+
+2.When the doubt raised does not involve the actual content of test questions, The Central Competent Authority or the responsible certification administration agency shall address the problem.
+
+If the persons of composing test questions bank stated in Subparagraph 1 of the preceding paragraph is unable to handle the matter, other persons of composing test questions bank may be invited to handle the matter.
+
+### Article 51
+
+When written test questions or answers are confirmed as erroneous or flawed, the following measures shall be taken:
+
+\1. When a question is erroneous and the correct answer therefore does not exist, the points for the question shall be given to every examinee in concern.
+
+\2. When a question may be flawed but the correct answer does exist or the answer announced is mistaken, regrading shall be conducted according to the correction.
+
+### Article 52
+
+When non-choice- question written field test questions are confirmed as erroneous or flawed, the following measures shall be taken:
+
+1.When a question or its sub-question is erroneous and thus making it impossible for examinees to answer, the said question or sub-question shall be discarded and the points it accounts for shall be transferred to other questions or other sub-questions of the question in concern.
+
+2.When a question may be flawed but it is still possible for examinees to give an answer, regarding shall be conducted according to the corrected criterion.
+
+### Article 53
+
+During a written or a field test, examinees having questions about the task assigned or the examination room of the assignment for the written test adopting an online test on a computer or the field test adopting a practical task, computer test, machine simulating test, system simulation test or other methods for technology development, characteristics of job category, shall raise the questions on the spot and shall be recorded by the invigilators or markers. Questions that have not been raised on the spot, and has been recorded shall not be processed afterwards.
+
+The questions described in the preceding paragraph shall be processed in accordance with Article 50.
+
+### Article 54
+
+If a candidate has any disagreement with the results of the written and/or field tests, he/she may, within ten days from the date of delivery of the transcripts, apply in writing or by electronic data transmission to the Central Competent Authority or to the unit in charge of the written and/or field tests for a review of the results.
+
+The date of the application shall be determined by the postmark or the time of completion of electronic data transmission, and the application will not be accepted after the deadline.
+
+Applicants are not allowed to request for re-checking, reviewing, or copying of answer sheets (cards) and assessment forms, providing scores for each item, or reference answers for field tests. Applicants are not allowed to ask for the name or information of the person who produces the questions, the person who supervises the assessment, or the person who supervises the examination.
+
+The review of the written and/or field tests mentioned in the first paragraph shall be limited to one time each.
+
+### Article 55
+
+The Central Competent Authority or the organization that administers the written and/or field tests shall handle any requests for review of the test-takers' scores in the following manner:
+
+\1. Regarding the results of the written and/or field tests, the applicant's answer card shall be retrieved, the applicant's test card number shall be verified, the applicant's mode of answering shall be checked for compliance with the regulations, and the applicant's scores shall be read once for each of the high and low sensitivities of the information equipment in order to ensure that there is no error in the score computation and registration.
+
+\2. If the written and/or field tests are conducted online, the applicant's computerized examination scripts (including the results of the answers) should be retrieved, the applicant's written and/or field tests number should be verified to ensure that it is correct, and the calculation of marks should be verified to be in accordance with the registration information.
+
+\3. Regarding the results of field tests, the applicant's answer sheet or assessment form should be retrieved, the applicant's admission card number should be checked in detail, and then the results of the application for rechecking should be checked, and the total of all calculations should be confirmed to be in accordance with the registered information.
+
+The Central Competent Authority or the organization that administers the written and/or field tests shall reply to the applicant with the results of the previous review and the scoring method for each category by letter or by electronic data transmission. Original answer sheets (answer cards) and photocopies shall not be provided to applicants. If the applicant is unable to be scored correctly due to non-compliance with the required methods or tools, the applicant shall be informed of the reason.
+
+### Article 56
+
+Applicants for score review may not have any of the conduct specified in Paragraph 2 of Article 54.
+
+## Chapter VIIII Handling of Incidental Events
+
+### Article 57
+
+Under one of the following circumstances, the person in charge of the certification administration agency conducting the test of invigilation or invigilators or markers shall extend the test time to make up for delays:
+
+1.The test is delayed due to negligence in test administration.
+
+2.Errors in test room assignment or related matters make examinees unable to arrive on time.
+
+3.The test have to be interrupted and continued elsewhere due to inappropriateness of the test site or equipment.
+
+4.Incidental events occur during field tests and temporary suspension is decided.
+
+When any of the circumstances described in the preceding paragraph can be attributed to examinees’ personal conduct, the test shall not be extended to make up for delays.
+
+### Article 58
+
+When a test is ended prior to the stipulated time, extra points in proportion to the amount of time examinees are deprived of shall be given, but those confirmed as having turned in their tests before the said incident shall not be given the said extra points.
+
+### Article 59
+
+If the written and/or field tests cannot be conducted due to natural disasters, changes, or emergencies such as power outages, typhoons, earthquakes, air raids, floods, fires, omission of test questions, loss of test questions, and so on, the following provisions shall apply:
+
+\1. If the aforementioned events occur before the test is held, the unit that administers the written and/or field tests shall report to the Central Competent Authority for a decision. If the test is to be held on another date, the unit shall announce the postponement of the test and notify the examinee.
+
+\2. In the event of the occurrence of the aforementioned events during the test, if the person in charge of the test administration unit determines that the test should be discontinued, he/she shall immediately notify the supervisor or the supervisor and assessor to take back all the answer sheets (answer cards) or complementary work. If the written and/or field tests adopt a written test instead of the pre-set questions of the test bank, if less than one-half of the time has elapsed, the test will be held at another time in accordance with the provisions of the preceding subparagraph; If more than one-half of the time has elapsed, the test will not be held at another time. The calculation of the examinee's score shall be handled in accordance with the provisions of the preceding article.
+
+\3. In the case of field tests, the test organizer will deal with the situation in the preceding subparagraph.
+
+\4. If it is necessary to hold the field tests on another day, the supervisors specially selected and appointed for the field tests shall not be subject to the restrictions set forth in Article 26, paragraph 1, subparagraphs 1 to 4.
+
+### Article 60
+
+When written or field tests cannot be conducted due to one of the situations described in the preceding article and the test needs to be held on another date the test shall be redesigned except if The Central Competent Authority rules out the possibility of leakage.
+
+### Article 61
+
+Test administrators who have cut, smeared or damaged answer sheets (cards) as a result of negligence shall make the indication on the test site record.
+
+### Article 62
+
+If the answer sheets (card) with the examinee’s answers is lost or damaged before the score is registered and the result is therefore impossible to calculate, the responsible certification administration agency shall present handling suggestions to The Central Competent Authority for approval.
+
+### Article 62-1
+
+Contingencies not stated by the regulations for its procedures with regards to written or field tests shall be subject for decision by the Central Competent Authority.
+
+## Chapter X Supplementary Provisions
+
+### Article 63
+
+The Central Competent Authority shall determine the formats of the documents specified in these Regulations.
+
+### Article 64
+
+The Regulations shall enter into force on the date of promulgation.
+
+Articles of the Regulations amended and promulgated on August 27th, 2019 shall take effective on July 1st, 2020. Articles of the Regulations amended and promulgated on April 29th, 2022 shall take effective on May 1st, 2022.
+
+## History
+
+\1. Drafted & promulgated by Council of Labor Affairs, Executive Yuan, Order No. 0920100400 on December 31 2003.
+
+\2. Amended & promulgated by Council of Labor Affairs, Executive Yuan, Order No. 0940100594 on December 30 2005.
+
+\3. Amended & promulgated Articles 8,9,18,23,26,29,35,36,38,40,42,47,48,53 and57 by Council of Labor Affairs , Executive Yuan, Order No. 0970100428 on December 26 2008
+
+\4. Amended & promulgated Articles12,13,15,17,24,25,26,27-1,30,30-1,33-1,34,34-1,35,36,36-1, 40,54,55 and 58 by Council of Labor Affairs, Executive Yuan, Order No. 0990100438 on November 24 2010
+
+\5. Amended and promulgated Articles 9, 10, 24, 27, 30, 30-1, 36-1, 39, 49, 49-1, 54, 55, 56, and 57 by the Council of Labor Affairs, Executive Yuan Order No. 1000100322 on November 18, 2011
+
+\6. Amended and promulgated Articles 6,7,8,9,14,17,18,21,23,25,26,29,30,36,36-1,50,54,55,59,60, and 62 by the Council of Labor Affairs, Executive Yuan Order No. 1020200147 on January 23, 2013
+
+\7. Amended and promulgated Articles 10、17、26、30、33-1、34-1、36-1、38、48,and 59 by the Council of Labor Affairs, Executive Yuan Order No. 1020204879 on January 10, 2014
+
+\8. Amended & promulgated Article 24 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1039800324 on December 19, 2014
+
+\9. Amended & promulgated Article 33-1 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1040515308 on December 11, 2015
+
+10.Amended & promulgated Article 22、23、27、27-1、33-1、34、35、36、36-1、39、41、48 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1060518210 on October 3, 2017
+
+11.Amended & promulgated Article 19、20、26、27、29、34、35、36、38、39、48、53、59、64 and added 62-1 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1080511011 on August 27, 2019
+
+12.Amended & promulgated Article 8、11、17、24、29、31、34、35、36、38、40～42、46～48、49-1、50、52～55、57、59 and Chapter VI title by MOL with Lao-Dong-Fa-Neng-Tzu No. 1100500049 on January 20, 2021
+
+13.Amended & promulgated Article 17、64 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1110506476 on April 29th, 2022；for implementation from May 1st, 2022
+
+14.Amended and promulgated Article 34、38、49 by MOL with Lao-Dong-Fa-Neng-Tzu No.1110527234 on January 11, 2023
+
+15.Amended and promulgated Article 3、7、17、25、49-1、54、55、59 and added 2-1 by MOL with Lao-Dong-Fa-Neng-Tzu No.1120516879 on November 2, 2024

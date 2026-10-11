@@ -1,0 +1,963 @@
+---
+title: "Regulations Governing Postal Simple Life Insurance Operations"
+title_zh: "郵政簡易人壽保險監督管理辦法"
+identifier: "G0390071"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞郵政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-12-31
+last_amended: 2025-11-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390071"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Postal Simple Life Insurance Operations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/G0390071-regulations-governing-postal-simple-life-insurance-operations.md](../../../zh/regulations/ministry-of-transportation-and-communications/G0390071-regulations-governing-postal-simple-life-insurance-operations.md)) is authoritative.
+
+## Chapter One General Principles
+
+### Article 1
+
+The regulations hereof are being established as mandated by Article 31 of the Simple Life Insurance Act (hereinafter referred to as “this Act”).
+
+### Article 2
+
+Insurance products as mentioned in the regulations hereof refer to products offered by Chunghwa Post Co., Ltd. (hereinafter referred to as “Chunghwa Post”) as mandated in Article 4 of this Act, including insurance clauses, applications, premiums and related information specified by the Financial Supervisory Commission（FSC）.
+
+### Article 3
+
+The sale of insurance products by Chunghwa Post, unless otherwise specified by the Insurance Act or unless a product has acquired special approval from the Ministry of Transportation and Communications (MOTC) and the FSC, shall comply with the regulations hereof.
+
+## Chapter Two Procedure Before the Sale of an Insurance Product
+
+### Article 4
+
+The procedure before an insurance product is put on the market is as follows:
+
+\1. Design: the research and development of an insurance product prior to submission for review.
+
+\2. Review: the design of the product is submitted to the MOTC for review and, if and when it is approved, passed on to the FSC for review.
+
+\3. Preparation for sale: the procedure after the review and before the commencement of the sale of the product.
+
+### Article 5
+
+The design procedure for an insurance product shall include the following:
+
+\1. Research and development.
+
+\2. Formal development: including drafting its clauses, risk control manuals, and its premium rates prospectus.
+
+\3. Preparing the submission for review.
+
+The design procedure as mentioned in the preceding paragraph shall be submitted to the MOTC for approval before being passed on to the FSC for reference; the same shall apply to any amendments.
+
+### Article 6
+
+Before being submitted for review by Chunghwa Post, the product shall be reviewed by an insurance product review panel. Minutes shall be made of each meeting, and the president of Chunghwa Post shall review the minutes before they are submitted to the MOTC and the FSC for review and approval.
+
+Either Chunghwa Post’s vice president (or positions of equivalent level) or a department head authorized by the vice president shall serve as the chairperson of the review panel as mentioned in the preceding paragraph, and resolutions shall be made by panel members who are relevant signatories or their agents.
+
+### Article 7
+
+During the research and development of an insurance product, Chunghwa Post shall precisely implement the following procedures:
+
+\1. Evaluate the appropriateness and legality of the product.
+
+\2. Evaluate the competitiveness of the rates.
+
+\3. Evaluate the feasibility of its system administration.
+
+\4. Evaluate its policy goals and establish feasible courses of action. There shall also be concrete ideas detailing professional duty of care, the prudent person rule, target markets, and consumer safeguards with regard to the design of the insurance product.
+
+\5. During the design of an insurance product, no false, fraudulent, or exaggerated claims about the performance of the insurance industry may be made, nor any other misleading behavior engaged in.
+
+\6. Evaluate the effectiveness of risk control mechanisms.
+
+\7. Evaluate the potential impact and adverse factors of the characteristics of insurance products on clients aged 65 and above, including the suitability for sale to clients aged 65 and above.
+
+### Article 8
+
+When drafting the insurance clauses during the formal development of an insurance product, Chunghwa Post shall precisely implement the following procedures:
+
+\1. That the clauses be drawn up in accordance with the design of the product.
+
+\2. That the meaning of the clauses is clear.
+
+\3. That the clauses are in compliance with relevant insurance law.
+
+\4. That the rights and obligations of the applicants, the insured and the beneficiaries are clearly set forth in accordance with the product characteristics as well as with all past complaints and arbitration and litigation cases involving in.
+
+\5. That adjustments are made to ensure legal compliance when an insurance product is introduced based on a foreign product.
+
+### Article 9
+
+When drafting the actuarial memorandum during an insurance product’s formal development stage, Chunghwa Post shall precisely implement the following procedures:
+
+\1. Establishing claim items and gathering information for rate making, as well as confirming that the referenced experience and data are related to premium rate making and complies with the following regulations, and that the premium rates are adequate, reasonable and fair. The rates shall reflect the cost of each item and reasonable profits. Chunghwa Post shall not solicit or conduct insurance business by offering unreasonable prices.
+
+(1) The referenced experience and data shall be based on statistical data from the past 3 to 5 years, focusing on domestic data. Experience and data from the company itself shall also be included in the evaluation. However, where there is no statistical data from the past 3 to 5 years, equivalent foreign data may be referenced to.
+
+(2) When domestic and foreign data is used to determine the predetermined risk occurrence rate, payment conditions and exclusions specified in the insurance clauses shall be taken into consideration.
+
+(3) When referring to domestic and foreign data, Chunghwa Post shall understand and obtain the original data, and shall not directly refer to the occurrence rate provided by the reinsurance company. Chunghwa Post shall also ensure complete consistency with the payment terms and conditions of the insurance clauses.
+
+\2. Determining age limits, insurance amount limits and types of premium payments.
+
+\3. Calculating premiums.
+
+\4. Calculating necessary reserves and setting policies for making changes to insurance contracts.
+
+\5. Examining the product’s pricing and assessing its risks.
+
+\6. Reinsurance evaluation.
+
+\7. Risk control mechanism.
+
+While examining the product’s pricing and assessing its risks as mentioned in subparagraph 5 of the preceding paragraph, Chunghwa Post shall precisely implement the following procedures:
+
+\1. Examining the reasonableness of its assumptions.
+
+\2. Examining the various profit indicators (including analysis on product profits, asset share or break-even point).
+
+\3. Examining the appropriateness of the risk assessment results (including the examination on all actuarial data and the sensitivity analysis).
+
+\4. Examining the consistency of the policy clauses and the actuarial memorandum.
+
+When developing and drafting a risk control manual for insurance products, Chunghwa Post shall at least include the evaluation of reinsurance arrangements, sales limit warnings, and control mechanisms, and shall state that the sales limit complies with the risk appetite of the company.
+
+### Article 10
+
+Before an insurance product is filed for review, the product should be signed off on by Chunghwa Post’s president or a department head authorized by the president as well as the required number of additional qualified signatories.
+
+The president shall assume joint liability for the actions of the department head he/she authorizes and be responsible for supervising the signatories.
+
+One person may not serve concurrently as two or more signatories as mentioned in paragraph 1.
+
+### Article 11
+
+The qualified signatories as mentioned in paragraph 1 of the preceding article refer to persons with the following qualifications who are designated by Chunghwa Post to signify responsibility by signing and thus facilitate the filing processes of its insurance products:
+
+\1. Underwriters who meet the qualifications set forth for underwriters as stated in Article 43.
+
+\2. Claim adjusters who meet the qualifications set forth for claim adjusters as stated in Article 44.
+
+\3. Actuaries who meet the qualifications set forth for actuaries as stated in Article 32.
+
+\4. Legal staff who meet one of the following five sets of qualifications:
+
+(1) Attorneys qualified to practice under the Attorney Regulation Act.
+
+(2) Those who have a degree from a department of insurance or law at a domestic junior college or higher educational institution and five years’ experience supervising insurance related legal affairs.
+
+(3) Those who have five years’ experience in charge of legal affairs at an insurance company.
+
+(4) Those who have eight years’ experience working in a legal department of an insurance company.
+
+(5) Educators who have taught insurance law in an insurance or law department of a domestic junior college or higher educational institution.
+
+\5. Investment personnel: directors of investment-related departments who have three years’ experience in financial, securities, or other investment fields here or abroad.
+
+\6. Insurance conservation personnel: directors in charge of the department handling amendments to insurance contracts or related conservation matters who have three years’ experience handling amendments to life insurance contracts and other related conservation matters here or abroad.
+
+\7. Risk management personnel: Supervisors of risk management related departments who have actually engaged in financial, investment, actuarial operation, underwriting, or risk management in the insurance industry domestically or internationally for at least 3 years.
+
+The department head authorized by the president as stated in paragraph 1 of the preceding article must have experience supervising insurance actuarial work as well as one year experience working in financial, securities, risk management, or other investment-related fields here or abroad.
+
+### Article 12
+
+When signing off on an insurance product, the president or the department head authorized by the president as well as the qualified signatories shall inspect carefully the factual accuracy, reasonableness, and legality of those for which they are responsible. They shall at least be responsible for the following items or areas:
+
+\1. The president or the department head authorized by the president shall be responsible for:
+
+(1) Description of insurance and declaration.
+
+(2) Declaration to the FSC.
+
+(3) The policy amendment form.
+
+(4) The correctness of the insurance product self-review form.
+
+(5) The application form.
+
+(6) The completeness of all mandatory filing components.
+
+(7) The compliance of the insurance product to applicable regulations.
+
+(8) That consumer safeguards are not negatively impacted.
+
+(9) That the product is in sync with the company’s business strategies and does not pose a potential threat to its current or future solvency.
+
+(10) The appropriateness of the product’s asset-liability allocation.
+
+\2. The underwriters shall be responsible for the following:
+
+(1) The provisions and declarations pertaining to underwriting listed in the declaration to the FSC.
+
+(2) The provisions pertaining to underwriting in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+(5) Risk control manual.
+
+\3. Claim adjusters shall be responsible for the following:
+
+(1) The provisions and declarations pertaining to claims adjustment listed in the declaration to the FSC.
+
+(2) The provisions pertaining to claims adjustment in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+\4. Actuaries shall be responsible for the following:
+
+(1) The provisions and declarations pertaining to actuarial work listed in the declaration to the FSC.
+
+(2) The provisions pertaining to actuarial work in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+(5) The actuarial memorandum and related statements.
+
+(6) The content of the asset-liability allocation plan.
+
+(7) The assessment and declaration of the actuaries.
+
+(8) The Regulations Governing the Financial Aspects of Participating Life Insurance Policies, the Regulations Governing Expense Apportionment and Income Distribution of Participating and Non-Participating Life Insurance Policies, and the Regulations Governing the Distribution of Dividends.
+
+(9) A statement of how the company shall respond in the event that the return on investment fails to reach the predetermined interest rate (applicable to insurance products with an insurance period exceeding one year).
+
+(10) A statement justifying the pricing.
+
+(11) An assessment on the product’s operational risks and risk tolerance.
+
+(12) Risk control manuals.
+
+\5. Insurance conservation personnel shall be responsible for the following:
+
+(1) The provisions and declarations pertaining to insurance conservation listed in the declaration to the FSC.
+
+(2) The provisions pertaining to insurance conservation in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+\6. Legal staff shall be responsible for the following:
+
+(1) The provisions and declarations pertaining to legal affairs listed in the declaration to the FSC.
+
+(2) The provisions pertaining to legal affairs in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+\7. Investment personnel:
+
+(1) The provisions and declarations pertaining to investment listed in the declaration to the FSC.
+
+(2) The provisions pertaining to investment in the insurance policy comparison table.
+
+(3) The application form.
+
+(4) The policy amendment form.
+
+(5) The content of the asset-liability allocation plan.
+
+(6) The statement of investment targets.
+
+(7) A statement of how the company shall respond in the event that the return on investment fails to reach the predetermined interest rate (applicable to insurance products with an insurance period exceeding one year).
+
+(8) The relationship between the product’s asset allocation plan and assumed interest rate.
+
+(9) An assessment of the product’s investment risks and risk tolerance.
+
+(10) Risk control manuals.
+
+\8. Investment personnel:
+
+(1) The declaration to the FSC.
+
+(2) The policy amendment form.
+
+(3) The appropriateness of the product’s asset-liability allocation.
+
+(4) Verify the impact of insurance product risks and sales volume on risk appetite, and evaluate whether the risk management plan is within the acceptable risk appetite of the company.
+
+(5) A statement of how the company shall respond in the event that the return on investment fails to reach the predetermined interest rate (applicable to insurance products with an insurance period exceeding one year).
+
+(6) The relationship between the product’s asset allocation plan and assumed interest rate.
+
+(7) Risk control manuals.
+
+### Article 13
+
+The insurance product signatories shall attend at least 15 hours of insurance related professional training offered by an institute designated or recognized by the FSC each year.
+
+The insurance product signatories who fail to complete the required hours of professional training as mentioned in the preceding paragraph by the end of the year may not sign off on insurance products for Chunghwa Post during the following year.
+
+The institute designated by the FSC as mentioned in the first paragraph shall submit its course content and assessment standards to the FSC for approval and reference each year.
+
+### Article 14
+
+Any given insurance product shall complete its review procedure in one of the following manners, unless otherwise specified by the FSC:
+
+\1. Review and approval: insurance products shall be submitted by Chunghwa Post to the MOTC for approval before being passed on to the FSC for approval. For insurance products requiring approval from the FSC, the approval shall be obtained prior to the sale.
+
+\2. Submission of paperwork for reference: insurance products requiring no approval from the MOTC and subsequently the FSC may go on sale directly. However, Chunghwa Post must submit information required to the MOTC, the FSC or a designated organization for reference within 15 working days of the commencement of sales.
+
+Regarding the insurance products referred to in Subparagraph 1 of the preceding paragraph, the FSC shall make a reply within 40 working days starting from the day when the application and all relevant documents are received and issue a review result within 75 working days.
+
+If the insurance products submitted by Chunghwa Post, which are referred to in Subparagraph 1 of Paragraph 1, fail to obtain approval by the FSC and are submitted again for approval within 30 days from the date of denial, the FSC shall make a reply within 25 working days starting from the day when the application and all relevant documents are received and issue a review result within 45 working days. In such cases, the provisions of the preceding paragraph shall not be applicable.
+
+Unless otherwise agreed upon by the FSC, all insurance products offered by Chunghwa Post shall have paperwork submitted for review and approval.
+
+### Article 15
+
+When filing an insurance product for review, Chunghwa Post shall do so in accordance with the following: applicable acts and regulations; directions for insurance product review as adopted by the FSC; and practice principles, self-regulatory rules or codes of professional conduct adopted by domestic professional societies (associations) or other relevant entities designated or commissioned by the FSC.
+
+Chunghwa Post shall submit the necessary documents (both hard and digital copies) as required by the FSC or any FSC-designated institution to the FSC or the designated institution for review and for establishing an insurance product database.
+
+The hard and digital copies mentioned in the preceding paragraph shall be prescribed by the FSC.
+
+After an insurance product has been approved and recorded by the FSC, the FSC may disclose relevant information to the public. Such information shall contain at least the following:
+
+\1. Insurance product descriptions.
+
+\2. Policy clauses.
+
+\3. Application forms.
+
+\4. Rate charts (explanations of the premiums shall be provided in the absence of rate charts). This does not apply to products that have secured the FSC’s approval.
+
+\5. A roster that includes the president or a department head authorized by the president as well as the required number of qualified signatories.
+
+\6. Other information prescribed by the FSC.
+
+### Article 16
+
+The MOTC or the FSC may return Chunghwa Post’s insurance product filing without review or order Chunghwa Post to suspend sale under any of the following situations (except for circumstances specified in Subparagraphs 8 and Subparagraphs 10 to 12 hereof), and make a public announcement of the same:
+
+\1. The content is not compliant with applicable legal requirements in a material manner.
+
+\2. The product has not been signed off on by the president, a department head authorized by the president or the required numbers of qualified signatories.
+
+\3. The filing contains a major error or misses an important filing component.
+
+\4. The filing contains false information.
+
+\5. A false or materially erroneous statement is made by the president, a department head authorized by the president, or any of the signatories.
+
+\6. Sales have commenced without observing the provisions of Article 14, Paragraph 1 or Article 18 Paragraph 1.
+
+\7. The company fails to follow correct filing procedures.
+
+\8. The company fails to submit all mandatory filing components as set forth in Article 15, paragraph 2, or some of these components are incomplete, and additions or revisions are not made within a prescribed time period.
+
+\9. The company fails in a material manner to observe the provisions of Article 6, Subparagraph 1 of Paragraph 1 of Article 9, Article 19, Article 21, or Article 22.
+
+\10. In the event that insurance products are submitted to the MOTC for approval before being passed on to the FSC for review and approval in accordance with Subparagraph 1 of Paragraph 1 of Article 14 and the FSC asks in writing for revisions or additions which are not forthcoming within 65 working days starting from the day that the submission package is received by the FSC.
+
+\11. Revisions or additions are requested by the FSC for insurance products submitted in accordance with Article 14, paragraph 3, but not completed within 35 working days starting from the day that the submission package is received by the FSC.
+
+\12. An insurance product submitted for review and approval in accordance with Paragraph 2 or 3 of Article 14, has been rejected for a total of three times.
+
+Where the situation set out in subparagraph 6 of the preceding paragraph applies with respect to an insurance product, the FSC may impose punishments in accordance with Article 37 herein.
+
+In the event of the situation set out in Subparagraph 7 of Paragraph 1 for an insurance product, if the FSC has determined that the violation is minor, it may order Chunghwa Post to submit the product under a different review procedure, and may order a sales suspension of the insurance product in question until the company has completed resubmission procedures.
+
+### Article 17
+
+Chunghwa Post shall submit its insurance product filing to the FSC for approval within the limits that the FSC sets forth.
+
+In the event that a filing as mentioned in the preceding paragraph is still under review by the FSC or the FSC has requested Chunghwa Post to make additions or revisions to a filing, and the total number of such products has exceeded the limit set by the FSC, the filing will be returned without review by the FSC.
+
+### Article 18
+
+In the event that an approved insurance product has made changes to its policy clauses, application forms, actuarial memorandums or pricing, such changes shall be subject to the procedures for Submission of paperwork for reference set out in these Regulations unless the FSC determines that the changes are significant or the renewal rate is increased for guaranteed renewal, in which case the provisions of Subparagraph 1 of Paragraph 1 of Article 14 shall govern. The preceding paragraph does not apply unless otherwise specified by the FSC.
+
+When increasing the renewal premium rate for personal health insurance products that are guaranteed to be renewed, Chunghwa Post shall follow Item 1, Paragraph 1, Article 9, and shall deliver a notice to the policyholder three months before the new premium rate is charged, stating that the product is guaranteed to be renewed without guarantee of the premium rate, as well as the rate adjustment content, and assign personnel or a dedicated person to clarify the details by phone call. However, if the policyholder is provided such details during the sale of a new contract or after underwriting with proof retained, it is not necessary to do so.
+
+The rate adjustment referred to in the preceding paragraph includes the new rate, reasons for rate adjustment, timing of premiums calculation based on the new rate, and handling of objections from the policyholder regarding rate adjustment.
+
+The audit unit of Chunghwa Post shall verify and confirm whether the regulations on rate adjustment referred to in the three preceding paragraphs are implemented for the increase of premium rate for renewal of personal health insurance products. Rates shall be adjusted only after the Auditor General issues a statement.
+
+### Article 19
+
+Before an insurance product is put on the market, Chunghwa Post shall call a product management panel meeting to review the following:
+
+\1. Disclosure of product information.
+
+\2. Verification of actuarial data and putting them on line.
+
+\3. Risk management mechanism and arrangement of reinsurance.
+
+\4. Setting up and testing of information systems.
+
+\5. The printing of such documents as policy clauses, application forms, rate charts and brochures.
+
+\6. Educational training, including training salespersons to understand whether the insurance products are suitable for sale to clients aged 65 and above, and to identify unsuitable sales targets and client characteristics.
+
+Chunghwa Post shall review and confirm the consistency between the items listed in the preceding paragraph and the evaluation results referred to in Paragraph 7, Article 7 in accordance with the same paragraph.
+
+Minutes of the meetings that include the results of the reviews as mentioned in the two preceding paragraphs shall be kept for future reference. The president of Chunghwa Post shall review these minutes before they are submitted to the MOTC and the FSC for review and approval.
+
+Chunghwa Post’s vice president (or positions of equivalent level) or a department head authorized by the vice president shall serve as the chairperson of the product management panel as mentioned in the first paragraph.
+
+### Article 20
+
+After an insurance product has been put on the market, Chunghwa Post shall convene an insurance product management meeting at least once every six months to review the following product-related matters, take responding measures and make necessary adjustments:
+
+\1. Its compliance with applicable laws and regulations.
+
+\2. Its consumer protection measures, including more review and evaluation of adverse effects of insurance products on the rights and interests of customers aged 65 and above based on past policyholder dispute cases, any situations where product suitability has not been implemented, or any violation of the principle of fair hospitality.
+
+\3. Its business strategies regarding the insurance product and the potential impacts of the product on its current or future solvency.
+
+\4. The appropriateness of the product’s asset-liability allocation. For life insurance products with an insurance period exceeding one year, implementation of asset allocation schemes shall be included.
+
+\5. Analysis of the pricing reasonableness of insurance products shall include the adequacy of the premium (loading rate). Furthermore, pricing rationality analysis shall be conducted in accordance with the analysis methods prescribed by the FSC. For cases where the rate is insufficient due to deterioration of practical experience incidence, or where the rate is higher due to improvement of practical experience incidence, specific response measures shall be developed.
+
+\6. Analysis of the concentration risk of various types of insurance products
+
+\7. The deviations as considered by the FSC to be significant between the actuarial assumption for review (including the lapse rate and the new money rate) and the actual after-sale experience in respect of the major life insurance products.
+
+\8. Tracking of sales quota for insurance products.
+
+\9. Analysis of the effectiveness of reinsurance arrangements for insurance products. If the arrangements are not effective after sale, specific response measures shall be developed.
+
+\10. Any other items designated by the FSC.
+
+When the sales volume of insurance products reaches the warning value or sales limit, Chunghwa Post shall promptly have the insurance product management team convene a meeting to discuss response measures to be taken.
+
+Settlements based on the decisions made at the meetings of the insurance product management team referred to in the preceding two paragraphs shall be submitted to the upcoming meeting of the board of directors.
+
+Chunghwa Post shall submit an overall evaluation report to the board of directors on the impact of insurance product sales on the company’s finances, service, and solvency on a yearly basis.
+
+### Article 21
+
+Where it is necessary to make changes to an insurance product in order to comply with the revisions to applicable laws or regulations, Chunghwa Post shall, unless otherwise stipulated by these laws or regulations, make the necessary changes and file a memorandum to the insurance product database established by the FSC or an institution it commissions within 45 working days from the date the revisions to the laws or regulations become effective. Article 18 herein does not apply.
+
+### Article 22
+
+When asked to attend (or observe) an insurance product screening meeting convened by the FSC or a professional institution it commissions, Chunghwa Post shall send at least one executive with a thorough understanding of the product to attend (or observe) the meeting. Before attending the meeting, the company’s representatives shall carefully read the meeting materials. After the meeting, these representatives shall submit a written report detailing all the material controversies and the main conclusions of the meeting to the insurance product review panel as well as a copy to the president for review.
+
+### Article 23
+
+In the event Chunghwa Post errs in one of the following ways, the FSC may, depending on the seriousness of the offense, prohibit Chunghwa Post from filing for approval or submission of paperwork for reference for an insurance product in accordance with Paragraph 1 of Article 14 herein within one year, and a public announcement about the matter shall be made. This article does not apply to insurance products that are being amended in order to comply with the changes in applicable laws or regulations or when prior approval has been granted by the FSC.
+
+\1. Chunghwa Post fails to suspend its sales of an insurance product when it is ordered by the FSC to do so.
+
+\2. A signatory continues to sign off for Chunghwa post after being disqualified by the FSC.
+
+\3. Three times or more within the past year, the FSC has confirmed the occurrence of a circumstance set out in the subparagraphs under Paragraph 1 of Article 16. However, a minor violation stated in Subparagraph 7 of Paragraph 1 of Article 16, when the FSC has dealt with the matter in accordance with Paragraph 3 of Article 16, is not subject to the limits.
+
+\4. Within the past year, the FSC has assessed a cumulative total of 15 or more violation points for insurance products that Chunghwa Post’s signatories have signed off on behalf of Chunghwa Post.
+
+### Article 24
+
+Where any one of the following situations applies with respect to an item for which a signatory bears responsibility as mentioned in Article 12, the FSC may, depending on the seriousness of the offense, assess from one to three violation points and disclose the same to the insurance industry for a period of three years:
+
+\1. The content on which a signatory has signed off on is not compliant with applicable laws in a material manner.
+
+\2. There are major discrepancies between the content or format of what was submitted and the filing requirements.
+
+\3. The content contains a major error or misses an important filing component.
+
+\4. The filing contains false information.
+
+\5. The filing contains a false or wrong statement.
+
+\6. The content on which a signatory has signed off on is in material violation of directions for insurance product review adopted by the FSC.
+
+\7. The content fails to meet the practice principles and self-regulatory rules or codes of professional conduct in a material manner by domestic professional societies (associations) or other relevant entities designated or commissioned by the FSC.
+
+Where there are a large number of errors or clear defects within a prescribed time period in the contents signed off on by an insurance product signatory, the FSC may, depending on the severity of the circumstances, assess from one to three violation points and disclose same to the insurance industry for a period of three years.
+
+If an insurance product signatory has been assessed a cumulative total of three violation points by the FSC within the past three years, the FSC may prohibit the signatory from signing off on insurance products for six months and make public announcement of the same.
+
+Where a domestic professional society (association) designated or authorized by the FSC, or another relevant entity, to which the signatory belongs, has suspended or restricted the signatory’s membership status due to the situation set out in Subparagraph 7 of Paragraph 1, the FSC may, depending on the severity of the circumstances, prohibit the signatory for a period of one year or less from signing off on insurance products. A public announcement of the same shall be made.
+
+## Chapter Three The Qualifications of the Persons Responsible
+
+### Article 25
+
+The persons responsible for the simple life insurance operations of Chunghwa Post as mentioned in the regulations hereof include the following:
+
+\1. Board members and corporate supervisors of Chunghwa Post.
+
+\2. President of Chunghwa Post.
+
+\3. The chief auditor, the vice president and directors supervising simple life insurance and its financial matters (or positions of equivalent level).
+
+\4. Directors of Chunghwa Post’s Simple Life Insurance, director of the Department of Capital Operations and director of the Department of Property Operations.
+
+\5. Managers of post office branches of all levels at Chunghwa Post.
+
+### Article 26
+
+The responsible person for the simple life insurance business of Chunghwa Post must have good moral character and must not be in any of the following situations. A responsible person having taken office to whom any of the following descriptions applies shall be dismissed:
+
+\1. Legally incompetent persons or legally quasi-incompetent persons.
+
+\2. Persons who have been convicted of breaking the Organized Crime Prevention Act.
+
+\3. Persons convicted of counterfeiting currency, counterfeiting valuable securities, embezzlement, fraud or breach of trust and sentenced to imprisonment who are either not yet in prison or have not started serving, are still in prison or were released from prison, on probation or pardoned within the last 10 years.
+
+\4. Persons found guilty of forgery, invasion of privacy, usury, preventing people from collecting debts owed them, or breaking provisions in the Tax Act, Commercial Label Act, the Copyright Act or other acts or regulations governing industry and commerce and sentenced to imprisonment who are either not yet in prison or have not started serving, still in prison or who were released from prison, on probation or pardoned within the last 5 years.
+
+\5. Persons convicted of corruption and sentenced to imprisonment who are either execution of the sentence has not started serving, still in prison or who were released from prison, on probation or pardoned within the last 5 years.
+
+\6. Persons convicted of breaking provisions of this Act, Insurance Act, Banking Act, Financial Holding Company Act, Trust Enterprise Act, the Act Governing Bills Finance Business, Financial Asset Securitization Act, Real Estate Securitization Act, Securities Transaction Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Foreign Exchange Management Act, Credit Cooperative Act, the Agricultural Finance Act, the Farmers Association Act, the Fishermen’s Association Act, Money Laundering Control Act, Postal Act or other financial regulations who were sentenced to imprisonment and are either execution of the sentence has not started serving, still in prison or were released from prison, on probation or pardoned within the last 5 years.
+
+\7. Persons who have declared bankruptcy and have not yet restored the rights they lost.
+
+\8. Persons who have served as the person-in-charge of a juridical person (corporation) at the time it declared bankruptcy if the bankruptcy was finalized within the last 5 years or the juridical person did not fulfill the promises made during bankruptcy negotiations.
+
+\9. Persons who have been denied services at a bank for bouncing checks or misusing other negotiable instruments, or persons for whom said services were restored but are on record for bouncing checks due to insufficient funds within three years after the restoration of said services.
+
+\10. Persons who have suffered or are responsible for a major loss of credit standing, whether resolved or not, within the last 5 years.
+
+\11. In violation of this Act, Insurance Act, Banking Act, Financial Holding Company Act, Trust Enterprise Act, the Act Governing Bills Finance Business, Financial Asset Securitization Act, Real Estate Securitization Act, Securities Transaction Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Foreign Exchange Management Act, Credit Cooperative Act, the Agricultural Finance Act, the Farmers Association Act, the Fishermen’s Association Act, Postal Remittances and Savings Act or other financial regulations and have been ordered to be replaced or dismissed by the FSC within the last 5 years.
+
+\12. Persons who have been forced labor on account of larceny or stolen property who are still serving their sentences or who have been released within the last 5 years.
+
+\13. Persons who serve as the person-in-charge of other insurance companies, financial holding companies, banks, trust and investment companies, credit cooperatives, the credit departments of farmers’ associations or fishermen’ s associations, bills finance corporations, brokerages, securities and finance firms, securities investment trust companies, investment consulting companies or futures brokerages. However, if Chunghwa Post has an investment stake in these companies, a Chunghwa Post chairperson or senior executive may not serve in the same capacity but may, with the approval of the MOTC and the FSC, serve as a board member or corporate supervisor of a bank or the person-in-charge of other institutions.
+
+\14. Persons that evidence shows have engaged in or been involved in other dishonest or improper activities and are demonstrating unsuitability to serve as a responsible person of simple life insurance business.
+
+### Article 27
+
+Chunghwa Post’s chief auditor, vice president and directors supervising the simple life insurance business and its financial matters (or positions of equivalent level), as well as the director of the Life Insurance department, the director of the Capital Operations department, Director of the Department of Property Operations department and the managers of the special supervisory post offices, must have good moral character and possess one of the following qualifications:
+
+\1. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level, or a passing mark on the senior-level civil service exam or equivalent exam; 12 years’ experience working in postal administration with a good job record; completion of coursework in insurance and auditing, with a combined total of at least 40 hours of classroom time, for which certificates from a professional training facility recognized by the MOTC and the FSC are obtained.
+
+\2. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level; 5 years’ experience working in insurance companies and 3 years’ experience working at the level of assistant manager or above or a similar position in the headquarters of an insurance company with a good job record.
+
+### Article 28
+
+Managers of first-grade and second-grade supervisory regional post offices of Chunghwa Post must have good moral character and possess one of the following qualifications:
+
+\1. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level, or a passing mark on the senior-level civil service exam or equivalent exam; 8 years of experience working in postal administration with a good job record; completion of coursework in insurance and auditing, with a combined total of at least 30 hours of classroom time and graduation certificates from a professional training facility recognized by the MOTC and the FSC.
+
+\2. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level; 3 years’ experience working in insurance companies and 2 years’ experience working as a junior manager or above or having a similar position in the headquarters of an insurance company with a good job record.
+
+### Article 29
+
+Chunghwa Post shall submit a report for reference to the MOTC and the FSC of the persons filling post of chief auditor within 10 days from the date on which the post is filled. If a person filling a post is not qualified as mandated in the regulations hereof, that person shall be dismissed.
+
+### Article 30
+
+The board members of Chunghwa Post (including a chairperson) shall have good morals and shall meet one of the following four sets of qualifications:
+
+\1. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level ,or a passing mark on the senior-level civil service exam or equivalent exam; 12 years’ experience working in postal administration with a good job record; completion of coursework in insurance and auditing, with a combined total of at least 40 hours of classroom time and graduation certificates from a professional training facility recognized by the MOTC and the FSC.
+
+\2. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level; 10 years’ experience working in insurance companies and 3 years’ experience working as a manager or above or a similar position in the headquarters of an insurance company with a good job record.
+
+\3. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma at that level; 5 years’ experience working in postal administration or insurance administration with a good job record; having held an intermediate level position of grade 8 or above, or a position of similar rank with a good job record.
+
+\4. Other experiences or facts that sufficiently indicate leadership quality, professional knowledge or operational experiences in the simple life insurance business which indicate that the person is able to run the simple life insurance business of Chunghwa Post efficiently (as approved by the FSC beforehand).
+
+### Article 31
+
+If the FSC has doubts about the qualifications of a person-in-charge of the simple life insurance business at Chunghwa Post, the MOF may notify Chunghwa Post to submit necessary documentation or information or to send someone to explain within a certain timeframe.
+
+## Chapter Four The Management of Actuaries
+
+### Article 32
+
+To ensure a sound operation of postal simple life insurance business, Chunghwa Post shall appoint one of the hired actuaries as the Appointed Actuary.
+
+The Appointed Actuary provided in the preceding paragraph shall have all of the following qualifications:
+
+\1. The qualifications of an actuary.
+
+\2. Five years’ experience of actuarial work in the field of insurance.
+
+\3. Coursework completed in the professional ethics of a valuation actuary from a training facility designated or recognized by the FSC.
+
+An external reviewing actuary (hereinafter referred to as “reviewing actuary”) shall be appointed only after serving as an Appointed Actuary for at least 5 years. However, those who have served as reviewing actuaries before January 16, 2024 are not subject to this restriction.
+
+Actuaries referred to in Paragraph 1 and subparagraph 1 of Paragraph 2 to a professional working as an insurance actuary and meet one of the following conditions:
+
+\1. Fellow of a domestic actuarial institute (society) recognized by the FSC.
+
+\2. Actuaries who have passed an actuary exam and obtained a certificate from a domestic insurance academic institute recognized by the FSC.
+
+\3. Actuaries who have registered with the FSC as an actuary before the enforcement of the regulations hereof.
+
+### Article 33
+
+Anyone who falls into any of the following categories shall be unqualified to assume the post of an Appointed Actuary or reviewing actuary, and if the person has assumed such post, he/she shall be dismissed:
+
+\1. Legally incompetent persons or legally quasi-incompetent persons.
+
+\2. Persons who have been convicted of rebellion or treason.
+
+\3. Persons convicted of forgery, embezzlement, fraud or breach of trust and sentenced to imprisonment who are either still in prison or were released from prison, on probation or pardoned within the last 10 years.
+
+\4. Persons convicted of corruption and sentenced to imprisonment who are either still in prison or who were released from prison, on probation or pardoned within the last 5 years.
+
+\5. Persons convicted of breaking provisions of this Act, Insurance Act, Banking Act, Securities Transaction Act, Futures Trading Act or Foreign Exchange Management Act who were sentenced to imprisonment and are either still in prison or were released from prison, on probation or pardoned within the last 5 years.
+
+\6. Persons who have suffered or are responsible for a major loss of credit standing, whether resolved or not, within the last 5 years.
+
+\7. Persons who have declared bankruptcy and have not yet restored the rights they lost.
+
+\8. Persons who have violated the Insurance Act and been revoked by insurance company over the past five years
+
+\9. Persons that evidence shows have engaged in or been involved in other dishonest or improper activities and are therefore unfit to serve as a valuation actuary.
+
+\10. The relationship among the reviewing actuary, his/her employer, or Chunghwa Post meets the conditions of a same party, a same related party, or a same related enterprise as regulated in Paragraph 2 of Article 146-7 of the Insurance Act.
+
+\11. A reviewing actuary works concurrently as an Appointed Actuary of Chunghwa Post or is in the same company or the same related company with the Appointed Actuary.
+
+The vice president (or positions of equivalent level) or Director of the Department of Life Insurance may not serve as a valuation actuary at the same time.
+
+### Article 34
+
+The appointment of an Appointed Actuary appointed by Chunghwa Post shall be first approved by more than half of the attendance in the meeting of the board directors which shall be attended by more than half of the board members of Chunghwa Post. The same shall apply to termination of appointment.
+
+After appointing an Appointed Actuary or the reviewing actuary, Chunghwa Post shall submit the following documents to the MOTC and the FSC for review:
+
+\1. The application for appointment.
+
+\2. The minutes of the meeting of the board of directors relating to the approval for assignment or appointment.
+
+\3. The certificates substantiating that an Appointed Actuary or reviewing actuary meets the qualifications set forth under Paragraph 3 of Article 32.
+
+\4. A statement stating that an Appointed Actuary or reviewing actuary has not been in the circumstances set forth in Article 33.
+
+\5. A letter of authorization issued by the board of directors pursuant to Article 38.
+
+Upon termination of an Appointed Actuary, Chunghwa Post shall submit a written statement to the MOTC and the FSC to report the reasons for the termination and appoint a new Appointed Actuary within three months.
+
+### Article 34-1
+
+Chunghwa Post shall appoint a reviewing actuary to be responsible for signing the report review items designated by the FSC.
+
+Chunghwa Post shall not appoint a reviewing actuary with any of the following circumstances. Those who have already been appointed shall be dismissed:
+
+\1. Those who have been appointed for two consecutive times for review in accordance with Paragraph 1, Article 36.
+
+\2. Those who worked as an Appointed Actuary for Chunghwa Post within the past 3 years.
+
+The appointment of a reviewing actuary shall be subject to the approval of the board of directors of Chunghwa Post with the attendance of more than half of directors and the consent of more than half of attending directors.
+
+After appointing a reviewing actuary, Chunghwa Post shall submit the following documents to the MOTC and the FSC for reference:
+
+\1. The application for appointment.
+
+\2. The minutes of the meeting of the board of directors relating to the approval for assignment or appointment.
+
+\3. The certificates substantiating that an Appointed Actuary or reviewing actuary meets the qualifications set forth under Paragraph 3 of Article 32.
+
+\4. A statement of absence of any circumstances specified in Paragraph 1, Article 33, compliance with the requirements specified in Paragraph 2, and independence of the certified public accountant of Chunghwa Post.
+
+\5. A letter of authorization issued by the board of directors pursuant to Article 38.
+
+Chunghwa Post shall appoint a reviewing actuary for the period specified in the contract. If the appointment is terminated, Chunghwa Post shall report the reasons for termination in writing to the MOTC and the FSC, and make a new appointment within 3 months.
+
+### Article 34-2
+
+Chunghwa Post shall establish a system and appoint personnel for actuarial affairs to assist in the provision, establishment and maintenance of data required by the Appointed Actuaries or reviewing actuaries; and shall cooperate with the handling of actuarial affairs, and implement continuous education, training or development plans for actuaries to enhance their quality.
+
+### Article 35
+
+The Appointed Actuary shall submit a signing report to the FSC on the following items on the date designated by the FSC each year:
+
+\1. Determination of premium rates: Actuaries shall regularly review the premium rates of simplified life insurance products on sale, and propose appropriate adjusted rates or other feasible measures if the premium rates lack fairness, reasonableness, or adequacy.
+
+\2. Reserve accounting: The Appointed Actuaries shall ensure that reserves and actuarial assumptions made by Chunghwa Post in accordance with Regulations Governing Enrollment in Postal Simple Life Insurance Policies are reasonable, and reasonably ensure that the reserves are sufficient to meet future payment needs of the policy. Where there is insufficient deposit, the Appointed Actuary shall recommend response measures to Chunghwa Post.
+
+\3. Policy dividend distribution: The Appointed Actuaries of Chunghwa Post shall recommend an appropriate policy dividend distribution scheme before the distribution of policy dividends each year.
+
+\4. Investment decision evaluation: The Appointed Actuary shall provide professional analysis and opinions on the coordination and impact of investments in Postal Simple Life Insurance on its assets and liabilities, which shall serve as a reference for investment decision making.
+
+\5. Assessment of solvency: Appointed Actuaries should evaluate the financial solvency of Postal Simple Life Insurance annually based on different assumed economic conditions and environments.
+
+\6. Any other items designated by the FSC.
+
+### Article 36
+
+Chunghwa Post shall submit a review report to the FSC on the signing report for the past year and review items specified by the FSC on the designated date based on the following review conditions and frequency:
+
+\1. A review shall be conducted annually on the capital level that fails to meet the conditions of capital adequacy as defined in Article 143-4 of the Insurance Law in the past two years.
+
+\2. A review shall be conducted every three years on the capital level that meets the conditions of capital adequacy as defined in Article 143-4 of the Insurance Law in the past two years.
+
+The FSC may adjust the review frequency referred to in the preceding paragraph based on the quality of the signing report, compliance with the laws and regulations on deposit of reserves, and business distribution, and may designate additional years and items for review as necessary.
+
+The review report in paragraph 1 should include the relevant items and scope as required by the FSC.
+
+### Article 37
+
+While on duty, should the valuation actuary find that the operation of the postal simple life insurance business is likely to cause or has already had a big negative impact on the company’s financial situation, the valuation actuary shall report to the president in writing immediately and make recommendations on measures to improve the situation within a certain time. If the situation is not improved within certain time, the valuation actuary shall report to the board of directors in writing. If the situation is serious, the valuation actuary shall report to the MOTC and the FSC immediately.
+
+After completing the Appointed Actuary’s report, the Appointed Actuary shall submit the report, together with the relevant proposals to the board of directors of Chunghwa Post. If necessary, the board of directors or the FSC may request the Appointed Actuary give an oral explanation of the contents of such submission.
+
+After completing the peer review report, the reviewing actuary shall submit the copy of the report to Chunghwa Post and its Appointed Actuary for reference. Then, the Appointed Actuary shall submit the result of the review assessment to the board of directors of Chunghwa Post. If necessary, the board of directors or the FSC may request the reviewing actuary give an oral explanation of the contents of such submission, and the Appointed Actuary shall attend.
+
+Chunghwa Post shall, within fifteen days after each of the board meetings referred in the preceding three paragraphs, submit the respective meeting minutes to the FSC for recordation.
+
+### Article 37-1
+
+The Appointed Actuary and reviewing actuary shall handle signing and review services in accordance with insurance laws and relevant principles on actuarial practice.
+
+The actuarial practices principles referred to in the preceding paragraph shall be developed by domestic actuarial societies (associations) or other relevant units designated or commissioned by the FSC.
+
+### Article 38
+
+The board of directors of Chunghwa Post should authorize the valuation actuary to be allowed to make the following demands in the performance of his/her duties:
+
+\1. The valuation actuary may demand the persons responsible for or the employees of the postal simple life insurance business to provide accurate information or documents as well as to answer questions relating to his/her valuation works.
+
+\2. In regard to related questions about the solvency of the postal simple life insurance business, the valuation actuary may attend meetings at Chunghwa Post in which important decisions are made and express his/her opinions.
+
+The board of directors of Chunghwa Post shall authorize the reviewing actuary to request the Appointed Actuary or related staff to provide correct information or documents associated with his/her reviewing procedures and to answer relevant questions.
+
+### Article 39
+
+The Appointed Actuary or reviewing actuary shall comply with the code of professional ethics developed by their actuarial societies (associations) or that developed by domestic insurance academic institutions recognized by the FSC. The Appointed Actuary or reviewing actuary shall avoid the following circumstances in their signing or review:
+
+\1. The signing report or review report contains items that should be clarified to avoid misunderstandings, but are unaccounted for.
+
+\2. The signing report or review report contains falsehoods, omissions, or errors, which are not disclosed or corrected.
+
+\3. Methods inconsistent with insurance laws and actuarial practice principles are adopted, which are not disclosed.
+
+### Article 40
+
+In any of the following circumstances, an Appointed Actuary or reviewing actuary shall refuse to perform certification:
+
+\1. Where Chunghwa Post intends to mislead him or her to make a false or improper certification.
+
+\2. When Chunghwa Post intentionally refuses to provide necessary information.
+
+\3. Where he or she is unable to make a fair, detailed, and true certification due to wrong-doings committed by Chunghwa Post.
+
+### Article 41
+
+An Appointed Actuary or reviewing actuary shall, on a regular basis, attend the training programs designated or recognized by the FSC and obtain certificates proving that he/she has passed. And shall be filed with the FSC together with the Appointed Actuary’s report or the peer review report for recordation. An Appointed Actuary or reviewing actuary, who fails to obtain the completion certificate for each of the aforesaid training programs which shall be attended in a specific period, shall not perform any certification for Chunghwa Post.
+
+### Article 42
+
+In the case that an Appointed Actuary or reviewing actuary has violated this Act or the regulations hereof, the FSC may give him/her warning or revoke his/her qualifications for certification for 3 years, depending on the seriousness of the offense, and may order Chunghwa Post to replace the offending actuary.
+
+## Chapter Five The Qualification of Underwriters and Claims adjusters
+
+### Article 43
+
+Underwriters of postal simple life insurance shall meet one of the following five sets of qualifications:
+
+\1. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level, or a passing mark on the senior-level civil service exam or equivalent exam; completion of coursework in insurance-related subjects, with a total of at least 120 hours of classroom time; four years work experience in assisting underwriters.
+
+\2. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma at that level; five years’ work experience assisting underwriters.
+
+\3. Work experience as a postal life insurance claims adjuster including at least one year of experience assisting underwriters.
+
+\4. A qualification that is the equivalent of an insurance underwriter qualification from a domestic or overseas insurance association, insurance research institute or a government registered insurance professional institute and have one year of experience assisting underwriters.
+
+\5. A qualification certificate for an insurance underwriter acquired before the implementation of the regulations hereof.
+
+### Article 44
+
+Claims adjusters of postal simple life insurance shall meet one of the following five sets of qualifications:
+
+\1. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma of that level, or a passing mark on the senior-level civil service exam or equivalent exam; completion of coursework in insurance-related subjects, with a total of at least 120 hours of classroom time; four years work experience in assisting claims adjusters.
+
+\2. A degree from a domestic or overseas junior college or higher-level educational institution, or an equivalency diploma in that level; five years’ work experience assisting claims adjusters.
+
+\3. Work experience as a postal life insurance underwriter including at least one year of experience assisting claims adjusters.
+
+\4. A qualification that is the equivalent of insurance claims adjuster qualifications from a domestic or overseas insurance association, insurance research institute or a government-registered insurance professional institute and at least one year of experience assisting claims adjusters.
+
+\5. A qualification certificate for an insurance claims adjuster acquired before the implementation of the regulations hereof.
+
+### Article 45
+
+Persons who have committed crimes internationally and were sentenced to imprisonment within the last 5 years may not serve as an underwriter or claims adjuster of postal simple life insurance; persons who have committed crimes internationally and were sentenced to imprisonment within the last 5 years and who are already an underwriter or claims adjuster of postal simple life insurance shall be dismissed.
+
+### Article 46
+
+Persons who have qualifications to be both an underwriter and claims adjuster may serve as only one of the two for postal simple life insurance.
+
+Any claims adjuster of postal simple life insurance may not handle the process of signing any claim cases that he/she reviewed or signed off within the last three years.
+
+Any underwriter or claims adjuster of postal simple life insurance may not conduct underwritings, claim reviews or sign off for the cases that he/she previously solicited.
+
+## Chapter Six Insurance Agent Management
+
+### Article 47
+
+“Insurance agents” as mentioned in the regulations hereof refer to persons who engage in soliciting postal simple life insurance business. “Insurance agents management” as mentioned in the regulations hereof refers to the management of these insurance agents as they solicit insurance contracts.
+
+Insurance agents of Chunghwa Post may not solicit postal simple life insurance business without obtaining an agent registration certificate from Chunghwa Post first.
+
+### Article 48
+
+The person has attained the age of majority and hold a degree from a junior high school or higher-level educational institution, or an equivalency diploma of that level may apply, subject to Chunghwa Post’s approval, to be a Chunghwa Post insurance agent if they fall into any of the following qualifying categories:
+
+\1. Those who have received educational training on simple life insurance and passed an insurance agent qualification test.
+
+\2. Those who have passed the life insurance agent qualification test held by the Life Insurance Association of the ROC may directly register after receiving educational training on simple life insurance.
+
+\3. Any insurance agent who has passed the postal simple life insurance agent qualification test before the enforcement of the regulations hereof.
+
+The required qualifications as mentioned in the preceding paragraph shall be set forth in the regulations governing the insurance agents.
+
+Chunghwa Post shall draw up the guidelines for the insurance agent qualification tests as mentioned in subparagraph 1 of paragraph 1 and submit them to the MOTC and the FSC for reference.
+
+### Article 49
+
+Chunghwa Post shall not approve an insurance agent registration application from anyone who falls into any of the following categories (and registration shall be cancelled for anyone who already possesses a registration found to belong to any of the following categories):
+
+\1. Legally incompetent persons, legally quasi-incompetent persons or those with limited legal capacity or subject to the court order of commencement of assistance and such order has not been revoked.
+
+\2. Persons whose applications are found to contain false statements.
+
+\3. Persons who have violated provisions of the Organized Crime Prevention Act and who were sentenced to imprisonment and are either still in prison or were released from prison, on probation or pardoned within the last 5 years.
+
+\4. Persons convicted of forgery, embezzlement, fraud or breach of trust and sentenced to imprisonment who are either still in prison or were released from prison, on probation or pardoned within the last 3 years.
+
+\5. Persons who have violated provisions of this Act, Insurance Act, Banking Act, Financial Holding Company Act, Trust Enterprise Act, the Act Governing Bills Finance Business, Financial Asset Securitization Act, Real Estate Securitization Act, Securities and Exchange Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Foreign Exchange Control Act, Credit Cooperative Act, Money Laundering Control Act, Counter-Terrorism Financing Act, or other financial regulations who were sentenced to imprisonment in a final judgment and are either still in prison or were released from prison, on probation or pardoned within the last 3 years.
+
+\6. Persons who have declared bankruptcy and have not yet restored the rights they lost.
+
+\7. Persons who have suffered or are responsible for a major loss of credit standing, whether resolved or not, within the last 3 years.
+
+\8. Persons whose registration is currently suspended or was revoked hereof over the past three years as mandated in Article 56.
+
+\9. Persons who are registered with other insurance carriers, insurance agencies or insurance broker companies or banks engaging in the same type of insurance business, and the previous registration has not been cancelled.
+
+\10. Persons who already possess licenses of insurance agents or insurance brokers, or acting as the responsible person of another insurance agent company, insurance broker company, or insurance surveyor company.
+
+\11. There is factual proof that the person has engaged in or otherwise been involved in any other dishonest or improper activity over the past three years and are therefore not fit for the positions.
+
+The “same kinds of insurance” as mentioned in subparagraph 9 of the preceding paragraph means life insurance or simple life insurance.
+
+### Article 50
+
+Should there be any change of status for an insurance agent, Chunghwa Post shall take the following actions towards the agent’s registration within 5 days:
+
+\1. Add an entry of changes should there be any changes on the items registered.
+
+\2. Add an entry of suspension if the agent is ordered to stop soliciting as punishment.
+
+\3. The solicitor’ s registration revoked in accordance with Article 49 hereof add an entry of annulment should the agent die, lose legal capacity, terminate his/her contract with Chunghwa Post or for other reasons stop soliciting for Chunghwa Post.
+
+\4. Add an entry of revocation should the agent’s registration be revoked in accordance with Articles 51 or 56 hereof.
+
+Under any of the situations set forth in Subparagraphs 2 to 4 of the preceding paragraph, the agent or his/her heir shall hand in the registration certificate for cancellation.
+
+The change of status of an agent as mentioned in subparagraph 3 of the first paragraph shall be the date on which the solicitor has completed the change formalities.
+
+Before any change in an agent’s registration is completed, the agent’s actions soliciting insurance will still be deemed as acts of the company.
+
+### Article 51
+
+After registering with Chunghwa Post, insurance agents shall attend training held by Chunghwa Post regularly.
+
+Chunghwa Post shall revoke the registration of any insurance agent failing to attend a training course. The same shall apply to any agent who fails the training course twice in a row.
+
+### Article 52
+
+Agents registered with Chunghwa Post shall solicit simple life insurance business for Chunghwa Post only.
+
+### Article 53
+
+Any agent who solicits postal simple life insurance business with Chunghwa Post’s authorization shall be deemed as engaging in behavior authorized by Chunghwa Post; Chunghwa Post shall strictly manage the registered solicitors and shall be jointly and severally liable for any damage caused by solicitation of the solicitors.
+
+The authorization as mentioned in the preceding paragraph shall be in a written form and entered on the agent’s registration certificate.
+
+The soliciting of postal simple life insurance business as mentioned in the first paragraph hereof refers to the following behaviors of solicitors:
+
+\1. Explaining the contents and policy clauses of insurance products.
+
+\2. Explaining how to fill out application forms.
+
+\3. Conveying application documents and policies.
+
+\4. Other behaviors authorized by Chunghwa Post to carry out solicitation of postal simple life insurance business.
+
+In engaging in the act of insurance solicitation referred to in the preceding paragraph, a solicitor shall meet with the applicant and the insured in person and obtain the relevant insurance documents signed by the applicant and the insured, unless otherwise stipulated by the FSC.
+
+### Article 54
+
+Chunghwa Post shall establish a separate set of guidelines to govern the solicitation of business of the insurance agents.
+
+### Article 55
+
+In the case that an insurance agent has violated the Simple Life Insurance Act, or the FSC or MOTC has made enquiries about the soliciting of insurance of an insurance agent, Chunghwa Post shall submit an explanation within a certain timeframe set by the FSC or MOTC.
+
+### Article 56
+
+Should an agent violate the regulations hereof or be at fault in any of the following ways, apart from when an agent suspected of breaking the law shall refer the solicitor to the law enforcement for investigation of alleged crime, Chunghwa Post shall punish him/her with a suspension for the said solicitation activities for a period of not less than three months but not more than one year or revoke his or her solicitor registration, and arrange mandatory trainings for the solicitor:
+
+\1. In regard to matters affecting the rights and interests of the applicant or the insured, the agent has either given an explanation that is a misrepresentation or has failed to give any explanation at all.
+
+\2. The agent instigates the applicant or the insured to conceal facts or make false statements; or the agent knows that the applicant or the insured has concealed facts or made false statements and has intentionally kept it from the company.
+
+\3. The agent hinders the applicant or the insured from providing relevant information.
+
+\4. In order to obtain business, the agent gives the applicant or the insured incorrect quotes, sharing parts of the commission or employing some other inappropriate method to provide a discount on the premium.
+
+\5. The agent has made exaggerated promotional statements or advertisements or used other inappropriate methods to solicit business.
+
+\6. The agent has hired people to work for him or her without the permission of Chunghwa Post.
+
+\7. Signed documents on behalf of an applicant or an insured, or filled out an insurance contract document without the consent or authorization of an applicant or an insured.
+
+\8. Instigated an applicant by means of threat, inducement with promise of gain, concealment, deceit, or any other inappropriate means, or false representation to terminate an in-force insurance contract and enter into a new contract that resulted in damage to the applicant.
+
+\9. The agent has received premiums without Chunghwa Post’s authorization, or the agent has received premiums with Chunghwa Post’s authorization but instead of turning in the money has embezzled it or failed to give a formal receipt in accordance to regulations.
+
+\10. Lent his or her solicitor registration certificate for use by others or used other’s registration certificate.
+
+\11. Solicited or recommended insurance business or other financial products not yet approved or recorded by the FSC.
+
+\12. Solicited insurance business or business in similar nature on behalf of a juristic person or an individual that has not been approved by the FSC to engage in insurance business.
+
+\13. Made improper comparison by means of exaggeration or misrepresentation between different insurance contracts, or between an insurance product and bank deposit or other financial products.
+
+\14. Disseminated untrue statements or promotional materials, hence disrupting the financial order.
+
+\15. Diverted the funds of the applicant or kept the policy and the seal of the applicant under his or her custody.
+
+16.Involved in any major violation or malpractice in the qualification test provided in Article 48, which has been verified.
+
+\17. Other business misconduct in the capacity of a solicitor.
+
+For any agent whose registration has been suspended for a total of two years while the agent’s registration is still valid, the agent’s registration shall revoke his or her solicitor registration.
+
+Solicitors who refuse to accept suspension and revocation of solicitor registration may lodge an appeal to Chunghwa Post within one month from the day following the date on which the notice of punishment arrives, and the appeal shall not be made more than once. Chunghwa Post shall notify the solicitor in writing of the result of the review within one month from the day following the date on which the written materials of the appeal arrive.
+
+## Chapter Seven Supplementary Provisions
+
+### Article 57
+
+This regulation shall come into effect on the date of issuance, except for Articles 35 and 36, which were revised and issued on November 24, 2025, and shall come into effect on January 1, 2026.
+
+## History
+
+1.Promulgated on December 31,2002.
+
+2.Amendment to 56 articles in all per Ministry of Transportation and Communications Decree No. Jiiao-Iu- Zi-0960085008、Financial Supervisory Commission, Executive Yuan Decree No.Jiin-Guan-Bao3-Zi-09600024392 dated March 20,2007；and Implemented from announcement date unless specified otherwise.
+
+3.Amendment to article 45 per Ministry of Transportation and Communications Decree No. Jiiao-Iu- Zi-1000010613、Financial Supervisory Commission, Executive Yuan Decree No.Jiin-Guan-Bao-Li- Zi-10002652652 dated December 6,2011.
+
+4.Amendment to 57 articles in all per Ministry of Transportation and Communications Decree No. Jiiao-Iu- Zi-1000010613、Financial Supervisory Commission Decree No.Jiin-Guan-Bao-Shou-Zi-11001449652 dated October 28,2021；and implemented from announcement date.
+
+5.Articles 5 to 9, 11, 12, 16, 18 to 20, 23, 32, 34, 35, 36, 39, 49, and 57 as well as the title of Chapter 4 were revised; Articles 34-1, 34-2, and 37-1 were added jointly by the Ministry of Transportation and Communications under the order of No. Jiao-Chan-Zi 11450138512 and the FSC under the order of No. Jin-Guan-Bao-Shou-Zi 11401502971 (both dated November 24, 2025). This regulation, except for Articles 35 and 36, which shall take effect on January 1, 2026, shall come into effect on the date of issuance.

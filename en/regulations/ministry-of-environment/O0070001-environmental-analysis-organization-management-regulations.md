@@ -1,0 +1,419 @@
+---
+title: "Environmental Analysis Organization Management Regulations"
+title_zh: "環境檢驗測定機構管理辦法"
+identifier: "O0070001"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞國家環境研究目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1990-08-22
+last_amended: 2025-10-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0070001"
+retrieved: 2026-10-12
+---
+
+# Environmental Analysis Organization Management Regulations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0070001-environmental-analysis-organization-management-regulations.md](../../../zh/regulations/ministry-of-environment/O0070001-environmental-analysis-organization-management-regulations.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These regulations are determined pursuant to Article 49, Paragraph 2 of the Air Pollution Control Act, Article 11, Paragraph 2 of the Indoor Air Quality Management Law, Article 20, Paragraph 2 of the Noise Pollution Control Act, Article 23, Paragraph 2 of the Water Pollution Control Act, Article 10, Paragraph 2 of the Soil and Groundwater Pollution Remediation Act, Article 43, Paragraph 2 of the Waste Disposal Act, Article 44, Paragraph 3 of the Toxic and Concerned Chemical Substances Control Act, Article 36, Paragraph 2 of the Environmental Chemical and Biological Agents Control Act, and Article 12-1, Paragraph 2 of the Drinking Water Management Statutes, and Article 41, Paragraph 2 of Climate Change Response Act.
+
+### Article 2
+
+Terms used in these Regulations are defined as follows:
+
+Ⅰ. “Environmental testing and analysis operations” means the application of all types of physical, chemical or biological analysis methods to perform the sampling, testing or measurement of environmental targets.
+
+Ⅱ. “Environmental testing and analysis organization” (herein referred to as “testing and analysis organization”) means an organization that has been issued a permit pursuant to these Regulations for the performance of environmental testing and analysis operations.
+
+Ⅲ. “Environmental testing and analysis personnel” (herein referred to as “testing and analysis personnel”) means laboratory managers, quality assurance/quality control personnel, and other professional technical personnel engaged in environmental testing and analysis operations.
+
+## Chapter 2 Permission
+
+### Article 3
+
+For testing and analysis organizations that apply for the testing and analysis permits shall apply to the central competent authority.
+
+The testing and analysis organization shall obtain a permit being issued by the central competent authority to carry out the testing and analysis as stipulated and authorized according to Article 1 of this regulation except being approved by the central competent authority.
+
+### Article 4
+
+Those that apply for testing and analysis organization permits shall meet one of the following conditions:
+
+Ⅰ. Be a non-public enterprise with paid-in capital of NT$ 5 million or more, or a juridical association with total registered assets of NT$ 5 million or more.
+
+Ⅱ. Be a public enterprise or a government agency or organization other than an environmental protection competent authority.
+
+Ⅲ. Be an academic institution at the public college level or higher.
+
+Ⅳ. A social association or occupational association that has been approved and registered in accordance with the Civil Associations Act.
+
+V. Cooperatives established and registered under the Cooperatives Act.
+
+### Article 5
+
+Those that apply for testing and analysis organization permits shall possess their own laboratories; each laboratory shall possess dedicated instruments and equipment and six or more dedicated testing and analysis personnel, including one laboratory manager and quality assurance/quality control personnel. However, for those that apply as a government agency or organization other than an environmental protection competent authority, dedicated testing and analysis personnel shall be personnel related to the operations with which they are charged, and two or more testing and analysis personnel, one of which shall be the laboratory manager, shall be employed.
+
+Those that obtain the testing and analysis organization permits pursuant to the proviso in the foregoing paragraph may only perform environmental testing and analysis operations for industry categories related to the operations with which they are charged.
+
+### Article 6
+
+The qualifications of the laboratory manager in the foregoing Article shall be in compliance with the following conditions:
+
+Ⅰ. Be a graduate of a chemistry or environment-related department of a school at the public or registered private college-level or higher or an overseas school at the college-level or higher that is recognized by the Ministry of Education. However, for those that apply as a government agency or organization other than an environmental protection competent authority, laboratory managers that are graduates of a department related to the operations with which they are charged of a school at the college-level or higher may also hold the position.
+
+Ⅱ. Possess testing and analysis experience of five years or more related to the testing and analysis category for which they are applying for permission, and provide verification documents. However, those with a relevant bachelor’s degree may deduct two years of testing and analysis experience; those with a relevant master’s degree may deduct three years of testing and analysis experience; those with a relevant doctoral degree may deduct four years of testing and analysis experience.
+
+The managers of laboratories engaging solely in testing of noise, vibration, physical hazards, or other test category items controlled by the central competent authority shall be graduates of physics or engineering departments of a school at the college-level or higher.
+
+### Article 7
+
+The qualifications of the quality assurance/quality control personnel in Article 5 shall be in compliance with the following conditions:
+
+Ⅰ. Be a graduate of a chemistry or environment-related department of a school at the public or registered private college-level or higher or an overseas school at the college-level or higher that is recognized by the Ministry of Education. However, for those that apply as a government agency or organization that is a non-environmental protection competent authority, quality assurance/quality control personnel that are graduates of a department related to the operations with which they are charged of a school at the college-level or higher may also hold the position.
+
+Ⅱ. Possess testing and analysis experience of three years or more related to the testing and analysis category for which they are applying for permission, and provide verification documents. However, those with a relevant master’s degree may deduct one year of testing and analysis experience; those with a relevant doctoral degree may deduct two years of testing and analysis experience.
+
+The quality assurance/quality control personnel of laboratories engaging solely in testing of noise, vibration, physical hazards, or other test category items controlled by the central competent authority shall be graduates of physics or engineering department of a school at the college-level or higher.
+
+### Article 8
+
+The qualifications of testing and analysis personnel other than laboratory managers and quality assurance/quality control personnel shall be in compliance with the following conditions.
+
+Ⅰ. Be a graduate of a science, engineering, medical, agricultural or environmental department of a school at the public or registered private college-level or higher or an overseas school at the college-level or higher that is recognized by the Ministry of Education.
+
+Ⅱ. Be a graduate of a department that is not mentioned in the foregoing subparagraph of a school at the public or registered private college-level or higher or an overseas school at the college-level or higher that is recognized by the Ministry of Education, and have relevant testing and analysis experience for more than two years with supporting documents.
+
+Ⅲ. Be a graduate of a chemical analysis, chemical engineering, agricultural chemistry, food science or environmental department of a school at the public or registered private high school or vocational school, and have relevant testing and analysis experience for more than two years with supporting documents.
+
+Ⅳ. Be a graduate of a department that is not mentioned in the foregoing subparagraph of a school at the public or registered private high school or vocational school, and have relevant testing and analysis experience for more than three years with supporting documents.
+
+Subparagraph 2 to Subparagraph 4 of the foregoing paragraph have relevant testing and analysis experience, can complete the following training courses organized by the central competent authority or its accreditation body instead of two years of relevant testing and analysis experience:
+
+Ⅰ. Thirty hours of environment safety and basic principles of testing and analysis.
+
+Ⅱ. Six hours of field training.
+
+### Article 9
+
+The on-site statutory responsible quality assurance/quality control personnel, sampling personnel and statutory responsible safety and sanitation personnel of testing and analysis organizations that engage in the sampling of unknown industrial waste items shall undergo forty hours or more of safety and response awareness training and three days or more of field training.
+
+The on-site statutory responsible quality assurance/quality control personnel, sampling personnel, and statutory responsible safety and sanitation personnel of analysis organizations that engage in the sampling of industrial waste items other than those in the foregoing paragraph shall undergo sixteen hours or more of safety and response awareness training and eight hours or more of field training.
+
+Those that undergo the training in the first paragraph may engage in the sampling of industrial waste items in the foregoing paragraph.
+
+### Article 10
+
+Those that apply for testing and analysis organization permits shall submit the following documents:
+
+Ⅰ. An application form.
+
+Ⅱ. Organization identification documents of the agency or organization.
+
+Ⅲ. A photocopy of the personal identification document of the statutory responsible person.
+
+Ⅳ. A diagram of the geographical locations of laboratories.
+
+Ⅴ. Placement and layout diagrams of the testing and analysis facilities.
+
+Ⅵ. Photocopies of verification documents demonstrating the positions, academic experiences and necessary training of testing and analysis personnel.
+
+Ⅶ. Documents describing the items been applied, names of the methods been used and their standard operation procedures.
+
+Ⅷ. Fifteen or more sets of real testing and analysis data and related quality control diagrams related to the testing and analysis items for which the permit application has been submitted.
+
+Ⅸ. The management manual of laboratories prepared in accordance with the Basic Norm of Quality System of Environmental Analysis Organization Laboratory proclaimed by the central competent authority. Its content shall have at least included: impartiality, confidentiality, organization, personnel, facilities and environmental conditions, equipment, metrological traceability, externally provided products and services, review of requests, tenders and contracts, selection, verification and validation of methods, sampling, handling of test items, technical records, ensuring the validity of results, reporting of results, complaints, nonconforming work, control of data and information management, management system documentation, control of management system documents, control of records, actions to address risks and opportunities, improvement, corrective actions, internal audits, management reviews.
+
+Ⅹ. Other documents designated by the central competent authority.
+
+Those testing and analysis organizations for which application documents in the foregoing paragraph do not comply with regulations or for which contents are incomplete shall be notified by the central competent authority to make corrections within a limited time period; those that have failed to make corrections by the deadline shall have their applications rejected and their application documents shall not be returned.
+
+### Article 11
+
+The testing and analysis organizations that establish one or more laboratory shall apply for permits for each laboratory.
+
+The testing and analysis organizations that apply for extensions, the resumption of business, the relocation of a laboratory, or the addition of a laboratory, testing and analysis category or testing and analysis item shall submit the documents in Subparagraph 1 and Subparagraphs 4 through 10 of the foregoing article.
+
+For the application for extensions in the foregoing paragraph, the testing and analysis organization shall also submit verification documents of testing and analysis personnel for training performed pursuant to Article 22.
+
+Testing organizations which apply for relocation of laboratory shall apply to central competent authority for relocation of laboratory 15 days in advance and submit the plan of relocation for references. Testing organizations shall complete the relocation in accordance with the plan of relocation and submit documents mentioned in Paragraph 2 within 30 days after the completion of relocation.
+
+### Article 12
+
+Testing and analysis categories for permits shall be as follows.
+
+Ⅰ. Air testing and analysis category.
+
+Ⅱ. Water quality and water volume testing and analysis category.
+
+Ⅲ. Drinking water testing and analysis category.
+
+Ⅳ. Waste testing and analysis category.
+
+Ⅴ. Soil testing and analysis category.
+
+Ⅵ. Environmental agents testing and analysis category.
+
+Ⅶ. Toxic and Concerned chemical substances testing and analysis category.
+
+Ⅷ. Noise testing and analysis category.
+
+Ⅸ. Groundwater testing and analysis category.
+
+Ⅹ. Bottom sediment category.
+
+XI. Greenhouse gas testing and analysis category.
+
+XII. Other testing and analysis categories officially announced by the central competent authority.
+
+The limits for the items of the testing and analysis categories in each subparagraph in the foregoing paragraph shall be based on the control items of the regulations of environmental laws, the items of testing and analysis methods already officially announced by the central competent authority or other items officially announced by the central competent authority.
+
+### Article 13
+
+When reviewing the applications and extensions submitted by testing and analysis organizations, the central competent authority shall carry out the following procedures. Permits may be issued only after the approval of reviews, with categories and testing and analysis items applied for specified.
+
+Ⅰ. Review and approval of written documents: conduct review and approval of all application documents submitted by the testing and analysis organization.
+
+Ⅱ. Performance evaluation: conduct blind sample testing, on-site comparison testing or practical application/technical proficiency examinations for all testing and analysis items for which the testing and analysis organization has applied.
+
+Ⅲ. Systems evaluation: conduct on-site checks and evaluations of the quality control systems of each laboratory for which the testing and analysis organization has applied.
+
+Ⅳ. Other approval and evaluation matters designated by the central competent authority.
+
+The application from testing and analysis organizations for resumption of business; relocation of a laboratory; addition of a laboratory, testing and analysis category or item shall be submitted to the central competent authority. The review procedures shall follow the provisions of the preceding paragraph. However, if the added testing and analysis items belong to the same category, the system evaluation may be exempted.
+
+Where a testing and analysis organization applies for an extension of its permit under Paragraph 1 and meets the following requirements, the performance evaluation may be exempted for the testing and analysis item during the review procedures.
+
+The application for permit extension is submitted within the period prescribed in Article 16.
+
+During the validity period of the permit and up to the date of application, the organization has not been penalized for any violation in conducting the relevant testing and analysis items.
+
+The testing and analysis items have passed blind sample testing, on-site comparison testing, or sampling technique evaluation as designated by the central competent authority.
+
+### Article 14
+
+The central competent authority may establish an evaluation technique committee (herein referred to as “evaluation committee”) in order to conduct reviews, evaluations and consultations for the testing and analysis organization permits.
+
+The evaluation committee in the foregoing paragraph shall establish positions for twenty-one to twenty-five committee members; terms shall be two years and committee members may be reappointed after the end of their terms.
+
+### Article 15
+
+Permits shall record the following items:
+
+Ⅰ. The name of the organization.
+
+Ⅱ. The name and address of the laboratory.
+
+Ⅲ. The name of the laboratory manager.
+
+Ⅳ.Testing and analysis categories, items and methods.
+
+Ⅴ. Validity period.
+
+Ⅵ. Other items designated by the central competent authority.
+
+### Article 16
+
+The maximum validity period of permits shall not exceed 5 years. Extension applications shall be filed by the testing and analysis organization within 5 to 6 months prior to the permit expiration. Categories or items that obtained the permit during the application extension period, the application should be made 60 days before the original permit expires. Period of each extension shall not exceed 5 years. However, if during the validity period of the permit the testing and analysis organization is found to have involved in any of the circumstances specified in Paragraph 8 or 9 of Article 24, and punishment from the central competent authority has been confirmed, the extension of the permit’s validity period shall be for a maximum of 3 years.
+
+For the testing and analysis organizations apply for extension of permit but with application documents being reviewed as not comply with regulations or the contents were incomplete, the central competent authority shall notify the applicant to make corrections within a deadline. If failed to make corrections by the deadline, the application shall be rejected.
+
+For the testing and analysis organizations apply for extension in accordance with Paragraph 1 within the regulated period of time and being determined as unable to make decision on approval or rejection due to review time needed for the central competent authority before expiration of the permit, the testing and analysis organizations may continue to perform their testing items in accordance with their original permit content during the time period from the permit expiration date to the completion date of review.
+
+For the testing and analysis organizations failed to apply for extension in accordance with the foregoing Paragraph 1 within the regulated period of time or failed to pass the application for extension and re-applied within the validity of the permit, shall stop to perform their testing items since expiration date of the permit till the central competent authority has made the approval or rejection decision for the application. If the testing and analysis organizations failed to apply for extension before the expiration date of the permit, their permits shall be invalid since the expiration date of the permits. A new permit application shall be submitted if they want to continue to perform their testing and analysis operation of the said items.
+
+### Article 16-1
+
+Where a testing and analysis organization is found to have involved in any of the following circumstances, the central competent authority shall revoke the permit for the testing and analysis items concerned the violation:
+
+I. The testing and analysis organization provides false information regarding the deployment or qualifications/experiences of its testing and analysis personnel.
+
+II. The testing and analysis organization provides false testing data in its permit application for the testing and analysis items.
+
+Where a testing and analysis organization is found to have involved in any of the following circumstances, the central competent authority shall cancel its permit for the testing and analysis items concerned in the violation:
+
+I. Issuance of a testing report without actually performing the sampling or test or alternation of test results without justifiable reason.
+
+II. Adjustment of instruments or software settings for testing in order to falsify data.
+
+III. Violation of Subparagraph 2 or 3, Paragraph 1 of Article 17 for the same testing and analysis item and penalized by the competent authority twice within one year.
+
+IV. Failure twice consecutively in sampling technique evaluations or blind sample tests conducted under Article 21 and failure to complete improvements before the prescribed deadline.
+
+If the falsification of testing report data involves criminal liability and a criminal judgment has been rendered by the court, and it is determined that the falsification was directed by the representative of the testing and analysis organization, the central competent authority shall cancel the permits for all testing and analysis items of that testing and analysis organization.
+
+### Article 16-2
+
+Where a testing and analysis organization has had all of its testing and analysis items under permits revoked or canceled by the central competent authority, it shall not, within two years from the date of service of the penalty decision on revocation or cancellation, apply for a testing and analysis business permit under the same or a similar organization name or under the same business identification number. The representative of that organization shall not, within five years from the date of service of the penalty decision, apply to serve as the representative of any testing and analysis organization. Where a testing and analysis organization has had part of its testing and analysis items under its permit revoked or cancelled by the central competent authority, the organization shall not, within two years from the date of service of the penalty decision on revocation or cancellation, apply to the central competent authority for the same testing and analysis items.
+
+Testing and analysis personnel, quality assurance/control personnel, or laboratory managers involved in data falsification shall not, within two years from the date of service of the penalty decision imposed on the testing and analysis organization, serve as testing and analysis personnel, quality assurance/control personnel, or laboratory managers of any testing and analysis organization.
+
+### Article 16-3
+
+If the testing report issued by the testing and analysis organization has involved in violation of the regulations as stipulated in Paragraph 1, Subparagraph 2 or 3 of Article 17, the laboratory manager or signatory that signed the said report shall being evaluated and approved by the central competent authority to resume the authorization to sign on the report of testing and analysis items relevant to the foregoing problematic report.
+
+Where the central competent authority has revoked or cancelled the permits of a testing and analysis organization for the testing and analysis items involved in a violation, the laboratory manager or signatory who signed the report may, only after the expiration of the restriction period, apply for evaluation by the central competent authority, and may resume signing reports for the testing and analysis items involved in the violation after passing such evaluation.
+
+## Chapter 3 Management
+
+### Article 17
+
+The testing and analysis organization shall comply with the following regulations to perform the environmental testing and analysis operations.
+
+Ⅰ. A laboratory’s testing and analysis personnel shall use the laboratory’s dedicated instruments and equipment.
+
+Ⅱ. A standard operating procedures manual shall be prepared in accordance with testing and analysis methods and quality control items officially announced by the central competent authority, and shall be placed in the laboratory for reference; testing and analysis shall be performed in accordance with the manual.
+
+Ⅲ. Prepare a laboratory management manual based on the basic quality system standards officially announced by the central competent authority, and conduct lab operations based on this manual.
+
+Ⅳ. Quality control data for each year shall be reported prior to January 31.
+
+Ⅴ. A three-month test statistics form shall be submitted to the central competent authority on the 15th day of the January, April, July, and October of each year; the reported items shall consist of test category, number of test item, number of test samples, and payment amount.
+
+Ⅵ. Testing data shall be transmitted via the Internet in accordance with the items, format, and content required by the central competent authority.
+
+Ⅶ. Other items designated by the central competent authority.
+
+For those items reported for the sampling personnel of effluent shall also report the exact date and time entering the site, the starting and finished date and time of sampling, pictures for eyewitness personnel of the plant and so on.
+
+### Article 18
+
+The testing and analysis reports presented by the testing and analysis organizations shall be signed by the managers of each laboratory at issue. However, in consideration of a professional field or operational requirements, testing and analysis reports may be signed by a testing and analysis report signatory that has been evaluated and authorized by the central competent authority.
+
+The regulations for laboratory managers shall apply to the qualifications for the testing and analysis report signatory in the foregoing paragraph.
+
+The time period for the authorization by the central competent authority of the signing of reports by the testing and analysis report signatory shall be the same as the validity period for permits. A testing and analysis organization may apply for the authorization of the testing and analysis report signatory at the same time as applying for the extension of a permit.
+
+### Article 19
+
+A change in testing and analysis personnel at a testing and analysis organization laboratory shall be registered within thirty days after the change. For those circumstances in which there is a personnel change for a laboratory manager or quality assurance/quality control personnel, the vacated positions shall be filled within thirty days. When a personnel change causes the remaining number of testing and analysis personnel to fail to be in compliance with the regulations for the number of analysis personnel as stipulated in Article 5, the vacated positions shall be filled within ninety days after the change.
+
+The change in the representative of a testing and analysis organization shall be registered within 90 days after the change.
+
+For those circumstances in which there were changes to the items recorded on a permit, the testing and analysis organization shall register the changes to the central competent authority within thirty days after the change.
+
+### Article 20
+
+The central competent authority may send personnel bearing verifying documents to a testing and analysis organization or sampling site to perform an audit, and may order the organization to provide relevant information, in which case the testing and analysis organization may not evade, obstruct, or refuse to this request.
+
+The central competent authority shall maintain the confidentiality of all information involving test recipients' personal privacy, business secrets, and military secrets obtained from an audit conducted pursuant to the foregoing paragraph, or from a testing and analysis organization permit application, review, renewal (replacement), revocation, or cancellation.
+
+### Article 21
+
+The testing and analysis organizations and testing and analysis personnel shall conduct sampling technique evaluations and blind sample testing in accordance with the designation of the central competent authority, and shall submit blind sample testing results to the central competent authority by the designated deadline.
+
+The foregoing blind test can also be carried out by the designated testing and analysis organization or its testing and analysis personnel to participate in domestic or international blind test. The testing and analysis organization shall pay relevant expenses by itself. Those that cannot participate in the blind test due to not paying the expenses shall be deemed as refuse to participate.
+
+### Article 22
+
+The central competent authority may order a testing and analysis organization to dispatch appropriate or designated testing and analysis personnel to receive on-the-job training; the testing and analysis organization shall not refuse.
+
+### Article 23
+
+A testing and analysis organization, when suspending business on its own initiative, shall submit its permit to the central competent authority for cancellation.
+
+For the testing and analysis organizations that have terminated their business, were dissolved, or lost their ability to conduct operations, the central competent authority shall directly cancel their permits.
+
+### Article 24
+
+When any one of the following situations occurred, the testing and analysis organization shall be subject to the penalty provisions as stipulated in Article 70 of the Air Pollution Control Act, Article 16 of the Indoor Air Quality Management Law, Article 32, Paragraph 2 of the Noise Pollution Control Act, Article 49 of the Water Pollution Control Act, Article 42, Paragraph 1, Subparagraph 2 and Paragraph 2 of the Soil and Groundwater Pollution Remediation Act, Article 58 of the Waste Disposal Act, Article 58, Subparagraph 7 of the Toxic and Concerned Chemical Substances Control Act, Article 48, Subparagraph 5 of the Environmental Chemical and Biological Agents Control Act, Article 24-1 of the Drinking Water Management Statutes, or Article 50 of Climate Change Response Act:
+
+Ⅰ. Any violation of the provisions of Article 3, Paragraph 2; Article 11, Paragraph 4; Paragraph 1, Paragraph 2, Paragraph 4, Paragraph 5, or Paragraph 7 of Article 17; Article 18, Paragraph 1; Article 19, Paragraph 3; Article 20, Paragraphs 1; or Article 22.
+
+Ⅱ. Any violation of Paragraph 1, Subparagraph 3 of Article 17 that failed to follow the requirements being cited in the laboratory management manual regarding the personnel, equipment, review of requests, tenders and contracts, selection, verification and validation of methods, sampling, handling of test items, technical records, reporting of results, control of management system documents, control of records.
+
+Ⅲ. Any violation of Paragraph 1, Subparagraph 6 of Article 17 and failed to comply with each environmental protection regulation and being accumulated to three times.
+
+Ⅳ. Any violation of Article 17, Paragraph 1 and for the circumstance belong to the personnel of laboratory managers or testing and analysis personnel for quality assurance that failed to register for the name changes within regulated deadline in accordance with Paragraph 1 of Article 19 and the violations have reached three times within one year.
+
+Ⅴ. Any violation of Article 21 that failed to turn in results of blind test or refuse to participate in the central competent authority designated sampling technique evaluation or blind testing.
+
+Ⅵ. When participated in the sampling technique evaluation or blind testing that being held by the central competent authority and failed twice consecutively.
+
+Ⅶ. Any testing and analysis organizations that failed to apply for permit extension within regulated deadline or failed to pass the application for extension and re-applied within the validity of the permit, and continue to carry out the said items of analysis operation after the expiration date of the permit; or continue to carry out the said items of analysis operation since the date of service of the penalty decision regarding the revocation or cancellation of permits by the central competent authority.
+
+Ⅷ. Commitment of any of the violations set forth in Article 16-1.
+
+IX. Failure to conduct on-site sampling according to declared itinerary, or submission of false declarations for sampling times or locations.
+
+X. Conducting of testing and analysis authorized under the environmental laws specified in Article 1 without approval or without a permit issued by the central competent authority.
+
+### Article 24-1
+
+Obsolete
+
+### Article 25
+
+The testing and analysis organizations whose permits have been revoked or cancelled by the central competent authority for testing and analysis items involved in regulatory violations shall not conduct the said item of testing and analysis after the date of service of the penalty decision.
+
+### Article 25-1
+
+The central competent authority may reward institutions or individuals that demonstrate outstanding performance in conducting environmental testing and analysis.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 26
+
+The central competent authority may commission relevant agencies or organizations to perform guidance, review, evaluation and inspection matters for the testing and analysis organizations.
+
+### Article 27
+
+Obsolete
+
+### Article 28
+
+For those relevant documents designated in these Regulations which are in a foreign language, a translated Chinese version verified by an overseas unit or an authorized organization of the Ministry of Foreign Affairs shall be attached. However, if the supporting document is in English, a translated Chinese version is not required.
+
+### Article 29
+
+Obsolete
+
+### Article 30
+
+The amended articles of these Regulations shall enter into force from the date of issuance, with the exception of the Paragraph 9, Subparagraph 1 of Article 10 and Paragraph 2, Subparagraph 1 of Article 24 as amended on 27 January 2021, which shall enter into force from 1 April 2021.
+
+## History
+
+1.Twenty-nine articles promulgated by Environmental Protection Administration Order (86) Huan-Shu-Chien-Tzu No. 71850 on November 19, 1997.
+
+2.Revisions to Articles 6, 11 and 15 promulgated by Environmental Protection Administration Order (87) Huan-Shu-Chien-Tzu No. 0035391 on June 10, 1998.
+
+3.Revisions to Articles 1 and 19 promulgated by Environmental Protection Administration Order (88) Huan-Shu-Chien-Tzu No. 0016468 on March 24, 1999.
+
+4.Revisions to Articles 1, 9 and 19 promulgated by Environmental Protection Administration Order (90) Huan-Shu-Chien-Tzu No. 0052963 on August 29, 2001.
+
+5.Revised 30 articles promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0920007380 on January 29, 2003.
+
+6.Revisions to Articles 1 and 24 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 096004517 on June 8, 2007.
+
+7.Revisions to Articles 8 and 19 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0970083548 on October 28, 2008.
+
+8.Revisions to Articles 1 and 24 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0980028103 C on April 7, 2009.
+
+9.Revisions to Articles 17 and 24 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0980101131C on November 9, 2009.
+
+10.Revisions to Article 24 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 0990031764 on April 16, 2010.
+
+11.Revisions to Article 1, 3, 6, 7, 12, 16, 17, 19, 20, 24, 28 and 30 promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1010011210C on February 10, 2012.
+
+12.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1020021176A on March 20, 2013.
+
+13.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 104065795 on August 18, 2015.
+
+14.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1088000179 on April 16 , 2019.
+
+15.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No. 1098000067 on February 15 , 2020.
+
+16.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No.1108000006 on January 27 , 2021.
+
+17.Revisions to Article and promulgated by Environmental Protection Administration Order Huan-Shu-Chien-Tzu No.1117109553 on December 28 , 2022.
+
+18.Revisions to Article and promulgated by Ministry of Environment Order Huan-Bu-Yan-Tzu No.1145112936 on October 2, 2025.

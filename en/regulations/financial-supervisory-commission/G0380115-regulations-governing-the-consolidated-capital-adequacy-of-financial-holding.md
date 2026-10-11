@@ -1,0 +1,189 @@
+---
+title: "Regulations Governing the Consolidated Capital Adequacy of Financial Holding Companies"
+title_zh: "金融控股公司合併資本適足性管理辦法"
+identifier: "G0380115"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-10-31
+last_amended: 2026-08-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380115"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Consolidated Capital Adequacy of Financial Holding Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0380115-regulations-governing-the-consolidated-capital-adequacy-of-financial-holding.md](../../../zh/regulations/financial-supervisory-commission/G0380115-regulations-governing-the-consolidated-capital-adequacy-of-financial-holding.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Article 40 of the Financial Holding Company Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+Terms used in these Regulations are defined as follows:
+
+1.The term "capital adequacy ratio of a financial holding company calculated on a consolidated basis" (hereinafter referred to as "group capital adequacy ratio") shall mean the group's net eligible capital divided by the group's statutory capital requirement.
+
+2.The term "group's net eligible capital" shall mean the combined total of the eligible capital of a financial holding company and those of its subsidiaries calculated based on the financial holding company's shareholding in the subsidiary (hereinafter referred to as "group's total eligible capital") less the amounts of deductions set forth in Article 4 herein.
+
+3.The term "financial holding company's eligible capital" shall mean the sum of the common stocks, preferred stocks, subordinated debts, capital collected in advance, capital surplus, retained earnings, and equity adjustment of a financial holding company less the company's goodwill, other intangible assets, deferred assets, and treasury stocks.
+
+4.The preferred stocks and subordinated debts referred to in the preceding subparagraph shall meet the following requirements:
+
+(1) The current issue must be collected in full.
+
+(2) The financial holding company, or its subsidiary or invested enterprise that may not hold any shares of the financial holding company pursuant to Article 38 of the Act has not provided any guarantee, collateral or other arrangements for the purpose of enhancing the repayment priority of the holders.
+
+(3) The term to maturity must be at least seven years, and the amount of issue must be progressively decreased by at least 20% per year during each of the last five  years of the issue.
+
+(4) If it has been agreed that the holders of preferred stocks or subordinated debts may redeem the stock or debt before the date of maturity, the agreed redemption period shall be the term to maturity.
+
+(5) The total amount of preferred stocks and subordinated debts included in eligible capital may not exceed one-third of the financial holding company's eligible capital. However, preferred stocks and subordinated debts that meet the criteria for  Additional Tier 1 Capital set forth in Article 10 of Regulations Governing the Capital Adequacy and Capital Category of Banks or Tier 1 limited capital set forth in Article 2 of Regulations Governing Capital Adequacy of Insurance Companies and do not exceed the statutory limit are excluded. The statutory limit is calculated in the following manner:
+
+i. The balance of "financial holding company's eligible capital" subtracted by "eligible capital of non-banking and non-insurance subsidiaries" and "the sum of preferred stocks and subordinated debts issued by the financial holding company" is taken as the base.
+
+ii. The result of the base in the preceding item divided by 85% and then multiplied by 15% is taken as the statutory limit.
+
+(6) If the payment of dividend/interest or the repayment of principal for the preferred stocks or debts causes the financial holding company's group capital adequacy ratio to fall below the minimum requirement, the payment of dividend or interest, or the repayment of principal shall be temporarily suspended.
+
+5.The term "subsidiary" shall mean any of subsidiaries prescribed in Subparagraph 4, paragraph 1, Article 4 of the Act.
+
+6.The term "subsidiary's eligible capital" shall mean a subsidiary's eligible capital calculated in accordance with Paragraph 1 of Article 3 herein.
+
+7.The term "group's statutory capital requirement" shall mean the sum of a financial holding company's statutory capital requirement and the statutory capital requirements of its subsidiaries calculated based on the financial holding company's shareholding in the subsidiary less the amounts of deductions set forth in Article 4 herein.
+
+8.The term "financial holding company's statutory capital requirement" shall mean the balance of a financial holding company's total assets after subtracting its cash (including cash equivalents), tax receivable (including tax refund receivable), prepaid taxes, the book value of short-term investments set forth in Paragraph 1, Article 39 of the Act, goodwill, other intangible assets, and deferred assets.
+
+9.The term "subsidiary's statutory capital requirement" shall mean a subsidiary's statutory capital requirement calculated in accordance with Paragraph 2 of Article 3 herein.
+
+10.The term "capital surplus" shall mean a positive difference between a company's eligible capital and statutory capital requirement as calculated in accordance with these Regulations.
+
+11.The term "capital deficit" shall mean a negative difference between a company's eligible capital and statutory capital requirement as calculated in accordance with these Regulations.
+
+## Article 3
+
+The eligible capital of the subsidiary of a financial holding company shall be calculated in the following manner based on the type of business:
+
+1.Banks, bills finance companies, securities firms, and insurance companies: The net eligible equity capital, equity capital, or an equivalent calculated according to the relevant regulations governing the capital adequacy requirement for the type of business.
+
+2.Trust enterprises, futures enterprises, venture capitals, and financial leasing companies: Calculated by the book value of stockholders' equity carrying net worth.
+
+3.Credit card enterprises: Calculated in the same manner as that for banks.
+
+4.Foreign financial institutions: Calculated in the same manner as that for trust enterprises, futures enterprises, and venture capitals, unless it is otherwise prescribed by the supervisory authority at where the institution is located.
+
+5.Other financial entities: Calculated in the same manner as that for trust enterprises, futures enterprises, and venture capitals, unless it is otherwise approved by the competent authority to use the same method as that for the type of enterprise engaging in related businesses.
+
+The statutory capital requirement for the subsidiary of a financial holding company shall be calculated in the following manner based on the type of business:
+
+1.Banks: The amount of total risk-weighted assets multiplied by the minimum regulatory ratio in accordance with Regulations Governing the Capital Adequacy and Capital Category of Banks.
+
+2.Bills finance companies, securities firms, and insurance companies: The amount or the equivalent amount of total risk-weighted assets, the equivalent amount of operating risk, and risk-based capital multiplied by the minimum regulatory ratio in accordance with regulations governing the capital adequacy requirement for the type of business.
+
+3.Trust enterprises, futures enterprises, and venture capitals: 50% of the result of total amount of own assets deducts tax receivable (including tax refund receivable) and pre-paid taxes.
+
+4.Financial leasing companies: 10% of the result of total amount of own assets deducts tax receivable (including tax refund receivable) and pre-paid taxes.
+
+5.Credit card enterprises: Calculated in the same manner as that for banks.
+
+6.Foreign financial institutions: Calculated in the same manner as that for trust enterprises, futures enterprises, and venture capitals, unless it is otherwise prescribed by the supervisory authority at where the institution is located.
+
+7.Other financial entities: Calculated in the same manner as that for trust enterprises, futures enterprises, and venture capitals, unless it is otherwise approved by the competent authority to use the same method as that for the type of enterprise engaging in related businesses.
+
+## Article 4
+
+The group's net eligible capital is the balance of the group's total eligible capital after subtracting the following amounts:
+
+1.The book amount of a financial holding company's investment in its subsidiaries' equity and other eligible capital that may be added to its capital after subtracting the decreased amount;
+
+2.The capital surplus of those subsidiaries whose eligible capital and statutory capital requirement are calculated in the same manner as that for trust enterprises, futures enterprises, venture capitals and financial leasing companies;
+
+3.One half of the capital surplus from subordinated debts (excluding debts that meet the criteria for Additional Tier 1 Capital set forth in Article 8 of Regulations Governing the Capital Adequacy and Capital Category of Banks and do not exceed the statutory limit) of those subsidiaries whose eligible capital is calculated in the same manner as that for banks or bills finance companies after making up for other capital deficits of the bank or bills finance company; and
+
+4.One half of the capital surplus from debt capital (excluding those that meet the criteria for Tier 1 limited capital set forth in Article 2 of the Regulations Governing Capital Adequacy of Insurance Companies) of those subsidiaries whose equity capital is calculated in the same manner as that for insurance companies after making up for other capital deficits of the insurance company.
+
+The book amount of investment depicted in the preceding paragraph that is already subtracted from the group's total eligible capital shall not be added to the group's statutory capital requirement.
+
+## Article 5
+
+The common stocks, preferred stocks, and subordinated debts issued by a financial holding company shall be deemed not issuing when calculating the eligible capital of the financial holding company if the following circumstances occur:
+
+1.The financial holding company has significant influence over who owns such capital instruments.
+
+2.The subsidiaries of the financial holding company own such capital instruments.
+
+Except for the circumstances described in the preceding paragraph, common stocks, preferred stocks, and subordinated debts issued by a financial holding company whose actual effect as eligible capital of the financial holding company is impaired shall be presumed to be a non-eligible capital when calculating the eligible capital of the financial holding company.
+
+## Article 6
+
+A financial holding company shall prepare a capital adequacy report using the calculation methods and forms promulgated by the competent authority and file the same with the competent authority in accordance with the following provisions; however, if the competent authority provides otherwise, such provisions shall govern:
+
+\1. In three months after the end of each fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.
+
+\2. In two months after the end of each half fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.
+
+\3. In two months after the end of each half and each fiscal year, file the group's capital adequacy related information in accordance with the requirements set forth by the competent authority for online filing by financial holding companies.
+
+If deemed necessary, the competent authority may order a financial holding company to submit a report on its group capital adequacy ratio along with relevant information at any time.
+
+## Article 7
+
+The subsidiary of a financial holding company must meet the relevant capital adequacy requirement for its type of business.
+
+The group capital adequacy ratio calculated and reported by a financial holding company in accordance with these Regulations shall not be lower than 100%.
+
+If a financial holding company's group capital adequacy ratio fails to meet the standard set forth in the preceding paragraph, the financial holding company shall be sanctioned pursuant to Article 60 of the Act, and in addition, shall not distribute its earnings in cash or other assets. The competent authority may also take the following actions in view of the severity of the situation:
+
+1.Order the financial holding company or its responsible person to submit a capital restructuring or other finance and business improvement plans.
+
+2.Restrict the new acquisition or require the decrease of capital requirement, total risk-weighted assets, equivalent amount of operating risk, and total risk-based assets;
+
+3.Restrict the payment of compensation, bonuses, remuneration, travel allowances and other payments to directors and supervisors;
+
+4.Restrict investments made in accordance with Article 36 and Article 37 of the Act;
+
+5.Restrict the setup of branch offices or department by subsidiaries;
+
+6.Order the financial holding company to dispose of its equity interest in the invested enterprises within a specific period;
+
+7.Dismiss directors and supervisors and notify the competent authority in charge of company registration to take note thereof on the registered items. If necessary, appoint new directors and supervisors within a prescribed period; or
+
+8.Replace the management.
+
+## Article 8
+
+If an insurance subsidiary of a financial holding company has been approved by the competent authority to apply the Directions for Insurance Enterprise Applying for Optional Transitional Measures on Capital Resource and Capital Requirement (hereinafter referred to as the "Directions"), the financial holding company may calculate the capital adequacy ratio of its group during the application period in accordance with the following provisions:
+
+1.When calculating the capital adequacy ratio of the group, calculate the eligible capital and statutory capital requirement of the insurance subsidiary as adjusted after applying the Directions.
+
+2.The capital surplus of insurance subsidiaries set forth in Subparagraph 4, Paragraph 1 of Article 4 is not deducted from the total eligible capital of the group. However, starting from 2026, the amount exempted from deduction shall decrease in equal proportions based on the remaining transitional years, and revert to the calculation required under the aforementioned subparagraph.
+
+3.If the insurance subsidiary terminates the application of the Directions ahead of schedule, the financial holding company shall cease applying the provisions of the preceding two subparagraphs starting from the date of termination by the subsidiary.
+
+## Article 9
+
+These Regulations shall take effect on January 1, 2026.
+
+## History
+
+\1. The full text of 7 articles promulgated by the Ministry of Finance Order Tai-Tsai-Rong (1) Zi-0901000176 on October 31, 2001.
+
+\2. The full amended text of 8 articles promulgated by the Ministry of Finance on November 25, 2003 per Order Ref. No. (2001) Tai-Tsai- Rong-(1)-Zi-0921000743, which took effect on the date of promulgation.
+
+\3. Article 2, 3 and 6 amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09480115200 on December 26, 2005.
+
+\4. The full text of 8 articles amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09810000011 on December 31, 2008.
+
+\5. The full text of 8 articles amended and promulgated by Financial Supervisory Commission Order Jin-Kuan-Yin-(I)-10100412680 on December 28, 2012.
+
+\6. Article 3, 4 and 8 amended and promulgated by Financial Supervisory Commission Order Ref. No. Jin-Guan-Yin-(Fa)-10410003000 on June 9, 2015；These regulations shall take effect on the date of promulgation.
+
+\7. Article 8, and table 3 of article 5 are amended and promulgated, and article 4-1 are added by Financial Supervisory Commission Order Ref. No. Jin-Guan-Yin-(FA)-1090740521 on January 28, 2021, which shall take effect on the date of promulgation.
+
+\8. The full text of 9 articles amended and promulgated by Financial Supervisory Commission Order Jin-Kuan-Yin-(FA)-11502721511 on August 4, 2026, which shall take effect on January 1, 2026.

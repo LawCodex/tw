@@ -1,0 +1,243 @@
+---
+title: "Responsible Enterprise Regulated Recyclable Waste Management Regulations"
+title_zh: "應回收廢棄物責任業者管理辦法"
+identifier: "O0050062"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞資源循環目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-10-23
+last_amended: 2024-12-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050062"
+retrieved: 2026-10-12
+---
+
+# Responsible Enterprise Regulated Recyclable Waste Management Regulations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0050062-responsible-enterprise-regulated-recyclable-waste-management-regulations.md](../../../zh/regulations/ministry-of-environment/O0050062-responsible-enterprise-regulated-recyclable-waste-management-regulations.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 16, Paragraph 4 of the Waste Disposal Act (herein referred to as “this Act”).
+
+## Article 2
+
+Terms used in these Regulations are defined as follows.
+
+I. “Articles of responsibility” means those goods or their packaging and containers officially announced by the central competent authority pursuant to Article 15, Paragraph 2 of this Act, and the raw materials used in said goods, packaging or containers.
+
+II.“Operating volume”:
+
+A. A manufacturing enterprise's operating volume shall be the sales volume of its articles of responsibility. However, the operating volume of enterprises manufacturing environmental sanitation agents constituting special sanitation agents shall be its production volume of finished products; and the operating volume of pesticide manufacturing enterprise shall be the monetary value of imported technical-grade pesticides.
+
+B. The operating volume of a container product manufacturing enterprise shall be the container purchase volume and container production volume. The operating volume of a container manufacturing enterprise or container importer shall be its container sales volume.
+
+C. The operating volume of a commissioned manufacturing enterprise producing goods or container products shall be its commissioned production volume of goods or container products.
+
+D. The operating volume of a bioplastic materials manufacturing enterprise shall be its bioplastic materials sales volume.
+
+III.“Import volume” means the volume of articles of responsibility imported from overseas by an importer, or the volume of articles of responsibility conveyed from the bonded scope delineated by the Act for Establishment and Administration of Science Parks or the Statute for the Establishment and Administration of Export Processing Zone to a non-bonded scope, or the volume of articles of responsibility cleared for domestic sale from bonded factories, bonded warehouses (including shipping centers) or logistics centers, but does not include the volume of articles of responsibility imported from overseas to the aforementioned bonded scope, bonded factories, bonded warehouses (including shipping centers) or logistics centers.
+
+## Article 3
+
+A responsible enterprise shall apply to the central competent authority to separately register their articles of responsibility within two months of the first manufacture or import of their articles of responsibility.
+
+## Article 4
+
+A responsible enterprise shall submit the following documents when applying for registration to the central competent authority.
+
+I.  Responsible enterprise registration application form
+
+II. Photocopy of the personal identification document of the statutory responsible person
+
+III.Photocopies of government-issued company or commercial registration documents. However, those responsible enterprises who have completed their registration with the relevant competent authority in accordance with the Value-added and Non-value-added Business Tax Act, Company Act, or Business Registration Act and do not require the documents designated in this item are exempt.
+
+IV. Other documents designated by the central competent authority
+
+If the items to be registered in Subparagraphs 2 and Subparagraph 3 of the foregoing paragraph are changed after a responsible enterprise has completed registration in accordance with the regulations of the foregoing paragraph, the responsible enterprise shall submit a registration application form and photocopies of identification documents concerning the changed items to the central competent authority to apply for a change of registration within 60 days of when the change occurs.
+
+## Article 4-1
+
+The following responsible enterprises, having completed registration in accordance with Paragraph 1 of the preceding article, shall affix a container body source emblem approved by the competent authority:
+
+I.  Manufacturers of paperboard containers
+
+II. Importers of paperboard containers
+
+III.Importers of paperboard containers products
+
+The afore-enumerated responsible enterprises shall be exempted from appending a container body source emblem in the event of one of the following circumstances:
+
+I. The body surface area of the paperboard containers measures less than 100 cm2 or, as approved by the competent authority after examining the submitted sample of the body of the container, the material of the body renders it practically unmark able.
+
+II.Paperboard containers and paperboard containers products for export.
+
+The container body source emblem shall be marked in the following manner within the established time limit:
+
+I. Time limit:
+
+A. The responsible enterprises that register after the enactment of the amendment to this Regulations on May 3, 2022 shall complete the required marking within two months from the completion of the registration.
+
+B. The responsible enterprises that register before the enactment of the amendment to this Regulations on May 3, 2022 in accordance with Paragraph 1 of the preceding article shall complete the required marking within three months from the enactment of the amendment.
+
+II. Marking method:
+
+A. The emblem shall be at least 1.5 cm in side length.
+
+B. For paperboard containers, the emblem shall be affixed to the body of the paperboard containers in a conspicuous manner.
+
+C. For products placed within paperboard containers, the emblem shall be affixed to the containers, packaging, or labels in a conspicuous manner.
+
+## Article 5
+
+A responsible enterprise shall submit the following documents to the central competent authority to apply for cancellation of registration after ceasing to manufacture or import articles of responsibility, or in other circumstances determined by the central competent authority to allow exemption from listing:
+
+I.  Registration cancellation application form (including affidavit)
+
+II. Photocopy of the personal identification document of the statutory responsible person
+
+III.Photocopies of identification documents for suspension of work, suspension of business, termination of business, or cancellation of company registration
+
+IV. Other documents as designated by the central competent authority
+
+The central competent authority may on its own initiative cancel the registration of a responsible enterprises that has terminated business, been dissolved, or has otherwise been determined by the central competent authority to be exempt from listing.
+
+A responsible enterprise whose registration has been canceled by the central competent authority in the two foregoing paragraphs shall be exempt from reporting and fee payment pursuant to these Regulations. A responsible enterprise that resumes manufacturing or importing articles of responsibility, or that does not meet requirements for exemption from listing, shall re-register, and resume reporting and payment of fees pursuant to these Regulations.
+
+## Article 6
+
+A responsible enterprise shall pay recycling, clearance and disposal fees based on the operating volume or import volume of articles of responsibility during the previous two months and the fee rate approved by the central competent authority prior to the thirtieth day of each month into the receiving account of the financial institution designated by the central competent authority starting from the day officially announced by the central competent authority for the assumption of recycling, clearance and disposal responsibilities.
+
+A responsible enterprise shall report to the central competent authority prior to the 30th day of each month operating volume or import volume and proof of recycling, clearance and disposal fee payment for articles of responsibility when reporting operating volume or import volume for the previous two months. However, container manufacturing enterprises, container importers, and commissioned manufacturing enterprises producing goods or container products that do not need to bear responsibility for payment of cleaning, clearance, and disposal fees shall be exempt from submitting proof of payment.
+
+## Article 7
+
+The central competent authority may provide responsible enterprises that meet the following conditions with an operating volume or imported volume for the first year, determined based on their business status, financial and tax records, import data, upstream data, the sales volume of similar enterprises, audits conducted in accordance with Article 20 of this Act, or other acquired data.
+
+I.  The recycling, clearance and disposal fees payable by the responsible enterprise each year for the last two consecutive years has been less than NT$100,000.
+
+II. Those that have been audited by the competent authority in accordance with Article 20 of this Act within the last five years or are exempted from business registration in accordance with the Business Registration Act.
+
+III.Declared operating volume or import volume and has paid recycling, clearance and disposal fees in accordance with the provisions of the preceding article or Article 9.
+
+The central competent authority may re-assess the operating volume or import volume as determined from the second year onward based on the data specified in the preceding paragraph.
+
+The operating volume or import volume determined in accordance with the preceding two paragraphs shall be used to calculate the annual recycling, clearance, and disposal fees. For periods less than a full year, the fees shall be prorated. Payable amounts of NT$1,200 or less shall be exempt from collection.
+
+Responsible enterprises that have been notified of the assessed operating volume or import volume by the central competent authority shall confirm their declaration and payment by the deadline for the current reporting and payment period. Failure to confirm by the deadline shall be regarded as non-acceptance.
+
+Responsible enterprises that do not adopt the operating volume or import volume as assessed by the central competent authority for declaration and payment shall declare and pay in accordance with the provisions of the preceding article or Article 9.
+
+## Article 8
+
+If changes in the business status of a responsible enterprise results in a significant difference from the verified operating volume or import volume, or the competent authority verifies that the annual difference exceeds NT$50,000 after the responsible enterprise has used the verified operating volume or import volume, then the responsible enterprise shall carry out self-declaration and payment in accordance with Article 6 or Article 9.
+
+Responsible enterprises that use the verified operating volume or import volume found to have underpaid or underreported after a competent authority audit shall be ordered to make up the amount not paid.
+
+## Article 9
+
+If the accumulated amount for the six previous recycling, clearance and disposal fee installments of a responsible enterprise is less than NT$100,000, said responsible enterprise may submit reporting online and apply with the central competent authority to make payable fees once a year.
+
+The responsible enterprises in the foregoing paragraph approved by the central competent authority, or the responsible enterprise in Article 7,  shall pay the recycling, clearance and disposal fees into to the special account of the financial institution designated by the central competent authority before January 30 of each year based on the operating volume or import volume in the previous year not declared to or verified by the central competent authority and the rate approved by the competent authority and also report to the central competent authority the operating volume or import volume that was not declared in the previous year.
+
+The responsible enterprise in Paragraph 1 and Article 7 that have paid recycling, clearance and disposal fees of NT$100,000 or more in the previous year shall report and pay the fees in accordance with Article 6 before March 30 of the current year.
+
+## Article 10
+
+The declaration of operating volume or import volume shall be reported via the online reporting system of the central competent authority. Declaration forms for operating volume or import volume of articles of responsibility do not need to be submitted. However, responsible enterprises that have been approved by the central competent authority to make declarations in writing shall be exempt from this requirement.
+
+## Article 11
+
+In those circumstances in which the articles of responsibility imported or manufactured by a responsible enterprise are not disposed of domestically or do not produce waste after use, the responsible enterprise may deduct the operating volume or import volume for such articles of responsibility upon submission of the following documents and receipt of the central competent authority’s approval:
+
+I.  An operating volume or import volume report
+
+II. Identification documents demonstrating that the articles of responsibility are not disposed of domestically or do not produce waste after use
+
+III.An aggregate statement of the quantity of articles of responsibility not disposed of domestically to be deducted
+
+IV. Other documents as designated by the central competent authority
+
+The provisions of the preceding paragraph shall not apply to the responsible enterprises of Article 7, Paragraph 1.
+
+## Article 12
+
+When a responsible enterprise cannot pay in one lump sum the full amount for owed recycling, clearance and disposal fees prior to the payment deadline designated in these Regulations due to one of the following reasons, the responsible enterprise may submit prior to the payment deadline to the central competent authority an application form along with relevant identification documents to make installment payments with interest compounded daily based on one-year time deposit interest rate of the Directorate General of the Postal Remittances and Savings Bank.
+
+I.  The responsible enterprise has suffered major property losses due to typhoon, earthquake, flood, landslides or other natural disaster, or other cause not attributable to the responsible enterprise
+
+II. The responsible enterprise has been assessed supplementary recycling, clearance and disposal fees of NT$100,000 or more following audit by the competent authority
+
+## Article 13
+
+Regarding the volume of flat containers or non-flat disposable tableware sold to container product manufacturing enterprises, the plate vessel manufacturer or importer, or non-flat disposable tableware manufacturer or importer may submit an aggregate statement of sales volume deductions and sales invoice report in order to deduct its operating volume or import volume.
+
+Regarding the volume of bioplastic materials or flat container sheet materials not sold to container, flat container sheet material, or non-flat disposable tableware manufacturing enterprises, the bioplastic material manufacturer or importer, or the flat container sheet material importer may submit an aggregate statement of sales volume deductions and sales invoice report in order to deduct its operating volume or import volume.
+
+The provisions of the preceding two paragraphs shall not apply to the responsible enterprises of Article 7, Paragraph 1.
+
+## Article 14
+
+If a responsible enterprise overpays cleaning, clearance, and disposal fees, it may apply to the central competent authority for refund. However, the total amount of the refund shall be limited to the total amount paid by the responsible enterprise.
+
+The refund in the foregoing paragraph shall be calculated on the basis of cleaning, clearance, and disposal fee rates corresponding to the dates on documents or sales invoices submitted pursuant to Articles 11 and foregoing articles. However, those enterprises that can prove the original deduction reporting and payment dates may have their fees calculated on the basis of the fee rate corresponding to the original reporting and payment dates.
+
+## Article 15
+
+When the competent authority or its commissioned professional personnel performs an audit pursuant to Article 20 of this Act, if the information provided by a responsible enterprise is untruthful, or if the enterprise fails to provide its full account books or information, the competent authority or its commissioned professional personnel shall use whichever of the following methods yields the highest operating volume or import volume to calculate the operating volume or import volume of the responsible enterprise:
+
+I.  The operating volume or import volume calculated on the basis of raw materials (goods), personnel, utilities or equipment use, production rate or other data sufficient to provide evidence
+
+II. The operating volume or import volume calculated on the basis of relevant data from firms upstream or downstream of the responsible enterprise
+
+III.The operating volume or import volume calculated on the basis of the operating volume or import volume reported by an industry peer with a similar amount of sales.
+
+IV. The operating volume or import volume calculated on the basis of the ratio of recycling, clearance and disposal fees to sales reported by an industry peer with a similar amount of sales
+
+V.  The operating volume or import volume calculated on the basis of the manufacturing volume of an industry peer with similar machinery, equipment, manufacturing procedures, or raw materials
+
+VI. The operating volume or import volume calculated on the basis of information provided by the tax authority
+
+Complete account books in the foregoing paragraph shall conform to the regulations of the Business Entity Accounting Act and Regulations for the Management of Profit-Seeking Enterprise Account Books and Receipts by Tax Collection Agencies.
+
+## Article 16
+
+A responsible enterprise shall preserve for future reference its operating volume or import volume reports, proof of recycling, clearance and disposal fee payment for its articles of responsibility, and proof of offsets for five years.
+
+## Article 17
+
+Those who violate the requirements of Article 3, Article 4, Paragraph 2, Article 4-1, Paragraph 1 and 3, Article 5, Paragraph 3, Article 6, Article 9, Paragraphs 2 and 3, or foregoing articles shall be penalized pursuant to Article 51, Paragraph 2 of this Act.
+
+When a responsible enterprise fails to make a report or pay fees pursuant to requirements, and one of the following circumstances applies, the enterprise shall pay such fee or make such report by a deadline designated by the central competent authority; those that fail to pay or report shall be punished pursuant to Article 51, Paragraph 2 of this Act.
+
+I.  Operating volume or import volume of the responsible enterprise is zero.
+
+II. The responsible enterprise has applied to the central competent authority for cancellation of registration pursuant to Article 5, Paragraph 1.
+
+III.Circumstances stipulated in Article 8, Paragraph 1 applies.
+
+## Article 18
+
+These Regulations shall take effect on July 1, 2020.
+
+The amendments to these Regulations shall take effect on the date of promulgation, except for Articles 7 and 8, which were amended and promulgated on December 16, 2024, and shall take effect on January 1, 2025.
+
+## History
+
+1.Promulgated by Environmental Protection Administration order on October 23, 2002.
+
+2.Revisions to Articles 2, 5, 6, and 10 and addition of Articles 15-1 and 16-1 promulgated by Environmental Protection order on April 21, 2005.
+
+3.Revisions to entire text in 21 articles promulgated by Environmental Protection order on February 26, 2010.
+
+4.Revisions to Articles 19, 20, and 21 promulgated by Environmental Protection order on December 28, 2011.
+
+5.Revisions to entire text in 18 articles promulgated by Environmental Protection order on June 29, 2020.
+
+6.Revisions to Articles 4-1, 17, and 18 promulgated by Environmental Protection order on May 3, 2022.
+
+7.Revisions to Articles 4-1, 7, 8, 17, and 18 promulgated by Environmental Protection order on December 16, 2024.

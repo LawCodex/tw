@@ -1,0 +1,159 @@
+---
+title: "Regulations Governing Review Criteria for and Management of Prisoners' Out-Of-Prison Medical Treatment on Bail"
+title_zh: "受刑人保外醫治審核基準及管理辦法"
+identifier: "I0040050"
+type: regulation
+law_level: "命令"
+category: "行政＞法務部＞矯正目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-03-28
+last_amended: 2025-10-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0040050"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Review Criteria for and Management of Prisoners' Out-Of-Prison Medical Treatment on Bail
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-justice/I0040050-regulations-governing-review-criteria-for-and-management-of-prisoners-out-of.md](../../../zh/regulations/ministry-of-justice/I0040050-regulations-governing-review-criteria-for-and-management-of-prisoners-out-of.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with Paragraph 6, Article 63 of the Prison Act (hereinafter referred to as “the Act”)
+
+## Article 2
+
+The terms used in these Regulations shall be defined as follows:
+
+\1. Prison: Referring to any prison under the Agency of Corrections, Ministry of Justice, including any branch or female unit set up by the prison.
+
+\2. Prison official: Referring to the head of a prison in the preceding subparagraph and the person authorized thereby.
+
+## Article 3
+
+“The prisoner cannot or is unable to be adequately treated after adopting the treatment” as provided in Paragraph 1, Article 63 of the Act shall refer to one of the following situations:
+
+\1. The prisoner suffers from a disease with a high fatality rate, where the prisoner’s life may not be preserved during the sentence execution;
+
+\2. Being senile or with severe physical and mental disability as per sufficient objective facts that the prisoner is incapable of self-care or unable to receive appropriate medical care in prison;
+
+\3. With serious illnesses that the prisoner must be hospitalized for treatment outside prison for a long time;
+
+\4. With severe physical disability that the prisoner must be rehabilitated outside prison for a long time;
+
+\5. With complicated diseases beyond control that the prisoner faces threat to death at any time; or
+
+\6. Suffering from a notifiable infectious disease prescribed in laws and regulations that the prisoner cannot be properly isolated for treatment in prison.
+
+When reporting to the supervisory authority for approval of the prisoner’s out-of-prison medical treatment on bail, the prison shall first consult the physician’s advice and comprehensively evaluate the severity of the disease, disease treatment program, self-care ability, ability to care by relatives and friends, or the placement planning of the social welfare institution.
+
+In the evaluation in the preceding paragraph, the prison may entrust other professional agencies (institutions), groups or individuals to assist, if necessary.
+
+Upon the prisoner’s requesting the prison for the out-of-prison medical treatment on bail, the prison shall immediately have its medical staff deliberate the request in accordance with the preceding three paragraphs, and notify the prisoner of the result. The prisoner may submit complaint in accordance with Article 93 of the Act if the prisoner is not satisfied with the decision by the prison not to report to the supervisory authority for approval of the out-of-prison medical treatment on bail.
+
+## Article 4
+
+Where the prison is approved for the prisoner’s out-of-prison medical treatment on bail either after the fact of the prison’s execution of the out-of-prison medical treatment on bail or after the prison’s reporting to the supervisory agency for approval of the out-of-prison medical treatment on bail, the prison shall immediately request the prosecutor to arrange release with surety, release to other's custody, release with limitation on residency, or release with restrictions on leaving the country or going out to sea in accordance with the provisions of Article 63 of the Act; the prisoner shall not be released until a writ of discharge is issued by the prosecutor.
+
+In order to ensure the subsequent execution of the sentence of the prisoner for the out-of-prison medical treatment on bail mentioned in the preceding paragraph, the prison may request, via a letter, the prosecutor of the prosecutor’s office to deliberate and restrict the prisoner’s leaving the country or going out to sea.
+
+## Article 5
+
+Prisoners who receive out-of-prison medical treatment on bail in accordance with the Paragraph 1, Article 63 of the Act shall stay in a medical institution or other specific premises for treatment or care.
+
+## Article 6
+
+Before the prisoner’s leaving the prison for the out-of-prison medical treatment on bail, the prison shall inform the prisoner of the matters for compliance during the out-of-prison medical treatment on bail, which shall be made on the record to be signed by the prisoner.
+
+Where the prisoner in the preceding paragraph is unconscious, the prison may inform the surety of the matters for compliance in the preceding paragraph, which shall be made on the record to be signed by the surety.
+
+In the preceding two paragraphs, if the prisoner refuses or is unable to affix his/her signature, the reason therewith shall be noted.
+
+## Article 7
+
+During the period of the prisoner’s out-of-prison medical treatment on bail, matters for compliance by the prisoner shall include the following:
+
+1.Violation of laws and regulations shall not be allowed;
+
+2.Treatment shall be followed as directed by the physician;
+
+3.Leaving or changing the original medical institution or premises without reason shall not be allowed;
+
+4.The prisoner shall proactively maintain contact with the prison, report to the prison regularly, accept the prison to visit him/her at any time through technical equipments or appropriate means, and shall avoid losing contact without reason;
+
+5.When the prisoner is visited by the inspector of the prison, the prisoner shall report his/her situations such as health, medical treatment or care, residency and living conditions, and shall provide a hospital diagnosis certificate or other supporting documents as proof;
+
+6.Unless otherwise needed to maintain the prisoner’s daily residency and living, the prisoner shall, without approval by the prison, not be allowed to engage in activities inconsistent with or obviously unrelated to the purpose of treatment;
+
+7.Unlawful conduct such as harm, intimidation, harassment, stalking, entanglement against victims, complainants, informers, witnesses, or other interested parties shall not be carried out; and
+
+8.Other matters for compliance deemed necessary by the prison shall be observed.
+
+In Subparagraph 3 of the preceding paragraph, due to the need of treatment or care for the prisoner’s diseases, an application for change of the medical institution or premises may be made to the original enforcement prison along with relevant supporting documents. However, under urgent circumstances, the prisoner for the out-of-prison medical treatment on bail may make such change on his/her own and shall report to the original enforcement prison for approval therewith within five days.
+
+## Article 8
+
+Where an undertaking is presented in accordance with Paragraph 4, Article 63 of the Act, the undertaking shall record the following matters for attention:
+
+\1. The prisoner shall be restricted from violating laws and regulations during the period of the out-of-prison medical treatment on bail.
+
+\2. The prisoner shall be sent to the designated prosecutor’s office in accordance with the notice of the prison, upon the expiry of the period for the out-of-prison medical treatment on bail or as the prisoner’s disease improves.
+
+\3. Where the prisoner for the out-of-prison medical treatment on bail arbitrarily leaves or changes medical institutions or premises without following legal procedures, the prisoner’s whereabouts shall be reported to the prison immediately.
+
+## Article 9
+
+During the period of the prisoner’s out-of-prison medical treatment on bail, if the prison deems the extension of the period as necessary, the prison shall report to the supervisory authority for approval of such extension 10 days prior to the expiry of the medical parole period, where the period of each extension shall not exceed three months. For those receiving long-term care or palliative care, or care in rehabilitation institutions, the period of each extension shall not exceed six months.
+
+For the period extension in the preceding paragraph, the prisoner under the out-of-prison medical treatment on bail shall provide a diagnosis certificate issued in the last 30 days by a medical institution. When necessary, the prison may designate another medical institution to carry out inspection and to issue a diagnosis certificate for deliberation of such extension.
+
+During the period of the prisoner’s out-of-prison medical treatment on bail, the prison official shall have the prison staff inspect the prisoner at least once a month; the medical staff shall be sent to inspect the prisoner within one month prior to the extension of the term.
+
+## Article 10
+
+Where the prisoner for the out-of-prison medical treatment on bail violates the matters for compliance under Article 7, the prison shall first order the prisoner to improve within a specified time limit in writing. Failing to do so within the time limit, the prison may report to the supervisory authority for the revocation of the previous approval of the out-of-prison medical treatment on bail.
+
+The prison may directly report to the supervisory authority for the revocation of the previous approval of the out-of-prison medical treatment on bail under any of the following situations applicable to the prisoner:
+
+\1. The prisoner seriously violates the matters for compliance under Article 7;
+
+\2. The prisoner fails to report to the prosecutor’s office by the prison’s designated time period while the medical staff’s evaluation has shown that the prisoner’s condition has cured or improved.
+
+## Article 11
+
+In handling the revocation of out-of-prison medical treatment on bail, the prison shall attach the latest approval letter for out-of-prison medical treatment on bail, diagnosis certificate, visit records and related materials, and report to the supervisory authority to revoke its approval of out-of-prison medical treatment on bail.
+
+## Article 12
+
+When the prisoner’s medical treatment period expires, the medical treatment is revoked, or the condition has been cured or improved, the prison shall designate a date within seven days and notify the prisoner in writing, to report to the designated prosecutor’s office, and return to prison for executing the remaining sentence.
+
+## Article 13
+
+Where the prisoner fails to report to the prosecutor’s office by the prison’s designated time period in accordance with the preceding article, the prosecutor’s office shall notify the prison immediately.
+
+Upon receiving the notice from the prosecutor’s office or becoming aware of the situation in the preceding paragraph, the prison shall submit relevant information to the prosecutor for summons, arrest, or circular order in accordance with Article 469 of the Code of Criminal Procedure.
+
+## Article 14
+
+After the prisoner has been approved for out-of-prison medical treatment on bail and released from the prison in accordance with Paragraph 1, Article 4, the prison shall notify the prosecutor’s office in command, as well as report to the supervisory authority for record, regarding the date of prisoner leaving the prison, the period of out-of-prison medical treatment on bail, the subsequent extension period, and the date of returning to prison.
+
+## Article 15
+
+These Regulations may apply mutatis mutandis to the out-of-prison medical treatment on bail for people under observation or rehabilitation, people under drug rehabilitation treatment, and people subjected to reformatory education.
+
+## Article 16
+
+These Regulations shall take effect as of July 15, 2020.
+
+The amendments to these Regulations shall take effect on the date of promulgation.
+
+## History
+
+1.Promulgated on March 28, 2003
+
+2.Amended on July 15, 2020
+
+3.Amended on October 2, 2025

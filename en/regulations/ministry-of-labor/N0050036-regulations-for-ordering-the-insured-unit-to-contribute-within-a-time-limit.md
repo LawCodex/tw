@@ -1,0 +1,67 @@
+---
+title: "Regulations for Ordering the Insured Unit to Contribute Within a Time Limit After Issuance of Labor Occupational Accident Insurance Benefits"
+title_zh: "勞工職業災害保險給付後限期投保單位繳納辦法"
+identifier: "N0050036"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-03-09
+last_amended: 2024-12-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050036"
+retrieved: 2026-10-12
+---
+
+# Regulations for Ordering the Insured Unit to Contribute Within a Time Limit After Issuance of Labor Occupational Accident Insurance Benefits
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0050036-regulations-for-ordering-the-insured-unit-to-contribute-within-a-time-limit.md](../../../zh/regulations/ministry-of-labor/N0050036-regulations-for-ordering-the-insured-unit-to-contribute-within-a-time-limit.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with Paragraph 3 of Article 36 of the Labor Occupational Accident Insurance and Protection Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The term "insured unit required to contribute within a time limit after the insurer’s issuance of insurance benefits," as referred to in Paragraph 1, Article 36 of the Act, means an insured unit that, in violation of the deadline stipulated in Article 12 of the Act, fails to complete the procedures for enrolling or withdrawing insurance for workers in compliance with Article 6 of the Act. This applies when such procedures remain incomplete or have not been re-completed as of the day prior to the worker suffering an occupational injury or disease.
+
+The scope of ordering the insured unit to contribute within a time limit after the insurer’s issuance of insurance benefits referred to herein covers the injury or sickness benefits, disability benefits, death benefits and disappearance benefits.
+
+## Article 3
+
+The amount to be contributed by the insured unit referred to in Paragraph 1 of Article 36 of the Act shall be calculated within the scope of the respective insurance benefits based on the worker's average monthly insured salary as set forth in Article 28 of the Act and in accordance with the following provisions:
+
+I. Injury or sickness benefits, lump sum payment for disability, survivors’ allowance, lump sum payment for survivors’ pension, and disappearance benefits: Subject to the benefit criteria set forth herein.
+
+II. Disability pension: The benefit criteria for the lump sum payment for disability with respect to the same disability set forth herein.
+
+III. Survivors’ pension: The benefit criteria for the lump sum payment for survivors’ pension set forth herein.
+
+The average monthly insured salary referred to in the preceding paragraph shall be calculated based on the total monthly salary of the worker during the period of employment with the insured unit, in accordance with Paragraphs 2 to 5 of Article 28 of the Act.
+
+## Article 4
+
+The amount payable referred to in the preceding article shall be paid by the insured unit within 15 days as of the date following service of the insurer’s written administrative decision.
+
+## Article 5
+
+If the insured unit fails to pay the amount within the time limit set forth in the preceding article and still fails to do so within 30 days upon receipt of the insurer’s written reminder, the insured unit shall be subject to the administrative execution pursuant to laws.
+
+## Article 6
+
+If it is impossible for the insured unit to pay the amount set forth in Article 3 herein in full, the insured unit may apply for payment in installment with the insurer before the insurer has it subject to the administrative execution referred to in the preceding article.
+
+If the insurer approves the payment in installment but the insured unit fails to make any installment payment timely, the payment shall be deemed matured in whole and the insurer may have the insured unit subject to administrative execution pursuant to laws.
+
+## Article 7
+
+The amended provisions of these Regulations shall come into force on the date of promulgation.
+
+## History
+
+1.Promulgated on March 9, 2022
+
+2.Amended on December 5, 2024

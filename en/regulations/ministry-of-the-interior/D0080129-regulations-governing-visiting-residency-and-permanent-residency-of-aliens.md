@@ -1,0 +1,319 @@
+---
+title: "Regulations Governing Visiting, Residency, and Permanent Residency of Aliens"
+title_zh: "外國人停留居留及永久居留辦法"
+identifier: "D0080129"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-02-01
+last_amended: 2025-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080129"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Visiting, Residency, and Permanent Residency of Aliens
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080129-regulations-governing-visiting-residency-and-permanent-residency-of-aliens.md](../../../zh/regulations/ministry-of-the-interior/D0080129-regulations-governing-visiting-residency-and-permanent-residency-of-aliens.md)) is authoritative.
+
+## Article 1
+
+These regulations have been established in accordance with Article 35 of the Immigration Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The duration of stay for any foreign national permitted to enter the Republic of China (ROC) with a visitor visa or a visa waiver after verification shall commence on the day following the date of entry, and the foreign national shall leave the ROC before his/her duration of stay expires.
+
+## Article 3
+
+Any foreign national applying for an extension of stay pursuant to Article 31, Paragraph 1 of the Act shall submit the following documents and a photo to the National Immigration Agency, Ministry of the Interior (hereinafter referred to as the “NIA””) within 15 days prior to the expiration of his/her permitted duration of stay:
+
+\1. Application form.
+
+\2. Passport.
+
+\3. Visitor visa.
+
+\4. Other relevnt supporting documents.
+
+Each extension of stay granted pursuant to the preceding paragraph shall not exceed the duration of stay stated in the original visa, and the total duration of stay shall not exceed 6 months. Nonetheless, where an applicant is able to submit documents proving the existence of any of the following circumstances, the NIA may, at its discretion, grant a further extension of stay:
+
+\1. The applicant is more than seven (7) months pregnant, has given birth, or has suffered a miscarriage within the  past two (2) months.
+
+\2. The applicant has been hospitalized due to illness or pregnancy, and leaving the State by air or sea would pose a risk to his or her life.
+
+\3. The applicant has a spouse, a lineal relative by blood, a collateral blood relative within the third degree, or a relative by marriage within the second degree who has been hospitalized due to any serious illness or injury requiring care from others, or who has died requires the arrangement of funeral matters, in the Taiwan Area.
+
+\4. In cases of force majeure or other unforeseen circumstances.
+
+\5. The applicant’s personal freedom has been restricted by laws.
+
+\6. The applicant has a child whose household registration is established in the Taiwan Area, and the child is pregnant or has a biological child under two (2) years of age.
+
+The extended duration of stay under the subparagraphs of the preceding paragraph shall be subject to the following limits:
+
+1.For Subparagraph 1 or Subparagraph 2: each extension shall not exceed two (2) months.
+
+2.For Subparagraph 3: the extension shall not exceed two (2) months from the date on which the circumstance occurs.
+
+3.For Subparagraph 4: the extension shall not exceed one (1) month.
+
+4.For Subparagraph 5: the extension shall be determined based on factual necessity.
+
+5.For Subparagraph 6: the extension shall not exceed six (6) months and shall be granted only once.
+
+## Article 4
+
+Any foreign national who is permitted to enter the ROC with a visa waiver or a visa applied for upon his/her arrival after verification, and who is unable to leave the ROC before his/her duration of stay expires due to any of the circumstances under Article 4 of the Enforcement Rules for Issuance of ROC Visas to Foreign Passport Holders, shall apply for a visitor visa with the Bureau of Consular Affairs, Ministry of Foreign Affairs or any of its branches.
+
+## Article 5
+
+Any foreign national permitted to enter the ROC with a resident visa after verification may apply for residency with the NIA by submitting the following documents and a photo, and will be issued an Alien Resident Certificate upon approval:
+
+\1. Application form.
+
+\2. A passport and a resident visa.
+
+\3. Other supporting documents.
+
+Any foreign national applying for residency pursuant to Article 26, Subparagraphs 1 to 3 of the Act may be exempt from submitting the documents under Subparagraph 2 of the preceding paragraph.
+
+Any foreign national born in the Mainland Area who applies for residency or permanent residency pursuant to Paragraph 1, Article 6, Paragraph 1 or Article 15, Paragraph 1 shall submit additional documents proving that he/she does not have any registered household in the Mainland Area and does not hold any passport issued by the Mainland Area.
+
+## Article 6
+
+Any foreign national applying for residency pursuant to Article 23 of the Act shall submit the following documents and a photo to the NIA, and will be issued an Alien Resident Certificate upon approval:
+
+\1. Application form.
+
+\2. A passport and a visitor visa. Any foreign national permitted to enter the ROC with a visa waiver after verification may be exempt from submitting a visitor visa.
+
+\3. Other supporting documents.
+
+Any applicant for residency under the preceding paragraph to whom any of the circumstances in Article 23, Paragraph 1, Subparagraph 1, 9 or 10 of the Act applies may file his/her application 30 days before his/her duration of stay expires. Any such applicant to whom any of the circumstances in Article 23, Paragraph 1, Subparagraphs 2 to 8 or Paragraph 2, 3 or 4 of the Act applies may file his/her application 15 days before his/her duration of stay expires.
+
+An Alien Resident Certificate applied for in accordance with the preceding paragraph shall be valid from the day following the date of its issuance.
+
+Any stateless person applying for residency in accordance with Paragraph 1 shall be reviewed by the NIA in consultation with the relevant authorities.
+
+## Article 7
+
+Any foreign national applying to change the reason for his/her residency pursuant to Article 23-1, Paragraph 1 of the Act shall, within 30 days from the date of occurrence of the fact, submit the following documents and a photo to the NIA for re-approval of his/her duration of residency:
+
+\1. Application form.
+
+\2. A passport and an Alien Resident Certificate.
+
+\3. Other supporting documents.
+
+Any foreign national applying for changing a reason for residency other than any of those under Article 23-1, Paragraph 1 of the Act shall, within 15 days from the date of occurrence of the fact, re-apply for a resident visa with the Bureau of Consular Affairs, Ministry of Foreign Affairs or any of its branches, and then apply for residency with the NIA by submitting the documents under the preceding paragraph, a resident visa and a photo.
+
+## Article 8
+
+A stateless person from Thailand, Myanmar or Indonesia who had entered the ROC before the Act came into effect on May 21, 1999 and who cannot be deported shall submit the following documents and a photo to the NIA to apply for residency, and will be issued an Alien Resident Certificate upon approval:
+
+\1. Application form.
+
+\2. A health certificate indicating good health.
+
+\3. Indictment or non-prosecution decision.
+
+\4. Proof of place of birth.
+
+\5. Proof of date of entry.
+
+\6. Other supporting documents.
+
+A stateless person under the preceding paragraph may apply for residency for his/her children born in the Taiwan Area.
+
+An Alien Resident Certificate applied for in accordance with this Article shall be valid from the day following the date of its issuance.
+
+## Article 9
+
+Any foreign national applying for an extension of residency pursuant to Article 31, Paragraph 1 of the Act shall submit the following documents and a photo to the NIA within 3 months before his/her duration of residency expires:
+
+\1. Application form.
+
+\2. A passport and an Alien Resident Certificate.
+
+\3. Other supporting documents.
+
+Any foreign national who is permitted to reside in the Taiwan Area, who is aged 18 or older, whose father or mother is an ROC national with a registered household or permitted residency, a foreign national with permitted residency or permanent residency, or a Hong Kong or Macau resident with permitted residency in the Taiwan Area, and to whom any of the following circumstances applies, may apply for an extension of residency:
+
+\1. He/She has legally resided in the ROC for a total of at least 10 years, with a duration of residency of at least 270 days per year.
+
+\2. He/She entered the ROC at an age below 14, with a duration of residency of at least 270 days per year.
+
+\3. He/She was born in the ROC, and has legally resided in the ROC for a total of at least 10 years, with a duration of residency of at least 183 days per year.
+
+A foreign national under the preceding paragraph shall, within 3 months before his/her duration of residency expires, apply for its extension by submitting the following documents and a photo to the NIA:
+
+\1. Application form.
+
+\2. A passport and an Alien Resident Certificate.
+
+\3. Documents proving relationship.
+
+\4. Other supporting documents.
+
+The provisions of these Regulations before its amendment dated July 9, 2021 came into effect on January 1, 2023 may apply to any foreign national under Paragraph 2 who entered the ROC at an age below 16 before the said amendment came into effect, and the restriction in Subparagraph 2 of the paragraph on any foreign national entering the ROC at an age below 14 will not apply to him/her.
+
+## Article 10
+
+Any foreign national who invests in Taiwan, who is employed in Taiwan pursuant to Article 46, Paragraph 1, Subparagraphs 1 to 7 or Article 48, Paragraph 1, Subparagraph 1 or 3 of the Employment Services Act, who is a professional worker under Article 4, Subparagraph 4, Items 3 to 5 or Articles 8 to 11 of the Act for the Recruitment and Employment of Foreign Professionals, or who has obtained approval for residency from the Ministry of Foreign Affairs, may apply for an extension of residency with the NIA before his/her duration of residency expires. His/Her spouse, any of his/her children below the age of 18 or any of his/her children aged 18 or older who is unable to support himself/herself due to physical/mental disability may, if originally permitted for residency, also apply for such extension.
+
+The Alien Resident Certificate of any applicant whose application for an extension of residency under the preceding paragraph has been approved shall be extended for 6 months commencing on the day following the completion of the original authorized period of residency. Before the extension expires, he/she may apply for another extension if necessary, provided that the total cumulative period of residency extension shall not exceed one year.
+
+## Article 11
+
+Any foreign national studying in Taiwan may, after graduation, apply for an extension of residency with the NIA before his/her duration of residency expires. His/Her spouse, any of his/her children below the age of 18 or any of his/her children aged 18 or older who is unable to support himself/herself due to physical/mental disability may, if originally permitted for residency, also apply for such extension.
+
+The Alien Resident Certificate of any applicant whose application for an extension of residency under the preceding paragraph has been approved shall be extended for one year from the day following the date of expiration of the original duration of residency. Before the extension expires, he/she may apply for another extension if necessary, with the total extension of residency not exceeding two years.
+
+## Article 12
+
+An Alien Resident Certificate issued to any of the following foreign nationals shall be valid for no more than one year:
+
+\1. Any person who is studying languages at a Chinese language center affiliated with a college or university or is studying Chinese at a tutoring center.
+
+\2. Any person who is studying or undergoing training in the ROC with approval from the competent authority for education or any other relevant competent authority.
+
+\3. A foreign missionary or Buddhist preacher.
+
+\4. A first-time applicant for family-based residency who is married to a ROC national residing in the Taiwan Area with a registered household.
+
+\5. Any other person requiring residency.
+
+The Alien Resident Certificate of any applicant whose application for an extension of residency under the preceding paragraph has been approved shall be extended for 3 years from the day following the date of expiration of the original duration of residency. If necessary, he/she may apply for another extension of residency not exceeding 3 years.
+
+## Article 13
+
+The Alien Resident Certificate issued to any foreign national with family-based residency shall be valid for the duration of residency of the family member sponsoring his/her residency. Where the sponsoring family member is an ROC national, the Alien Resident Certificate shall be valid for no more than 3 years.
+
+## Article 14
+
+Any foreign national whose duration of residency has expired or whose reason for residency no longer exists, whose residence permit has been revoked, and to whom any of the provisos under Article 3, Paragraph 2 applies, may apply to the NIA for an extension of the period before he/she leaves the ROC by submitting the relevant documents.
+
+The period before leaving the ROC under the preceding paragraph shall be subject to Article 3, Paragraph 3.
+
+## Article 15
+
+Any foreign national applying for permanent residency shall submit the following documents and a photo to the NIA, and will be issued an Alien Permanent Resident Certificate upon approval:
+
+\1. Application form.
+
+\2. A passport.
+
+\3. An Alien Resident Certificate.
+
+\4. A health certificate indicating good health.
+
+\5. Documents proving his/her property or special skills to be self-sufficient.
+
+\6. Police criminal records of the most recent 5 years issued in both his/her country of origin and the ROC.
+
+\7. Other supporting documents.
+
+Any applicant for permanent residency under Article 25, Paragraphs 3 and 4 of the Act shall also submit a certificate issued by the central competent authority or an authorized organization. He/She and those applying together with him/her in accordance with Article 25, Paragraph 5 of the Act may be exempt from submitting the documents under Subparagraphs 3, 5 and 6 of the preceding paragraph.
+
+Any foreign national applying for permanent residency, who has no record of leaving the ROC for more than 3 months during the most recent 5 years, may be exempt from submitting the document under Paragraph 1, Subparagraph 4 and the police criminal records of his/her country of origin under Paragraph 1, Subparagraph 6.
+
+Any examination necessary for a health certificate indicating good health under Paragraph 1, Subparagraph 4 shall be conducted in accordance with the Items Required for Health Certificate established by the central competent authority for health.
+
+Any foreign national whose Alien Permanent Resident Certificate has been cancelled in accordance with Article 33, Subparagraph 4 of the Act and who is still eligible for residency may apply for residency within 30 days from the date of its cancellation.
+
+## Article 16
+
+The NIA may grant permanent residency to any foreign national applying for immigration as an investor to the ROC who has met any of the following criteria:
+
+\1. He/She has invested at least NTD15 million in any profit-seeking enterprise, and has created job opportunities for five or more ROC nationals for at least 3 years.
+
+\2. He/She has invested at least NTD30 million in bonds issued by the central government for at least 3 years.
+
+## Article 17
+
+The NIA may reject the application of any foreign national for residency, changing the reason for residency, an extension of residency or permanent residency if any of the circumstances under Article 24, Paragraph 1 of the Act applies to him/her. Where such application has been approved, the NIA may cancel or revoke its approval and cancel his/her Alien Resident Certificate or Alien Permanent Resident Certificate.
+
+In the case of any foreign national who has been permitted for family-based residency and whose sponsor has left the ROC for more than two years, the NIA may revoke his/her permit and cancel his/her Alien Resident Certificate if his/her sponsor has failed to enter the ROC within two months from the date of notice by the NIA.
+
+## Article 18
+
+Any foreign national aged 14 or older shall, in accordance with Article 28, Paragraph 1 of the Act, carry on a passport, an Alien Resident Certificate or an Alien Permanent Resident Certificate within the territory of the ROC.
+
+Any foreign national who has none of the documents under the preceding paragraph shall carry any other identification document designated by the competent authority.
+
+## Article 19
+
+A national with household registration residing in the Taiwan Area, who has entered the State with a foreign passport and is applying for an extension of stay, residency or an extension of residency, shall first proceed to a household registration office for household de-registration before the NIA may accept his/her application.
+
+The NIA shall not accept an application filed under the preceding paragraph by any male near or at the conscription age who has yet to complete his compulsory military service, and to whom any of the following circumstances applies:
+
+\1. He holds neither an Overseas Compatriot Identity Certificate for military service exemption, nor an ROC passport with an Overseas Compatriot Identity Endorsement.
+
+\2. He is an overseas compatriot of conscription age who has resided in the Taiwan Area for a total of one hundred  and eighty-three (183) days.
+
+\3. He is legally subject to conscription and has been restricted from leaving the State.
+
+## Article 20
+
+Any foreign national who, during his/her duration of residency, needs to re-enter the ROC after leaving, shall apply to the NIA for a re-entry permit in accordance with Article 34 of the Act. Any applicant for the issuance of an Alien Resident Certificate may also apply for the issuance of a re-entry permit.
+
+A re-entry permit under the preceding paragraph may be used multiple times, and shall be valid for a period not exceeding the duration of validity of an Alien Resident Certificate.
+
+The re-entry permit of any foreign national whose Alien Resident Certificate has been cancelled shall also be deemed as cancelled.
+
+Any foreign national permitted for permanent residency may re-enter the ROC with an Alien Permanent Resident Certificate and a valid passport.
+
+## Article 21
+
+The competent authority or any relevant authority shall, upon the discovery or knowledge of any foreign national whose reason for stay or residency no longer exists, notify the NIA.
+
+## Article 22
+
+Within 15 days of the death of any foreign national within the territory of the ROC, any of his/her related persons, the embassy of his/her country of origin in Taiwan or an authorized organization shall register his/her death with the NIA, or the NIA may register his/her death after verifying it through an investigation.
+
+After a court/medical institution/prosecutorial agency/military prosecutorial agency has compiled the death information of a foreign national, the information shall be transmitted online to the Judicial Yuan/Ministry of Health and Welfare/Ministry of Justice/Ministry of National Defense, which shall, upon receipt of the information, transmit it online to the Ministry of the Interior for registration by the NIA.
+
+The death information of a foreign national and the time limit for its transmission under the preceding paragraph shall be subject to Articles 2 and 4 of the Regulations on the Notice of Death Information.
+
+Upon registration by the NIA under Paragraph 1 or 2, a notification of the registered information shall be immediately sent to the competent tax authority in the place where the central government with jurisdiction over the estate tax of the foreign national is located.
+
+## Article 23
+
+Any foreign national who cannot be deported due to the refusal of the country issuing his/her passport or other countries to receive him/her, any critical illness or any other special reason, may be issued a provisional alien registration certificate with restrictions on his/her place of residence or other conditions.
+
+## Article 24
+
+The effective date of this Regulations shall be determined by the Ministry of the Interior.
+
+## History
+
+\1. Entire Regulations with 19 Articles enacted and promulgated by Decree Tai-Nei-Yi-Tzu No.8981105 of the Ministry of the Interior on February 1, 2000 and set to be effective on the same date
+
+\2. Article 12 amended and promulgated by Decree Tai-Nei-Ching-Tzu No.0910004233 of the Ministry of the Interior on July 15, 2002
+
+\3. Entire Regulations with 25 Articles amended and promulgated by Decree Tai-Nei-Yi-Tzu No.0971027546 of the Ministry of the Interior on August 1, 2008 and set to be effective on a date determined by the Ministry of the Interior
+
+Promulgated and set to be effective on August 1, 2008 by Decree Tai-Nei-Yi-Tzu No.0971035715 of the Ministry of the Interior on August 1, 2008
+
+\4. Articles 6, 12, and 17 were amended and promulgated by Decree Tai-Nei-Yi-Tzu No.0980959392 of the Ministry of the Interior on February 27, 2009 and set to be effective on February 27, 2009
+
+\5. Article 13 and 14 of the Act were repealed and Article 6, 11, 12, 19 and 22 were amended, and were promulgated by the Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1010933919 and set to be effective on October 25, 2012.
+
+\6. Article 20 amended and promulgated by Decree Tai-Nei-Yi-Tzu No.1020957418 of the Ministry of the Interior on October 4, 2013 and set to be effective on October 4, 2013
+
+\7. Article 8, 9, and 22 were amended, Article 22-1 was added, and promulgated by Decree Tai-Nei-Yi-Tzu No. 1030951510 of the Ministry of the Interior on April 22, 2014 and set to be effective on the same date
+
+\8. Article 22 and 22-1 were amended, and promulgated by Decree Tai-Nei-Yi-Tzu No. 10709444798 of the Ministry of the Interior on December 5, 2018 and set to be effective on the same date
+
+\9. Article 8, 15 and 22 were amended, and promulgated by Decree Tai-Nei-Yi-Tzu No. 11009116452 of the Ministry of the Interior on July 9, 2021 and set to be effective on January 1, 2023.
+
+\10. Article 9, 22-1 and 24 were amended, and promulgated by Decree Tai-Nei-Yi-Tzu No. 11109113781 of the Ministry of the Interior on June 13, 2022 and set to be effective on the same date
+
+\11. An amendment consisting of 24 articles was promulgated by Order Tai-Nei-Yi-Zi No. 11209133831 of the Ministry of the Interior on December 27, 2023, and shall come into effect on January 1, 2024, except for Article 17, which shall come into effect on March 1, 2024.
+
+\12. Article 3, 10 and 19 were amended, and promulgated by Decree Tai-Nei-Yi-Tzu No. 11409336071 of the Ministry of the Interior on December 31, 2025 and set to be effective on January 1, 2026.

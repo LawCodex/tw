@@ -1,0 +1,155 @@
+---
+title: "Regulations for Handling Complaints Concerning Gender Equality in Employment"
+title_zh: "性別平等工作申訴審議處理辦法"
+identifier: "N0030016"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動條件及就業平等目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-03-06
+last_amended: 2024-01-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030016"
+retrieved: 2026-10-12
+---
+
+# Regulations for Handling Complaints Concerning Gender Equality in Employment
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0030016-regulations-for-handling-complaints-concerning-gender-equality-in-employment.md](../../../zh/regulations/ministry-of-labor/N0030016-regulations-for-handling-complaints-concerning-gender-equality-in-employment.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Regulations are enacted pursuant to Paragraph 4 of Article 34 of the Gender Equality in Employment Act (hereinafter referred to as the “Act”).
+
+### Article 2
+
+When an employee or job applicant (hereinafter referred to as the “complainant”) discovers that the employer has violated the provisions of Articles 7 to 11, Paragraph 2 of Article 13, Article 21, or Article 36 of the Act, they may file a complaint with the local competent authority pursuant to the Regulations.
+
+If the employer, employee, or job applicant (hereinafter referred to as the “applicant”) disagrees with the disposition made by the local competent authority after the review, they may apply for a review or appeal directly to the central competent authority's Gender Equality Work Committee within ten days pursuant to the Regulations.
+
+## Chapter 2 Procedure for acceptance of complaints by the local competent authority
+
+### Article 3
+
+The complaint filed by the complainant pursuant to Paragraph 1 of the preceding Article shall be reviewed by the Gender Equality Work Committee of the local competent authority pursuant to the Regulations.
+
+### Article 4
+
+The Gender Equality Work Committee of the local competent authority, which conducts the review pursuant to the preceding Article, shall make a decision within 3 months upon acceptance of the complaint, the period of which may be extended once if necessary, provided that the extension shall be no longer than 3 months and the complainant shall be notified by the local competent authority .
+
+### Article 5
+
+After filing a complaint with the local competent authority, the complainant may withdraw the complaint before a decision is made. After withdrawing the complaint, the complainant may not file a complaint on the same matter again.
+
+## Chapter 3 Procedure for acceptance of complaints by the central competent authority
+
+### Article 6
+
+The application for review filed by the applicant in writing with the central competent authority pursuant to Paragraph 2 of Article 2 shall be reviewed by the central competent authority’s Gender Equality Work Committee pursuant to the Regulations.
+
+The written form referred to in the preceding paragraph shall contain the following items signed or sealed by the applicant or they agent, included with documents related to the original administrative action:
+
+1.Name of the applicant, they address or residence, contact telephone number and ID number. If the applicant is a corporate entitf or other group with an administrator or a representative, the name, office or business office, name, address or residence, contact telephone number and ID number of the administrator and representative.
+
+2.Name, address or residence, contact telephone number and ID number of the legal representative and agent of the applicant, if any, attached with the power of attorney in the case of an agent having been appointed.
+
+3.Subject matters, facts and reasons for the complaint.
+
+4.The agency of office capability take administrative action.
+
+5.The date of the application.
+
+6.Appeals against previous administrative action, if any, and the agency with which the appeal has been filed and the date of the appeal.
+
+If the applicant has filed an appeal pertaining to the same matter, the central competent authority shall notify the applicant to withdraw the review or appeal in writing within 15 days.
+
+### Article 7
+
+The application for review shall be deemed duly served on the date when the central competent authority’s Gender Equality Work Committee receives the application form.
+
+If the applicant has filed the application for review with any agency other than the central competent authority in error, the date of acceptance by that agency shall be considered as the date of review for the application .
+
+### Article 8
+
+The central competent authority’s Gender Equality Work Committee shall deliver the photocopied or duplicated copy of the application form for review to the local competent authority. The local competent authority shall respond and explain within seven days after the receipt of the official documents,and forward related documents and materials to the agency with the obligation to take administrative action. The agency shall respond within 20 days after the receipt of the official documents, and forward related documents, and materials to the central competent authority.
+
+The central competent authority’s Gender Equality Work Committee shall make a decision within 3 months upon receipt of the application form for review. The period may be extended once if necessary, provided that the extension shall be no longer than 3 months and the applicant shall be notified .
+
+### Article 9
+
+The applicant may withdraw the application submitted to the central competent authority’s Gender Equality Work Committee for the review before a decision is maded. After withdrawing the application, the applicant may not file an application for review on the same matter again.
+
+## Chapter 4 Decision
+
+### Article 10
+
+If the complaint or application for review is found defective procedurally but is correctable, the competent authority shall notify the complainant or applicant to make corrections within 15 days upon receipt of the notice letter.
+
+If the complainant or application for review meets any of the following circumstances, a decision to reject the complaint  shall be made:
+
+1.If the complaint is held defective procedurally and uncorrectable, or not corrected within the specific time limit as notified.
+
+2.If the application for review is filed after the statutory period.
+
+3.If the complaint is not withdrawn pursuant to Paragraph 3 of Article 6.
+
+4.If the capability administrative action no longer exists.
+
+5.If a complaint or application for review is filed again on the same matter after the inifial complaint already been withdrawn.
+
+### Article 11
+
+The Gender Equality Work Committee of the competent authority shall conduct the review and make the decision only in writing. If necessary, it may notify the complainant, applicant and any other related agency or personnel to be present to provide explanation in person.
+
+### Article 12
+
+When the Gender Equality Work Committee of the competent authority is in the process of reviewing the application, it may designate two or more members of the committee to form a special taskforce to investigate the case, if necessary.
+
+When the special taskforce is are in the process of investigation, it shall protect the privacy rights of the complainants, applicants, respondents and related third-parties. After the process of investigation, the special taskforce shall make a investigation report and forward it to the Gender Equality Work Committee of the competent authority for review.
+
+### Article 13
+
+If the central authority’s Gender Equality Work Committee deems that the application for review is unreasonable, it shall make the decision to dismiss the application.
+
+Even if the reasons which the original administrative action is based on are held unfair, while there are other reasons to support the administrative action, the application for review shall be deemd unreasonable.
+
+If the application for review is deemd unreasonable, the central competent authority’s Gender Equality Work Committee shall make the decision to revoke the original administrative action, in whole or in part, and may also, based on case background, make its own modification to the original decision or remand the case to the agency with the obligation to take  administrative action for further administrative action. However, in consideration the scope of the objection which the applicant expressed, it shall not make a modification or decision which is less favorable to the interest of the applicant.
+
+If the decision made pertaining to against the review referred to in the preceding paragraph revokes the original administrative action and remands the case to the agency with the obligation to take administrative action for further administrative action, it shall specify a period for the agency to take such new administrative action.
+
+### Article 14
+
+When the decision on the application for review depends upon the settlement of a separate legal matter which is not yet resolved, other legal relationship and that legal relationship is not yet ascertainable, the Gender Equality Work Committee of the competent authority may, ex officio or per application, suspend the proceedings of the review and inform the complainants or applicants.
+
+### Article 15
+
+The proceedings pertaining to a complaint or review shall be held in private.
+
+### Article 16
+
+The competent authorities shall notify complainants applicants and respondents in writing of any  decision made by the Gender Equality Work Committee,.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 17
+
+The documents and forms referred to herein shall be set forth by the competent authority.
+
+### Article 18
+
+The Regulations shall be enforced as of March 8, 2024.
+
+## History
+
+1.Promulgated by the Council of Labor Affairs of the Executive Yuan on March 6, 2002 by Lao-Tung-Shan-Tze-No. 0910010448.
+
+2.Amended on July 10,2008
+
+3.Amended on April 26, 2008
+
+4.The Regulations shall be enforced as of March 8, 2024.

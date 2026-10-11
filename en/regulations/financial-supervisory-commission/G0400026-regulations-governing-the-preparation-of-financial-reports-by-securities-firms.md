@@ -1,0 +1,1161 @@
+---
+title: "Regulations Governing the Preparation of Financial Reports by Securities Firms"
+title_zh: "證券商財務報告編製準則"
+identifier: "G0400026"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1991-05-07
+last_amended: 2026-04-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400026"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Preparation of Financial Reports by Securities Firms
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400026-regulations-governing-the-preparation-of-financial-reports-by-securities-firms.md](../../../zh/regulations/financial-supervisory-commission/G0400026-regulations-governing-the-preparation-of-financial-reports-by-securities-firms.md)) is authoritative.
+
+## Chapter I General Principles
+
+#### Article 1
+
+These Regulations are adopted under Article 14, paragraph 2 of the Securities and Exchange Act (the "Act").
+
+#### Article 2
+
+The financial reports of a securities firm shall be prepared in accordance with these Regulations and other applicable laws and regulations. Matters not provided for therein shall be governed by generally accepted accounting principles (GAAP).
+
+The GAAP described in the preceding paragraph shall mean the following, as recognized by the Financial Supervisory Commission (FSC): International Financial Reporting Standards (IFRS), International Accounting Standards (IAS), and Interpretations developed by the International Financial Reporting Interpretations Committee (IFRIC) or the former Standing Interpretations Committee (SIC).
+
+#### Article 3
+
+When a securities firm simultaneously operates two or more of the businesses specified in Article 15 of the Act in accordance with applicable requirements, the accounting matters for each such business shall be handled separately. When a securities firm concurrently operates futures business pursuant to Article 57 of the Futures Trading Act, the accounting matters for its futures segment shall be governed by applicable futures trading laws and regulations. When a securities firm concurrently operates bills finance business pursuant to Article 17 of the Act Governing Bills Finance Business, the accounting matters for its bills finance segment shall be governed by applicable bills finance laws and regulations. When a securities firm concurrently operates specified trust business lines pursuant to Article 3 of the Trust Enterprise Act, the accounting matters for its trust segment shall be governed by applicable trust enterprise laws and regulations.
+
+When a financial institution concurrently operates securities business pursuant to Article 45, paragraph 2 of the Act, if the treatment of its accounting matters is subject to other applicable financial laws and regulations of the competent authority in charge of that industry, those laws and regulations shall govern. However, accounting matters and financial reports for its securities operations shall still be governed by these Regulations.
+
+If a securities firm's securities business is operated by different departments based on the nature of business, the accounting matters thereof may be separately handled by each department.
+
+#### Article 4
+
+A securities firm shall establish, and amend when necessary, an accounting system based on the nature of its accounting matters, the actual status and development of its business, and its management needs.
+
+The accounting system referred to in the preceding paragraph shall, based on the nature of the securities firm's business operations, and in a way that meets the needs of preparation of the consolidated financial reports and uniformity in the accounting policies of the securities firm and its subsidiaries, separately provide a general description of the accounting system, descriptions and uses of accounting items, accounting documents, account books, and accounting reports, and accounting procedures.
+
+A securities firm shall see to it that its subsidiaries establish their accounting systems in accordance with the preceding paragraph.
+
+#### Article 5
+
+With the exception of a securities firm concurrently operated by a financial institution, which shall otherwise be subject to other applicable requirements, the appointment and discharge of the principal accounting officer of a securities firm shall be approved by a majority of the directors present at a board of directors meeting attended by a majority of the directors. Within 5 days after appointment or change, the securities firm shall file for registration with the Taiwan Stock Exchange (TWSE), the Taipei Exchange (TPEx), or the relevant securities dealers association, to be forwarded to the FSC for recordation.
+
+#### Article 6
+
+Except as otherwise approved by the FSC, a securities firm shall use the calendar year as its financial year, with accounts closed on June 30 for the first half of the financial year and on December 31 for the whole financial year.
+
+The accrual basis of accounting shall be used.
+
+Accounts shall be expressed in New Taiwan Dollars (NT$).
+
+Financial statements shall be presented in thousands of NT dollars.
+
+#### Article 7
+
+"Financial reports" shall mean financial statements, statements of major accounting items, and any other disclosures and explanatory information helpful to the decision making of the primary users.
+
+A complete set of financial statements shall comprise a balance sheet, a statement of comprehensive income, a statement of changes in equity, a statement of cash flows, and their accompanying notes or supplementary schedules.
+
+A securities firm, unless newly established, or under any of the circumstances set out in paragraph 4 herein, or otherwise required by the FSC, shall prepare the major financial statements and notes described in the preceding paragraph by presenting comparative information for two consecutive periods. The major financial statements shall also be signed or sealed on each page by the securities firm's chairperson, managerial officer, and principal accounting officer.
+
+When a securities firm applies an accounting policy retrospectively or makes a retrospective restatement of items in its financial reports, or when it reclassifies items in its financial reports, it shall do so in accordance with the applicable provisions of IFRS 18.
+
+For the purposes of these Regulations, information is material if omitting, misstating or obscuring the information in the financial reports could reasonably be expected to influence decisions that the primary users of general purpose financial reports make on the basis of information in those financial reports. Judgments of materiality depend on qualitative factors and quantitative factors. Whether information is quantitatively material is assessed by considering not only the size of the impact recognized in the financial report, but also any unrecognized items that could ultimately affect primary users' overall perception of the securities firm's financial position, financial performance and cash flows (e.g., contingent liabilities or contingent assets). When assessing qualitative factors, consideration shall be given to both securities firm-specific and external qualitative factors, including involvement of a related party, uncommon transactions or features of a transaction, unexpected variation or changes in trends, the securities firm's geographical location, its industry sector, or the state of the economy or economies in which it operates.
+
+#### Article 8
+
+If an enterprise from another industry concurrently operates securities business, when preparing financial reports in accordance with the requirements of the competent authority in charge of that industry, it shall additionally disclose a balance sheet, a statement of comprehensive income, accompanying notes, and statements of major accounting items for the independent securities segment prepared in accordance with Chapter II of these Regulations. This requirement does not apply, however, if the enterprise from another industry only concurrently operates proprietary bond trading.
+
+#### Article 9
+
+Financial reports shall present fairly the financial position, financial performance, and cash flows of a securities firm without being misleading to an interested party in making judgments and decisions.
+
+If a financial report violates these Regulations or any other applicable requirements, for which the FSC as a result of an audit gives a notice requiring adjustment to be made, the securities firm shall make the required adjustment and correction. If the adjusted amount reaches the threshold set by the FSC, a corrected financial report shall be publicly disclosed, together with a description of the reasons, items, and amount specified in the FSC notice for adjustment.
+
+#### Article 10
+
+The following shall apply when a securities firm makes an accounting change:
+
+\1. Changes in accounting policies:
+
+A. "Accounting policies" are the specific principles, bases, conventions, rules and practices applied by a securities firm in preparing and presenting financial statements.
+
+B. When a securities firm changes an accounting policy voluntarily in a new financial year in order to produce financial reports that provide reliable and more relevant information about the effects of transactions or other events or conditions on the securities firm's financial position, financial performance, or cash flows, it shall request its attesting certified public accountants (CPAs) to provide an item-by-item analysis and review opinion on the reasonableness of the nature of the change in accounting policy, the reasons why applying the new accounting policy provides reliable and more relevant information, each line item affected and the estimated effect for the financial year preceding the earliest financial year affected by retrospective application of the new accounting policy, and the actual effect on the opening balance of retained earnings for the immediately preceding financial year. These shall be submitted as a proposal for adoption by resolution of the board of directors, after which they shall be submitted to the FSC for approval. Upon approval by the FSC, the securities firm shall publicly disclose and file information on the estimated effect arising from the application of the new accounting policy and the attesting CPAs' review opinion.
+
+C. If, for the voluntary change in accounting policy in the new financial year, it is impracticable to determine either the period-specific effects or the cumulative effect of the change, as described in paragraph 23 of IAS 8, the securities firm shall calculate the effects in accordance with paragraph 24 of IAS 8 and the preceding item above, and shall request the attesting CPAs to provide an item-by-item analysis and review opinion on the reasonableness of the reasons why retrospective application is impracticable and how and from when the change in accounting policy has been applied, and also provide an opinion on the impact on the audit opinion for the financial year preceding the change in accounting policy. The securities firm shall then follow the procedure described above.
+
+D. Unless it is impracticable to determine the effects as described in the preceding item, then within 2 months after the beginning of the financial year in which the new accounting policy is adopted, the securities firm shall calculate the line items affected and the actual effect for the financial year preceding the earliest financial year affected by retrospective application of the new accounting policy and the actual effect on the opening balance of retained earnings for the immediately preceding financial year, and shall submit those for adoption by the board of directors, after which they shall be publicly disclosed and filed and submitted to the FSC for recordation. If the difference between the actual effect of the change in accounting policy and the original estimated effect is NT$10 million or more, and is also 1 percent or more of the income for the immediately preceding financial year or 5 percent or more of paid-in capital, the securities firm shall analyze the reasons for the difference and request the attesting CPAs to provide an opinion on its reasonableness. The analysis and the CPAs' opinion shall also be publicly disclosed and filed with the FSC.
+
+E. Except when a securities firm applies a new accounting policy to newly purchased assets, in which case the provisions of the preceding items need not be applied, and except when, after the beginning of a financial year, a securities firm voluntarily changes an accounting policy during the year in which regulatory adjustments have come into force, in which case the securities firm shall request the attesting CPAs to issue a review opinion and submit it for adoption by the board of directors and publicly disclose it and then shall file the review opinion and relevant materials with the FSC for recordation, if a change in accounting policy is applied without having been duly filed for approval, the financial reports for the financial year in which the new accounting policy was applied shall be restated, and the new accounting policy may only be applied from the next financial year after a supplementary submission has been made and approved.
+
+F. In the case of a securities firm whose shares have a par value other than NT$10, for the calculation of the 5 percent of paid-in capital under item D, 2.5 percent of the equity attributable to owners of the parent as stated in the balance sheet shall be substituted.
+
+\2. Changes in accounting estimates:
+
+A. "Accounting estimates" means amounts in financial statements that are subject to measurement uncertainty and are estimated by securities firms using measurement techniques and inputs.
+
+B. If a change in an accounting estimate arises from a change in the useful life or depreciation method of depreciable assets, a change in the amortization period or amortization method of intangible assets, a change in the residual value of any such assets, or a change in a technique used to estimate the fair value thereof, in addition to complying with item E of the preceding subparagraph, a securities firm shall request the attesting CPAs to provide an analysis and review opinion on the reasonableness of the nature of the changes and the reasons why the changes can provide reliable and more relevant information. The changes in accounting estimates shall then be submitted as a proposal for adoption by resolution of the board of directors, and then submitted to the FSC for approval.
+
+The expression "public disclosure and filing" or "publicly disclose and file" as used in the preceding paragraph means entering the information into the website designated by the FSC for the submission of electronic filings.
+
+#### Article 11
+
+A securities firm shall prepare consolidated financial reports in accordance with Chapter II of these Regulations and IFRS 10, and shall prepare annual parent company only financial reports in accordance with Chapter IV of these Regulations.
+
+A securities firm that does not have a subsidiary shall prepare individual financial reports in accordance with Chapter II of these Regulations, and when preparing annual financial reports shall follow the provisions of Articles 27 to 32 of these Regulations.
+
+A securities firm that meets certain criteria shall, in its annual consolidated or individual financial report, prepare the sustainability-related financial information passed by resolution of the board of directors as provided in Chapter IV-I. That information is not required to be audited or reviewed by the attesting CPAs; the aforementioned "certain criteria" shall be separately prescribed by the FSC.
+
+A securities firm that prepares an annual report in accordance with the Regulations Governing Information to be Published in Annual Reports of Public Companies and discloses in that annual report the content set out in Articles 28 to 31 and Article 32-1 herein may be exempted from the requirements of Articles 28 to 32 with respect to its annual financial report, and may disclose the content of the information required under Article 32-1 by means of an index for cross-reference, and the information so disclosed shall be deemed an integral part of the disclosures of the financial report.
+
+A securities firm preparing interim financial reports shall follow the provisions of Chapters II and III of these Regulations as well as IAS 34. A securities firm, when preparing semi-annual financial reports, shall also prepare semi-annual parent company only financial reports pursuant to Articles 25 to 27, or semi-annual individual financial reports pursuant to Article 27.
+
+#### Article 12
+
+The meaning of "parent," "subsidiary," "associate, " and "joint arrangement" as used in these Regulations shall be determined in accordance with IFRS 10, IFRS 11, and IAS 28.
+
+The meaning of "control," "significant influence," or "joint control" as used in these Regulations shall be determined in accordance with IFRS 10, IFRS 11, and IAS 28.
+
+#### Article 13
+
+Unless otherwise required by the FSC, the records retention period for the financial reports identified in these Regulations, or for the accounting documents, journals, ledgers, deeds, vouchers, and books based on which the financial reports are prepared, shall be subject to the Business Accounting Act.
+
+#### Article 13-1
+
+In the case of a securities firm that is a foreign company's branch within the territory of the Republic of China, unless otherwise provided by the FSC, the functions required by these Regulations to be performed by the board of directors or the supervisors shall be performed by the responsible person of the branch within the territory of the Republic of China authorized by the head office or regional headquarters of the foreign company.
+
+## Chapter II Financial Reports
+
+### Section I Balance Sheet
+
+#### Article 14
+
+Assets shall be properly classified. Current and non-current assets shall be distinguished.
+
+For each asset line item, the total amount expected to be recovered within 12 months after the balance sheet date and the total amount expected to be recovered more than 12 months after the balance sheet date shall be separately presented in the financial reports or disclosed in the notes.
+
+Current asset means that the securities firm expects to realize the asset, or intends to sell or consume it, in its normal operating cycle; that it holds the asset primarily for the purpose of trading; that it expects to realize the asset within 12 months after the balance sheet date; or that the asset is cash or a cash equivalent, unless the asset is to be used for an exchange or to settle a liability, or otherwise remains restricted, at more than 12 months after the balance sheet date. As a minimum, current assets shall include the following asset line items:
+
+\1. Cash and cash equivalents:
+
+A. Cash on hand, demand deposits, and short-term, highly liquid time deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+
+B. A securities firm shall disclose the components of cash and cash equivalents and the policy which it adopts in determining the composition of cash and cash equivalents.
+
+\2. Financial assets at fair value through profit or loss – current, shall be classified as broker's investments in securities, open-end funds or money market instruments, securities held for operations, or derivative instruments:
+
+A. Financial assets not measured at amortized cost or at fair value through other comprehensive income.
+
+B. Financial assets measured at amortized cost or at fair value through other comprehensive income, which may be designated as financial assets measured at fair value through profit or loss according to IFRS 9.
+
+\3. Financial assets measured at fair value through other comprehensive income - current:
+
+A. Debt instrument investment that meet all of the following conditions:
+
+a. The securities firm holds the financial assets within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.
+
+b. The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+B. Equity investments not held for trading, for which the securities firm has irrevocably elected at initial recognition to present changes in fair value in other comprehensive income.
+
+\4. Financial assets measured at amortized cost – current, meaning that all of the following conditions are met:
+
+A. The securities firm holds the financial assets within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.
+
+B. The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+\5. Financial assets for hedging – current: Any financial asset that is a designated and effective hedging instrument under hedge accounting requirements.
+
+\6. Investments in bonds with reverse repurchase agreements: The actual amounts paid by a securities firm when engaging in transactions in bonds with reverse repurchase agreements.
+
+\7. Securities margin loans receivable: Margin loans extended to customers by a securities firm conducting securities trading margin purchase and short sale business.
+
+\8. Deposits for securities borrowed: Guarantee amounts deposited by a securities firm in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
+
+\9. Collateral for securities borrowed: Collateral posted by a securities firm in Securities Borrowing and Lending transactions, either for borrowing underlying securities from the holders or for short selling on an exchange market.
+
+\10. Trade receivables, which means the securities firm has an unconditional contractual right to consideration in exchange for services that have been transferred:
+
+A. Claims arising from a securities firm's business operations, including transaction proceeds receivable from the sale of securities held for operations, margin loan interest receivable from proprietary margin trading operations, and receivables from the execution of customer orders to buy or sell securities. The details of such trade receivables shall be disclosed in the notes.
+
+B. Trade receivables shall be measured in accordance with IFRS 9. However, short-term trade receivables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+
+C. With respect to discounted or transferred trade receivables, an assessment shall be made to determine whether the risks and rewards of the trade receivables, and the control retained over them, will qualify them for derecognition under IAS 39, and the trade receivables shall then be disclosed in accordance with IFRS 9.
+
+D. Trade receivables from related parties in significant amounts shall be presented separately.
+
+E. The securities firm shall disclose an aged analysis of trade receivables.
+
+\11. Prepayments: All prepayments and prepaid expenses.
+
+\12. Other receivables: Means receivables other than trade receivables.
+
+\13. Current tax assets: The portion of the tax amount already paid in respect of current and prior periods that exceeds the amount due for those periods.
+
+\14. Non-current assets held for sale:
+
+A. Any non-current asset, or asset included in a disposal group held for sale, that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such disposal groups, and whose sale must be highly probable.
+
+B. The measurement, presentation, and disclosure of non-current assets held for sale and disposal groups held for sale shall be made in accordance with IFRS 5.
+
+C. When non-current assets or disposal groups classified as held for sale no longer meet the criteria in IFRS 5, they shall cease to be classified as held for sale.
+
+D. When assets or disposal groups meet the definition of held for distribution to owners, they shall be reclassified from held for sale to held for distribution to owners, and shall be deemed an extension of the original disposal plan, and the classification, presentation, and measurement of the new disposal plan shall apply. When the assets or disposal groups classified as held for distribution to owners no longer meet the criteria in IFRS 5, they shall cease to be classified as held for distribution to owners.
+
+\15. Other current assets: Current assets not attributable to any of the classes above.
+
+Non-current assets means tangible, intangible and financial assets of a long-term nature, other than assets classified as current. As a minimum, non-current assets shall include the following asset line items:
+
+\1. Investments accounted for using the equity method:
+
+A. The valuation and presentation of investments accounted for using the equity method shall be made in accordance with IAS 28.
+
+B. When investment gain or loss is recognized, if the financial reports prepared by an associate do not conform to these Regulations, those financial reports shall first be adjusted to achieve conformance before they may be used to recognize investment gain or loss. The financial reports of an associate used in applying the equity method shall be prepared as of the same date as that of the investor, and if prepared as of a different date, adjustments shall be made for the effects of material transactions or events that occur between that date and the date of the investor's financial reports. In no case shall there be more than 3 months difference between the balance sheet date of the associate and that of the investor. If the attesting CPAs determine, pursuant to Standards on Auditing 320, that an associate has a material effect on the fair presentation of the financial reports of an investor, the financial reports of the associate shall be audited by a CPA in accordance with the Regulations Governing Financial Statement Audit and Attestation Engagements of Certified Public Accountants and the Standards on Auditing.
+
+C. If an investment accounted for using the equity method is pledged as collateral or otherwise subject to any restriction or limitation, that fact shall be noted.
+
+\2. Property and equipment:
+
+A. Tangible asset items that are held for use in the production or supply of goods or services, for rental to others, or for administrative purposes, and that are expected to be used during more than 1 financial year or 1 operating cycle.
+
+B. Property and equipment shall be subsequently measured using the cost model and accounted for in accordance with IAS 16.
+
+C. Each component of property and equipment that is significant shall be depreciated separately. The depreciation method used shall reflect the pattern in which the asset's future economic benefits are expected to be consumed. If that pattern cannot be determined reliably, the straight-line method shall be used. The depreciable amount should be allocated on a systematic basis over the asset's useful life.
+
+D. When items of property and equipment have different useful lives, or provide economic benefits in different ways, or are subject to different depreciation methods or depreciation rates, the notes shall show each class of their material components.
+
+\3. Right-of-use assets:
+
+A. Means an asset that represents a lessee's right to use an underlying asset for the lease term.
+
+B. A right-of-use asset shall be accounted for in accordance with IFRS 16.
+
+\4. Investment property:
+
+A. Means property that is held by the owner or that is held by the lessee with the right of use, to earn rentals, or for capital appreciation, or both.
+
+B. Investment property shall be accounted for in accordance with IAS 40. If the investment property is subsequently measured at fair value, the valuation model, qualifications of the appraiser, and information disclosure shall comply with Article 9, paragraph 4, subparagraph 4 of the Regulations Governing the Preparation of Financial Reports by Securities Issuers.
+
+\5. Intangible assets:
+
+A. An identifiable non-monetary asset without physical substance that meets the definition of identifiability, control, and existence of future economic benefits.
+
+B. Intangible assets shall be subsequently measured using the cost model and accounted for in accordance with IAS 38.
+
+C. The amortization method used shall reflect the pattern in which the asset’s future economic benefits are expected to be consumed by the securities firm. If that pattern cannot be determined reliably, the straight-line method shall be used. The amortized amount of an intangible asset shall be allocated on a systematic basis over its useful life.
+
+\6. Deferred tax assets: The amounts of income taxes recoverable in future periods in respect of deductible temporary differences, the carryforward of unused tax losses, and the carryforward of unused tax credits.
+
+\7. Other non-current assets: Non-current assets not attributable to any of the classes above.
+
+The accounting treatment and the recognition and measurement of loss allowances for the items described in the preceding two paragraphs in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, investments in bonds with reverse repurchase agreements, securities margin loans receivable, deposits for securities borrowed, collateral for securities borrowed, trade receivables, and other receivables shall be in accordance with IFRS 9. Loss allowances shall be classified respectively as a deduction from financial assets measured at amortized cost, securities margin loans receivable, trade receivables, and other receivables. If those classifications are further subclassified, the loss allowances thereof shall also be presented respectively in the same manner.
+
+A securities firm shall assess at each balance sheet date whether there is any objective evidence of impairment for the items described in paragraph 4 in relation to investments accounted for using the equity method, property and equipment, right-of-use assets, investment property measured using the cost model, and intangible assets. If any such evidence exists, the securities firm shall recognize the amount of any impairment loss in accordance with IAS 36. If the recoverable amount of non-financial assets is determined on the basis of fair value less costs of disposal, disclose the extra information regarding the fair value measurement, including the level of the fair value hierarchy, the valuation techniques, and the key assumptions. If the recoverable amount is determined on the basis of value in use, disclose the discount rate for value in use measurement.
+
+With respect to the items described in paragraph 3 and paragraph 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, financial assets for hedging, securities margin loans receivable, trade receivables, other receivables, non-current assets held for sale, and investment property, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
+
+The items described in paragraphs 3 and 4 in relation to financial assets at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost, and financial assets for hedging shall be distinguished as current and non-current based on liquidity.
+
+#### Article 15
+
+Liabilities shall be properly classified. Current and non-current liabilities shall be distinguished.
+
+For each liability line item, the total amount expected to be settled within 12 months after the balance sheet date and the total amount expected to be settled more than 12 months after the balance sheet date shall be separately presented in the financial reports or disclosed in the notes.
+
+Current liability means that the securities firm expects to settle the liability in its normal operating cycle; that it holds the liability primarily for the purpose of trading; that the liability is due to be settled within 12 months after the balance sheet date, even if an agreement to refinance or to reschedule payments on a long-term basis is completed after the balance sheet date and before the financial reports are authorized for issue; or that the securities firm on the balance sheet date does not have in substance the right to defer settlement of the liability for at least 12 months after the balance sheet date. Terms of a liability that could, at the option of the counterparty, result in its settlement by the transfer of the securities firm's own equity instruments do not affect its classification as current or non-current if the securities firm classifies the option as an equity instrument. As a minimum, current liabilities shall include the following liability line items:
+
+\1. Short-term borrowings:
+
+A. Includes short-term borrowings from banks, overdrafts, and other short-term borrowings.
+
+B. For short-term borrowing, the nature of the borrowing, the guarantee status, and the interest rate range shall be noted based on the type of borrowing. If collateral is provided, the name and carrying amount of the collateral shall be presented.
+
+C. Borrowings from non-financial, non-insurance institutions in accordance with Article 17 of the Regulations Governing Securities Firms shall be presented separately.
+
+\2. Commercial paper payable:
+
+A. Commercial paper issued through financial institutions to acquire funds from the money market.
+
+B. Commercial paper payable shall be measured at amortized cost using the effective interest method. However, short-term commercial paper payable with no stated interest rate may be measured at the original face amount if the effect of discounting is immaterial.
+
+C. For commercial paper payable, the guarantor or accepting institution and the interest rate shall be noted. If collateral is provided, the name and carrying amount of the collateral shall be noted.
+
+\3. Financial liabilities at fair value through profit or loss – current: The following financial instruments shall be appropriately recorded under the category of investments in bonds with reverse repurchase agreements – short sale, call (put) warrants, securities borrowed, or derivative instruments:
+
+A. Financial liabilities held for trading:
+
+a. Liabilities that are incurred principally for the purpose of repurchasing them in the near term;
+
+b. Liabilities that, upon initial recognition, are part of a portfolio of identified financial instruments that are managed together and for which there is evidence of a recent pattern of short-term profit-taking; or
+
+c. Derivative financial liabilities, except for financial guarantee contracts or financial liabilities that are designated and effective hedging instruments.
+
+B. Financial liabilities that are designated as at fair value through profit or loss.
+
+C. Financial liabilities at fair value through profit or loss shall be measured at fair value. However, with respect to a financial liability designated as at fair value through profit or loss, if the amount of change in the fair value of the financial liability is attributable to change in the credit risk, it shall be recognized in other comprehensive income, unless for the purpose of avoiding accounting mismatch or in the case of loan commitments and financial guarantee contracts, under which circumstances the amount of changes in fair value shall be recognized in profit or loss.
+
+\4. Financial liabilities for hedging – current: A financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
+
+\5. Liabilities for bonds with repurchase agreements: The actual amounts received by a securities firm when engaging in transactions in bonds with repurchase agreements.
+
+\6. Short sale margins: Margins received from short selling customers by a securities firm conducting securities trading margin purchase and short sale business.
+
+\7. Payables for short sale collateral received: Short sale proceeds (less securities transaction taxes, handling fees for execution of customer orders, and short sale handling fees) received as collateral from short selling customers by a securities firm conducting securities trading margin purchase and short sale business.
+
+\8. Trade payables:
+
+A. Payables arising from a securities firm's business operations, including transaction proceeds payable from its purchase of securities held for operations and payables from its execution of customer orders to buy or sell securities. The details of such trade payables shall be disclosed in the notes.
+
+B. Trade payables shall be measured at amortized cost using the effective interest method. However, short-term trade payables with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+
+C. Payables to related parties in significant amounts shall be presented separately.
+
+\9. Other payables: Payables other than trade payables, such as tax payable, accrued payroll, and dividends payable. For dividends and bonuses payable passed by resolution of the board of directors or a shareholders meeting in accordance with the Company Act, the distribution method and scheduled payment date, if determined, shall be disclosed.
+
+\10. Current tax liabilities: Unpaid tax for current and prior periods.
+
+\11. Provisions – current:
+
+A. Any liability of uncertain timing or amount.
+
+B. Provisions shall be accounted for in accordance with IAS 37.
+
+C. A provision shall be recognized when a securities firm has a present obligation as a result of a past event, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation, and a reliable estimate can be made of the amount of the obligation.
+
+D. A securities firm shall disaggregate provisions into provisions for employee benefits and other items in the notes to the financial reports.
+
+\12. Liabilities directly associated with non-current assets held for sale: Any liability included in a disposal group held for sale that is available for immediate sale in its present condition subject only to terms that are usual and customary for sales of such disposal groups, and whose sale must be highly probable.
+
+\13. Other current liabilities: Current liabilities not attributable to any of the classes above.
+
+Non-current liabilities means liabilities other than current liabilities. Whether the securities firm intends or expects to settle a liability within 12 months after the balance sheet date does not affect the classification of the liability as current or non-current. As a minimum, non-current liabilities shall include the following liability line items:
+
+\1. Bonds payable (including overseas bonds):
+
+A. For bonds issued by a securities firm, the total approved amount, interest rate, maturity date, name of collateral, carrying amount, issuing area, and other relevant terms and restrictions shall be noted in the notes to the financial reports. If the bonds are convertible bonds, the method of conversion and amounts already converted shall also be noted.
+
+B. Premiums and discounts on bonds payable are valuations of bonds payable. They shall be presented as an addition to or deduction from bonds payable, and shall also be amortized, as an adjustment to interest expenses, using the effective interest method during the period of bond circulation.
+
+\2. Long-term borrowings:
+
+A. For long-term borrowings, the content, maturity date, interest rate, name of collateral, carrying amount, and any other important restriction terms shall be noted.
+
+B. For a long-term borrowing repaid in a foreign currency or in an amount translated at a foreign exchange rate, the name and amount of such foreign currency shall be noted.
+
+C. Long-term notes payable and other long-term payables shall be measured at amortized cost using the effective interest method.
+
+\3. Lease liabilities:
+
+A. Means the present value of the lease payments that the lessee has not paid.
+
+B. Lease liabilities shall be accounted for in accordance with IFRS 16.
+
+\4. Deferred tax liabilities: The amounts of income taxes payable in future periods in respect of taxable temporary differences.
+
+\5. Other non-current liabilities: Non-current liabilities not attributable to any of the classes above.
+
+The items described in the preceding two paragraphs in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, liabilities for bonds with repurchase agreements, short sale margins, payables for short sale collateral received, trade payables, and other payables shall be accounted for in accordance with IFRS 9.
+
+With respect to the items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, short sale margins, payables for short sale collateral received, trade payables, other payables, bonds payable, and long-term borrowings, the measurement and disclosure of fair value shall be made in accordance with IFRS 13.
+
+The items described in paragraphs 3 and 4 in relation to financial liabilities at fair value through profit or loss, financial liabilities for hedging, lease liabilities, and provisions shall be distinguished as current and non-current based on liquidity.
+
+#### Article 16
+
+Equity items, their components, and information to be disclosed in the balance sheet are as follows:
+
+\1. Equity attributable to owners of the parent:
+
+A. Share capital:
+
+a. Capital contributed by shareholders to a securities firm, but excluding preferred shares in the nature of liabilities.
+
+b. For share capital, the classes, par value per share, the number of shares authorized, the number of shares issued and fully paid (including shares not yet registered with the competent authority in charge of company registration), a reconciliation of the number of shares outstanding at the beginning and at the end of the period, the rights, preferences and restrictions attaching to each class of share capital, shares in the securities firm held by the securities firm or by its subsidiaries or associates, shares reserved for issue (or for transfer or conversion) under options and contracts for the sale of shares, and special conditions shall be disclosed in the notes.
+
+B. Capital surplus: Means the equity components of financial instruments issued by a securities firm or premiums resulting from share capital transactions between a securities firm and its owners, and typically includes premium in excess of the par value of the shares issued, donated surplus, and others arising as a result of regulatory provisions associated with these Regulations. Capital surpluses shall be presented separately according to their nature; if there is any restriction on their use, the restriction shall be disclosed in the notes.
+
+C. Retained earnings (or accumulated deficit): Equity resulting from operating activities, including legal reserves, special reserves, and undistributed earnings (or deficit to be offset).
+
+a. Legal reserve: A fixed-percentage reserve appropriated as required by the Company Act.
+
+b. Special reserve: A reserve appropriated from earnings in accordance with the requirements of applicable laws and regulations, contracts, or articles of incorporation, or as resolved at shareholders meetings.
+
+c. Undistributed earnings (or deficit to be offset): Undistributed and unappropriated earnings ("deficit to be offset" is deficit not yet offset).
+
+d. An earnings distribution or offsetting of deficit shall not be accounted for unless and until passed by a resolution of the board of directors or a shareholders meeting in accordance with the Company Act. However, when an earnings distribution or offsetting of deficit has been proposed, such shall be disclosed in the notes to the financial reports for the current period.
+
+D. Other equity: Includes the accumulated balances of exchange differences resulting from translating the financial statements of a foreign operation, of unrealized gains or losses from financial assets measured at fair value through other comprehensive income, gains and losses on hedging instruments, and of revaluation surplus.
+
+E. Treasury shares: Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
+
+\2. Non-controlling interest:
+
+A. The equity in a subsidiary not attributable, directly or indirectly, to a parent.
+
+B. For each business combination, the components of non-controlling interest in the acquiree shall be measured in accordance with IFRS 3.
+
+C. A securities firm shall disclose information on any subsidiary in which it has a non-controlling interest of materiality and on the non-controlling interest in accordance with IFRS 12.
+
+In the case of an enterprise from another industry that concurrently operates securities business, when preparing financial statements for its securities segment in accordance with Article 8 of these Regulations, it shall separately present the operating capital earmarked for use in the securities segment under equity items.
+
+A securities firm may elect to recognize the remeasurements of defined benefit plans in retained earnings or other equity, and disclose the accounting policy in the notes. Remeasurements of defined benefit plans that have been recognized in other equity may not be reclassified into profit or loss or transferred into retained earnings in a subsequent period.
+
+### Section II Statement of Comprehensive Income
+
+#### Article 17
+
+A securities firm shall present all items of income and expense recognized in a period in a single statement of comprehensive income displaying components of profit or loss and components of other comprehensive income.
+
+A securities firm shall present expenses recognized in profit or loss under the preceding paragraph using a classification based on their nature.
+
+When items of income or expense are material, a securities firm shall disclose their nature and amount separately in the statement of comprehensive income or in the notes.
+
+The income and expenses recognized in profit or loss under paragraph 1 shall be classified into the operating category, investing category, financing category, income taxes category, or discontinued operations category in accordance with IFRS 18. A securities firm shall further assess whether it has a specified main business activity of investing in particular types of assets or providing financing to customers, so as to classify income and expenses into the appropriate category.
+
+As a minimum, the statement of comprehensive income shall include the following line items, with the related details disclosed in the notes:
+
+\1. Income:
+
+A. Brokerage fee revenue: Revenue from handling fees received by a securities firm for executing customer orders, during short sale or securities lending operations, or for the provision of agency services for transactions in emerging stocks.
+
+B. Revenue from underwriting business: Remuneration from underwriting securities on a firm commitment basis, handling fee revenue from underwriting securities on a best-efforts basis, revenue from underwriting processing fees, and revenue from underwriting advisory fees.
+
+C. Net gains (losses) on issuance of call (put) warrants: A securities firm's net gains or losses arising from changes in fair value of liabilities for call (put) warrants and of repurchased call (put) warrants, gains on exercise of call (put) warrants before maturity, and gains on expired call (put) warrants, less related fees incurred by the securities firm for issuing call (put) warrants.
+
+D. Net gains (losses) on sale of securities held for operations: The net amount after offsetting all gains and losses arising from the sale of securities held for operations by the dealing and underwriting segments.
+
+E. Net gains (losses) on measurement at fair value through profit or loss for securities held for operations: The net amount after offsetting all gains and losses arising from the fair value measurement of securities held for operations that are acquired by the dealing and underwriting segments.
+
+F. Realized net gains or losses from debt instrument investments measured at fair value through other comprehensive income: The net amount after offsetting all gains and losses arising from the sale by a securities firm of debt instruments measured at fair value through other comprehensive income.
+
+G. Net gains or losses from reclassification of financial assets: Means gains or losses that meet one of the following conditions in accordance with IFRS 9:
+
+a. Net gains or losses from reclassification from measurement at amortized cost to measurement at fair value through profit or loss.
+
+b. Cumulative net gains or losses from reclassification from measurement at fair value through other comprehensive income to measurement at fair value through profit or loss.
+
+H. Expected credit impairment losses and reversal gains: the amount of expected credit impairment losses (or reversals) recognized in accordance with IFRS 9.
+
+I. Gains or losses arising from derecognition of financial assets measured at amortized cost: Means gains or losses arising when a securities firm derecognizes from its books financial assets measured at amortized cost that it had originally recognized.
+
+J. Net gains (losses) on the covering of securities borrowing and short sales of bonds with reverse repurchase agreements: In the case of a securities firm engaging in securities borrowing or outright sale of government bonds acquired under reverse repurchase agreements, the net amount after offsetting all gains arising from a decline in the market price of the given security when the trade is covered at maturity with all losses arising from an increase in the market price of the given security when the trade is covered at maturity.
+
+K. Net gains (losses) on measurement at fair value through profit or loss for securities borrowing and short sales of bonds with reverse repurchase agreements: In the case of a securities firm engaging in securities borrowing or outright sale of government bonds acquired under reverse repurchase agreements, the net amount after offsetting all gains and losses from measuring relevant items at fair value.
+
+L. Interest revenue calculated using the effective interest method: Interest revenue that a securities firm derives from its margin purchase or money lending business or otherwise related to its business activities, where such interest revenue is calculated using the effective interest method in accordance with IFRS 9.
+
+M. Net income from wealth management business: In the case of a securities firm engaging in wealth management business, the net amount of the resultant revenues less related expenditures.
+
+N. Net gains (losses) on derivative instruments: In the case of a securities firm engaging in domestic or foreign derivative instrument business or hedging transactions, the net amount after offsetting the resultant gains and losses.
+
+O. Other operating income: Operating revenues and gains not attributable to any of the items above.
+
+P. The recognition and measurement of revenue from contracts with customers shall be made in accordance with IFRS 15. If a securities firm controls specific services before it transfers the services to its customer, it shall recognize the revenue based on the gross amount; otherwise, it shall recognize the revenue based on the net amount.
+
+\2. Expenditures and expenses:
+
+A. Handling fee expenses: Includes broker's exchange fees, dealer's exchange fees, and underwriting handling fees that a securities firm is required to pay to the TWSE or the TPEx.
+
+B. Employee benefits expenses:
+
+a. Expenses in relation to employee benefits that IAS19 requires to be recognized, including short-term employee benefits (such as wages, salaries, and labor and national health insurance contributions for employees), post-employment benefits (such as pensions), other long-term employee benefits (such as long-service leave), and termination benefits (such as early retirement incentive programs).
+
+b. If the post-employment preferential deposit interest rate that a securities firm has offered to an employee in accordance with its internal rules or as stipulated in the employment contract is higher than the prevailing interest rate on the market, IAS 19 shall apply to the excess portion of the interest upon the employee's retirement.
+
+C. Depreciation and amortization expenses: Related depreciation and amortization expenses that IAS16 and IAS38 require to be recognized.
+
+D. Other operating expenses: Operating expenses required for a securities firm's business management needs and not attributable to any of the items above.
+
+\3. Operating profit or loss: Including all income and expenses classified in the operating category.
+
+\4. Share of the profit or loss of associates and joint ventures accounted for using the equity method: The profit or loss of associates and interests in joint ventures that a securities firm recognizes using the equity method according to its share in the associates and the interests in joint ventures.
+
+\5. Profit or loss before financing and income taxes: Including operating profit or loss and all income and expenses classified in the investing category.
+
+\6. Tax expense (benefit): The aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
+
+\7. Profit or loss of discontinued operations:
+
+A. The post-tax profit or loss of discontinued operations and the post-tax gain or loss recognized on the measurement to fair value less costs to sell or on the disposal of the assets or disposal group(s) constituting the discontinued operation.
+
+B. The presentation and disclosure of profit or loss of discontinued operations shall be made in accordance with IFRS 5.
+
+\8. Profit or loss during the period: Earnings or deficit in the current reporting period.
+
+\9. Other comprehensive income: Means each component of other comprehensive income classified by nature, including share of the other comprehensive income of associates and joint ventures accounted for using the equity method:
+
+A. Items that may be subsequently reclassified into profit or loss: Include exchange differences resulting from translating the financial statements of a foreign operation, unrealized valuation gains or losses from debt instrument investments measured at fair value through other comprehensive income, and gains and losses from hedging instruments.
+
+B. Items not to be reclassified into profit or loss: Include revaluation surplus, unrealized valuation gains and losses from equity instrument investments measured at fair value through other comprehensive income, remeasurements of defined benefit plans, and gains and losses from hedging instruments.
+
+\10. Total comprehensive income.
+
+\11. Allocations of profit or loss during the period attributable to non-controlling interest and owners of the parent.
+
+\12. Allocations of total comprehensive income during the period attributable to non-controlling interest and owners of the parent.
+
+\13. Earnings per share:
+
+A. Basic and diluted earnings per share for profit or loss from continuing operations attributable to the ordinary equity holders of the parent entity and for profit or loss attributable to the ordinary equity holders of the parent entity.
+
+B. The calculation and presentation of earnings per share shall be made in accordance with IAS 33.
+
+### Section III Statement of Changes in Equity
+
+#### Article 18
+
+As a minimum, the statement of changes in equity shall include the following:
+
+\1. Total comprehensive income during the period, showing separately the total amounts attributable to owners of the parent and to non-controlling interest.
+
+\2. For each component of equity, the effects of retrospective application or retrospective restatement recognized in accordance with IAS 8.
+
+\3. For each component of equity, a reconciliation between the carrying amount at the beginning and the end of the period, separately disclosing changes resulting from:
+
+A. net profit (or net loss) for the period;
+
+B. other comprehensive income; and
+
+C. transactions with owners in their capacity as owners, showing separately contributions by and distributions to owners and changes in ownership interests in subsidiaries that do not result in a loss of control.
+
+A securities firm shall present, either in the statement of changes in equity or in the notes, the amount of dividends recognized as distributions to owners during the period, and the related amount of dividends per share.
+
+### Section IV Statement of Cash Flows
+
+#### Article 19
+
+A statement of cash flows provides the primary users of the financial reports with a basis to assess the ability of the securities firm to generate cash and cash equivalents and the needs of the securities firm to utilize those cash flows. Namely, it presents, through inflows and outflows of cash and cash equivalents, a summary report on the securities firm's operating, investing, and financing activities during the period. The presentation and disclosure of cash flow information shall be made in accordance with IAS 7.
+
+### Section V Notes
+
+#### Article 20
+
+To meet the objective of presenting full and complete information about the financial position, financial performance, and cash flows of a securities firm, financial reports shall contain explanatory notes disclosing the following:
+
+\1. Company history and scope of business operations.
+
+\2. A statement that the financial reports comply with these Regulations, applicable laws and regulations (giving the titles of the laws or regulations), as well as IFRS, IAS, IFRIC Interpretations, and SIC Interpretations.
+
+\3. The date when the financial reports were authorized for issue and the process involved in authorizing the financial reports for issue.
+
+\4. The effect or impact that may arise when it has or has not applied a new or revised IFRS, IAS, IFRIC Interpretation, or SIC Interpretation recognized by the FSC.
+
+\5. A summary of significant accounting policies used that are relevant to an understanding of the financial reports, and the measurement basis (or bases) used in preparing the financial reports.
+
+\6. Significant accounting judgments, estimations, and assumptions, as well as information about the assumptions it makes and other major sources of estimation uncertainty.
+
+\7. Objectives, policies and processes for managing capital, and any change in capital structure, including funding, liability, and equity.
+
+\8. If for a special reason there is a change in accounting treatment, thus affecting the comparison of financial data between two successive periods, the reason for the change and its effect on the financial reports shall be noted.
+
+\9. If it is necessary to provide the basis of valuation for any amount, financial instrument, or other item presented in the financial reports, the basis of valuation shall be noted.
+
+\10. If any item presented in the financial reports is subject to any legal, regulatory, contractual, or other restriction, the circumstances and timing of the restriction and other related information shall be noted.
+
+\11. Criteria for classifying assets and liabilities into current and non-current.
+
+\12. Material contingent liabilities and unrecognized contractual commitments.
+
+\13. Information on related financial instruments such as call (put) warrants and hedging transactions.
+
+\14. Financial risk management objectives and policies.
+
+\15. Long-term and short-term borrowings.
+
+\16. The addition, expansion, construction, lease, obsolescence, idling, sale, transfer, or long-term renting of major assets.
+
+\17. Principal investments in other enterprises.
+
+\18. Material transactions with related parties.
+
+\19. Losses due to material disasters.
+
+\20. Material litigation pending or concluded.
+
+\21. The signing, completion, avoidance, or lapse of material contracts.
+
+\22. Information about financial instruments. The information shall be disclosed in accordance with IFRS 7, including disclosure of the significance of financial instruments for the securities firm's financial position and performance; qualitative and quantitative disclosures describing risk exposures arising from financial instruments.
+
+\23. Comprehensive information about the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers shall be disclosed in accordance with IFRS 15, including details of revenue recognized from contracts with customers, contract balances, contract performance obligations, significant judgments and changes in the judgments, and any assets recognized from the costs to obtain or fulfil a contract with a customer.
+
+\24. Relevant information about leases. The information shall be disclosed in accordance with IFRS 16, including disclosure of information that gives a basis for the primary users of the financial reports to assess the effect that the leases have on the financial position, financial performance, and cash flows of the securities firm, and relevant qualitative and quantitative information about its leasing activities.
+
+\25. Information about employee benefits. The information shall be disclosed in accordance with IAS 19, and shall include the influence of defined benefit plans on the amount, timing, and certainty of future cash flows, actuarial losses and gains arising from changes in demographic assumptions and financial assumptions, and the expected contributions in the next reporting period in the following financial year.
+
+\26. Information relating to management-defined performance measures. The information shall be disclosed in accordance with IFRS 18, including a description of the aspect of financial performance that, in management’s view, is communicated by each management-defined performance measure, how the performance measure is calculated, and a reconciliation to the corresponding totals or subtotals presented in the statement of comprehensive income.
+
+\27. Segment financial information required to be disclosed in accordance with IFRS 8 including the scope of business, revenue, and gains and losses of each reportable segment.
+
+\28. Information on Mainland Area investments by the securities firm or by its subsidiaries in a third jurisdiction.
+
+\29. When subsidiaries hold shares in the parent, the names of the subsidiaries and the shareholdings, amounts, and reasons shall be separately presented.
+
+\30. In the case of private placement of securities, the type, issue date, and amount shall be disclosed.
+
+\31. Material organizational adjustments and material management reforms.
+
+\32. Material effects of changes in government laws and regulations.
+
+\33. Material effects of discontinuance of operations.
+
+\34. Any merger with or transfer of all business operations from or to another securities firm.
+
+\35. The content and monetary amount of trust business activities conducted in accordance with the Trust Enterprise Act.
+
+\36. Fair value information. The information shall be disclosed in accordance with IFRS 13, and shall include information on recurring or non-recurring fair value measurement of assets and liabilities, inputs such as fair value valuation technique and parameters or assumptions used in fair value measurement, and Level 3 of fair value hierarchy.
+
+\37. Foreign-currency-denominated assets and liabilities that have significant influence: Include the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+
+\38. Regulatory capital adequacy ratio.
+
+\39. The basis for calculating the number of shares to be distributed as profit-sharing compensation to employees, and information on profit-sharing compensation to employees, directors, and supervisors:
+
+A. The fixed amount or ratio prescribed in the articles of incorporation (and a statement that this information may be queried on the Market Observation Post System).
+
+B. The basis for the estimated figures for the current period, the basis for calculating the number of shares to be distributed, and the accounting treatment of the discrepancy, if any, between the actual distributed amount and the estimated figure.
+
+C. The actual distribution for the previous fiscal year (with an indication of the number of shares, monetary amount, and stock price, of the shares distributed), and, if there is any discrepancy between the actual distribution and the recognized amount, additionally specify the amount of the discrepancy, the cause, and how it is treated.
+
+\40. Supporting information for items presented in the balance sheet and in the statements of comprehensive income, of changes in equity and of cash flows, including material information that could affect the securities firm's future cash flows, or other necessary descriptions essential for avoiding misunderstanding by the primary users or for the fair presentation of the financial reports.
+
+#### Article 21
+
+Financial reports shall include explanatory notes on the following subsequent events that occur between the balance sheet date and the date when the financial reports are authorized for issue:
+
+\1. Change in capital structure.
+
+\2. Large long-term or short-term borrowings.
+
+\3. The addition, expansion, construction, lease, obsolescence, idling, sale, pledge, transfer, or long-term renting of major assets.
+
+\4. Principal investments in other enterprises.
+
+\5. Losses due to material disasters.
+
+\6. Material litigation pending or concluded.
+
+\7. The signing, completion, voidance, or lapse of material contracts.
+
+\8. Material organizational adjustments and material management reforms.
+
+\9. Material effects of changes in government laws and regulations.
+
+\10. Other material events or measures capable of affecting future financial position, financial performance, and cash flows.
+
+#### Article 22
+
+A securities firm shall separately disclose in the notes to the financial reports information on the following events between the securities firm and its subsidiaries during the current period, and on parent-subsidiary transactions:
+
+\1. Information on material transactions:
+
+A. Lending funds to others.
+
+B. Providing endorsements or guarantees for others.
+
+C. Acquisition of real estate reaching NT$300 million or 20 percent of paid-in capital or more.
+
+D. Disposal of real estate reaching NT$300 million or 20 percent of paid-in capital or more.
+
+E. Handling fee discounts on transactions with related parties totaling NT$5 million or more.
+
+F. Accounts receivable from related parties reaching NT$100 million or 20 percent of paid-in capital or more.
+
+G. Others: The business relationship between the parent and the subsidiaries and between each subsidiary, and the circumstances and amounts of any material transactions between them.
+
+\2. Information on investees: If the securities firm directly or indirectly exercises significant influence or control over, or has a joint venture interest in, an investee company that is not in the Mainland Area, it shall disclose information on the investee company, showing the name, location, principal business activities, original investment amount, shareholding at the end of the period, profit or loss for the period, recognized investment gain or loss, and cash dividends.
+
+\3. Information on overseas branches and representative offices: The securities firm shall provide information on its overseas branches and representative offices, disclosing the locations, business activities, inward and outward remittances of operating capital, the branch's profit or loss for the period, and any accounts and transactions with the head office.
+
+\4. Information on investments in the Mainland Area:
+
+A. If the securities firm directly or indirectly exercises significant influence or control over, or has a joint venture interest in, an investee company in the Mainland Area , it shall disclose the information on any investee company in the Mainland Area, showing the name, principal business activities, paid-in capital, method of investment, inward and outward remittance of funds, shareholding ratio, current profit or loss, and recognized investment gain or loss, carrying amount of the investment at the end of the period, repatriated investment gains, and limit on the amount of investment in the Mainland Area.
+
+B. When the securities firm recognizes investment gain or loss using the equity method or prepares consolidated financial statements with respect to a Mainland Area investee company, the recognition or preparation shall be based on the investee company's financial reports audited and attested by an international CPA firm having a business cooperation relationship with an R.O.C. CPA firm, provided that when preparing interim consolidated financial reports, the recognition or preparation may be based on the investee company's financial reports reviewed by an international CPA firm having a business cooperation relationship with an R.O.C. CPA firm.
+
+If the shares issued by a securities firm have a par value other than NT$10, for the calculation of a transaction amount of 20 percent of paid-in capital under subparagraph 1, items C, D, and F of the preceding paragraph, 10 percent of the equity attributable to owners of the parent as stated in the balance sheet shall be substituted.
+
+#### Article 23
+
+A securities firm shall fully disclose information on related party transactions in accordance with IAS 24, and the following provisions shall be complied with:
+
+\1. The name and relationship of the related party shall be presented.
+
+\2. If the transaction amount or balance of any single related party reaches 10 percent or more of the securities firm's total transaction amount or balance of that type of transaction, the name of each such related party shall be individually presented.
+
+In considering whether a counterparty is a related party, attention shall be directed to the substance of the relationship in addition to the legal form. Unless it can be established that no control, joint control, or significant influence exists, a party falling within any of the following shall be deemed to have a substantive related party relationship, and relevant information shall be disclosed in the notes to the financial reports in accordance with IAS 24:
+
+\1. An affiliated enterprise within the meaning given in Chapter VI-I of the Company Act, and any of its directors, supervisors, and managerial officers.
+
+\2. A company or institution governed by the same general management office as the securities firm, and any of its directors, supervisors, and managerial officers.
+
+\3. A person holding the position of manager or higher in the general management office.
+
+\4. A company or institution shown as an affiliated enterprise in the securities firm's publications or public announcements.
+
+\5. Another company or institution whose board chairman or president is the same person as, or is the spouse or a relative within the second degree of kinship of, the board chairman or president of the securities firm.
+
+## Chapter III Interim Financial Reports
+
+#### Article 24
+
+Interim financial reports shall include interim financial reports for each of the following periods:
+
+\1. Balance sheets as of the end of the current interim period, as of the end of the immediately preceding financial year, and as of the end of the comparable interim periods of the immediately preceding financial year.
+
+\2. Statements of comprehensive income for the current interim period, for the current financial year to the end of the current interim period, for the comparable interim periods of the immediately preceding financial year, and for the immediately preceding financial year to the end of the comparable interim periods.
+
+\3. Statement of changes in equity for the current financial year to date, with a statement of changes in equity for the same period of the immediately preceding financial year.
+
+\4. Statement of cash flows for the current financial year to date, with a statement of cash flows for the same period of the immediately preceding financial year.
+
+Interim financial reports shall disclose events or transactions of materiality that have occurred since the date of the end of the reporting period of the immediately preceding financial year; the disclosure shall be made in accordance with IAS 34, and shall include the following information:
+
+\1. Possible impact that the application of newly issued or revised standards or interpretations will have on the securities firm, as required to be disclosed in accordance with IAS 8.
+
+\2. Qualitative and quantitative disclosure of risks arising from financial instruments, including credit risk, liquidity risk, and market risk, and management of such risks.
+
+\3. Aged analysis of trade receivables, and changes in loss allowances.
+
+\4. Foreign-currency-denominated assets and liabilities that have significant influence, including the amount of risk exposure, currency, and exchange rate for monetary and non-monetary items denominated in foreign currencies, and the foreign exchange gains or losses on monetary items.
+
+\5. Sensitivity analysis of exchange rate risk for monetary items denominated in foreign currencies.
+
+## Chapter IV Parent Company Only Financial Reports
+
+#### Article 25
+
+A securities firm preparing parent company only financial reports shall apply accounting treatment conforming to the requirements of Chapter II of these Regulations, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method.
+
+The profit or loss during the period and other comprehensive income presented in parent company only financial reports shall be the same as the allocations of profit or loss during the period and of other comprehensive income attributable to owners of the parent presented in the financial reports prepared on a consolidated basis, and the owners' equity presented in the parent company only financial reports shall be the same as the equity attributable to owners of the parent presented in the financial reports prepared on a consolidated basis.
+
+#### Article 26
+
+A securities firm preparing parent company only financial reports is not required to prepare segment information within the scope of IFRS 8.
+
+#### Article 27
+
+A securities firm preparing parent company only financial reports shall prepare statements of major accounting items.
+
+Titles of statements of major accounting items are as follows:
+
+\1. Statements of assets and liabilities items:
+
+A. Statement of cash and cash equivalents.
+
+B. Statement of financial assets at fair value through profit or loss – current.
+
+C. Statement of financial assets measured at fair value through other comprehensive income – current.
+
+D. Statement of financial assets for hedging – current..
+
+E. Statement of financial assets measured at amortized cost – current.
+
+F. Statement of investments in bonds with reverse repurchase agreements.
+
+G. Statement of securities margin loans receivable.
+
+H. Statement of trade receivables.
+
+I. Statement of prepayments.
+
+J. Statement of other receivables.
+
+K. Statement of non-current assets held for sale.
+
+L. Statement of other current assets.
+
+M. Statement of changes in financial assets measured at fair value through profit or loss – non-current.
+
+N. Statement of financial assets measured at fair value through other comprehensive income – non-current.
+
+O. Statement of financial assets for hedging – non-current.
+
+P. Statement of financial assets measured at amortized cost – non-current
+
+Q. Statement of changes in investments accounted for using the equity method.
+
+R. Statement of changes in accumulated impairment of investments accounted for using the equity method.
+
+S. Statement of changes in property and equipment.
+
+T. Statement of changes in accumulated depreciation of property and equipment.
+
+U. Statement of changes in accumulated impairment of property and equipment.
+
+V. Statement of changes in right-of-use assets.
+
+W. Statement of changes in accumulated depreciation of right-of-use assets.
+
+X. Statement of changes in accumulated impairment of right-of-use assets.
+
+Y. Statement of changes in investment property.
+
+Z. Statement of changes in accumulated depreciation of investment property.
+
+AA. Statement of changes in accumulated impairment of investment property.
+
+AB. Statement of deferred tax assets.
+
+AC. Statement of other non-current assets.
+
+AD. Statement of short-term borrowings.
+
+AE. Statement of financial liabilities at fair value through profit or loss - current.
+
+AF. Statement of financial liabilities for hedging - current.
+
+AG. Statement of liabilities for bonds with repurchase agreements.
+
+AH. Statement of short sale margins.
+
+AI. Statement of payables for short sale collateral received.
+
+AJ. Statement of trade payables.
+
+AK. Statement of other payables.
+
+AL. Statement of lease liabilities.
+
+AM. Statement of provisions – current.
+
+AN. Statement of liabilities directly associated with non-current assets held for sale.
+
+AO. Statement of other current liabilities.
+
+AP. Statement of financial liabilities at fair value through profit or loss – non-current.
+
+AQ. Statement of financial liabilities for hedging – non-current.
+
+AR. Statement of long-term borrowings.
+
+AS. Statement of provisions – non-current.
+
+AT. Statement of deferred tax liabilities.
+
+AU. Statement of other non-current liabilities.
+
+\2. Statements of profit or loss items:
+
+A. Statement of brokerage fee revenue.
+
+B. Statement of revenue from underwriting business.
+
+C. Statement of gains (losses) on sale of securities.
+
+D. Statement of interest revenue.
+
+E. Statement of employee benefits, depreciation, amortization, and other operating expenses.
+
+A securities firm may determine, having regard to the concept of materiality, whether or not to separately present the statements of assets and liabilities items described in subparagraph 1 of the preceding paragraph.
+
+#### Article 28
+
+A securities firm shall provide information on its business conditions in accordance with the following:
+
+\1. Significant business matters: The securities firm shall provide information on matters arising over the most recent 5 financial years that have had a significant impact on its business, including acquisitions of or mergers with other companies, demergers, equity investments in affiliated enterprises, reorganization, purchases or disposals of major assets, and significant changes in operation method or business activity.
+
+\2. Remuneration to directors, supervisors, general manager, and assistant general managers, and to chairmen of the board and general managers who are rehired as consultants after retiring from the securities firm or its affiliated enterprises:
+
+A. The securities firm may opt either to disclose aggregate remuneration information, with the name(s) indicated for each remuneration range, or to disclose the name of each individual and the corresponding remuneration amount. For a director concurrently serving as a member of management, the remuneration shall be disclosed separately for each position held. The securities firm may adopt the aggregate disclosure method if it is a non-public company whose issued voting shares are all held, directly or indirectly, by one single person.
+
+B. In any of the following circumstances, the securities firm shall disclose the remuneration paid to each individual director, supervisor, general manager, assistant general manager, and consultant, provided that this rule does not apply if it is a non-public company whose issued voting shares are all held, directly or indirectly, by one single person:
+
+a. The securities firm's most recent capital adequacy ratio, whether unaudited, CPA-reviewed, or adjusted following FSC examination, is lower than 150 percent.
+
+b. There has been an after-tax deficit in the parent company only or individual financial report within the most recent 3 financial years. The preceding provision does not apply if the parent company only or individual financial report for the most recent fiscal year shows net profit after tax, which is sufficient to make up the accumulated deficits.
+
+C. The securities firm, if a public company that has had an insufficient director shareholding percentage for 3 consecutive months or longer during the most recent financial year, shall disclose the remuneration paid to each of the directors, and, if one that has had an insufficient supervisor shareholding percentage for 3 consecutive months or longer during the most recent financial year, shall disclose the remuneration paid to each of the supervisors.
+
+D. The securities firm, if a public company that has had an average ratio of share pledging by directors or supervisors in excess of 50 percent in any 3 months during the most recent financial year, shall disclose the remuneration paid to each of the directors or supervisors having a ratio of pledged shares in excess of 50 percent in those months.
+
+E. If the total amount of remuneration received by all of the directors and supervisors of the securities firm in their capacity as directors or supervisors of all the companies listed in the financial reports exceeds 2 percent of the net profit after tax, and the remuneration received by any individual director or supervisor exceeds NT$15 million, the securities firm shall disclose the remuneration paid to that individual director or supervisor, provided that this rule does not apply if it is a non-public securities firm whose issued voting shares are all held, directly or indirectly, by one single person.
+
+F. If a securities firm listed on the TWSE or the TPEx is ranked within the lowest two tiers in the corporate governance evaluation for the most recent fiscal year, or in the most recent fiscal year or up to the date of publication of the financial report for that year, the securities firm's securities have been placed under an altered trading method, suspended from trading, delisted from the TWSE or the TPEx, or the Corporate Governance Evaluation Committee has resolved the securities firm shall be excluded from evaluation, the securities firm shall disclose the remuneration paid to each individual director and supervisor.
+
+G. If the average annual salary of the full-time non-management employees in a TWSE or TPEx listed securities firm is less than NT$500,000 in the most recent fiscal year, the securities firm shall disclose the remuneration paid to each individual director and supervisor.
+
+H. If a TWSE or TPEx listed securities firm had an increase of 10 percent or more in net profit after tax for the most recent fiscal year, and the average annual salary of its full-time non-management employees did not increase relative to the preceding fiscal year, the securities firm shall disclose the remuneration paid to each individual director and supervisor.
+
+I. If a TWSE or TPEx listed securities firm had a decline in after-tax net income reaching 10 percent and exceeding NT$5 million for the most recent fiscal year, along with an increase in its average remuneration per director/supervisor (not including remuneration for concurrent service as an employee) reaching 10 percent and exceeding NT$100,000, the securities firm shall disclose the remuneration paid to each individual director and supervisor.
+
+J. If the circumstance in subitem b of item B or item F applies to a securities firm listed on the TWSE or the TPEx, it shall disclose the individual remuneration paid to each of its top five management personnel.
+
+\3. Number of full-time employees in non-management positions, average and median salaries of full-time employees in non-management positions, and the differences in those three figures compared to those of the preceding fiscal year.
+
+\4. Labor-management relations:
+
+A. Indicate each item of employee benefit policies, professional development, training, or retirement programs and the status of their implementation, as well as agreements between labor and management and policies for safeguarding employees' rights and interests.
+
+B. List the loss sustained as a result of labor disputes in the most recent financial year, together with the disclosure of an estimate of losses incurred to date or likely to be incurred in the future and the mitigation measures taken or to be taken. If the losses cannot be reasonably estimated, the securities firm shall make a statement to that effect.
+
+C. List any violations of the Labor Standards Act found during a labor inspection, including the disposition date, disposition reference number, the provisions breached, description of the violation, and the disposition.
+
+\5. The following items shall be disclosed with respect to the implementation of the internal control system:
+
+A. Statement of the internal control system.
+
+B. If a CPA has been engaged to carry out a project audit of the internal control system, the CPA audit report shall be disclosed.
+
+\6. Cyber security management:
+
+A. Describe the cyber security risk management framework, cyber security policies, concrete management programs, and investments in resources for cyber security management.
+
+B. List any losses suffered by the securities firm in the most recent fiscal year due to significant cyber security incidents, the possible impacts therefrom, and measures being or to be taken. If a reasonable estimate cannot be made, an explanation of the facts of why it cannot be made shall be provided.
+
+\7. The term "affiliated enterprises" in this article refers to those conforming with Article 369-1 of the Company Act.
+
+#### Article 29
+
+A securities firm shall disclose its financial analysis for the most recent 5 fiscal years, the content of which shall include financial structure, solvency, profitability, cash flows and the rates of other special requirements, and explain the reasons for the change of each of the financial ratios over the most recent 2 fiscal years.
+
+#### Article 30
+
+A securities firm shall review and analyze its financial position, and financial performance, and assess risk items. The required particulars are as follows:
+
+\1. Financial condition: The report shall explain the reason for, and impact of, any material change over the most recent 2 fiscal years in its assets, liabilities, or equity. Where the impact is of material significance, it shall further describe how the securities firm plans to respond.
+
+\2. Financial performance: The report shall explain the reasons for any material changes over the most recent 2 fiscal years in operating income, and income before tax; forecast the securities firm's expected sales volume and provide the basis for the forecast; and describe the possible impact of such changes upon the securities firm's financial and business affairs, and how the securities firm plans to respond.
+
+\3. Cash flows: The report shall analyze and explain any changes over the most recent fiscal year in the securities firm's cash flows; describe how the securities firm plans to address any illiquidity problems; and provide an analysis of the securities firm's cash liquidity for the coming fiscal year.
+
+\4. The impact of any material capital expenditures over the most recent fiscal year upon the securities firm's financial and operating condition.
+
+\5. The securities firm's policy for the most recent fiscal year on investments in other companies, the main reasons for profit/losses resulting therefrom, plans for improvement, and investment plans for the coming fiscal year.
+
+\6. The section on risks shall analyze and assess the following matters for the most recent fiscal year and as of the day of the close of the fiscal year:
+
+A. The effect upon the securities firm's profits (or losses) of interest and exchange rate fluctuations and changes in the inflation rate, and response measures to be taken in the future.
+
+B. The securities firm's policy regarding high-risk investments, highly leveraged investments, loans to other parties, endorsements, guarantees, and derivatives transactions; the main reasons for the profits/losses generated thereby; and response measures to be taken in the future.
+
+C. Effect on the securities firm's financial operations of important policies adopted and changes in the legal environment at home and abroad, and measures to be taken in response.
+
+D. Effect on the securities firm's financial operations of developments in science and technology (including cyber security risks) as well as industrial change, and measures to be taken in response.
+
+E. Effect on the securities firm's crisis management of changes in the securities firm's corporate image, and measures to be taken in response.
+
+F. Expected benefits and possible risks associated with any merger or acquisition, and measures to be taken in response.
+
+G. Expected benefits and possible risks associated with any plant expansion, and measures to be taken in response.
+
+H. Risks associated with any consolidation of business operations, and measures to be taken in response.
+
+I. Effect upon and risk to the securities firm of any large transfer or changing of hands of shareholding of a director, a supervisor, or a shareholder holding greater than a 10 percent stake in the securities firm, and measures to be taken in response.
+
+J. Effect upon and risk to the securities firm associated with any change in governance personnel or top management, and measures to be taken in response.
+
+K. Litigious or non-litigious matters. List any material litigious, non-litigious, or administrative dispute that involves the securities firm or any of its directors, supervisors, general manager, any major shareholder holding a stake of greater than 10 percent, or any company or companies controlled by the securities firm, and that has been concluded by a final and conclusive judgment or is still pending. Where the outcome of such a dispute could materially affect shareholders' equity or the prices of the firm's securities, the report shall disclose the facts of the dispute, amount of money at stake in the dispute, the date of commencement of litigation, the main parties to the dispute, and the status of the dispute as of the date of the close of the fiscal year.
+
+L. Other significant risks, and measures to be taken in response.
+
+\7. Crisis management mechanisms.
+
+\8. Other important matters.
+
+#### Article 31
+
+A securities firm shall disclose the following information regarding its attesting CPAs (external auditors):
+
+\1. Information on professional fees:
+
+A. The securities firm shall disclose the amounts of the audit fees and non-audit fees paid to the attesting CPAs and to the CPA firm to which they belong and to any affiliated enterprises as well as the details of non-audit services. "Audit fees" means professional fees paid by the securities firm to its attesting CPAs for audits, reviews, and secondary reviews of financial reports, and reviews of financial forecasts.
+
+B. When the securities firm changes its CPA firm and the audit fees paid for the financial year in which the change took place are lower than those paid for the financial year immediately preceding the change, the amount of the audit fees before and after the change and the reason shall be disclosed.
+
+C. When the audit fees paid for the current financial year are lower than those paid for the immediately preceding financial year by 10 percent or more, the amount and percentage of and reason for the reduction in audit fees shall be disclosed.
+
+\2. Information on change in attesting CPAs: If a securities firm changed its attesting CPAs during the most recent 2 financial years or any subsequent interim period, it shall disclose the following information:
+
+A. Regarding the former attesting CPAs:
+
+a. Date of and reason for the change in attesting CPAs, together with a description of whether the attesting CPAs or the securities firm terminated or discontinued the engagement.
+
+b. If the former attesting CPAs issued an audit report during the most recent 2 years containing an opinion other than an unqualified opinion, state the opinion and reason.
+
+c. Indicate whether there were any disagreements between the securities firm and the former attesting CPAs on accounting principles or practices, financial report disclosure, and auditing scope or procedure. If any such disagreements did exist, the securities firm shall describe in detail the nature of each such disagreement, how the securities firm addressed them (including whether the securities firm has authorized the former attesting CPAs to respond fully to the inquiries of the successor attesting CPAs concerning such above-mentioned disagreements), and the final results.
+
+d. Indicate whether the former attesting CPAs advised the securities firm that it lacked the sound internal controls necessary to develop reliable financial reports.
+
+e. Indicate whether the former attesting CPAs advised the securities firm that the attesting CPAs were unable to rely on the securities firm's written representations, or was unwilling to be associated with the financial reports prepared by the securities firm.
+
+f. Indicate whether the former attesting CPAs advised the securities firm that the scope of the audit must be expanded, or there was information showing that an expanded audit might impact the reliability of either a previously issued financial report or the financial report to be issued, but due to the change of the attesting CPAs or for any other reason, the former attesting CPAs did not expand the scope of the audit.
+
+g. Indicate whether the former attesting CPAs advised the securities firm that information has come to the attesting CPAs' attention that might impact the reliability of either a previously issued financial report or the financial report to be issued, but due to the change of the attesting CPAs or for any other reason, the former attesting CPAs did not address the issue.
+
+B. Regarding the successor attesting CPAs:
+
+a. Names of the successor CPA firm and the attesting CPAs, and date of engagement.
+
+b. If prior to the formal engagement of the successor attesting CPAs, the securities firm consulted the new attesting CPAs regarding the accounting treatment of or application of accounting principles to a specific transaction, or the type of audit opinion that might be rendered on the securities firm's financial report, the securities firm shall disclose the issues that were the subjects of those consultations and the consultation results.
+
+c. The securities firm shall consult and obtain written views from the successor attesting CPAs regarding the matters on which the securities firm disagreed with the former attesting CPAs, and disclose information on these views.
+
+C. The securities firm shall by letter provide the former attesting CPAs with a copy of the disclosures it is making in response to item A and item B (c), and advise the attesting CPAs of the need to respond by letter within 10 days should the attesting CPAs disagree on any such matters. The securities firm shall disclose the content of the reply letter from the former attesting CPAs.
+
+\3. Where the securities firm's chairperson, general manager, or any managerial officer in charge of finance or accounting matters has in the most recent year held a position at the CPA firm of its attesting CPAs or at an affiliated enterprise of such CPA firm, the name and position of the person, and the period during which the position was held, shall be disclosed. The term "affiliated enterprise" of the CPA firm of the attesting CPAs means an enterprise in which the attesting CPAs of the CPA firm to which the attesting CPAs belong hold more than 50 percent of the shares, or of which they hold more than half of the directorships, or any company or institution listed as an affiliated enterprise in the external publications or printed materials of the CPA firm of the attesting CPAs.
+
+#### Article 31-1
+
+If the content of any information required to be reported under Article 28, subparagraph 5 has already been publicly announced and reported on the information reporting website designated by the FSC, it may be incorporated in the "Other disclosures" of the financial report by cross-reference to the source where the information can be found, whereupon, such publicly announced and reported information shall be deemed content of the "Other disclosures" of the financial report.
+
+#### Article 32
+
+A securities firm preparing and disclosing information on matters specified in Articles 28 through 31 of these Regulations shall request its attesting CPAs to issue a review opinion on these matters in accordance with the Directions for Review of Other Disclosures in Financial Reports.
+
+The matters for compliance for the issuing of a review opinion by the attesting CPAs under the preceding paragraph shall be separately prescribed by the FSC.
+
+## Chapter IV-I Sustainability-Related Financial Information
+
+#### Article 32-1
+
+A securities firm that meets certain criteria as mentioned in Article 11, paragraph 3 shall handle the preparation and disclosure of sustainability-related financial information in accordance with the following subparagraphs and relevant laws and regulations; matters not specified therein shall be handled in accordance with the IFRS Sustainability Disclosure Standards (hereinafter, "Sustainability Disclosure Standards") as endorsed by the FSC:
+
+\1. The securities firm shall identify sustainability-related risks and opportunities that could reasonably be expected to affect its prospects in accordance with the Sustainability Disclosure Standards and shall refer to industry-based disclosure topics as specified in the Sustainability Accounting Standards Board (SASB) Standards, and shall disclose material information that could reasonably be expected to affect the securities firm's cash flows, access to finance, or cost of capital over the short, medium, or long term. Information is "material" if omitting, misstating, or obscuring such sustainability-related financial information could reasonably be expected to influence decisions that primary users of general-purpose financial reports make on the basis of such information.
+
+\2. The securities firm's sustainability-related financial information shall be for the same reporting entity and reporting period as the related financial reports. Except for the first annual reporting period in which the securities firm applies the Sustainability Disclosure Standards, the securities firm shall disclose comparative information for the preceding period simultaneously.
+
+\3. The securities firm shall declare that its sustainability-related financial information has been prepared in accordance with the Sustainability Disclosure Standards endorsed by the FSC, and shall fairly present such information to ensure it meets the qualitative characteristics of relevance, faithful representation, comparability, verifiability, timeliness, and understandability.
+
+\4. The securities firm shall enable primary users of general purpose financial reports to understand the connections between sustainability-related financial information and related financial reports. Data, assumptions, and units of measure used to prepare sustainability-related financial information shall be consistent with those in the same period's financial reports; any significant differences shall be disclosed.
+
+\5. The securities firm shall disclose sustainability-related financial information according to the core content including governance, strategy, risk management, and metrics and targets. In accordance with relevant provisions of the Sustainability Disclosure Standards, the securities firm may use all reasonable and supportable information available at the reporting date without undue cost or effort, and may make disclosures quantitatively or qualitatively using an approach that is commensurate with its skills, capabilities, and resources.
+
+\6. In the first annual reporting period in which the securities firm applies the Sustainability Disclosure Standards, the securities firm is permitted to disclose only climate-related information, and shall disclose that fact.
+
+\7. Regarding measurement methods for greenhouse gas emissions in climate-related information: Except for emission sources required to be inventoried under the Climate Change Response Act, which shall be handled by methods prescribed by the Ministry of Environment, measurements shall be conducted in accordance with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard or methods endorsed by the FSC. Information on applicable methods, measurement approach, inputs, and assumptions shall be disclosed in accordance with IFRS S2 Climate-related Disclosures. If, in the annual reporting period immediately preceding the initial application of the Sustainability Disclosure Standards, the securities firm used another method for measuring its greenhouse gas emissions, it is permitted to continue using that other method in the first annual period in which the securities firm applies the Sustainability Disclosure Standards.
+
+\8. When preparing Scope 1 and Scope 2 greenhouse gas emission information in climate-related information, the securities firm shall obtain and disclose assurance opinions from independent third parties in the manner prescribed by the FSC. Scope 3 greenhouse gas emission information shall be disclosed according to the timeline prescribed by the FSC.
+
+## Chapter V Consolidated Financial Statements and Business Combination
+
+#### Article 33
+
+A securities firm shall prepare and present consolidated financial statements covering affiliated enterprises in accordance with the Regulations Governing Preparation of Consolidated Business Reports Covering Affiliated Enterprises, Consolidated Financial Statements Covering Affiliated Enterprises, and Reports on Affiliations adopted by the FSC.
+
+If, pursuant to the Regulations Governing Preparation of Consolidated Business Reports Covering Affiliated Enterprises, Consolidated Financial Statements Covering Affiliated Enterprises, and Reports on Affiliations, the entities that must be included in preparing the consolidated financial statements covering affiliated enterprises are entirely the same as those that IFRS 10 requires to be included in preparing the consolidated financial report comprising the parent and its subsidiaries, and if the required disclosures to be made in the consolidated financial statements covering affiliated enterprises are already made in the consolidated financial report comprising the parent and its subsidiaries, then the consolidated financial statements covering affiliated enterprises need not be prepared, provided that a statement to that effect is made and presented on the front page of the consolidated financial report.
+
+#### Article 33-1
+
+When a securities firm engages in any business combination, it shall determine the actual acquirer and whether it is an actual transfer of control in accordance with IFRS 3. Unless otherwise provided, it shall measure the acquiree's identifiable assets and liabilities at fair value on the date of acquisition, and recognize goodwill or a gain from a bargain purchase. The date of acquisition means the date when the acquirer obtains control from the acquiree.
+
+If any investment property or interest in joint operations that the securities firm acquires and obtains constitutes a "business" as defined under IFRS 3, it shall be handled in accordance with the preceding paragraph.
+
+#### Article 33-2
+
+Goodwill which is recognized in connection with a business combination of a securities firm shall be presented as a single line item in the balance sheet, and shall be tested for impairment at least annually in accordance with IAS 36. If there is any significant difference between the actual operation conditions of the acquired company after the business combination and the expected benefits at the time of acquisition, it shall be disclosed in the notes.
+
+## Chapter VI (Deleted)
+
+#### Article 34
+
+(Deleted)
+
+#### Article 35
+
+(Deleted)
+
+#### Article 36
+
+(Deleted)
+
+## Chapter VII Joint Arrangements
+
+#### Article 37
+
+Joint arrangements are either joint operations or joint ventures, and have the following characteristics:
+
+\1. All of the parties are bound by a contractual arrangement.
+
+\2. The contractual arrangement gives two or more of those parties joint control of the arrangement.
+
+When a joint arrangement is a joint operation, the assets, liabilities, revenues, and expenses relating to the joint operation shall be recognized in accordance with these Regulations, applicable IFRSs, and contractual agreement.
+
+When a joint arrangement is a joint venture, the interest in the joint venture shall be accounted for using the equity method pursuant to Article 14, paragraph 4, subparagraph 1 and IAS 28.
+
+## Chapter VIII Supplementary Provisions
+
+#### Article 38
+
+The format of the statements, schedules, and other documents relating to financial reports as identified in these Regulations shall be determined by the FSC.
+
+#### Article 39
+
+The financial reports and related supplementary documents that a securities firm is required to file in accordance with Article 36 of the Act as applied mutatis mutandis under Article 63 thereof shall be filed in accordance with Article 21 of the Regulations Governing Securities Firms.
+
+#### Article 40
+
+These Regulations shall come into force from the date of issuance, with the exception of Article 4, Article 7, Article 8, Article 11, paragraph 1, Article 12, Articles 14 to 18, Article 20, Article 22, Article 24, Article 25, Article 33, Article 35, and Article 37, as amended on 11 September 2014, which shall come into force from financial year 2015, Article 14, Article 17, Article 20, Article 23, Article 33-1, Article 33-2, and Article 39, as amended on 14 February 2017, which shall come into force from financial year 2017, the Articles as amended on 14 September 2017, which shall come into force from financial year 2018, Article 14, paragraph 4, subparagraphs 3 and 4, and paragraph 6, Article 15, Article 20, Article 27, as amended on 30 July 2018, which shall come into force from financial year 2019, the articles amended on 18 March 2020, which shall come into force from financial year 2020, the articles amended on 1 September 2022, which shall come into force from financial year 2022, Article 10 and Article 14, paragraph 4, subparagraph 1, item B amended on 24 November 2022, which shall come into force from financial year 2023, the introductory part of paragraph 3, and paragraph 4, of Article 15 amended on 24 January 2024, which shall come into force from financial year 2024, and the articles amended on 28 April 2026, which shall come into force from financial year 2028.
+
+## History
+
+\1. 43 Articles promulgated in full by the Securities and Exchange Commission of the Ministry of Finance on May 7, 1991 per Letter Ref. No. (80) Taiwan-Finance-Securities (2) 00861
+
+\2. 30 Articles amended and promulgated in full on 18 June 1996 by the Ministry of Finance Securities and Exchange Commission per Order No. (85) Taiwan-Finance-Securities (2) 01876
+
+\3. Articles 3, 4, 9, 14, 15, and 17 amended and promulgated on 1 April 1998 by the Ministry of Finance Securities and Exchange Commission per Order No. (87) Taiwan-Finance-Securities (2) 00868
+
+\4. Articles 14, 24, and 30 amended and promulgated on 27 April 1999 by the Ministry of Finance Securities and Exchange Commission per Order No. (88) Taiwan-Finance-Securities (2) 01584; Articles 31 and 32 newly adopted
+
+\5. Articles 3, 4, 5, 8, 14, 15, 16, 20, and 25 amended and promulgated on 3 September 2001 by the Ministry of Finance Securities and Exchange Commission per Order No. (90) Taiwan-Finance-Securities (2) 004872; Articles 19-1, 19-2, 28-1, 31-1, and 31-2 newly adopted Chapter I General Provisions
+
+\6. Articles 9, 14, 15, 16, 17, 18, 19, 23, 24, 28, 29 and the Appendix to Article 28 (Form 26-1) amended and promulgated on 6 February 2003 by the Ministry of Finance Securities and Exchange Commission per Order No. Taiwan-Finance-Securities (2) 0920000469
+
+\7. Articles 3, 14, 15, 17, 20, 24, 32 amended and promulgated 7 June 2004 per Order No. Taiwan-Finance-Securities (II) 0930002504 of the Ministry of Finance Securities and Futures Commission; date of implementation to be prescribed by the Securities and Futures Commission
+
+\8. Full text of 34 articles amended and issued per 7 October 2005 Order No. Finance-Supervisory-Securities-II-0940004419 of the Financial Supervisory Commission, Executive Yuan, for enforcement from 1 January 2006
+
+\9. Articles 14 to 17, 22, 32, and 34 amended and issued per 26 March 2007 Order No. Finance-Supervisory-Securities-II-0960010138 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2007, except Form 6 under Article 22, paragraph 1, subparagraph 6, which will be enforced from 1 January 2008
+
+\10. Articles 14 and 15 amended and issued per 29 October 2008 Order No. Finance-Supervisory-Securities-II-0970058142 of the Financial Supervisory Commission, Executive Yuan
+
+\11. Articles 14, 26, and 34 amended and issued per 14 May 2009 Order No. Financial-Supervisory-Securities-II-0980017922 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance
+
+\12. Articles 26 and 34, and Form 14 under Article 26 amended and issued per 28 August 2009 Order No. Financial-Supervisory-Securities-Firms-0980043806 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance
+
+\13. Articles 3, 9, 14-17, and 34 amended and issued and Article 7-1 added per 1 July 2009 Order No. Financial-Supervisory-Securities-Firms-0990033406 of the Financial Supervisory Commission, Executive Yuan
+
+\14. Full text of 38 articles amended and issued per 16 August 2011 Order No. Financial-Supervisory-Securities-Firms-1000038740 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
+
+\15. Articles 14 to 17, 25, and 27 amended and issued and Article 35-1 added per 29 December 2011 Order No. Financial-Supervisory-Securities-Firms-1000062747 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2013
+
+\16. Articles 11 and 38 amended and issued per 1 August 2012 Order No. Financial-Supervisory-Securities-Firms-1010034208 of the Financial Supervisory Commission; for enforcement from the fiscal year of 2013
+
+17, Articles 2, 3, 10, 14, 22, 28, 35, and 38 amended and issued per 5 February 2014 Order No. Financial-Supervisory-Securities-Firms-1030001583 of the Financial Supervisory Commission; for enforcement from 1 January 2014
+
+\18. Full text of 40 articles amended and issued per 11 September 2014 Order No. Financial-Supervisory-Securities-Firms-1030034680 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 4, 7, 8, 12, 14 to 18, 20, 22, 24, 25, 33, 35, and 37 and Article 11, paragraph 1, which will come into force from the beginning of financial year 2015
+
+\19. Articles 14, 17, 20, 22, 23, 28 to 32, 39, and 40, and the title of Chapter V amended, and Articles 33-1 and 33-2 added, per 14 February 2017 Order No. Financial-Supervisory-Securities-Firms-1060002308 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Articles 14, 17, 20, 23, 33-1, 33-2 and 39, which will come into force from financial year 2017
+
+\20. Articles 14 to 17, 20, 27, 28, 36, 37, and 40 amended per 14 September 2017 Order No. Financial-Supervisory-Securities-Firms-1060032840 of the Financial Supervisory Commission; for enforcement from financial year 2018
+
+\21. Articles 14, 15, 20, 24, 27, 28, and 40 amended, and Articles 34 to 36 and the title "Chapter VI" deleted, per 30 July 2018 Order No. Financial-Supervisory-Securities-Firms-1070324179 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 14, paragraph 4, subparagraphs 3 and 4, and paragraph 6, and Articles 15, 20, and 27, which will come into force from financial year 2019
+
+\22. Articles 28 and 31 amended per 11 February 2020 Order No. Financial-Supervisory-Securities-Firms-1090360289 of the Financial Supervisory Commission
+
+\23. Articles 22 and 40 amended and issued per 18 March 2020 Order No. Financial-Supervisory-Securities-Firms-1090360934 of the Financial Supervisory Commission; for enforcement from financial year 2020
+
+\24. Articles 28, 30, and 31 amended, and Article 13-1 added, per 22 February 2022 Order No. Financial-Supervisory-Securities-Firms-1110380507 of the Financial Supervisory Commission
+
+\25. Articles 11 and 40 amended and issued per 1 September 2022 Order No. Financial-Supervisory-Securities-Firms-1110383646 of the Financial Supervisory Commission; for enforcement from fiscal year 2022
+
+\26. Articles 7, 10, 14 to 16, 19 to 21, and 40 amended and issued per 24 November 2022 Order No. Financial-Supervisory-Securities-Firms-1110385026 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of Article 10 and Article 14, paragraph 4, subparagraph 1, item B, which will come into force from financial year 2023
+
+\27. Articles 15, 16, 28, and 40 amended and issued per 24 January 2024 Order No. Financial-Supervisory-Securities-Firms-1130380001 of the Financial Supervisory Commission; for enforcement from the date of issuance, with the exception of the introductory part of paragraph 3, and paragraph 4, of Article 15, which will come into force from financial year 2024
+
+\28. Articles 14, 28, and 29 amended and issued, and Article 31-1 added, per 7 February 2025 Order No. Financial-Supervisory-Securities-Firms-1140380326 of the Financial Supervisory Commission
+
+\29. Articles 11 and 22 amended and issued, and Article 32-1 and name of Chapter IV-I added, per 24 December 2025 Order No. Financial-Supervisory-Securities-Firms-1140385609 of the Financial Supervisory Commission
+
+\30. Articles 7, 17, 20, 27, 33-2, and 40 amended and issued per 28 April 2026 Order No. Financial-Supervisory-Securities-Firms-1150381435 of the Financial Supervisory Commission; for enforcement from financial year 2028

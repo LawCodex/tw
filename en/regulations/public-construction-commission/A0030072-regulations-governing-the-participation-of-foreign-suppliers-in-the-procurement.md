@@ -1,0 +1,89 @@
+---
+title: "Regulations Governing the Participation of Foreign Suppliers in the Procurement Not Subject To Any Treaties Or Agreements"
+title_zh: "外國廠商參與非條約協定採購處理辦法"
+identifier: "A0030072"
+type: regulation
+law_level: "命令"
+category: "行政＞行政院公共工程委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-05-06
+last_amended: 2012-08-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030072"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Participation of Foreign Suppliers in the Procurement Not Subject To Any Treaties Or Agreements
+
+> Translation. The Chinese text ([zh/regulations/public-construction-commission/A0030072-regulations-governing-the-participation-of-foreign-suppliers-in-the-procurement.md](../../../zh/regulations/public-construction-commission/A0030072-regulations-governing-the-participation-of-foreign-suppliers-in-the-procurement.md)) is authoritative.
+
+## Article 1
+
+This Regulations is prescribed pursuant to paragraph 2 of Article 17 of the Government Procurement Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The term “procurement not subject to any treaties or agreements” referred to in this Regulations means procurement not subject to any treaties or agreements to which this nation is a party.
+
+Where a procurement is subject to any treaties or agreements to which this nation is a party and where an entity provides in the tender documentation that foreign suppliers from countries which do not have any treaty or agreement with this nation are permitted to participate in tendering, the entity shall specify explicitly that the said foreign suppliers shall be regarded as participating in a non-treaty/agreement procurement.
+
+## Article 3
+
+The term “foreign supplier” used in this Regulations means any natural person who does not hold the nationality of this nation, or any juridical person, organization or group established or registered not pursuant to pertinent laws of this nation .
+
+## Article 4
+
+The country of origin of property or service provided by suppliers shall be determined in accordance with the following principles:
+
+\1. The country of origin of property shall be determined in accordance with the Regulations Governing the Determination of Country of Origin of an Import Good.
+
+\2. The country of origin of service, unless otherwise provided for in laws or regulations, shall be determined by the nationality or the place of registration of the actual service provider. Where the service provider is a natural person, the nationality applies; where the service provider is not a natural person, the place of registration applies.
+
+\3. Where the property or service comprises both domestic and foreign components and the country of origin cannot be ascertained pursuant to the provisions set forth in the preceding two subparagraphs, the country which accounts for the highest percent of value shall be deemed as the country of origin.
+
+Where the country of origin of the property or service is not this nation but the property or service is provided by a supplier of this nation, such supplier shall be deemed as a foreign supplier.
+
+Where the country of origin of the property or service provided by a foreign supplier from a country with which this nation has signed treaties or agreements is not a country with which this nation has signed treaties or agreements, such supplier shall be deemed as a non-treaty/agreement supplier.
+
+Where a procurement of construction works involves the supply of property or service, the provisions regarding determination of country of origin referred to in the preceding three paragraphs shall apply.
+
+## Article 5
+
+When conducting a non-treaty/agreement procurement, an entity may, based upon actual needs, provide in the tender documentation that foreign suppliers are permitted to participate in tendering.
+
+## Article 6
+
+Any entity allowing foreign suppliers to participate in a non-treaty/agreement procurement may provide in the tender documentation that the following provisions of the Act are not applicable to foreign suppliers:
+
+\1. The equal opportunity to be invited referred to in paragraph 4 of Article 21 of the Act.
+
+\2. The qualification requirements referred to in paragraph 1 of Article 37 of the Act.
+
+\3. The non-discrimination requirements referred to in subparagraph 2 of Article 57 of the Act.
+
+## Article 7
+
+Where the responsible entity makes a public announcement pursuant to paragraph 3 of Article 17 of the Act imposing restrictions or ban on the suppliers, products or services of particular countries or regions from participating in tendering, such suppliers, products or services shall neither participate in any tendering nor be the subject of a contract award.
+
+## Article 7-1
+
+The regulations for foreign suppliers shall apply mutatis mutandis to the participation of suppliers from the Mainland Area in the procurement by each entity.
+
+## Article 8
+
+This Regulations shall take effect May 27, 1999.
+
+The amendment to this Regulations shall take effect on the date of promulgation.
+
+Note: In case of discrepancies between the Chinese version and this English version, the Chinese version shall prevail.
+
+## History
+
+1.Promulgated on May 6, 1999
+
+2.Amended on August 04, 2010
+
+3.Amended on August 14, 2012

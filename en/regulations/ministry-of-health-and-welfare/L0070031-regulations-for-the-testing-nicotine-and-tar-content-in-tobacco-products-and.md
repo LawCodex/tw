@@ -1,0 +1,110 @@
+---
+title: "Regulations for the Testing Nicotine and Tar Content in Tobacco Products and the Labeling of Tobacco Product Containers"
+title_zh: "菸品尼古丁焦油含量檢測及容器標示辦法"
+identifier: "L0070031"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞國民健康目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-03-27
+last_amended: 2023-11-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070031"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Testing Nicotine and Tar Content in Tobacco Products and the Labeling of Tobacco Product Containers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0070031-regulations-for-the-testing-nicotine-and-tar-content-in-tobacco-products-and.md](../../../zh/regulations/ministry-of-health-and-welfare/L0070031-regulations-for-the-testing-nicotine-and-tar-content-in-tobacco-products-and.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Regulations are enacted in accordance with the provisions of  Paragraph 3 of Article 9 and Paragraph 3 of Article 10 of the Tobacco Hazards Prevention Act.
+
+## Chapter 2 Labeling of Health Warnings
+
+### Article 2
+
+Tobacco product containers (hereinafter referred to as “containers”) shall be labeled with graphic and textual warnings regarding the health hazards of smoking and information related to smoking cessation (hereinafter referred to as "health warnings") as shown in the attached figures.
+
+### Article 3
+
+Health Warnings shall be labeled on the largest surface area near the opening of the cigarette container.
+
+When containers are labelled with Health Warnings of the same set, they shall take different designs within the set.
+
+### Article 4
+
+When a container is not rectangular or its largest front and back surfaces are difficult to discern, the health warnings shall be labeled on two conspicuous locations on the container's surface. The labeled area shall not be less than 30% of the total surface area of this container, and Health Warnings shall not be labeled on the bottom of this container.
+
+### Article 5
+
+Health Warnings shall be directly printed on cigarette containers in one of the attached aspect ratios, and shall still be clearly identifiable when the containers are opened. For containers of tobacco products other than cigarettes, labels printed with Health Warnings in one of the attached aspect ratios shall be firmly attached.
+
+## Chapter 3 Maximum content or level of Nicotine and Tar and the Testing
+
+### Article 6
+
+The maximum yield of nicotine contained in cigarettes is 1 milligram per cigarette stick; the maximum yield of tar is 10 milligrams per cigarette stick.
+
+The maximum content or levels of nicotine and tar in tobacco products other than cigarettes shall be announced by the central competent authority.
+
+### Article 7
+
+The method for testing the content or levels of nicotine and tar contained in tobacco products shall conform to national standards, or other methods commonly used domestically or internationally if no national standards are available.
+
+The central competent authority shall follow the preceding paragraph when sample testing the content or levels of nicotine and tar contained in tobacco products; and may delegate this task to professional authorities, institutions, legal persons, or organizations.
+
+## Chapter 4 Labeling of content or levels of Nicotine and Tar Contained in Tobacco Products
+
+### Article 8
+
+The content or levels of nicotine and tar contained in tobacco products shall be truthfully labeled according to the factory testing results. However, tobacco products where content or levels of nicotine and tar contained therein are unable to be tested in accordance with the preceding Article shall be labeled with "This tobacco product contains nicotine and tar which is harmful to health" or "This tobacco product contains nicotine which is harmful to health" depending on the contents.
+
+The content or levels prescribed in the preceding paragraph shall be labeled in milligrams. The content or levels of nicotine shall be shown to one decimal place; the content or levels of tar shall be shown in integral numbers.
+
+The last digits of the labeling prescribed in the preceding paragraph shall be rounded up or down according to its next decimal place. However, the content or levels of nicotine or tar shall be labeled according to the tested values when the tested value of nicotine is less than 0.05 milligrams, or when the tested value of tar is less than 0.5 milligrams.
+
+### Article 9
+
+The labeling in the preceding Article shall be printed in fine black font on the surface of containers with a white background and Chinese wording in 6 or above point font, or the length and width of the font not less than 2.28 millimeters. Containers of tobacco products other than cigarettes shall be firmly attached with an accordingly printed label.
+
+## Chapter 5 Labeling of Assigned Tobacco Products
+
+### Article 10
+
+Imported tobacco products shall comply with the labeling requirements stipulated in the Regulations before entering (or storing into) taxed areas or duty-free shops or duty-free shops on offshore island.
+
+## Chapter 6 Supplemental Provisions
+
+### Article 11
+
+Operators of tobacco products may implement and use these Regulations prior to the implementation date of Article 4, the last paragraph of Paragraph 1 of Article 8, and the attached graphs to Article 2 as amended and promulgated on March 22, 2023.
+
+### Article 12
+
+The Regulations shall be enforced on March 22, 2023, except Article 4, the last paragraph of Paragraph 1 of Article 8, and the attached graphs to Article 2, which shall be enforced on March 22, 2024.
+
+## Attachments
+
+- [Attached Graphs.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007976)
+- [Attached Graphs.DOC](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007977)
+
+## History
+
+\1.	The full text for the Regulations shall be promulgated on the date 27 March, 2008 by the Department of Health of the Executive Yuan (Order No. 0970700170), and shall be enforced on 1 November, 2009.
+
+\2.	Article 10 and Article 13 shall be amended, promulgated and enforced on 6 May, 2011, by the Department of Health of the Executive Yuan (Order No. 1000700543).
+
+\3.	Article 12, Article 13 and Article 2 (including the enclosed drawing) shall be amended and promulgated on 1 June, 2013, by the Health and Welfare Department (Order No. 1020710029), and shall be enforced on 1 June, 2014.
+
+\4.	Article 13 and Article 2 (including the enclosed drawing) shall be amended and promulgated on 14 June, 2019, by the Health and Welfare Department (Order No. 1080700420), and shall be enforced on 1 July, 2020.
+
+\5.	Amended on March 22, 2023.
+
+\6.	Amended on 13 November, 2023.

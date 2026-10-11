@@ -1,0 +1,180 @@
+---
+title: "Regulations Governing Issuance, Revocation, and Cancellation of Compliance Certification for Gasoline and Alternative Clean Fuel Engine Vehicle Emissions Inspections"
+title_zh: "汽油及替代清潔燃料引擎汽車車型排氣審驗合格證明核發撤銷及廢止辦法"
+identifier: "O0020046"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-06-26
+last_amended: 2023-10-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020046"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Issuance, Revocation, and Cancellation of Compliance Certification for Gasoline and Alternative Clean Fuel Engine Vehicle Emissions Inspections
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020046-regulations-governing-issuance-revocation-and-cancellation-of-compliance.md](../../../zh/regulations/ministry-of-environment/O0020046-regulations-governing-issuance-revocation-and-cancellation-of-compliance.md)) is authoritative.
+
+## Article 1
+
+These provisions are determined pursuant to Article 42 Paragraph 2 of the Air Pollution Control Act (hereinafter referred to as the Act)
+
+## Article 2
+
+Terms used in these provisions are defined as follows:
+
+2.1 For gasoline and clean alternative fuel engine vehicles (hereinafter referred to as the “gasoline vehicles”), vehicle configuration means automobiles that are identical in terms of the basic engine, exhaust system, transmission and inertia weight class, and are considered as the same vehicle model.
+
+2.2 Engine family: Vehicles with identical configurations in terms of combustion cycle (engine stroke); engine cooling mechanism (e.g., air cooled, liquid cooled); cylinder block configuration; number of cylinders; location of air intake valves; air supply method; fuel system type; catalytic converter type (oxidation catalyst, reduction catalyst or three-way catalyst); number of catalytic converters and their cubic measurement (variation of 15% or less in the actual reaction surface area) and composition; and electronic control modules are considered as the same engine family.
+
+2.3 In-use vehicles from overseas: Vehicles registered and licensed by the motor vehicle supervisory agencies of the country of importation must obtain an import and commodity tax payment (exemption) certificate issued by Customs at the time of importation as a documentary proof.
+
+2.4 Effective operation: normal operation of the vehicle’s emissions control equipment originally designed by the manufacturer.
+
+2.5 On Board Diagnostics System (hereinafter referred to as OBD): A computer system inside the vehicle that monitors vehicle emissions control equipment and can diagnose current operating status, detect and save malfunction codes, and display the signal indicator if malfunctions occurred.
+
+2.6 Hybrid Electric Vehicle (hereinafter referred to as HEV): A vehicle that has both internal combustion engine and electric motor dual power sources and its engine uses gasoline or other alternative clean fuels.
+
+2.7 Evaporative family: Vehicles with a fuel supply system that are based on the same principle or method (such as single-point fuel injection), with the same fuel vapor storage and purge devices, fuel measurement system, fuel vapor separator, fuel tank safety valve or other evaporative emission control devices, with similar shape, material, cross section, length, or capacity volume tanks, fuel and tubes and other fuel system devices may be categorized as the same Evaporative Family.
+
+2.8 Evolution coefficient: The exhaust emission ratio between the vehicle reaching its expected stable condition and before it is in use.
+
+2.9 Defeat devices: Through the measured or sensed vehicle’s operating parameters (such as: vehicle speed, engine rpm, transmission gear position, temperature, altitude, intake manifold vacuum, or other parameters) to trigger, adjust, delay or stop the emissions control functionality of certain devices when the vehicle is in normal operating conditions and hence reduce or with no effect on the emissions control.
+
+2.10 Inspection organization: An organization (institution) or school that has been designated by the central competent authority to issue the inspection report for a gasoline vehicle model’s emission Certificate of Conformity (hereinafter referred to as a Certificate of Conformity).
+
+2.11 On-board test family (PEMS test family): A specific vehicle model that is designed with similar exhaust and emission characteristics; or that can be classified as the same on-board test family according to the PEMS test family classification principles stipulated in No. 715/2007 and the subsequent directives established by the European Union (hereunder briefed as the EU).
+
+2.12 Regeneration factors (Ki factors): The pollution variation ratio observed during the equipment regeneration process for the vehicles being provided with the cyclic regenerative equipment.
+
+## Article 3
+
+Gasoline vehicles shall comply with Article 3 and Article 4 of the Air Emission Standards of Mobile Sources (hereinafter referred to as the Emission Standards) that being defined in Article 36 paragraph 2 of this Act, as well as relevant stipulations of these provisions before the central competent authority issues the Certificate of Conformity.
+
+## Article 4
+
+Applicants using engine family as the basis to apply for a Certificate of Conformity shall abide by the following regulations:
+
+4.1 For domestically manufactured gasoline vehicles, the manufacturer shall submit the application.
+
+4.2 For imported gasoline vehicles, the manufacturer's agent or association of importers and distributors shall submit the application.
+
+4.3 For imported gasoline vehicles procured by government agencies at all levels, the said agency shall submit the application on its own or commission the tender winner to submit the application.
+
+## Article 5
+
+The central competent authority shall take the test results from the following test methods as the basis for judging whether or not an engine family complies with the emission standards:
+
+5.1 The test results being conducted by the testing organization domestically according to the following requirements for the vehicles representing the maximum pollutant emission for such engine family that has been selected by the central competent authority or the applicant:
+
+5.1.1 Before February 28, 2025: Refers to the testing organizations designated by the central competent authority.
+
+5.1.2 After March 1, 2025: Refers to the testing organizations approved by the central competent authority.
+
+5.2 If the vehicle complies with US-related regulations, or European Union (EU)-regulated EU or UN/ECE regulations and its Certificate of Conformity of the engine family has already been obtained by United State, European Union member states or United Kingdom, the central competent authority shall use the test results from the test being conducted overseas on the vehicle selected by the applicant to represent the engine family.
+
+If the testing organization approved by the central competent authority, as defined in the preceding Item 2 under Subsection 1, is organized by the applicant, then such organization shall not be allowed to conduct the vehicle model inspection and the new vehicle random inspection test.
+
+The emission test suitable for the vehicle model inspection as defined in Point 1 shall be conducted according to the regulations specified in Appendix 1.
+
+## Article 6
+
+When using the engine family as the basis to apply for or to modify the motor vehicle-related Certificate of Conformity, the applicant shall submit the documents and the compliance matters according to the format defined in the network transmission application system designated by the central competent authority as well as the regulations specified in Appendix 1 and Appendix 2. For this purpose, the applicant shall be allowed to submit the application to the central competent authority.
+
+As of January 1, 2025, the applicant shall submit the documents and the compliance matters according to the aforementioned application method and format for securing the inspection report from the inspection organization and then uplink to the Network Transmission Application System designated by the central competent authority. In this case, the expenses required for the inspection shall be borne by the applicant.
+
+## Article 7
+
+Defined below is the review procedure that should be followed by the inspection organization for handling the application defined in the aforementioned inspection report:
+
+7.1 The inspection organization shall check the integrity of the document. If any missing or non-compliance is found in the application document, then the inspection organization shall inform the applicant to make a correction and the duration of the correction days shall not be longer than 30 days. If the applicant fails to complete the correction within the specified timeline, then the submitted document will be rejected.
+
+7.2 After verifying the document integrity for the application case, the inspection organization shall also check if such document complies with the requirements defined in Appendix 1 and Appendix 2.
+
+7.3 If any defect exists in the content of the inspection case, then the inspection organization shall inform the applicant to make a correction and the duration of the correction days shall not be longer than 45 days. If required, the applicant may request for extending the correction period; however, such extension shall be limited to once only. If the applicant fails to complete the correction within the specified timeline, then the inspection organization may conduct the document review.
+
+7.4 The inspection organization shall issue the inspection report.
+
+When conducting the aforementioned review, the inspection organization may undertake the field and the substantive inspections as required. The aforementioned inspections shall include the monitoring of the testing process being executed by the applicant in the domestic premise or the auditing in the applicant’s manufacturing plant or service location. In this regard, the entire inspection process shall be completed within 30 days.
+
+## Article 8
+
+When revising part of the engine family-related data for the same engine family or when adding new vehicle model, the applicant shall apply for the modification of Certificate of Conformity with the central competent authority. In the meantime, the applicant is also required to submit the comparative data being acquired before and after the modification. When all of the items affecting the pollutant emission are being verified as identical with the original engine family and being provided with the same emission characteristics, then the applicant shall be allowed to modify the Certificate of Conformity of the said engine family after being reviewed and approved by the central competent authority.
+
+## Article 9
+
+A conformity certified mass-produced gasoline vehicle shall comply with the following provisions:
+
+9.1 Each mass-produced gasoline-powered vehicle shall have the same configuration recorded in the Certificate of Conformity. All items affecting the pollutant emission and the emission control system must be consistent with the content and the approved items that are mentioned in the reviewed application document.
+
+9.2 All manuals and the explanatory instructions that are used by the association being jointly organized by manufacturers, manufacturer-designated agents or importers and that are used by the supply agents, the distributors, the after-service units (including maintenance, service, and repair workshops or stations), and that are related to the use, repairs, adjustment, maintenance or testing of the emission control systems shall be consistent with the content and the approved items that are mentioned in the reviewed application document.
+
+9.3 The association jointly organized by manufacturers, manufacturer designated dealers or the guild of importers shall undertake the mass production quality control. The content of such quality control shall be executed in accordance with the requirements defined in Appendix 3, and it shall include the quality control for new cars and in-use cars, applicable execution requirements, quality control test items, random inspection ratio and test result (including the required data) submittal schedule. If the quality control result of the vehicle fails to comply with the emission standards and the requirements defined in this standard, then the applicant shall explain the reasons causing the non-conformity and shall make the correction.
+
+9.4 The applicant shall coordinate with and support the central competent authority to conduct the verification and the designated test and shall also provide the vehicle related sales information. When required, the applicant shall help deliver the selected vehicle to the designated location.
+
+## Article 10
+
+The central competent authority may conduct new vehicle random inspection of new gasoline vehicles that have already obtained the Certificate of Conformity. The test procedures, selection of vehicles, pass or fail determination, and other related stipulated requirements shall be handled in accordance with Appendix 4.
+
+If the conducted new vehicle random inspection is non-compliant, the Certificate of Conformity for the said engine family shall be cancelled. After receiving the notice, within 30 days, the applicant shall submit a recall and correction plan for unsold and sold vehicles of the failed engine family. If the central competent authority reviewed and approved the plan, the applicant shall start to implement and complete the plan. After completing all the necessary measures, the applicant may reapply for the engine family's Certificate of Conformity. The contents of the recall and correction plan shall be in accordance with Appendix 4.
+
+## Article 11
+
+When importing newly manufactured gasoline-powered vehicles or in-use vehicles from abroad separately under a personal name, the applicant shall submit the following test reports along with each car for using as the alternative document of the Certificate of Conformity:
+
+11.1 The testing report prepared by the central competent authority-approved testing organization verifying that the gasoline-powered vehicle complies with Article 3 of the Emission Standards.
+
+11.2 If the said gasoline-powered vehicle is found by the central competent authority-approved testing organization as not having been equipped with the evaporative emission control system or its components, or if the installed evaporative emission control system or its components fail to operate effectively that the vehicle is suspicious of causing the pollution, then the applicant shall submit the testing report that is issued by the central competent authority-approved testing organization indicating that it complies with Article 4 of the Emission Standards.
+
+11.3 If the gasoline-powered vehicle cannot be tested by the central competent authority- approved testing organization, then the applicant may submit the test result report that has been judged by the central competent authority as meeting the Emission Standards.
+
+If the in-use gasoline-powered vehicle imported from abroad is defined as an antique car in Regulations Governing Road Traffic Safety, then the inspection and the test specified in the aforementioned paragraph shall not be required.
+
+## Article 12
+
+The issued Certificate of Conformity for the said engine family may be cancelled or revoked by the central competent authority in one of the following circumstances:
+
+12.1 Using any false document in the application, reporting false information, or keeping false records of operations.
+
+12.2 Violating the provisions of Article 9 that the time-limited improvement is imposed for 3 consecutive times within two years.
+
+12.3 Other severe offenses determined by the central competent authority to be in violation of this Act or these provisions.
+
+## Article 13
+
+The central competent authority may commission agencies (organizations) to handle the relevant matters related to new vehicle random inspection.
+
+## Article 14
+
+These provisions shall take effect on the date of promulgation, unless otherwise agreed upon separately.
+
+## Attachments
+
+- [Appendix 1：Exhaust emission testing and regulations applicable for vehicle model inspection.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008256)
+- [Appendix 2：Documents required and the compliance matters for Certificate of Conformity application.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008257)
+- [Appendix 3：Gasoline vehicle Conformity of Production Related Provisions.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008258)
+- [Appendix 4：New Gasoline Vehicle random inspection and In-Service Vehicle Recall and Correction Testing Provisions.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008259)
+
+## History
+
+1.Original 20 Articles promulgated by Ministry of Transportation and Communications order Chiao-Lu-Fa-Tzu No. 091B000048 and the Environmental Protection Administration order Kong-Tzu No. 0910041188.
+
+2.Revisions to Article 1 promulgated by Environmental Protection Administration order Kong-Tzu No. 0910066859 on November 2, 2002.
+
+3.Revisions to Article 15 promulgated by Environmental Protection Administration order Kong-Tzu No. 0930033727D on May 19, 2004.
+
+4.Revised and promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 0950104861D and Ministry of Transportation and Communications order Lu-Tzu No. 0950085075; Title of law revised to "Gasoline and Alternative Clean Energy Engine Vehicle Emissions Inspection Certification Issuance and Cancellation Regulations".
+
+5.Revised and promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 1000019482D on March 26, 2011 and Ministry of Transportation and Communications order Lu-Tzu No. 1000001939.
+
+6.Revisions to Article 15 promulgated by Environmental Protection Administration order Kong-Tzu No. 1000071577 on August 26, 2011 and Ministry of Transportation and Communications order Lu-Tzu No. 1000007833.
+
+7.Revised and promulgated by Environmental Protection Administration order Huan-Shu-Kong-Tzu No. 1080016589 on March 13, 2019.
+
+8.Revised and promulgated by Ministry of Environment order Huan-Bu-Kong-Tzu No. 1121313117 on October 25, 2023.

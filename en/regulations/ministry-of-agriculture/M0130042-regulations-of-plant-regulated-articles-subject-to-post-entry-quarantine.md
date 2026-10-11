@@ -1,0 +1,165 @@
+---
+title: "Regulations of Plant Regulated Articles Subject to Post-Entry Quarantine"
+title_zh: "植物檢疫物輸入隔離檢疫作業辦法"
+identifier: "M0130042"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-05-25
+last_amended: 2020-10-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0130042"
+retrieved: 2026-10-12
+---
+
+# Regulations of Plant Regulated Articles Subject to Post-Entry Quarantine
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0130042-regulations-of-plant-regulated-articles-subject-to-post-entry-quarantine.md](../../../zh/regulations/ministry-of-agriculture/M0130042-regulations-of-plant-regulated-articles-subject-to-post-entry-quarantine.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established pursuant to the Paragraph 5 of Article 14 of the “Plant Protection and Quarantine Act” (hereinafter called “the Act”).
+
+## Article 2
+
+The regulated articles subject to post-entry quarantine (hereinafter referred to as "PEQ articles") pursuant to subparagraph 3 of the first paragraph of Article 14 of the Act are the designated living plants or propagating materials that shall be conducted for a designated quarantine period.
+
+## Article 3
+
+The post-entry quarantine for PEQ articles shall be conducted in the plant quarantine authority, or the PEQ station designated by the plant quarantine authority, or the PEQ station provided by the importers that have been approved by the plant quarantine authority.
+
+## Article 4
+
+The importers shall submit application to the plant quarantine authority for approval before importing PEQ articles.
+
+The application in the preceding paragraph shall include the scientific names (including the genus names and the species names) or the cultivar names of PEQ articles, the parts of the PEQ article, the exporting country or area, and the quantity of such importation.
+
+The importers shall provide the following requisite documents if PEQ was conducted in the PEQ station provided by the importer:
+
+1.Layout map and address (including the lot number) of the PEQ station, the land ownership certificate or the agreement for the use by land owner, and the facilities of safety isolation site for PEQ;
+
+2.Cultivation and management plan of PEQ articles;
+
+3.Management plan for PEQ articles after importation, including the name of the person responsible for the management, phone number, and PEQ control measures.
+
+If the application of the first paragraph or the requisite documents or information of the preceding paragraph are incomplete, the plant quarantine authority shall issue a notice to require supplementation or correction within a specified time period. If such supplementation or correction is not made or the submitted content remains incomplete within the deadline, the application will not be accepted.
+
+## Article 5
+
+The PEQ station shall meet one of the following requirements mentioned below:
+
+1.For quarantine field site:
+
+(1)Fences must be established surrounding the field site for isolation, and;
+
+(2)Plants of the same family shall not be cultivated within 50 meters, and;
+
+(3)The entrance shall be able to be kept locked, and designated personnel are required for managing the field site and controlling the access of vehicles.
+
+2.For greenhouse or screen house:
+
+(1)The facility shall consist of a roof made from impervious material, and;
+
+(2)The sides of the facility must be enclosed; and all vents, windows and other holes shall be covered with screens with openings no larger than 0.6 mm to be separated from the outside environment, and;
+
+(3)The entrance shall be installed with antiseptic device for disinfecting hands and footwear, and;
+
+(4)The entrance shall be able to be kept locked, and designated personnel are required for managing the field site and controlling the access, and;
+
+(5)The ground shall be free of weeds and soil; the ground which is a permeable surface shall be equipped with raised benches at least 30 cm above the ground.
+
+If the PEQ articles are confirmed to have the risk of diseases which are insect-borne, the PEQ station shall meet the requirement of subparagraph 2 of the preceding paragraph.
+
+## Article 6
+
+The plant quarantine authority shall dispatch the inspector to perform an on-site audit of the PEQ station if such a station is provided by the importer. If the station is not compliant with the first paragraph of the preceding article, the importers shall make improvements within the deadline. If the required improvement is not met before the deadline, the application will not be accepted.
+
+Improvements of the preceding paragraph shall be made within two months.
+
+## Article 7
+
+The plant quarantine authority will issue the import permit for the importation of PEQ articles after the application is approved.
+
+The import permit is valid within two months from the day issued.
+
+For the application of importation in several shipments, the validation of import permit shall not exceed four months.
+
+During PEQ, if any of the approved plan and content of Paragraph 3 of Article 4 is changed, the importer shall submit application with the changed and updated documents or information to the plant quarantine authority for approval.
+
+## Article 8
+
+The importers or their agents shall apply for quarantine inspection of PEQ articles accompanied by the import permit on arrival.
+
+The domestic transportation of PEQ articles shall be escorted by the inspector dispatched by the plant quarantine authority or being sealed by the inspector dispatched by the plant quarantine authority and sent by the importers or their agents. The PEQ articles being transported to the isolation site shall not be opened and cultivated before being checked by the inspector dispatched by the plant quarantine authority where the PEQ station is located.
+
+The importers or their agents shall provide transportation vehicles and the cost for the transportation of the preceding paragraph.
+
+## Article 9
+
+The importers shall manage in accordance with the approved plan and content and comply the rules listed below during PEQ:
+
+1.All or any part of PEQ articles, or their derivatives shall not be moved out from the PEQ station without the permission of the plant quarantine authority;
+
+2.The access of personnel and the entrance, release and usage of fertilizers, pesticides, cultivation media, and other materials of the PEQ station during PEQ period shall be recorded for audit;
+
+3.The used cultivation media and other materials, discarded solution, and plant residues shall be collected and disinfected by means which are approved by the plant quarantine authority, and then disposed or discarded; such a record shall be made for audit;
+
+4.The movement of other regulated articles shall be approved by the plant quarantine authority;
+
+5.If the PEQ articles are dead or infested with pests, the importers shall immediately notify the plant quarantine authority and follow the instructions of the inspector of the plant quarantine authority or disposed by the plant quarantine authority. All the costs shall be borne by the importers.
+
+The PEQ station provided by the importer shall maintain the completeness of the secure facility; in addition, it shall not be changed without the permission of the plant quarantine authority. If is not compliant with Article 5 due to damage or any other reasons, the importer shall inform the plant quarantine authority and take safety measures immediately.
+
+If PEQ takes place in facilities of the plant quarantine authority or is designated by the plant quarantine authority, the importer shall pay the fees collected according to relevant regulations.
+
+## Article 10
+
+During PEQ, the plant quarantine authority shall dispatch the inspector to check the growth conditions and pest occurrence following the rules listed below:
+
+1.Herbaceous plant: checking at least once a month.
+
+2.Woody plant: checking at least once every three months.
+
+## Article 11
+
+If the PEQ articles are confirmed by the plant quarantine authority to have any of the conditions listed below during PEQ, they shall be deemed as failing to meet the import quarantine inspection and be destroyed:
+
+1.Infested with pests listed in Subparagraph 1 of Paragraph 1 of Article 14 of the Act.
+
+2.Infested with pests listed in Subparagraph 2 of Paragraph 1 of Article 14 of the Act and suffer from a lack of proper disinfection.
+
+3.Infested with pests which are not confirmed as known to occur in Taiwan and suffer from a lack of proper disinfection.
+
+4.Infested with pests other than above-mentioned which are deemed not to be of low risk determined by the plant quarantine authority and suffer from a lack of proper disinfection.
+
+5.In violation of Paragraph 2 of Article 8, PEQ articles transported to the PEQ station are opened and cultivated before inspection by the local plant quarantine authority where the PEQ station is located.
+
+6.In violation of the Subparagraph 1 of Paragraph 1 of Article 9, all or any part of PEQ articles, or their derivatives are moved out from the PEQ station without the permission of the plant quarantine authority.
+
+7.In violation of the management measures under the Subparagraphs 2 to 5 of Paragraph 1 or Paragraph 2 of Article 9, the improving measures notified by the plant quarantine authority shall be implemented within a specified time period but are not implemented.
+
+At the end of quarantine periods, PEQ articles which are qualified that do not have any of the conditions mentioned above, shall be admitted within their validity period.
+
+The plant quarantine authority shall inform the importers to remove their PEQ articles from plant quarantine authority or the facility designated by the plant quarantine authority within a deadline once being admitted valid; otherwise the PEQ articles shall be disposed by the plant quarantine authority with the cost borne by the importers.
+
+## Article 12
+
+The regulated article which are found to be infected by pests that could not be identified immediately at the point-of-entry, or the species of the living plant or propagating materials that could not be identified immediately during import inspection may also be subjected to PEQ according to these Regulations.
+
+The PEQ of the regulated articles of the preceding paragraph shall be conducted in the plant quarantine authority or the isolation sites designated by the plant quarantine authority.
+
+If the infested pests of the regulated articles subject to the first paragraph or the species of the living plants or propagating materials were able to be identified during PEQ, the plant quarantine authority may lift the PEQ control measures and release the regulated articles; otherwise the plant quarantine authority shall notify and request the importers or their agents to disinfect, destroy, re-export or conduct other measures to such regulated articles within a deadline.
+
+## Article 13
+
+These regulations become effective on the date of promulgation.
+
+## History
+
+1.Promulgated on May 25, 2015
+
+2.Amendment to Articles 1, 5, 7, 9 and 11, promulgated on October 27, 2020.

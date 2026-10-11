@@ -1,0 +1,279 @@
+---
+title: "Regulations Governing Specialties and Examination of Nurse Practitioner"
+title_zh: "專科護理師分科及甄審辦法"
+identifier: "L0020081"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞護理及健康照護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-10-27
+last_amended: 2023-06-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020081"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Specialties and Examination of Nurse Practitioner
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0020081-regulations-governing-specialties-and-examination-of-nurse-practitioner.md](../../../zh/regulations/ministry-of-health-and-welfare/L0020081-regulations-governing-specialties-and-examination-of-nurse-practitioner.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Regulations are established in accordance with Paragraph 3 of Article 7-1 of the Nursing Personnel Act.
+
+### Article 2
+
+Nurse practitioners shall be divided into the following specialties:
+
+1.Internal Medicine
+
+2.Psychiatry
+
+3.Pediatrics
+
+4.Surgery
+
+5.Obstetrics & Gynecology
+
+6.Anesthesiology
+
+7.Family Medicine
+
+### Article 3
+
+Professional registered nurses who meet any of the following qualifications may participate in the nurse practitioner examination for the specialties concerned.
+
+1.Professional registered nurses who have completed the nurse practitioner training in Taiwan: those who have completed practitioner training at any of the training hospitals shall have the following years of experience working as clinical nurses (hereinafter referred to as seniority):
+
+(1)For those possessing bachelor’s degree of nursing: at least three years;
+
+(2)For those possessing master’s degree of nursing or above: at least two years;
+
+2.Those who have completed the master’s degree program for nurse practitioner: having completed the master's degree program for nurse practitioner at a graduate institute of any domestic university or college announced by the central competent authority, and having seniority of at least two years before enrolling.
+
+3.Those who have completed nurse practitioner training abroad: having completed training in the United States, Canada, South Africa, Australia, New Zealand, the European Union, the United Kingdom, Japan, or any other countries that have equivalent nurse practitioner cultivation system, holding supporting documents, and having relevant seniority of at least two years.
+
+Prior to December 31, 2023, the training of nurse practitioners in anesthesiology may be carried out in hospitals other than the training hospitals recognized by the central competent authority, and the participants of such training shall have seniority of at least four years. At least two of those years should be in anesthesia nursing services.
+
+The applicable seniority shall be limited to the time working as a clinical nurse practitioner after registering in the R.O.C, Taiwan.
+
+## Chapter 2 Training Programs and Training Hospitals
+
+### Article 4
+
+A teaching hospital may fill out an application form, attach relevant documents and materials, and apply to the central competent authority for being qualified as a training hospital; upon approval, a training hospital certificate shall be issued, which will be valid for four years.
+
+The central competent authority shall regularly announce and publish the latest list of training hospitals, the period of validity and other related matters.
+
+The competent authority may visit the training hospital for inspection and guidance from time to time.
+
+### Article 5
+
+A training hospital shall establish a dedicated training unit for nurse practitioners to handle the following matters:
+
+\1. Regular review of nurse practitioner training plan, and its implementation and effectiveness.
+
+\2. Arrangement, implementation and review of training courses and teachers.
+
+\3. Planning for the guidance, counseling and management of professional registered nurses receiving nurse practitioner training.
+
+\4. Maintenance and supervision of training quality.
+
+\5. Participation in formulation of pre-established medical procedures.
+
+\6. Planning and review of labor rights and interests during the training.
+
+The members of the dedicated training unit in the preceding Paragraph shall be composed of directors of the nursing and medical departments, and the deputy superintendent or any staff with equivalent or superior levels shall be the coordinator, while the directors of the nursing and medical departments shall be deputy coordinators.
+
+The dedicated training unit may be established in combination with the nurse practitioner working group stipulated in Article 4 of the Regulations Governing Nurse Practitioners Carrying out Medical Activities under the Supervision of a Physician.
+
+### Article 6
+
+The training hospital shall comply with the following items:
+
+\1. Prepare a training plan before implementing the training, which shall be submitted electronically to the information platform established or designated by the central competent authority.
+
+\2. The list of professional registered nurses receiving nurse practitioner training shall be recorded in the register and sent to the corresponding municipal and county (city) competent authority for reference.
+
+\3. Regularly hold meetings in the nurse practitioner training unit.
+
+\4. Regularly review and evaluate teaching plans and training results.
+
+\5. Other matters related to the training of nurse practitioners.
+
+The content of registration stated in Subparagraph 2 of the preceding Paragraph includes ID number, professional registered nurse certificate number, specialty of the nurse practitioner training, training start and end dates, and seniority, etc.
+
+### Article 7
+
+The central competent authority may revoke the qualifications of a training hospital if it falls into any of the following circumstances:
+
+1.The documents and information of the application for certification are false or untrue.
+
+2.Evading, impeding, or refusing any inspection or guidance by the competent authority based on Paragraph 3 of Article 4;
+
+3.The qualification to serve as a training hospital is not met;
+
+4.Failing to perform works in accordance with the pre-established medical procedures stipulated in the Regulations Governing Nurse Practitioners Carrying out Medical Activities under the Supervision of a Physician, and further failing to make improvement within a specified time limit after being notified by the competent authority;
+
+5.Violating the Regulations or other relevant regulations for nurse practitioners, and failing to make improvement within a specified time limit after being notified by the competent authority.
+
+### Article 8
+
+For training hospitals whose certification is been revoked or canceled by the central competent authority, the application for new certification will not be accepted within one year.
+
+In the event of a training hospital being disqualified, the training courses it has implemented shall be immediately suspended, and the referral plan for its trainees shall be submitted to the central competent authority; which may be implemented only after being approved.
+
+If the training referral plan stated in the preceding Paragraph is implemented without proper submission and approval, or failing to be implemented, and thereby resulting in damage to the rights and interests of the trainees, the application from the disqualified training hospital will not be accepted within three years from the date of revocation or cancellation of the certification.
+
+### Article 9
+
+Training courses of training hospitals (hereinafter referred to as training courses) include academic training and clinical training; the content and number of training courses are specified in the table of the Appendix.
+
+### Article 10
+
+The training period of a training course set forth in the preceding article shall be at least six months and at most twelve months. Upon completion of the training course, the training hospital may carry out supplementary clinical training where it deems necessary; the supplementary clinical training shall be carried out within eighteen months from the date of completion of the training course.
+
+Supplementary clinical training shall be conducted by the original training hospital; the qualifications of the trainers and the ratio of trainers to trainees are stipulated in the table of the Appendix.
+
+## Chapter 3 Examinations
+
+### Article 11
+
+A practitioner examination shall be held every year in principle. The central competent authority shall announce relevant information such as the date and location of examination as well as registration methods one month before the examination date.
+
+The aforesaid examination shall include two phases: written test and oral test. Only those who pass the written test are eligible for the oral test. The written test scores that meet the passing requirements are valid for two years.
+
+The passing requirements for the written test are sixty marks average of all subjects and fifty marks in each subject.
+
+The passing requirement for the oral test is sixty marks.
+
+### Article 12
+
+The written test set forth in the preceding article shall cover the following subjects:
+
+1.General introduction to specialty nursing: including the role and responsibilities of a nurse practitioner and nursing-related policies and regulations.
+
+2.Advanced specialty nursing:
+
+(1)Nurse practitioners in internal medicine, psychiatry, pediatrics, surgery, obstetrics & gynecology, and family medicine: including advanced pharmacology, advanced pathophysiology, and diagnosis and treatment of health problems.
+
+(2)Nurse practitioner in anesthesiology: including advanced pharmacology, advanced pathophysiology, and diagnosis and treatment of health problems related to anesthesiology.
+
+### Article 13
+
+Any person who registers for a nurse practitioner examination shall submit one of the following supporting documents:
+
+1.For those who conform to the requirements set forth in Subparagraph 1 of Paragraph 1 of Article 3: a photocopy of the certificate of completion of the practitioner training programs; a photocopy of the graduation certificate for the highest degree in nursing is also required for those who graduate from a college or graduate institute of nursing;
+
+2.For those who conform to the requirements set forth in Subparagraph 2 of Paragraph 1 of Article 3: course credit certificates for each subject in the graduate institute and the certificate of clinical training issued by a training hospital;
+
+3.For those who conform to the requirements set forth in Subparagraph 3 of Paragraph 1 of Article 3: a photocopy of certificates issued by foreign countries with equivalent practitioner systems.
+
+4.For those who conform to the requirements set forth in Paragraph 2 of Article 3: a photocopy of the service certificate of engaging in anesthesia nursing practices and the certificate of completion of anesthesia nursing training.
+
+### Article 14
+
+Relevant documents and materials for the examination of nurse practitioner may be retained electronically; and their collection, processing, and use shall be handled in accordance with the Personal Data Protection Act and relevant regulations.
+
+## Chapter 4 Nurse Practitioner Certificates and Renewal
+
+### Article 15
+
+Those who have passed the practitioner examination may apply to the central competent authority for issuance of a practitioner certificate.
+
+The following items shall be indicated on thecertificate:
+
+1.Specialty;
+
+2.Certificate number;
+
+3.Name and gender;
+
+4.ID number;
+
+5.Date of birth;
+
+6.Period of validity of the certificate;
+
+7.Date of issue.
+
+### Article 16
+
+Practitioner certificates shall be renewed every six years.
+
+For the purpose of renewal, a practitioner shall, within six months before the expiration of the practitioner certificate, apply to the central competent authority by submitting certificates of continuing education stipulated in Article 17 and completed within 6 years before the expiration date. However, if special reasons arise, a written statement of the reasons and supporting documents shall be submitted to the central competent authority to apply for postponed renewal. In the event where approval is obtained, an application may be filed within one year upon the expiration date of the practitioner certificate.
+
+### Article 17
+
+Nurse practitioners shall take the following continuing education courses every six years and earn cumulative points of 120 or above:
+
+1.Professional courses.
+
+2.Quality courses related to specialty nursing;
+
+3.Humanity ethics.
+
+4.Medical regulations.
+
+Points for continuing education stated in Subparagraphs 2 to 4 of the preceding Paragraph shall include courses on infection control and gender issues; and the total points shall be at least 12 points but those exceeding 24 points shall not be counted.
+
+### Article 18
+
+Regarding the implementation methods of continuing education for nurse practitioners, in the event that the cumulative points gained from practitioner-related credit courses offered by a graduate institute during a semester exceed 15 points, only 15 points will be counted, except for those under Paragraph 1 of Article 14 of the Regulations Governing Practice Registration and Continuing Education of Medical Personnel.
+
+For nurse practitioners who practice in areas with insufficient medical resources as recognized by the central competent authority or are stationed abroad on official missions to engage in diplomatic-related international medical care, the calculation weight for their continuing education credits may be doubled.
+
+### Article 19
+
+In the event that a professional registered nurse certificate is canceled or revoked in accordance with law, the person’s nurse practitioner certificate shall also be canceled or revoked.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 20
+
+The central competent authority may entrust relevant any professional institutions or groups to handle the certification of training hospitals, the examination of nurse practitioner, the recognition of credits of continuing education, and the application for renewal of certificates.
+
+### Article 21
+
+Those who have been qualified to participate in the examination of nurse practitioner before January 5, 2024 may participate in the examination in accordance with the Regulations before such date.
+
+### Article 22
+
+The Regulations shall become effective on January 5, 2024, except that the provisions of Subparagraphs 2 and 3 of Article 3 shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix　Training Courses.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008119)
+
+## History
+
+1.Order Wei-Shu-Yi-Tzu No. 0930219004 on October 27, 2004
+
+2.Amended and promulgated by Order Wei-Shu-Chao-Tzu No. 0952802293 on December 28, 2006
+
+3.Amended and promulgated by Order Wei-Shu-Chao-Tzu No. 0962801018 on June 12, 2007
+
+4.Amended by Order Wei-Shu-Chao-Tzu No. 0962802210 on November 15, 2007
+
+5.Amendments to Articles 10 and 19 of Regulations Governing Specialties and Examination of Nurse Practitioner
+
+6.Amended on February 25, 2011
+
+7.Amended on February 4, 2012
+
+8.Article 12 was amended and promulgated on March 19, 2014 pursuant to the Ministry of Health and Welfare Order Wei-Bu-Zhao-Zi-Di No. 1031560178.
+
+9.The whole regulations, which consist of 19 articles, were amended and promulgated as per Order Wei-Bu-Zhao-Zi No. 1041561725 issued by the Ministry of Health and Welfare on November 3, 2015, and came into effect on the date of promulgation.
+
+10.Article 15 was amended and promulgated on April 2, 2018 pursuant to the Ministry of Health and Welfare Order Wei-Bu-Zhao-Zi-Di No. 1071560529.
+
+11.Amendment and promulgation of provisions set forth in Article 2, 7, and 12 as per Ordinance Wei-Bu-Zhao-Zi No. 1091561294 issued by the Ministry of Health and Welfare on September 26, 2020
+
+12.The whole regulations, which consist of 22 articles, were amended and promulgated as per Ordinance Wei-Bu-Zhao-Zi No. 1111560686 issued by the Ministry of Health and Welfare on January 5, 2023, and become effective one year upon the promulgation, except Subparagraphs 2 and 3 of Article 3 shall came into effect on the date of promulgation.
+
+13.Amendment and promulgation of provisions set forth in Article 2,3,10,12,21,22 and Appendix in Article 9 as per Ordinance Wei-Bu-Zhao-Zi No. 1121560753 issued by the Ministry of Health and Welfare on June 26, 2023, and become effective on January 5,2024, except Subparagraphs 2 and 3 of Article 3 shall came into effect on the date of promulgation.

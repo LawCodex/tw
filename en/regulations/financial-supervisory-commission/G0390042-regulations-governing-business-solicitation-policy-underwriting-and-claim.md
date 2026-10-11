@@ -1,0 +1,383 @@
+---
+title: "Regulations Governing Business Solicitation, Policy Underwriting and Claim Adjusting of Insurance Enterprises"
+title_zh: "保險業招攬及核保理賠辦法"
+identifier: "G0390042"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-03
+last_amended: 2026-04-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390042"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Business Solicitation, Policy Underwriting and Claim Adjusting of Insurance Enterprises
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390042-regulations-governing-business-solicitation-policy-underwriting-and-claim.md](../../../zh/regulations/financial-supervisory-commission/G0390042-regulations-governing-business-solicitation-policy-underwriting-and-claim.md)) is authoritative.
+
+## Article 1
+
+The Regulations herein are set forth pursuant to the second paragraph, Article 148-3 of the Insurance Law (the "Law".)
+
+## Article 2
+
+The term "insurance solicitor" depicted in the Regulations herein denotes the following persons:
+
+1.Sales representatives of insurance enterprises who solicit insurance business; and
+
+2.Insurance agents and their sales representative who solicit insurance business for insurance enterprises.
+
+## Article 3
+
+The term "insurance underwriter" depicted in the Regulations herein denotes a person who assesses underwriting risk and endorses whether to underwrite a policy for insurance enterprises in accordance with the established policy underwriting system and procedure.
+
+## Article 4
+
+The term "claim adjuster" depicted in the Regulations herein denotes a person who reviews insurance claims or performs claim adjustment and signs related documents for insurance enterprises in accordance with the insurance contract and the established claim adjusting system and procedure.
+
+## Article 5
+
+An insurance enterprise shall establish internal systems and procedures for business solicitation, policy underwriting and claim adjusting.
+
+## Article 6
+
+The internal business solicitation system and procedure of an insurance enterprise shall contain and explicitly specify at least the following particulars:
+
+1.Qualifications of sales representatives, the types of insurance they may solicit, their on-the-job training, rewards and disciplines, and rights and obligations. On-the-job training includes the insurance enterprises requiring sales representatives to attend annual training on fair treatment of customers over 65 years of age.
+
+2.Management measures regarding performance review that links the commissions received by sales representatives to risk exposure and duration of commission payment, solicitation quality, and solicitation dispute.
+
+3.Management measures regarding collection of premiums, and requisition of blank conditional receipts or renewal receipts, time of premium collection and turn-in by sales representatives.
+
+4.Rules to be complied with by sales channel and the characteristics of such sales channel.
+
+5.Matter concerning the applicant and the insured that a sales representative should know well, including at least the following:
+
+(1)Basic information:
+
+a. Basic information of the applicant and the insured (including at least name, sex/gender, date of birth, Citizen's ID No., and contact information; in the case of a juristic person, its name, representative, address and contact phone number);
+
+b. Relationship between the applicant and the insured, and that between the insured and the beneficiary; and
+
+c. If the insurance contract is produced in digital insurance policy format, the insurance enterprise shall at least obtain the mobile phone number, email, or other contact method of the applicant and insured deemed as sufficient by the competent authority for transmitting digital documents.
+
+d. Other basic information required by the competent authority.
+
+(2)Whether the applicant and the insured meet underwriting requirements?
+
+(3)The purpose and the needs of the applicant and the insured purchasing insurance.
+
+(4)Source of funding for payment of insurance premiums.
+
+(5)Evaluating whether customers over 65 years of age have the ability to distinguish situations that are disadvantageous to his or her rights and interests as an insured. However, the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers over 65 years of age following an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products.
+
+6.Product suitability policy, including at least the following:
+
+(1)The applicant understands fully that the premium he/she has paid is for purchasing an insurance product.
+
+(2)The type of insurance, insured amount and premium expense of the applicant are commensurate with his/her actual needs.
+
+(3)If the applicant purchases a foreign currency denominated insurance product, understand the applicant's exchange rate risk tolerance.
+
+(4)If the applicant wants to purchase an investment-linked insurance product, consider the applicant's suitability and risk tolerance, source of funding for payment of insurance premiums, and make sure that the applicant understands that he/she is at his/her own risk with regard to investment gain or loss from the investment-linked product, and do not offer the applicant any product that is beyond his/her financial means or unsuitable for the applicant.
+
+7.The obligation of a sales representative to fill out a solicitation report honestly, which shall include at least the following:
+
+(1) The course of solicitation;
+
+(2) The applicant and insured's annual income from work and other income;
+
+(3) Whether the applicant and insured have other commercial insurance and whether customers have terminated contracts, taken out loans, or taken out policy loans in the three months before purchasing the insurance.
+
+(4) The main sources of household income;
+
+(5) Whether the designated beneficiary in case of death of the insured is spouse, direct relative or heir apparent, and whether their order of succession and proportion of entitlement conform to related provisions of the Succession Law of the Civil Code; and if not, explain why;
+
+(6) For cases where the customer is over 65 years of age, the report shall state whether the customer has the ability to distinguish situations that are disadvantageous to his or her rights and interests as an insured, reasons why the insurance products is suitable for the customer, and evaluation record. However, the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers over 65 years of age following an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products.
+
+(7) Other information that will facilitate underwriting evaluation.
+
+8.An insurance enterprise or its sales representatives who solicit insurance business shall not engage in any of the following acts:
+
+(1) Solicit insurance business using people without the qualification of insurance solicitor.
+
+(2) Solicit business from an applicant or an insured by means of unfair discrimination, improper rebate, or any other inappropriate reduction of insurance premium.
+
+(3) Solicit business by means of exaggerated or false publicity or advertising, by making inappropriate comparison of the policies of different insurers, or by other inappropriate means.
+
+(4) Induce the customer to rescind or terminate contracts or pay the premium by a loan or a policy loan.
+
+(5) Solicit business using printed materials, advertising, introduction pamphlet, product description, recommendations and other materials that have not been consented or approved by the insurance enterprise.
+
+(6) Instigate the applicant or the insured to violate the obligation to inform, or use illicit means to instigate an applicant to cancel his/her policy, switch insurer, reduce the amount insured, pay up the premium, extend the policy, or obtain a policy loan.
+
+(7) The recipient of commission payment differs from the solicitor indicated in the insurance application.
+
+(8) Divert the use of premiums or embezzle the premiums.
+
+(9) Fail to identify the suitability of policy to the applicant or the insured, including providing customers over 65 years of age unsuitable insurance products.
+
+(10) Pay or collect remuneration in connection with improperly inducing customers to apply to the insurance enterprise for loans.
+
+(11) Engage in other practices that impair the rights and/or interests of the applicant, the insured or the beneficiary.
+
+\9. An insurance enterprise shall ask insurance agents that solicit insurance business on its behalf and their sales representatives to observe the following provisions:
+
+(1) To comply with the Regulations Governing the Administration of Insurance Agents, Regulations Governing the Supervision of Insurance Solicitors and insurance agency contract signed with the insurance enterprise.
+
+(2) Aside from provisions on rewards and disciplines as provided in Subparagraph 1 of this paragraph and provisions on performance review linking commissions to risk exposure and duration of commission payment as provided in Subparagraph 2 of this paragraph, to comply with matters specified in Subparagraphs 1 ~ 8 of this paragraph and the insurance agency contract.
+
+\10. When selling insurance products with surrender value (excluding small amount whole life insurance, group annuity insurance, and accident insurance with an insurance period of less than three years) to customers over 65 years of age, insurance enterprises shall, after obtaining the customer’s consent, maintain the record of selling process by audio or video means, or retain the trail of relevant operating process using electronic equipment. Appropriate unit or managerial personnel shall double-check such record or trail and confirm the product suitability for the customer. The methods for processing the aforementioned audio or video recording or records retained with electronic equipment shall be established by the Life Insurance Association of the Republic of China and such methods shall also be reported to the competent authority for recordation. However the preceding provision does not apply provided the insurance enterprise has established other measures for customer insurance rights protection and has reported those measures to the competent authority for recordation.
+
+\11. Records of the sales process retained in audio or video recordings or records retained with electronic equipment according to the preceding subparagraph shall include at least the following items and they shall be kept for at least five years from the expiry of the insurance contract or five years from the date the decision of non-underwriting is finalized.
+
+(1) The soliciting sales representative must show his/her certified registration license and provide information on his/her company and his/her authorization to solicit insurance product.
+
+(2) Inform the customer of the name of the insurance product, name of the insurance company, the relationship between the solicitor and the insurance company, payment period, and payment amount.
+
+(3) Explain the contents of important provisions, exclusions, and contents of the recommendations.
+
+(4) Explain the customer’s right to rescind the contract.
+
+(5) Ask the customer whether the customer understands the amount of insurance premiums to be paid each year and verify whether the customer can afford the insurance premiums.
+
+(6) If the insurance product purchased by the customer is an investment-linked insurance product, the sales representative must explain the investment risks of the product, important contents of insurance product prospectus, related expenses for the insurance policy (including insurance cost), and the method of collection. He/she must also ask whether the customer understands the possible losses under less favorable conditions and confirm whether the customer can tolerate such losses.
+
+12.When a customer purchases an insurance product requiring policy value reserve (excluding small-amount whole-life insurance and accident insurance with an insurance period of less than three years), health insurance product, or mortgage life insurance product that pays survival benefits, the insurance enterprise shall observe the following provisions:
+
+(1)The insurance enterprise shall assign a staff from non-sales channels to conduct phone call, video call or remote interview to inform or confirm with the customer the following matters after the insurance contract is sold but before underwriting is approved. The insurance enterprise shall also save the phone interview recording or the audio or video recording of the video call or remote interview for future inspection, and safekeep the recording for at least five years after the expiry of the insurance contract or five years from the date the decision of not to underwrite the policy is finalized:
+
+a. Where the customer’s source of fund for premium payment is the termination of an insurance contract, loan or policy loan, the applicant and the actual premium payor should be confirmed or informed of the following matters:
+
+I. Confirmation of compliance with provisions specified in Subparagraph 5, Subparagraph 6, and Subparagraph 8.
+
+II. For customers whose source of funding for insurance premiums payment is a loan or a policy loan, the applicant and the actual premium payor must be clearly informed of related risks caused by the financial leverage operations and the maximum amount of potential losses.
+
+III. For customers whose source of funding for insurance premiums payment is the termination of a contract, the applicant and the actual premium payor must be clearly informed of related losses of interests in insurance contracts as a result of the insurance purchase after the termination of the contract.
+
+b. For customers over 65 years of age, the staff should ask questions gently around possible disadvantages of the insurance product the customer has purchased to confirm that the customer understands the potential effects and disadvantages on the customer associated with the characteristics of the insurance product. However the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers over 65 years of age following an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products, or if the insurance enterprise has established measures for customer insurance rights protection that meet the requirements set out in the proviso of Subparagraph 10 hereof.
+
+(2)If insurance brokers or insurance agents have conducted phone call, video call or remote interview of their customers in accordance with Article 33-1 of the Regulations Governing Insurance Brokers or Article 33-1 of the Regulations Governing Insurance Agents, insurance enterprises need not conduct phone call, video call or remote interview of such customers regarding the same matters in accordance with the preceding item.
+
+\13. Other matters to be complied with as prescribed by the competent authority.
+
+An insurance enterprise shall ask insurance brokers it does business with to observe the following provisions:
+
+1.To comply with the Regulations Governing the Administration of Insurance Brokers and the contract signed with the insurance enterprise.
+
+2.May not introduce insurance products to applicants by offering premium discount or other illicit incentives.
+
+3.May not induce the customer to rescind or terminate contracts or use loans or policy loans to pay insurance premiums. Must understand whether the source of funding for the payment of insurance premiums is a terminated insurance contract, loan, or policy loan.
+
+4.May not engage in any practice that impairs the rights and/or interests of the applicant, the insured or the beneficiary.
+
+The provisions of Subparagraph 7, Paragraph 1 hereof do not apply to the solicitation of non-life insurance business.
+
+The content of solicitation report specified in Subparagraph 7, Paragraph 1 hereof does not apply to the solicitation of microinsurance business. Insurance companies may establish their own content based on their internal risk management considerations.
+
+An insurance enterprise that engages in wealth management business, and has established solicitation control measures for said business and reported the measures to the competent authority for recordation, or an insurance enterprise that has submitted the aforementioned measures along with its application for engaging in wealth management business to the competent authority and has obtained approval therefrom may conduct the business according to the following provisions:
+
+\1.    The provisions of Item (5) of Subparagraph 5, Subparagraph 10, Subparagraph 11, and Item (1).b of Subparagraph 12, Paragraph 1 hereof do not apply.
+
+\2.    The provisions of Item (4), Subparagraph 8 of Paragraph 1 hereof and Item (1), Subparagraph 12 of Paragraph 1 hereof do not apply when the insurance enterprise provides premium financing to its wealth management customers using the customer’s insurance contract as collateral.
+
+## Article 7
+
+The internal underwriting system and procedure of an insurance enterprise shall include and explicitly specify at least the following particulars:
+
+\1. The qualifications, job descriptions, on-the-job training and reward/discipline of underwriters. On-the-job training includes the insurance enterprises requiring underwriters to attend annual training on fair treatment of customers over 65 years of age.
+
+\2. Procedure and flow chart covering the process from acceptance of application to agreeing to underwrite a policy, including at least underwriting guidelines, financial underwriting mechanism, survival analysis and physical examination standards, insurance reporting mechanism, hierarchy of authority, and arrangement of reinsurance.
+
+\3. The policy of understanding and evaluating the needs and suitability of the applicant and the insured:
+
+(1) Make sure the applicant understands fully that the premium he/she has paid is for purchasing an insurance product.
+
+(2) Evaluate that the type of insurance, insured amount and premium expense of the applicant are commensurate with his/her actual needs.
+
+(3) If the applicant purchases a foreign currency denominated insurance product, applicant's exchange rate risk tolerance has been evaluated.
+
+(4) If the applicant wants to purchase an investment- linked insurance product, an insurance enterprise shall comply with the following provisions:
+
+I. The applicant's suitability, risk tolerance and source of funding for payment of insurance premiums have been evaluated, and the fact that the applicant understands that he/she is at his/her own risk with regard to the investment gain or loss from the investment-linked product has been evaluated.
+
+II. The applicant may not be offered any product that is beyond his/her financial means or unsuitable for him/her.
+
+III. An insurance enterprise may not undertake insurance policies if the applicant’s investment attribute is evaluated as non-active and the insurance premiums are paid with a loan or policy loan.
+
+4.The operating procedure for evaluating whether the insured amount and premium payment are commensurate with the income, financial situations and occupation of the applicant or the insured. But for life insurance, accident insurance and travel insurance over certain insured amount, the operating procedure for verifying whether information or documentation on the income, financial situation and occupation of the applicant or the insured is reasonable and credible, and whether such information is commensurate with the insured amount or premium payment.
+
+\5. The operating procedure for evaluating the suitability of selling insurance products with surrender value (excluding small-amount whole-life insurance, group annuity insurance and accident insurance with an insurance period of less than three years) to customers over 65 years of age and considering whether the customer has the ability to distinguish situations that are disadvantageous to his or her rights and interests as an insured.
+
+6.The operating procedure for evaluating whether the sources of funding for payment of insurance premiums is from a terminated insurance contract, loan, or policy loan, including mechanisms for inspecting whether the customer has terminated a contract with the same insurance enterprise or another insurance enterprise, or has taken out a loan or policy loan with the same insurance enterprise in the three months prior to the purchase of the insurance policy and before underwriting is approved, and whether related financial information provided by the customer in transactions with the insurance enterprise are consistent. However, the preceding provision does not apply if the terminated insurance contract is a microinsurance, group insurance or accident insurance with an insurance period of less than three years.
+
+7.The operating procedure for confirming the identity of the applicant and that he/she has indeed purchased a policy, the identity of the insured and that the insured has given his/her consent to the policy purchased.
+
+8.The operating procedure for confirming that the designation or change of beneficiary has been consented by the insured.
+
+\9. The operating procedure for confirming that the applicant has indeed applied for changing the content of the insurance contract that would affect risk assessment, and the identity and signature of the applicant and the insured.
+
+\10. The operating procedure for the manner and duration of retaining and disposing the personal data of the applicant, the insured and the beneficiary of applications that were underwritten and not underwritten.
+
+11.The operating procedure for evaluating risks and the calculation and collection of insurance premiums shall be based on actuarial science and statistical data. The insurance enterprise may not treat a specific applicant or policyholder unfairly because of his or her disability.
+
+12.The following situations are prohibited:
+
+(1) Underwriting work is performed by someone without the qualification of underwriter.
+
+(2) Reviewing and underwriting an application without considering the content of the insurance product and suitability.
+
+(3) Underwriting a policy by validating the policy retroactively; the preceding provision does not apply if it is otherwise provided in accordance with international customary practice, the procurement or service contract executed under the Government Procurement Act, or other laws.
+
+(4) Failing to faithfully review the signatures, endorsement or information affixed/provided by the applicant or the insured and the insurance solicitor or other relevant evidence indicating willingness on the part of the applicant in accordance with relevant laws and regulations. If the business of an insurance agent or broker is solicited by its sales representative, the application is not signed by the sales representative or endorsed by a qualified insurance agent or broker.
+
+(5) Failing to faithfully implement the procedure of reviewing the finance of the applicant or the insured, the insurance reporting mechanism or the suitability policy or failing to retain documentation on the implementation of insurance reporting and inquiry mechanism, and retain the underwriting evaluation documents.
+
+(6) Failing to understand whether the source of funding for payment of insurance premiums is a terminated contract, loan, or policy loan and evaluate its appropriateness.
+
+(7) Engaging in other practices that impair the rights and/or interests of the applicant, the insured or the beneficiary.
+
+\13. Other matters to be complied with as prescribed by the competent authority.
+
+The provisions on financial underwriting mechanism and survival analysis and physical examination standards mentioned in Subparagraph 2 of the preceding paragraph and the provisions in Subparagraphs 4 ~ 9 of the preceding paragraph do not apply to non-life insurance products, microinsurance products and other specific insurance products.
+
+Insurance enterprises shall submit the financial underwriting mechanism and survival analysis and physical examination standards drafted in accordance with Subparagraph 2, Paragraph 1 hereof, the policy of evaluating the needs and suitability of the applicant and the insured mentioned in Subparagraph 3 of this paragraph and operating procedures mentioned in Subparagraphs 4 ~ 9 of this paragraph to the competent authority for recordation.
+
+The term insurance reporting mechanism referred to in Paragraph 1 connotes reports of specific data of insurance contracts by the insurance enterprise to the insurance business reporting and information system when applications are accepted, agreement to underwrite a policy is indicated, or the insurance contract status has been modified. Relevant data of the applicant and insured stored in the system may be accessed and retrieved as a reference for the underwriting process and underwriting decisions.
+
+The procedure for retaining personal data of applications that were not underwritten under Subparagraph 10 of Paragraph 1 hereof shall comply with the following provisions:
+
+\1. The retention period shall not exceed five years from the date the decision of non-underwriting is finalized, unless a longer period is otherwise required by law. When the retention period for the data of a non-underwritten application case expires but the case is involved in a complaint, mediation or litigation proceeding that there is an ongoing need to process and use data of the case, such data may be retained until one year has elapsed since the date the dispute resolution proceeding is concluded.
+
+\2. An insurance enterprise shall process and use the personal data of applications that were not underwritten in accordance with the Personal Information Protection Act and delete, and stop to process or use such data after its retention period expires.
+
+The provisions of Subparagraph 4 and Subparagraph 5 of Paragraph 1 hereof do not apply if the insurance enterprise engages in wealth management business, and has established underwriting control measures for said business and reported the measures to the competent authority for recordation, or if the insurance enterprise has submitted the aforementioned measures along with its application for engaging in wealth management business to the competent authority and has obtained approval therefrom.
+
+## Article 8
+
+The internal claim adjusting system and procedure of an insurance enterprise shall contain and explicitly specify at least the following particulars:
+
+1.The qualifications, job descriptions, on-the-job training and reward/discipline of the employed claim adjusters.
+
+2.Operating procedure and flow chart for accepting claims and benefit approval, including at least the expensing and accounting treatment of claim settlement expenses, claim investigation, evaluation and adjustment, hierarchy of authority, and claims recovered from reinsurers.
+
+3.The following situations are prohibited:
+
+(1) Claim adjustment work is performed by someone without the qualification of claim adjuster.
+
+(2) Evaluating and approving claim benefit without considering the content of the insurance product.
+
+(3) Engaging in other practices that impair the rights and/or interests of policyholders.
+
+4.Other matters to be complied with as prescribed by the competent authority.
+
+## Article 9
+
+An insurance enterprise shall make adjustment prior to March 1, 2014 after the implementation of the amended Regulations on November 7, 2013 if its business solicitation, underwriting or claim adjusting systems and procedures do not comply with the provisions in Article 6 or 7 herein.
+
+## Article 10
+
+Insurance solicitors shall meet the qualifications set forth in Regulations Governing the Administration of Insurance Agents, Brokers and Surveyors or Regulations Governing the Administration of Insurance Sales Representatives and obtain a practice license or complete the registration formality for insurance sales representative.
+
+## Article 11
+
+The business solicitation activities of an insurance enterprise conducted through their authorized sales representatives or authorized insurance agents and their sales representatives under an insurance agency agreement should avoid intentional wrongdoing or negligence. If any international wrongdoing or negligence on the part of its sales representative or agent causes damage to an applicant or an insured, the insurance enterprise will not be excused from liability as provided by law.
+
+## Article 12
+
+An insurance underwriter shall meet one of the following criteria:
+
+1.Having graduated from a domestic or foreign college or higher, or equivalent educational background, and having completed minimum 120 hours of insurance-related courses and minimum four years' of practical experience in assisting in underwriting operation, of which, at least one year was spent on working for a domestic insurer.
+
+2.Having graduated from a domestic or foreign college or higher, or equivalent educational background, and having minimum five years' of practical experience in assisting in underwriting operation, of which, at least one year was spent on working for a domestic insurer.
+
+3.Having worked as a claim adjuster and having minimum one year of practical experience in assisting in underwriting operation while working for a domestic insurer.
+
+4.Having acquired the qualification equivalent to that of an insurance underwriter granted by a domestic or foreign insurance academy, an insurance research institute or a lawfully established and reputable professional insurance agency, and having minimum one year of practical experience in assisting in underwriting operation while working for a domestic insurer.
+
+5.Having acquired the certificate as a qualified insurance underwriter prior to the promulgation of the Regulations herein.
+
+6.Having being approved by the competent authority to work as an insurance underwriter prior to the promulgation of the Regulations herein.
+
+7.Having acquired the certificate as a qualified assistant underwriter prior to the promulgation of the Regulations herein and having minimum two years' of practical experience in assisting in underwriting operation.
+
+## Article 13
+
+A claim adjuster shall meet one of the following criteria:
+
+1.Having graduated from a domestic or foreign college or higher, or equivalent educational background, and having completed minimum 120 hours of insurance-related courses and minimum four years' of practical experience in assisting in claim adjusting operation, of which, at least one year was spent on working for a domestic insurer.
+
+2.Having graduated from a domestic or foreign college or higher, or equivalent educational background, and having minimum five years' of practical experience in assisting in claim adjusting operation, of which, at least one year was spent on working for a domestic insurer.
+
+3.Having worked as an insurance underwriter and having minimum one year of practical experience in assisting in claim adjusting operation while working for a domestic insurer.
+
+4.Having acquired the qualification equivalent to that of a claim adjuster granted by a domestic or foreign insurance academy, an insurance research institute or a lawfully established and reputable professional insurance agency, and having minimum one year of practical experience in assisting in claim adjusting operation while working for a domestic insurer.
+
+5.Having acquired the certificate as a qualified claim adjuster prior to the promulgation of the Regulations herein.
+
+6.Having being approved by the competent authority to work as a claim adjuster prior to the promulgation of the Regulations herein.
+
+7.Having acquired the certificate as a qualified assistant claim adjuster prior to the promulgation of the Regulations herein and having minimum two years' of practical experience in assisting in claim adjusting operation.
+
+## Article 14
+
+An insurer shall not employ a person as underwriter or claim adjuster who was once implicated in unlawful or other dishonest or improper conduct or practice and received a guilty verdict in the past five years. The insurer shall dismiss an existing employee with the aforesaid record.
+
+## Article 15
+
+A person with the qualifications of both underwriter and claim adjuster may work either as an underwriter or a claim adjuster, but not both at the same time.
+
+A claim adjuster may not work on claim cases that he/she reviewed or signed off in the past three years.
+
+An underwriter or claim adjuster may not underwrite or review/sign off claim cases that he/she once solicited.
+
+## Article 16
+
+An insurer shall provide its solicitors, underwriters and claim adjusters with at least thirty hours of on-the-job training to enhance their professional skills and know-how.
+
+## Article 16-1
+
+(deleted)
+
+## Article 17
+
+An insurer should faithfully implement its business solicitation, underwriting and claim adjusting systems and procedures in accordance with the provisions in Article 6, 7 and 8, and take disciplinary actions against its solicitors, underwriters and claim adjusters who violate business rules and regulations in conducting business. Such disciplinary actions may be a warning or other disposition, depending on the nature and severity of the violation.
+
+## Article 18
+
+The Regulations shall be in force on the date of its promulgation, except for the effect date of the articles amended on August 28, 2020 to be in force on October 1, 2020, the articles amended on March 29, 2022 to be in force on October 1, 2022 and the articles amended on July 7, 2023 to be in force on October 1, 2023.
+
+## History
+
+1.Promulgated by Ministry of Finance (90-tai-tsai-pao No. 0900751295) in total of 15 articles on 2001.12.3
+
+2.Amended on May 12, 2010
+
+3.Amended on March 30, 2012
+
+4.Amended on November 7 ,2013
+
+5.Amended on August 22 ,2014
+
+6.Amended on May 07, 2015
+
+7.Amended on April 1, 2019
+
+8.Amended on 13 February 2020 per Order No. Jin-Guan-Bao-Shou-Zi- 10904902871 of the Financial Supervisory Commission
+
+9.Amended on 28 August 2020 per Order No. Jin-Guan-Bao-Shou-Zi- 10904932021 of the Financial Supervisory Commission
+
+10.Amended on 29 March 2022 per Order No. Jin-Guan-Bao-Shou-Zi- 11101326701 of the Financial Supervisory Commission
+
+11.Amended on June 29 ,2022
+
+12.Amended on 7 July 2023 per Order No. Jin-Guan-Bao-Shou-Zi-11201408251 of the Financial Supervisory Commission
+
+13.Amended on 30 July 2025 per Order No. Jin-Guan-Bao-Zong-Zi- 11404928771 of the Financial Supervisory Commission
+
+14.Amendment to Articles 6 & 7 on April 21, 2026 by Order No. Jin-Guan-Bao-Shou-Zi 11504908561 of the Financial Supervisory Commission.

@@ -1,0 +1,1217 @@
+---
+title: "Regulations Governing Securities Firms"
+title_zh: "證券商管理規則"
+identifier: "G0400072"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1988-11-24
+last_amended: 2025-07-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400072"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Securities Firms
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400072-regulations-governing-securities-firms.md](../../../zh/regulations/financial-supervisory-commission/G0400072-regulations-governing-securities-firms.md)) is authoritative.
+
+## Chapter I General Provisions
+
+#### Article 1
+
+These Regulations are prescribed in accordance with paragraph 4 of Article 44 of the Securities and Exchange Act (hereinafter referred to as "the Act").
+
+#### Article 2
+
+A securities firm shall, in accordance with the Regulations Governing the Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets adopted by the Financial Supervisory Commission (FSC) and other securities firm internal control regulations set by the Taiwan Stock Exchange Corporation (TWSE) and other securities-related institutions, establish its own internal control system.
+
+The operation of a securities firm shall be in accordance with laws and regulations, the articles of incorporation, and the internal control system referred to in the preceding paragraph.
+
+Any amendments to be made to the internal control system referred to in paragraph 1 per the notice of the FSC or a securities-related institution shall be made within the specified time limit.
+
+#### Article 3
+
+In case of any of the following events, a securities firm shall report to the FSC for approval in advance:
+
+\1. Change of name of the firm.
+
+\2. Change of capital amount, working capital, or funds for operating business.
+
+\3. Change of the business premises of the firm, a branch office, or a simple branch office.
+
+\4. Acquisition of the entire or major part of the business or assets of another person, or transfer of the entire or major part of the business or assets of the firm to another person.
+
+\5. Merger or dissolution.
+
+\6. Investment in a foreign securities firm.
+
+\7. Any other matters which under the regulation of the FSC shall be reported to and approved by the FSC in advance.
+
+Where a securities firm has entered into a contract for using the centralized securities market with the TWSE, matters to be reported and approved as referred to in the preceding paragraph shall be submitted to the TWSE for transmittal to the FSC. Where a securities firm only entered into a contract for trading securities on the Taipei Exchange (TPEx), the submission shall be made to the FSC through the TPEx. Where no contract has been entered into, the submission shall be made to the FSC through the Securities Association.
+
+#### Article 4
+
+In case any of the following events occurs, a securities firm shall report to the FSC:
+
+\1. Where the business operation is commenced, suspended, resumed or terminated.
+
+\2. Where, through operating or engaging in securities business, a securities firm, or any of its directors, supervisors, or employees becomes involved in litigation or arbitration, or is subject to compulsory execution as an obligor, or a securities firm is a bankrupt or has a negotiable instrument dishonored or is refused services by a bank.
+
+\3. Where any director, supervisor, or managerial officer has any of the conditions referred to in Article 53 of the Act.
+
+\4. Where any director, supervisor, or employee has violated an order issued by the FSC in accordance with the Act.
+
+\5. Where there is any change in the shareholding of any director, supervisor, manager or shareholder holding more than 10 percent of the shares of the company.
+
+\6. Where there is any other matter required by the FSC to be reported.
+
+For the matters in subparagraph 1 in the preceding paragraph, the securities firm shall report in advance. For the matters in subparagraphs 2 through 4, the securities firm shall report within 5 days from the day on which it becomes aware thereof or on which the matters occur. For matters in subparagraph 5, the securities firm shall report by the 15th day of the following month.
+
+Where a securities firm has entered into a contract for using the centralized securities market with the TWSE, matters to be reported as referred to in paragraph 1 above shall be submitted to the TWSE for transmittal to the FSC. Where a securities firm only entered into a contract for trading securities on the TPEx, the submission shall be made to the FSC through the TPEx. Where no contract has been entered into, the submission shall be made to the FSC through the Securities Association.
+
+The term "business day," as used in these Regulations, means a trading day on the domestic securities markets.
+
+#### Article 5
+
+A securities firm shall operate its business in a fair and reasonable manner. Factors including operating costs, transaction risks, reasonable profits, and a customer's overall contribution shall be taken into consideration in determining the fees to be collected. It is not permitted to use unreasonable fees to solicit or engage in business.
+
+The advertisements produced and broadcasted by a securities firm shall not be exaggerated or biased.
+
+The self-regulatory rules governing the production and broadcasting of advertisements by securities firms referred to in the preceding paragraph shall be prescribed by the Securities Association and submitted to the FSC for recordation.
+
+#### Article 6
+
+A securities firm shall install internal auditors to regularly or from time to time examine the company's finances and business and prepare audit reports and keep them available for audit.
+
+The audit reports referred to in the preceding paragraph shall include comments on the compliance of the company's finances and business with relevant laws and regulations and the internal control system of the company.
+
+#### Article 7
+
+A securities firm that operates two or more types of securities businesses shall independently operate the business based on the types thereof.
+
+Different departments may be established for the operation of each type of business under the preceding paragraph based on the nature of the business.
+
+#### Article 8
+
+In operating securities business, a securities firm shall have its business conducted by duly registered qualified associated persons in accordance with the Regulations Governing the Responsible Persons and Associated Persons of Securities Firms.
+
+## Chapter II Finance
+
+#### Article 9
+
+After completion of corporate registration, a securities firm shall deposit an operation bond with a bank designated by the FSC as follows:
+
+\1. A securities underwriter: NT$40 million.
+
+\2. A securities dealer: NT$10 million.
+
+\3. A securities broker: NT$50 million. However, if the securities broker operates only the following business, the bond shall be NT$10 million:
+
+A. Operates only equity crowdfunding business.
+
+B. Operates only brokerage business for trading and exchanging beneficial certificates of funds.
+
+\4. Operators of two or more types of securities business: aggregate of the amounts as referred to in the preceding three subparagraphs according to the types of business being engaged in.
+
+\5. Establishment of a branch office: additional NT$5 million for each branch.
+
+\6. Establishment of a simple branch office: additional NT$2 million for each simple branch.
+
+\7. Conversion of a branch office into a simple branch office: for each branch that is converted, and after the license for the simple branch has been obtained, the originally deposited operation bond will be reduced to NT$2 million.
+
+The operation bond referred to in the preceding paragraph shall be deposited in cash, government bonds, or financial bonds.
+
+#### Article 10
+
+A securities firm operating the business of accepting brokerage orders to trade securities on the centralized securities exchange market shall make deposits to the TWSE settlement and clearing fund in the following manner:
+
+\1. Before commencement of business operation, the securities firm shall deposit a basic amount of NT$15 million. After commencement of business operation, it shall additionally deposit a specified percentage of the net receipt or net payment amount of the executed trades of TWSE listed securities for which it has accepted brokerage trading orders within 10 days after the close of each quarter until the end of the then-current year. The percentage shall be separately determined by the FSC.
+
+\2. From the year following the commencement of business operation, the originally deposited basic amount shall be reduced to NT$3.5 million and combined into the amount equal to the above-mentioned percentage of the net receipt or net payment amount of the executed trades of TWSE listed securities for which it accepted trading orders for the previous year on a yearly basis. At the end of January of each year, the insufficient or excess amount of the fund shall be deposited with or withdrawn from the TWSE.
+
+Before the commencement of business operation, a securities firm operating the business of proprietary trading of securities on the centralized securities exchange market shall make a lump sum deposit of NT$5 million to the TWSE settlement and clearing fund. After commencement of business operation and from the year following commencement of business operation, in addition to the basic amount, it shall furthermore continue to make deposits to the fund based on a specified percentage of the net receipt or net payment amount of the trades of TWSE listed securities that it has executed in proprietary trading. The method for calculation and lodging of the deposit shall follow that set out in the preceding paragraph.
+
+A securities firm operating the businesses of brokerage and proprietary trading of securities on the centralized securities exchange market shall deposit an aggregate of the amounts referred to in the preceding two paragraphs.
+
+Before commencement of business operation of each domestic branch office, a securities firm shall make a lump sum deposit of NT$3 million to the settlement and clearing fund; provided that from the next year following the commencement of business operation, the originally deposited amount shall be reduced to NT$500,000.
+
+A securities firm establishing a simple branch office or converting a branch office into a simple branch office is exempt from making a deposit to the TWSE settlement and clearing fund for such branch. For each branch office converted into a simple branch office, after obtaining the simple branch office license, the securities firm may apply to the TWSE for the return of the settlement and clearing funds it had originally deposited.
+
+A joint liability system shall be adopted for the settlement and clearing fund deposited by securities firms, and a special management committee of the fund shall be set up. The management rules shall be drafted by the TWSE with input from the Securities Association and reported to the FSC for approval. This provision shall also apply to any amendment of the rules.
+
+The special management committee of the fund may, depending on the degree of operational risk of a securities firm, notify the securities firm to make additional deposits to the settlement and clearing fund and report such to the FSC for recordation. The detailed rules for the above fund shall be drafted by the special management committee of the fund and reported to the FSC for approval. This provision shall also apply to any amendment of the rules.
+
+A securities firm operating over-the-counter brokerage or proprietary securities trading business shall make deposits to the TPEx settlement and clearing fund in compliance with the applicable requirements of the TPEx.
+
+#### Article 11
+
+(Deleted)
+
+#### Article 12
+
+(Deleted)
+
+#### Article 13
+
+Unless a securities firm has obtained special-case approval for its special needs, or is concurrently operated by a financial institution and subject to other relevant laws or regulations, its total external liabilities shall not be more than 6 times its net worth. Its total current liabilities shall not exceed its total current assets. However, unless otherwise provided by the FSC, the total external liabilities of a securities firm operating the business of brokerage trading of securities or proprietary trading of securities shall not exceed its net worth.
+
+In calculating the total liabilities referred to in the preceding paragraph, the liabilities arising from trading of government bonds may be deducted.
+
+#### Article 14
+
+A securities firm, unless concurrently operated by a financial institution and subject to other relevant laws or regulations, shall, if it has already issued securities pursuant to the Act, set aside a 20 percent special reserve from the annual after-tax earnings pursuant to Article 41 of the Act. However, if the accumulated amount reaches the paid-in capital amount, no further amount needs to be set aside.
+
+If it has not issued securities pursuant to the Act, it shall set aside a 20 percent special reserve from the annual after-tax earnings. However, if the accumulated amount reaches the paid-in capital amount, no further amount needs to be set aside.
+
+The FSC may increase or decrease the percentages under the preceding two paragraphs based on business needs.
+
+The special reserve referred to in the preceding three paragraphs shall not be used except to cover losses of the company or, when the accumulated special reserve reaches 25 percent of the amount of paid-in capital, the portion in excess of 25 percent of paid-in capital may be used for capitalization. However, this restriction shall not apply if the FSC has provided otherwise.
+
+#### Article 14-1
+
+Where any of the following circumstances applies to a securities firm, the FSC may reject its filing to carry out a capital increase for cash or issue corporate bonds. However, this restriction shall not apply where the reason is a merger of the securities firm, or where concrete improvement has been made, and the improvement has been recognized by the FSC:
+
+\1. It has been sanctioned by the FSC under Article 66, subparagraph 1 of the Act within the past 3 months.
+
+\2. It has been sanctioned by the FSC under Article 66, subparagraph 2 of the Act within the past half year.
+
+\3. It has been sanctioned by the FSC under Article 66, subparagraph 3 of the Act within the past 1 year.
+
+\4. It has been sanctioned by the FSC under Article 66, subparagraph 4 of the Act within the past 2 years.
+
+\5. It has been sanctioned by suspension or restriction of trading by the TWSE, the TPEx, or the Taiwan Futures Exchange (TAIFEX) pursuant to bylaws thereof within the past 1 year.
+
+Calculation of the periods in the subparagraphs of the preceding paragraph shall commence from the date of issuance of the sanction letter by the FSC, the TWSE, the TPEx, or the TAIFEX.
+
+#### Article 14-2
+
+(Deleted).
+
+#### Article 14-3
+
+Where a securities firm files for offering and issuance of securities pursuant to Article 6 of the Regulations Governing the Offering and Issuance of Securities by Securities Issuers, it may refrain from engaging a lead securities underwriter to conduct assessment if it meets the following financial and operational requirements:
+
+\1. None of the circumstances in Article 14-1, paragraph 1 exist.
+
+\2. Its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
+
+\3. Its regulatory capital adequacy ratio of the half year prior to the date of reporting is 200 percent or greater.
+
+#### Article 14-4
+
+(Deleted)
+
+#### Article 14-5
+
+A securities firm offering and issuing securities shall comply with the provisions of the Regulations Governing the Offering and Issuance of Securities by Securities Issuers or the Regulations Governing the Offering and Issuance of Overseas Securities by Issuers in addition to the provisions of these Regulations.
+
+The FSC shall separately prescribe the required application forms and rules applicable to issuance of securities by securities firms that have not publicly issued stock.
+
+#### Article 14-6
+
+When a securities firm distributes earnings or offsets loss, it shall do so based on the financial statements audited and attested by certified public accountants.
+
+#### Article 15
+
+A securities firm, unless concurrently operated by a financial institution and subject to other relevant laws or regulations, shall not act as a guarantor of any nature, make endorsement for transfer of negotiable instruments, or provide property as security for other persons without the approval of the FSC.
+
+#### Article 16
+
+A securities firm, unless it is concurrently operated by a financial institution and subject to other relevant laws or regulations, may not purchase real property for non-operating purposes. However, this restriction shall not apply to a securities firm that holds real property for non-operating purposes as a result of a merger, acquisition, branch office or simple branch office closure, change in or reduction of places of business, or as a result of conducting business, or as approved by the FSC. The sum total held of real property and equipment for operating purposes and real property for non-operating purposes shall not be more than 60 percent of its total assets.
+
+#### Article 17
+
+A securities firm, unless concurrently operated by a financial institution, shall not borrow funds from a non-financial/non-insurance institution. However, this rule shall not apply to the following:
+
+\1. Issuance of commercial paper.
+
+\2. Issuance of corporate bonds.
+
+\3. Meeting urgent capital needs of the company.
+
+When borrowing funds to meet urgent capital needs as referred to in subparagraph 3 of the preceding paragraph, a securities firm shall report to the FSC within 2 days from the date of occurrence of the event.
+
+#### Article 18
+
+Unless a securities firm has obtained approval from the FSC or is concurrently operated by a financial institution and subject to other relevant laws or regulations, its funds not required for business operation shall not be loaned to other persons or used for other purposes; the funds shall be used for the following purposes only:
+
+\1. Bank deposits.
+
+\2. Purchase of government bonds or financial bonds.
+
+\3. Purchase of treasury bills, transferable certificates of deposit, or commercial paper.
+
+\4. Purchase of securities in a specific ratio in compliance with FSC provisions.
+
+\5. Other purposes approved by the FSC.
+
+When funds are utilized under subparagraphs 4 and 5 of the preceding paragraph, the total original acquisition cost shall not exceed 30 percent of the securities firm's net worth.
+
+#### Article 18-1
+
+When a securities firm makes equity investment in any securities, futures, financial, or other enterprises, the total amount of its equity investments in those enterprises may not exceed 40 percent of the securities firm's net worth, and shall comply with Article 13 of the Company Act. The FSC shall separately prescribe the scope of individual enterprises within which a securities firm may make equity investment and related provisions.
+
+When a securities firm merges with or acquires a financial institution, if approval is obtained from the FSC, the total amount of the investment therein may be exempted from the restriction in the preceding paragraph. In that event, the amount in excess shall be brought into compliance with the restriction within 6 months after the merger or acquisition.
+
+A securities firm that operates only securities brokerage business, when holding shares in any single company, may do so either by the method in paragraph 1, subparagraph 4 of the preceding article, or by the equity investment method in paragraph 1 herein, but not by both methods.
+
+#### Article 19
+
+A securities firm operating the business of proprietary trading of securities, unless it is concurrently operated by a financial institution and subject to other relevant laws or regulations, shall do so in accordance with the following rules:
+
+\1. The firm shall not hold more than 10 percent of the total issued shares of any domestic company. The total cost of the securities issued by any domestic company held by such securities firm shall not be more than 20 percent of the securities firm's net worth.
+
+\2. The firm shall not hold more than 5 percent of the total issued shares of any foreign company. The total cost of the securities issued by any foreign company held by the securities firm shall not be more than 20 percent of the securities firm's net worth; however, the total cost of such securities with equity characteristics shall not be more than 10 percent of the securities firm's net worth.
+
+\3. The total investment cost of a securities firm in holdings of equity securities issued by a single related party may not exceed 5 percent of the firm's net worth. The total investment cost of a securities firm in holdings of equity securities issued by all related parties may not exceed 10 percent of the firm's net worth. However, these restrictions are exempted in the handling of exercise and hedging operations for call (put) warrants, exchange traded notes, and over-the-counter derivative financial product trading business, and in the hedging of beneficial certificates of exchange traded funds and the underlying baskets of stock represented by such beneficial certificates.
+
+\4. The total investment cost of a securities firm in holdings of straight corporate bonds issued by a single securities firm may not exceed 5 percent of the securities firm's net worth. The total investment cost of a securities firm in holdings of straight corporate bonds issued by all securities firms may not exceed 10 percent of the securities firm's net worth.
+
+The term "related party" in these Regulations is defined as determined in accordance with the Regulations Governing the Preparation of Financial Reports by Securities Firms.
+
+A securities firm, when holding shares in any single company, may do so either by the method of a proprietary trading position or by the equity investment method in paragraph 1 of the preceding article, but not by both methods.
+
+If the aggregate of the securities acquired by a securities firm for underwriting purposes, counted in combination with those acquired under the preceding paragraph, exceeds the limit prescribed by the FSC, the portion in excess shall be sold within 1 year after its acquisition in accordance with Article 75 of the Act.
+
+#### Article 19-1
+
+The FSC shall prescribe the total amount limits, and methods for calculation thereof, on the positions held in foreign securities and the expenditures on derivative financial product transactions of a securities firm operating the business of proprietary trading of foreign securities.
+
+When a securities firm operates the business of proprietary trading of foreign securities as referred to in the preceding paragraph, if such trading is for purposes other than its own capital investment or hedging needs, it shall apply to the Central Bank for permission for any inward or outward remittances involved, and any proprietary trading of foreign bonds shall be done in compliance with the provisions of the TPEx.
+
+#### Article 19-2
+
+Exchange settlement matters for securities firms engaging in proprietary trading of securities denominated in a foreign currency or engaging in trading that involves any foreign derivative financial product shall be handled in accordance with the Regulations Governing the Reporting of Foreign Exchange Receipts and Disbursements or Transactions.
+
+A securities firm may conduct the trading referred to in the preceding paragraph only in the capacity of a customer, through a designated bank approved by the Central Bank to conduct derivative foreign exchange product business or through an overseas financial institution.
+
+Except as otherwise provided by the Central Bank, a securities firm engaging in proprietary trading of securities denominated in a foreign currency, when conducting payment of settlement funds and fees by remittance of the exchange of New Taiwan Dollars or of the original foreign currency from Taiwan to the overseas settlement account, or when having fees remitted back into Taiwan from abroad, shall do so through a segregated foreign exchange deposit account in the selected foreign currency that it has opened at a designated foreign exchange bank.
+
+#### Article 19-3
+
+A securities firm meeting the qualifying requirements listed below may operate derivative financial product trading business at its business premises, and shall do so in accordance with the provisions of the TPEx:
+
+\1. It must be an integrated securities firm that concurrently engages in brokerage, underwriting, and dealership business.
+
+\2. Its CPA audited or reviewed financial report for the most recent period shows net worth not less than paid-in capital, and its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
+
+\3. It must have reported a regulatory capital adequacy ratio meeting the requirements of the FSC for each of the most recent 6 months.
+
+\4. It must be free of any of the following circumstances:
+
+A. Any sanction, during the preceding 3 months, under Article 66, subparagraph 1 of the Act or Article 100, paragraph 1, subparagraph 1 of the Futures Trading Act.
+
+B. Any sanction, during the preceding 6 months, under Article 66, subparagraph 2 of the Act or Article 100, paragraph 1, subparagraph 2 of the Futures Trading Act.
+
+C. Any sanction imposed by the FSC during the preceding year requiring a suspension of business.
+
+D. Any sanction imposed by the FSC during the preceding 2 years voiding approval for any part of its business.
+
+E. Any sanction during the preceding 1 year of suspension or restriction of trading by the TPEx, TWSE, or TAIFEX pursuant to its operating rules or bylaws.
+
+Any securities firm in non-conformance with the conditions of subparagraph 4 of the preceding paragraph but that has made concrete improvement and has satisfied the FSC thereof shall not be subject to the restrictions of that subparagraph.
+
+#### Article 19-4
+
+Securities firms operating derivative financial product trading business that involves foreign exchange operations shall apply to the Central Bank for permission for any portion involving an inward or outward remittance of funds.
+
+Securities firms operating business referred to in the preceding paragraph and engaging in related hedge trades shall handle exchange settlement matters in accordance with the Regulations Governing the Reporting of Foreign Exchange Receipts and Disbursements or Transactions and related provisions.
+
+A securities firm may, in the capacity of customer, conduct hedge trading through a designated bank approved by the Central Bank to conduct derivative foreign exchange product business, or through an overseas financial institution.
+
+For a securities firm operating business referred to in paragraph 1, matters relating to settlement of funds, payment and receipt of fees, and payment of funds upon early rescission or expiration of contracts shall be carried out according to the following:
+
+\1. When denominated in New Taiwan Dollars, all settlement of funds and payment and receipt of fees with a customer shall be carried out in New Taiwan Dollars.
+
+\2. When denominated in a foreign currency, all settlement of funds and payment and receipt of fees with a customer shall be carried out in foreign currency. The customer's payment of funds may be carried out by transfer from its own foreign exchange deposit account. Where foreign exchange settlement is required, it shall be carried out by the customer at a designated foreign exchange bank or at the same securities firm that conducts spot foreign exchange trading business in accordance with the Regulations Governing the Reporting of Foreign Exchange Receipts and Disbursements or Transactions.
+
+\3. Upon early rescission by the customer or expiration of the contract, the securities firm shall deposit the funds receivable by the customer in its New Taiwan Dollar or foreign exchange deposit account on the settlement date based on the currency stipulated in the contract.
+
+A securities firm operating business referred to in paragraph 1 shall submit a monthly operations statement to the foreign exchange authority and the TPEx within 5 business days after the end of each business month.
+
+A securities firm operating trading business in structured instruments linked to foreign financial products shall submit a monthly operations statement on its trading business in structured instruments linked to foreign financial products to the foreign exchange authority and the TPEx within 5 business days after the end of each business month.
+
+#### Article 19-5
+
+A securities firm operating equity-linked derivative financial product trading business at its place of business may not make any use of such trading to carry out mergers or acquisitions or unlawful trades on its own behalf or in cooperation with its clients.
+
+#### Article 19-6
+
+Derivative financial product trading business operated by a securities firm may not be linked to any of the below-listed underlyings, except in trading with professional institutional investors and high net worth juristic person investors:
+
+\1. Securities privately placed domestically or abroad.
+
+\2. Certificates of beneficial interest that are issued overseas by domestic securities investment trust enterprises and are not listed for trading on a securities market.
+
+\3. Any Taiwan stock index compiled by a domestic or foreign institution and related financial commodities. However, this restriction shall not apply to an index compiled by the TPEx or the TWSE, either singly or in cooperation.
+
+When a securities firm will conduct, with a professional institutional investor or a high net worth juristic person investor, derivative financial instrument trades linked to any of the instruments in the subparagraphs of the preceding paragraph, it shall submit an application to the TPEx with the relevant documentation, and the TPEx will forward the application to the FSC. After the FSC has granted approval for the first securities firm to conduct such trades, other securities firm shall apply to the TPEx for its consent before beginning to conduct such trades.
+
+A securities firm that will handle foreign exchange derivative financial instruments shall apply to the Central Bank for permission or report by letter to the Central Bank for recordation, with a copy to the TPEx, in accordance with the Regulations Governing the Conduct of Foreign Exchange Business by Securities Enterprises.
+
+#### Article 19-7
+
+When a securities firm will provide customers other than professional institutional investors and high net worth juristic person investors with complex high-risk products not approved by the FSC or approved by the FSC for less than half a year and that furthermore do not involve foreign exchange, the securities firm shall submit an application to the TPEx with the relevant documentation, and the TPEx will forward the application to the FSC.
+
+The term "complex high-risk products" in the preceding paragraph means complex high-risk products defined by the competent authority as authorized under paragraph 2 of Article 11-2 of the Financial Consumer Protection Act.
+
+After the FSC has granted approval for the first securities firm to conduct trades in a product and half a year has elapsed, other securities firms shall submit the relevant documentation to the TPEx for recordation within 7 days after first conducting a trade in the product, and may conduct a subsequent trade only after having received a letter of consent and recordation from the TPEx.
+
+The provisions of Article 3 of the Regulations Governing Offshore Structured Products shall apply to the "professional institutional investors" and "high net worth juristic person investors" referred to in these Regulations.
+
+#### Article 20
+
+Except in a case involving its equity investment in another enterprise as approved by the FSC, a securities firm, when exercising rights on any company shares that it has acquired shall do so for the greatest benefit of the company and may not directly or indirectly participate in the operation of the issuer company or other inappropriate actions.
+
+Except where otherwise provided by law or regulation, a securities firm exercising voting rights of stock it holds in a public company shall dispatch a personnel member to attend and do so as its representative.
+
+#### Article 21
+
+Within 2 months after the close of each half fiscal year and 3 months after the close of each fiscal year, respectively, a securities firm shall publicly announce and report to the FSC the semi-annual financial reports and the annual financial reports signed or sealed by the chairperson, managerial officer, and accounting officer, audited and attested by certified public accountants, approved by the board of directors, and recognized by the supervisors. If the stocks of the securities firm is listed on the TWSE or the TPEx, the provisions of Article 36 of the Act shall be complied with. However, a public securities firm or a securities subsidiary of a financial holding company shall publicly announce and report its annual financial report no later than 75 days after the close of the fiscal year.
+
+Auditing and attestation of the financial reports referred to in the preceding paragraph shall be performed jointly by two or more practicing certified public accountants of a joint accounting firm approved by the FSC in accordance with the Regulations Governing Approval of Certified Public Accountants to Audit and Attest to the Financial Reports of Public Companies.
+
+A securities firm shall submit to the FSC its monthly accounting summary for the preceding month by the 10th day of each month.
+
+Where a securities firm has entered into a contract for using the centralized securities market with the TWSE, submission of matters referred to in paragraph 1 and the preceding paragraph shall be made to the FSC through the TWSE. Where a securities firm has only entered into a contract for trading securities on the TPEx, the submission shall be made to the FSC through the TPEx. Where no such contract has been entered into, the submission shall be made to the FSC through the Securities Association.
+
+## Chapter III Business Operation
+
+#### Article 22
+
+Where a securities firm underwrites securities on a firm commitment basis, the total underwriting amount shall not be more than 15 times the balance of its current assets less current liabilities. Within such amount, the total amount of firm commitment securities underwriting by overseas branch offices of the securities firm shall not be more than 5 times the balance of its current assets less current liabilities.
+
+Where the regulatory capital adequacy ratio of a securities firm is less than 120 percent, the multiple for total firm commitment securities underwriting under the preceding paragraph may be adjusted to 10, and the multiple for total firm commitment underwriting by overseas branch offices thereof may be adjusted to 3. Where it is less than 100 percent, the total firm commitment underwriting multiple may be adjusted to 5, and overseas branch offices thereof shall not underwrite securities on a firm commitment basis.
+
+#### Article 23
+
+A securities firm that underwrites securities on a firm commitment basis by subscribing securities before putting them for resale or specifying in the underwriting contract that a portion of the securities covered in the contract shall be subscribed by the securities firm for its own account in accordance with paragraph 2 of Article 71 of the Act shall meet the conditions listed below; however, if a securities firm does not meet the condition in subparagraph 2, but the period of the suspension of business has expired, and concrete improvement has been made, and the improvement has been recognized by the FSC, it may be exempted therefrom:
+
+\1. Its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19.
+
+\2. The securities firm has not been sanctioned by any suspension of business imposed by the FSC in accordance with Article 66 of the Act during the most recent half year due to underwriting related business.
+
+#### Article 24
+
+A securities firm that underwrites securities shall make a public announcement of the underwriting and shall publish such announcement in local daily newspapers. Matters to be published shall include the method for deciding the offering price and a description of the basis of pricing, conclusions of the assessment report of the securities firm, the place where the prospectus is available and the method to obtain such prospectus.
+
+A securities firm that underwrites straight corporate bonds shall not be subject to the restrictions of the preceding subparagraph regarding the publishing of such announcement in local daily newspapers, if the sales target is limited to professional investors as specified in the Taipei Exchange Rules Governing Management of Foreign Currency Denominated International Bonds, and the underwriting announcement has been published on the website of the Securities Association.
+
+If the offering price referred to in paragraph 1 is decided through negotiations between the securities underwriter and the issuer or holder of the securities, in addition to the matters referred to paragraph 1, the public announcement shall include the financial information based on which the offering price is decided and the audit and attestation opinion of the certified public accountants on the financial information. In calculation of the profitability of each share, the financial information based on which the offering price is decided shall fully reflect the dilution effect caused by the increase in the number of issued shares. The calculation basis of information obtained from different sources or different time periods shall be consistent.
+
+#### Article 25
+
+When a securities underwriter is engaged to handle matters relating to the offering, issuing, TWSE listing, or TPEx listing of securities, the assessment report, conclusion opinion and relevant information provided by it shall not have any of the following conditions:
+
+\1. The content contains any false information, concealment, or other circumstance sufficient to mislead others.
+
+\2. The principal content contains any material omission or obvious error sufficient to affect investment judgment.
+
+\3. Failing to prepare working papers or failing to keep working papers in accordance with regulations.
+
+\4. The issuer violates Article 7 or 8 of the Regulations Governing the Offering and Issuance of Securities by Securities Issuers or Article 8 of the Regulations Governing the Offering and Issuance of Overseas Securities by Issuers, and its application shall be rejected; however, if the underwriter can prove that they have exercised reasonable due care, this does not apply.
+
+\5. The underwriter fails to conduct necessary guidance and assessment on major items that require assessment, resulting in material difference between the assessment conclusions and the facts.
+
+\6. After the assessment report or conclusion opinion is submitted, and before the prospectus is printed and published, if the company has a condition that will materially affect shareholders' interests or the price of securities under Article 36, paragraph 2, subparagraph 2 of the Securities and Exchange Act and the underwriter does not immediately carry out supplementation and updating.
+
+\7. Violating other securities laws and regulations or other relevant laws and regulations.
+
+#### Article 26
+
+If any of the following events exists between a securities underwriter and an issuer, such underwriter shall not act as the lead underwriter of that issuance:
+
+\1. Where either party and its parent company, and all of the subsidiaries of its parent company, aggregately hold 10 percent or more of the total shares of the other party.
+
+\2. Where either party and its subsidiaries appoint more than half of the directors of the other party.
+
+\3. Where the board chairperson or president of either party is the spouse or a relative within the second degree or closer of the board chairperson or president of the other party.
+
+\4. Where 20 percent or more of the total number of shares of either party is held by the same shareholder.
+
+\5. Where half or more of the directors or supervisors of either party are the same as the directors or supervisors of the other party; the spouses, children, and relatives within the second degree or closer of those persons count as "the same".
+
+\6. Where either party and related parties hold a total of 50 percent or more of the total issued shares of the other party. However, where the securities underwriter is a subsidiary securities firm of a financial institution or a financial holding company, this restriction shall not apply if the total shares of the issuing company held aggregately by the subsidiary's parent company, and by all subsidiaries of the parent company, do not exceed 10 percent of the total issued shares of the issuing company, and neither the director nor supervisor seats of the issuing company held by such companies exceed one-third of the director or supervisor seats, respectively.
+
+\7. Where the two parties, according to the relevant laws or regulations, are required to apply for combination, or have filed with the Fair Trade Commission for combination and have not had the combination prohibited thereby.
+
+\8. Where, other laws or regulations provide, or facts demonstrate, that either party directly or indirectly controls the personnel, finances, or business operations of the other party.
+
+If an issuer issues straight corporate bonds, or financial bonds without equity characteristics, and the sales target is limited to professional investors as specified in the Taipei Exchange Rules Governing Management of Foreign Currency Denominated International Bonds, the lead underwriter is exempt from the restrictions of paragraph 1. If the issuer qualifies as a securities underwriter, it may also act as the lead underwriter.
+
+The terms "parent company" and "subsidiaries" in these Regulations are defined as determined in accordance with the Regulations Governing the Preparation of Financial Reports by Securities Firms.
+
+#### Article 27
+
+The securities subscribed to by a securities firm under the fore part of paragraph 2 of Article 81 of the Act shall be resold within the underwriting period as prescribed in the underwriting agreement.
+
+The provisions of Article 24 shall apply mutatis mutandis to the public announcement for the resale by the securities firm referred to in the preceding paragraph.
+
+If the securities for resale under paragraph 1 above are not fully sold, the unsold portion shall be sold in accordance with Article 75 of the Act.
+
+#### Article 28
+
+A securities firm shall underwrite securities by fair and reasonable means. Underwriting fees collected may not, by any means or under any name, be reimbursed or refunded to the issuer, or to any related party thereof, or to any person designated by the issuer or a related party thereof.
+
+A securities firm shall underwrite or resell securities in accordance with the handling rules prescribed by the Securities Association.
+
+The Securities Association shall submit the handling rules referred to in the preceding paragraph to the FSC for approval.
+
+When a securities firm underwrites or resells listed securities, it may conduct stabilization trades when necessary. Regulations governing the administration thereof shall be prescribed by the TWSE and submitted to the FSC for approval.
+
+#### Article 29
+
+When a securities firm underwrites securities, it shall engage a bank to establish a separate account to collect prices on its behalf unless the securities are delivered on the spot.
+
+The prices collected under the preceding paragraph shall not be used unless and until a certificate evidencing payment or the securities sold are delivered to the subscriber.
+
+#### Article 29-1
+
+A securities firm underwriting securities shall create and keep a file recording information including the sales results for the securities and the quantity that it acquired itself, following the format and content set out in the handling rules prescribed by the Securities Association under Article 28 hereof. The FSC may require the securities firm to provide relevant materials at any time.
+
+A securities firm shall preserve relevant materials in underwriting cases referred to in the preceding paragraph for at least 5 years after the conclusion of the underwriting period.
+
+#### Article 30
+
+A securities firm operating the business of proprietary trading of securities or selling securities acquired by underwriting shall efficiently adjust the demand and supply in the market depending on the market situation, and ensure that the formation of fair price and its sound operation are not harmed.
+
+#### Article 30-1
+
+A securities firm operating derivative financial product business may not damage fair market price formation or investor rights and interests when conducting hedging operations or when calculating product gains or carrying out settlement upon cancellation or expiration.
+
+#### Article 31
+
+A securities firm operating the business of proprietary trading of securities shall adopt a trading policy and related procedures. Except as otherwise provided by the FSC, the operational procedures for trade analysis, decision-making, execution, change, and review shall be included in its internal control system.
+
+The materials referred to in the preceding paragraph shall be recorded in chronological order and kept in files. They shall be preserved for a period of not less than 5 years.
+
+#### Article 31-1
+
+For a securities firm engaging in proprietary trading of foreign securities or engaging in foreign derivative financial product transactions, the scope of the foreign securities, types of foreign derivative financial products, and foreign trading markets shall be determined by the FSC.
+
+#### Article 31-2
+
+A securities firm engaging in proprietary trading of foreign securities or engaging in foreign derivative financial product transactions shall adopt handling procedures, which shall be implemented after approval by the board of directors, as shall any amendments thereto.
+
+The handling procedures under the preceding paragraph shall include all the following items:
+
+\1. Trading principles and policies: shall include types of underlyings traded, trading or hedging strategies, setting of position limits.
+
+\2. Trading procedures: shall include hierarchy of responsibility, trading process, division of powers and duties of relevant departments, procedures for preservation of trading records.
+
+\3. Risk management measures: shall include risk management scope, risk management procedures, methods and frequency of position evaluation, production and review of position evaluation reports, irregularity reports and procedures for follow-up surveillance.
+
+\4. Audit procedures: shall include internal audit and self-inspection, frequency and scope of audits, audit reports and procedures for correction and follow-up of deficiencies.
+
+#### Article 31-3
+
+A securities firm engaging in proprietary trading of foreign securities or engaging in foreign derivative financial product transactions may not engage in margin transactions.
+
+When a securities firm engages in trading or transactions mentioned in the preceding paragraph with any overseas affiliated enterprise, the terms and conditions thereof may not be more favorable than those offered to other similar counterparties, nor may there be any non-arm's length circumstances, and, except in cases where the securities firm is engaging the overseas affiliated enterprise to trade or transact on its behalf, the securities firm shall comply with the following provisions:
+
+\1. Such trading or transactions shall be limited to proprietary trading of foreign bonds and engaging in foreign derivative financial product transactions.
+
+\2. Such trading or transactions may be done only with the approval of not less than three-quarters of the directors in attendance at a board meeting attended by not less than two-thirds of the directors. However, for cases in which the following conditions are met, the securities firm may draft internal operational rules and, by an aforesaid board resolution, generally authorize the management to engage in such trading or transactions in accordance with those operational rules:
+
+A. The counterparty to the trade or transaction is an overseas affiliated enterprise that is registered in a jurisdiction that is supervised by a signatory member of the International Organization of Securities Commissions (IOSCO) Multilateral Memorandum of Understanding (MMoU), and holds relevant financial business licenses and is supervised by a competent authority of that jurisdiction.
+
+B. The instruments traded or transacted have an open market price, or the monetary amount of the trade or transaction is not material.
+
+\3. Unless the securities firm is concurrently operated by a financial institution and subject to other relevant laws or regulations, it shall comply with the following provisions:
+
+A. The total balance of its trades and transactions with any single overseas affiliated enterprise may not exceed 10 percent of the securities firm's net worth.
+
+B. The total balance of its trades and transactions with all overseas affiliated enterprises may not exceed 20 percent of the securities firm's net worth.
+
+"Affiliated enterprise" in the preceding paragraph shall be as defined in the Affiliated Enterprises chapter of the Company Act.
+
+#### Article 31-4
+
+A securities firm engaging in proprietary trading of foreign securities or engaging in foreign derivative financial product transactions, and whose regulatory capital adequacy ratio is lower than the requirement set by the FSC for 3 consecutive months, may only sell or close out its existing positions, and may not engage in any further trading or transactions, unless its regulatory capital adequacy ratio has already been corrected.
+
+#### Article 32
+
+Unless otherwise provided by law or regulation, a securities firm engaging in proprietary trading of securities on the centralized securities exchange market shall not give a quote for the sale of securities not held by it.
+
+A securities firm concurrently operated by a financial institution that uses its own funds and trust funds in opposing proprietary trades of the same securities on the same day shall comply with the provisions of Article 108 of the Banking Act and report such transactions to the FSC for recordation.
+
+#### Article 32-1
+
+As needed for hedging related to the issuance of call (put) warrants and exchange traded notes and the operation at its place of business of structured instruments and equity derivatives, a securities firm may borrow and sell, or sell short, the underlying securities, exempt from the restriction that the selling price of the securities borrowed or sold short may not be lower than the closing price of the previous business day.
+
+A securities firm, for purposes of providing bid and ask quotes or meeting hedging needs in its capacity as a market maker, may borrow and sell the underlying securities, exempt from the restriction that the selling price of the securities borrowed may not be lower than the closing price of the previous business day.
+
+A securities firm selling securities by means of borrowing them as referred to in the preceding two paragraphs shall enter into a loan contract with the lender of the securities. The following particulars shall be specified in the loan contract:
+
+\1. Name, volume, period, and rate of the loaned securities.
+
+\2. Means of exercise of shareholders' rights of the loaned underlying securities.
+
+\3. The means of reimbursement by the securities firm of the rights/dividend value to the lender for ex-rights/ex-dividend dates of the loaned securities (including the means of calculation, whether reimbursement is to be made in cash or securities, and the reimbursement date).
+
+\4. Means stipulated between the parties for return of the securities upon expiry of the contract (including whether or not the securities may be refunded as cash).
+
+\5. Means stipulated between the parties for handling of breach and related matters of damages.
+
+#### Article 33
+
+When a securities firm enters into a brokerage agreement with its customer, it shall explain the contents of the contract and the relevant procedures for trading securities.
+
+#### Article 34
+
+A securities firm accepting brokerage orders to trade securities shall establish the following information on its customers:
+
+\1. Name, domicile, and mailing address.
+
+\2. Occupation and age.
+
+\3. Assets status.
+
+\4. Investment experience.
+
+\5. Reason of opening account.
+
+\6. Other necessary information.
+
+A securities firm shall keep confidential the information referred to in the preceding paragraph except with respect to inquiries according to law.
+
+#### Article 35
+
+A securities firm accepting brokerage orders to trade securities shall evaluate a customer's investment ability based on the information referred to in the preceding article and transaction conditions. If the evaluation of a customer's credit status shows that the customer's order is beyond their investment ability, unless proper security is furnished, the securities firm may refuse the brokerage order for trading.
+
+#### Article 35-1
+
+For trades of a certain dollar amount or greater, or suspected to involve money laundering, the securities firm shall keep trade documentation sufficient for a full and complete understanding of the trade, records of verification of the customer's identity, and reporting records, and shall comply with the Money Laundering Control Act.
+
+#### Article 35-2
+
+The TWSE may collect, process, or use all types of credit data of investors, and may request securities firms and FSC-approved institutions to provide relevant data.
+
+The TWSE shall adopt operational rules regarding the scope of the data under the preceding paragraph, the parties to whom it will be provided for querying, the content of the data, and related matters. It shall report the operational rules, and any amendments thereto, in writing to the FSC for approval.
+
+The TWSE's collection, processing, or use of data under the two preceding paragraphs meets the provision of being necessary for the fulfillment of its statutory obligations in Article 8, paragraph 2, subparagraph 2 of the Personal Data Protection Act, so the TWSE is exempted from the obligation to inform the data subject under Article 9, paragraph 1 of that Act.
+
+Securities firms and FSC-approved institutions shall ensure that the data they provide under paragraph 1 is accurate and is free of falsehood and misrepresentation.
+
+#### Article 36
+
+When a securities broker recommends that a customer trade in a securities, it shall first evaluate the customer's investment ability and that the customer possesses reasonable information and shall not guarantee the value of the recommended securities.
+
+When a securities broker recommends that a customer trade in a securities, if such securities are to be traded on the centralized securities exchange market, it shall follow the rules prescribed by the TWSE; if the securities are to be traded on the TPEx, it shall follow the rules prescribed by the same. The above-mentioned rules shall be reported to the FSC for approval.
+
+#### Article 36-1
+
+Where a department of a securities firm that concurrently operates securities investment consulting services or futures advisory services (hereinafter, collectively, "consulting services department") produces research reports, or a department of a securities firm that concurrently operates a securities investment consulting enterprise handling discretionary investment services ("discretionary investment department") produces analysis reports or investment strategies for customers, personnel other than of those departments shall not participate in composing or reviewing the reports.
+
+Within two hours from the time market trading hours begin after a research report provided by a consulting services department of a securities firm is publicly disclosed, other departments and personnel apart from that department may not engage in any trading of any security recommended in the research report, unless otherwise provided by the FSC.
+
+"Market" in the preceding paragraph refers to the TWSE, the TPEx, and the TAIFEX.
+
+The compensation or bonuses paid to personnel of a consulting services department or discretionary investment department of a securities firm shall not be directly linked to the performance of any other department.
+
+#### Article 36-2
+
+When an underwriting department of a securities firm underwrites securities, during the period from the time the securities firm enters into an advisory contract with a public issuer until the termination of the advisory relationship, or from the time the securities firm enters into an underwriting contract with a TWSE listed or TPEx listed company until the deadline for payment, its consulting services department shall not recommend any trading of that security or any derivative financial product thereof. A discretionary investment department may not purchase securities for a customer without first explicitly informing the customer of any related conflicts of interest and control measures and then obtaining the customer's consent on an instance-by-instance basis, and specifically stating the quantity of the securities that may be purchased.
+
+When an underwriting department of a securities firm obtains securities through a firm commitment underwriting, the provisions of the preceding paragraph shall apply mutatis mutandis to the handling of those securities by the consulting services department and discretionary investment department of the securities firm until such time as all the procedures of the firm commitment underwriting have been completed in accordance with regulations.
+
+#### Article 37
+
+Unless otherwise provided by the laws and regulations, a securities firm operating securities business shall not:
+
+\1. Provide opinion on the rise or drop of the price of certain securities to induce customers to trade.
+
+\2. Agree to or provide any specific benefit or to share losses to induce customers to trade.
+
+\3. Provide any account for customers to subscribe to and/or trade securities.
+
+\4. Commit false, fraudulent, or other misleading act in providing information of securities to customers.
+
+\5. Accept discretionary authorization from customers in connection with the type, quantity, price, and purchase or sale of securities.
+
+\6. Accept settlement of customers who use the same account for offsetting purchase against sale or offsetting sale against purchase of the same type of securities. However, this restriction does not apply if the requirements of Article 37-1 are met.
+
+\7. Accept settlement of customers who use different accounts for offsetting purchase against sale or offsetting sale against purchase of the same type of securities.
+
+\8. Directly or indirectly set up fixed places outside the business premises of the head office or branch office to accept orders for securities trading.
+
+\9. Directly or indirectly set up fixed places outside the business premises of the head office or branch office to sign brokerage agreements with customers or settle securities transactions. However, this restriction shall not apply where the FSC has provided otherwise.
+
+\10. Accept securities transactions of a customer who has not signed a brokerage contract.
+
+\11. Accept any of the company's directors, supervisors, or employees acting as an agent for any other person for account opening, subscription, trading, or settlement of securities.
+
+\12. Accept from any person other than the customer themself the customer's instructions for account opening. However, this restriction does not apply if otherwise provided by the FSC.
+
+\13. Accept from any person other than the customer themself, or from any agent without a power of attorney issued by the customer, instructions for subscription, trade, or settlement of securities. However, this restriction does not apply when the securities firm, pursuant to a three-party agreement signed jointly between it and the customer and a securities investment consulting enterprise, accepts automatic rebalancing trades automatically executed for the customer through the computer system provided by the securities investment consulting enterprise.
+
+\14. Knowingly accept a trading order from a customer who intends to use an issuer's non-public information which may materially affect the price of its stocks or who intends to manipulate market prices.
+
+\15. Use the name or account of a customer to subscribe to and/or trade securities.
+
+\16. Disclose, other than in response to inquiries made in accordance with laws and regulations, the contents of orders placed by a customer or other secrets obtained in the course of operation of business.
+
+\17. Misappropriate securities or funds owned by a customer or temporarily kept under the custody of the securities firm in the course of business.
+
+\18. Keep custody for a customer of any securities, funds, seal, or passbook.
+
+\19. Directly or indirectly provide funds or securities to customers for settlement purposes without having obtained the FSC's approval to conduct securities margin purchase or short sale business
+
+\20. Violate settlement obligations to the securities exchange market.
+
+\21. Use personnel other than securities firm personnel to solicit business, or pay unreasonable commission.
+
+\22. Other acts in violation of laws and regulations governing securities or orders of the FSC on mandatory or prohibited acts.
+
+#### Article 37-1
+
+When a securities firm, in brokerage trading of securities, accepts customer settlement by means of mutually offsetting an equal quantity of cash purchases and spot sales of the same security that have been executed through the same account on the same business day, it shall do so in accordance with the Operational Rules Governing Day Trades of Securities as adopted by the Taiwan Stock Exchange and the GreTai Securities Marker.
+
+The types and scope of the securities under the preceding paragraph shall be separately prescribed by the FSC.
+
+#### Article 38
+
+A securities firm accepting brokerage orders to trade securities shall establish a separate deposit account with a bank for paying and receiving settlement funds of the customer. The funds in that account shall not be used for other purposes.
+
+A securities firm may, with the consent of the customer, retain the customer's settlement funds in the securities firm's settlement account. The securities firm shall set up a separate account ledger for each customer in the settlement account, and record therein on a daily basis the itemized receipts and payments of funds, and shall retain the records. The securities firm may not utilize such funds except for making payments of funds payable on behalf of the customer or as otherwise provided by the FSC.
+
+#### Article 38-1
+
+A securities firm that operates brokerage business for trading and exchanging beneficial certificates of funds shall set up a separate deposit account with a bank for paying and receiving funds of the customer. The funds in the account shall be kept separate and independent from the securities firm's own assets, and may not be used for other purposes.
+
+A securities firm that operates only brokerage business for trading and exchanging beneficial certificates of funds shall sign a trust agreement with the financial institution with which the separate deposit account is opened, designate the separate deposit account as the trust account, and engage the financial institution to manage, utilize, and dispose of the funds in the account in accordance with the trust agreement.
+
+A securities firm that operates only brokerage business for trading and exchanging beneficial certificates of funds, if it fails to do as set out in the preceding paragraph, may not accept funds from customers.
+
+#### Article 39
+
+A securities firm accepting brokerage orders to trade securities shall clear and settle transactions in the manner provided in the Operating Rules of the TWSE or the Taipei Exchange Rules Governing Securities Trading on the TPEx.
+
+#### Article 40
+
+A securities firm accepting brokerage orders to trade securities shall not keep securities deposited by customers under its own custody. It shall handle the securities pursuant to the regulations of the centralized securities depository.
+
+#### Article 41
+
+A securities firm accepting brokerage orders to trade securities shall collect or deliver the funds or securities within the time limit for settlement.
+
+#### Article 42
+
+A securities firm accepting brokerage orders to trade securities shall prepare a trade report for signing/sealing by the customer after the customer executes a trade. However, if the securities firm is concurrently operated by a financial institution and the delivery of funds for trading the securities can be verified through the separate deposit account of the customer, preparation of a trade report is not required.
+
+If the trade report referred to in the preceding paragraph is to be confirmed by an agent engaged by the customer to trade securities on its behalf, a power of attorney issued by the customer shall be provided.
+
+If the funds and securities of the customers of a securities firm accepting brokerage orders to trade securities are settled through book-entry transfer, or trade confirmation has been carried out and records have been kept, the signing/sealing referred to in paragraph 1 above is not required to be done, and Article 27, paragraph 1 of the Regulations Governing Book-Entry Operations for Centrally Deposited Securities regarding passbook entries shall not apply.
+
+#### Article 43
+
+A securities firm engaging in proprietary and brokerage trading of securities on the centralized exchange market shall respectively establish separate accounts for those types of trading for purposes of quotation and settlement. After a quotation has been made, no interchange between the accounts shall be allowed.
+
+#### Article 44
+
+When a securities firm accepts brokerage orders to trade securities, it shall not use information obtained from a brokerage trading order to take the opposite side of the same trade in its own proprietary trading. However, this restriction shall not apply when, in the course of conducting over-the-counter trading of securities, it sells according to its quoted price, and simultaneously quotes to buy.
+
+#### Article 45
+
+While operating its securities business, when a securities firm obtains information which may materially affect the price of stocks listed on the TWSE or traded on the TPEx, it shall not trade such stocks or provide such information to its customers or other persons before the information becomes public.
+
+#### Article 45-1
+
+Securities firms operating the business of proprietary trading of security tokens (virtual currencies that have the nature of securities), equity crowdfunding business, brokerage business for trading and exchanging beneficial certificates of funds, or proprietary trading of specific foreign bonds shall do so in accordance with applicable rules adopted by the TPEx.
+
+A securities firm that operates only security token proprietary trading business, equity crowdfunding business, brokerage business for trading and exchanging beneficial certificates of funds, or proprietary trading of specific foreign bonds is not subject to the provisions of Article 2, Article 5, Article 6, Article 13, Article 14, Article 18, Article 18-1, Article 21, Chapter V, and Chapter VI.
+
+## Chapter IV Merger
+
+#### Article 46
+
+Securities firms applying for merger shall meet the following conditions:
+
+\1. The regulatory capital adequacy ratio reached 200 percent or more each of the 6 months before the merger.
+
+\2. The pro forma consolidated regulatory capital adequacy ratio shall reach 200 percent the month before the application.
+
+\3. Have not been sanctioned under Article 66, subparagraphs 2 to 4 of the Act or under paragraph Article 100, paragraph 1, subparagraphs 2 to 4 of the Futures Trading Act or under Article 103, subparagraphs 2 to 5 of the Securities Investment Trust and Consulting Act within the last 6 months.
+
+\4. In the most recent 1 year, the evaluation results of internal auditing by the TWSE and TPEx of the condition of implementation of the internal control operations of the applicant's head office and branches, have found it to be satisfactory and meeting the standards set by the FSC.
+
+In the case that the securities firm applying for merger does not meet the criteria in the preceding paragraph, the FSC may approve the application as a special case based on overall considerations such as facilitating the healthy development of the securities market and increasing the competitiveness of securities firms.
+
+#### Article 47
+
+Securities firms applying for permission for merger shall provide the following documents to the FSC:
+
+\1. The application.
+
+\2. Merger plan: shall specify the content of the merger plan (including particulars such as the merger method, evaluation of economic benefits, post-merger business region overview, business items, business development plan, and financial forecasts for the next 3 years) and analysis covering the forecasted timetable, feasibility, necessity, reasonableness, legality, and assessment of the factors for consideration under Article 6 of the Financial Institutions Merger Act.
+
+\3. Merger contract: in addition to the particulars required under Article 8, paragraph 2 of the Financial Institutions Merger Act, shall also include important particulars such as treatment of the rights and interests of employees.
+
+\4. Minutes of the general shareholders meetings of the institutions to survive and to be extinguished. However, a securities firm conducting a merger under Article 18, paragraph 6, or Article 19, of the Business Mergers and Acquisitions Act may substitute the minutes of the board of directors meeting.
+
+\5. Content of the merger resolutions (board of directors meeting minutes) and documentation of publication (notification) of relevant required contract content.
+
+\6. Shareholder information on those seeking to purchase shares.
+
+\7. Certified public accountant's opinion on the reasonableness of the share conversion ratio for the merger and valuation method.
+
+\8. Itemized report on the pro forma consolidated regulatory capital adequacy ratio at the end of the month before the merger.
+
+\9. Balance sheets, statements of comprehensive income, inventories of assets, statements of changes in equity, and cash flow statements audited and attested by the certified public accountants for the record date of the merger share swap.
+
+\10. Legal opinion of an attorney at law.
+
+\11. Consent letter, or documentation, of compliance by the TWSE listed or TPEx listed securities firm with the merger-related provisions of the Operating Rules of the Taiwan Stock Exchange or the Taipei Exchange Rules Governing Securities Trading on the TPEx.
+
+\12. Other documents required by the FSC.
+
+For a securities firm to be newly created by a merger, in addition to complying with requirements of the preceding paragraph, the promoters of the securities firm to be newly created shall apply to the FSC for approval of establishment, annexing the following documents:
+
+\1. Roster of promoters.
+
+\2. Minutes of the promoters' meeting.
+
+\3. Certification of qualifications of presidents, vice presidents, and assistant vice presidents.
+
+\4. Articles of incorporation of the securities firm to be newly created.
+
+\5. Other documents required by the FSC to be submitted.
+
+The formats of the documents required under the preceding two paragraphs shall be prescribed by the FSC.
+
+#### Article 48
+
+Where the securities firm surviving after the merger is a TWSE listed or TPEx listed securities firm, the securities firm shall have the certified public accountant perform a special audit of its internal control system within 6 months after the merger, and after sending the report to the TWSE or the TPEx, respectively, for inspection, shall file it with the FSC for recordation.
+
+## Chapter V Investment In Foreign And Mainland Chinese Securities Enterprises
+
+#### Article 49
+
+Investment by securities firms in foreign enterprises shall be limited to investments set forth in the following subparagraphs:
+
+\1. Securities enterprises, including securities, futures, and financial business that they are allowed to operate under the local laws and regulations of the country of the investment.
+
+\2. Other related enterprises in which the FSC has approved investment.
+
+#### Article 49-1
+
+Securities firms or their subsidiaries investing in securities or futures institutions in the Mainland China area shall comply with the provisions of the Regulations Governing Permission and Administration of Securities and Futures Business Dealings and Investment Between the Taiwan Area and the Mainland Area.
+
+Securities firms or their subsidiaries investing in non-securities/non-futures institutions in the Mainland China area shall apply to the FSC for permission.
+
+#### Article 50
+
+A securities firm applying to invest in a foreign enterprise, unless otherwise provided by laws or regulations, shall meet the requirements listed below; however, if a securities firm does not meet a condition in subparagraphs 1 to 5, but concrete improvement has been made, and the improvement has been recognized by the FSC, it may be exempted therefrom:
+
+\1. Have not been sanctioned by the FSC with a warning in the most recent 3 months.
+
+\2. Have not been sanctioned by the FSC with an order to dismiss or replace any of its directors, supervisors, or managerial officers in the most recent 6 months.
+
+\3. Have not been sanctioned by the FSC with suspension of business within the last 1 year.
+
+\4. Have not been sanctioned by the FSC with revocation of the license of any branch office, simple branch office, or portion of its business within the last 2 years.
+
+\5. Have not been sanctioned with suspension or restriction of trading by the TWSE, TPEx, or TAIFEX pursuant to its rules or bylaws within the last 1 year.
+
+\6. Its regulatory capital adequacy ratio has not been below 200 percent within the most recent 3 months, and its CPA audited or reviewed financial report for the most recent period shows no accumulated deficit, and its financial condition meets the provisions of Articles 13, 14, 16, 18, 18-1 and 19. However, the requirement regarding the aforementioned regulatory capital adequacy ratio does not apply if special-case approval has been obtained due to special needs.
+
+\7. Its combined total amount invested in foreign enterprises plus any funds that the securities firm establishing an overseas branch office(s) appropriates there for local operations plus any amount invested in Mainland China enterprises do not exceed 40 percent of the securities' firm's net worth. However, when there is special need and approval as a special case has been received, this provision does not apply.
+
+#### Article 51
+
+A securities firm applying to invest in a newly formed foreign enterprise shall provide the following documents to the FSC to apply for approval:
+
+\1. The company's articles of incorporation or document equivalent to the company's articles of incorporation.
+
+\2. The investment plan, the contents of which shall include the following items:
+
+A. Investment plan: shall include the purpose of the investment, anticipated benefits, sources of capital, usage plan, operations plan, capital recovery plan, etc. If the investment follows a holding company model, then the plans for investment in subsidiary(ies) shall be included as well.
+
+B. Business operation principles: shall include the establishment location, amount of capital, business to be operated, business items, business operation strategies, etc. of the company.
+
+C. Structure and functions of the organization: shall include a chart of the organization of the company or a group organizational chart for a holding company, functions and allocation of duties of departments, etc.
+
+D. Personnel plan: shall include personnel allocation/structuring, personnel training, and regulations of personnel management, etc.
+
+E. Overview of the site and facilities: shall include site layout, summary of important equipment/facilities, etc.
+
+F. Financial projection for the next 3 years: shall include opening costs, financial estimates and notes for financial statement for the next 3 years, etc.
+
+\3. The minutes of the board of directors' or board of governors' meeting or minutes of the shareholders' meeting resolution.
+
+\4. The most recent financial report, audited and attested or reviewed by the certified public accountants.
+
+\5. Management rules shall be established for those invested or sub-invested overseas enterprises in which the investment shareholding percentage will exceed 50 percent or above. The contents of such management rules shall include the following items:
+
+A. The scope of management.
+
+B. The direction and principles of management.
+
+C. The management of financial, business, and accounting affairs.
+
+D. The management of assets.
+
+E. The financial statements to be regularly prepared.
+
+F The method of regular internal auditing of finances and business.
+
+G. Others, such as: management of personnel operations, internal control auditing of the invested enterprises, etc.
+
+\6. A list detailing domestic and foreign invested enterprises as of the date of application.
+
+\7. Other documents required by the FSC.
+
+#### Article 52
+
+A securities firm applying for investment in a foreign enterprise shall provide the following documents to the FSC to apply for approval:
+
+\1. The company's articles of incorporation or document equivalent to the company's articles of incorporation.
+
+\2. Investment plan: shall include the purpose of investment, anticipated benefits, sources of capital, capital recovery plan, the estimated income/expenses/profits of the invested foreign enterprise of each year for the next 3 years, etc.
+
+\3. Minutes of the board of directors' or board of governors' meeting or minutes of the shareholders' meeting resolution.
+
+\4. Most recent financial report, audited and attested or reviewed by the certified public accountants.
+
+\5. Management rules shall be established for those invested or sub-invested overseas enterprises in which the investment shareholding percentage will exceed 50 percent. The contents of such management rules shall include the following items:
+
+A. The scope of management.
+
+B. The direction and principles of management.
+
+C. The management of financial, business, and accounting affairs.
+
+D. The management of assets.
+
+E. The financial statements to be regularly prepared.
+
+F. The method of regular internal auditing of finances and business.
+
+G. Others, such as: management of personnel operations, internal control auditing of the invested enterprises, etc.
+
+\6. A list detailing the domestic and foreign invested enterprises as of the date of application.
+
+\7. General description of the invested foreign enterprise including: a synopsis of the company, the company organization, capital and shares, scope of business, and financial condition for the most recent 3 fiscal years, etc.
+
+\8. The investment (or joint venture) agreement.
+
+\9. Other documents required by the FSC.
+
+#### Article 52-1
+
+Regarding investments that have been approved by the FSC under the preceding two articles, if a securities firm meets the qualification requirements set out in subparagraphs 1 to 5 of Article 50, it may submit the documents set out in subparagraphs 1 to 3 and 7 of the preceding article to apply to the FSC for approval of an increase in the amount of investment in the overseas enterprise.
+
+#### Article 53
+
+When any of the following circumstances occurs in connection with any investment by a securities firm as approved by the FSC, the securities firm shall report the reasons to the FSC along with relevant documentation:
+
+\1. Change in business items or material operating policies.
+
+\2. Change in the original shareholding ratio of the securities firm or its overseas subsidiary.
+
+\3. Dissolution or suspension of operations.
+
+\4. Change in the institution's name.
+
+\5. Merger with another financial institution, or assignment to or receipt of assignment from another of all or a major part of assets or operations.
+
+\6. Occurrence of reorganization, liquidation, or bankruptcy.
+
+\7. Occurrence or foreseeable occurrence of any instance of material loss.
+
+\8. Material violation of law or regulation or the voidance or revocation of the business permit by the overseas competent authority.
+
+\9. Any other material matter.
+
+For any circumstance under subparagraphs 1 to 6 of the preceding paragraph, unless otherwise provided by the FSC, the securities firm shall report in advance. For any circumstance under subparagraphs 7 to 9 of the preceding paragraph, the securities firm shall report within 3 business days from the day on which it becomes aware of the circumstance or on which the circumstance occurs.
+
+#### Article 53-1
+
+Unless otherwise provided by the FSC, a securities firm that has made an equity investment in an overseas enterprise(s) as approved by the FSC shall do the following:
+
+\1. Submit to the FSC, within 15 days after the end of each quarter, a business report on the invested overseas subsidiary(ies). Such business report shall include business operations status, revenues and expenditures, and benefits assessment.
+
+\2. Submit a report on the operational status of the invested overseas enterprise(s) along with the monthly accounting summary.
+
+\3. Report basic company information on the invested overseas enterprise(s) through the information reporting system designated by the FSC.
+
+\4. Submit other information or documentation as required by the FSC.
+
+#### Article 54
+
+Where an overseas subsidiary company invested by a securities firm invests in another institution or where an institution invested by an overseas subsidiary company sub-invests in another institution, if such investment constitutes a substantial controlling and subordinate relationship as regulated under the Affiliated Enterprises Chapter of the Company Act, unless otherwise provided by the FSC, a report shall be made to the FSC for approval before proceeding with the investment.
+
+For investment under the preceding paragraph that has been approved by the FSC, within 10 days after the actual investment, the related documents shall be provided to the FSC for recordation.
+
+A securities firm investing in an overseas enterprise in accordance with paragraph 1 above may submit the management rules for the foreign invested enterprise required under subparagraph 5 of Article 51 and subparagraph 5 of Article 52 along with the documents referred to in the preceding paragraph to the FSC for recordation within 10 days after the actual investment.
+
+#### Article 55
+
+An overseas subsidiary of a securities firm may not further invest in any securities-related enterprise in the Republic of China (ROC).
+
+#### Article 56
+
+The means by which a securities firm investing in a foreign enterprise may put up the capital are limited to the following:
+
+\1. Outward remittance.
+
+\2. Net profit or other benefits obtained from outward investment.
+
+\3. Remuneration or other benefits obtained from outward technical cooperation.
+
+#### Article 57
+
+(Deleted)
+
+#### Article 58
+
+After a securities firm has been approved and invested in a foreign enterprise, with respect to any documents concerning outward remittance of capital or the registration or any change in the registration of the invested foreign enterprise, such documents shall be reported to the FSC for recordation within 5 days after their receipt.
+
+## Chapter V-1 Administration Of Overseas Branch Offices
+
+#### Article 58-1
+
+If the business that an overseas branch office of a securities firm would handle under the local securities laws and regulations and customary business practices of the place extend beyond the business items of the head office, an application for approval, accompanied by the following documents, shall be filed with the FSC in advance:
+
+\1. Business item particulars: including the products to be handled, types of transactions, and trading counterparts and markets.
+
+\2. Local laws and regulations that must be complied with when engaging in such business.
+
+\3. Minutes of the board of directors' (or board of governors') meeting.
+
+\4. Internal control and risk management plans.
+
+\5. Legal opinion by a lawyer.
+
+\6. Other documents that the FSC requires to be submitted.
+
+If there is any change in the FSC-approved business items of an overseas branch office of a securities firm, the change shall be reported to the FSC for recordation within 10 days from the day of the change.
+
+The overseas branch offices of a securities firm shall abide by the local securities laws and regulations of the place where they are conducting business.
+
+#### Article 58-2
+
+A securities firm shall implement internal audit operations in its overseas branch offices in accordance with the securities firm's internal control system.
+
+A securities firm shall dispatch personnel to conduct on-site audits of its overseas branch offices at least once per year. Audit reports shall be submitted to the TWSE and forwarded by it to the FSC for recordation within 1 month from completion of the audit.
+
+A securities firm whose overseas branch office receives an audit report from a local competent authority or auditing agency shall file the report or any deficiencies discovered in the audit with the FSC for recordation within 10 days from the day next following the receipt of the report.
+
+Where any material contingency or incident of fraud, or disposition by a local competent authority, occurs with respect to an overseas branch office, a report shall be filed with the FSC within 2 days from the day next following the occurrence of the incident or receipt of the disposition notice from the local competent authority.
+
+#### Article 58-3
+
+A securities firm establishing an overseas branch office shall report any matters relating to outward remittance of capital, registration, or amendment registration in accordance with Article 58.
+
+## Chapter VI Management Of Regulatory Capital
+
+### Section 1 (Deleted)
+
+#### Article 59
+
+A securities firm, unless concurrently operated by a financial institution and subject to other laws or regulations, shall maintain an appropriate ratio between its regulatory capital and its operational risk equivalent amount, except as approved by the FSC.
+
+The appropriate ratio referred to in the preceding paragraph is called the regulatory capital adequacy ratio and its calculation method is the net amount of eligible regulatory capital divided by the operational risk equivalent amount.
+
+For those foreign securities firms having Taiwan branches, if their home-country head office have already calculated their regulatory capital adequacy ratio under their local laws with the operational risk of their Taiwan branch office already entered into the calculation, and have met the standard, they may send those documents and information relating to the regulatory capital adequacy ratio which have met the standard to the FSC to apply for a waiver of application of the provisions in this Chapter. However, unless specifically approved by the FSC, a monthly report on the head offices' regulatory capital adequacy ratio shall still be reported in accordance with Article 21, paragraph 4.
+
+#### Article 59-1
+
+The calculation of the net amount of eligible regulatory capital and the operational risk equivalent amount of the regulatory capital adequacy ratio as referred to in paragraph 2 of the preceding article is categorized into a simple calculation method and an advanced calculation method.
+
+The securities firms to which the advanced calculation method for the regulatory capital adequacy ratio under the preceding paragraph applies, and the implementation date, shall be prescribed by the FSC.
+
+### Section 2 (Deleted)
+
+#### Article 60
+
+(Deleted)
+
+#### Article 61
+
+(Deleted)
+
+#### Article 62
+
+(Deleted)
+
+### Section 3 (Deleted)
+
+#### Article 62-1
+
+(Deleted)
+
+#### Article 62-2
+
+(Deleted)
+
+#### Article 62-3
+
+(Deleted)
+
+#### Article 62-4
+
+(Deleted)
+
+#### Article 62-5
+
+(Deleted)
+
+#### Article 62-6
+
+(Deleted)
+
+#### Article 62-7
+
+(Deleted)
+
+### Section 4 (Deleted)
+
+#### Article 63
+
+Securities firms, with the exceptions of those concurrently operated by financial institutions and of foreign securities firms who have obtained FSC approval for waiver of this Chapter's regulations, shall fill out the Itemized Statement of the Regulatory Capital Adequacy of the Securities Firm monthly in accordance with the applicable calculation method, and by the 10th of the next month, report it according to the method prescribed in Article 21, paragraph 4. When necessary, the FSC also may require securities firms to file reports at any time.
+
+The format of the Itemized Statement of the Regulatory Capital Adequacy of the Securities Firm referred to in the preceding paragraph shall be prescribed by the FSC.
+
+In addition to disclosing capital adequacy information of the securities firm pursuant to the requirements of the FSC, the TWSE, or other relevant institutions, a securities firm shall disclose the most recent regulatory capital adequacy ratio information in the annual report.
+
+#### Article 64
+
+When the regulatory capital adequacy ratio of a securities firm is at least 120 percent but is less than 150 percent, the FSC may take the following actions:
+
+\1. Postpone any additions by the securities firm to its types of operations or business items, any establishment of additional branch offices or simple branch offices, and any equity investment in any securities, futures, financial, or other enterprises.
+
+\2. Require the securities firm to strengthen its internal controls and increase the frequency of internal auditing, and within one week of filing the report, submit a concrete, detailed explanation and correction plan to the relevant authorities in accordance with Article 21, paragraph 4.
+
+\3. If the capital adequacy ratio has not been corrected by the end of the month preceding any proposal by the board of directors for distribution of profits, in addition to requiring the securities firm to deduct from its undistributed earnings those items required to be set aside according to regulations, it shall further be required to set aside 20 percent as special reserve in accordance with Article 41, paragraph 1 of the Act.
+
+#### Article 65
+
+When the regulatory capital adequacy ratio of a securities firm is at least 100 percent but is less than 120 percent, the FSC, in addition to doing as set out in subparagraphs 1 and 2 of the preceding article, additionally may take the following actions:
+
+\1. Reduce its scope of business operations.
+
+\2. Require the securities firm to fill out and report weekly a securities firm capital adequacy reporting form.
+
+\3. If the capital adequacy ratio has not been corrected by the end of the month preceding any proposal by the board of directors for distribution of profits, in addition to requiring the securities firm to deduct from its undistributed earnings those items required to be set aside according to regulations, it shall further be required to set aside 40 percent as special reserve in accordance with Article 41, paragraph 1 of the Act.
+
+#### Article 66
+
+When the regulatory capital adequacy ratio of a securities firm falls below 100 percent, the FSC, in addition to doing as set out in Article 64, subparagraphs 1 and 2 and Article 65, subparagraphs 1 and 2 herein, additionally may take the following actions:
+
+\1. Deny approval for its application for establishment of any additional branch office or simple branch office.
+
+\2. If the capital adequacy ratio has not been corrected by the end of the month preceding any proposal by the board of directors for distribution of profits, in addition to requiring the securities firm to deduct from its undistributed earnings those items required to be set aside according to regulations, it shall further be required to set aside the total amount as special reserve in accordance with Article 41, paragraph 1 of the Act.
+
+#### Article 67
+
+Securities firms that have already set aside special reserve in accordance with Articles 64 to 66 for the previous year, when setting aside various special reserves as required for the current year pursuant to relevant regulations, shall include it as part of the undistributed earnings, and then recalculate the special reserve required to be set aside according to the actual condition of the regulatory capital adequacy ratio.
+
+## Chapter VII Supplemental Provisions
+
+#### Article 68
+
+A securities firm operating securities business in violation of these Regulations shall be subject to penalties as provided in the Act.
+
+#### Article 68-1
+
+If a securities firm is a foreign company's branch within the territory of the Republic of China (ROC), unless otherwise provided by the FSC, the matters that under these Regulations are required to be handled by the board of directors or supervisors shall be handled by the responsible persons of the ROC branch who are authorized by the head office or regional headquarters of the foreign company.
+
+#### Article 69
+
+These Regulations shall enter into force from the date of issuance, with the exception of Articles 16 and 47 as amended and issued on 11 October 2012, which shall enter into force from the fiscal year of 2013, and of Articles 37 and 37-1 as amended and issued on 30 December 2013, which shall enter into force from 6 January 2014, and of Article 37-1 as amended and issued on 27 June 2014, which shall enter into force from 30 June 2014, and of Article 21 as amended and issued on 1 September 2022, which shall enter into force from fiscal year 2022.
+
+## History
+
+\21. Articles 2, 3, 4, 6, 17, 18, 20 to 31, 34, and 36 to 69 were amended by Securities & Futures Commission, Ministry of Finance on 5 October 2000 per Order Ref. No. (89) Taiwan-Finance-Securities-(2)-04351
+
+\22. Articles 18, 47, and 60 amended and promulgated and Articles 14-1 to 14-5 added by the Securities & Futures Commission, Ministry of Finance on 19 December 2001 per Order Ref. No. (90) Taiwan-Finance-Securities-(2)-006576
+
+\23. Article 37 amended by the Securities & Futures Commission, Ministry of Finance on 11 March 2002 per Order Ref. No. (91) Taiwan-Finance-Securities-(2)-001540
+
+\24. Articles 14-3, 16, 18, 42, 49 to 52, 55 to 58, 60, 62, and 63 amended and promulgated and Article 14-4 deleted by the Securities & Futures Commission, Ministry of Finance on 6 August 2002 per Order Ref. No. (91) Taiwan-Finance-Securities-(2)-0910004183
+
+\25. Article 32 amended and promulgated and Article 32-1 added by the Securities & Futures Commission, Ministry of Finance on 22 November 2002 per Order Ref. No. Taiwan-Finance-Securities-(2)-0910005883
+
+\26. Article 26 amended by the Securities & Futures Commission, Ministry of Finance on 28 November 2002 per Order Ref. No. Taiwan-Finance-Securities-(2)-0910005953
+
+\27. Articles 2 and 32 amended and promulgated by the Securities & Futures Commission, Ministry of Finance on 30 April 2003 per Order Ref. No. Taiwan-Finance-Securities-(2)- 0920001862
+
+\28. Articles 10, 14-5, 20, 22, 24, and 50 amended and promulgated and Articles 19-1 to 19-4, 31-1 to 31-4, and 58-1 to 58-3 and Chapter V-1 added by the Securities & Futures Commission, Ministry of Finance on 31 December 2003 per Order Ref. No. Taiwan-Finance-Securities-(2)-0920005386
+
+\29. Articles 2 and 19-3 amended and promulgated 2 August 2004 per Order No. Financial-Supervisory-Securities-II-0930003706 of the Financial Supervisory Commission, Executive Yuan
+
+\30. Article 31 amended and promulgated and articles 36-1 and 36-2 added 20 October 2004 per Order No. Financial-Supervisory-Securities-II-0930004935 of the Financial Supervisory Commission, Executive Yuan
+
+\31. Name of Chapter 5 amended and promulgated and Article 49-1 added 14 February 2005 per Order No. Financial-Supervisory-Securities-II-0940103536 of the Financial Supervisory Commission, Executive Yuan
+
+\32. Articles 18, 19-3, and 19-4 amended and promulgated 6 May 2005 per Order No. Financial-Supervisory-Securities-II-0940001928 of the Financial Supervisory Commission, Executive Yuan
+
+\33. Article 60 amended 28 December 2005 per Order No. Financial-Supervisory-Securities-II-0940006049 of the Financial Supervisory Commission, Executive Yuan
+
+\34. Articles 3, 14-2, 36-1, 36-2, 46, and 48 amended 20 January 2006 per Order No. Financial-Supervisory-Securities-II-0950000377 of the Financial Supervisory Commission, Executive Yuan
+
+\35. Article 29-1 added 14 April 2006 per Order No. Financial-Supervisory-Securities-II-0950001862 of the Financial Supervisory Commission, Executive Yuan
+
+\36. Articles 13 to 16, 18, 19, 19-3, and 59 amended, Articles 19-5 and 30-1 added, and Article 57 deleted 25 August 2006 per Order No. Financial-Supervisory-Securities-II-0950004038 of the Financial Supervisory Commission, Executive Yuan
+
+\37. Article 19-3 amended and issued 3 January 2007 per Order No. Financial-Supervisory-Securities-II-0950005951 of the Financial Supervisory Commission, Executive Yuan
+
+\38. Article 26 amended and issued 28 May 2007 per Order No. Financial-Supervisory-Securities-II-0960025314 of the Financial Supervisory Commission, Executive Yuan
+
+\39. Articles 19-1, 19-3 to 19-5, 31-4, and 32-1 amended and issued and Articles 19-6, 19-7, and 35-1 added 17 December 2007 per Order No. Financial-Supervisory-Securities-II-0960067547 of the Financial Supervisory Commission, Executive Yuan
+
+\40. Articles 19, 19-1, 19-2, and 25 amended and issued 12 May 2008 per Order No. Financial-Supervisory-Securities-II-0970018981 of the Financial Supervisory Commission, Executive Yuan
+
+\41. Articles 49-1, 50, 58-3 amended and issued 4 August 2008 per Order No. Financial-Supervisory-Securities-II-0970039639 of the Financial Supervisory Commission, Executive Yuan
+
+\42. Articles 2, 19-6, 40, and 59 to 63 amended, Articles 59-1, and 62-1 to 62-7 and the titles of Chapter VI, Sections 1 to 4 newly added per 23 December 2008 Order No. Financial-Supervisory-Securities-II-0970067670 of the Financial Supervisory Commission, Executive Yuan
+
+\43. Article 16 amended and issued per 16 June 2009 Order No. Financial-Supervisory-Securities-Firms-0980029344 of the Financial Supervisory Commission, Executive Yuan
+
+\44. Article 50 amended and issued per 16 March 2010 Order No. Financial-Supervisory-Securities-Firms-0990011992 of the Financial Supervisory Commission, Executive Yuan
+
+\45. Articles 4, 18, 19, 26, 31, 49-1, and 53 amended and Article 53-1 added per 9 September 2010 Order No. Financial-Supervisory-Securities-Firms-0990045590 of the Financial Supervisory Commission, Executive Yuan
+
+\46. Articles 13, 40, 60, and 62-3 amended and Articles 11 and 12 deleted per 11 January 2011 Order No. Financial-Supervisory-Securities-Firms-0990073857 of the Financial Supervisory Commission, Executive Yuan
+
+\47. Articles 10, 13, 18, 19, 19-6, 21, 26, 28, 37, 46, 47, 49-1, 50, 59, 63, and 64 amended and Article 18-1 added per 10 January 2012 Order No. Financial-Supervisory-Securities-Firms-1000064258 of the Financial Supervisory Commission, Executive Yuan
+
+\48. Articles 16, 19, 19-1, 19-4, 19-6, 26, 31-1, 47, 49-1, 55, and 69 amended and Articles 60 to 62-7 and the headings of sections 1 to 4 of Chapter 6 deleted per 11 October 2012 Order No. Financial-Supervisory-Securities-Firms-1010037166 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Articles 16 and 47, which shall be enforced from the fiscal year of 2013.
+
+\49. Articles 2, 7, 14-1, 14-3, 16, 19-1 to 19-3, 19-6, 19-7, 23, 26, 31 to 31-4, 32-1, 37, 50, and 69 amended, Article 37-1 added, and Article 14-2 deleted per 30 December 2013 Order No. Financial-Supervisory-Securities-Firms-1020052856 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Articles 37 and 37-1, which shall be enforced from 6 January 2014
+
+\50. Articles 37-1 and 69 amended and issued per 27 June 2014 Order No. Financial-Supervisory-Securities-Trading-1030024095 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 37-1, which shall be enforced from 30 June 2014
+
+\51. Articles 5, 9, 13, 18, 19, 19-2 to 19-4, 26, 38, 50, and 64 amended and issued per 4 February 2015 Order No. Financial-Supervisory-Securities-Firms-1040001299 of the Financial Supervisory Commission
+
+\52. Article 9 amended and issued and Article 45-1 added per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission
+
+\53. Articles 5, 53, and 54 amended and issued per 3 July 2015 Order No. Financial-Supervisory-Securities-Firms-1040024927 of the Financial Supervisory Commission
+
+\54. Articles 19-7, 24, 31, 33, 36-2, 40 and 41 amended and issued per 12 November 2016 Order No. Financial-Supervisory-Securities-Firms-1040044236 of the Financial Supervisory Commission
+
+\55. Article 14 amended and issued per 2 August 2016 Order No. Financial-Supervisory-Securities-Firms-1050027828 of the Financial Supervisory Commission
+
+\56. Article 13, 14, 19, 19-3, 19-4, 19-6, 19-7, 38, and 53 amended and Article 52-1 added per 5 December 2017 Order No. Financial-Supervisory-Securities-Firms-1060045983 of the Financial Supervisory Commission
+
+\57. Article 45-1 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission
+
+\58. Articles 19 and 31-3 amended and issued per 3 February 2020 Order No. Financial-Supervisory-Securities-Firms-1090360209 of the Financial Supervisory Commission
+
+\59. Articles 21 and 32-1 amended and Articles 14-6, 35-2, and 68-1 added per 29 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364783 of the Financial Supervisory Commission
+
+\60. Articles 9, 32-1, and 45-1 amended and issued and Article 38-1 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission
+
+\61. Articles 21, 38, and 69 amended and issued per 1 September 2022 Order No. Financial-Supervisory-Securities-Firms-1110383646 of the Financial Supervisory Commission, for enforcement from the date of issuance, with the exception of Article 21, which shall be enforced from fiscal year 2022
+
+\62. Article 37 amended and issued per 6 March 2024 Order No. Financial-Supervisory-Securities-Firms-1130380965 of the Financial Supervisory Commission
+
+\63. Article 45-1 amended and issued per 8 May 2025 Order No. Financial-Supervisory-Securities-Firms-1140381704 of the Financial Supervisory Commission
+
+\64. Articles 3, 9, 10, 16, 50, 64, and 66 amended and issued per 18 July 2025 Order No. Financial-Supervisory-Securities-Firms-1140382994 of the Financial Supervisory Commission

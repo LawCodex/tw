@@ -1,0 +1,965 @@
+---
+title: "Regulations for Tuna Longline Fishing Vessels Proceeding to the Atlantic Ocean for Fishing Operation"
+title_zh: "鮪延繩釣漁船赴大西洋作業管理辦法"
+identifier: "M0050057"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2025-10-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050057"
+retrieved: 2026-10-12
+---
+
+# Regulations for Tuna Longline Fishing Vessels Proceeding to the Atlantic Ocean for Fishing Operation
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050057-regulations-for-tuna-longline-fishing-vessels-proceeding-to-the-atlantic-ocean.md](../../../zh/regulations/ministry-of-agriculture/M0050057-regulations-for-tuna-longline-fishing-vessels-proceeding-to-the-atlantic-ocean.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are hereby established pursuant to Article 6, paragraph 2; Article 10, paragraph 2; Article 11, paragraph 3; and Article 24, paragraph 2 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Terms used in these Regulations are defined as follows:
+
+(1) “Tuna longline fishing vessel” means any fishing vessel targeting highly migratory fish species such as tunas, billfishes, sharks, skipjacks, or mahi mahi with longline fishing gears.
+
+(2) Independent third party” means any of the following institutions recognized by the competent authority:
+
+i. For Japan:
+
+(i) Shinken Corporation.
+
+(ii) Nippon Kaiji Kentei Kyokai, Incorporated Association.
+
+ii. For areas excluding Japan: the verifying institution which obtains the accreditation for management system certification from the Taiwan Accreditation Foundation (TAF).
+
+(3) “Carrier vessel” means the following vessels that conducts the transshipment of catches from tuna longline fishing vessel(s) to itself and transports to ports:
+
+i. ‘Carrier vessel of the Republic of China’ refers to the carrier vessel which has the fishing license of the Republic of China.
+
+ii. ‘Foreign carrier vessel’ refers to the carrier vessel, excluding container vessel, which has the valid nationality certificate of the flag State of a foreign country.
+
+### Article 3
+
+Fishing vessels proceeding to the Atlantic Ocean to catch highly migratory species such as, tunas, billfishes, sharks, skipjack, or mahi mahi shall be limited to tuna longline fishing vessels of 100 Gross Tonnage (GT) and above. The area of the Atlantic Ocean is as shown in Appendix 1.
+
+“Regulations for Fishing Vessels Conducting Southern Bluefin Tuna Fishery” shall also be applied to any tuna longline fishing vessel catching southern bluefin tuna.
+
+### Article 4
+
+Tuna longline fishing vessels proceeding to the Atlantic Ocean for fishing operation are categorized, in accordance with the catch species, into the following groups and fishing areas, which are as shown in Appendices 2,3, and 3-1:
+
+(1) Bigeye tuna group: targeting bigeye tuna. The fishing area is north of 25°S to south of 25°N.
+
+(2) North albacore tuna group: targeting north Atlantic albacore tuna. The fishing area is north of 10°N and west of 45°W, and north of 5°N, excluding the Mediterranean Sea and Baltic Sea.
+
+(3) South albacore tuna group: targeting south Atlantic albacore tuna. The fishing area is south of 10°S
+
+(4) Eastern Atlantic bluefin tuna group: targeting eastern Atlantic bluefin tuna. The fishing areas and fishing periods are as follows:
+
+i. The north latitude fishing area: delimited by north of 42°N, east of 45°W, and west of 10°W, with the fishing period from 1 August of the current year to 31 January of the following year.
+
+ii. The general fishing area: delimited by north of 10°N and east of 45°W, north of 5°N and east of 35°W, north of equator and east of 30°W, north of 10°S and east of 25°W, excluding the north latitude fishing area as referred to in the preceding item, the Mediterranean Sea, and the Baltic Sea, with the fishing period from 1 January to 31 May of the current year.
+
+Any tuna longline fishing vessel shall fish only within the fishing area(s) and period(s) as permitted by the competent authority.
+
+### Article 5
+
+Limits on the number of tuna longline fishing vessels fishing in the Atlantic Ocean are as follows:
+
+(1) Bigeye tuna group: the number of fishing vessels is limited to 56.
+
+(2) North albacore tuna group: the number of fishing vessels is limited to 8.
+
+(3) South albacore tuna group: the number of fishing vessels is limited to 30.
+
+(4) Eastern Atlantic bluefin tuna group: the number of fishing vessels is limited to 2.
+
+### Article 5-1
+
+Any tuna longline fishing vessel shall not stay at sea for more than ten consecutive months. The duration may be extended for two months with the consent of the competent authority, provided that there is a cause of force majeure or insufficient berths in port that leads to failing to enter port within the required timeframe. Such extension shall be permitted for one time only.
+
+## Chapter II Application and Issuance of the Distant Water Fisheries Permit
+
+### Article 6
+
+Any distant water fisheries operator applying for distant water fisheries permit(s) for his/her fishing vessel(s) to fish in the Atlantic Ocean shall complete application form(s), formats of which are as shown in Appendix 4 and 5, in accordance with types of fishing vessels and groups, with enclosure of the following documents:
+
+(1) A copy of the valid fishing license(s) which shall contain the International Maritime Organization (IMO) ship identification number or Lloyd’s Register (LR) number.
+
+(2) Color photographs of the fishing vessel(s) no older than three years. The photographs must show a stem-to-stern side view of the vessel; clearly and legibly display the vessel name and international radio call sign; be in the form of a single electronic file and have a resolution of at least 150 pixels per inch at a size of 6 by 8 inches; and be no greater than 500 kilobytes (kB) in size.
+
+(3) A document certified by the commissioned professional institution that the automatic location communicator (ALC) on board the fishing vessel(s) can regularly and normally transmit vessel positions.
+
+(4) A document certified by the commissioned professional institution that the electronic logbook (E-logbook) system on board the fishing vessel(s) can normally transmit catch data.
+
+(5) The vessel tracking agreement form serving as an authorization allowing the competent authority and the international fisheries organization to track vessel positions. He/She who has provided such form shall be exempted from this provision.
+
+(6) A document proving the last port entry or departure of the fishing vessel(s).
+
+(7) An eastern Atlantic bluefin tuna fishing plan, for any application of the eastern Atlantic bluefin tuna group, specifying fishing vessel name, fishing area(s), planned marketing channel(s), and an account of the electronic Catch Document system for eastern Atlantic bluefin tuna.
+
+(8)  A document proving enrollment in the wage arrears payment mechanism, or a wage-payment guarantee letter issued by a financial institution and within the validity period.
+
+### Article 7
+
+Any fishing vessel that applies for a bigeye tuna group, north albacore tuna group, or south albacore tuna group distant water fisheries permit for the following year shall meet Article 5-1 and the following conditions:
+
+(1) For bigeye tuna group:
+
+i. It has obtained from the competent authority a bigeye tuna group permit for the current year.
+
+ii. It is a newly built fishing vessel which has received the replacement qualification from a loss fishing vessel belonging to the bigeye tuna group.
+
+(2) For north albacore tuna group:
+
+i. It has obtained from the competent authority a north albacore tuna group permit for the current year.
+
+ii. It is a newly built fishing vessel which has received the replacement qualification from a loss fishing vessel belonging to the north albacore tuna group.
+
+(3) For south albacore tuna group:
+
+i. It has obtained from the competent authority a south albacore tuna group permit for the current year.
+
+ii. It is a newly built fishing vessel which has received the replacement qualification from a loss fishing vessel belonging to the south albacore tuna group.
+
+Any fishing vessel applying for an eastern Atlantic bluefin tuna group distant water fisheries permit for the following year shall meet the following conditions:
+
+(1) It meets the requirements for applying for a bigeye tuna or north albacore tuna group permit, as stipulated in the preceding paragraph.
+
+(2) Its distant water fisheries operator has not committed any of the serious infringements as stipulated in Article 13, paragraph 1 of the Act within the past 3 years, for which a penalty has been imposed.
+
+### Article 8
+
+For any application of a distant water fisheries permit for the following year, the documents prescribed in Article 6 shall be submitted in accordance with the following procedures and deadline:
+
+(1) For any distant water fisheries operator that is a member of the Taiwan Deep Sea Tuna Boat-owners and Exporters Association (hereinafter referred to as “Tuna Association”), he/she shall apply to the Tuna Association before 15 September of the current year, and the Tuna Association shall compile the applications in accordance with the groups for delivery to the competent authority before 30 September of the current year.
+
+(2) For any distant water fisheries operator that is not a member of the Tuna Association, he/she shall apply to the competent authority before 30 September of the current year.
+
+(3) For any distant water fisheries operator of carrier vessel(s) of the Republic of China, he/she shall apply to the competent authority before 30 September of the current year.
+
+### Article 9
+
+A distant water fisheries operator who has obtained a distant water fisheries permit of bigeye tuna group may apply for the approval from the competent authority to fish in the north albacore tuna fishing area or the south albacore tuna fishing area from April to September of the current year. To continue fishing in the north or south albacore tuna fishing area after the expiry of the allowed period, an application for extending the period, the maximum of which shall not exceed 31 December of the current year, may be made.
+
+### Article 10
+
+In the event that the number of fishing vessels obtaining distant water fisheries permits of north albacore tuna group does not reach the limit of the current year, the competent authority may announce in due course to accept applications from fishing vessel(s) which has obtained the permit of south albacore tuna group or bigeye tuna group, notwithstanding the application deadline prescribed in Article 8.
+
+In the event that the number of fishing vessels obtaining distant water fisheries permits of eastern Atlantic bluefin tuna group does not reach the limit of the current year, the competent authority may announce in due course to accept applications, notwithstanding the application deadline prescribed in Article 8.
+
+In the event that the number of fishing vessels applying for the permits as referred to in the preceding two paragraphs exceeds the limit, the Tuna Association shall draw lots to decide the priority in an equitable and impartial manner and deliver the list of vessel priority to the competent authority for approval.
+
+### Article 11
+
+In case of any of the following conditions, the concerned distant water fisheries operator may submit the documents prescribed in Article 6 and apply for a distant water fisheries permit from the competent authority, notwithstanding the application procedures and deadline prescribed in Article 8:
+
+(1) The distant water fisheries operator of a fishing vessel has changed.
+
+(2) The distant water fisheries operator has obtained the fishing license for a chartered fishing vessel.
+
+(3) The distant water fisheries operator has obtained the fishing license for a newly-built fishing vessel.
+
+(4) The distant water fisheries operator resumes the operation, after the suspension of the operation which was authorized pursuant to Article 11 of the Fisheries Act has expired.
+
+(5) The distant water fisheries operator applies for the renewal of the fishing license.
+
+(6) The suspension of the fishing license has been executed completely or the fine imposed has been paid up.
+
+(7) Addition of fishing area(s) for a carrier vessel which has obtained the distant water fisheries permit of the current year.
+
+(8) Other legitimate reason(s) approved by the competent authority, which shall be submitted in writing to the competent authority no later than 30 November of the current year.
+
+### Article 12
+
+A certificate of distant water fisheries permit will be issued to an application approved by the competent authority. The maximum validity period of a permit shall be one year, and shall not exceed that of the fishing license.
+
+The certificate of distant water fisheries permit shall record, both in Chinese and English, the following:
+
+(1) The number of the certificate;
+
+(2) The name, CT number, GT, length overall (LOA) and fisheries type of the fishing vessel;
+
+(3) Name of the distant water fisheries operator;
+
+(4) The authorized fishing Ocean, group, fishing area(s), and fishing period;
+
+(5) The International Radio Call Sign (IRCS); and
+
+(6) The IMO ship identification number or LR number.
+
+Distant water fisheries operators shall place onboard fishing vessels carbon copies of valid distant water fisheries permits for inspection.
+
+### Article 13
+
+Tuna longline fishing vessels that wish to switch their fishing Oceans or groups shall apply for approval from the competent authority.
+
+In the event that a tuna longline fishing vessel intends to change the group or fishing Ocean with other fishing vessel, the following provisions shall be met:
+
+(1) Distant water fisheries operators of both vessels are members of the Tuna Association;
+
+(2) Both vessels have the valid certificates of distant water fisheries permits;
+
+(3) Any fishing vessel intending to change to bigeye tuna group shall be equipped with ultra-low temperature devices, and its distant water fisheries operator has made a guarantee letter to assume the duty from the original fishing vessel of bigeye tuna group to pay the reimbursement of the vessel reduction program;
+
+(4) For any fishing vessel intending to change to north albacore tuna group, there shall be no other vessel in the list of vessel priority to fill in the vacancy in accordance with Article 10 in the current year; and
+
+(5) The penalty of suspending the fishing license has been completely executed.
+
+For any fishing vessel approved to change the group or fishing Ocean, documents shall be provided to prove that fish holds have been emptied, and the certificate of the distant water fisheries permit originally issued shall be returned for the issuance of a new certificate of distant water fisheries permit after the change of fishing Ocean or group.
+
+## Chapter III Fishing Vessel and Fishing Gear markings
+
+### Article 14
+
+Fishing vessels shall be marked with vessel markings, including, at least, the Chinese and English vessel name, name of registry port, CT numbers and IRCS. The characters and the edges of characters shall maintain clear and identifiable at all times.
+
+Where fishing vessels are fishing or berthing at ports, the IRCS shall be displayed clearly identifiable for sighting by other vessels from the water surface or airplanes from the air.
+
+### Article 15
+
+The IRCS of a fishing vessel is its radio call sign.
+
+Vessel markings shall be painted with marine coating. Characters of the Chinese vessel name shall be block letters, and the numbers may be Arabic numerals. Characters of the English vessel name, CT numbers and the IRCS shall be capital letters and Arabic numerals. The height, width, and colors of characters shall meet the specifications as shown in Appendix 6.
+
+### Article 16
+
+Vessel markings shall be placed in accordance with the following:
+
+(1) The Chinese vessel name shall be placed on the port bow and the starboard bow, and the center of stern or port quarter or starboard quarter, where the vessel name is clearly visible.
+
+(2) The English vessel name shall be placed on the port bow and the starboard bow, and the center of stern or port quarter or starboard quarter, under the Chinese vessel name.
+
+(3) The CT numbers shall be placed on the port bow and the starboard bow, under the English vessel name.
+
+(4) The IRCS shall be placed above the waterline on both sides of any fishing vessels and on a deck where the IRCS is not obscured by fishing gear(s), and shall be clear of the bow, stern, discharge or areas which might be prone to damage or discoloration. In case that the lowest edge of characters is under the waterline when the fish holds are full, the IRCS shall be placed on the fishing vessel’s superstructure.
+
+### Article 17
+
+Fishing gear(s) of any tuna longline fishing vessel shall be equipped with signal flags, radar reflector buoys, or other similar devices so as to identify position(s) and fishing area(s).
+
+## Chapter IV Fishing Gears and Methods, and Mitigation Measures for Incidental Catch
+
+### Article 18
+
+For any tuna longline fishing vessel navigating through waters under national jurisdiction of any other country, all fishing equipment on board shall be stowed and secured, and such vessel shall not conduct activities such as arrangement of fishing gears or fishing, unless it has engaged in fisheries cooperation with that other country concerned.
+
+### Article 19
+
+Tuna longline fishing vessels shall carry on board line cutters, de-hookers, and scoop/dip nets, specifications of which and instructions are as shown in Appendix 7, to release incidentally caught seabirds and sea turtles.
+
+### Article 19-1
+
+For any tuna longline fishing vessel fishing in the Atlantic Ocean with the majority of hooks at a depth shallower than 100 meters, one of the following mitigations measures shall be used:
+
+(1) Large circle hooks; or
+
+(2) Fishes except for Cephalopods species to be used as baits.
+
+The large circle hooks as referred to in the preceding paragraph are hooks that are above 3 inches and are circular or oval in shape. The point is turned perpendicularly back to the shank. These hooks shall have an offset not to exceed 10 degrees.
+
+### Article 20
+
+Any tuna longline fishing vessel fishing in the Atlantic Ocean shall use the seabird mitigation measures, specifications of which are as shown in Appendix 8, in accordance with the following provisions:
+
+(1) Any fishing vessel fishing in the area south of 20°S to 25°S shall use tori lines during fishing, and shall carry on board at least one spare set.
+
+(2) Any fishing vessel fishing in the area south of 25°S shall, in addition to tori lines, use weighted branch lines.
+
+## Chapter V Catch Limits or Quotas
+
+### Article 21
+
+For the purpose of these Regulations, the species with catch limit (hereinafter referred to as “fish species with catch limit”) as referred to in subparagraph (7) of Article 13, paragraph 1 of the Act means bigeye tuna, north Atlantic albacore tuna, south Atlantic albacore tuna, north Atlantic swordfish, south Atlantic swordfish, blue marlin, south Atlantic shortfin mako, south Atlantic blue shark, eastern Atlantic bluefin tuna, and white marlin/roundscale spearfish.
+
+### Article 22
+
+The annual total catch quota (unprocessed round weight, hereinafter the same when referring to “quota” in the following provisions) of the Republic of China in the Atlantic Ocean and the quota for individual tuna longline fishing vessel shall be announced by the competent authority in accordance with the conservation and management measures.
+
+In the event that the total catch amount of the species with catch limit has reached 95% of the annual total catch quota as referred to in the preceding paragraph, the competent authority may order the whole tuna longline fishing fleet to stop catching the concerned species by a deadline.
+
+The period for using the quota as referred to in paragraph 1 shall be 1 January  to 31 December of the current year. For eastern Atlantic bluefin tuna group, however, the period shall be 1 January to 31 May of the current year for the general fishing area, and 1 August of the current year to 31 January of the following year for the north latitude fishing area.
+
+The total remaining quota of the current year in the Atlantic Ocean may be arranged by the competent authority.
+
+### Article 22-1
+
+The allowed annual individual vessel quota of a tuna longline fishing vessel shall not exceed the limitations set out as follows:
+
+(1) Bigeye tuna group: 440 metric tons of bigeye tuna.
+
+(2) North albacore tuna group: 600 metric tons of north Atlantic albacore tuna.
+
+(3) South albacore tuna group: 800 metric tons of south Atlantic albacore tuna.
+
+(4) Eastern Atlantic bluefin tuna group: 50 metric tons of eastern Atlantic bluefin tuna.
+
+The allowed individual vessel quota as referred to in the preceding paragraph means the sum of the individual vessel quota granted by the competent authority pursuant to these Regulations, the quota received from other vessel(s), the additional quota applied for, and the premium quota; and the quota transferred, deducted, and retrieved have been deducted.
+
+### Article 23
+
+Quota for the current year shall be allocated only to tuna longline fishing vessels that have obtained distant water fisheries permits of the current year.
+
+For any tuna longline fishing vessel that has not obtained a distant water fisheries permit of the entire year, the quota shall be granted in accordance with the percentage that the number of month(s) approved accounts for the whole year. Notwithstanding such provision, in the event that the ownership of any tuna longline fishing vessel transfers and the quota used by the original distant water fisheries operator exceeds the percentage that the number of month(s) approved accounts for the whole year, the unused individual vessel quota allowed for such a vessel in the current year shall be granted to the new distant water fisheries operator.
+
+In case of any of the following circumstances, the competent authority shall retrieve the unused individual vessel quota allowed for the tuna longline fishing vessel concerned in the current year:
+
+(1) Loss of the vessel, or the damage of the vessel that renders the fishing operation impossible for the current year. However, the quota received from other vessel(s) will not be retrieved.
+
+(2) Revocation or withdrawal of the fishing license imposed by the competent authority.
+
+(3) Revocation or withdrawal of the distant water fisheries permit imposed by the competent authority.
+
+### Article 24
+
+Catch amount of the fish species with catch limit for any tuna longline fishing vessel shall not exceed the allowed individual vessel quota for the current year. In case of excess, the allowed annual quota of such fishing vessel for the following year(s) shall be deducted accordingly until the amount exceeded is fully deducted.
+
+In the event that the catch amount of the fish species with catch limit of a tuna longline fishing vessel has reached 90% of the allowed individual vessel quota, the competent authority may order such vessel to stop catching the concerned species by a deadline.
+
+In the event that the catch amount of eastern Atlantic bluefin tuna has reached 95% of the allowed individual vessel quota, the competent authority may order the concerned fishing vessel to stop fishing operations and navigate to a designated port for further inspection.
+
+### Article 25
+
+In case that a tuna longline fishing vessel is under any of the following circumstances, the competent authority shall grant quota of the current year in accordance with the percentage that the number of month(s) the concerned fishing vessel actual fishes accounts for the whole year; shall retrieve the quota on a pro-rata basis from the concerned fishing vessel which has been granted the quota; or shall deduct the quota allocated for the following year in the event that the quota of the current year is unable to be retrieved from the concerned fishing vessel:
+
+(1) The competent authority suspends its fishing license for one month or above.
+
+(2) It is detained in port by any foreign government.
+
+For any fishing vessel approved to engage in fisheries cooperation by means of chartering, quota shall not be granted to such vessel during the period of chartering. In case that quota has been granted, the competent authority shall retrieve the quota of the current year in accordance with the percentage that the number of month(s) for chartering accounts for the whole year. In case it is unable to retrieve the quota of the current year, the competent authority shall deduct the quota allocated for the following year. Notwithstanding this provision, for any fishing vessel engaging in chartering for one consecutive year or more, its quota for the following year is exempt from deduction.
+
+### Article 26
+
+For any tuna longline fishing vessel which changes its fishing Ocean or group with other vessel pursuant to Article 13, its individual vessel quota for the remaining period of its permit shall be the remaining allowed individual vessel quota of that other vessel, and shall not exceed the limits as stipulated in Article 22-1, paragraph 1.
+
+### Article 27
+
+In the event that the following requirements are met, bigeye tuna quota of a bigeye tuna group fishing vessel may be transferred to other fishing vessel(s) of bigeye tuna group, through the coordination of the Tuna Association which reports to the competent authority for approval:
+
+(1) The bigeye tuna quota of the receiving fishing vessel shall not exceed the limit as stipulated in subparagraph (1) of Article 22-1, paragraph 1 after the transfer.
+
+(2) Any punishment pursuant to Article 35, 36, or 40 of the Act has not been imposed on both the transferring and receiving fishing vessels in the current year.
+
+(3) In case that a fine or the suspension of the fishing license has been imposed on the transferring or receiving fishing vessel pursuant to Article 41 of the Act, such punishment has been paid or executed completely.
+
+In the event that any fishing vessel of bigeye tuna group has transferred accumulated 30 metric tons of bigeye tuna quota, it shall enter into a port for stop fishing for one month in the current year; for the transfer of accumulated 60 metric tons of bigeye tuna quota, it shall enter into a port for stop fishing for two months, and so forth.
+
+For any fishing vessel entering into a port for stop fishing in accordance with the preceding paragraph, the start and end dates of the period and the berthing location shall be specified at the time when applying for the approval of transferring quota from the competent authority. In case that a fishing vessel does not meet the provisions as stipulated in the preceding paragraph, the competent authority may deny the application of quota transfer, or revoke the approval already granted.
+
+### Article 28
+
+In the event that the following requirements are met, albacore tuna quota of a fishing vessel of north albacore tuna group or south albacore tuna group may be transferred to other fishing vessel(s) of the same group, through the coordination of the Tuna Association which reports to the competent authority for approval:
+
+(1) The albacore tuna quota of the receiving fishing vessel shall not exceed the limit as stipulated in subparagraph (1) of Article 22-1, paragraph 1 after the transfer.
+
+(2) Any punishment pursuant to Article 35, 36, or 40 of the Act has not been imposed on both the transferring and receiving fishing vessels in the current year.
+
+(3) In case that a fine or the suspension of the fishing license has been imposed on the transferring or receiving fishing vessel pursuant to Article 41 of the Act, such punishment has been paid or executed completely.
+
+In the event that any fishing vessel of north or south albacore tuna group has transferred accumulated 30 metric tons of albacore tuna quota, it shall enter into a port for stop fishing for one month in the current year; for the transfer of accumulated 60 metric tons of albacore tuna quota, it shall enter into a port for stop fishing for two months, and so forth.
+
+For any fishing vessel entering into a port for stop fishing in accordance with the preceding paragraph, the start and end dates of the period and the berthing location shall be specified at the time when applying for the approval of transferring quota from the competent authority. In case that a fishing vessel does not meet the provisions as stipulated in the preceding paragraph, the competent authority may deny the application of quota transfer, or revoke the approval already granted.
+
+### Article 29
+
+(Deleted)
+
+### Article 30
+
+Depending on the catch amount of the respective fish species in the current year, the competent authority may announce additional quota that can be applied for by the groups of tuna longline fishing vessels.
+
+For the application of the additional quota as referred to in the preceding paragraph, the catch amount of the concerned fishing vessel shall reach 70% of the allowed individual vessel quota of bigeye tuna, north Atlantic albacore tuna, or south Atlantic albacore tuna, as appropriate.
+
+In case that, with the additional quota applied pursuant to the preceding paragraph, the allowed individual vessel quota exceeds the limits as stipulated in Article 22-1, paragraph 1, the competent authority will not grant the part of the quota that exceeds the limit.
+
+The additional quota acquired in accordance with paragraph 1 shall not be transferred.
+
+### Article 31
+
+The competent authority may grant premium quota to a tuna longline fishing vessel which cooperates with the competent authority to carry out relevant experiments, researches or management measures.
+
+The premium quota as referred to in the preceding paragraph shall not be transferred.
+
+### Article 32
+
+For any fishing vessel of bigeye tuna group that obtains a permit to fish in the north albacore tuna fishing area or the south albacore tuna fishing area pursuant to Article 9, the competent authority shall allocate, in accordance with the number of months approved, 33.3 metric tons of north or south Atlantic albacore tuna quota per month to individual vessel, and the bigeye tuna quota of such vessel shall be deducted by 10 metric tons per month which will be retrieved by the competent authority for arrangement.
+
+## Chapter VI Management of Vessel Position Reporting
+
+### Article 33
+
+The ALC on board shall be maintained functional at all time, whether at sea or in port.
+
+The ALC onboard any tuna longline fishing vessel or carrier vessel of the Republic of China shall automatically transmit at least one vessel position in every hour.
+
+Fees for ALC services and communications shall be borne by distant water fisheries operators. The competent authority may grant subsidy depending on the financial situation of the government.
+
+Except for the purpose of repair or replacement approved by the competent authority, any ALC which has been installed on board and has transmitted a vessel position shall not be removed from any fishing vessel.
+
+### Article 34
+
+In case that a fishing vessel needs to stay in a domestic port for three days or above; or in a foreign port for repair; or in a foreign port for seven days or above, its distant water fisheries operator may apply to the competent authority with documentary proof for switching off its ALC, which may only be switched off after obtaining approval. For any fishing vessel of eastern Atlantic bluefin tuna group, the approval for switching off its ALC is limited to the situation where the vessel is hauled out for repair at a domestic or foreign port.
+
+In the case of a fishing vessel applying for switching off its ALC during its stay in a foreign port for purposes other than repair, a photograph showing the berthing of such fishing vessel shall be provided weekly. The competent authority may order the concerned vessel to switch on the ALC in case of failing to provide the photograph in due course.
+
+The period of switching off the ALC as approved in accordance with paragraph 1 shall not exceed six months for each application. Extension may be applied by the distant water fisheries operator concerned in accordance with paragraph 1 before the period is expired.
+
+Fishing vessels shall not leave port during the period of ALC switching-off.
+
+In the event that the ALC onboard is rebooted, the concerned fishing vessel may only leave port after the commissioned professional institution has confirmed that such ALC can regularly and normally transmit vessel positions.
+
+### Article 35
+
+Any fishing vessel shall carry at least one spare set of ALC on board.
+
+In case that the identification number of ALC on board has been changed, the concerned distant water fisheries operator shall notify the competent authority or the commissioned professional institution in writing.
+
+### Article 36
+
+An ALC is deemed as signal-lost in the event that the commissioned professional institution has not received positions automatically transmitted by the ALC four times consecutively. In the event that the ALC is signal-lost for three consecutive days, it is deemed as mal-function.
+
+The malfunctioning ALC shall be repaired no later than 30 days.
+
+In the event that the ALC on board is signal-lost or mal-functional, the concerned distant water fisheries operator or captain shall immediately send information related to vessel positions by facsimile to the commissioned professional institution. The vessel positions shall be recorded by automatic recording satellite navigator for perusal in later days. The format of the facsimile is as shown in Appendix 9.
+
+The transmit of vessel positions as referred to in the preceding paragraph shall be every four hours for any tuna longline fishing vessel and carrier vessel of the Republic of China.
+
+For any fishing vessel with spare set of ALC on board, it shall report to the competent authority for using the spare set during the mal-function of the ALC. In case that the spare set is also mal-functional, a spare set from other fishing vessel may be deployed after obtaining the competent authority’s approval.
+
+### Article 37
+
+In the event that an ALC onboard is deemed as signal-lost for an accumulative period of 15 days or above during one fishing trip, the competent authority may order such fishing vessel to stop fishing immediately and directly navigate to a designated port within the required timeframe for repair and inspection conducted by personnel dispatched by the competent authority, and the vessel shall not leave the port until the commissioned professional institution has confirmed that such ALC can regularly and normally transmit vessel positions.
+
+Any expense incurred from port return, port entry, and confirmation of transmitting position as referred to in the preceding paragraph shall be borne by the concerned distant water fisheries operator.
+
+### Article 37-1
+
+For any fishing vessel that is not within the waters under the national jurisdiction of the Republic of China and without a valid distant water fisheries permit, it shall still maintain its ALC operational year-round, and Article 33 to 37 shall apply to such vessel.
+
+## Chapter VII Logbooks and Catch Reports
+
+### Article 38
+
+In the event that any tuna longline fishing vessel leaves a port, its captain shall daily report catch data through the E-logbook system designated by the competent authority, and shall also fill in the logbooks designated by the competent authority. Catch reports shall be filled in completely and accurately, and where the catch amount is zero, catch reports shall be filled in as well.
+
+In case that there is any discrepancy between any datum recorded in the E-logbook system and the logbook, the datum recorded in the E-logbook system shall prevail.
+
+In case that the E-logbook system fails to report catch data on the day, the concerned distant water fisheries operator or captain shall transmit catch data via facsimile to the competent authority or the commissioned professional institution next day. Such catch data shall be signed by the distant water fisheries operator or captain.
+
+In the event that the E-logbook system fails to report catch data for five consecutive days, it is deemed as mal-function. The malfunctioning E-logbook system shall be repaired no later than 30 days.
+
+In the event that the E-logbook system onboard is deemed as mal-functional for an accumulative period of 15 days and above during one fishing trip, the competent authority may order such fishing vessel to stop fishing immediately and directly navigate to a designated port within the required timeframe for repair and inspection conducted by the personnel dispatched by the competent authority, and the vessel shall not leave the port until the commissioned professional institution has confirmed that such E-logbook system can normally transmit data.
+
+Any expense incurred from port return, port entry, and confirmation of E-logbook system as referred to in the preceding paragraph shall be borne by the concerned distant water fisheries operator.
+
+### Article 39
+
+Any fishing vessel that catches albacore tuna, swordfish, or shortfin mako shall report fishing location(s) in the E-logbook system and logbooks. In case that the fishing location is north of 5°N, such catch shall be deemed as north Atlantic albacore tuna, north Atlantic swordfish, or north Atlantic shortfin mako. In case that the fishing location is south of 5°N, such catch shall be deemed as south Atlantic albacore tuna, south Atlantic swordfish, or south Atlantic shortfin mako.
+
+In case that catch is deemed as north Atlantic shortfin mako in accordance with the preceding paragraph, such catch shall be disposed in accordance with Article 42, paragraph 2.
+
+### Article 40
+
+Any tuna longline fishing vessel shall not catch or retain southern bluefin tuna and eastern Atlantic bluefin tuna without permission, and in case of bycatch, such catch shall be immediately discarded and the discard amount be recorded on the logbooks and E-logbook system.
+
+Any fishing vessel permitted to catch eastern Atlantic bluefin tuna shall discard eastern Atlantic bluefin tuna less than 30 kilograms or 115 centimeters fork length, and shall record the discard amount on the logbooks and E-logbook system.
+
+In the event that the allowed individual vessel quota of the fish species with catch limit is exhausted, any tuna longline fishing vessel shall immediately discard any subsequent catch of such species and shall record the discard amount on the logbooks and the E-logbook system.
+
+### Article 41
+
+Tuna longline fishing vessels shall immediately discard the following species when caught and shall not retain them on board, and the discard amount shall be recorded on the logbooks and E-logbook system:
+
+(1) Western Atlantic bluefin tuna.
+
+(2) Swordfish less than 15 kilograms or 119 centimeters lower jaw fork length (LJFL).
+
+(3) Sharks less than 100 centimeters fork length.
+
+### Article 42
+
+In case that any tuna longline fishing vessel finds any sea turtle during fishing operation, such vessel shall, where practicable, bring aboard any comatose or inactive sea turtle as soon as possible, and foster its recovery and return it to the sea at once after recovery.
+
+Any seabird, sea turtle, whale shark, cetacean, penguin, or prohibited species as announced by the competent authority and incidentally caught by any tuna longline fishing vessel shall be released when caught alive or discarded dead, and the number(s) be duly recorded on the logbooks and the E-logbook system.
+
+### Article 42-1
+
+Any porbeagle shark, blue marlin, Atlantic sailfish, south Atlantic shortfin mako, and white marlin/roundscale spearfish caught by any tuna longline fishing vessel shall be released when caught alive and the number(s) released as well as the weight be duly recorded on the logbooks and the E-logbook system.
+
+Retention is allowed, provided that the fish species as referred to in the preceding paragraph are dead. The number(s) retained as well as the weight shall be duly recorded on the logbooks and the E-logbook system. For these species other than porbeagle and Atlantic sailfish, any catch made after the allowed individual vessel quota is exhausted shall be discarded immediately, and the discard amount shall be recorded on the logbooks and the E-logbook system.
+
+From 1 January 2025, any fishing vessel that retains south Atlantic shortfin mako shall have an observer or electronic monitoring system on board to verify the condition of sharks.
+
+### Article 43
+
+Any fish species of no economic value or no utilizing value caught by any tuna longline fishing vessel shall be discarded immediately, and number(s) discarded shall be duly recorded on the logbooks and the E-logbook system.
+
+For any tuna longline fishing vessel to discard any spoiled catch, it shall notify the competent authority, in advance of the discard, of the species, amount, and fishing period, and proving documents shall be provided for examination after the discard.
+
+In case that the catch discarded pursuant to the preceding paragraph is fish species with catch limit, the amount discarded shall be counted as the amount of the quota used.
+
+### Article 44
+
+The datum reported through the E-logbook system shall not be altered or amended, unless there is apparent error with the content and the competent authority has approved.
+
+### Article 45
+
+The complete logbooks shall be maintained on board any tuna longline fishing vessel for at least one year.
+
+### Article 46
+
+The discrepancy between the catch amount recorded in the E-logbook during one fishing trip of any tuna longline fishing vessel and the actual landing amount shall not exceed the following margins:
+
+(1) For bigeye tuna, north Atlantic albacore tuna, south Atlantic albacore tuna, or eastern Atlantic bluefin tuna: 10% of the actual landing amount.
+
+(2) For north Atlantic swordfish, south Atlantic swordfish, or blue marlin: 15% of the actual landing amount.
+
+(3) For white marlin/roundscale spearfish: 15% of the actual landing amount.
+
+(4) For yellowfin tuna: 20% of the actual landing amount.
+
+(5) For sharks and other species: 25% of the actual landing amount.
+
+In case that the discrepancy exceeds the ratio as referred to in the preceding paragraph, whereas the following provisions are met, the competent authority, at its discretion, may deem such situation as non-misreporting:
+
+(1) For bigeye tuna, north Atlantic albacore tuna, south Atlantic albacore tuna, or  eastern Atlantic bluefin tuna, the discrepancy is less than two metric tons.
+
+(2) For north Atlantic swordfish, south Atlantic swordfish, or blue marlin, the discrepancy is less than one metric ton.
+
+(3) For white marline/roundscale spearfish, the discrepancy is less than one metric ton.
+
+(4) For yellowfin tuna, the discrepancy is less than four metric tons
+
+(5) For sharks and other species, the discrepancy is less than six metric tons.
+
+The discrepancy as referred to in subparagraphs (1) and (2) of the preceding two paragraphs shall be calculated by each species. The discrepancy as referred to in subparagraph (3) of the preceding two paragraphs shall be calculated by combining the two species. The discrepancy as referred to in subparagraph (5) of the preceding two paragraphs shall be calculated by sharks and other species respectively.
+
+### Article 47
+
+Any of the following conditions shall be defined as “seriously misreporting” as referred to in subparagraph (12) of Article 13, paragraph 1 of the Act:
+
+(1) For bigeye tuna, north Atlantic albacore tuna, south Atlantic albacore tuna, or eastern Atlantic bluefin tuna, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds two metric tons as well as 20% of the actual landing amount.
+
+(2) For north Atlantic swordfish, south Atlantic swordfish, or blue marlin, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds 1.5 metric tons as well as 20% of the actual landing amount.
+
+(3) For white marlin/roundscale spearfish, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds 1.5 metric tons as well as 20% of the actual landing amount.
+
+(4) For yellowfin tuna, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds four metric tons as well as 50% of the actual landing amount.
+
+(5) For sharks and other species, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds six metric tons as well as 50% of the actual landing amount.
+
+The discrepancy as referred to in subparagraphs (1) and (2) of the preceding paragraph shall be calculated by each species. The discrepancy as referred to in subparagraph (3) of the preceding paragraph shall be calculated by combining the two species. The discrepancy as referred to in subparagraph (5) of the preceding  paragraph shall be calculated by sharks and other species respectively.
+
+## Chapter VIII Management of Shark Catch
+
+### Article 48
+
+For any tuna longline fishing vessel employing freezing method to preserve its shark catch, shark fins shall be naturally attached or tied to carcasses. Fins and carcasses that are tied together shall be of the same shark.
+
+### Article 49
+
+(Deleted)
+
+### Article 49-1
+
+Tuna longline fishing vessels shall fully utilize shark catch, which shall not be discarded except heads, guts, and skins.
+
+## Chapter IX The Designation and Management of Ports for Transshipment or Landing
+
+### Article 50
+
+Any tuna longline fishing vessel intending to conduct transshipment or landing in a domestic port or a foreign port located in the Atlantic Ocean shall be limited to the ports stipulated in Appendix 10.
+
+Any fishing vessel with a distant water fisheries permit to fish in the Pacific or Indian Ocean applying for landing or transshipping in the ports located in the Atlantic Ocean as referred to in the preceding paragraph shall apply for the authorization from the competent authority 14 days before the fishing vessel enters into the port.
+
+For any landing or in-port transshipment approved by the competent authority to be conducted in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Donggang Yanpu Fishing Harbor, Cijin Fishing Harbor, or Wharf No. 41 of Kaohsiung Port, the landing or in-port transshipment may be conducted at any of these ports within the timeframe approved. Notwithstanding this provision, any landing or in-port transshipment of eastern Atlantic bluefin tuna in domestic port shall be limited to Chienchen Fishing Harbor only.
+
+### Article 51
+
+Any carrier vessel intending to transship catch from tuna longline fishing vessel(s) shall meet any of the following requirements:
+
+(1) It is a carrier vessel of the Republic of China and has obtained a distant water fisheries permit.
+
+(2) It is a foreign carrier vessel listed on the carrier list of the International Commission for the Conservation of the Atlantic Tunas (hereinafter referred to as “ICCAT”), and has been installed with the ALC which meets the standards specified by the competent authority. At least one position shall be sent hourly to the commissioned professional institution.
+
+### Article 52
+
+Any carrier vessel of the Republic of China shall not transship with, refuel or supply any fishing vessel not listed in the authorized fishing vessel list of ICCAT, or any fishing vessel that has altered its name or registration number.
+
+### Article 53
+
+In case of any of the following circumstances, the competent authority shall list the foreign carrier vessel concerned which transships catch from tuna longline fishing vessel(s) on the non-cooperative carriers list:
+
+(1) The foreign carrier vessel has violated any provision regarding vessel position reporting.
+
+(2) The foreign carrier vessel has violated any provision regarding transshipment or landing.
+
+### Article 54
+
+Any carrier vessel intending to conduct transshipment at sea shall receive an observer in accordance with the ICCAT regional observer program to conduct observation mission on board. For any carrier vessel intending to conduct transshipment in port, it shall receive an observer assigned by the competent authority to conduct observation mission on board
+
+Any distant water fisheries operator whose tuna longline fishing vessel(s) conduct transshipment at sea in the Convention Area shall share the cost for the implementation of the ICCAT regional observer program.
+
+### Article 55
+
+For any carrier vessel intending to transship at sea, its distant water fisheries operator shall submit a transshipment plan and relevant information (as shown in Appendix 11) and apply to the competent authority 15 days before the at-sea transshipment for approval. In case that the last day for filing the application is a day-off, the application shall be made on the working day before the day-off.
+
+Any foreign carrier vessel shall, with the enclosure of relevant information as shown in Appendix 11, apply to the competent authority for approval before conducting the transshipment in port with any tuna longline fishing vessel for the first time in the current year.
+
+In case of any addition to the list of the tuna longline fishing vessel(s) in the transshipment plan approved by the competent authority, the application shall be submitted three working days before making such change to the competent authority for approval. The transshipment with the concerned tuna longline fishing vessel(s) may only be conducted after the approval has been granted. Any application submitted after the prescribed deadline shall be denied.
+
+### Article 56
+
+In case of any of the following circumstances, the application of in-port transshipment or the transshipment plan as referred to in Article 55 shall be denied:
+
+(1) The carrier vessel concerned does not meet the requirements stipulated in Article 51.
+
+(2) Three years have not passed since the carrier vessel concerned was listed in the non-cooperative carriers list, or one year has not passed since the carrier vessel was listed on the non-cooperative carriers list for not submitting the Transshipment Declaration to the competent authority within the required timeframe, in violation of Article 61.
+
+(3) The fine for violating the Act imposed on the carrier vessel concerned has not been paid completely.
+
+### Article 57
+
+Any tuna longline fishing vessel or carrier vessel that intends to conduct transshipment shall respectively apply for approval from the competent authority before the transshipment.
+
+In case that the application as referred to in the preceding paragraph involves any of the following species, provisions as stipulated below shall be followed as appropriate:
+
+(1) South Atlantic shortfin mako: transshipment shall be prohibited.
+
+(2) Eastern Atlantic bluefin tuna: at-sea transshipment shall be prohibited.
+
+Any distant water fisheries operator or captain applying for the approval as referred to in paragraph 1 shall complete the Transshipment Notification and submit it to the competent authority in accordance with the following prescribed timeframe, and the format of the Transshipment Notification is as shown in Appendix 12:
+
+(1) For at sea transshipment: no later than three working days before the estimated date for transshipment.
+
+(2) For in port transshipment: no later than three days before the estimated date for transshipment. In case that the last day for filing the application is a day-off, the application shall be made on the working day before the day-off.
+
+Fishing vessels and carrier vessels approved by the competent authority to conduct transshipment may transship the catch within seven days starting from the date approved to conduct transshipment. Notwithstanding this provision, in case of any of the following circumstances, the transshipment may be conducted within 11 days:
+
+(1) For at-sea transshipment: an observer of the ICCAT regional observer program is onboard the carrier vessel to observe the operation.
+
+(2) For in-port transshipment: the activity takes place in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Donggang Yanpu Fishing Harbor, Cijin Fishing Harbor, or Wharf No. 41 of Kaohsiung Port.
+
+For any transshipment not being able to be conducted within the timeframe as referred to in the preceding paragraph, the distant water fisheries operator or the captain concerned may apply for changing the transshipment date before the end of the timeframe, and the transshipment may only be conducted after obtaining the approval from the competent authority. Any application made after the timeframe shall be denied.
+
+### Article 58
+
+For any tuna longline fishing vessel or carrier vessel that is under any of the following circumstances during the current fishing trip, the competent authority shall not authorize such vessel to transship at sea:
+
+(1) The ALC on board is mal-functional and has not been repaired.
+
+(2) There is concrete evidence to identify such vessel has involved in any serious infringement as prescribed in subparagraph (4) to (14) or (18) of Article 13, paragraph 1 of the Act
+
+(3) For bigeye tuna, north Atlantic albacore tuna or south Atlantic albacore tuna, the discrepancy between the amount to be transshipped and the catch amount reported through the E-logbook system exceeds 10% of the latter.
+
+(4) For north Atlantic swordfish; south Atlantic swordfish; blue marlin; or white marline/roundscale spearfish, the discrepancy between the amount to be transshipped and the catch amount reported through the E-logbook system exceeds 15% of the latter.
+
+(5) For yellowfin tuna, the discrepancy between the amount to be transshipped and the catch reported through the E-logbook system exceeds 20% of the latter.
+
+(6) For sharks and other species, the discrepancy between the amount to be transshipped and the catch reported through the E-logbook system exceeds 25% of the latter.
+
+For any tuna longline fishing vessel or carrier vessel that is under any of the following circumstances during the current fishing trip, the competent authority may not authorize such vessel to transship at sea:
+
+(1) For the catch to be transshipped, it is suspected that the vessel applying for the transshipment has operated within the water under the jurisdiction of any other country without valid authorization.
+
+(2) Any of the following infractions found by the competent authority or the independent third party or reported by observers of ICCAT regional observer program have not been improved:
+
+i. No valid fishing license on board.
+
+ii. No fishing logbook as designated by the competent authority on board.
+
+iii. Any vessel marking that is not marked in accordance with Article 14 to 16.
+
+(3) The Transshipment Notification as referred to in Article 56, paragraph 2 is not filled in completely.
+
+The amount to be transshipped as referred to in subparagraphs (3) and (4) of paragraph 1 shall be calculated by each species, except for white marline/roundscale spearfish which shall be calculated altogether. The amount to be transshipped as referred to in subparagraph (6) of paragraph 1 shall be calculated by sharks and other species respectively.
+
+### Article 59
+
+In the event that catch of any tuna longline fishing vessel has been landed in a port and is subsequently transported by a carrier vessel for port departure, it shall be deemed as transshipment and Article 57 shall apply.
+
+### Article 60
+
+Any tuna longline fishing vessel or carrier vessel which obtains the approval to transship pursuant to Article 57 shall not conduct the transshipment in the event that the ALC on board is signal-lost and has not been repaired.
+
+### Article 61
+
+For any transshipment in the Atlantic Ocean or transshipment of any catch taken from the Atlantic Ocean conducted by a carrier vessel, the concerned distant water fisheries operator or captain shall, within 24 hours after the completion of the transshipment, complete and submit an ICCAT Transshipment Declaration (format as shown in Appendix 13) to the ICCAT Secretariat, with a copy to the competent authority. In case of transshipping eastern Atlantic bluefin tuna, an Eastern Atlantic Bluefin Tuna Transshipment Declaration (format as shown in Appendix 13-1) shall be completed.
+
+For any tuna longline fishing vessel transshipping catch taken from the Atlantic Ocean, its distant water fisheries operator or captain shall, within 5 working days after the completion of the transshipment, complete and submit an ICCAT Transshipment Declaration to the competent authority. In case of transshipping eastern Atlantic bluefin tuna, an Eastern Atlantic Bluefin Tuna Transshipment Declaration shall be completed.
+
+For any fishing vessel permitted to catch eastern Atlantic bluefin tuna, it shall keep onboard the Eastern Atlantic Bluefin Tuna Transshipment Declaration(s) made within 1 year after the transshipment(s), and the transshipment(s) shall be recorded in the logbooks and E-logbook system.
+
+### Article 62
+
+For any tuna longline fishing vessel landing its catch in a domestic or foreign port, the following person(s) shall complete an Advance Notice of Landing (format as shown in Appendix 14) and submit it to the competent authority for approval by the following deadline; for any application of landing eastern Atlantic bluefin tuna, an Advance Notice of Landing shall also be submitted to the port State; and in case that the last day for completing the application is a day-off, the application shall be made on the working day before the day-off:
+
+(1) For the landing conducted by a tuna longline fishing vessel, its distant water fisheries operator or captain shall submit it no later than three days before the estimated date for landing.
+
+(2) For the landing conducted by a tuna longline fishing vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator or the captain of such tuna longline fishing vessel shall submit it no later than three days before the estimated date for landing.
+
+(3) For the landing conducted by a carrier vessel, the distant water fisheries operator of a tuna longline fishing vessel shall submit it no later than three days before the estimated date for landing.
+
+Tuna longline fishing vessels approved by the competent authority to conduct landing may land the catch within seven days starting from the date approved to conduct landing. For any fishing vessel that is under the circumstances as stipulated in Article 50, paragraph 3, or any fishing vessel that lands in port Shimizu of Japan, the landing may be conducted within 11 days.
+
+For any landing not being able to be conducted within the timeframe as referred to in the preceding paragraph, the distant water fisheries operator or the captain concerned may apply for changing the landing date before the end of the timeframe, and the landing may only be conducted after obtaining the approval from the competent authority. Any application made after the timeframe shall be denied.
+
+Any tuna longline fishing vessel that is approved to be chartered for the fisheries cooperation with a foreign country may land at the port(s) of such a foreign country when operating in the water thereof, in accordance with the manner approved by such country. For eastern bluefin tuna, however, no chartering operation is permitted to catch or retain eastern bluefin tuna.
+
+### Article 62-1
+
+For any tuna longline fishing vessel whose catch is landed at a foreign port and transported to a domestic port by a container vessel, the distant water fisheries operator of such tuna longline vessel shall, no later than three days before the container vessel’s port entry, notify the competent authority of the time of port entry and the name of the port.
+
+### Article 63
+
+Upon the completion of landing by any tuna longline fishing vessel, the following person(s) shall complete and submit to the competent authority a Landing Declaration (format as shown in Appendix 14) by the prescribed deadline; for landing any eastern bluefin tuna, however, provisions stipulated in paragraph 2 shall be followed:
+
+(1) For the landing conducted by a tuna longline fishing vessel, its distant water fisheries operator or captain shall submit the Declaration within ten working days after the completion of landing.
+
+(2) For the landing conducted by a tuna longline fishing vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator of such longline vessel shall submit the Declaration within ten working days after the container(s) containing such catch unloads and completes customs clearance.
+
+(3) For the landing conducted by a carrier vessel, the distant water fisheries operator of the concerned tuna longline fishing vessel shall submit the Declaration within ten working days after the completion of landing by the carrier vessel.
+
+In case that the landing as referred to in the preceding paragraph involves eastern Atlantic bluefin tuna, the concerned distant water fisheries operator or captain shall, 48 hours after the completion of the landing, submit the Landing Declaration (format as shown in Appendix 14) to the competent authority and port State, respectively.
+
+The term “completion of landing” as referred to in these Regulations means the whole weighing process has been completed for the catch landed at a port.
+
+### Article 64
+
+For any tuna longline fishing vessel that lands or transships at foreign ports, permission documents for the landing or transshipment as issued from the port State concerned shall be enclosed when submitting landing declaration(s) or transshipment declaration(s).
+
+In the event that the port State concerned does not require the application of landing or transshipment permission, documents proving the whereabouts of the catch and containing the information on species and catch amount, such as bill of lading, certificate of storage, invoice, and trade details shall be submitted.
+
+### Article 65
+
+Distant water fisheries operators and captains of any fishing vessel shall accept port inspections conducted by the competent authority or the independent third party for verification of the catch landed or transshipped.
+
+For any fishing vessel designated by the competent authority to be inspected, the concerned distant water fisheries operator or captain shall comply with the following:
+
+(1) For inspections conducted by the competent authority, the landing or transshipment shall start only after the person(s) of the competent authority has arrived.
+
+(2) For inspections conducted by the independent third party, the contact with the independent third party shall be made, and the landing and transshipment shall start only after the person(s) of the independent third party has arrived.
+
+Any tuna longline fishing vessel landing or transshipping in a foreign port shall comply with the laws and regulations of the concerned port State, and shall not refuse, evade, or obstruct inspections of the port State.
+
+### Article 66
+
+A distant water fisheries operator of any tuna longline fishing vessel shall, within 60 days after the completion of landing, submit sales or inventory information to the competent authority. The sales information shall at least include buyer(s), fish species and quantities.
+
+### Article 66-1
+
+Any of the following circumstances shall be imposed with punishment(s) in accordance with Article 36 of the Act:
+
+(1) Any carrier vessel engaging in transshipment evading, obstructing, or refusing to have an observer onboard; or refusing to receive an observer assigned by the competent authority to conduct observation mission on board, in violation of Article 54, paragraph 1.
+
+(2) Any transshipment being conducted without approval, in violation of Article 57, paragraph 1.
+
+(3) Any transshipment being conducted outside of the approved timeframe, in violation of Article 57, paragraph 4. Notwithstanding this provision, the circumstances as stipulated in paragraph 2, subparagraph (2) of this Article are not subject to this provision.
+
+(4) Any landing being conducted without approval, in violation of Article 62, paragraph1. Notwithstanding this provision, the circumstances as stipulated in paragraph 2, subparagraph (6) of this Article are not subject to this provision.
+
+(5) Any landing being conducted outside of the approved timeframe, in violation of Article 62, paragraph 2. Notwithstanding this provision, the circumstances as stipulated in paragraph 2, subparagraph (7) of this Article are not subject to this provision.
+
+(6) Evading, obstructing, or refusing any inspection for catch verification, in violation of Article 65, paragraph 1; or not complying with the requirements as stipulated in Article 65, paragraph 2.
+
+Any of the following circumstances shall be imposed with punishment(s) in accordance with Article 41 of the Act:
+
+(1) Any carrier vessel of the Republic of China transshipping with, refueling, or supplying any fishing vessel not listed in the authorized fishing vessel list of ICCAT or any fishing vessel that has altered its name or registration number, in violation of Article 52.
+
+(2) In the event of the following situations for any fishing vessel or carrier vessel that is under the circumstances stipulated in the proviso clause of Article 57, paragraph 4:
+
+i. Conducting any at-sea transshipment outside of the timeframe approved; or
+
+ii. Conducting in-port transshipment in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Donggang Yanpu Fishing Harbor, Cijin Fishing Harbor, or Wharf No. 41 of Kaohsiung Port after the timeframe approved.
+
+(3) Any transshipment being conducted when the ALC on board is signal-lost and has not been repaired, in violation of Article 60.
+
+(4) Any Transshipment Declaration not being submitted before the deadline, in violation of Article 61, paragraph 1 or 2.
+
+(5) Any fishing vessel permitted to catch eastern Atlantic bluefin tuna fails to keep onboard Transshipment Declaration(s) or to record any transshipment operation, in violation of Article 31, paragraph 3.
+
+(6) For any landing approved pursuant to subparagraph (3) of Article 62, paragraph 1, the landing is not conducted in the permitted port during the approved timeframe, but is conducted in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Donggang Yanpu Fishing Harbor, Cijin Fishing Harbor, or Wharf No. 41 of Kaohsiung Port.
+
+(7) In the event of the following situations for any fishing vessel or carrier vessel that is under the circumstances stipulated in the proviso clause of Article 62, paragraph 2:
+
+i. Conducting the landing in port Shimizu of Japan outside of the timeframe approved; or
+
+ii. Conducting the landing in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Donggang Yanpu Fishing Harbor, Cijin Fishing Harbor, or Wharf No. 41 of Kaohsiung Port, after the timeframe approved.
+
+(8) Catching or retaining eastern bluefin tuna during fishing vessel chartering period, in violation of the proviso clause in Article 62, paragraph 4.
+
+(9) Failing to submit the Landing Declaration within the deadline, in violation of Article 63, paragraph 1 or 2.
+
+(10) Refusing, evading, or obstructing any inspection conducted by the concerned port State, in violation of Article 65, paragraph 3.
+
+## Chapter X Fishing Operation Observation and Inspection
+
+### Article 67
+
+For any fishing vessel that receives any observer assigned by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization, the concerned distant water fisheries operator shall comply with the following:
+
+(1) To notify the competent authority in writing seven working days before the date of intended port entry or departure.
+
+(2) To embark and disembark the observer at the time and place informed by the competent authority.
+
+(3) To provide the observer, while onboard the vessel, with food, accommodation, adequate sanitary amenities, and medical facilities of a reasonable standard equivalent to those normally available to an officer onboard the vessel.
+
+(4) To instruct the captain and crew of the fishing vessel matters related to the cooperation with or assisting the observer in carrying out the duties, and to ensure observer’s safety.
+
+### Article 68
+
+For any fishing vessel that receives any observer assigned by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization, the concerned captain shall comply with the following:
+
+(1) The captain shall attend the pre-sail training course given by the competent authority.
+
+(2) When the observer is on board the fishing vessel, the captain shall inform the observer of the daily routine, personal safety, and vessel equipment.
+
+(3) The captain shall cooperate with and assist the observer in carrying out duties, and shall not evade, obstruct, or refuse to answer the inquiry related to the observation mission.
+
+(4) The captain shall not interfere with, assault, intimidate, or bribe the observer.
+
+(5) The captain shall provide the observer with adequate space, facilities, equipment and information on the vessel necessary for his daily living and for carrying out his/her duties.
+
+(6) The captain shall request the crew to comply with the provision stipulated in the preceding 3 subparagraphs.
+
+(7) The captain shall sign on the record(s) written by the observer. In case there are different views on the record(s) of the observer, captain’s opinions may be added.
+
+(8) The captain shall ensure the safety of the observer. In case of emergency or distress, special care and refuge shall be provided to the observer.
+
+### Article 69
+
+In the event of boarding and inspection conducted by inspector(s) assigned by the competent authority, any captain and crew of the inspected vessel shall cooperate with, facilitate the safe boarding and disembarkation of the inspector(s), and provide the inspector(s) with adequate space, facilities and equipment for carrying out duties.
+
+### Article 69-1
+
+In the event that an observer dies or the search and rescue are ceased for a missing observer fallen overboard, the concerned fishing vessel shall immediately cease fishing operations, and the competent authority shall order such vessel to navigate directly to the port designated by the competent authority for investigation.
+
+In the event that an observer suffers from a serious illness or injury that threatens his or her health or safety, the concerned fishing vessel shall immediately cease fishing operations and facilitate the disembarkation of the observer for appropriate medical treatment.
+
+In the event that an observer is assaulted, intimidated, threatened, or harassed, the competent authority may order the concerned fishing vessel to immediately cease fishing operations and navigate to the designated port within the required timeframe.
+
+## Chapter X-I Electronic Catch Document for Eastern Atlantic Bluefin Tuna
+
+### Article 69-2
+
+For any tuna longline fishing vessel permitted to catch eastern Atlantic bluefin tuna, the concerned distant water fisheries operator shall, before landing, transshipping, exporting, and trading such catch, apply on-line the Electronic Catch Document for Easter Atlantic Bluefin Tuna (hereinafter referred to as the “eBCD”) at ICCAT eBCD website (https://etuna.iccat.int/Account/Login.aspx), and shall enclose the following documents in the application to the competent authority:
+
+(1) A certificate issued by the Tuna Association proving the payment of the reimbursement for the vessel reduction program in respect of the amount of catch of frozen tuna and billfish recorded in the transshipment declaration(s).
+
+(2) A draft eBCD printed from the ICCAT website, affixed with the seals of the company and the representative.
+
+Upon approval of the application as referred to in the preceding paragraph, the competent authority will issue the eBCD.
+
+### Article 69-3
+
+In case of any of the following circumstances, the concerned eBCD shall not be issued:
+
+(1) The catch is caught by any fishing vessel listed on the illegal, unreported, and unregulated fishing vessel lists as announced pursuant to Article 13, paragraph 2 of the Act.
+
+(2) The concerned fishing vessel violates Article 13, paragraph 1 of the Act or Article 48, paragraph 1 of the Fisheries Act during fishing operations.
+
+(3) The concerned fishing vessel catches eastern Atlantic bluefin tuna without the permission from the competent authority.
+
+## Chapter XI Special Management Measures for High Risk Fishing Vessels
+
+### Article 70
+
+Matters related to the management of high risk fishing vessels categorized by the competent authority shall be governed by this Chapter. Matters not stipulated in this Chapter shall be governed by these Regulations.
+
+### Article 71
+
+High risk fishing vessels shall, starting from the date that the competent authority informs the concerned distant water fisheries operators, comply with the special management measures as follows:
+
+(1) Such vessels shall not engage in fisheries cooperation by means of being chartered to any foreigner.
+
+(2) For each fishing trip, such vessels shall carry on board observers assigned by the competent authority, or install a functional electronic monitoring equipment before port departure. For such vessel that has carried on board an observer who meets the requirement of the international fisheries organization(s), it shall be exempted.
+
+(3) Vessel positions shall be transmitted in accordance with Chapter VI.
+
+(4) Catch reports shall be conducted in accordance with provisions stipulated in Chapter VII.
+
+(5) Such vessels shall not conduct at-sea transshipment.
+
+(6) For transshipment in port, the Transshipment Notification shall be completed to apply for the approval of the competent authority, no later than seven days before the estimated date for transshipment.
+
+(7) For landing in port, the Advance Notice of Landing shall be completed to apply for the approval of the competent authority, no later than seven days before the estimated date for landing.
+
+(8) In case of transshipment or landing in port, inspections shall be conducted by the competent authority or the independent third party.
+
+### Article 72
+
+In the event that any high risk fishing vessel does not violate any regulation for one year starting from the date of being listed as high risk fishing vessel, such vessel shall be de-listed and exempted from the special management measures.
+
+### Article 72-1
+
+For the purpose of these Regulations, the catch amount is the unprocessed round weight.
+
+The conversion factors between the weights of processed fish and round fish are as shown in Appendix 15.
+
+### Article 72-2
+
+For any fishing vessel stranded or damaged on the high seas or in the EEZ of any other country and thus affecting navigation or berthing of other vessels or at the risk of ocean pollution, the concerned distant water fisheries operator shall take necessary action(s). The competent authority may require he/she who fails to do so to take action(s) within a timeframe.
+
+## Chapter XII Supplemental Provisions
+
+### Article 73
+
+Any tuna longline fishing vessel shall not fish within one nautical mile off a data buoy, or take on board, possess, or cause damage to the data buoy.
+
+In case that the fishing gear becomes entangled with the data buoy, the entangled fishing gear shall be removed with as little damage to the data buoy as possible.
+
+In case of finding any data buoy that is damaged or non-functional, the captain shall report to the competent authority the date, location, and the identifying information on the data buoy.
+
+### Article 74
+
+To prevent harming marine living species, fishing vessels shall not dispose any type of plastic trash or discharge any oil on the sea.
+
+### Article 75
+
+These Regulations shall become effective on 20 January 2017.
+
+Amendments to these Regulations shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1 Area of the Atlantic Ocean.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007406)
+- [Appendix 2 The fishing area of the bigeye tuna group.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007407)
+- [Appendix 3 Fishing areas of the north albacore tuna group and south albacore tuna group.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009458)
+- [Appendix 3-1 Fishing areas of the eastern Atlantic bluefin tuna group.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009459)
+- [Appendix 4 Application Form for Longline Fishing Vessels of 100 GT and above Proceeding to the Atlantic Ocean.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009460)
+- [Appendix 5  Application Form for Carrier Vessels of the Republic of China Proceeding to the Atlantic Ocean.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008319)
+- [Appendix 6 Specification of Width, Height and Color of Characters for Vessel Markings.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007411)
+- [Appendix 7 De-hooker (left) and Scoop net (right).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007412)
+- [Appendix 8  Specifications of seabird mitigation measures.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007413)
+- [Appendix 9 Facsimile Form for Vessel Position and Fishing Operation Information.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007414)
+- [Appendix 10 Designated Domestic Ports and Ports Located in the Atlantic Ocean for Tuna Longline Fishing Vessels to land or Tranship.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009461)
+- [Appendix 11 Information to Be Submitted for Carrier Vessels Applying for Transshipping in Port or at Sea.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007416)
+- [Appendix 12 Transshipment Notification.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007417)
+- [Appendix 13 ICCAT Transshipment Declaration.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009462)
+- [Appendix 13-1 Transshipment Declaration for Eastern Atlantic Bluefin Tuna.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009463)
+- [Appendix 14 Advance Notice of Landing Landing Declaration for Catches of Distant Water Fishing Vessels.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009464)
+- [Appendix 15 The conversion factors between the weights of processed fish and round fish.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009465)
+
+## History
+
+1.The full text of 75 articles promulgated by the Council of Agriculture, Executive Yuan on January 20, 2017, under Order No. Nong-Yu-Tsu 1061332010.
+
+2.Part of these Regulations amended and promulgated on 30 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061339879.
+
+3.Part of these Regulations, Appendix 4 of Article 6, Appendix 13 of Article 61, and Appendix 15 of Article 72-1 amended and promulgated on 12 April 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1081333615.
+
+4.Part of these Regulations and Appendix 9 of Article 36 amended and promulgated on 6 June 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1111333457.
+
+5.Part of these Regulations, Appendix 4 and 5 of Article 6, and Appendix 13 of Article 61 amended and promulgated on 5 December 2023 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1121337974.
+
+6.Part of these Regulations and Appendix 15 of Article 72-1 amended and promulgated on 2 October 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1141535418.

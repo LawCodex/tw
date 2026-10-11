@@ -1,0 +1,439 @@
+---
+title: "Regulations on Counseling and Management of Immigration Service Organizations"
+title_zh: "移民業務機構輔導管理辦法"
+identifier: "D0080134"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-11-03
+last_amended: 2023-12-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080134"
+retrieved: 2026-10-12
+---
+
+# Regulations on Counseling and Management of Immigration Service Organizations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080134-regulations-on-counseling-and-management-of-immigration-service-organizations.md](../../../zh/regulations/ministry-of-the-interior/D0080134-regulations-on-counseling-and-management-of-immigration-service-organizations.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+These Regulations are enacted in accordance with Paragraph 3, Article 57 of the Immigration Act (hereinafter referred to as "the Act").
+
+#### Article 2
+
+The Competent Authority must give priority to the protection of immigrant consumers' rights and interests and the maintenance of market order when engaged in regulating counseling and management of immigration service organizations.
+
+#### Article 3
+
+As used in these Regulations, the term "immigration service organizations" refer to companies and law firms that are licensed and have obtained registration certificates according to the Act and these Regulations to engage in the business of immigration services.
+
+## Chapter 2 Organizations that provide Immigration Services
+
+### Section 1 Companies Applying to Engage in The Business of Immigration Services.
+
+#### Article 4
+
+According to Subparagraph 1, Paragraph 1, Article 57 of the Act, a company applying for a license to operate as an immigration agent must have a paid-in capital of a specific designated amount, defined as follows:
+
+1.For those operating businesses under Subparagraph 1, Subparagraph 2, or Subparagraph 4 of Paragraph 1 of Article 56 of the Act, the amount required is NT$4,000,000.
+
+2.For those operating businesses under Subparagraph 3, Paragraph 1 of Article 56 of the Act, the amount required is NT$6,000,000.
+
+3.For those who simultaneously operate businesses stipulated in both of the preceding two Subparagraphs, the amount required is NT$6,000,000.
+
+#### Article 5
+
+In accordance with Subparagraph 2, Paragraph 1, Article 57 of the Act, when a company applies for a license to operate as an immigration agent, it must employ full-time professionals who have passed the training and examination to become qualified Immigration Specialists and have been certified as such by the National Immigration Agency, the Ministry of the Interior (hereinafter referred to as “the NIA”).The Immigration Specialist also must be full-time employees of the immigration service organization.
+
+#### Article 6
+
+In accordance with Subparagraph 3, Paragraph 1, Article 57 of the Act, a company applying for a license to operate as an immigration agent must deposit the following amount of security bond with a financial institution:
+
+(1)For those operating businesses under Subparagraph 1, Subparagraph 2, or Subparagraph 4 of Paragraph 1 of Article 56 of the Act, the amount required is NT$1,500,000.
+
+(2)For those operating businesses under Subparagraph 3, Paragraph 1 of Article 56 of the Act, the amount required is NT$2,500,000.
+
+(3)For those who simultaneously operate businesses stipulated in both of the preceding two subparagraphs, the amount required is NT$2,500,000.
+
+#### Article 7
+
+The security bond in the preceding Article must be deposited by the company applying for the immigration business, in its own name, into a financial organization as a time deposit and pledged to the NIA for the purpose of indemnity in the event of disputes arising out of the immigration services entrusted to it as an immigration agent.
+
+#### Article 8
+
+A company applying for a license to operate as an immigration agent must submit the following documents to the NIA:
+
+1.An application form to conduct business operations;
+
+2.A list of promoters or company registration documents;
+
+3.A photocopy of the Application for Company Name and Business Scope Reservation;
+
+4.A document proving the amount of capital. If the company is already registered, this document is exempted.;
+
+5.A register of at least three full-time immigration specialists including photocopies of their qualification documents.;
+
+6.A photocopy of the certificate of deposit;
+
+7.Notice on the creation of the pledge;
+
+8.Other documents designated by the NIA.
+
+#### Article 9
+
+If a company applies for a license to operate as an immigration agent, its person in charge must not fall under any of the following circumstances as described below. If the company has already obtained its license, the NIA must order it to replace its person in charge within a specified deadline. If the company does not replace the person in charge by the deadline, the NIA will revoke the business license:
+
+1.The person has committed the crime of human trafficking and has been convicted by a court. However, if the person's acquittal is confirmed by a reversal of the judgment, this restriction will not apply.
+
+2.The person has committed fraud, breach of trust, or embezzlement and has been sentenced to a term of imprisonment of one year or more and the sentence has been confirmed; if the person has not yet begun to serve the sentence, or if the sentence has not been served, or if two years have not passed since the completion of its execution, or since the completion of the probationary period, or since a pardon has been granted;
+
+3.The person has been declared bankrupt and has not yet been reinstated, or if the person was a director, supervisor, or manager of a legal entity that was declared bankrupt and its bankruptcy has been terminated for less than three years, or if the reconciliation has not yet been fulfilled;
+
+4.The use of notes has been refused and the period of refusal has not yet expired.
+
+If a company applies for a license to operate as an immigration agent, the specialists it employs must not have committed the crime of human trafficking and have been convicted by a court of law. However, if the specialist's acquittal is confirmed by a reversal of the judgment, this restriction will not apply.
+
+#### Article 10
+
+If a company applies for a license in accordance with Article 8 of these Regulations, the NIA will issue a business license.
+
+The company, as mentioned in the preceding paragraph, must, within 60 days after obtaining the business license, complete the registration of the company or the registration of the change of business items with the competent authority in charge of company registration in accordance with applicable laws and regulations, and submit the following documents to the NIA for the creation of the pledge. If the company fails to comply with the requirements, the NIA will revoke its business license:
+
+1.The original copy of the certificate Of deposit in the name of the company;
+
+2.A notice of pledge creation in the name of the company;
+
+3.A reply from the bank agreeing to the creation of the pledge.
+
+#### Article 11
+
+A company applying to act as an immigration agent that has obtained a business license, completed company registration or business item change registration, and created a pledge in accordance with the provisions of the preceding Article 10 must, within 15 days, submit the following documents to the NIA to apply for a certificate of registration:
+
+1.An application for a certificate of
+
+registration.
+
+2.Proof of company registration.
+
+\3. Articles of Incorporation.
+
+The NIA will revoke the business license of a company that has not applied for a registration certificate in accordance with the preceding paragraph. However, if there is a valid reason, the company may apply for an extension of 30 days, and the extension will be limited to one time.
+
+#### Article 12
+
+If a company that provides immigration services intends to set up a branch office, it must submit the following documents to the NIA for future reference after completing the registration of the branch office in accordance with applicable laws and regulations:
+
+1.Minutes of the board of directors' meeting or shareholders' approval letter;
+
+2.Proof of branch office registration.
+
+#### Article 13
+
+The regulations governing the approval of companies providing immigration services will, mutatis mutandis, apply to the approval of the establishment of branch offices in the R.O.C. by foreign immigration service organizations.
+
+#### Article 14
+
+The training and testing of immigration specialists as stipulated in Article 5 may be con-ducted by the NIA on its own or entrusted to relevant institutions, organizations, or schools.
+
+#### Article 15
+
+A person who is 18 years of age or older may participate in the training to become an immigration specialist. The training must last for at least forty hours.
+
+The contents of the training are as follows:
+
+1.Introduction to immigration policies, the Immigration Act, and related regulations.
+
+2.Outline of civil laws, consumer protection laws, fair trade laws, and other related regulations.
+
+3.Standardized contracts for immigration services.
+
+4.Immigration requirements, application procedures, and related regulations of major destination countries.
+
+5.Immigration funds and investment programs in major immigrant countries.
+
+6.Other courses related to immigration issues.
+
+#### Article 16
+
+The instructors appointed by the institutions (organizations), groups, and schools that handle the training of immigration professionals must meet one of the following qualifications:
+
+\1. Having graduated from a college or university and having more than three years of working experience in the immigration business.
+
+\2. Teaching and research in academic institutions or organizations related to immigration business.
+
+\3. Having worked or currently working in an immigration service organization or immigration-related institution with Junior-Rank position or above.
+
+#### Article 17
+
+Participants in the training of immigration specialists must pay the training fee. Those who are unable to participate for any reason may apply for a refund of the training fee in accordance with the following provisions:
+
+\1. If the applicant applies for a refund between the date of enrollment and the day before the course begins,70% of the training fee will be refunded.
+
+\2. After the course has begun, if the applicant applies for a refund before one-third of the course hours have been taught, 50% of the training fee will be refunded.
+
+\3. After the course has started, if one-third of the class hours have been taught, no refund will be granted.
+
+#### Article 18
+
+Those who have participated in the training of immigration specialties for less than four-fifths of the total training hours will not be allowed to take the test.
+
+A passing grade is defined as a total score of 70% or more. The results of the test will be issued by the institution (organization), group, or school that administers the test.
+
+Those who have passed the test may then submit an application and the score report to the NIA for the issuance of a Certificate of Qualification for Immigration Specialists.
+
+### Section 2 Law Firms Providing Immigration Services
+
+#### Article 19
+
+If an attorney intends to provide immigration services in accordance with the proviso of Paragraph 1, Article 55 of the Act, then the presiding attorney or the attorney in charge of the operation and management of the law firm in which the attorney works must submit the following documents to the NIA to apply for a registration certificate before the attorney can provide the practice:
+
+\1. An application for the registration certificate.
+
+\2. Proof of Registration of Law Firm issued by the Taiwan Bar Association.
+
+\3. For sole-proprietorship, co-location, or partnership attorneys or law firms, a photocopy of the Attorney's Certificate of the presiding attorney or the attorney in charge of operation and management, and a photocopy of the certificate of membership in a local bar association.
+
+The attorney referred to in the preceding  paragraph as the presiding attorney or the attorney in charge of the operation and management is as follows:
+
+1.In the case of a sole-proprietorship's attorney or law firm, it means the sole-proprietorship attorney.
+
+2.In the case of a co-location attorney or law firm, it means the co-location attorney who is applying for immigration practice and services.
+
+3.In the case of a law partnership or law firm, it means the partner who applies for the immigration practice and services.
+
+A foreign legal affairs attorney who provides immigration services in accordance with the proviso of Article 55, Paragraph 1 of the Act will be limited to handling the business of residence, settlement, permanent residence, or naturalization of persons from Taiwan to the country in which the attorney has obtained a license to practice.
+
+#### Article 20
+
+An attorney who provides immigration services in accordance with the proviso of  Paragraph 1 of Article 55 of the Act must, if the law firm establishes a branch office, attach the following documents after registering the establishment of the branch office in accordance with the laws, and report them to the NIA for future reference:
+
+\1. Proof of establishment of the branch office.
+
+\2. A photocopy of the resident Attorney's Certificate and proof of membership in the local bar association.
+
+## Chapter 3 Counseling and Management of Immigration Service Organizations
+
+#### Article 21
+
+If a company acting as an immigration agent has experienced one of the following circumstances, it must apply to the NIA for a change of license by submitting an application for a change of registration certificate using the following documents:
+
+1.Change of company name: A photocopy of the Articles of Incorporation, shareholders' approval letter or minutes of the shareholders' meeting, and a photocopy of the application form of the Ministry of Economic Affairs for pre-checking the name of the company and the business(es) it operates.
+
+2.Change of person in charge or paid-in capital over a certain amount: Articles of Incorporation, minutes of board of directors' meetings, and shareholders' approval letter.
+
+3.Change of company address: minutes of the board of directors' meeting or shareholders' approval letter.
+
+If a company acting as an immigration agent adds or deletes businesses to or from the list of businesses under Subparagraph 3, Paragraph 1, Article 56 of the Act, it must apply to the NIA for permission by attaching the application for change of registration certificate, Articles of Incorporation, and shareholders' approval letter or shareholders' meeting minutes; If there is no such change as mentioned in the  subparagraphs of the preceding paragraph , the company must, within 30 days after the approval is granted, apply to the NIA for the reissuance of its registration certificate by attaching the application for reissuance of registration certificate.
+
+If the NIA approves the change of the registration certificate of a company that acts as an immigration agent as mentioned in  Paragraph 1 of this Article, the company must, within 30 days after the company completes its change of registration in accordance with the law, apply to the NIA for the renewal of its registration certificate by attaching the application for renewal of  registration certificate and the company's registration documents.
+
+If a company that is registered as an immigration agent in the preceding paragraph is approved to change its business items but applies for renewal of its registration certificate after the deadline, the NIA must revoke its approval for such a change. However, if the immigration agent has a justifiable reason, it may apply for an extension of a 30-day period, subject to a one-time limit.
+
+Changes in the name, person in charge, or address of a branch office established in Taiwan by a foreign immigration agency referred to in Article 13 will, mutatis mutandis, be governed by the provisions of  Paragraphs 1 and 3 of this Article.
+
+#### Article 22
+
+An attorney who provides immigration services in accordance with the proviso of  Paragraph 1 of Article 55 of the Act must, within one month from the day following the date of occurrence of the fact that the attorney or the law firm changes its registration, or changes the presiding attorney or the attorney in charge of the operation and management of the law firm, submit an application for a change of the registration certificate, together with the relevant supporting documents, and apply for a reissuance of the certificate of registration with the NIA.
+
+#### Article 23
+
+If there is any change in the number of immigration specialists employed by a company that acts as an immigration agent, it must be reported to the NIA within 15 days for future reference; if there is less than a quorum of 3 specialists, the company must make up for the change in the number of specialized specialists it employs within 60 days, and report its list of registered specialists to the NIA for future reference.
+
+#### Article 24
+
+If the security bond deposited by a company acting as an immigration agent in accordance with Article 7 becomes insufficient, the company must make up the full amount within 15 days from the date of receipt of the notice from the NIA. If the amount is not made up by that time, the company's license will be revoked in accordance with Article 87 of the Act, and the registration certificate will be canceled and announced as such.
+
+A company that adds or deletes an immigration service to or from the list of businesses under Subparagraph 3, Paragraph 1, Article 56 of the Act must submit the following documents to apply for a change in the security bond:
+
+\1. An application for change of security bond.
+
+\2. A photocopy of the certificate of deposit.
+
+\3. A notification of pledge creation.
+
+If a company that acts as an immigration agent deletes the business referred to in  Subparagraph 3, Paragraph 1, Article 56 of the Act, it may, after the completion of the change of the security bond mentioned in the preceding section, apply for the return of its certificate of deposit by attaching the following documents:
+
+\1. An application for the return of the certificate of deposit.
+
+\2. Notification of extinguishment of pledge.
+
+\3. Receipt of the original security bond payment, relevant supporting documents, or an affidavit.
+
+\4. The company’s seal and the seal of its person in charge.
+
+#### Article 25
+
+Those who provide the immigration services under Subparagraph 3, Paragraph 1, Article 56 of the Act must attach the following documents to each immigration fund case, and apply for permission from the NIA:
+
+1.A photocopy of the certificate of establishment of the immigrant fund issuing company or the immigrant fund management company, and a photocopy of the notification or approval document from the government of the destination country;
+
+2.A photocopy of the cooperation agreement or authorization document between the two parties.
+
+3.The latest prospectus of the Immigrant Fund.
+
+4.In the application for each immigration fund intermediary, fill in the information sheet with the required items.
+
+5.All directors and managers of an immigrant fund issuer or an immigrant fund management company must provide an affidavit or relevant supporting documents regarding the following matters:
+
+(1).Having no record of bankruptcy.
+
+(2). Not having been sentenced by a judicial authority to imprisonment for one year or more.
+
+6.Legal Opinion on the Immigration Fund: The content of the opinion must indicate that the immigration fund can be used by the immigrant applicant to migrate to the destination country, and that the immigration fund complies with the destination country's regulations on the management of overseas sales of securities
+
+7.The Certified Public Accountant's Opinion of the Immigrant Fund: The opinion must include an assessment of the risk of the immigrant fund's business objectives, and an assessment of the immigrant fund's management company's operational ability and the risk involved.
+
+8.The immigration fund's trust agreement with the trustee in the destination country and its sales memorandum.
+
+9.The immigration fund's original agreement and its Chinese translation: the content must include whether there are additional conditions for the immigration application, how to deal with the situation where it is impossible to cancel the additional conditions, the risk of cancellation of the conditions by the immigrant applicant, the special commitment of the immigration fund management company before the immigrant applicant receives the repayment amount, the trust account number of the immigrant applicant for the remittance of the money, matters of which immigrant applicants should be aware of with respect to the immigration fund, the repayment and refund methods for the immigrant applicants who abandon their applications or fail to obtain the immigration permission, and the handling of the immigration disputes, etc.
+
+If an immigrant fund is issued, operated, or managed by the government of the destination country, the immigration service organization must apply to the NIA for approval by attaching the documents in Subparagraphs 1, 4, and 9 of the preceding paragraph.
+
+An immigration service organization who has been authorized to intermediate an immigration fund case may authorize other immigration service organizations who are authorized to operate immigration funds to act as its agents. However, before granting any authorization, it must apply to the NIA for approval by submitting the name of the immigration service organization authorized to act as an agent and a photocopy of the supporting documents as stated in Subparagraph 2, Paragraph 1 of this Article.
+
+#### Article 26
+
+For each immigration fund case that an immigration service organization is authorized to handle, it must, within fifteen days after the expiration of the authorized duration, report its immigration applicants’ information to the National Immigration Agency for reference.
+
+#### Article 27
+
+When there is a change in the contents of each immigration fund case that an immigration service organization is authorized to handle, it must attach the relevant supporting documents and report to the NIA for future reference.
+
+#### Article 28
+
+An immigration service organization must, within 30 days after the end of each year, fill out an immigration business statistics form on the immigration cases handled during the previous year, and report it to the NIA for future reference.
+
+#### Article 29
+
+When a company that provides immigration services is dissolved, or when the NIA revokes or cancels its business license, the company must return its registration certificate; if the registration certificate is lost or destroyed, it must be accompanied by an affidavit or relevant supporting documents.
+
+If a company that acts as an immigration agent returns its registration certificate, an affidavit or related documents in accordance with the preceding paragraph, and no immigration disputes have occurred after the NIA has made a public announcement regarding this matter for 60 days, the company may apply for the extinguishment of its pledge from the NIA and the return of its certificate of deposit by attaching the following documents:
+
+1.An application for the return of certificate of time deposit.
+
+2.Notification of extinguishment of pledge.
+
+3.A list of outstanding immigration applications entrusted to the company, as well as documents proving that the aftermath has been handled properly.
+
+4.Proof of dissolution or change of business registration.
+
+5.Receipt of the security bond payment, related documents, or an affidavit.
+
+6.The company’s seal and the seal of its person in charge, or the seal of the liquidator and photocopies of its supporting documents.
+
+An attorney who provides immigration services in accordance with the proviso of  Paragraph 1 of Article 55 of the Act, and whose registration as a law firm or branch office has been canceled, revoked, or abolished by the Taiwan Bar Association, or whose registration certificate has been canceled by the National Immigration Agency, must attach the documents stipulated in Subparagraph 2, Paragraph 2 of Article 30, and return the registration certificate to the NIA; and if the registration certificate has been lost or destroyed, it must be accompanied by an affidavit or relevant supporting documents.
+
+#### Article 30
+
+A company that terminates its immigration services must submit the following documents to the NIA to apply for the abolishment of its business license:
+
+1.An application for termination of immigrant business activities;
+
+2.Articles of Incorporation, minutes of directors' meeting, shareholders' approval letter or shareholders' meeting minutes;
+
+3.Certificate of registration. If the registration certificate is lost or destroyed, it must be accompanied by an affidavit or relevant supporting documents.
+
+If an attorney who provides immigration services in accordance with the proviso of  Paragraph 1 of Article 55 of the Act terminates the practice, the attorney must submit the following documents to the NIA to apply for the cancellation of the registration certificate:
+
+1.An application for termination of immigration practice and services.
+
+2.A list of outstanding immigration applications entrusted to the attorney, as well as documents proving that the attorney has properly handled the aftermath.
+
+3.Certificate of registration. If the registration certificate is lost or destroyed, it must be accompanied by an affidavit or relevant supporting documents.
+
+#### Article 31
+
+If an immigration service organization is subject to any of the following events, the NIA must make a public announcement:
+
+1.Being warned, ordered to make corrections within a certain time limit, or ordered to suspend its business, or have its registration certificate revoked.
+
+2.The company completes its dissolution registration.
+
+3.Its security bond is used to indemnify immigration disputes.
+
+If an attorney who provides an immigration services in accordance with the proviso of Paragraph 1 of Article 55 of the Act is determined to be subject to the disciplinary action of disbarment or suspension of practice in accordance with the provisions of the Attorney Regulation Act, the NIA must make a public announcement to that effect.
+
+#### Article 32
+
+An immigration service organization that applies for a review and confirmation of an immigration advertisement must submit the following documents to an immigration organization or an immigration association designated by the NIA (hereinafter referred to as "the reviewing organization"):
+
+\1. An application form.
+
+\2. Two copies of the advertisement submitted for review and confirmation.
+
+\3. Two copies of the supporting documents of the advertisement.
+
+If an immigration service organization does not submit all the documents in the preceding paragraph, the reviewing organization may notify it to make corrections within 15 days following the day of notification of corrections.
+
+#### Article 33
+
+An immigration advertisement will not be reviewed for confirmation if it falls under one of the following circumstances:
+
+1.It has not been corrected within the time limit specified in Paragraph 2 of the preceding Article.
+
+2.It does not comply with regulations of NIA to operate its business.
+
+3.It violates the immigration laws of the destination country.
+
+4.It is exaggerating, false, or misleading to consumers.
+
+#### Article 34
+
+The review and confirmation of immigration advertisements must be completed by the reviewing organization within 15 days from the day after the receipt of the documents.
+
+#### Article 35
+
+The reviewing organization must estimate the actual cost and set the basis of fees, and must submit this fee basis to the NIA for approval before charging them.
+
+#### Article 36
+
+The reviewing organization must, within 30 days after the end of each year, report to the NIA the status of the previous year's review and confirmation of immigration advertisements for its future reference; it must notify the NIA on a case-by-case basis of any cases that failed its review and confirmation.
+
+#### Article 37
+
+For immigration advertisements that have been reviewed and confirmed or approved, the immigration service organization must display its registration certificate number and the review and confirmation number in the lower right corner of the advertisement or in a conspicuous place when the advertisement is published or broadcast.
+
+#### Article 38
+
+The immigration service organization must not add or delete any advertisement that has been reviewed and confirmed or approved. If the content of the original advertisement is no longer in line with the actual situation due to a change in circumstances, the organization must re-apply for review and confirmation and be assigned a review and confirmation number before the advertisement can be disseminated, broadcasted, or published.
+
+## Chapter 4 Supplementary Provisions
+
+#### Article 39
+
+A document to be attached in accordance with the Regulations must be verified by the embassy, consulate, representative office or office abroad (hereinafter referred to as the "embassy or consulate abroad") if the document was produced abroad; if it was produced in Taiwan by the embassy or consulate of a foreign country or its authorized representative organization in Taiwan, the document must be verified by the Ministry of Foreign Affairs.
+
+If a document in the preceding paragraph is in a foreign language, it must be accompanied by a Chinese translation certified by an embassy or consulate abroad or by a domestic notary public; for documents in a foreign language as stipulated in Subparagraphs 1 to 8, Paragraph 1, Article 25, they must be accompanied by an opinion signed by an immigration organization designated by the NIA for verification.
+
+#### Article 40
+
+The date of implementation of these Regulations will be determined by the Ministry of the Interior.
+
+## History
+
+1.A total of 30 articles were enacted and promulgated by the Ministry of the Interior as (88) Tai-Nei-Yi-Tze Order No. 8878645 on November 3, 1999, and they came into force on the date of promulgation.
+
+2.On November 22, 2001, Article 5 was amended and promulgated by the Ministry of the Interior as (90) Tai-Nei-Yi-Tze Order No. 9066129
+
+3.On April 1, 2003, the Ministry of the Interior amended and promulgated Articles 2, 3, 5, 7-9, 12, 14, 15, 20, and 28; and deletes Article 24. It was issued as Tai-Nei-Yi-Tze Order No. 0920073097.
+
+4.On September 26, 2005, the Ministry of the Interior issued Tai-Nei-Yi-Tze Order No. 0940062462 amending and promulgating Articles 2, 3, 5, 7, 8, 15, and 22; and adding Articles 5-1 through 5-3 and 8-1.
+
+5.On August 10, 2006, the Ministry of the Interior issued Tai-Nei-Yi-Tze Order No. 0950123587 amending and promulgating Articles 5, 20, and 22.
+
+6.On February 1, 2007, the Ministry of the Interior issued Tai-Nei-Yi-Tze Order No. 0960932843 amending and promulgating Article 22.
+
+7.On July 31, 2008, the Ministry of the Interior issued Tai-Nei-Yi-Tze Order No. 0971031906 amending and promulgating the Regulations.
+
+8.On October 29, 2010, the Ministry of the Interior issued Tai-Nei-Yi-Tze Order No. 0990933154 amending Article 6 of the Regulations.
+
+9.On June 25, 2021, the Ministry of the Interior, by issuing Tai-Nei-Yi-Tze Order No. 11009115372, amended Article 8; and implemented it on January 1, 2023.
+
+10.On December 28, 2023, the Ministry of the Interior, by issuing Tai-Nei-Yi-Tze Order No. 11209134141, amended and promulgated the full text of 40 articles (the old title “Regulations for Governing and Managing Immigration Business Organizations and Their Employees” was replaced by the new title “Regulations on Counseling and Management of Immigration Service Organizations”); and implemented it on January 1, 2024.

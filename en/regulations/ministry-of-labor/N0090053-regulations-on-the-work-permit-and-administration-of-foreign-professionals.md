@@ -1,0 +1,165 @@
+---
+title: "Regulations on the Work Permit and Administration of Foreign Professionals Engaging in Arts and Performing Arts"
+title_zh: "外國專業人才從事藝術工作許可及管理辦法"
+identifier: "N0090053"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-02-06
+last_amended: 2023-12-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090053"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Work Permit and Administration of Foreign Professionals Engaging in Arts and Performing Arts
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090053-regulations-on-the-work-permit-and-administration-of-foreign-professionals.md](../../../zh/regulations/ministry-of-labor/N0090053-regulations-on-the-work-permit-and-administration-of-foreign-professionals.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed in accordance with Paragraph 2, Article 10 of the Act for the Recruitment and Employment of Foreign Professionals (hereinafter “the Act”).
+
+## Article 2
+
+To protect the working rights of citizens of Taiwan and to provide equal opportunities to foreign nationals in the country in a fair and reciprocal manner, the Ministry of Labor (hereinafter “the ministry”) will determine and announce along with the Ministry of Culture a quota of foreign professionals.
+
+## Article 3
+
+Artistic work prescribed in Paragraph 1, Article 10 of the Act shall be defined as that meeting one of the following criteria:
+
+\1. Performing arts and Visual arts: refers to engaging in creating, researching, investigating, producing, performing, promoting, teaching or sharing (such as through workshops or lectures), jury panels or competing in the field of music (pop music not included), dance, arts, drama, environmental arts and photography.
+
+\2. Publishing: refers to engaging in cultural arts through the creation of graphics and text, commenting, literary agency, editing, translating, curating, or researching in the field of newspapers, magazines and book publication.
+
+\3. Movie, Broadcasting Television, and Pop Music: refers to engaging in the cultural arts by creating, producing, performing, promoting, teaching or sharing (such as workshops or lectures), jury panels, agency, managing or technology, in the fields of film, broadcasting, television and pop music.
+
+\4. Crafts: refers to engaging in creating or teaching in leather, ceramic, stone, glass, fiber (dying, weaving or knitting), wood, bamboo, paper, metal, paint or mixed media.
+
+\5. Other artistic work certified by the Ministry of Culture.
+
+## Article 4
+
+Foreign professionals engaging in artistic work prescribed in the provisions of the preceding Article are required to have one of the following job qualifications listed in the addendum.
+
+## Article 5
+
+For three years prior to the application date, none of the following circumstances has arisen or existed with respect to foreign professionals engaging in artistic work prescribed in Article 3:
+
+\1. Engaged in artistic work without permission.
+
+\2. Inconsistency between actual work content and work description presented in the application form.
+
+\3. Refused to submit information as required by applicable laws and regulations, or has submitted false information in violation of applicable laws and regulations.
+
+\4. Other than the above, the foreign professional has been in serious violation of applicable laws and regulations in the Republic of China.
+
+## Article 6
+
+Foreign professionals engaging in artistic work prescribed in Article 3 are required to apply for a work permit in accordance with the Regulations.
+
+Prior to approving the provisions of the preceding Article, the ministry is required to conduct an examination and review in consultation with the Ministry of Culture.
+
+## Article 7
+
+Foreign professionals engaging in artistic work prescribed in Article 3 are required to provide the following documents:
+
+\1. Application form.
+
+\2. Photocopy of the passport or ARC of the foreign professional.
+
+\3. Original receipt for review fee.
+
+\4. Relevant certificates for job qualifications listed in the addendum.
+
+\5. Other documents required by the ministry.
+
+If the preceding documents are from abroad, the ministry has the right to request document authentication conducted by ROC embassies and consulates, representative offices, offices or other agencies authorized by the Ministry of Foreign Affairs in foreign countries.
+
+## Article 8
+
+The maximum duration of the permit for a foreign professional engaging in artistic work prescribed in Article 3 is three years.
+
+A foreign professional may apply for an extension of up to three years and four months prior to expiration by providing the following documents. However, if the duration of the previous work permit is less than six months, a foreign professional may apply for an extension after exceeding two-thirds of the duration of the work permit:
+
+\1. Application form.
+
+\2. Photocopy of the passport or ARC of the foreign professional.
+
+\3. Original receipt for review fee.
+
+\4. A certificate of specific artistic work performance for the duration of the previous work permit.
+
+\5. Other documents required by the ministry.
+
+A foreign professional who fails to apply for an extension within the deadline due to certain circumstances, upon receipt of approval from the ministry, may re-apply within 15 days, but such permission will be granted only once.
+
+## Article 9
+
+The ministry shall inform the Ministry of Culture, the Ministry of Foreign Affairs, and the Ministry of the Interior when issuing a work permit or  extension thereof for a foreign professional.
+
+## Article 10
+
+When a foreign professional applies for a permit to undertake art related work, the ministry will inform the applicant which items to submit online as part of the application.
+
+In accordance with the previous paragraph, foreign professionals applying for a permit to undertake art related work should do so online, other than when they have a valid reason for not doing so.
+
+Foreign professionals applying in accordance with the previous two paragraphs should retain the original written copy of their application documents for a minimum of five years.
+
+## Article 11
+
+An additional attachment as part of the application for a foreign professional’s work permit to engage in artistic work is not required when it is issued by government institutions or state-owned enterprises and available for search on the Internet.
+
+The above-mentioned document shall be announced by the ministry.
+
+## Article 12
+
+Should any of the following occur, the ministry shall not grant the work permit, nor an extension thereof, for a foreign professional:
+
+\1. Providing false or invalid information.
+
+\2. The application is not made in conformity with relevant requirements and the applicant fails to make necessary supplements and/or rectifications thereof within a specified period.
+
+\3. Any of the provisions prescribed in Article 5.
+
+\4. Any violation of the standards set forth in accordance with the Regulations.
+
+## Article 13
+
+Should any of the following occur, the ministry shall revoke and annul the work permit or extension thereof, for a foreign professional:
+
+\1. Any of the provisions prescribed in Article 5.
+
+\2. Any violation of the standards set forth in accordance with the Regulations.
+
+## Article 14
+
+The format of all forms and documents as referred to in the Regulations shall be promulgated by the ministry.
+
+## Article 15
+
+Residents of Hong Kong or Macau applying to undertake artistic work prescribed in Article 10 of the Act with matters concerning qualifications, procedures, and others, are subject, mutatis mutandis, provisions detailed from Article 2 to Article 13.
+
+## Article 16
+
+The Regulations become effective on the date the Act is promulgated.
+
+The amended articles of the Regulations become effective on the date of promulgation.
+
+## Attachments
+
+- [Addendum Regulations on the Work Permit and Administration of Foreign Professionals Engaging in Arts and Performing Arts Article 4 Job Qualifications.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008371)
+
+## History
+
+1.Order No. 10705016091 of the Ministry of Labor of the Republic of China on February 6th, 2018 16 articles have been issued; and implemented since February 8, 2018
+
+2.Amended on December 9, 2019
+
+3.Amended on October 27, 2022
+
+4.Amended on December 18, 2023

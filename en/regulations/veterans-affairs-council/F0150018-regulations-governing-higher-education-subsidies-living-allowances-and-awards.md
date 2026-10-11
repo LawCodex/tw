@@ -1,0 +1,147 @@
+---
+title: "Regulations Governing Higher Education Subsidies, Living Allowances and Awards for Veterans"
+title_zh: "國軍退除役官兵就學補助生活津貼及獎勵辦法"
+identifier: "F0150018"
+type: regulation
+law_level: "命令"
+category: "行政＞國軍退除役官兵輔導委員會＞就學目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-08-05
+last_amended: 2021-03-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0150018"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Higher Education Subsidies, Living Allowances and Awards for Veterans
+
+> Translation. The Chinese text ([zh/regulations/veterans-affairs-council/F0150018-regulations-governing-higher-education-subsidies-living-allowances-and-awards.md](../../../zh/regulations/veterans-affairs-council/F0150018-regulations-governing-higher-education-subsidies-living-allowances-and-awards.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 2 of Article 19 of the Veterans Assistance Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+The veterans referred to in these Regulations mean the veterans as prescribed in Article 2 of the Act.
+
+## Article 3
+
+Educational assistance, living allowances and subsidies, as prescribed in these Regulations, include the following categories:
+
+1.Assistance for tuition and miscellaneous expenses for study in domestic public or registered private colleges, universities (including day schools, advanced study schools and institutes), or graduate schools.
+
+2.Assistance for tuition and miscellaneous expenses for study in graduate schools of foreign universities that satisfy the Regulations Regarding the Assessment and Recognition of Foreign Academic Credentials for Institutions of Higher Education.
+
+3.Living allowances during school for those who are on the list of low-income households or middle-to-low-income households.
+
+4.Subsidies for excellent performance to Veterans who study at a domestic public or registered private college, or university with a Grade Point Average (GPA) of over eighty and has passed.
+
+5.Subsidies for excellent performance to veterans who study at a domestic public or registered private graduate school with a Grade Point Average (GPA) of over ninety and has passed.
+
+## Article 4
+
+To apply for the educational assistance, living allowances or subsidies referred to in the preceding article, applicants shall submit an application form and formal academic record; in addition, on-the-job applicants who apply for miscellaneous fee grants should provide an employment certificate to the Veterans Affairs Council, (hereinafter referred to as “VAC”).
+
+Applicants who are not addressed in accordance with the above regulation shall be notified by VAC within a specified period of time when the materials are available to applicants. Materials not available to applicants or applicants who make supplements after the specified time will be rejected.
+
+## Article 5
+
+Identification documents, as well as the formal student identification mentioned in the above article, include the following:
+
+\1. To apply for tuition assistance and miscellaneous expenses:
+
+（1）Domestic study: original payment receipt and a photocopy of the student's identification card.
+
+（2）Overseas study: original payment receipt, a photocopy of a valid passport, student visa, and a photocopy of certificate proving that the applicant is studying at the school.
+
+\2. To apply for living allowances during study:
+
+（1）Domestic study: proof of study produced by the faculty, and one photocopy of valid proof of mid-to-low (low) income household produced by a local authority.
+
+（2）Overseas study: the statement of the start and end time of the academic term, and one photocopy of valid proof of mid-to-low (low) income household produced by a local authority.
+
+3.To apply for subsidies for excellent performance in domestic schools: the original school report card of the previous term.
+
+## Article 6
+
+Qualified applicants of educational subsidies, living allowances and awards will be granted respectively. Disqualified applications will be dismissed.
+
+## Article 7
+
+Applications for educational assistance or subsidies should be submitted within the time limit prescribed below; otherwise, they will be rejected:
+
+1.Assistance for domestic tuition and miscellaneous expenses: among the study years determined by the Ministry of Education, an applicant may apply for assistance twice each academic year. Applications for assistance for the first term must be submitted between September 1 and October 15, while assistance for the second term must be submitted between February 1 and March 15.
+
+2.Assistance for tuition and miscellaneous expenses for overseas study: the application must be submitted within two months after the applicant has actually enrolled in the school.
+
+3.Subsidies for domestic excellence performance: among the study years determined by the Ministry of Education, an applicant may apply for subsidies twice each academic year. Applications for the subsidies for the first term must be submitted between February 1 and March 15, while subsidies for the second term must be submitted between September 1 and October 15.
+
+The application for living allowances should be made within the following period:
+
+（1）Domestic study: within the period specified in the first subparagraph of preceding paragraph.
+
+（2）Overseas study: within the academic term specified in the second item of the second subparagraph of Article 5.
+
+## Article 8
+
+The amount and the quota of the study assistance, living allowances and subsidies prescribed in these regulations shall be determined and announced by VAC.
+
+In the event that the tuition and miscellaneous expenses are less than the assistance amount referred to in the preceding paragraph, the assistance provided will be the actual amount paid to the institution. Should an applicant receive a military pension, assistance will be half of the tuition and miscellaneous expenses paid.
+
+Living allowances are granted through the following methods:
+
+1.Domestic study: for applications made within the time specified in the first subparagraph of second paragraph of the preceding article, living allowances for study will be issued monthly in accordance with the months evidenced as a mid-to-low (low) income household, starting from the first month of the academic period to which the application applies. For applications after the application period, allowances will be issued the month the application is made.
+
+2.Overseas study: for applications made within the time specified in the second subparagraph of second paragraph of the preceding article, living allowances for study will be issued once only for the entire semester in accordance with the months evidenced as a mid-to-low (low) income household.
+
+## Article 9
+
+Educational assistance, living allowances and subsidies shall be granted at the following four levels: college, university, master class, and doctoral class. An applicant who has received assistance, living allowances or subsidies at a higher level may not apply for assistance, living allowances or subsidies at a lower or the same level from any school.
+
+## Article 10
+
+Restrictions regarding applying for educational assistance, living allowances and subsidies are as follows:
+
+1.Veterans who found employment with the help of VAC or are home-cared by VAC shall not qualify for educational assistance or living allowances.
+
+2.An applicant will be deemed as jobless if the application is submitted without proof of employment.
+
+3.No assistance, living allowances or subsidies will be granted to applicants who study in domestic or foreign open universities, open colleges, short-term trainings, correspondence classes, postdoctoral study, domestic summer classes, Taiwan branches of foreign schools, or schools in China.
+
+4.No subsidies will be offered for those applicants who have, for the same period of time, applied for preferential educational treatment or subsidies of the same nature provided by the government.
+
+5.No living allowances will be granted to applicants who have, for the same period of time, applied for other living aids or allowances provided by the government.
+
+6.No assistance, living allowances or subsidies will be granted to applicants who have applied for other forms of educational assistance provided by VAC.
+
+7.No assistance, living allowances or subsidies will be offered in repeat semesters.
+
+8.No assistance, living allowances or subsidies will be offered in the semesters of postponed graduation.
+
+9.No assistance, living allowances or subsidies will be offered if the applicant is found to have provided false data, a repeat application or used other improper application methods.
+
+10.If an applicant is studying in two or more schools at the same time, he/she may only choose one to apply for educational assistance, living allowances and subsidies.
+
+If any applicant falls under any one of the categories of the preceding paragraph, repeat subsidies, allowances or awards shall be returned within 30 days after written notification by VAC.
+
+## Article 11
+
+The Regulations shall become effective as of January 1st, 2021.
+
+## History
+
+1.Promulgated on August 5, 2003
+
+2.Amended on August 28, 2013
+
+3.Amended on November 28, 2014
+
+4.Amended on July 30 , 2018
+
+5.Amended on July 31 , 2019
+
+6.Amended on March 10, 2021

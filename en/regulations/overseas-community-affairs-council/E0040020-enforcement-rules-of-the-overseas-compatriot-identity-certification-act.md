@@ -1,0 +1,211 @@
+---
+title: "Enforcement Rules of the Overseas Compatriot Identity Certification Act"
+title_zh: "華僑身分證明條例施行細則"
+identifier: "E0040020"
+type: regulation
+law_level: "命令"
+category: "行政＞僑務委員會＞僑民權益目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-03-26
+last_amended: 2020-12-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=E0040020"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Overseas Compatriot Identity Certification Act
+
+> Translation. The Chinese text ([zh/regulations/overseas-community-affairs-council/E0040020-enforcement-rules-of-the-overseas-compatriot-identity-certification-act.md](../../../zh/regulations/overseas-community-affairs-council/E0040020-enforcement-rules-of-the-overseas-compatriot-identity-certification-act.md)) is authoritative.
+
+## Article 1
+
+The Enforcement Rules are issued pursuant to Article 16 of the Overseas Compatriot Identity Certification Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+“Overseas Compatriot Identity Endorsement” referred to in the Act means an Overseas Compatriot Identity Endorsement issued in respect of a passport pursuant to Article 10 of the Act and Article 16 of the Enforcement Rules of Passport Act.
+
+## Article 3
+
+“Residing overseas” referred to in the Act means residing in countries or regions other than the Taiwan, Mainland China, Hong Kong and Macau.
+
+## Article 4
+
+The permanent residency at the place of residence overseas may be recognized by the competent authority, as referred to in Item 1, Subparagraph 1, Paragraph 1, Article 4 of the Act, based on a valid passport issued by the place of residence overseas, a permanent residency visa, a nationality certificate, or other proof documentations recognized by the competent authority.
+
+The competent authority may refuse to recognize documents prescribed in the preceding paragraph if the applicant does not have permanent residency according to the laws of the place of residence overseas.
+
+## Article 5
+
+“Eligible for further extension of residency” referred to in Item 1, Subparagraph 2 and Subparagraph 3, Paragraph 1, Article 4 of the Act shall be determined in accordance with the laws and regulations of the place of residence overseas.
+
+## Article 6
+
+“Accumulating residence overseas for at least four years” as stipulated in Item 2, Subparagraph 1 and Item 2, Subparagraph 2, Paragraph 1, Article 4 of the Act means that the applicant’s overseas residence must total 1,460 days or more, including the days of exit and entry.
+
+“Accumulating residence overseas for at least eight months of each year in the past two years at the place of residence overseas” as stipulated in Item 3, Subparagraph 1 and Item 3, Subparagraph 2, Paragraph 1, Article 4 of the Act means that the applicant’s overseas residence must total 240 days or more each year in the past two years, including the days of entry into and exit from the place of overseas residence.
+
+For applicants who have resumed nationality of the Republic of China , TAIWAN (hereinafter referred to as the “ R.O.C. (TAIWAN)”), the calculations of the residence period abroad or in the place of residence overseas as stipulated in Article 4 of the Act are as follows:
+
+1.“Accumulating residence overseas for at least four years” as stipulated in Item 2, Subparagraph 1 and Item 2, Subparagraph 2, Paragraph 1, Article 4 of the Act does not include the period when the applicant has lost the R.O.C. (TAIWAN) nationality.
+
+2.“Continuously residing in the place of residence overseas for six months” as stipulated in Item 3, Subparagraph 1 and Item 3, Subparagraph 2, Paragraph 1, Article 4 of the Act is calculated from the date when the applicant has resumed the R.O.C. (TAIWAN) nationality; however, for those who had lived continuously in their place of residence overseas for six months before loss of the R.O.C. (TAIWAN) nationality, the period remains to be counted.
+
+3.“Accumulating residence overseas for at least eight months of each year in the past two years at the place of residence overseas” as stipulated in Item 3, Subparagraph 1 and Item 3, Subparagraph 2, Paragraph 1, Article 4 of the Act is calculated from the date the applicant resumes the R.O.C. (TAIWAN) nationality.
+
+## Article 7
+
+“Legally residing in the place of residence overseas for ten consecutive years and legally employed in the place of residence overseas for at least four years” referred to in Subparagraph 3, Paragraph 1, Article 4 of the Act, is recognized based on the applicant’s legal residence status for a continuous period of ten years in one or more countries or regions, and the applicant’s legal work residence status within the same place of residence overseas in the last four years.
+
+## Article 8
+
+The term “males who have not completed compulsory military service of conscription age or are close to conscription age,” as stipulated in Paragraph 3, Article 4 and Paragraph 1, Article 10 of the Act, refers to males who have had household registration in the R.O.C. (TAIWAN)” and are between January 1 of the year of age sixteen and December 31 of the year of age eighteen for those approaching conscription age, and between January 1 of the year of age nineteen and December 31 of the year of age thirty six for those of conscription age, who have not fulfilled or been exempted from their compulsory military service.
+
+## Article 9
+
+“Personal Identification Document” in Subparagraph 2, Paragraph 1, Article 5 of the Act refers to the R.O.C. (TAIWAN) National Identification (ID) card, Passport, Resident Certificate or other identity document with photograph from the R.O.C. (TAIWAN) or other countries that is sufficient to prove identity.
+
+## Article 10
+
+“Proof of the R.O.C. (TAIWAN) nationality” referred to in Subparagraph 5, Paragraph 1, Article 5 of the Act means any of the following documents:
+
+1.Household Registration Information;
+
+2.National ID Card;
+
+3.Passport;
+
+4.Nationality Certificate;
+
+5.Overseas Compatriot Registry Certificate;
+
+6.Overseas Compatriot Identity Certificate, but not including those issued by the competent authority based on the Certificate of Chinese Ethnicity;
+
+7.Certificate of one of the applicant’s parents holding the R.O.C. (TAIWAN) Nationality and the applicant’s birth certificate;
+
+8.Certificate of Naturalization;
+
+9.Other documents of proof recognized by the Ministry of the Interior (hereinafter referred to as the “MOI”).
+
+## Article 11
+
+The “Certificate of Chinese Ethnicity” referred to in the Act means an identification document indicating the applicant’s ethnicity as Chinese, or a certificate of Chinese ethnicity issued by the R.O.C. (TAIWAN) embassies, consulates, representative offices, offices, or other agencies authorized by the Ministry of Foreign Affairs (hereinafter referred to as the “Embassies and Missions abroad” ).
+
+## Article 12
+
+A person who is issued with an Overseas Compatriot Identity Certificate, and who wishes to reapply for such Certificate or apply for an Overseas Compatriot Identity Endorsement in respect of his/her passport is exempt from producing documents of proof stipulated in Subparagraphs 4 and 5, Paragraph 1, Article 5 of the Act.
+
+## Article 13
+
+Applications for an Overseas Compatriot Identity Endorsement within the R.O.C. (TAIWAN) pursuant to Paragraph 1, Article 10 of the Act shall be lodged to the competent authority if applied domestically; once the competent authority recognizes and issues a letter of approval, the application shall be proceeded to the Bureau of Consular Affairs (hereinafter referred to as the “BOCA”) of the Ministry of Foreign Affairs (hereinafter referred to as the “MOFA”) or its delegated authority. Applications filed abroad shall be lodged to the Embassies and Missions abroad.
+
+## Article 13-1
+
+“Proof of overseas residency in the place of residence overseas” referred to in Article 11 of the Act is limited to the same place of residence overseas of the preceding Overseas Compatriot Identity Endorsement.
+
+## Article 14
+
+Holders of valid passports affixed with an Overseas Compatriot Identity Endorsement may apply to cancel the said Endorsement by completing an application form stating full reasons, and lodging the said application with the BOCA of MOFA or its delegated authority or the Embassies and Missions abroad.
+
+## Article 15
+
+Holders of valid passports affixed with an Overseas Compatriot Identity Endorsement who wishes to apply for an Overseas Compatriot Identity Certificate is exempted from producing the documents of proof stipulated in Subparagraphs 2, 4, and 5, Paragraph 1, Article 5 of the Act.
+
+## Article 16
+
+The following information shall be stated on an Overseas Compatriot Identity Certificate:
+
+1.Certificate number;
+
+2.Name;
+
+3.Foreign name and alias;
+
+4.Date of birth;
+
+5.Issuing authority;
+
+6.Date of issuance;
+
+7.Validity period;
+
+8.Factual statement of applications made on the basis of Certificate of Chinese Ethnicity;
+
+9.Other matters designated by the competent authority.
+
+An Overseas Compatriot Identity Certificate issued for the purpose of conscription administration shall also specify the national ID number of the applicant.
+
+## Article 17
+
+The Chinese name and the foreign name on the Overseas Compatriot Identity Certificate should be limited to one each.
+
+The Chinese name referred to in the preceding paragraph shall not contain aliases, and shall be the same as the information stated on the applicant’s proof of the R.O.C. (TAIWAN) nationality or the Certificate of Chinese Ethnicity.
+
+The foreign name referred to in Paragraph 1 may include one foreign alias. The foreign name and alias shall be the same as the information stated on the applicant’s passport or residency document of the place of residence overseas, and shall be written in English, with surname first and given name after. Non-English names shall be translated into English.
+
+## Article 18
+
+Application for issuance of an Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement under this Act should be lodged in person by the applicant himself/herself or his/her statutory representative or a delegated agent. When the application is lodged by an agent, the agent shall present a proof of identity document and the power of attorney.
+
+For an Overseas Compatriot Identity Certificate issued for the purpose of non-conscription administration, the aforementioned power of attorney for the agent shall be proceeded as follows:
+
+1.If made overseas, it shall be authenticated by the Embassies and Missions abroad;
+
+2.If made in Mainland China, it shall be authenticated by the institutions established or designated, or by the private organization authorized by the Executive Yuan;
+
+3.If made in Hong Kong or Macao, it shall be authenticated by the institution established or designated, or by the private organizations authorized by the Executive Yuan in Hong Kong or Macao;
+
+4.If made in the R.O.C. (TAIWAN), it shall be notarized by a notary public.
+
+## Article 19
+
+Where the form or the documentary requirement of an application for Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement under the Act is not fully in conformity, the competent authority or relevant the Embassies and Missions abroad shall notify the applicant or his/her agent to remedy the non-conformity within three months of the day following the notice where such non-conformity is capable of being remedied. The application shall be rejected where the non-conformity cannot be remedied.
+
+## Article 20
+
+For the issuance of Overseas Compatriot Identity Certificate or Overseas Compatriot Identity Endorsement, the competent authority can access the computer systems of the MOI and MOFA to obtain the following information about the applicant:
+
+1.Nationality Change Information from the MOI;
+
+2.Household registration information from the MOI;
+
+3.Entry and exit information from National Immigration Agency, MOI;
+
+4.Passport information from the BOCA, MOFA.
+
+## Article 21
+
+Where the documents required to be submitted under the Act and these Enforcement Rules that are in a foreign language, except for those in English, a Mandarin translation must be attached.
+
+The documents and Mandarin translation as stipulated in the preceding paragraph must be proceeded as follows:
+
+1.If made overseas, it shall be authenticated by the Embassies and Missions abroad.
+
+2.If made in Mainland China, it shall be authenticated by the institution established or designated, or by the private organization authorized by the Executive Yuan.
+
+3.If made in Hong Kong or Macao, it shall be authenticated by the institution established or designated, or by the private organization authorized by the Executive Yuan in Hong Kong or Macao.
+
+4.If made in the R.O.C. (TAIWAN) by a foreign embassy or consulate or its authorized organizations, the documents in the preceding paragraph shall be authenticated by the MOFA; when the Mandarin translation is made within the R.O.C. (TAIWAN), it shall be notarized by a notary public.
+
+## Article 22
+
+Applicants of the Overseas Compatriot Identity Certificate shall pay the certification fee upon receiving the certificate.
+
+## Article 23
+
+The Enforcement Rules shall commence and enter into force on the date of promulgation.
+
+## History
+
+1.Promulgated by Order of OCAC No.Chiao-Cheng-Yi-092301146911 dated March 26, 2003.
+
+2.Amended by Order of OCAC No.Chiao-Cheng-Fu-09330340061 dated July 28,2004.
+
+3.The amended Articles 2,6,8,9,17,18,20,and 21 as well as Article 13-1 were promulgated by Order of OCAC Chiao-Zong-Cheng No.10507006511 on June 23,2016.
+
+4.The amended Article 10 was promulgated by Order of OCAC Chiao-Zong-Cheng No.10607012401on October 23, 2017.
+
+5.The amended Article 11 was promulgated by Order of OCAC Chiao-Zong-Cheng No.10907017681 on December 14,2020.

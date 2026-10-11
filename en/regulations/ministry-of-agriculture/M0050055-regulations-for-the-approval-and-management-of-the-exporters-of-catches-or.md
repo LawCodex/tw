@@ -1,0 +1,234 @@
+---
+title: "Regulations for the Approval and Management of the Exporters of Catches or Fisheries Products of Distant Water Fisheries"
+title_zh: "遠洋漁業漁獲物或漁產品出口業者核准及管理辦法"
+identifier: "M0050055"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2024-11-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050055"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Approval and Management of the Exporters of Catches or Fisheries Products of Distant Water Fisheries
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050055-regulations-for-the-approval-and-management-of-the-exporters-of-catches-or.md](../../../zh/regulations/ministry-of-agriculture/M0050055-regulations-for-the-approval-and-management-of-the-exporters-of-catches-or.md)) is authoritative.
+
+## Article 1
+
+These Regulations are hereby established pursuant to Article 25, paragraph 4 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”).
+
+## Article 2
+
+To export catches or fisheries products of distant water fisheries as listed in Appendix 1, the application form (format as shown in Appendix 2) shall be filled in and submitted together with the following documents to the competent authority for approval as an exporter of catches or fisheries products of distant water fisheries (hereinafter referred to as “exporter(s) of distant water fisheries products”):
+
+(1) A photocopy of the National Identity Card of the legal representative or the person in charge.
+
+(2) The basic registered information on the company, business or factory of the applicant downloaded from the website of the Administration of Commerce of the Ministry of Economic Affairs.
+
+(3) The basic registered importer/exporter information of the applicant downloaded from the website of the International Trade Administration of the Ministry of Economic Affairs.
+
+(4) Business Operation Prospectus (as shown in Appendix 3), which shall include the company's organizational chart, manpower deployment, items for purchases and sales, contractors for purchases and sales, risk management, etc.
+
+(5) Code of Conduct and standard operating procedures (SOP) for the purchase and sale of catches or fisheries products of distant water fisheries as listed in Appendix 1.
+
+The applicant as referred to in the preceding paragraph shall be limited to the importer/exporter registered with the International Trade Administration of the Ministry of Economic Affairs.
+
+In addition to meeting the requirements imposed by the corresponding trading country on the production and storage of the fisheries products imported as well as the sanitary requirements on processing premises, the Code of Conduct as referred to in subparagraph (5) of paragraph 1 shall include the requirements to be complied with by exporters of distant water fisheries products as stipulated in Article 7.
+
+The SOP as referred to in subparagraph (5) of paragraph 1 shall include procedures for purchase, transport, storage, processing, or sales and shall be sufficient to trace the flow of catches or fisheries products and the legitimacy of their sources.
+
+In case that the amount of the catches or fisheries products of distant water fisheries listed in Appendix 1 in one single exportation is less than 1,000 kilograms, the provisions on the application for the approval as an exporter of distant water fisheries products shall be waived.
+
+## Article 3
+
+For any application document that does not meet the requirement(s) prescribed in Article 2, the competent authority shall require the supplementation within a timeframe. Any application without supplementation within the required timeframe or with incomplete supplementation shall be denied.
+
+## Article 4
+
+The competent authority will issue a certificate of approved exporter of distant water fisheries products after the application as referred to in Article 2 has passed the documentary review. The certificate will record the following:
+
+(1) Name and Tax ID Number.
+
+(2) Operation address.
+
+(3) Name of the legal representative or the person in charge.
+
+(4) Certificate number and issuing date.
+
+(5) The issuing authority.
+
+## Article 5
+
+In case of any of the following circumstances, the application made in accordance with Article 2 shall be denied:
+
+(1) The applicant does not meet the requirement stipulated in Article 2, paragraph 2.
+
+(2) The Code of Conduct and SOP do not meet the requirements stipulated in Article 2, paragraphs 3 and 4.
+
+(3) Three years have not passed since the exportation eligibility has been revoked pursuant to Article 38, paragraph 3 of the Act.
+
+(4) Five years have not passed since the exportation eligibility has been revoked pursuant to Article 38, paragraph 5 of the Act.
+
+## Article 6
+
+In case that any entry, except for the Tax ID Number, recorded in a certificate of approved exporter of distant water fisheries products has changed, such exporter shall apply to the competent authority through post, facsimile, or the internet, with the enclosure of relevant proving document(s), within three months after the date of occurrence of such change.
+
+For the application as referred to in paragraph 1, provisions stipulated in Article 3 and 4 shall, mutatis mutandis, apply.
+
+## Article 7
+
+Any exporter of distant water fisheries products shall comply with the following provisions when purchasing or selling catches or fisheries products of distant water fisheries as listed in Appendix 1:
+
+(1) In case that the fish species of the catches or fisheries products is under the management of the international fisheries organization(s), such catches or fisheries products shall come from the fishing vessel(s) authorized by relevant international fisheries organization(s).
+
+(2) Catches or fisheries products shall not come from any fishing vessel listed on the illegal, unreported, and unregulated (IUU) fishing vessels list promulgated by the competent authority pursuant to Article 13, paragraph 2 of the Act.
+
+(3) Catches or fisheries products shall not be the catches or fisheries products under trade sanction from any country under trade sanction imposed by the international fisheries organization(s).
+
+(4) The supplying fishing vessel(s) of the Republic of China shall not violate provisions stipulated in Article 13, paragraph 1 of the Act.
+
+(5) The supplying fishing vessel(s) of foreign flag(s) shall not violate relevant laws or regulations of the flag State(s) or conservation and management measures.
+
+(6) The catches or fisheries products purchased, transported, stored, processed, or sold shall come from legitimate sources and be traceable.
+
+(7) Respective SOP in case of self-detecting or being notified by a client or the competent authority that catches or fisheries products have involved in IUU fishing shall be established. The SOPs shall include the manners to deal with circumstances such as receiving notifications, self-notifications, stopping or suspending transactions, or compensation.
+
+(8) A management unit or personnel in charge of supervising and ensuring the execution of the Code of Conduct and the SOP shall be established or assigned.
+
+(9) The purchase and sales information of each batch of catches or fisheries products, checklist(s), annual internal audit reports, and education/training records shall be archived for at least five years.
+
+## Article 8
+
+Any exporter of distant water fisheries products shall declare through the internet and in accordance with the items as prescribed in Appendix 4, the information on the purchased, sold, and stored catches or fisheries products as listed in Appendix 1 during the preceding three months within 15 days after the end of each quarter. In case of failing to submit the declaration as required, the competent authority will inform the concerned exporter to declare within the required timeframe and any one that fails to do so shall be punished in accordance with Article 38, paragraphs 2 to 4 of the Act for Distant Water Fisheries.
+
+In the event that a catch certificate has been applied for the catches or fisheries products as referred to in the preceding paragraph in accordance with the Regulations for Issuing Distant Water Fisheries Catch Certificates, the write-off shall be conducted in accordance with such Regulations.
+
+## Article 9
+
+For the execution and management of the Code of Conduct and SOP, any exporter of distant water fisheries products whose employees are 30 persons or above shall establish a management unit, and any exporter with less than 30 persons of employees shall assign personnel in charge.
+
+The management unit or the assigned personnel as referred to in the preceding paragraph shall receive, at least for two hours in every year, education/training courses organized by the competent authority on combating IUU fishing.
+
+## Article 10
+
+Any exporter of distant water fisheries products shall comply with its own Code of Conduct and SOP in case of purchasing or selling catches or fisheries products as listed in Appendix 1, and shall conduct internal audit at least once a year.
+
+## Article 11
+
+Any exporter of distant water fisheries products shall cooperate with the competent authority in the event of auditing the Code of Conduct and SOP for the purchase or sales of catches or fisheries products, and shall not evade, obstruct or deny.
+
+Items and criteria for the audit as referred to in the preceding paragraph are shown in Appendix 5.
+
+## Article 12
+
+Pursuant to the criteria listed in Appendix 6, the competent authority shall, based on the information declared during the preceding year, categorize exporters of distant water fisheries products into high, medium, and low risk level. Unless otherwise provided in these Regulations, audits shall be conducted pursuant to the following provisions:
+
+(1) For the exportation amount over 10,000 metric tons during the preceding year, an audit shall be conducted every year.
+
+(2) For the exportation amount over 1,000 metric tons and of 10,000 metric tons or less during the preceding year, an audit shall be conducted every five years.
+
+(3) For the exportation amount of 1,000 metric tons or less during the preceding year, random audit shall be conducted at the ratio of 5% every year, and priority shall be given to those categorized as high or medium level.
+
+For any exporter of distant water fisheries products that has not exported any catch or fisheries product as listed in Appendix 1 in the preceding year, the competent may not audit such exporter in accordance with the provision stipulated in the preceding paragraph.
+
+In the event that any exporter of distant water fisheries products is reported to be involved in or support the transaction of IUU fishing activities, or any anomaly appears in relevant catch certificates applied by any exporter of distant water fisheries products, or the points of risk increase, the competent authority may conduct the audit at any time.
+
+## Article 13
+
+Before auditing, the competent authority may require any exporter of distant water fisheries products to provide, within the required timeframe, relevant information such as the management for traceability of the catches or fisheries products it purchases or sells.
+
+The competent authority shall, after reviewing the information as referred to in the preceding paragraph, draw up the audit plan and notify the exporter of distant water fisheries products to cooperate with the audit.
+
+## Article 14
+
+In the event of field audit, the competent authority may require exporters of distant water fisheries products to provide the following documents and/or information:
+
+(1) Information on contractor(s) for purchases and sales.
+
+(2) Purchase and sales contracts, and documents proving the transaction and exportation.
+
+(3) Other documents and/or information designated by the competent authority.
+
+Auditor(s) shall keep confidential the contents of the documents and information as referred to in the preceding paragraph.
+
+## Article 15
+
+Ratings after the audit are categorized as the following:
+
+(1) A plus: No defect was found.
+
+(2) A: minor defects are five items or less, or one major defect.
+
+(3) B: minor defects are six items or above but less than 12, or major defects are two items or above but less than four.
+
+(4) C: minor defects are 12 items or above, or major defects are four items or above.
+
+In terms of calculating the number of defects as referred to in the preceding paragraph, three minor defects are equivalent to one major defect.
+
+For any exporter of distant water fisheries products that is rated “A plus” and has been categorized as law risk level in the recent three consecutive years, it may be exempted from the audit for five years starting from the date of the completion of the most recent audit.
+
+## Article 16
+
+For any exporter of distant water fisheries products that is rated “B”, it shall submit the improvement report within 30 days starting from the next day that the audit report is served.
+
+In the event that any exporter of distant water fisheries products is unable to submit the improvement report by the deadline prescribed in the preceding paragraph, it may apply to the competent authority for the extension before the deadline. The application of extension shall be limited to once and the extension shall be limited to only 30 days.
+
+For any exporter of distant water fisheries products failing to submit the improvement report and complete the improvements in accordance with the preceding two paragraphs, the competent authority may continue to require such exporter to improve within a timeframe till the completion of the improvements.
+
+Improvements shall only be deemed completed when the improvement report submitted by the concerned exported of distant water fisheries is rated “A” or above by the competent authority.
+
+## Article 17
+
+In case of any of the following circumstances, the competent authority shall revoke the exportation eligibility of any exporter of distant water fisheries products:
+
+(1) The exporter of distant water fisheries products is rated “B” and has not completed the improvements within the required deadline for three times.
+
+(2) The exporter of distant water fisheries products is rated “C”.
+
+(3) The International Trade Administration of the Ministry of Economic Affairs revokes the importer/exporter registration.
+
+(4) The exportation of the catches or fisheries products as listed in Appendix 1 has been ceased for six months or above.
+
+(5) The company or business registration has been withdrawn, revoked, or cancelled; or the company or the business has been dissolved or terminated.
+
+Any exporter of distant water fisheries products that ceases exporting the catches or fisheries products as listed in Appendix 1 may take the initiative to apply to the competent authority for the revocation of is exportation eligibility and return the original copy of its certificate.
+
+## Article 18
+
+In case that the exportation eligibility of an exporter of distant water fisheries products has been revoked by the competent authority pursuant to subparagraph (1) or (2) of Article 17, paragraph 1, such exporter shall only re-apply for the approval as an exporter of distant water fisheries products after it improves the defects and is rated as “A” or above by the competent authority.
+
+Any exporter whose eligibility has been revoked due to the circumstances stipulated in subparagraph (4) of Article 17, paragraph 1 may re-apply for the approval as an exporter of distant water fisheries products after the disappearance of such circumstances.
+
+## Article 19
+
+The competent authority may commission other institution(s) to conduct audits and education/training courses of the exporters of distant water fisheries products.
+
+## Article 20
+
+These Regulations shall become effective upon promulgation.
+
+## Attachments
+
+- [Appendix 1  Types of catches or fisheries products that can be exported by the exporters of distant water fisheries products.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008848)
+- [Appendix 2  Application Form for Exporters of Distant Water Fisheries Products.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008849)
+- [Appendix 3  Business Operation Prospectus.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008850)
+- [Appendix 4  Items to Be Declared for the Catches or Fisheries Products of Distant Water Fisheries Purchased, Sold, and Stocked.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008851)
+- [Appendix 5  Audit Items and Criteria.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008852)
+- [Appendix 6 Risk Criteria.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008853)
+
+## History
+
+1.The full text of 18 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061332070.
+
+2.The full text of 20 articles amended and promulgated on 7 August 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1071336070.
+
+3.Article 17 amended and promulgated on 17 May 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1081334468.
+
+4.Article 2, 8, 9, and 17 as well as Appendix 5 and 6 amended and promulgated on 12 November 2024 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1131536223.

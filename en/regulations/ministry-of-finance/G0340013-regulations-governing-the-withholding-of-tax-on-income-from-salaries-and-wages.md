@@ -1,0 +1,115 @@
+---
+title: "Regulations Governing the Withholding of Tax on Income from Salaries and Wages"
+title_zh: "薪資所得扣繳辦法"
+identifier: "G0340013"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1972-12-30
+last_amended: 2024-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340013"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Withholding of Tax on Income from Salaries and Wages
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340013-regulations-governing-the-withholding-of-tax-on-income-from-salaries-and-wages.md](../../../zh/regulations/ministry-of-finance/G0340013-regulations-governing-the-withholding-of-tax-on-income-from-salaries-and-wages.md)) is authoritative.
+
+## Article 1
+
+The regulations are established in accordance with Paragraph 4, Article 88 of the Income Tax Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+When salaries and wages subject to income tax in accordance with applicable laws are paid by an organization, non-departmental public body, institution, school, enterprise, administrator of bankruptcy estates, practitioner of a profession, or trustee of a trust deed, and the recipient is an individual residing in the Republic of China, tax shall be withheld in accordance with the regulations except for the case that Item 2 of Subparagraph 1 of Paragraph 1 of Article 2 of Standards of Withholding Rates for Various Incomes applies where a certain rate of the total monthly payment shall be withheld.
+
+## Article 3
+
+As to salaries paid monthly, the recipients who select to subject the total monthly payment to withholding in accordance with Article 5 shall submit Tax Exemption Declarations to tax withholders which clearly states the name, birthdate, and National Identification Card number of the spouse and dependents who are entitled to deductible exemptions in accordance with Subparagraph 1 of Paragraph 1 of Article 17 of the Act.
+
+A Recipient of salaries referred to in the preceding paragraph shall notify the tax withholders of the relevant change of information by submitting Declarations specified in the preceding paragraph within 10 days from the date of occurrence of the following situations:
+
+\1. His/Her marriage, divorce, or the death of his/her spouse.
+
+\2. Increase or decrease in the number of his/her dependents.
+
+## Article 4
+
+Tax withholders who receive the Tax Exemption Declarations submitted by the recipients of salaries referred to in the preceding article shall separately compile the Declarations and update the change of information when receiving such notification.
+
+## Article 5
+
+As to salaries paid monthly whose recipient submits Tax Exemption Declarations in accordance with Paragraph 1, Article 3, tax withholders shall withhold tax at the time of payment each month based on the tax payable listed on the Withholding Tax Table for Income from Salaries and Wages by referring to whether the recipient of salaries and wages has a spouse and the number of his/her dependents.
+
+For the recipient of salaries who comes into the situations prescribed in Paragraph 2, Article 3, in which he/she gets married or whose number of dependents increases, tax withholders shall withhold tax based on the relevant change of information starting from the month of occurrence; for one who gets divorced, suffers from the death of his/her spouse, or whose number of dependents decreases, tax withholders shall withhold tax based on the change of information starting from January 1 of the following year.
+
+## Article 6
+
+As to salaries paid monthly whose recipient fails to submit Tax Exemption Declarations in accordance with Paragraph 1, Article 3, 5% of the total monthly payment shall be withheld in accordance with Item 2 of Subparagraph 1 of Paragraph 1 of Article 2 of Standards of Withholding Rates for Various Incomes.
+
+As to wages for part-time jobs and salaries not paid monthly, tax withholders shall withhold 5% of the total payment.
+
+## Article 7
+
+Salaries paid monthly where the withholding tax payable does not exceed NT$2,000 shall be exempted from withholding.
+
+Wages for part-time jobs and salaries not paid monthly shall be exempted from being withheld provided they comply with any one of the following conditions:
+
+\1. The amount paid by tax withholders each time does not reach the minimum amount of income subject to tax withholding for the taxpayer with neither spouse nor dependents prescribed in the Withholding Tax Table for Income from Salaries and Wages.
+
+\2. Wages for porters in docks and stations, temporary workers in the construction industry, etc. are calculated and paid on a daily basis.
+
+For salaries and wages referred to in the preceding two paragraphs, tax withholders shall submit the non-withholding tax statements to the competent tax authority in accordance with Paragraph 3, Article 89 of the Act. However, if the annual payment to a taxpayer does not exceed NT$1,000, the requirement is exempted.
+
+## Article 8
+
+The relevant forms mentioned in these Regulations shall be formulated by the Ministry of Finance.
+
+## Article 9
+
+These Regulations shall come into force on January 1, 2025.
+
+## History
+
+\1. Promulgated by Decree No. 12377 by the Executive Yuan on December 30, 1972.
+
+\2. Amended and promulgated by Decree No. 10591 by the Executive Yuan on December 31, 1973.
+
+\3. Amended and promulgated by Decree No. 9600 by the Executive Yuan on December 30, 1974.
+
+\4. Amended and promulgated by Decree No. 9757 by the Executive Yuan on December 30, 1975.
+
+\5. Amended and promulgated by Decree No. 11110 by the Executive Yuan on December 30, 1976.
+
+\6. Amended and promulgated by Decree No. 0735 by the Executive Yuan on January 30, 1977.
+
+\7. Amended and promulgated by Decree No. 10760 by the Executive Yuan on December 30, 1977.
+
+\8. Amended and promulgated by Decree No. 0579 by the Executive Yuan on January 19, 1979.
+
+\9. Amended and promulgated by Decree No. 12971 by the Executive Yuan on December 24, 1979.
+
+\10. Amended and promulgated by Decree No. 15161 by the Executive Yuan on December 31, 1980.
+
+\11. Amended and promulgated by Decree No. 4243 by the Executive Yuan on April 3, 1981.
+
+\12. Amended and promulgated by Decree No. 1583 by the Executive Yuan on January 25, 1983.
+
+\13. Article 8 was amended and promulgated by Decree No. 8000 by the Executive Yuan on March 31, 1989.
+
+\14. Amended and promulgated by Decree No. 11222 by the Executive Yuan on April 15, 1991.
+
+\15. Article 8 was amended and promulgated by Decree No. 09401 by the Executive Yuan on March 14, 1994.
+
+\16. Article 8 was amended and promulgated by Decree No. 14683 by the Executive Yuan on April 8, 1998.
+
+\17. Amendments to Article 5 and Article 8 and deletion of Article 6 were promulgated by Decree No. 09704510980 by the Ministry of Finance on March 5, 2008.
+
+\18. Article 5, Article 8 and Article 10 were amended and promulgated by Decree No. 09900528810 by the Ministry of Finance on December 22, 2010; Article 5 and Article 8 came into force on January 1, 2011.
+
+\19. Amended and promulgated by Decree No. 11304674510 by the Ministry of Finance on December 31, 2024.

@@ -1,0 +1,199 @@
+---
+title: "Regulations Governing Forcible Deportation for Nationals without Household Registration in the Taiwan Area"
+title_zh: "臺灣地區無戶籍國民強制出國處理辦法"
+identifier: "D0080137"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-05-10
+last_amended: 2024-02-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080137"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Forcible Deportation for Nationals without Household Registration in the Taiwan Area
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080137-regulations-governing-forcible-deportation-for-nationals-without-household.md](../../../zh/regulations/ministry-of-the-interior/D0080137-regulations-governing-forcible-deportation-for-nationals-without-household.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed in accordance with Paragraph 5 of Article 15 of the Immigration Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Upon finding the nationals without household registration in Taiwan Area (hereinafter referred to as the nationals without household registration) shall be deported forcibly by laws, the National Immigration Agency (hereinafter referred to as the Agency) shall photograph, collect and verify the relevant information concerning such nationals, and conduct an investigatory report. If such nationals without household registration are found not involved in criminal cases, or even if they are involved in criminal cases and thus are transferred to the judicial authority for investigation, they are not detained, apprehended, taken into custody, or restricted from exiting the State, the Agency shall proceed to the measures in compliance with the Act.
+
+When other authorities find the nationals without household registration shall be deported forcibly by laws, the authorities shall verify their identities, and conduct an investigatory report. If such nationals without household registration are found not involved in criminal cases, or even if they are involved in criminal cases and thus are transferred to the judicial authority for investigation, they are not detained, apprehended, taken into custody, or restricted from exiting the State, the authorities shall transfer such nationals and relevant case files  to the Agency.
+
+In cases which the nationals without household registration transferred to the Agency by other authorities in compliance with the preceding paragraph are involved in the criminal cases which are currently under judicial processing, the authorities shall notify the Agency immediately.
+
+Once knowing the nationals without household registration who are sanctioned to be deported forcibly are involved in criminal cases which are currently under judicial processing, the Agency shall notify the judicial authorities ten (10) days prior to the actual forcible deportation.
+
+For the nationals without household registration whose detention decision is continued, extended or re-extended, and are decided to be deported forcibly, the Agency shall notify the court of first instance immediately.
+
+## Article 3
+
+Before deporting the nationals without household registration forcibly from the State in accordance with regulations, the Agency shall inform the nationals without household registration that they may engage attorneys and an interpreters to  attend on site during the claim submission procedure or the review committee meeting when notifying them of the opportunity to submit claims or  the convening of a review committee meeting.
+
+The number of attorneys engaged based on the preceding paragraph shall not exceed three.
+
+The attorneys who are engaged (hereinafter referred to as the engaged attorney) and the interpreter shall  submit  the Power of Attorney to the Agency upon their initial presence.
+
+The Power of Attorney prescribed in the preceding paragraph shall record the following matters:
+
+1.The name, contact number and address of the principal.
+
+2.The names, contact numbers and addresses of attorneys and interpreters.
+
+3.The reason for the appointment.
+
+4.The date, month and year of the appointment.
+
+When the engaged attorney and interpreter present, the Agency may verify their identity.
+
+The revocation of appointment shall take effect upon notifying the Agency in writing.
+
+The waiting period for the engaged attorney and interpreter shall not exceed four hours respectively since the Agency notify them; if the engaged attorney and interpreter  fail to present within four hours, the Agency may proceed with relevant procedures.
+
+Procedures or reviews that have already been carried out will not be affected by the termination or dismissing of the engaged attorney or interpreter during the claim submission procedure or review committee meeting.
+
+## Article 4
+
+The engaged attorney may be on site to accompany the nationals without household registration, take notes about interrogation, and provide legal advice in a timely manner during the claim submission procedure or review committee meeting.
+
+When the Agency believes that there are significant omissions in the nationals without household registration’s claim b, the engaged attorney may supplement the content upon the consent of the nationals without household registration.
+
+Engaged attorneys and interpreters shall not engage in the following conduct:
+
+1.Recording video or audio, or live streaming.
+
+2.Taking photographs of interrogation records.
+
+## Article 5
+
+When an engaged attorney engages in the conduct that could affect the on-site order or the proceedings and persists despite being prohibited, the Agency may restrict his or her behavior or speech.
+
+When any of the following applies to an engaged attorney, the Agency may prohibit their attending:
+
+1.Has been strongly suspected, on the basis of sufficient factual evidence, to endanger national security orjeopardize state secrets.
+
+2.Has  intentionally deceived, forged or altered evidence, solicited the   nationals without household registration to submit false claims, or had any other act that intentionally hinder the truth discovery.
+
+\3. Has violated paragraph 3 of the preceding article or the preceding paragraph of this article and the circumstances are considered serious.
+
+## Article 6
+
+A review committee meeting shall be held prior to forcibly deporting a national without household registration who has acquired a permit of residence or registered permanent residence, and the forcible deportation shall be suspended until the final decision is made by the committee. However, such nationals could directly be deported forcibly without being reviewed by the committee if they meet one of the conditions prescribed in the proviso of paragraph 4 of Article 36 of the Act.
+
+The review prescribed in the preceding paragraph shall consider relevant rights and interests such as the right to family reunification and the best interests of minor children.
+
+## Article 7
+
+The Agency shall make the deportation decision in the language which the nationals without household registration understand with following items written on the deportation decision:
+
+1.The name, gender, nationality, date of birth, ID number and residence or domicile in Taiwan of the subject of forcible deportation.
+
+2.The facts.
+
+3.The basis and reasons for forcible deportation.
+
+4.The method, time frame and competent authority for the appeal.
+
+The above mentioned decision shall be sent to the subjects being forcibly deported. The embassy, consulate or authorized organizations in Taiwan relevant to their foreign nationality, or their relatives or friends, or the attorneys designated by them, shall also be notified of the decision no later than twenty four (24) hours after the decision has been made. However, this does not apply to the nationals without household registration who  do not have other foreign nationality or relatives or friends in Taiwan.
+
+## Article 8
+
+Nationals without household registration who are deported forcibly by laws meeting one of the following conditions can be deported by the Agency directly:
+
+1.Entering the State without permission.
+
+2.Entering the State with permission but overstaying his/her visit or period of residence.
+
+3.Overstaying the deadline of mandatory exit.
+
+Nationals without household registration prescribed in Subparagraph 2 of the preceding paragraph may not be subject to the above paragraph regarding direct forcible deportation should they exit the State voluntarily within a specific time frame after being fined and completing the formalities of departure.
+
+## Article 9
+
+Before being forcibly deported, nationals without household registration with one of the following circumstances may have their deportation suspended; The Agency shall enforce the deportation after the disappearance of the following circumstances:
+
+1.Being pregnant for more than five (5) months; have given birth or have a miscarriage for less than two (2) months.
+
+2.Suffering from a disease that is possibly life-threatening while undergoing forcible deportation.
+
+3.Suffering from a contagious disease regulated by law and has not been cured and is possible to affect others while undergoing forcible deportation.
+
+4.Those who are under age of eighteen(18), senile or disabled and cannot travel independently, and no assistance are offered to them.
+
+5.Those who are prohibited from exiting the State with notification from the judicial, tax, or competent authorities on the basis of law.
+
+6.Other facts necessitating the postponing of forcible deportation.
+
+To suspend the forcible deportation, the above mentioned nationals without household registration shall have an affidavit co-drafted with nationals with household registration in Taiwan, charities or people approved by the Agency; for those who hold foreign nationality   simultaneously, shall request assistance from the embassy, consulate or other authorized organization relevant to their foreign nationality.
+
+Except for those under the age of eighteen(18), people who may have the forcible deportation suspended in case of circumstances prescribed in subparagraphs 1 to 4 of paragraph 1 of this Article, shall submit the diagnosis certificate issued by the hospital with accreditation validated from Central Competent Health Authority. For those with conditions listed in subparagraph 6 of paragraph 1 of this Article shall submit the certification approved by the Agency.
+
+## Article 10
+
+The nationals without household registration and their personal belongings shall be inspected while the Agency is enforcing the forcible deportation, and Agency personnel shall escort such nationals to the airport or seaport in order to monitor the deportation. The certificates and travel documents of such nationals shall be handed over to the captain or authorized officers. The Agency could send personnel to repatriate the nationals without household registration to the designated country when such nationals are concerned to resist or escape in the process.
+
+The body inspection of nationals without household registration subject to forcible deportation shall be implemented by appropriate personnel with respect to for the gender thereof.
+
+The destination of the forcible deportation mentioned in paragraph 1 shall be the country or region where a national without household registration acquired his or her foreign nationality. When sending to the original country or region cannot be made, the subject can request to be deported to one of the following countries or regions:
+
+1.The country or region in which the subject holds valid certificates or travel documents, and intends to stay.
+
+2.The country or region where the subject possesses valid certificates, travel documents, or residence permits before entering the State.
+
+3.Any other countries or regions that accept the entrance of the subject.
+
+## Article 11
+
+The nationals without household registration, who shall be deported forcibly  and are sanctioned with alternatives to detention by the regulation, could be exempted from being escorted or monitored upon their departure in compliance with Paragraph 1 of the preceding Article  if they fulfill the following requirements during the period of alternatives to detention:
+
+1.Report regularly on one’s activities of daily living at designated Specialized Operation Corps of the Agency.
+
+2.Do not leave the designated place of the restricted residence without notice for over 24 hours.
+
+3.Accept inspections from the Agency at the designated places.
+
+4.Are not inaccessible for three (3) times of consecutive contacts made by the Agency within twenty four (24) hours.
+
+5.Apply for relevant travel documents.
+
+6.Not engage in unpermitted activities or employment.
+
+For those prescribed in the preceding paragraph, who do not comply with part or all of the subparagraphs of the preceding paragraph during the period of alternative sanctions to detention, could still be exempted from being escorted or monitored upon their departure in accordance with paragraph 1 of the preceding article if such non-compliance is deemed justified by the Agency.
+
+The two preceding paragraphs shall not apply to those who have violated other laws or regulations, been prohibited from exiting the State, or have other facts that consider whose exiting shall be escorted and monitored.
+
+## Article 12
+
+Nationals without household registration are held fully responsible for the cost of the airplane or ship tickets derived from the forcible deportation. For those who are unable to afford transportation cost without a doubt, the costs will be disbursed from the planned budget by the Agency.
+
+## Article 13
+
+The Ministry of the Interior determines the effective date of these Regulations.
+
+## History
+
+1.The enacted Regulations with all 8 articles were promulgated by the Ministry of the Interior (89) tai-nei-yi-zi No. 8981293 on May 10, 2000: The Regulations were set to be effective since the date of promulgation.
+
+2.The amendment of all 8 articles was announced by the Ministry of the Interior tai-nei-yi-zi No. 0970922460 on July 8, 2008: The effective date of the Regulations were set by the Ministry of the Interior.
+
+The Regulations were announced by the Ministry of the Interior tai-nei-yi-zi No. 0971035715 on August 1, 2008 and were set to be effective on the date of promulgation.
+
+3.The enacted Regulations with all 9 articles were amended and announced by the Ministry of the Interior tai-nei-yi-zi No. 1010904514 on June 19, 2012; and were set to be effective since the date of promulgation.
+
+The competent authority listed in paragraph 1, 2 and 3 of Article 2, paragraph 1 and 2 of Article 5, paragraph 1, 2 and 3 of Article 6, and paragraph 1 of Article 7, and Article 8 are renamed as National Immigration Agency of the Ministry of the Interior, and the amendment was announced by the Executive Yuan Order yuan-tai-gui-zi No.1030158355 and was set to be effective on December 26, 2014.
+
+4.The amended Regulations with all 10 articles were promulgated by the Ministry of the Interior tai-nei-yi-zi No.1050960994 on March 3, 2016, The Regulations were set to be effective since the date of promulgation.
+
+5.The amended Regulation with all 13 articles were promulgated by the Ministry of the Interior tai-nei-yi-zi No.11309325451 on February 27, 2024. The Regulation was set to be effective on March 1, 2024.
+
+The amended Article 11 and corrigendum were promulgated by the Ministry of the Interior nei-so-yi-zi No.1130932876 on March 25, 2024.

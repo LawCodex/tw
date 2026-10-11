@@ -1,0 +1,312 @@
+---
+title: "Regulations Governing the Approval and Management of Using Self-prepared Seals by Relevant Stakeholders"
+title_zh: "業者使用自備封條許可及管理辦法"
+identifier: "G0350073"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-01-06
+last_amended: 2024-05-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350073"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Approval and Management of Using Self-prepared Seals by Relevant Stakeholders
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350073-regulations-governing-the-approval-and-management-of-using-self-prepared-seals.md](../../../zh/regulations/ministry-of-finance/G0350073-regulations-governing-the-approval-and-management-of-using-self-prepared-seals.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Paragraph 4 of Article 28-1 of the Customs Act (here in after referred to as “the Act”).
+
+## Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. Mechanical seal refers to a seal which can be affixed to sea containers, means of bonded transportation or means of transportation approved by Customs without any radio frequency electronic element embedded in the main body. Mechanical seals based on its type may be classified as follows:
+
+(1) High-security mechanical freight container seal: referring to a seal complying with the regulations of high-security seals set by the National Standards of Republic of China (CNS) 17712 and being limited to bolt seal and cable seal illustrated in CNS 17712 standards.
+
+(2) General mechanical seal: referring to mechanical seals other than those defined in the preceding item.
+
+\2. Electronic seal refers to a seal to be affixed to sea containers, sea transiting containers entering or exiting inland container terminals, bonded transports or means of transportation approved by Customs, with an embedded chip encrypted with a unique identification code not allowed to be rewritten and can be recognized by radio frequency readers. Electronic seals on the basis of type may be classified as follows:
+
+(1) Passive electronic seal: referring to an electronic seal without embedded active emitter for wireless communication and no signal is emitted actively.
+
+(2) Active electronic seal: referring to any type of electronic seal other than those mentioned in the preceding item.
+
+## Article 3
+
+Sea carriers which meet the requirements of Article 4 and sea freight forwarders which meet the requirements of Article 5 may apply with Customs for the usage of self-prepared seals including high-security mechanical freight container seals, passive electronic seals, or active electronic seals on sea shipping containers loaded by them.
+
+Air cargo terminal operators located outside the control zones may apply with Customs to use self-prepared general mechanical seals, passive electronic seals or active electronic seals to be tapped on private bonded transport registered under Article 25 of the Customs Act if they meet the requirements of Article 6.
+
+Enterprises in logistics centers which meet the requirements of Article 7 may apply with Customs to use self-prepared mechanical seals, passive electronic seals on sea cargos, sealable trucks or sea containers from logistics centers bound for bonded areas, export warehouses or places of shipment supervised by the Customs at the export port, by means of bonded transportation or means of transportation approved by Customs. However, petty cargoes to be transported may be affixed with paper seals or lead seals approved by the competent field Customs authorities on a case by case basis.
+
+Inland container terminals which meet the requirements of Article 8 may apply with Customs to use self-prepared passive electronic seals on sea transiting containers entering or exiting that Terminal.
+
+The serial numbers and the names or marks of the firm shall be printed clearly on the main body of the self-prepared seals mentioned in the preceding 4 paragraphs and the characters and patterns of the printing should be legible and easy to identify.
+
+The self-prepared seals used by individual firm under Paragraph 1 shall not exceed six models at a time. The self-prepared seals used by individual firm under Paragraphs 2, 3, and 4 shall not exceed two models at a time.
+
+## Article 4
+
+Sea carriers which meet all of the following requirements may apply with Customs to use self-prepared seals:
+
+\1. Having been established for more than one year.
+
+\2. Computer systems and associated interface equipment being installed at firms and container yards used to store their sea shipping containers to process and transmit electronic data pursuant to Regulations Governing the Management of Import/Export Clearance for Transportation Means, Regulations Governing the Customs Management of Container Yard, and related acts and regulations.
+
+\3. Adopting the following control measures over seals and sea containers:
+
+(1) The prohibition of duplication shall be stated in the contract of the acquirement of seals.
+
+(2) The prohibition of disclosure and duplication of the Comparison Table of serial numbers and unique identification code (including electronic information) shall be stated in the contract of the acquirement of electronic seals.
+
+(3) The administration and usage of sea shipping containers and seals shall be managed by computerized information systems which are made available for Customs to inspect, print cargo movements, and conduct online verification at any time.
+
+\4. Firms (including the captains of the vessels owned or operated by these firms) must be free of any of the following circumstances during the preceding year:
+
+(1) Where cargos are confiscated under Article 31 of the Customs Anti-smuggling Act or fines are imposed under pursuant to Paragraphs 1 and 3 of Article 36 of the said Act, with value in single amount or total amount exceeding TWD 500,000.
+
+(2) Where confirmed arrears of duties or fines are owed, except an appropriate guarantee is provided.
+
+\5. Having no record of suspension for seven days or more during the preceding one year if the firms also operate import/export cargo declaration.
+
+\6. No uncertified seals have been discovered used by Customs during the preceding one year.
+
+## Article 5
+
+Sea freight forwarders which meet all the following conditions and requirements prescribed respectively in Subparagraphs 1, 3, 5, and 6 of Article 4 may apply with Customs to use self-prepared seals:
+
+\1. Being certified by Customs as a Security and Safety Authorized Economic Operator (AEOS).
+
+\2. Computer systems and associated interface equipment being installed at firms and container yards used to store their sea containers to process and transmit electronic data pursuant to Regulations Governing the Customs Management of Freight Forwarder, Regulations Governing the Customs Management of Container Yard, and related acts and regulations.
+
+\3. None of the following circumstances occurred during the preceding year:
+
+(1) Where cargo is confiscated under Article 31-1 of the Customs Anti-smuggling Act or fines are imposed pursuant to Paragraphs 1 and 3 of Article 36 of the said Act with value in single amount or total amount exceeding TWD 500,000.
+
+(2) Where confirmed arrears of duties, or fines are owed, except an appropriate guarantee is provided.
+
+## Article 6
+
+Air cargo terminal operators located the control zones may apply with Customs to use self-prepared seals if they meet all of the following requirements:
+
+\1. Being approved by Customs for autonomous management.
+
+\2. Having registered with private bonded transports under the provisions of The Regulations Governing the Customs Administration of Bonded Cargo Transportation Means.
+
+\3. Adopting a complete control system over seals and private means of bonded transportation:
+
+(1) The prohibition of duplication shall be stated in the contract of the acquirement of seals.
+
+(2) The prohibition of disclosure and duplication of the Comparison Table of serial numbers and unique identification code (including electronic information) shall be stated in the contract of the acquirement of electronic seals.
+
+(3) The administration and usage of private means of bonded transportation and seals shall be managed by computerized information systems which are made available for Customs to inspect, print cargo movements, and conduct online verification at any time.
+
+The self-prepared seals prescribed in the preceding paragraph can be used only for the transportation of air cargos into and out of the same Airport Control Zone, under the supervision of the Customs in charge of that zone.
+
+## Article 7
+
+Enterprises in logistics centers approved by Customs for autonomous management may apply to use self-prepared seals if a clause prohibiting duplication is stated in the contract of the acquirement of seals.
+
+## Article 8
+
+Inland container terminals having registered with Customs may apply to use self-prepared seals if a clause prohibiting duplication is stated in the contract of the acquirement of seals.
+
+## Article 9
+
+Firms applying for the usage of other self-prepared seals than general mechanical seal shall first apply with Customs Administration, Ministry of Finance (hereinafter referred as “Customs Administration”) for certification via document review and then apply with the competent field Customs at the place of import/export for eligibility verification.
+
+Firms applying with Customs Administration for certification via document review under the preceding paragraph shall submit an application form for the usage of self-prepared high-security mechanical freight container seals or electronic seals and an affidavit of confidentiality as well as complementary documents and materials listed in the application form. The application form and affidavit shall be stamped with the corporate seal and the seal of the responsible person of the firm.
+
+Institutions, laboratories, or research centers to certify and test self-prepared seals and required complementary items and documents as well as the operational regulations are prescribed in the appended Table 1.
+
+Customs Administration holds the rights of modifying or ending the contents of certification and testing conducted by agencies, laboratories, or research centers prescribed in the appended Table 1.
+
+Where the self-prepared seals are certified by Customs Administration through document review, the competent field Customs should be notified with a certain amount of enclosed samples of seals.
+
+Firms applying with the competent field Customs for eligibility verification pursuant to Paragraph 1 shall fill in an application form for eligibility verification of the usage of self-prepared high-security mechanical freight container seals or electronic seals and an affidavit of confidentiality with complementary documents and materials listed in the application form. Where the application is made by an agent, the proxy agreement between the firm and the agent must be attached. Sea freight forwarders or logistic centers shall provide the list of the owners of the containers entrusted or stored by them.
+
+Customs shall notify firms for necessary supplement and corrections within a certain period of time if the documents or materials provided are not complete during the application for the usage of self-prepared seals. If the firm fails to supplement or correct within the given date, the application shall be rejected.
+
+## Article 10
+
+Firms applying to use self-prepared general mechanical seals shall submit to the competent field Customs an application form for certification of the usage of self-prepared general mechanical seals and an affidavit of confidentiality with both stamps of the corporate and the responsible person of the firm as well as the documents and materials listed in the application form. The firm shall use the self-prepared seals only after receiving approval from Customs.
+
+The listed categories and the criteria for certification of self-prepared general mechanical seals are prescribed in the appended Table 2.
+
+## Article 11
+
+Firms applying to use self-prepared high-security mechanical freight container seals pursuant to Article 9 shall ensure the self-prepared seals comply with the standards prescribed in Item 1 of Subparagraph 1, Article 2.
+
+## Article 12
+
+Firms applying to use self-prepared passive electronic seals pursuant to Article 9 shall ensure the self-prepared seals comply with the standards prescribed in Item 1 of Subparagraph 1 and Item 1 of Subparagraph 2, Article 2.
+
+Air cargo terminal operators located outside the control zones pursuant to Article 6, enterprises in logistics centers pursuant to Article 7, inland container terminals pursuant to Article 8 applying to use self-prepared passive electronic seals, shall ensure the self-prepared seals comply with the qualifications prescribed in the preceding paragraph. Where the said self-prepared seals are not exclusive for sea containers, Customs may exempt the operator from submitting the certificate of compliance test report with CNS 17712 standards for high-security seal.
+
+The self-prepared passive electronic seals described in the preceding two paragraphs shall be compatible with Customs IoT real-time monitoring system.
+
+The criteria for certification of self-prepared passive electronic seals are prescribed in the appended Table 3.
+
+## Article 13
+
+Firms applying to use self-prepared active electronic seals pursuant to Article 9 shall ensure the self-prepared seals comply with the standards prescribed in Item 2, Subparagraph 2 of Article 2.
+
+The self-prepared active electronic seals described in the preceding paragraph shall be compatible with Customs IoT real-time monitoring system.
+
+The criteria for certification of self-prepared active electronic seals are prescribed in the appended Table 4.
+
+## Article 14
+
+Firms which apply to use self-prepared seals and are required to submit a certificate of compliance with CNS 17712 standards for high-security seals pursuant to Article 9 may substitute it with the certificate of compliance with ISO 17712 standards (edition released in 2010 or afterwards) for high-security seal issued by agencies, laboratories, or research centers which are compliant with the ISO/IEC 17025 standards certified by International Organization for Standardization.
+
+Where the self-prepared seals applied for certification under the preceding paragraph are bolt seals, the samples shall be certified by the institutions, laboratories, or research centers listed in the appended Table 1 that the shaft of a pin and the base of a bush are not able to be spun or twisted over 360°in opposite direction without using tools once the pin has been inserted into the bush. If the bolt seal is forcibly spun or twisted by tools and leads to different spinning status, evidence or marks of the malicious tampering shall be kept for visual inspection.
+
+## Article 15
+
+Firms approved by Customs to use self-prepared electronic seals through document review shall submit the list of Comparison Tables of serial numbers and unique identification code (including electronic information) in batches and make an affidavit of non-disclosure and non-duplication to both Customs Administration and the competent field Customs.
+
+## Article 16
+
+Firms approved to use self-prepared seals by Customs shall re-apply every two years before the deadline. If the requirements for approval are unchanged, firms may reapply with the competent field Customs through additions and corrections by submitting filled application form of the usage of self-prepared seals with stamps of the company and the responsible person as well as complementary documents listed in the application form.
+
+The field Customs shall confirm that the firm applying for additions and corrections under the preceding paragraph meets the requirements prescribed in Articles 4 to 8.
+
+## Article 17
+
+Where self-prepared seals are used on sea containers, the sea carriers, sea freight forwarders and enterprises in logistics centers, inland container terminals shall comply with the following regulations:
+
+\1. Self-prepared seals should be affixed to the sea containers in the manner and position designated by Customs.
+
+\2. Firms who affix self-prepared seals to exporting or transiting sea containers domestically, shall pair the seals and containers and make a list of export containers being affixed with seals by themselves.
+
+\3. Sea carriers shall designate personnel to check whether the serial numbers of containers and seals are consistent with those stated in the container notes when exporting or transiting sea containers are affixed with self-prepared seals.
+
+\4. Where the self-prepared seals affixed to exporting or transiting sea containers are damaged or not sealed firmly or inconsistent with the serial numbers stated in the container notes, the carriers shall apply with Customs to affix self-prepared seals or Customs seal under the supervision of Customs officers.
+
+The sea carriers, sea freight forwarders where self-prepared seals are used on sea containers, shall comply with the following regulations:
+
+\1. Where the self-prepared seals contain serial numbers approved by Customs or are affixed to the imported or transited containers overseas, the seal numbers shall be stated in the import cargo manifests. If the self-prepared seal affixed overseas is under any of the following circumstances, firms shall apply with Customs to re-affix with self-prepared seals or Customs seals under Customs’ supervision:
+
+(1) The self-prepared seal is damaged or is not affixed firmly.
+
+(2) The serial numbers of the self-prepared seals are inconsistent with those stated in the cargo manifests.
+
+(3) The imported container number and serial numbers of the self-prepared seal are inconsistent with those being reported to Customs.
+
+\2. Sea carriers shall designate personnel to inspect the seals of the imported or transited containers being unloaded and Customs shall be notified if the self-prepared seals are found compromised.
+
+\3. Where self-prepared seals are affixed to the imported or transited sea containers domestically, sea carriers shall pair the seals and the containers matched and make the list of imported containers which have been affixed with self-prepared seals. The sea carriers shall also designate personnel to check the consistency of container numbers and seal numbers alongside the ship or seal the containers in the station when containers are unloaded.
+
+Whenever considered necessary, Customs may randomly inspect the self-prepared seals or replace or reaffix them with customs seals on sea containers which have been approved to use self-prepared seals.
+
+## Article 18
+
+Air cargo terminal operators or enterprises in logistics centers shall comply with the following regulations while affixing self-prepared seals to sea cargos, sea shipping containers, sealable trucks,  means of bonded transportation, or means of transportation approved by Customs.
+
+\1. Prior to, sea cargos, sealable trucks or sea containers carrying untaxed or bonded imported goods, means of bonded transportation or means of transportation approved by Customs cleared exporting goods are transporting from control zones or bonded areas to discharging places named in the manifests, customs declaration forms, or customs permits, relevant firms shall designate personnel to be in charge of affixing seals, making container (cargo) notes for those which have been affixed with seals, and executing other related matters.
+
+\2. Firms shall designate personnel to be in charge of inspecting contents stated in relevant container (cargo) notes and executing other related matters once sea cargo, sealable trucks, sea containers, means of bonded transportation, or means of transportation approved by Customs affixed with self-prepared seals arrive discharging places named in the cargo manifests, customs declaration, or customs permits.
+
+\3. Air cargo terminal operators or enterprises in logistics centers shall report to Customs if self-prepared seals are damaged or not affixed firmly or inconsistent with those stated in the container notes.
+
+Whenever considered necessary, Customs may randomly inspect self-prepared seals or replace or reaffix them with customs seals on cargos, sealable trucks and sea containers, means of bonded transportation, or means of transportation approved by Customs which have been approved to use self-prepared seals.
+
+## Article 19
+
+Under any of the following circumstances, Customs may, based on the severity of the violation, impose a less than one-year suspension of the usage of self-prepared seals on sea carriers approved by Customs to use self-prepared seals pursuant to Article 87-1 of Customs Act :
+
+\1. The self-prepared seals being used are not certified and no prior application for sealing under supervision is filed.
+
+\2. The carrier fails to manage its operation by computerized information system without any justifiable reasons and violates Subparagraph 3 of Article 4.
+
+\3. The carrier violates the regulations of Article 15.
+
+\4. Sea carriers fail to apply with Customs to supervise sealing under the conditions prescribed in Subparagraph 4 of Paragraph 1 or in Subparagraph 1 of Paragraph 2, Article 17.
+
+\5. Sea carrier and operators running the container yards to store their sea containers fail to make declaration through electronic data exchange or fail to transmit, register, and monitor the movements of discharging, boarding, departing, entering, and storing containers via electronic information transmission for more than four days or four voyages without justifiable reasons.
+
+Under any of the following circumstances, Customs may repeal the approval for sea carriers to use self-prepared seals pursuant to Article 87-1 of Customs Act:
+
+\1. Where the regulations prescribed in Item 1 or 2 of Subparagraph 3, Article 4 or Subparagraph 4 of the same Article are violated.
+
+\2. Where forged or altered self-prepared seals are used.
+
+\3. Where self-prepared seals or seals with serial numbers approved by Customs are used while information about manifests are not submitted to Customs.
+
+\4. Where firms concurrently provide import/export Customs declaration services are suspended from practicing declarations for more than seven days.
+
+\5. Where firms are suspended from using self-prepared seals and the accumulated amount of suspended time reaches 12 months within 2 years of time.
+
+\6. Where sea carriers or operators running the container yards to store their sea containers terminate internet connection from its network to the through-Customs value-added network.
+
+Where sea freight forwarders or enterprises in logistics centers, inland container terminals violate the regulations prescribed in the preceding two paragraphs or Paragraphs 1 and 2 of Article 17, Customs may impose a less than one-year suspension on their usage of self-prepared seals or repeal the approval pursuant to Article 87-1 of the Act.
+
+Where a sea freight forwarder loses its AEOS qualification, Customs may repeal the approval on their usage of self-prepared seals pursuant to Article 87-1 of the Act.
+
+Where firms fail to reapply for approval or additions and corrections before the deadline under Article 16, Customs may repeal approval for the usage of that certain model of self-prepared seals pursuant to Article 87-1 of the Act.
+
+## Article 20
+
+Under any of the following circumstances, Customs may, based on the severity of the violation, impose a less than one-month suspension of the usage of self-prepared seals on air cargo terminal operators or enterprises in logistics centers pursuant to Article 87-1 of the Act:
+
+\1. The regulations prescribed in Paragraph 1 of Article 18 are violated.
+
+\2. Where the self-prepared seals are inadequately managed but the inadequacy is obviously minor.
+
+Where firms referred to in the preceding paragraph are involved in any of the following circumstances, Customs may, based on the severity of the violation, suspend them from using self-prepared seals pursuant to Article 87-1 of the Act:
+
+\1. The self-prepared seals being used are not certified and no prior application for sealing under supervision is filed.
+
+\2. Firms fail to manage its operation by computerized information system without any justifiable reasons and violate Item 3, Subparagraph 3, Paragraph 3 of Article 6.
+
+\3. Firms fail to declare to Customs by submitting electronic data for more than four days without any justifiable reasons.
+
+\4. Firms end the transmission, submission, or monitoring real-time information on the movements of goods entering or exiting air cargo terminals via electronic data interchange more than four days without any justifiable reasons.
+
+Where firms referred to in Paragraph 1 are involved in any of the following circumstances, Customs may repeal the approval for their usage of self-prepared seals pursuant to Article 87-1 of the Act:
+
+\1. The self-prepared seals being used are not certified and no prior application for sealing under supervision is filed.
+
+\2. A suspension of goods storage for more than seven days is being imposed by Customs pursuant to The Regulations Governing the Customs Management of Import and Export Warehouses or The Regulations Governing Customs Clearance for Goods in Logistics Centers.
+
+\3. A suspension of boarding cargoes for more than seven days is being imposed by Customs pursuant to The Regulations Governing the Customs Administration of Bonded Cargo Transportation Means.
+
+\4. An accumulated of 12-month suspension on the usage of self-prepared seals within the preceding two years.
+
+\5. The internet connection to the through-Customs value-added network is terminated.
+
+\6. The regulations of Item 1 or 2 of Subparagraph 3, or Paragraph 1 of Article 6 are violated.
+
+Where firms fail to re-apply for additions and corrections before the given deadline pursuant to Article 16, Customs may repeal the approval for their usage of that certain model of self-prepared seals pursuant to Article 87-1 of the Act.
+
+## Article 21
+
+The format of application forms and affidavit prescribed in Paragraphs 2 and 6 of Article 9, Paragraph 1 of Article 10, and Paragraph 1 of Article 16 shall be published by Customs Administration.
+
+## Article 22
+
+These Regulations shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Table 1：List of Institutions, Laboratories, or Research Centers Commissioned to Certify and Test Self-prepared Seals and Operational Regulations.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008573)
+- [Table 2：Criteria for the Performance of General Mechanical Seals.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008569)
+- [Table 3：Criteria for the Performance of Passive Electronic Seals.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008570)
+- [Table 4：Criteriaforthe Performance of Active Electronic Seals.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008571)
+
+## History
+
+1.Promulgated on January 06, 2015
+
+2.Amended on June 14, 2017
+
+3.Amended on May 14, 2024

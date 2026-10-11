@@ -1,0 +1,363 @@
+---
+title: "Regulations for Administrating Vessel Carriers"
+title_zh: "船舶運送業管理規則"
+identifier: "K0070032"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1962-05-25
+last_amended: 2025-06-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070032"
+retrieved: 2026-10-12
+---
+
+# Regulations for Administrating Vessel Carriers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0070032-regulations-for-administrating-vessel-carriers.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0070032-regulations-for-administrating-vessel-carriers.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+The present Regulations are prescribed pursuant to Article 27 and Article 33 of the Shipping Law (hereinafter referred to as the “Law”).
+
+## Chapter 2 Vessel Carriers
+
+### Section 1 Permit and Registration
+
+#### Article 2
+
+Any person desiring to engage in business as a vessel carrier shall make an application, with enclosure of the following documents, to the shipping administration for submission to the competent authority for approval to establish the company:
+
+\1. Application Form (see Attachment 1);
+
+\2. Photocopies of Name List and personal ID of all shareholders or initiators;
+
+\3. Operation plan elaborating operation plans, vessel's construction or purchase specifications, capital financing, and fund raising plan; and
+
+\4. Memorandum of Articles of Company.
+
+#### Article 3
+
+Any newly established vessel carrier who intends to modify the originally approved operation plan during the granted establishment period, shall forward a statement of reasons, along with the amended operation plan, to the shipping administration for submission to the competent authority for approval.
+
+#### Article 4
+
+Any newly established vessel carrier shall have a paid-up capital of no less than the sum set forth hereunder:
+
+\1. For new buildings, the paid-up capital shall be the sum that is sufficient to pay for 10% of total construction cost for the new vessels.
+
+\2. For existing vessels, the paid-up capital shall be the sum that is sufficient to pay for 20% of total purchase cost for the existing vessels.
+
+#### Article 5
+
+Any vessel carrier granted for establishment of company, shall complete the Registration of Company by law, acquire its own vessels registered in the Republic of China and make an application, with the enclosure of the following documents to the shipping administration for document review and submission to the competent authority for the issuing of a Vessel Carrier Permit within six months after an approval for establishment of company is received:
+
+\1. Application Form (see Attachment 3);
+
+\2. Documents in proof of company registration;
+
+\3. Articles of Company;
+
+\4. Name list of initiators, directors, supervisors, or managers (see Attachment 2);
+
+\5. List of Vessels (see Attachment 4);
+
+\6. Company flag and logo.
+
+Any carrier failing to apply for the permit within the specified period granted for establishment of company shall be liable to the revocation of permission to establish the company. Nonetheless, such time limit may be extended upon request, provided that the extension is sustained by due reasons and a request is made within 30 days before the period expires; however, it shall not exceed six months and each company is limited to two extensions.
+
+#### Article 6
+
+Any newly established vessel carrier who has completed procedures for taking delivery of the vessel it owns, received a Provisional Certificate of Ship's Nationality, and made an application for the Vessel Carrier Permit pursuant to Article 5 hereinbefore may apply to local shipping administration for issuing a Provisional Vessel Carrier Certificate.
+
+The Provisional Vessel Carrier Permit aforesaid shall be effective for a period identical to that for the Provisional Certificate of Ship's Nationality, and shall be void and null upon exchange of the official Vessel Carrier Permit.
+
+#### Article 7
+
+Any vessel carrier desiring to alter the organization and name of its company shall make an application to the shipping administration for document review and submission to the competent authority for approval. The vessel carrier may then apply for reissuing the Vessel Carrier Permit within 30 days after completing the registration of such alteration by law, with the Application for Permit Replacement (Attachment 3), Application for Change of Registration (Attachment 5), and Referenced List of Changes (Attachment 6), to the shipping authority for document review and submission to the competent authority for reissuance of the vessel carrier permit.
+
+If any other registered particulars on the vessel carrier permit are amended, the vessel carrier shall complete an application form (see Attachment 3) and submit it to the shipping administration for forwarding to the competent authority to reissue the vessel carrier permit.
+
+If the vessel carrier permit is damaged or lost, the vessel carrier shall complete an application form (see Attachment 3) and submit it to the shipping administration for forwarding to the competent authority to issue a replacement vessel carrier permit.
+
+Any vessel carrier that alters its address, capital, statutory representative, board members, supervisors, and managers shall forward an Application for Change of Registration (Attachment 5) and a Referenced List of Changes (Attachment 6) to the shipping administration for filing within 30 days after the registration of alteration is made.
+
+The above provisions shall apply mutatis mutandis to the establishment of a branch office, changes to its address, and changes to managers.
+
+Any vessel carrier that changes its company flag or logo shall forward relevant documents to the shipping administration for filing and submission to the competent authority.
+
+### Section 2 Construction, Purchase and Sale of Vessel
+
+#### Article 8
+
+Any vessel carrier who builds new vessels shall produce, before building, an application for ship-building (see Attachment 7), a construction and operation plan, vessel specifications (including drawings of vessel layout), finances and repaying plan and other documents associated with ship-building and forward the above documents to the shipping administration for submission to the competent authority.
+
+#### Article 9
+
+Any vessel carrier applying for purchasing existing vessels abroad shall forward an application (see Attachment 7), along with an operation plan, purchase agreement, vessel specifications (including drawings of vessel layout), Certificate of Ship's Nationality, finances and repaying plan to the shipping administration for submission to the competent authority for approval.
+
+#### Article 10
+
+Any vessel carrier who intends to sell its vessel owned by the company, shall forward an application (see Attachment 7) to the shipping administration for filing. In case the vessels are to be sold overseas, the vessel carrier shall forward a statement of reasons to the shipping administration for submission to the competent authority.
+
+#### Article 11
+
+The buyer of the vessel traded between vessel carriers shall submit an operation plan, copies the contract thereof, and relevant certificates of the vessel, to the shipping administration for filing.
+
+### Section 3 Operation of Service
+
+#### Article 12
+
+Any vessel carrier who intends to engage in operation of liner service, shall, prior to the commencement of operation, forward an application (see Attachment 8), along with an operation plan, certificates of the vessels’ nationalities and a shipping schedule, to the shipping administration for registration of the operation routes.
+
+If any information registered in the above-stated procedure is new added, altered, terminated or found omitted or erroneous, the vessel carrier shall forward another application (see Attachment 8), along with a Referenced List of Changes (see Attachment 9) to the shipping administration for registration of the changes.
+
+#### Article 12-1
+
+Vessel carriers that operate passengers or cargoes transportation for offshore wind farms shall submit their transportation plans and entrusted contracts to the shipping administration for filing before executing the transportation, and the same process applies in the event of any changes. For those who have justified reasons for failing to submit for filing in time, they shall file with the shipping administration within three days from the execution of the transportation.
+
+The transportation plan referred to in the preceding paragraph shall state the following items:
+
+1.Water area where offshore wind farm is implemented.
+
+2.Period of the plan.
+
+3.Passenger and cargo transportation plan.
+
+4.List of vessels to be used.
+
+5.Main ports of entry and exit operations.
+
+6.Other documents deemed necessary to submit by the shipping administration.
+
+#### Article 13
+
+Any vessel carrier who terminate service or closes operation of transportation, shall forward an application (see Attachment 5), along with a shareholder agreement or shareholder meeting minutes, and the originally issued certificate to the shipping administration for submission to the competent authority for termination and revocation of its permit within 30 days after the last day of business. In the event that any of such issued certificates is unavailable for the procedure of permit termination owing to missing or loss, the applicant shall forward a statement elaborating the cause(s) of such event.
+
+#### Article 14
+
+Any vessel carrier rendering services by the vessels under leasing or chartering or entrustment for the purpose of meeting the need of passenger or cargo transportation shall forward an application (see Attachment 10) to the shipping administration.
+
+A vessel carrier chartering out its vessels on the bareboat basis shall forward an application (see Attachment 10), along with a statement of reasons to the shipping administration for review and submission to the competent authority for filing.
+
+#### Article 15
+
+Any vessel carrier who operates jointly with other carriers shall submit the contract or the evidencing documents subscribed by the parties concerned and the copy of Certificate of Ship's Nationality for registration. The carrier may only be permitted to solicit cargo and issue bills of lading in which the name of the relative vessel is shown after the registration is made.
+
+#### Article 16
+
+Any vessel carrier issuing passenger tickets is required to state the information regarding the owner of the vessel or carrier operator, name of vessel, port of departure, port of arrival, class, number of cabin/seat, ticket price, ticket number, scheduled departure time and time of issuance on the passenger tickets.
+
+Designated passenger tickets shall bear the names of the passengers and the name and official capacity of the issuer. Non-designated tickets shall bear the information of the expiration date.
+
+#### Article 17
+
+(Deleted)
+
+#### Article 17-1
+
+A vessel carrier that engages in vessel carriage business to carry passengers shall not allow a passenger to board a vessel unless he or she holds a valid passenger ticket. A passenger falling within those enumerated below may, nevertheless, be exempted from holding a passenger ticket:
+
+I. A child less than one year old, accompanying a passenger who boards a vessel of international route.
+
+II. A child less than three years old, accompanying a passenger who boards a vessel of domestic route.
+
+III. A passenger who holds a group carriage contract.
+
+IV. Passengers of other categories as approved by the Shipping Administration.
+
+#### Article 17-2
+
+A vessel carrier that engages in vessel carriage business to carry passengers shall provide exclusive cabin seats/berths and charge a half-rate of an adult ticket for children up to one year old in full and less than twelve years old in full in international routes and for children up to three years old in full and less than twelve years old in full in domestic routes.
+
+A vessel carrier that engages in vessel carriage business to carry passengers shall offer complimentary carriage service to a child less than one year old in full in an international route, and to a child less than three years old in full in a domestic route if he or she is accompanied by an adult passenger to board the vessel. In case of a request for a cabin cabin seat/berth for such a child, the vessel carrier may charge half the adult ticket rate.
+
+#### Article 17-3
+
+A vessel carrier that engages in vessel carriage business to carry passengers shall adopt appropriate barrier-free measures and facilities to assure to be accessible to physical challenges passengers. In the event that even if such appropriate barrier-free measures and facilities have been duly provided, a specific passenger still runs the risk against his or her health or against voyage safety, the vessel carrier may restrict access to such specific passenger.
+
+To assure voyage and passenger safety, no passenger is permitted to carry or place weapons or dangerous goods inside his or her luggage. The vessel carrier may reject an offender from embarking the vessel. In the event that a passenger who must carry weapons in performance of duties under an extraordinary task, nevertheless, such passenger shall take the initiative to present a supporting certificate issued by his or her unit and shall take the initiative to request inspection over the weapon.
+
+#### Article 17-4
+
+Concerning restriction on animals from being carried on board, the vessel carriers may propose restrictive rules and submit to the Shipping Administration for filing and future reference.
+
+#### Article 17-5
+
+A passenger may carry on his or her luggage either in person or request the vessel carrier to carry on board; however, under no circumstances shall a passenger carry a contraband either in person or through checked luggage.
+
+For number of pieces, weights, restriction on volume, criteria for complimentary carriage, rate for extra weight or volume of luggage carried by passengers either in person or through checked luggage, the vessel carriers shall propose the rules and criteria and submit to the Shipping Administration for filing and future reference.
+
+A passenger shall present his or her passenger ticket for luggage in checked carrier. The luggage shall be carried through the same vessel of passengers.
+
+### Section 4 Filing Freight and Passenger Tariffs
+
+#### Article 18
+
+Any vessel carrier engaging in cargo and passenger liner services shall file its freight and passenger tariffs with the shipping administration.
+
+The tariffs mentioned herein before shall include various additional surcharges, methods of calculation, terms and conditions, and rules and regulations of transportation. The tariffs of the vessel carrier who joins a freight conference or consortium may be filed collectively by the conference or consortium, or its representing organization in ROC territory.
+
+#### Article 19
+
+Any revision made to the tariffs for liner services, which have been filed by a vessel carrier, shall be filed (see Attachment 11) with the shipping administration. The revisions shall be effective subject to the requirements as follows:
+
+\1. For an increase of rate or the case that the freight amount will be increased due to the increase or decrease of tariff items, the revision shall be effective from the thirtieth day after filing and inspection. However, the addition of surcharges by reason of proper grounds and approved by the competent authority may be effective within thirty days.
+
+\2. For a decrease of rate or the case that the freight amount will remain unchanged or be decreased due to the increase or decrease of tariff items, the revision shall be effective from the day of filing and inspection.
+
+## Chapter 3 Foreign Vessel Carriers
+
+#### Article 20
+
+Any foreign vessel carrier who desires to establish a branch shall forward an application to the shipping administration for document review and submission to the competent authority for approval, along with the following information and documents:
+
+\1. Application Form (see Attachment 1);
+
+\2. The plan of operation in ROC territory; location of branch office;
+
+\3. List of Vessels (see Attachment 4) and photocopy of Certificate of Ship's Nationality;
+
+\4. The name, type and nationality of the parent company, registered operations of the company, total paid-up capital, location of the company and articles of the company;
+
+\5. The amount of the fund required for operation in ROC territory;
+
+\6. A photocopy of document permitting the vessel carrier to operate in the territory of R.O.C. and the date on which the operation commences;
+
+\7. The names, nationalities and addresses of broad members and statutory representative;
+
+\8. The name, nationality and address of and the Letter of Authorization to the agent who is appointed in ROC territory for lawsuits and non-litigation cases; and
+
+\9. Business records of the past three years and the status of business in ROC.
+
+Documents indicated in the Paragraph 1, subparagraph 4 to 8 of this article shall be certified by an ROC embassy or representative office. A Chinese translation copy shall be attached if the documents are written in a foreign language other than English.
+
+#### Article 21
+
+The branch of a foreign vessel carrier shall keep in ROC territory operating funds of no less than twelve million N.T. dollars
+
+#### Article 22
+
+After receiving permission to establish a branch, the foreign vessel carrier shall complete the registration of branch company within six months after the period for establishment of the company is granted, by forwarding the following documents to the shipping administration for preliminary review and submission to the competent authority for issuing a Foreign Vessel Carrier Permit:
+
+\1. Application Form (see Attachment 3);
+
+\2. Form for Registering Company Information;
+
+\3. Photocopy of Branch License and Business License; and
+
+\4. Name list of initiators, directors, supervisors, or managers (see Attachment 2).
+
+Failure to apply for the permit within the period granted for establishment of company shall cause the permission of establishment to be revoked.
+
+#### Article 23
+
+The employees engaged by a foreign vessel carrier shall be ROC nationals; however, the competent authority may approve its application for the employment of foreigners as the business may require.
+
+#### Article 24
+
+Any vessel carrier engaging in the carriage of cargo out of and into ROC territory shall file the tariffs in accordance with Articles 18 and 19; so shall the carrier file upon revision of such tariffs.
+
+The above-stated Table of Tariff shall be filed by the branch office if the vessel carrier has established a branch company in the territory of R.O.C.
+
+A company without a branch office in the territory of R.O.C. shall engage a representative in the territory of R.O.C. to carry out the required procedures on behalf of the company.
+
+#### Article 25
+
+The provisions prescribed in Article 7 and Article 12 to 19 of shall be also applicable to the branches of foreign vessel carriers.
+
+#### Article 26
+
+Unless otherwise approved by the competent authority, any foreign vessel carrier shall not appoint any representative in ROC territory to superintend the business operated by the agent of such foreign vessel carriers.
+
+## Chapter 4 Supplementary Provisions
+
+#### Article 27
+
+All vessel carriers shall be subject to the fees required hereunder upon issuance of the permit:
+
+\1. Thirty-six thousand N.T. dollars for the permit covering international transportation;
+
+\2. Eighteen thousand N.T. dollars for the permit covering domestic transportation; and
+
+\3. Eighteen thousand N.T. dollars for a permit that alters coverage from domestic transportation to international transportation.
+
+Any foreign vessel carrier applying for a permit shall make a payment of four one-thousandths of the total operating capital stated in the permit application upon issuance of the permit.
+
+If any other registered particulars on the vessel carrier permit are amended, or if the permit is damaged or lost, the applicant shall make a payment of two thousand and one hundred N.T. dollars to the competent authority for the replacement or reissuance of a new permit.
+
+#### Article 28
+
+For affairs relating to vessel carriers’applications for a permit to establish a company or cancelation of such permit, issuing a permit, replacing and revocation of a permit, changing the company registration, building and sale of vessels, business operation, management, permit fee collection, enforcement of penalties and management of foreign vessel carriers, the competent authority may assign the shipping administration to execute the administrative processes under the Law and the Regulations.
+
+#### Article 29
+
+These Regulations shall come into force on the day of announcement.
+
+## Attachments
+
+- [Attachment 1 Application for Establishment of Vessel Carrier Company.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009312)
+- [Attachment 2 Initiators Directors and Supervisors Managers.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009313)
+- [Attachment 3 Application for Vessel Carrier Permit Issuance Replacement.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009314)
+- [Attachment 4 List of Vessels.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009315)
+- [Attachment 5 Application for Changes of Vessel Carrier Registration.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009316)
+- [Attachment 6 Referenced List of Changes to Vessel Carrier Company Registration.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009317)
+- [Attachment 7 Application for □Building □Purchase □Sale Registration of Vessel.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009318)
+- [Attachment 8 Application of Vessel Carrier Registering □New Addition □Alteration □Termination of Operation of Liner Service.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009319)
+- [Attachment 9 Referenced List of Changes to the Registration of Liner Service Vessel Carrier Operation.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009320)
+- [Attachment 10 Application for □Bareboat □Chartered □Commissioned Vessel Carrier Operations.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009321)
+- [Attachment 11 Application for Change of Vessel Carrier Service Tariff Rates.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009322)
+
+## History
+
+\1. Promulgated on May 25, 1962.
+
+\2. Amendment to Article 8,26 promulgated on March 28, 1972.
+
+\3. Amendment to related articles promulgated on October 8, 1973.
+
+\4. Amendment to related articles promulgated on May 24, 1977.
+
+\5. Amendment to name of the regulations and whole articles promulgated on June 23, 1982.
+
+\6. Amendment to Article 8 promulgated on December 30, 1983.
+
+\7. Amendment to Article 7,27, and augment to Article 42-1 promulgated on June 1, 1984.
+
+\8. Amendment to Article 19 promulgated on June 15, 1988.
+
+\9. Amendment to Article 27 promulgated on May 15, 1989.
+
+\10. Amendment to Article 35 promulgated on September 3, 1990.
+
+\11. Amendment to Article 27,30 promulgated on August 20, 1994.
+
+\12. Amendment to Article 35 promulgated on January 17, 1995.
+
+\13. Amendment to Article 47 promulgated on July 17, 1996.
+
+\14. Amendment to Article 1,3,4,5,6,7,14,30,32,37,45, and cancellation to Article 46 promulgated on August 12, 2002.
+
+\15. Amendment to Article 30 promulgated on July 10, 2003.
+
+\16. Amendment to attachment 8 of Article 12 promulgated on September 7, 2005.
+
+\17. Augment to Article 46-1 promulgated on May 3, 2006.
+
+\18. Amendment to attachment 8 of Article 12 promulgated on April 20, 2009.
+
+\19. Amendment, by administrative order of Navigation MOTC Doc. No. 10350009891, to the title and full content of 29 clauses promulgated on January 29, 2014. (Amended from the original title of the Regulations for Administrating Vessel Carriers and Vessel Chartering Operators).
+
+\20. Amendment to attachment 3 of Article 5, attachment 5 of Article 7, attachment 10 of Article 12, and Articles 17-1, 17-2, 17-3, 17-4, 17-5, deletion of Article 17, promulgated on February 26, 2016.
+
+\21. Amendment to Article 9, attachment 10 and 11 of Article 12, attachment 12 of Article 14, attachment 13 of Article 19 and attachment 8, deletion of attachment 9,promulgated on December 24, 2019.
+
+\22. Amendment to Article 12-1 promulgated on January 17, 2022.
+
+\23. Amendment to Article 5, 7, 8, 9, 10, 12, 14, 16, 19, 20, 22, 27, and attachment 1 of Article 2, attachment 5 of Article 13, promulgated on June 24, 2025.

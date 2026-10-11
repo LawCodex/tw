@@ -1,0 +1,189 @@
+---
+title: "Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for Jewelry Businesses"
+title_zh: "銀樓業防制洗錢與打擊資恐辦法"
+identifier: "J0080049"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞商業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-01-27
+last_amended: 2025-04-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080049"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for Jewelry Businesses
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0080049-regulations-governing-anti-money-laundering-and-countering-the-financing-of.md](../../../zh/regulations/ministry-of-economic-affairs/J0080049-regulations-governing-anti-money-laundering-and-countering-the-financing-of.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to paragraph 3 of Article 7, the preceding section of paragraph 4 of Article 8, paragraph 3 of Article 10, paragraph 3 of Article 12, paragraph 3 of Article 13 of the Money Laundering Control Act and paragraph 5 of Article 7 of the Counter-Terrorism Financing Act.
+
+## Article 2
+
+For the purposes of these Regulations, a “jewelry business” means a sole proprietor, partnership or a company that wholesales or retails precious metals, precious stones or jewelry in the course of its business activities.
+
+## Article 3
+
+Jewelry businesses should establish internal control and audit systems based on their ML/TF risks and business scale.
+
+## Article 4
+
+Jewelry businesses shall undertake customer due diligence (CDD) measures in any of the following situations:
+
+1.Carrying out a cash transaction greater or equal to NTD 500,000 (or its equivalent in foreign currencies) amount; or
+
+2.There is a suspicion of money laundering or terrorist financing; or
+
+3.Jewelry businesses have doubts about the veracity or adequacy of previously obtained customer identification data.
+
+Jewelry businesses shall use reliable, independent source documents for CDD measures, and take the following approach:
+
+1.Jewelry businesses shall examine the customer’s national identification card, national health insurance card, passport, or other similar official identification documents to identify the customer's identity, and shall retain copies of the customer's identity documents or record the relevant information thereon.
+
+2.Jewelry businesses shall know that any person purporting to act on behalf of the customer is so authorized, and identify the identity of that person. In addition, jewelry businesses shall retain copies of the person's identity documents or record the relevant information thereon.
+
+3.If the customer is a legal person or an organization, jewelry businesses shall understand the business nature of the customer and record customer’s name, taxpayer identification number, responsible person, the address of its principal place of business and other information.
+
+The information of customer’s identities and transaction records, such as name, business name, identity number, responsible person, address of its principal place of business, phone number, transaction date, item, unit price, quantity and the total transaction amounts mentioned in preceding paragraph, shall be maintained in their original forms for at least five years following completion of the transaction.
+
+If there exists any of the following situations in the CDD process, jewelry businesses shall consider declining to carry out any transaction with the customer:
+
+1.The customer is suspected of opening an anonymous account or using a fake name, a nominee, a shell firm, or a shell corporation or entity to conduct a transaction;
+
+2.The customer refuses to provide the required documents for identifying and verifying its identity;
+
+3.The customer uses forged or altered identification documents;
+
+4.Other unusual circumstances exist in the process of conducting transactions and the customer fails to provide reasonable explanations.
+
+## Article 4-1
+
+Jewelry businesses shall conduct ongoing due diligence for a customer who has been continuously trading transactions based on the following provisions:
+
+1.They shall scrutinize the transactions and ensure that the transactions are consistent with the nature of customers’ business and their ML/TF risk profile, including, where necessary, the source of funds.
+
+2.They shall periodically review the existing records to ensure that documents, data or information of the customer collected under the CDD process are kept up-to-date. If the customer is at higher risk and shall be reviewed at least once every year.
+
+3.They shall apply CDD requirements to existing customers on the basis of materiality and risk. This provision shall also apply when they learn about any material change in customers’ identity and background information.
+
+4.The process of identifying and verifying the customer’s identity does not need to repeatedly every time a customer engages in a transaction. If they have doubts about the veracity of customers’ information, suspect that customers are involved in money laundering or terrorist financing, they shall verify the identity of customers again in accordance with preceding article.
+
+## Article 5
+
+Jewelry businesses shall determine the extent of applying CDD and ongoing due diligence measures under paragraph 2 of Article 4 and the preceding article based on the risk degree. For higher risk circumstances, jewelry businesses shall perform enhanced CDD by adopting additionally at least the following enhanced measures:
+
+1.Obtaining the approval of the responsible person or senior manager before engaging in a new transaction;
+
+2.Taking reasonable measures to understand the source of funds of the customer;
+
+3.Conducting enhanced ongoing monitoring.
+
+If there exists any of the following situations, jewelry businesses shall treat the customer directly as a high-risk customer, and adopt enhanced CDD measures under the preceding paragraph herein.
+
+1.For customers from high risk countries or regions or customers on the sanction list published by the Ministry of Justice pursuant to the Counter-Terrorism Financing Act.
+
+2.Where a customer is a politically exposed person, as well as his or her family members and close associates.
+
+## Article 6
+
+The jewelry businesses shall report all cash transactions equivalent to or exceeding NTD 500,000 (or its equivalent in foreign currencies) to the Investigation Bureau of the Ministry of Justice within 5 business days by way of faxes, mails, emails or other means in the format prescribed by the Investigation Bureau of the Ministry of Justice with the stamp of the reporting unit affixed.
+
+The reporting information mentioned in the preceding paragraph shall be maintained in their original forms for at least five years.
+
+## Article 7
+
+In case of any of the following transaction situations, the jewelry businesses shall verify the identity of the customer, keep information obtained through the customer due diligence measures and transaction records, and report suspicious money laundering transactions to the Investigation Bureau of the Ministry of Justice :
+
+1.The customer conducts an unusual transaction and such transactions do not appear to be commensurate with the customer’s status and income or is unrelated to the nature of the customer’s business.
+
+2.The customer conducts consecutively cash transactions in an amount slightly lower than NTD$500,000.
+
+3.After the transaction is completed, the jewelry business discovers that the customer denies the transaction, or that no such customer exists, or that there are sufficient evidences or facts to prove that the customer's name was falsely used by someone else.
+
+4.The transaction involves any persons related to major crime reported on television, newspaper, magazines, the Internet and other media.
+
+5.The customer is a terrorist or a terrorist organization announced by the Investigation Bureau of the Ministry of Justice; or a terrorist organization recognized or investigated by international group on money laundering.
+
+6.Other suspicious money laundering transactions identified.
+
+For transactions mentioned in the preceding paragraph that were not completed, a jewelry business shall still report the customer’s characteristic and the transaction processes to the Investigation Bureau of the Ministry of Justice.
+
+## Article 8
+
+The jewelry businesses shall comply with the following provisions for reporting suspicious money laundering transactions prescribed in the preceding Article:
+
+1.Within ten business days upon discovery of any suspicious money laundering transactions, the jewelry businesses shall submit the report to the Investigation Bureau of the Ministry of Justice by way of faxes, mails, emails or other means in the format prescribed by the Investigation Bureau of the Ministry of Justice with the stamp of the reporting unit affixed.
+
+2.For obvious, significant and urgent suspicious money laundering transactions, a jewelry business shall report the case concerned to the Investigation Bureau of the Ministry of Justice promptly by fax or other feasible means, and follow it up with a report in the format prescribed by the Investigation Bureau of the Ministry of Justice within five days. The jewelry business is not required to submit a follow-up report, provided the Investigation Bureau of the Ministry of Justice has acknowledged the receipt of the report by sending a reply by fax. In such event, the jewelry business shall keep the fax confirmation reply.
+
+The information of customer’s identity and transaction records mentioned in paragraph 1 of the preceding Article and the reporting information mentioned in paragraph 2 of the preceding Article and in the preceding paragraph of this Article shall be maintained in their original forms for at least five years.
+
+## Article 9
+
+The jewelry businesses shall comply with the following provisions for submitting report to the Investigation Bureau of the Ministry of Justice pursuant to paragraph 3 of Article 7 of the Counter-Terrorism Financing Act due to the business relationship:
+
+1.For the customer or his or her beneficial owner is designated individuals, legal persons or entities announced by the Investigation Bureau of the Ministry of Justice pursuant to paragraph 1 of Article 4 or paragraph 1 of Article 5 of the Counter-Terrorism Financing Act, the jewelry businesses shall keep the transaction records and report the transaction to the Investigation Bureau of the Ministry of Justice within 10 business days following the date of learning the case by way of mails, faxes, emails or other means in the format prescribed by the Investigation Bureau of the Ministry of Justice with the stamp of the reporting unit affixed.
+
+2.For obvious, significant and urgent situations, a jewelry business shall report the case concerned to the Investigation Bureau of the Ministry of Justice promptly by fax or other feasible means, and follow it up with a report in the format prescribed by the Investigation Bureau of the Ministry of Justice within five days. The jewelry business is not required to submit a follow-up report, provided the Investigation Bureau of the Ministry of Justice has acknowledged the receipt of the report by sending a reply by fax. In such event, the jewelry business shall keep the fax confirmation reply.
+
+The information of customer’s identity, transaction records, and reporting records mentioned in the preceding paragraph shall be maintained in their original forms for at least five years.
+
+## Article 10
+
+Jewelry businesses shall arrange or participate in education and training for anti-money laundering and countering the financing of terrorism through the following methods:
+
+1.The responsible persons or the designated personnel of the jewelry businesses shall participate in on-the-job training of anti-money laundering and countering the financing of terrorism at least once every two years, held by the government, jewelers’ associations, legal persons, or groups.
+
+2.The jewelry businesses shall arrange pre-job training for the new employees to understand the relevant regulations and responsibilities.
+
+3.Education and training for anti-money laundering and countering the financing of terrorism may be arranged in consolidation with other professional training programs.
+
+## Article 11
+
+Jewelry businesses shall assess their money laundering/terrorist financing (ML/TF) risks, and in accordance with the following provisions:
+
+1.Prepare risk assessment reports, including at least the customers, countries or geographic areas, products and services, transactions or delivery channels.
+
+2.Make the risk assessment reports available and update them every two years.
+
+3.Provide risk assessment reports when requested by the Ministry of Economic Affairs (MOEA).
+
+Jewelry businesses shall assess the ML/TF risks before using new technology to develop business, and take appropriate measures to manage and mitigate those risks.
+
+## Article 11-1
+
+Jewelry businesses shall undertake the CDD process by themselves, and do not entrust a third party to perform.
+
+## Article 12
+
+The responsible persons or the designated personnel of jewelry businesses shall be responsible for coordinating and supervising the implementation of the policies and procedures for anti-money laundering and countering the financing of terrorism, and shall conduct the internal audit on a regular basis.
+
+## Article 13
+
+The Ministry of Economic Affairs shall take on-site or off-site inspection on the implementation of internal control and audit system for anti-money laundering and countering the financing of terrorism conducted by jewelry businesses every year, and the on-site inspection can be accompanied by an assigned personnel of the local jewelers’ association where the jewelry business is located.
+
+The Ministry of Economic Affairs may, pursuant to paragraph 2 of Article 7 of the Money Laundering Control Act, delegate the inspection and review under the preceding paragraph to another agency, institution, legal person or organization with inspection and review capability.
+
+## Article 14
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Promulgated on January 27, 2011.
+
+\2. Amended on July 3, 2017.
+
+\3. Amended on March 23, 2018.
+
+\4. Amended on November 9, 2018.
+
+\5. Amended on April 26 ,2021
+
+\6. Amended on April 24 ,2025

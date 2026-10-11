@@ -1,0 +1,301 @@
+---
+title: "Regulations Governing Air Cargo Entrepots"
+title_zh: "航空貨物集散站經營業管理規則"
+identifier: "K0090030"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1989-11-15
+last_amended: 2026-01-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090030"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Air Cargo Entrepots
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090030-regulations-governing-air-cargo-entrepots.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090030-regulations-governing-air-cargo-entrepots.md)) is authoritative.
+
+## Article 1
+
+This Regulation is enacted in accordance with the first paragraph of Article 72-1, Civil Aviation Act.
+
+## Article 2
+
+The term air cargo entrepot (hereinafter referred to as entrepot) as used herein refers to an enterprise that receives compensations for providing customs clearance and warehousing space, facilities and services to handle import, export or transfer cargo into and out of airport security restricted areas.
+
+## Article 3
+
+The business scope of an entrepot shall include the following:
+
+1.assembling and disassembling, building up and breaking down, and loading and unloading of air cargo, containers and pallets,
+
+2.operating import and export warehouses, and
+
+3.providing services ancillary for customs clearance.
+
+An entrepot is also allowed to conduct the following business:
+
+1.maintaining and repairing air cargo containers and pallets, and
+
+2.business related to warehousing and logistics.
+
+## Article 4
+
+The applicant intending to set up an entrepot shall enclose the following documents in duplicate in applying to Civil Aviation Administration (hereinafter referred to as CAA) for Ministry of Transportation and Communications (hereinafter referred to as MOTC) permission:
+
+1.application form (see as attachment 1),
+
+2.operation prospectus including a plan to raise capital, utilization of capital, capacity, estimation of cargo volume, forecast of revenues and expenditures, forecast and planning for parking needs, composition of personnel and other relating matters,
+
+3.site of the entrepot and nearby local traffic condition,
+
+4.layout of facilities and parking areas required for providing the certain level of capacity, and
+
+5.depending on the situation, the following documents shall also be submitted:
+
+(1)company at a preparatory stage: a name list of the entire body of shareholders or sponsors with their household identification, draft of articles of incorporation, or
+
+(2)company already set up: a draft of revised articles of incorporation, a copy of company registration, and a copy of business registration.
+
+## Article 5
+
+The equity capital of an entrepot operated at Taiwan Taoyuan International Airport or Kaohsiung International Airport shall be no less than NT$200 million. The equity capital of an entrepot operated at other airports which allow international passenger charter flights governed as scheduled flights pursuant to an air service treaty or agreement shall be no less than NT$40 million.
+
+## Article 6
+
+An entrepot shall be located at a site within 25 kilometers radius from an international airport, with convenient access roads and without hampering surrounding traffic and safety.
+
+The land area of an entrepot operated at Taiwan Taoyuan International Airport or Kaohsiung International Airport shall be no less than 16,500 square meters. The land area of an entrepot operated at other airports where allow international passenger charter flights governed as scheduled flights pursuant to an air services treaty or agreement shall be no less than 3,300 square meters.
+
+The car parking space in the preceding paragraph shall not be smaller than two-fifths of the total land area of the entrepot. In case of establishing multi-stories parking lot, the above limitation could be lessened but not smaller than one-fifth of the total land area.
+
+The above two-fifths limitation may be relaxed by an application to CAA for MOTC permission. Notwithstanding that, the proportion should not be lesser than 30%.
+
+In case of referring to the preceding paragraph to obtain permission to relax the limitation, the administrative decision to grant the benefit shall reserve a condition to withdraw it.
+
+The airports where allow international passenger charter flights governed as scheduled flights pursuant to an air services treaty or agreement approved by CAA shall be excepted from the provisions of paragraph 2 to 5 in case of the land area provided for setting up an entrepot is less than 3,300 square meters and international passenger charter flights governed as scheduled flights pursuant to an air services treaty or agreement in the past 6 months are 49 flights weekly or more.
+
+The site for setting up an entrepot shall be surveyed by CAA in conjunction with the airport operator and relevant authorities to their full consent.
+
+## Article 7
+
+The entrepot being granted permission to set up shall, within four years, complete registration with relevant authorities according to relevant laws, prepare all necessary field, equipment and facilities, and register with the customs office for a certificate, and then apply to CAA by submitting the following documents in duplicate. CAA shall submit the case to MOTC for approval after conducting an on-site survey in conjunction with the airport operator and relevant authorities and obtaining unanimous consent. The operator may only commence business operations after CAA has issued the entrepot operation permit (see as attachment 2).
+
+1.application form (see as attachment 3),
+
+2.copies of company registration and business registration,
+
+3.articles of incorporation,
+
+4.roster of board of directors and supervisors (see as attachment 4),
+
+5.operation permits of import/export warehouses issued by the customs office,
+
+\6. documents certifying the ownership or the right to use the land and buildings of the entrepot, and
+
+7.copies of land registration transcript and cadastral map transcription.
+
+If the person mentioned in the preceding paragraph is unable to apply for a permit within the four years period, one extension may be requested based on proper reasons, and the period of extension may not exceed two years. Nevertheless, if any ongoing major national construction project warrants a delay in setting up the entrepot, the limitation on the number of extensions shall not apply.
+
+CAA upon issuing an operation permit to an entrepot shall notify the relevant authorities.
+
+## Article 8
+
+Moving any depot or setting up a new sub-depot away from the main depot of an entrepot shall comply with the provisions of Article 6. The application shall enclose the following documents in duplicate to CAA for MOTC permission:
+
+1.application form,
+
+2.chart of facility design,
+
+3.chart of relative locations or placement chart,
+
+4.analysis of differences in the state of business between before and after the installation of facilities, including: area of operation (covering warehouse, parking space), capital utilization, capacity, projected cargo volume, forecasts of revenues and expenditures, parking needs and relevant planning, manpower adjustments and other relating matters,
+
+5.site of the new depot or sub-depot and its surrounding traffic conditions,
+
+6.documents certifying land ownership or rights of land use for the site of the new depot or sub-depot located, and
+
+7.copies of land registration transcript and cadastral map transcription.
+
+Moving any depot or setting up a new sub-depot shall also comply with the first paragraph of Article 7, and shall enclose the original entrepot operation permit to CAA for reissuance, in order to get the operation started.
+
+## Article 9
+
+To expand, rebuild or construct new buildings on the originally approved land in which the entrepot is located, the application shall enclose the documents listed in the first paragraph of Article 8 to CAA for permission. Upon completion of construction, the applicant shall submit the documents listed in the first paragraph of Article 7 to CAA for conducting an on-site survey in conjunction with the airport operator and relevant authorities. The new buildings can be in use if the result of survey proves to be satisfactory.
+
+For an airport without air cargo entrepots located and operated within it due to the limitation of facility, an off-airport entrepot intending to apply for setting up a temporary storage facility in compliance with the animal and plant quarantine procedures shall obtain consent from the airport operator and enclose the documents listed in the first paragraph of Article 8 to CAA for MOTC permission. Upon completion of construction, the applicant shall submit the documents listed in the first paragraph of Article 7 to CAA for conducting an on-site survey in conjunction with the airport operator and relevant authorities. If the result of survey proves to be satisfactory and after the permission be granted by MOTC via CAA, the entrepot shall enclose the original entrepot operation permit to CAA for reissuance, in order to get the new facilities in use.
+
+When an entrepot is applying for the installation of additional facilities on adjoining land outside the originally approved land in which the entrepot is located, the parking space can be counted altogether, but the third paragraph of Article 6 shall apply. The provisions in the preceding paragraph shall also be complied.
+
+Applications in this article not involving adding a warehouse may be exempted from submitting the documents in subparagraph 5 of paragraph 1 of Article 7.
+
+## Article 9-1
+
+Applying for adding a warehouse in the originally approved building, the entrepot shall submit the documents specified in the first to fourth subparagraphs of the first paragraph of Article 8 and a copy of the concerning operation permit of import/export warehouse issued by the customs office to CAA for conducting an on-site survey in conjunction with the airport operator and relevant authorities. The new bonded area can come into operation if the result of survey proves to be satisfactory.
+
+When the area of the warehouse approved for registration and operation by the entrepot is reduced and differs from the area stated in the warehouse registration certificate issued by the customs office, the entrepot shall submit the documents specified in the first to fourth subparagraphs of the first paragraph of Article 8 to MOTC through CAA for approval, and shall report to CAA for record within 30 days after the replacement of the warehouse registration certificate from the customs office.
+
+## Article 9-2
+
+Employees, vehicles and cargo that belong to an entrepot, moving in and out of various areas of the airport as well as their relevant operations, shall be subject to the relevant acts and regulations promulgated by the customs office, the security agency and other authorities.
+
+## Article 9-3
+
+An off-airport entrepot shall handle the freight in and out of the airport through a designated hand-over area.
+
+The aforementioned freight must be processed in and out of the airport in the manner of unit load pallets/containers. However, this shall not apply to the situations when the freight in question is necessarily required to be built up or broken down with other freight handled by other entrepots located in the confines of the airport, when the unit load pallets/containers are tipped over, or when adjustments to freight are necessary.
+
+The freight handled by an off-airport entrepot shall be handed over, safely kept and hauled between the off-airport entrepot and the airlines or their ground handling agents within the designated hand-over area.
+
+It is the responsibility of the off-airport entrepot to maintain persons and vehicles movements and operations in the hand-over designated area in good order, so as to guard the safety and security of the airport.
+
+## Article 9-4
+
+An entrepot applying for changing the land area of its main depot or sub-depot shall comply with the provisions of paragraphs 2 to 4 of Article 6, and enclose the following documents in duplicate to apply to MOTC through CAA for approval:
+
+1.application form,
+
+2.chart of relative locations or layout plan,
+
+3.analysis of differences in the state of business before and after the change of area, including: area of operation (covering warehousing facilities, parking space), operation capacity and other matters regarding the change,
+
+4.documents certifying land ownership or rights of land use for the site of main depot or sub-depot located, and
+
+5.copies of land registration transcript and cadastral map transcription.
+
+Where the application referred to in the preceding paragraph results in a change of business location, after CAA has submitted the case to MOTC and obtained its approval, the entrepot operator shall apply to CAA for reissuance by submitting the original entrepot operation permit.
+
+## Article 10
+
+The entrepot operation permit shall not be for rent or be transferred to another person for use.
+
+## Article 11
+
+Within six months from the end of year, the entrepot shall submit its statements of assets and debts, balance sheet and declaration form of income tax to CAA for record.
+
+## Article 12
+
+The entrepot shall submit its monthly comparative report on statistics of cargo volume, classified by import/export countries, merchandises, carriers and handling forwarders, to CAA for record before the 15th day of the month.
+
+## Article 13
+
+(Deleted)
+
+## Article 13-1
+
+Unless otherwise provided for, the entrepot shall assume liable for any damages to the goods stored in its warehouses, from the time of goods acceptance until release. Nevertheless, any one of the following situations makes an exception:
+
+1.The goods are adequately packed but the contents have fallen short or the quality has changed abnormally,
+
+2.Damages or losses caused by governmental enforcement measures,
+
+3.Damages or losses incurred by natural calamities or other forces beyond control, and
+
+4.Damages or losses resulted from causes attributable to the shipper/consignor or to the inherent nature of goods.
+
+## Article 13-2
+
+The entrepot shall insure the goods handled in its warehouses.
+
+## Article 14
+
+After an entrepot has been approved for registration and issued an operation permit, if any of the following circumstances occur, CAA shall request MOTC to abolish the permission, and subsequently cancel the operation permit and notify the relevant authorities:
+
+1.having been ordered to suspend operation as a disciplinary action,
+
+2.being failed to start business in six months from the date the operation permit was issued, or business suspended for over six months after starting up. However, this shall not apply if the operator, with justifiable reasons, applies for an extension by submitting relevant documents and evidence within one month prior to the expiration of the period, and
+
+3.having been dissolved according to law.
+
+The period of extension approved in subparagraph 2 of the preceding paragraph shall not exceed six months and shall be limited to one time.
+
+The suspension of business mentioned in subparagraph 2 of paragraph 1 shall be reported to CAA for record within 30 days after registration is completed; the same applies to applications for resumption of business after suspension.
+
+An entrepot wishing to close down its operation shall firstly report to MOTC via CAA for record, and then surrender the operation permit for revocation in 30 days from the date of closure. If the operation permit is not surrendered in time, CAA shall proceed to announce revocation.
+
+## Article 15
+
+An entrepot shall report to CAA for record on any changes in the company name, composition, representative, board of directors, supervisors, amount of capital and company address within 15 days from the date of which registration of such changes is done.
+
+Enclosing the renewal fee, a new operation permit shall be applied for once the registrations of changes in the company name, composition, representative, amount of capital or company address mentioned in the preceding paragraph have been completed.
+
+## Article 16
+
+The registration and management of the import/export warehouses established within the compound of an entrepot shall also be complied with the pertinent regulations promulgated by the customs office.
+
+## Article 17
+
+CAA may send personnel to inspect the entrepot regarding its employees and equipment and to oversee its operations. The entrepot operator shall not refuse, evade or obstruct such inspections. The entrepot operator will be notified of any deficiencies found and given a deadline to remedy them.
+
+Refusing, evading or obstructing inspections or failure to remedy the deficiencies by the deadline shall be subject to disciplinary actions taken by authorities according to the provisions in the first paragraph of Article 112, Civil Aviation Act.
+
+## Article 18
+
+Civil air transport enterprises with intent to run the entrepot business for the cargo carried by their own aircraft shall apply to CAA for MOTC permission in accordance with the provisions     of Articles 4 and 7. With the issuance by CAA of a self-handling entrepot operation permit (see as attachment 5), business can get started.
+
+## Article 19
+
+The provisions of the preceding Article shall apply to foreign civil air transport enterprises whose home countries, based on bilateral treaties, agreements or reciprocal principles, grant similar rights to civil air transport enterprises registered in the Republic of China to run the entrepot business in those countries.
+
+Foreign civil air transport enterprises following the preceding provisions to apply for setting up entrepots shall also enclose a photocopy of endorsement certificate issued by authorities in their home country.
+
+Foreign civil air transport enterprises having permission to set up entrepots pursuant to the preceding two paragraphs shall also submit a photocopy of endorsement certificate issued by the Ministry of Economic Affairs of the Republic of China.
+
+For those required documents mentioned in the first two paragraphs of this Article that are printed in foreign languages, the Mandarin translation duly verified by Republic of China embassies, consulates or representative offices abroad shall be attached.
+
+## Article 20
+
+All handling rates charged by the entrepot shall be formulated by the entrepot operator and submitted to MOTC through CAA for record.
+
+## Article 21
+
+In applying for an operation permit, the entrepot shall pay a fee of NT$36,000.
+
+A fee of NT$2,100 shall be paid by the entrepot for any reissuance or replacement of the operation permit.
+
+## Article 22
+
+The provisions of the first and seventh paragraphs of Article 6, Articles 9, 9-1, 9-2, 10 to 17, 20 and 21 shall apply in cases of domestic/foreign civil air transport enterprises running entrepot business for the cargo carried by their own aircraft.
+
+When the domestic/foreign civil air transport enterprises mentioned in the preceding paragraph running entrepot business for the cargo carried by their own aircraft move their business location or set up a sub-depot outside the main depot, they shall comply with the provisions of the first and seventh paragraphs of Article 6, and enclose the documents specified in the subparagraphs of the first paragraph of Article 8 in duplicate to apply to MOTC through CAA for approval to set up.
+
+When the domestic/foreign civil air transport enterprises are granted, permission as mentioned in the preceding paragraph, the provisions of the first paragraph of Article 7 shall apply; they shall also enclose the original self-handling entrepot operation permit to apply to CAA for reissuance of the permit, in order to get operation started.
+
+## Article 23
+
+These Regulations shall come into force as of the date of promulgation.
+
+## History
+
+1.Full text promulgated by the MOTC Order No. 7835 on November 15, 1989
+
+2.Amendments to Articles 2 ~ 4, 7, 8, 13-1, 13-2, 14, 17, 18 promulgated by MOTC Order No. 8335 on September 24, 1994
+
+3.Amendments to all Articles promulgated by MOTC Order No. 88110 on December 15, 1999
+
+4.Amendments to Articles 20, 21, 22, and 23, addition of Articles 9-1~ 9-3, 13-1, 13-2 promulgated by MOTC Order No. 00078 on November 21, 2001
+
+5.Amendments to Articles 1 and 14 promulgated by MOTC Order No. 00087 on November 27, 2001
+
+6.Amendments to Articles 4, 7, 19 promulgated by MOTC Order No. 091B000043 on June 7, 2002
+
+7.Amendments to Articles 4, 7 promulgated by MOTC Order No. 091B000150 on    December 13, 2002
+
+8.Amendments to Articles 2, 3, 4, 6, 8, 9-1, 14, 17, 22 promulgated by MOTC Order No. 093B000024 on March 19, 2004
+
+9.Amendments to Articles 2, 13 promulgated by MOTC Order No. 0970085021 on April 1, 2008
+
+10.Amendments to Articles 5, 6 promulgated by MOTC Order No. 0990085032 on June 24, 2010
+
+11.Amendments to Articles 6 promulgated by MOTC Order No. 10250063331 on May 29, 2013
+
+12.Amendment to Article 6, 7, 9, 9-1, 22 promulgated by MOTC Order No. 10450162491 on December 4, 2015
+
+13.Amendment to Article 9 promulgated by MOTC Order No. 10650165231 on December 7, 2017
+
+14.Amendments to Articles 9-1, 14, 15, 22, addition of Article 9-4 promulgated by MOTC Order No. 1150001073 on January 28, 2026

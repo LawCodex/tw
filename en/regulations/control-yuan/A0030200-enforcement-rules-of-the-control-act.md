@@ -1,0 +1,355 @@
+---
+title: "Enforcement Rules of the Control Act"
+title_zh: "監察法施行細則"
+identifier: "A0030200"
+type: regulation
+law_level: "命令"
+category: "監察＞院本部＞監察目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1953-12-19
+last_amended: 2022-03-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030200"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Control Act
+
+> Translation. The Chinese text ([zh/regulations/control-yuan/A0030200-enforcement-rules-of-the-control-act.md](../../../zh/regulations/control-yuan/A0030200-enforcement-rules-of-the-control-act.md)) is authoritative.
+
+## Chapter I: General Provisions
+
+### Article 1
+
+These Enforcement Rules are formulated in accordance with Article 31 of the Control Act (hereinafter referred to as "the Act").
+
+### Article 2
+
+The Control Yuan shall formulate implementation measures on the conduct of district circuit supervision by members of the Control Yuan as prescribed in Article 3 of the Act.
+
+### Article 3
+
+A member of the Control Yuan shall recuse himself or herself from a case involving the approval or handling of people's written complaints, investigation cases or examination censure or impeachment cases in any of the following circumstances:
+
+\1. The party to the complaint or case is the member or his or her spouse, former spouse, betrothed, blood relative within the fifth degree of kinship, relative by marriage within the third degree of relationship, or previously a kin of such relationship.
+
+\2. The member is or has been a legal representative of the party to the complaint or case.
+
+\3. The member has adjudicated in civil, criminal or administrative proceedings related to the complaint or case or has served as the agent ad litem or defense attorney of the interested party.
+
+\4. There exist any other circumstances that could prevent the member from performing impartially his or her duties of approval, handling, investigation or examination responsibly. A written explanation for recusal in cases referred to in the preceding paragraph shall be submitted to the president of the Control Yuan for determination. In the event that a request for recusal is not made in any of the aforementioned circumstances, the president of the Control Yuan may render a decision on the recusal.
+
+## Chapter II: Power of Impeachment
+
+### Article 4
+
+Following a motion of impeachment proposed by members of the Control Yuan in accordance with provisions of Article 6 and Article 7 of the Act, members of the Control Yuan shall promptly be assigned rotationally by lots to undertake examinations as prescribed in Article 8 and Article 9 of the Act.
+
+Examination of impeachment cases shall be performed by an examination committee formed by thirteen members of the Control Yuan, except in cases where the number of serving members available when convening the committee is less than thirteen.
+
+In the event that a member sequentially assigned to serve on the examination committee has taken leave, the vacancy shall be filled by another member according to the rotational sequence.
+
+### Article 5
+
+The Department of Supervisory Operations shall set a date for convening the examination committee in an impeachment case within three days after receiving notification from the initiators of the case. Members of the supervisory committee shall be notified in rotational order to take up their positions five days before the date of the meeting. The documents and relevant information on the impeachment case shall be delivered confidentially to the committee members two days before the meeting.
+
+At least nine examination members shall be present for votes by the impeachment examination committee on impeachment cases, and committee meetings shall be chaired by the first sequentially assigned member present. The attending members shall vote by signed ballot and decisions shall be rendered by agreement of a majority of the voting members. The ballots shall include the name and signature of the voting members for verification.
+
+If the impeachment case involves more than one individual, decisions shall be rendered separately for each individual.
+
+### Article 6
+
+In the event that a member of the examination committee deems necessary an explanation of the facts or context in the examination of an impeachment case, he or she may request that the initiators of the case be present and provide explanation. The initiators shall leave after answering the questions of the examination committee.
+
+Should the examination committee deem it necessary, an impeachment text, after examination decision, may be amended with the agreement and participation of the initiators of the case.
+
+The initiators of an impeachment case may formally request the retraction of the case prior to the declaration of examination by the chair of the examination committee.
+
+### Article 7
+
+In impeachment cases, the examination committee shall determine whether the case is established or not under review.
+
+The following resolutions shall all be made by the impeachment examination committee when the case is established:
+
+\1. The agency to be served.
+
+\2. Whether to notify the superior or official in charge to take immediate remedial action.
+
+\3. Whether to transfer the case to a law court or court martial for handling in accordance with the law.
+
+After the impeachment examination committee has been convened, records shall be kept of the actual proceedings of meetings.
+
+### Article 8
+
+Following the rendering of a decision regarding an impeachment case after examination, a written examination decision shall be produced, noting the case number and including the following items:
+
+\1. The initiators of the case.
+
+\2. The name, agency or organization, position, and official class/rank of the person impeached.
+
+\3. The reason for impeachment.
+
+\4. The decision on the impeachment case, which shall include whether the case was established or not, the vote counts for and against establishment, and handling of the case in line with Articles 14 and 15 of these Rules.
+
+\5. The names of the committee members who voted on the decision.
+
+\6. Referring agency or association.
+
+\7. The names of the examination committee members.
+
+\8. The signature of the committee chairperson.
+
+\9. The date of examination committee convening.
+
+### Article 9
+
+Should the examination committee decide that an impeachment case is not established, the initiators said case shall be notified in writing within three days. If the initiators object to the decision, two or more of the initiators may challenge the decision within ten days beginning the day after notification. After the report has been submitted to the president of the Control Yuan, the other members shall review it in turn. Should the initiators not put forward any objection, the original decision for non-establishment shall be confirmed.
+
+After any objection is submitted to the president of the Control Yuan per the preceding paragraph, a re-examination committee shall be convened within three months from the day following the president’s signing of the objection.
+
+The re-examination committee shall be convened and the provisions of Article 5 shall be mutatis mutandis applied.
+
+### Article 10
+
+The examination committee shall, after deciding to establish a motion of impeachment, notify the disciplinary organ and send a copy of the notification to the superior at the agency of the impeached person.
+
+### Article 11
+
+Written responses presented by the relevant agencies to the Control Yuan after a motion for impeachment is sent shall be promptly submitted to the members initiating the case. The initiators shall complete their review and ratification within ten days. If the initiators are unable to review and ratify the case, review and ratification may be performed by, in the following order of precedence, the chair of the examination committee, an elected member of the examination committee, a designated member by the Control Yuan or an on-duty member.
+
+### Article 12
+
+(Deleted)
+
+### Article 13
+
+(Deleted)
+
+### Article 14
+
+The initiators in a case of impeachment shall be promptly notified for review and ratification after the disciplinary organ serves its resolution to the Control Yuan. If the initiators deem there are legal grounds for reconsideration, the Control Yuan shall send a written request to the disciplinary organ to re-examine and reconsider the resolution. If notification of immediate relief and handling has been made according to provisions in Article 14 of the Control Act, review and ratification shall be completed after the superior or official in charge replies in writing to the Control Yuan on the handling status of the case. In cases involving criminal responsibility that have been transferred to the said competent court or court martial, review and ratification shall be completed after the said courts notify the Control Yuan of the status on their decision. When deemed proper, a case closing report shall be drafted and submitted to the Control Yuan plenary meeting.
+
+If the initiators feel that further examination is needed, the Control Yuan shall submit a written request to the relevant authorities to conduct an inquiry.
+
+Alternatively, the initiators may directly investigate the case. When deemed proper, a case closing report shall be drafted and submitted to the Control Yuan plenary meeting after conducting the inquiry or investigation.
+
+If the initiators are unable to review and ratify the case, review and ratification may be performed by, in the following order of precedence, the chair of the examination committee, an elected member of the examination committee, a designated member by the Control Yuan, or an on-duty member.
+
+### Article 14-1
+
+After the impeachment case has been decided by the disciplinary court, should the members of the Control Yuan other than the initiators of the case or the people believe that there are statutory reasons for retrial, the relevant committees shall notify the initiators for review and ratification. If the initiators believe that the statutory reasons for retrial are met, it shall be brought to the disciplinary court in accordance with the law for retrial. However, if the initiators for any reason cannot ratify, it shall be handled in accordance with Article 11.
+
+If the initiators do not believe that statutory reasons for retrial have been met, but after the review and ratification by the committee in the preceding paragraph, it is deemed necessary to initiate a retrial investigation, then two or more members of the committee members other than the initiators of the case shall be assigned or assigned in rotation, and a retrial investigation report shall be submitted.
+
+The review of the retrial investigation report in the preceding paragraph shall be conducted by members of the Control Yuan other than the initiators, and the provisions of Articles 4 to 6 shall apply mutatis mutandis. After review, should it be determined that there are statutory reasons for retrial, and it shall be immediately transferred to the disciplinary court for initiation of a retrial.
+
+After filing for retrial in accordance with the preceding paragraph, the relevant litigation documents shall be served to the Control Yuan and shall immediately be sent to the appointed committee members referred to in Paragraph 2 for deliberation.
+
+## Chapter III: Power of Censure
+
+### Article 15
+
+Examination of censure cases shall be performed by an examination committee formed by five members of the Control Yuan. The committee may only perform examinations with at least three members present.
+
+### Article 16
+
+The superior or official in charge of a person censured shall act after receiving the written censure, as prescribed in Paragraph 1, Article 24 of the Public Functionaries Discipline Act.
+
+### Article 17
+
+Provisions of paragraph 1 and 3 of Article 4, Article 5, Article 6, Article 7, Article 8, Paragraph 1 of Article 9, Article 10-1, Article 11 and Article 14 shall be applicable mutatis mutandis to a censure case.
+
+## Chapter Ⅳ: Corrective Measures
+
+### Article 18
+
+The relevant committees shall review and render a decision on proposals by the Control Yuan for corrective measures to the Executive Yuan and its subordinate agencies as stipulated in Article 24 of the Act.
+
+If a committee deems, upon review of investigation reports in which corrective measures were not proposed or the investigation documents submitted in entrusted investigations, that a proposal for corrective measures is necessary, it shall nominate an examination member or other member to make the proposal.
+
+### Article 19
+
+The relevant committees shall decide in conference whether a corrective measure shall be announced and served to an agency.
+
+### Article 20
+
+If the Executive Yuan or its subordinate organ has not replied on the facts of improvements made and actions taken within two months of receiving the corrective measures, the relevant committee should convene for discussion and, by resolution, may submit written questions or notify the officials in charge at the Executive Yuan or its subordinate organ executives to submit to questioning at the Control Yuan.
+
+### Article 20-1
+
+Circumstances in which the Executive Yuan or its subordinate organ has not replied to the corrective measures as prescribed in Article 25 of the Rules shall be handled in accordance with the provision of the previous article. In cases where the improvements or actions have been perfunctory, irresponsible, delayed or not been made or that incidents of the same nature have re-occurred after the improvements are made, the superior official in charge may be handled in accordance with Articles 6 and 19 of the Rules after substantiation by investigation.
+
+### Article 21
+
+Upon receiving the reply by the Executive Yuan or its relevant subordinate organs on the improvements made or actions taken on the corrective measures, the relevant committee shall transfer the reply to the initiating members for attestation and comment and then convene a meeting for discussion. If the initiating members do not provide attestation or comment within one month, the committee may handle the case directly. When deemed appropriate following examination, the committee may resolve to draft a case closing report and submit it to the Control Yuan meeting.
+
+If the committee deems that further examination is needed, it may resolve to have the Control Yuan issue a written inquiry to the relevant authorities or assign committee members to investigate. If the case is deemed appropriate after the inquiry or investigation, the committee shall resolve to draft a closing report and submit it to the Control Yuan meeting.
+
+### Article 22
+
+Where a decision has been made to publicize a corrective case, said case shall be published in the Control Yuan of the Republic of China Gazette or the Control Yuan website, and shall be accompanied by a press release.
+
+## Chapter V: Investigation
+
+### Article 23
+
+The following provisions shall be followed in cases in which members of the Control Yuan have been nominated and appointed to investigate by resolution of Control Yuan plenary meeting or of its committees, or have been assigned rotationally by lots to investigate:
+
+\1. Members of the Control Yuan shall be assigned rotationally by lots to undertake examinations. A member may not decline the duty of examination except when provisions call for recusal due to conflict of interest. Where there is cause for recusal from an examination, another member shall be assigned rotationally to serve.
+
+\2. The assignment of members to investigate a case by a meeting of the Control Yuan or committee meeting shall be regarded as being the same as rotational assignment. Cases in which a member is not assigned for investigation shall be handled in accordance with the provisions of the preceding paragraph.
+
+\3. Committees may form an investigation task force composed of two to three appointed members for investigations on the administrative work or facilities as prescribed in Article 24 of the Act. The assignment of members in such cases shall be regarded as being the same as rotational assignment.
+
+\4. If a member of the Control Yuan investigating a case is for some reason unable to personally perform the investigation and the investigation is conducted jointly with other members, the other members shall continue the investigation. If there are no other members party to the investigation, other members shall be assigned to continue the investigation according to provision in the first paragraph.
+
+### Article 24
+
+Members of the Control Yuan who investigate a case on their own initiative shall first register with the Department of Supervisory Operations. The Department of Supervisory Operations shall ascertain whether or not the Control Yuan has assigned investigators or members have self-initiated investigation on the same case and then notify the member making the new registration. If investigators have been assigned or a member has registered an investigation, a request for joint handling shall be submitted to the investigating members.
+
+Applications for self-initiated investigation of cases referred to in the previous paragraph shall be made by one to three members jointly. The president of the Control Yuan may, according to the report submitted by the applying members, dispatch members with relevant expertise and inclination to accompany the investigation.
+
+Applications for self-initiated investigations shall be suspended for members who have investigated twenty or more cases without presenting an investigation report.
+
+If a member of the Control Yuan is unable to investigate a self-initiated case by himself/herself, the case shall be continued investigating by the accompanying member or members. If there are no accompanying members investigating it, Paragraph 1 of Article 23 shall be applicable mutatis mutandis.
+
+### Article 25
+
+The heads of organizations referred to in Article 26 of the Act refer to the officials in charge at the said organization.
+
+### Article 26
+
+If it is determined that the details of a case under investigation by members of the Control Yuan are related or the same, a request for approval shall be submitted to the president of the Control Yuan and the investigation shall be conducted by the member who was first to investigate. In special cases, the president of the Control Yuan may request a joint decision by the investigating members.
+
+### Article 27
+
+Investigations shall not be terminated if the person investigated in an investigation case is under criminal investigation or trial for the same actions. Investigation may be terminated when deemed necessary to determine administrative responsibility of the defendant based on whether or not guilt is established.
+
+Investigations of personnel in charge in a case under investigation or trial and matters related to the case shall be avoided to the extent possible during the period of undertaking. However, when it is deemed that the personnel in charge has committed a serious act of corruption, malfeasance or violation of human rights and immediate investigation is needed, investigation may be conducted in consideration of the circumstances.
+
+### Article 28
+
+Impairment of the national interests as referred to in Article 27 of the Act means harm to national defense or diplomatic secrets.
+
+### Article 29
+
+Agencies entrusted to conduct investigation according to Article 30 of the Act shall promptly conduct the investigation and submit a written response on its findings to the Control Yuan. The Control Yuan may send a written demand for response if no response is received within two months.
+
+### Article 30
+
+Investigation reports shall be submitted to the president of the Control Yuan for review. However, investigation cases motioned by members shall be reviewed by them before submission.
+
+Investigation reports shall be turned over to the relevant committees for handling after review by the president of the Control Yuan. In cases where the meeting of the Control Yuan has resolved to investigate, the committees shall report the results of their handling to the Control Yuan meeting.
+
+Documents on the investigation findings in cases of investigation entrusted to other organs shall, except when the committee has resolved to handle the case, be endorsed and commented on by the Department of Supervisory Operations and submitted to the approving members or member on duty for review and handling.
+
+### Article 31
+
+In cases of impeachment, censure or corrective measures that are not established after investigation, the original investigators, plaintiffs or stakeholders can apply for review.
+
+The deadline for review applications shall be three years from the date that the Control Yuan issued notification of the investigation results. In cases where notification has not been made according to provisions, the deadline shall be calculated from the date that the investigation report was presented.
+
+### Article 32
+
+The original investigators may apply for review only if new facts or new evidence found is sufficient to determine that the defendant should bear responsibility for a violation.
+
+### Article 33
+
+A plaintiff or stakeholder may apply for a review in any of the following circumstances:
+
+\1. New facts or new evidence found is sufficient to overturn or bring into question the facts of the original investigation decision.
+
+\2. The original investigator has failed to consider important evidence relating to the case.
+
+\3. There are clear errors in the statutes applied in the original investigation opinion.
+
+### Article 34
+
+The relevant committees shall handle applications for case review and the re- inspection report. However, in cases where a meeting of the Control Yuan has resolved to investigate, the results of the committee's handling of the investigation shall be submitted to the Control Yuan meeting.
+
+Only one review is allowed per case. At least two members shall conduct the review. The original investigating members may not participate in the review but may submit written opinions.
+
+### Article 35
+
+If original investigators or two or more members of the Control Yuan deem that review is necessary in cases where an application for case review exceeds the deadline stipulated in Paragraph 2, Article 31 or does not correspond to circumstances stipulated in Article 33, they may submit, once per case, a written explanation of the reason to the president of the Control Yuan for approval. If approved, the case shall be submitted to a review committee to render a decision on the review.
+
+The review committee referred to in the preceding paragraph shall be formed by seven members of the Control Yuan chosen sequentially by lots, excluding members who initiated the case. The first member thus appointed shall serve as the chairperson of the committee. Reviews may only be conducted when at least two-thirds of the committee members are present at the committee meeting. Decisions shall be made by agreement of a majority of the attending members through a secret ballot vote.
+
+When the review referred to in the preceding paragraph results in a determination to conduct a re-examination, members shall be assigned to investigate as stipulated in Paragraph 2, Article 34 and a re- examination report shall be prepared according to provisions in Paragraph 1, Article 34.
+
+## Chapter Val: Supplementary Provisions
+
+### Article 36
+
+The Enforcement Rules shall take effect on the date of promulgation.
+
+## History
+
+1.Passed by the 297th meeting of the Control Yuan on December 19, 1953;
+
+2.Article 20, Paragraph 2 added by Control Yuan announcement on June 30, 1954;
+
+3.Article 10, Paragraph 2 added and Article 12 amended by Control Yuan announcement on April 25, 1955;
+
+4.Articles 19 and 29 amended by Control Yuan announcement on April 20, 1956;
+
+5.Article 10 amended by Control Yuan announcement on July 14, 1956;
+
+6.Articles 19, 20, and 29 amended by Control Yuan announcement on December 18, 1956;
+
+7.Article 20 amended by Control Yuan announcement on April 24, 1959;
+
+8.Article 20 amended and Article 21, Paragraph 2 added by Control Yuan announcement on March 19, 1962;
+
+9.Article 8 added and Articles 21, 22, 30, and 34 amended by Control Yuan announcement on April 30, 1964;
+
+10.Article 31 amended by Control Yuan announcement on May 22, 1964;
+
+11.Articles 4, 29, and 36 amended by Control Yuan announcement on March 20, 1970;
+
+12.Article 14 amended by Control Yuan announcement on May 19, 1972; Article 27 added by Control Yuan announcement on June 22, 1972;
+
+13.Article 7 amended by Control Yuan announcement on July 19, 1972;
+
+14.Articles 19 through 21 added, and original Article 22 and Article 43 amended by Control Yuan announcement on June 15, 1974;
+
+15.Articles 23 and 34 amended by Control Yuan announcement on July 15, 1974;
+
+16.Article 35 amended by Control Yuan announcement on July 23, 1974;
+
+17.Articles 32, 39, and 45 amended by Control Yuan announcement on March 15, 1976;
+
+18.Article 19, Paragraph 2 added by Control Yuan announcement on July 15, 1980;
+
+19.Article 4 amended by Control Yuan announcement on February 20, 1981;
+
+20.Article 4, Paragraph 2 amended by Control Yuan announcement on May 18, 1982;
+
+21.Articles 19 and 20 amended, Articles 19-1 and 19-2 added by Control Yuan letter on August 12, 1983;
+
+22.Articles 7 and 38 amended by Control Yuan announcement on April 13, 1990;
+
+23.the text of all 36 Articles amended by Control Yuan announcement on December 24, 1993;
+
+24.Articles 30 and 34 amended by Control Yuan announcement on June 5, 1997;
+
+25.Articles 5, 9, 24, and 30 amended by decision of the 78th meeting of the second session of the Control Yuan on March 24, 1998;
+
+26.Articles 20 and 21 amended, and Article 20-1 added by Control Yuan announcement on October 18, 2000;
+
+27.Article 24 amended by Control Yuan decree on February 11, 2009;
+
+28.Article 5 amended by Control Yuan decree on June 29, 2018, to take effect immediately;
+
+29.Articles 11, 14, and 16 amended by Control Yuan decree on November 1, 2018, to take effect immediately;
+
+30.Articles 23 and 24 amended by Control Yuan decree on November 23, 2018;
+
+31.Articles 4 through 10, 16, 17, and 22 amended, Article 10-1 added, and Articles
+
+32.12 and 13 removed by Control Yuan decree on August 21, 2019;
+
+33.Article 14-1 added by Control Yuan decree on March 8, 2022, Ref: Yuan-Tai-Ye-Yi Tze No. 1110730191.

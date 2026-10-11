@@ -1,0 +1,588 @@
+---
+title: "Intellectual Property Case Adjudication Rules"
+title_zh: "智慧財產案件審理細則"
+identifier: "A0030222"
+type: regulation
+law_level: "命令"
+category: "司法＞院本部＞行懲及智財目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-04-24
+last_amended: 2023-08-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030222"
+retrieved: 2026-10-12
+---
+
+# Intellectual Property Case Adjudication Rules
+
+> Translation. The Chinese text ([zh/regulations/judicial-yuan/A0030222-intellectual-property-case-adjudication-rules.md](../../../zh/regulations/judicial-yuan/A0030222-intellectual-property-case-adjudication-rules.md)) is authoritative.
+
+## Article 1
+
+These adjudication rules are enacted pursuant to Article 76 of the Intellectual Property Case Adjudication Act (hereinafter referred to as the "Act").
+
+## Article 2
+
+For the purposes of these adjudication rules, the IPCC denotes the Intellectual Property and Commercial Court; an intellectual property tribunal and a commercial tribunal denote respectively an intellectual property tribunal and a commercial tribunal of the IPCC.
+
+For the purposes of these adjudication rules, intellectual property cases denote the following cases:
+
+(1) intellectual property civil actions
+
+(2) intellectual property criminal cases
+
+(3) intellectual property administrative actions
+
+(4) other cases prescribed by law or designated by the Judicial Yuan to be within the jurisdiction of the IPCC
+
+## Article 3
+
+Pursuant to Subparagraphs 1 and 4, Article 3 of the Intellectual Property and Commercial Court Organization Act and Paragraph 1, Article 9 of the Act, intellectual property civil actions include the following:
+
+1 disputes over the ownership of intellectual property rights, relevant application rights, and compensation
+
+2 contract disputes
+
+(1) intellectual property licensing agreements
+
+(2) disputes over assignment, pledge, trust, agreement to registration, assignment of application right, and other contractual disputes
+
+3 disputes over torts
+
+(1) disputes over infringement upon economic rights of intellectual property rights
+
+(2) disputes over infringement upon moral rights of intellectual property rights
+
+4 disputes over compensation and royalty arising out of the use of intellectual property rights
+
+5 matters concerning the protection of intellectual property rights and interests under the Fair Trade Act
+
+6 matters concerning the preservation of evidence and provisional remedies proceeding in connection with intellectual property rights
+
+7 other cases prescribed by law or designated by the Judicial Yuan to be within the jurisdiction of the IPCC
+
+## Article 4
+
+Pursuant to Subparagraphs 2 and 4, Article 3 of the Intellectual Property and Commercial Court Organization Act and Paragraph 1, Article 54 and Paragraph 2, Article 58 of the Act, intellectual property criminal cases include the following:
+
+1 offenses under Articles 253, 254, 317, and 318 of the Criminal Code and Article 14-4 of the Trade Secrets Act, violation of the Trademark Act, Copyright Act, or any of Articles 72 to 74 of the Act, and the supplementary civil action cases thereof
+
+2 offenses under Articles 13-1, 13-2, Paragraph 3 of Article 13-3, and Article 13-4 of the Trade Secrets Act and the supplementary civil action cases thereof
+
+3 offenses in Paragraphs 1 to 3 of Article 8 of the National Security Act and the supplementary civil action cases thereof
+
+4 other cases prescribed by law or designated by the Judicial Yuan to be within the jurisdiction of the IPCC and the supplementary civil action cases thereof
+
+## Article 5
+
+Pursuant to Subparagraphs 3 and 4, Article 3 of the Intellectual Property and Commercial Court Organization Act and Paragraph 1, Article 68 of the Act, intellectual property administrative actions cover subject matters concerning intellectual property rights under the Patent Act, Trademark Act, Copyright Act, Optical Disk Act, Regulations Governing the Protection of Integrated Circuits Configuration, Plant Variety and Plant Seed Act, or Fair Trade Act, including:
+
+(1) administrative actions against the administrative decisions of the competent authority dismissing applications concerning patents, trademarks, integrated circuit configurations, species, and plate making
+
+(2) administrative actions against the administrative decisions of the competent authority canceling or revoking patent rights, trademark rights, integrated circuit configurations, and species rights
+
+(3) administrative actions against the administrative decisions of the competent authority in connection with intellectual property application rights or applications for register of other intellectual property right
+
+(4) administrative actions against the administrative decisions of the competent authority over the compulsory licensing of intellectual property rights
+
+(5) administrative actions against the administrative decisions of the customs seizing objects infringing upon intellectual property rights directly based on intellectual property laws and decrees
+
+(6) administrative actions against the administrative decisions of the competent authority granting rewards or imposing controls pursuant to intellectual property laws and decrees
+
+(7) administrative contracts executed in lieu of the administrative decisions listed in Subparagraphs (1) through (6)
+
+(8) actions of revocation, performance or declaration as arising out of a legal relationship under public law, as prescribed in the Act
+
+(9) public law disputes arising out of unfair competition in violation of the Fair Trade Act involving counterfeit of intellectual property subjects
+
+(10) motions for suspension of enforcement, preservation of evidence, and injunctive procedures in connection with any of the public law disputes listed in Subparagraphs (1) to (9) above
+
+(11) other cases prescribed by law or determined by the Judicial Yuan to be within the jurisdiction of the IPCC
+
+A matter involving an act in violation of obligations under both an intellectual property law and another administrative law that warrants a fine is an intellectual property administrative action so long as the fine prescribed by the intellectual property law is higher. Such matter also constitutes an intellectual property administrative action even if involving confiscation or other administrative punishment, unless the types of punishment are the same and heavier punishment is imposed pursuant to the non-intellectual property law.
+
+## Article 6
+
+The compulsory enforcement matter under Paragraph 1, Article 68 of the Act and Subparagraph 3, Article 3 of the Intellectual Property and Commercial Court Organization Act refers to a matter in which the creditor files a motion for enforcement upon a final judgment of the intellectual property administrative action in the preceding article ordering the debtor to perform a specific obligation, on the ground of the enforcement title as the debtor's failure to so perform after the judgment becomes final.
+
+## Article 7
+
+The following do not constitute intellectual property administrative actions:
+
+(1) a matter where the competent intellectual property authority is a party to the administrative action, but the claim asserted in such action is not based on intellectual property laws
+
+(2) an action filed against an administrative decision which, though associated with intellectual property rights, is not directly based on intellectual property laws or on decrees authorized by intellectual property laws
+
+## Article 8
+
+The court may conduct remote hearings in accordance with Article 5 of the Act as below:
+
+(1) All or some of the persons required to appear in court to make statements may make their statements from a court other than the first-mentioned court, a prosecutor's office, government agency, other appropriate premises, or the premises where said persons are located, by using technological equipment allowing for real-time, two-way audiovisual transmission.
+
+(2) All or some of the persons required to appear in court to make statements may make their statements from an extended courtroom established by the court, using technological equipment allowing for real-time, two-way audiovisual transmission.
+
+## Article 9
+
+The court conducting a remote hearing in accordance with Article 5 of the Act may, under any of the following circumstances, take a recess until the condition is eliminated or may terminate the trial of such date, subject to the circumstances. The court clerk shall record the fact in the transcript:
+
+(1) A malfunction occurs in the remote hearing equipment and cannot be immediately resolved, thereby affecting the adjudication of the case.
+
+(2) The quality of video or audio transmission etc. in the course of the remote hearing is unclear and cannot be immediately adjusted, thereby affecting the adjudication of the case.
+
+(3) Other circumstances that are sufficiently deemed to affect a remote hearing of the case.
+
+The court, remote side, and related parties participating in the remote hearing shall be promptly notified in the event of the circumstances in the preceding paragraph.
+
+## Article 10
+
+The IPCC may, wherever necessary, in trying an intellectual property case, designate a Technical Examination Officer by ruling to perform the duties set forth in Article 6 of the Act; such ruling shall be adjudicated by the judges sitting in council in the event of a case subject to judgment by council.
+
+The name of the Technical Examination Officer designated to perform duties on the date for a court session shall be shown on the docket along with the names of the judges and the court clerk.
+
+## Article 11
+
+If a court other than the IPCC handling of an intellectual property case deems it necessary to designate a Technical Examination Officer for assistance, such court shall specify the type of case and the relevant professional knowledge or technical knowledge required for the case, and attach photocopies of the relevant dossier documents, to request the IPCC to assign the above officer and then designate such officer by ruling and deliver an authenticated copy of the ruling to the IPCC for its records.
+
+## Article 12
+
+Upon designation to assist in a trial and other procedures, a Technical Examination Officer shall peruse the exhibits and information on file and perform his/her duties in the following manner:
+
+(1) with respect to the litigation pleadings and materials of parties, analyze and sort the arguments based on his/her expertise in order to clarify the issues, and furnish references pertaining to his/her specialty
+
+(2) state his/her comments on the arrangement of the disputed issues and exhibits and on the scope, order and method of investigation of evidence to the judge for reference
+
+(3) appear on the date for a court session and, with the permission of the court, may question a party, agent ad litem, witness expert witness, or appraisers as necessary, and expound the technical terminology in the testimony of a party, agent ad litem, witness, expert witness, or appraiser that is not easily comprehensible
+
+(4) before or after inspection, state the relevant guidelines to the court, and assist the judge in ascertaining the party's explanation and in the treatment and operation of the object under inspection
+
+(5) assist with the compilation of schedules and illustration attaching to the judgment
+
+(6) with the permission of the presiding judge, attend as an observer and state his/her technical views relevant to the case in the deliberation
+
+(7) submit in writing in advance opinions to be stated, by order of the presiding judge
+
+(8) present professional technical opinions to the court, and handle and operate objects of enforcement as necessary in compulsory enforcement procedures
+
+(9) offer assistance in verifications conducted by verifiers
+
+## Article 13
+
+The name of the Technical Examination Officer participating in a trial on the date for a court session shall be specified in the transcript.
+
+The particulars of the matter where a Technical Examination Officer expounds to or directly questions a party, witness, expert witness, or appraiser on the date for a court session with the permission of the court shall be entered in the transcript.
+
+## Article 14
+
+A party may state its opinion to court on the exposition made by a Technical Examination Officer on a date for a court session.
+
+## Article 15
+
+The court may cancel a ruling designating a Technical Examination Officer or order another Technical Examination Officer to perform duties, if necessary.
+
+## Article 16
+
+Statements made by a Technical Examination Officer may not be directly admitted as evidence for the purpose of finding on the facts to be established. The parties shall still discharge their burden of proof by presenting evidence with respect to the facts to be established in the action according to the procedures set forth in the applicable laws, without directly adducing the statements of a Technical Examination Officer as evidence.
+
+## Article 17
+
+When a party disputes or denies the content or scope of a trade secret alleged in the facts of a complaint, the court may, when necessary, order the party or a third party to categorize, organize, and appropriately explain (in the form attached) the litigation materials in its possession that involve the trade secret (including pleadings, evidence, and attachments thereof).
+
+## Article 18
+
+An intellectual property civil action involving in whole or in part a labor incident as defined in Paragraph 1, Article 2 of the Labor Incident Act is subject to the exclusive jurisdiction of the IPCC and not governed by the proviso of Paragraph 1, Article 9 of the Act.
+
+The IPCC shall adjudicate the action mentioned in the preceding paragraph in accordance with the following provisions:
+
+(1) The adjudication of disputes involving intellectual property rights is governed by the Act and these adjudication rules.
+
+(2) The adjudication of disputes involving labor incidents is governed by the Act and these Rules. The provisions of the Labor Incident Act and the Labor Incident Adjudication Rules apply where the Act and these Rules are silent; however, Paragraph 1, Article 4 and Chapter 2 of the Labor Incident Act does not apply.
+
+## Article 19
+
+After the IPCC renders a final judgment on an action as mentioned in Paragraph 4, Article 9 of the Act, no higher court may set aside the original judgment on grounds of violation of exclusive jurisdiction.
+
+## Article 20
+
+If the claim of a civil action is related to the claim or means of attack or defense of an intellectual property civil action, where the facts and evidence may be used interchangeably and the first-mentioned civil action is not under the exclusive jurisdiction of other court, the first-mentioned civil action may be filed together with the intellectual property civil action with the IPCC or brought as an additional claim or counterclaim during the pendency of the intellectual property civil action, unless otherwise provided.
+
+## Article 21
+
+No agreement between the parties on the IPCC being the court of first instance of a non-intellectual property civil action has the effect of choice of forum.
+
+If the IPCC determines that an action does not conform to the intellectual property civil action defined in Article 3, it shall transfer the action by ruling to the court with jurisdiction pursuant to Paragraph 1, Article 28 of the Code of Civil Procedure except in the circumstances described in Article 25 of the same code.
+
+## Article 22
+
+A court trying a non-intellectual property case is deemed in contravention of laws and regulations if it misapplies the special provisions governing the trying of intellectual property cases. A superior court may reverse or revoke the adjudication of the first-mentioned court on such grounds
+
+## Article 23
+
+Paragraph 1, Article 10 of the Act shall apply to a first-instance intellectual property civil action of which the amount or value of claim does not exceed the threshold for appeal to the third instance as stipulated in Article 466 of the Code of Civil Procedure if said amount or value exceeds such threshold as a result of an addition or otherwise amendment to the claim during proceedings.
+
+The actions in Subparagraph 3, Paragraph 1, Article 10 of the Act are not affected by any amendment to the claim.
+
+The actions in Subparagraph 6, Paragraph 1, Article 10 of the Act refer to appeals, interlocutory appeals, re-appeals, retrials, and other motions etc. entertained by the court of third instance, unless otherwise stipulated by Paragraph 2, Article 10 of the Act.
+
+The actions in Subparagraphs 1 to 3, Paragraph 2, Article 10 of the Act include interlocutory appeals, re-appeals, and motions for retrial etc. regarding such actions.
+
+## Article 24
+
+In an action as set out in Subparagraphs 1 to 5 and Subparagraph 7, Paragraph 1, Article 10 of the Act, litigation instituted by a party in the assigned court shall be conducted by the agent ad litem.
+
+## Article 25
+
+If a party appoints an agent ad litem as rectification within the prescribed time limit in accordance with Paragraph 2, Article 12 of the Act after instituting litigation such as filing a complaint, appeal, motion, interlocutory appeal, or action or motion for retrial, the litigation is ratified by the agent ad litem with effect from the time of the litigation retroactively.
+
+If a party appoints an agent ad litem as rectification beyond the prescribed time limit, its litigation is ratified by the agent ad litem with effect from the time of ratification.
+
+The court shall dismiss the litigation by ruling if the ratification in the preceding paragraph is made after the peremptory period of the litigation.
+
+## Article 26
+
+No written statement or motion of a party may be deliberated by the court in an action as in Paragraph 1, Article 10 of the Act if the party has not appointed an agent ad litem or if the agent ad litem it appoints fails to appear, unless the laws otherwise provides.
+
+## Article 27
+
+Where the actions set out in Subparagraphs 2 to 7, Paragraph 1, Article 10 of the Act and other actions arising in the proceedings thereof involve patent rights, a party may also appoint a patent attorney as the joint agent ad litem with the permission of the presiding judge.
+
+Under the circumstances in the preceding paragraph, a patent attorney may not conduct litigation without permission granted by the presiding judge in court and is deemed absent unless the circumstances set out in Paragraph 3, Article 16 of the Act apply.
+
+## Article 28
+
+Article 23 through the preceding article are applicable to an intervener mutatis mutandis.
+
+## Article 29
+
+The court and the parties shall conduct proceedings with a plan in order to achieve impartial, expeditious, and economical adjudication.
+
+Before deciding on a trial plan through discussion with the parties, the court may order both parties to submit relevant pleadings pursuant to Articles 266 and 267 of the Code of Civil Procedure, stating the time required and reasons as in Paragraph 2, Article 18 of the Act.
+
+## Article 30
+
+Where, in regard to issues of validity of patent or trademark rights, a party fails to make a preliminary showing of the factors mentioned in the proviso of Paragraph 7, Article 18 of the Act and presents the means of attack or defense beyond the prescribed time limit, the court may amend the trial plan in accordance with Paragraph 4, Article 18 of the Act if the opposing party agrees to present its arguments against such means of attack or defense.
+
+## Article 31
+
+The pleadings in Paragraph 2, Article 19 of the Act shall include photocopies of the documentary evidence used, to be submitted to the court, and a written copy or photocopy of the same shall be sent directly to the opposing party or third party.
+
+If an opposing party or third party deems it necessary to state opinions in the circumstance in the preceding paragraph, it shall submit a pleading stating the reasons to the court and send a written copy or photocopy of the same directly to the applicant.
+
+## Article 32
+
+Before making a ruling as in Paragraph 1, Article 19 of the Act, the court may advise the parties, third parties, or Technical Examination Officers to negotiate the matters listed in Paragraph 5, Article 19 of the Act.
+
+The court may order the parties or third parties to state opinions on the candidacy of the verifier if the court fails to proceed with the negotiation mentioned in the preceding paragraph.
+
+## Article 33
+
+Within five days of his or her receipt of the ruling in Paragraph 5, Article 19 of the Act, a verifier shall disclose in writing the matters set out in Paragraph 2, Article 20 of the Act to the court, such the written disclosure being served by the court on the parties or third parties; matters discovered or occurring after disclosure shall also be disclosed within five days of such discovery or occurrence.
+
+A verifier appointed by the court may, within seven days of his or her receipt of the ruling in Paragraph 5, Article 19 of the Act, state the reasons for refusing to conduct verification, unless otherwise provided. The court shall revoke the ruling appointing the verifier if it finds the reasons valid.
+
+## Article 34
+
+No verification already conducted may be deliberated by the court after the ruling in Paragraph 5, Article 19 of the Act is conclusively revoked.
+
+## Article 35
+
+To conduct a verification, a verifier shall promptly set and notify the court of the date and time of verification.
+
+The court shall promptly notify the verified party of the date and time of verification upon receiving the notification in the preceding paragraph.
+
+No applicant, agent, or other third party may, without the verifier's consent, be present in the verification conducted by the verifier, save for Technical Examination Officers assisting with the verification.
+
+A verifier shall keep confidential the work- or business-related secrets or matters of personal privacy of others which become known to him or her by virtue of the verification.
+
+## Article 36
+
+If there are multiple verifiers, they may prepare the verification report to submit to the court jointly, provided they shall do so separately where opinions differ.
+
+The verification report shall include the following:
+
+(1) the name of the verifier
+
+(2) the date, time, location of the verification, names of attendees and their relationships to the verified party
+
+(3) where assistance with the verification is rendered by a Technical Examination Officer, the name of such officer, and date, time, location, and content of assistance
+
+(4) whether the verified party refuses or obstructs the verification
+
+(5) the items, methods, and results obtained of verification
+
+(6) other necessary matters
+
+## Article 37
+
+The movant of the motion in Paragraph 3, Article 23 of the Act shall file a pleading indicating the reasons, attach necessary evidence, and specify the scope of the motion by describing the trade secrets with code designations.
+
+The movant shall submit the pleading in the preceding paragraph together with a copy or photocopy with the contents of the trade secrets redacted or de-identified, for the court to serve on the parties.
+
+If it is necessary for a party to state opinions after receiving the pleading in the preceding paragraph, it shall, within ten days, submit the opinions in writing to the court and send a written copy or photocopy of the same directly to the movant in Paragraph 1.
+
+## Article 38
+
+The content of the report disclosed in accordance with Paragraph 3, Article 6 of the Act may not be disclosed to persons other than those to whom the verification report is disclosed if said content involves trade secrets contained in the verification report.
+
+## Article 39
+
+The motion in Paragraph 1, Article 24 of the Act shall be filed in the form of a pleading.
+
+A party identifying a verification report as documentary evidence to be introduced shall file a pleading specifically stating the content of the report and attach photocopies of the documentary evidence used, to be submitted to the court, and send a written copy or photocopy of the same directly to the opposing party.
+
+## Article 40
+
+An expert witness or appraiser shall keep confidential the work- or business-related secrets or matters of personal privacy of others which become known to him or her by virtue of his or her participation in the proceedings.
+
+## Article 41
+
+When interpreting patent claims, the court may record in the transcript, or enter an interlocutory judgment in accordance with the former part of Paragraph 1, Article 383 of the Code of Civil Procedure on, the literal meaning of the patent rights defined by the wording of the claims, to disclose its conviction to the extent appropriate.
+
+## Article 42
+
+The holder of such evidence as a document, object for inspection, data required for appraisal etc. as described in the proviso of Paragraph 1, Article 34 of the Act may refuse to submit said evidence if the evidence involves its trade secrets and disclosure of the evidence is likely to cause harm to the holder, provided the court may order submission by the holder in a manner not open to the public, if deemed necessary after considering whether there are justifiable grounds for the holder's refusal.
+
+Where the court deems it necessary to hear the opinion of a related party to the action in the circumstance described in the proviso of the preceding paragraph, it shall order discovery of the evidence in whole or in part in a manner not open to the public, and may, before ordering discovery, instruct the holder to file a motion for a confidentiality preservation order to be issued to the party to whom disclosure is made.
+
+In the circumstance described in the preceding paragraph, the court may not order discovery until the ruling on the motion for a confidentiality preservation order becomes conclusive.
+
+The court shall determine whether the holder of evidence has a justifiable ground for refusing to furnish the relevant document or object for inspection or not, by deliberating on the connection between the trade secret and fact to be established, availability of an alternative evidentiary method or requirement on presumption of facts, possibility of moving for a confidentiality preservation order, and other circumstances
+
+## Article 43
+
+If a holder of a document, object for inspection, or data required for appraisal refuses without good cause to submit such document, object, or data to the court, the court may, pursuant to the import of Article 345 of the Code of Civil Procedure, taking the circumstances into account, accept the assertions regarding the nature, content, and authenticity of such document, object, or data as made by the party producing evidence, or the fact to be established based on such document, object, or data by the party producing evidence, as true. Notwithstanding, the parties shall, before the judgment, be accorded an opportunity to present their arguments before the above may be adopted as basis for judgment.
+
+## Article 44
+
+A party or third party filing a motion for a confidentiality preservation order in accordance with Paragraph 1, Article 36 of the Act shall submit a pleading stating the following facts regarding elements and make a preliminary showing of the matters described in Subparagraphs (1) and (2) below:
+
+(1) The party's pleadings or evidence-taking that has been or is to be made involves trade secrets.
+
+(2) It is necessary to impose restrictions on the disclosure or use of the trade secret since disclosure or use of the trade secret for a purpose other than the purpose of the legal proceeding in question is likely to hinder the business activity which the party or third party engages in based on such trade secret.
+
+(3) As of the motion for the confidentiality preservation order, the person to be subject to the order has not obtained or possessed the trade secret by ways other than the perusal of the pleadings or investigation of the evidence.
+
+## Article 45
+
+A pleading submitted by a party or third party moving for a confidentiality preservation order in accordance with Article 37 of the Act shall include the following:
+
+(1) the natural person subject to the confidentiality preservation order and his or her place of service
+
+(2) the trade secrets to be protected by the order, designated by codes or the corresponding evidence name/number identifiers, to specify the scope
+
+Prosecutors initiating public prosecutions and civil servants participating in litigation have official confidentiality obligations, against whom no motion for a confidentiality preservation order is necessary.
+
+## Article 46
+
+Actions involving a motion or request for a confidentiality preservation order are separately assigned on a first-come, first-assigned basis and handled by the court where the principal case is pending.
+
+In regard to criminal cases appealed to the Supreme Court, where the dossier documents are already delivered to said court, the Supreme Court in handling an action as mentioned in the preceding paragraph may, if necessary for investigating the facts to determine the contents and scope of trade secrets, transfer the action to the IPCC after stating the reasons for investigation, for a ruling to be entered.
+
+The IPCC may request the dossier documents from the Supreme Court before entering the ruling mentioned in the preceding paragraph.
+
+The dossier of an action involving a confidentiality preservation order shall have a cover distinguishable by a different color from the covers of other dossiers.
+
+## Article 47
+
+If a party or third party refuses to move for a confidentiality preservation order without just cause after being directed by the court under Paragraph 3, Article 36 of the Act to do so, the opposing party or the party may request the court to issue a confidentiality preservation order against persons not subject to the confidentiality preservation order in Paragraph 1, Article 36 of the Act.
+
+To consider whether there are grounds for the refusal to file a motion as in the preceding paragraph, the court may, before making a finding, order the party or third party to make a preliminary showing of the specific content and extent of the disadvantages caused by a disclosure of the trade secrets, whether there are alternative methods of disclosure, or whether it is necessary to file the motion etc.
+
+## Article 48
+
+When the opposing party or a party requests a confidentiality preservation order pursuant to Paragraph 3, Article 36 of the Act, Subparagraphs 1 and 3, Article 44, and Article 45, apply mutatis mutandis.
+
+Pleadings of the request in the preceding paragraph shall be submitted to the court. A written copy or photocopy of the same shall be sent directly to the parties or third parties.
+
+## Article 49
+
+Before entering a ruling on an action involving a motion or request for a confidentiality preservation order, the court may conduct the necessary evidence-taking; and may advise the parties or third parties to negotiate upon the persons to be subject to the confidentiality preservation order and scope of trade secrets to be protected by the order.
+
+The persons to be subject to the confidentiality preservation order as mentioned in the preceding paragraph are limited to those with access to the trade secret by virtue of the principal case.
+
+## Article 50
+
+The court may take the necessary evidence in an action involving a confidentiality preservation order; no person present may divulge the content of evidence involving trade secrets or remove any data from the courtroom without the consent of the data provider obtained by the court.
+
+## Article 51
+
+The court may stay the trial of the portion of a principal case concerning a trade secret prior to its ruling on the motion or request for a related confidentiality preservation order becoming conclusive.
+
+## Article 52
+
+With regard to trade secrets involved in a ruling on a confidentiality preservation order, the trade secrets to be protected shall be designated by codes or the corresponding evidence name/number identifiers.
+
+No ruling on a confidentiality preservation order may attach litigation materials containing trade secrets.
+
+Litigation materials that contain trade secrets as submitted by a party or third party shall be returned if it is no longer necessary to retain them after the conclusion of the trial.
+
+Under the circumstance described in the preceding paragraph, the court clerk shall prepare a written record and present the same to the person producing the litigation materials that contain trade secrets, or its agent, to be signed on the spot.
+
+## Article 53
+
+Rulings on a motion or request for revocation of a confidentiality preservation order shall be served on the movant, requester, and opposing party.
+
+## Article 54
+
+A confidentiality preservation order shall become effective against the opposing party upon being served on the opposing party. The court may not effectuate service by constructive notice of a confidentiality preservation order.
+
+The court may direct the movant or requester in its notice for negotiation under Paragraph 1, Article 49 to collect personally or through an agent the ruling on the confidentiality preservation order from court.
+
+A person subject to a confidentiality preservation order may collect the ruling on the confidentiality preservation order at the court personally or through an agent, and shall report to court any change of his/her domicile or residence.
+
+## Article 55
+
+Motions or requests for confidentiality preservation orders made by persons other than the movant or requester in Paragraph 1 or 3, Article 36 of the Act shall be dismissed by ruling.
+
+If the court erroneously grants a motion or request as in the preceding paragraph, it may not revoke the confidentiality preservation order upon motion or request or ex officio if the circumstances under Paragraph 3, Article 39 of the Act apply.
+
+## Article 56
+
+Where a party claims or defends in accordance with Paragraph 1, Article 41 of the Act that an intellectual property right shall be cancelled or revoked, the court shall independently consider the validity of the right and may not rule to stay the legal proceedings on the grounds that administrative review or the administrative proceeding has not concluded.
+
+If the right in the preceding paragraph is conclusively found upon administrative review or in an administrative proceeding to be valid, or if by law the right may no longer be asserted in such proceeding, no further claim or defense based on the same facts and evidence may be raised in an intellectual property civil proceeding.
+
+## Article 57
+
+The court shall overrule any independent action for a declaratory judgment, any concurrent claim by the party in the civil action for a judgment establishing the legal relationship, or any counter-claim filed by said party, with respect to the disputed issue over the validity of an intellectual property right or over whether an intellectual property right shall be cancelled or revoked.
+
+## Article 58
+
+A patentee shall, unless otherwise provided, apply to the competent patent authority for amendment before stating to the court that an amended patent claim applies to its claim or assertion.
+
+Where a patentee states to the court that an amended patent claim applies to its claim or assertion, the court shall adjudicate the principal case on the basis of the amended claim if the amendment is found legal by the court or approved by the competent patent authority.
+
+## Article 59
+
+The court may overrule pursuant to Paragraph 2, Article 196 of the Code of Civil Procedure the means of attack or defense over whether an intellectual property right shall be cancelled or revoked or over an amendment of patent claims, if conclusion of the action is impeded by a party's attempt to defer the proceeding or by a party's delay in filing its means of attack and defense out of gross negligence.
+
+## Article 60
+
+Where, in the reasons of a conclusive judgment on an intellectual property civil litigation, an issue of cancellation or revocation of an intellectual property right or amendment of patent claims as under Paragraph 1, Article 41 or Paragraphs 1 and 2, Article 43 of the Act is determined on the basis of the results of arguments presented, if the same party raises in other actions regarding the same issue a claim or defense contrary to the gist of the final judgment on the basis of the same basic facts, the court shall make its determination by deliberating on the relevant circumstances such as whether the above final judgment is obviously in contrary to laws and regulations or unfair, whether new litigation information emerges that may affect the outcome of the judgment, and the principle of good faith.
+
+## Article 61
+
+The court shall accord the parties an opportunity to review and state their opinions on the photocopies or electronic files of documents requested by the court from the competent intellectual property authority under Paragraph 3, Article 42 of the Act.
+
+The court shall notify the parties or third parties of the provision of Article 32 of the Act before allowing the parties to conduct the review if it knows the photocopies or electronic files of documents in the preceding paragraph contain trade secrets.
+
+## Article 62
+
+When the court serves pleadings on the other party and the opposing party to notify such parties of an action in accordance with Paragraph 2, Article 45 of the Act, the parties being notified may apply for reviewing, transcribing, videotaping, or otherwise reproducing the litigation materials.
+
+On knowing the litigation materials in the preceding paragraph contain trade secrets, the  court shall notify the known trade secret holders before the parties being notified review the dossier, and Articles 32, 33, and 36 to 40 of the Act apply.
+
+## Article 63
+
+No trial concerning the amount of damage in a civil action over the infringement of an intellectual property right shall be conducted until after the argument on the existence of infringement, unless the court deems advance or contemporaneous debate necessary over the content of the damage.
+
+## Article 64
+
+Where no action is initiated, a motion under Article 51 of the Act shall be filed with the court where the action shall be pending; after an action is initiated, such motion shall be filed with the court where the principal case is pending; provided, however, the motion shall be filed with the court of first instance where the action is pending if the principal case is pending before the Supreme Court.
+
+The above motion, if in a civil action supplemental to a criminal action, shall be filed with the court entertaining such civil action supplemental to a criminal action.
+
+## Article 65
+
+An applicant seeking an injunction maintaining the temporary status quo of a disputed legal relation involving intellectual property must provide a preliminary showing with regard to the existence of such legal relation and the need to maintain the temporary status quo. The court shall dismiss the application if the preliminary showing is insufficient, without allowing the provision of a bond to supplement the above-mentioned insufficiency.
+
+The court may still order the applicant having made the above preliminary showing to provide an adequate bond in its ruling on an injunction maintaining the temporary status quo.
+
+The court reviewing an application for maintaining the temporary status quo shall, with respect to the necessity of preservation, deliberate the following circumstances:
+
+(1) the likelihood of success of the applicant in the future
+
+(2) whether the granting or rejection of the application will cause irreparable harm to the applicant or the opposing party
+
+(3) the likelihood and extent of current and ongoing harm caused by the injunction to both parties
+
+(4) the impact on public interest
+
+The method of injunction maintaining the temporary status quo shall be decided by the court at its discretion, provided that said method must align with the purpose of the injunction maintaining the temporary status quo and may not exceed the necessary extent.
+
+## Article 66
+
+The court shall verify whether the applicant has initiated an action with the court within the 14-day peremptory period, before revoking the injunction maintaining the temporary status quo in accordance with Paragraph 4, Article 52 of the Act.
+
+## Article 67
+
+Jurisdiction over other criminal cases under Subparagraph 1, Paragraph 2, Article 54 of the Act pursuant to Subparagraph 1, Article 7 of the Code of Criminal Procedure, over which the district court has first instance jurisdiction, shall be exercised respectively by the competent district court and an intellectual property tribunal of first instance if those cases have been prosecuted separately by the prosecutor.
+
+Jurisdiction over cases under Paragraph 1, Article 54 of the Act, being related to a case under Subparagraph 1, Paragraph 2, Article 54 of the Act pursuant to Subparagraphs 2 to 4, Article 7 of the Code of Criminal Procedure, over which the district court has first instance jurisdiction, may be jointly exercised by an intellectual property tribunal of first instance.
+
+In the event of cases under Paragraph 1, Article 54 of the Act which are related to a case under Subparagraph 1, Paragraph 2, Article 54 of the Act pursuant to Article 7 of the Code of Criminal Procedure and over which the district court has first instance jurisdiction, additional prosecution may be initiated with an intellectual property tribunal of first instance in accordance with Article 265 of the Code of Criminal Procedure if those cases have not been prosecuted together by the prosecutor.
+
+## Article 68
+
+Jurisdiction over other criminal cases, being related to a case under Subparagraph 2, Paragraph 2, Article 54 of the Act pursuant to Subparagraph 1, Article 7 of the Code of Criminal Procedure, over which the high court has first instance jurisdiction, shall be exercised respectively by the competent high court or a branch thereof, and an intellectual property tribunal of second instance, if those cases have been prosecuted separately by the prosecutor.
+
+Jurisdiction over cases under Paragraph 1, and Subparagraph 1, Paragraph 2, Article 54 of the Act which are related to a case under Subparagraph 2, Paragraph 2, Article 54 of the Act pursuant to Subparagraphs 2 and 4, Article 7 of the Code of Criminal Procedure may be jointly exercised by an intellectual property tribunal of second instance.
+
+## Article 69
+
+In a trade secret criminal case, the court may, before the first trial date, summon the accused or its agent, and advise the prosecutor, advocate, and assistant ad litem to be present in a preparatory proceeding to confirm the scope of the trade secrets covered by the effect of the prosecution, applying the provisions of Article 56 of the Act and Paragraph 1, Article 273 of the Code of Criminal Procedure.
+
+## Article 70
+
+If a party files an appeal or an interlocutory appeal against an adjudication of the district court over a criminal case where the court finds that the legal provision to apply to the relevant facts of crime as invoked by the prosecutor should change to Paragraph 1, Article 54 of the Act, the district court shall refer such criminal case being appealed to an intellectual property tribunal of second instance.
+
+## Article 71
+
+If a criminal case which is related to a case under Paragraph1, Article 54 of the Act pursuant to Subparagraphs 2 to 4, Article 7 of the Code of Criminal Procedure is tried jointly by the district court, any appeal or interlocutory appeal shall be filed respectively with an intellectual property tribunal of second instance and with the competent high court or a branch thereof.
+
+If a criminal case which is related to a case under Subparagraph 1, Paragraph 2, Article 54 of the Act pursuant to Subparagraph 1, Article 7 of the Code of Criminal Procedure and over which the district court has first instance jurisdiction is tried jointly by an intellectual property tribunal of first instance, the proviso of Paragraph 2, Article 58 of the Act does not apply to any joint appeal or joint interlocutory appeal filed with an intellectual property tribunal of second instance.
+
+## Article 72
+
+When the prosecution or private prosecution of a case under Paragraphs 1 and 2, Article 54 of the Act is dismissed by ruling in accordance with Paragraph 2, Article 161 or Paragraph 3, Article 326 of the Code of Criminal Procedure, upon motion by the plaintiff the supplemental civil action shall be transferred to a civil tribunal of the court with jurisdiction.
+
+When the ruling by which an action is transferred is deemed reversed as in Paragraph 3, Article 63 of the Act, the court shall give notice to the parties and related parties to the supplemental civil action in an appropriate manner.
+
+## Article 73
+
+Articles 40, and 44 to 56 apply mutatis mutandis to the adjudication of cases under Paragraphs 1 and 2, Article 54 of the Act and their supplemental civil actions.
+
+## Article 74
+
+In an administrative action concerning cancellation or revocation of a registered trademark or patent, the court shall still take into account any new evidence submitted on the same grounds for the cancellation or revocation prior to the end of the oral argument, provided the court may, pursuant to Article 132 of the Code of Administrative Procedure applying Paragraph 2, Article 196 of the Code of Civil Procedure mutatis mutandis, dismiss new evidence produced, if the conclusion of the action is impeded by the party's attempt to defer the proceeding or its failure, out of gross negligence, to follow the progress of the legal proceeding by presenting new evidence within an appropriate period prior to the end of oral argument.
+
+The competent intellectual property authority may request the court to allow the authority an adequate time for preparing any defense pleadings which the authority may be required by Paragraph 2, Article 70 of the Act to submit in response to the above-mentioned new evidence.
+
+## Article 75
+
+An intellectual property civil or criminal appeal or interlocutory appeal and an intellectual property administrative action being based on the same basic facts and pending concurrently or successively at the IPCC may be handled by the same independent or commissioned judge. The same shall apply where the former action is concluded.
+
+## Article 76
+
+No superior court may, on grounds of wrong jurisdiction, reverse the conclusive judgment entered by the administrative court on the principal case of an intellectual property administrative action.
+
+## Article 77
+
+Articles 41 to 55, Paragraph 1, Article 64, and Articles 65 and 66 apply mutatis mutandis to the adjudication of the intellectual property administrative actions in Subparagraphs 3 and 4, Paragraph 2, Article 3 of the Act.
+
+## Article 78
+
+These adjudication rules shall come into force as of August 30, 2023.
+
+## Attachments
+
+- [Attachment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009426)
+- [Attachment.docx](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009427)
+
+## History
+
+1.All 42 articles enacted and promulgated per April 24, 2008 Judicial Yuan Order Yuan Tai Ting Xing 1 Zi No. 0970009012 and enforced as of the date of implementation of the Intellectual Property Case Adjudication Act (which date is to be determined by the Judicial Yuan)
+
+Enforced as of July 1, 2008 per the Intellectual Property Case Adjudication Act promulgated per May 6, 2008 Judicial Yuan Order Yuan Tai Ting Xing 1 Zi No. 0970009972
+
+2.Articles 3 to 5, 13, 14 and 16 amended and promulgated, and Article 19-1 enacted, per July 21, 2014 Judicial Yuan Order Yuan Tai Ting Xing 3 Tze No. 1030020604, and enforced as of the date of enforcement of the Intellectual Property Case Adjudication Act.
+
+The Intellectual Property Case Adjudication Act partially amended and promulgated on June 4, 2014, and enforced as of June 6, 2014 per June 6, 2014 Judicial Yuan Order Yuan Tai Ting Xing 3 Tze No. 1030015766.
+
+3.Amended on August 10, 2018
+
+4.Amended on January 22, 2021
+
+5.Amendment to whole text of 78 articles promulgated per August 18, 2023 Judicial Yuan Order Yuan Tai Ting Hsing 3 Tze No. 1120300938 and enforced as of August 30, 2023

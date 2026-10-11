@@ -1,0 +1,1184 @@
+---
+title: "Review Standards and Employment Qualifications for Foreign Workers Engaged in Work Specified in Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Employment Service Act"
+title_zh: "外國人從事就業服務法第四十六條第一項第八款至第十款工作資格及審查標準"
+identifier: "N0090029"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-01-13
+last_amended: 2026-04-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090029"
+retrieved: 2026-10-12
+---
+
+# Review Standards and Employment Qualifications for Foreign Workers Engaged in Work Specified in Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Employment Service Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090029-review-standards-and-employment-qualifications-for-foreign-workers-engaged-in.md](../../../zh/regulations/ministry-of-labor/N0090029-review-standards-and-employment-qualifications-for-foreign-workers-engaged-in.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Standards are set up pursuant to the provisions of Paragraph 2, Article 46 and Paragraph 7, Article 52 of the Employment Service Act (hereinafter referred to as the Act).
+
+### Article 2
+
+In order to be employed for work specified in Subparagraphs 8 to 11, Paragraph 1, Article 46 of the Act, the qualifications of foreign workers must comply with the standards stipulated herein.
+
+### Article 3
+
+Foreign workers hired to engage in ocean fishing work referred to in Subparagraph 8, Paragraph 1, Article 46 of the Act, should be employed as senior or ordinary crew members, undertaking caged aquaculture and related manual work on board a powered fishing vessel with a total tonnage of less than 20 tonnes, not as a captain or powered boat driver.
+
+### Article 4
+
+Foreign workers hired to engage in work referred to in Subparagraph 9, Paragraph 1, Article 46 of the Act, have the following work responsibilities:
+
+\1. Live-in home help work: living with a family and performing house cleaning, cooking tasks, while taking care of the daily needs of family members or other related household work.
+
+\2. Institutional care work: take care of the daily lives of disabled residents or patients and related work in institutions or hospitals stipulated in Article 15.
+
+\3. Live-in care work: take care of the daily lives of care recipients and related work in their homes.
+
+### Article 5
+
+Work designated by the Central Competent Authority in accordance with Subparagraph 10, Paragraph 1, Article 46 of the Act includes the following responsibilities:
+
+\1. Manufacturing work: Direct involvement in the manufacture of manufacturing industry products or related manual work.
+
+\2. Outreach manufacturing work: Dispatched by an employer to an outreach manufacturing service contract work location to engage directly in the manufacture of manufacturing industry products or related manual work.
+
+\3. Construction work: Direct involvement in construction work or related manual work at a construction site or related location.
+
+\4. Slaughterhouse work: Direct involvement in slaughterhouse work or related manual work.
+
+\5. Outreach agricultural work: Dispatched by an employer to an outreach agriculture service contract work location to engage directly in agricultural, forestry, animal husbandry or aquaculture work or related manual work
+
+\6. Agriculture, forestry, animal husbandry or aquaculture work: Direct involvement in agricultural, forestry, animal husbandry or aquaculture work, or related manual work at agricultural, forestry, animal husbandry or aquaculture work locations.
+
+\7. Diverse companionship service work: An individual is sent by an employer to a contracted diverse companionship care services location to directly provide daily care to those who are disabled or sick, in the form of companionship or related physical work.
+
+\8. Waste and resource recycling and processing work:
+
+Engaging in tasks related to the storage, sorting, dismantling, separation, handling, movement, loading and unloading, crushing, screening, or other related physical activities pertaining to waste materials at waste recycling and processing sites (plants).
+
+\9. Other work designated by the Central Competent Authority.
+
+### Article 6
+
+(Delete)
+
+### Article 7
+
+Foreign workers employed to undertake work stipulated in the Standards must not have engaged in any of the following behavior:
+
+\1. Violations of the regulations in Article 43 of the Act.
+
+\2. Violations of the provisions of Subparagraphs 1 to 3, Article 73 of the Act, by being absent without leave for three consecutive days and out of contact, as well as one of the regulations stipulated in Subparagraphs 5 to 7 of the same Article.
+
+\3. Refusal to take a health examination or submission of false samples.
+
+\4. Failure of a health examination.
+
+\5. When the accumulated employment time of individuals employed in the Republic of China to engage in work listed in Articles 3 to 5 exceeds the duration prescribed in Paragraphs 4 or 6, Article 52 of the Act. However, this does not apply to those foreign workers employed to engage in work referred to in the previous article.
+
+\6. When an individual’s work expertise does not match the job for which they originally applied.
+
+\7. When an individual does not have documents attesting to good behavior.
+
+\8. When an individual is under 16 years old.
+
+\9. Foreign workers previously hired to engage in work stipulated in the Standards who could not be contacted for three consecutive days in the following periods:
+
+(1) Foreign workers who have not obtained an employment permit after being in the Republic of China for less than three days;
+
+(2) Foreign workers who have less that three days remaining on their employment permit.
+
+(3) During the period when a local competent authority is settling or transferring a foreign worker to a different employer or when he/she is legally required to leave the country but fails to comply.
+
+\10. Violations of other employment qualifications stipulated by the Central Competent Authority.
+
+### Article 8
+
+Foreign workers employed to engage in work detailed in Article 4 and Subparagraph 7, Article 5, must be 20 years old or older and possess one of the following qualifications:
+
+\1. Have passed a health examination at an overseas hospital approved by the central competent health and welfare authority of the Republic of China, or attended and passed a training program at a training facility designated by the competent labor authority in the country of origin, before entering the Republic of China, or have engaged in the same work in the Republic of China for six months or longer.
+
+\2. On arriving in Taiwan, foreign workers employed as live-in caregivers or home help are required to attend orientation classes lasting eight hour or longer at a location designated by the Central Competent Authority and obtain a certificate indicating they completed the class. However, this does not apply to individuals who attended the class within the past five years.
+
+The class in Subparagraph 2 of the above paragraph includes the following:
+
+(1) Laws relating to the employment and management of foreign workers.
+
+(2) Laws relating to labor rights in the Republic of China.
+
+(3) Public health and pandemic prevention related information.
+
+(4) Information on adapting to life and work in the Republic of China.
+
+(5) Other regulations approved by the Central Competent Authority.
+
+### Article 9
+
+When an employer applies to employ foreign workers to engage in the following work, the total number hired pursuant to the provisions of Subparagraph 1 and Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Act and the provisions of the “Regulations on the Qualifications and Permit Management for the Employment of Foreign Skilled Workers” (hereafter Regulations on Foreign Skilled Workers) the total number of workers must not exceed 50 percent of the average number of employees hired per month in the one year period preceding the two months before the date on which the application was filed.
+
+\1. Manufacturing work or skilled manufacturing work as detailed in the Regulations on Foreign Skilled Workers.
+
+\2. Slaughterhouse work or skilled slaughterhouse work as detailed in the Regulations on Foreign Skilled Workers.
+
+\3. Construction work detailed in Article 47-1 or skilled construction work as detailed in the Regulations on Foreign Skilled Workers.
+
+\4. Waste and resource recycling processing work.
+
+\5. Hospitality services work.
+
+The average number of employees per month mentioned in the above paragraph is calculated based on the number of workers with labor insurance on the same labor insurance certificate number or number of workers with Labor Occupational Accident Insurance. However, this does not include individuals an employer applies to hire based on the provisions in Item 5-1, Subparagraph 3, Article 6, Article 42 and Article 43.
+
+When an employer applies to employ foreign workers to engage in construction work detailed in Article 42 and Article 43 or skilled construction work as detailed in the Regulations on Foreign Skilled Workers, the total number employed pursuant to the provisions of Subparagraph 1 or Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Act and the Regulations on Foreign Skilled Workers must not exceed 50 percent of the number calculated based on the Project Finance Methodology and Manpower Demand Model. However, this does not apply when the Executive Yuan approves an increase in the foreign worker allocation ratio.
+
+After consultation and agreement between the Central Competent Authority and central competent authority in charge of the target business, the number of workers stipulated in Subparagraph 1, Paragraph 1, Article 46 of the Regulations on the Permission and Administration of the Employment of Foreign Workers hired by an employer detailed in the first and above paragraphs, is not included as part of the total number of foreign workers employed.
+
+## Chapter II Ocean Fishing Work
+
+### Article 10
+
+The employers of foreign workers hired to engage in ocean fishing work referred to in Article 3 are required to possess one of the following qualifications:
+
+\1. A fishing boat operator with total gross tonnage of 20 tons or above and a fishing license issued by the competent authority for the target business.
+
+\2. A fishing boat operator with powered fishing boats under 20 tons of total gross tonnage and a fishing license issued by the competent authority for the target business.
+
+\3. A caged aquaculture businesses zone designated fishing industry license issued by the authority in charge of the target business or a caged aquaculture entry certificate issued by an exclusive fishing rights holder.
+
+### Article 11
+
+The total number of foreign workers employed to engage in ocean fishing work pursuant to Subparagraphs 1 and 2 of the preceding Article shall include the following and cannot exceed the number of crew permitted on the fishing boat license.
+
+\1. Number of foreign workers on an initial recruitment application.
+
+\2. Minimum number of senior crew permitted on an ocean going vessel or required crew compliment on board a powered fishing vessel with a total tonnage of less than 20 tonnes; minimum of one.
+
+\3. Number of workers on an application for a recruitment permit, number of workers granted a recruitment permit and number of foreign workers already employed.
+
+\4. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+Minimum number of senior crew permitted on an ocean going vessel, or required crew compliment on board a powered fishing vessel with a total tonnage of less than 20 tonnes referred to in the preceding paragraph, shall be determined by regulations publicly announced by the central competent authority in charge of the target business and the related provisions of the Regulations on the Management of Crew Members of Fishing Vessels.
+
+When the number of domestic crew on the same fishing boat is more than the minimum number of crew allowed for ocean going vessels referred to in the preceding paragraph, the number of ocean going crew must be recorded.
+
+Foreign workers employed to engage in ocean fishing work by employers detailed in Subparagraph 3 of the previous Article are required to comply with the aquaculture area specified on the fishing industry license or fishing business entry certificate, where the employer can hire one foreign worker per half hectare. However, the number of foreign workers cannot exceed two-thirds of the total number of domestic workers employed.
+
+The number of domestic workers referred to in the previous paragraph, is calculated based on the average number of employees with labor insurance on the same insurance certificate number per month in the one year period preceding the two months before the application. However, if the employer’s labor insurance is not compulsory pursuant to Article 6 of the Labor Insurance Act and he/she does not establish an insurance coverage unit, a certified document verified by the municipal or county (city) government competent fishing authority must be submitted.
+
+The total number of foreign workers employed detailed in Paragraph 4 should include the following:
+
+\1. Number of foreign workers applying for first time recruitment
+
+\2. Number of foreign workers allowed to apply for a recruitment permit, who have received a recruitment permit or are already employed.
+
+\3. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+If employers referred to in Subparagraph 3 of the previous Article work with a partner in the caged aquaculture industry detailed in Article 3, the partnership must be notarized and a list of partners be verified by the municipal or county (city) government competent fishing authority. In addition, the number of partners should be included in the calculation of domestic workers in the previous paragraph.
+
+The number of foreign workers employed pursuant to Subparagraph 3, Paragraph 1 and Subparagraph 2, Paragraph 6 should also include skilled ocean fishing workers as detailed in the Regulations on Foreign Skilled Workers.
+
+## Chapter III Live-in Home Help Work
+
+### Article 12
+
+An employer applying for a recruitment permit to hire a foreign national to engage in live-in home help work pursuant to Subparagraph 1, Article 4 must have family members that meet one of the following conditions, and at least four cumulative points as calculated in accordance with Addendum Table 1:
+
+\1.	A child under 12 years of age.
+
+\2.	Direct lineal ascendants by blood and or stepparents orthe parents, stepparents of a spouse, who are 75 years of age or older.
+
+When a child under 12 years of age referred to in Subparagraph 1 of the preceding paragraph falls under Article 1091 of the Civil Code, the guardian can serve as the employer.
+
+If any family member under Paragraph 1 falls under one of the following circumstances, the number of related persons or points will not be counted:
+
+\1. The family member does not share the same household registration as the employer.
+
+\2. The family member has already applied for a foreign live-in care worker, or a live-in skilled care worker pursuant to the Regulations on the Work Eligibility, Permission and Administration of Skilled Foreign Workers.
+
+\3. The family member has already been included on an application for live-in home help.
+
+### Article 13
+
+Employers of foreign workers hired to engage in live-in home help work referred to in Subparagraph 1, Article 4 are required to comply with one of the following conditions:
+
+\1. Foreign employees hired as general managers or above at companies that have foreign investment of NT$100 million or more; or foreign employees hired as department heads or above at companies with foreign investment of NT$200 million or more.
+
+\2. Foreign employees hired as general managers or above at companies that had annual turnover of NT$500 million or more the previous year; or foreign employees who are employed as department heads or above at companies that had annual turnover of NT$1 billion or more the previous year.
+
+\3. Foreign employees who earned an income of NT$3 million or more the previous year and paid individual income tax in the Republic of China; or foreign employees hired in a senior management position or higher at a company, foundation, corporation or international non-profit making organization, and whose monthly income was NT$250,000 or higher in the current year.
+
+\4. Evidence confirmed by the central competent authority for the target business that a foreign employee served as a senior official or core technical member of a research and development team in an overseas startup company taken over by another company for US$5 million or more.
+
+\5. Evidence confirmed by the central competent authority for the target business that a foreign employee served as a senior official or core technical member of a research and development team in an overseas startup company that was successfully publicly listed.
+
+\6. Evidence confirmed by the central competent authority for the target business that a foreign employee served as a senior official at a venture capital company or fund that invested US$5 million or more in overseas startups or businesses.
+
+\7. Evidence confirmed by the central competent authority for the target business served that a foreign employee served as a senior official at a venture capital company or fund that invested US$1 million or more in domestic startups or businesses.
+
+Foreign employees referred to in Subparagraph 3 of the preceding paragraph who have an annual income of NT$2 million or more, or monthly income of NT$150,000 or more, and prior to being hired for a position in the Republic of China were employed as a foreign home help overseas, can be employed to work as a live-in home help in the Republic of China.
+
+When employers referred to in Subparagraphs 4 to 7, Paragraph 1, apply to rerecruit foreign workers they are required to submit evidence of the work performance of the employer in the Republic of China, approved by the central authority for the target business.
+
+The application conditions for foreign general managers in Paragraph 1 apply equally, mutatis mutandis, to the managerial personnel of foreign branch companies and representatives from the representative offices of foreign branch companies.
+
+### Article 14
+
+Employers who employ live-in home help pursuant to the provisions of the previous two Articles are limited to one home help per household.
+
+The total number of hired foreign workers referenced in the previous paragraph includes the following numbers:
+
+\1. Number of foreign workers on an initial recruitment application.
+
+\2. Number of workers on an application for a recruitment permit, number of workers with recruitment permits, and number of foreign workers already employed
+
+\3. Number of foreign workers permitted to transfer employers or work who have not yet received continued employment from a new employer or left the Republic of China.
+
+\4. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+## Chapter IV Institutional Care Work
+
+### Article 15
+
+Employers of foreign workers hired to engage in institutional care work referred to in Subparagraph 2, Article 4 are required to comply with one of the following conditions:
+
+\1. Long-term care facilities, care institutions, nursing home institution, or social welfare organizations, that take in and care for moderate to more severely disabled individuals, including patients with mental illnesses or dementia.
+
+\2. Nursing homes, hospitals for patients with chronic illnesses or general hospitals, ordinary hospitals or specialist hospitals with beds for patients who have chronic illnesses or require respiratory care.
+
+\3. Long-term care facilities established under the Long-Term Care Services Act that provide residential services.
+
+### Article 16
+
+The total number of foreign workers hired by employers referred to in the previous Article to engage in institutional care work shall be limited as follows:
+
+\1. Institutions referred to in Subparagraph 1 in the previous Article shall employ one person for every three beds, in accordance with its permitted business scale registered under law.
+
+\2. Nursing homes referred to in Subparagraph 2 in the previous Article shall employ one person for every five beds, in accordance with the legally registered number of beds.
+
+\3. Hospitals referred to in Subparagraph 2 of the previous Article can employ one person for every five legally registered beds.
+
+\4. Institutions referred to in Subparagraph 3 of the previous Article can employ one person for every five beds, in accordance with its permitted service scale registered under law.
+
+The total number of foreign workers referred to in the preceding paragraph, excepting hospitals referred to in Subparagraph 3 where the total number of foreign workers should not exceed the number of domestic caregivers, shall not exceed the total number of domestic caregivers and nursing staff combined:
+
+The calculation of the number of domestic caregivers and nursing staff referred to in the preceding Paragraph should be based on the number of employees in the institution concerned with labor insurance on the date of the application for a recruitment permit.
+
+### Article 17
+
+The total number of foreign institutional caregivers hired by employers referred to in the preceding Article should include:
+
+\1. Number of foreign workers on an initial recruitment application.
+
+\2. Number of foreign workers permitted to transfer employers or work who have not yet received continued employment from a new employer or left the Republic of China. However, foreign workers in the following situations are not included in the calculation:
+
+(1) Number of foreign workers an employer seeks to continue employing when he/she applies to the Central Competent Authority for re-recruitment four months or more before the workers’ employment permit ends.
+
+(2) Number of foreign workers when the factual basis for the original recruitment permit changes and the employer is unable to apply for replacement recruitment, re-recruitment or employment.
+
+\3. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+## Chapter V Live-in Caregiving Work
+
+### Article 18
+
+When foreign workers are hired to engage in live-in care giving work referred to in Subparagraph 3, Article 4, care recipients under their care are required to comply with one of the following conditions:
+
+\1. Individuals must have one of the conditions listed in the Specific Severe Physical and Mental Disabilities Categories.
+
+\2. One of the following conditions must be met after a professional evaluation conducted by a medical institution using a team-based approach:
+
+(1) Individuals under the age of 80 determined as requiring all-day care by a professional evaluation conducted by a team from a medical institution.
+
+(2) Individuals aged 80 or over determined to be severely dependent on nursing services by a professional evaluation conducted by a team from a medical institution.
+
+(3) Individuals aged 85 or over determined to be moderately dependent on nursing services by a professional evaluation conducted by a team from a medical institution.
+
+\3. Individuals who have used live-in care services, daycare services or at-home care services funded by governments at various levels for six months or more, in accordance with the provisions of Article 7 and Article 9 appended table No. 4 of the Long-term Care Services Application and Payment Measures.
+
+\4. A doctor issues a diagnosis certificate confirming a patient meets one or more of the medical symptoms or conditions announced by the Central Competent Authority
+
+If the care recipient in the preceding paragraph has been cared for by a live-in foreign care worker or skilled live-in foreign care worker as detailed in the Regulations on Foreign Skilled Workers in the past year the employer can apply to hire a foreign national as a live-in care worker.
+
+For care recipients aged 80 or above who are not covered by the preceding two paragraphs, the employer can apply to hire a foreign national as a live-in care worker by submitting the identification documents of the care recipient.
+
+Individuals who have accumulated enough points to apply for a live-in home help pursuant to Article 12 shall not be classified as a care recipient defined in the previous paragraph.
+
+The Specific Severe Physical and Mental Disabilities referred to in Subparagraph 1, Paragraph 1 are listed in Addendum 2 or the Disability Assessment Items and Standards approved by the Central Competent Authority.
+
+Medical institutions referred to in Subparagraph 2, Paragraph 1 are announced by the Central Competent Authority in consultation with the central health and welfare authority.
+
+The professional assessment referred to in Subparagraph 2, Paragraph 1 are determined by the central health and welfare authority.
+
+The degree of disability and care dependency of care recipients specified in Paragraph 1 and Paragraph 3 will be announced by the Central Competent Authority.
+
+### Article 19
+
+(Deleted)
+
+### Article 20
+
+When foreign workers engaged in work detailed in Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Act, other than being required to be compliant with other requirements specified in the Standards, have also worked for 12 years in the Republic of China, or will have worked for 12 years within one year, and have accumulated 60 points pursuant to the provisions of Addendum 4, when an employer applies to hire them as a live-in caregiver they will be permitted to work in the country for an accumulated 14 years.
+
+### Article 21
+
+When foreign workers are employed to engage in live-in care giving work referred to in Subparagraph 3, Article 4 of the Standards, the employer and care recipient are required to have one of the following relationships:
+
+\1. Spouse.
+
+\2. Direct blood relative.
+
+\3. Collateral blood relations within three degrees of kinship.
+
+\4. Step parents, stepchild, spouse’s parents or step parents, spouse of children or step children.
+
+\5. Spouse of grandparents and grandchildren, step grandparents and grandchildren, spouse of step grandparents and grandchildren.
+
+When the employer or care recipient is a foreign national, they are required to have a permit issued by the competent authority to reside in the Republic of China.
+
+If the care recipient does not have relatives in the Republic of China, or their circumstances lead to them being designated a special case by the Central Competent Authority, only then can a person who is not a relative of the care recipient or the care recipient be designated the employer when applying to hire a foreign worker. However, when the care recipient is designated an employer, he/she shall designate a person with full legal capacity to perform employer responsibilities when the care recipient is unable to do so.
+
+### Article 22
+
+Foreign workers hired by an employer referred to in the preceding Article to engage in live-in care giving work or skilled live-in care work as detailed in the Regulations on Foreign Skilled Workers are limited to one care worker per care recipient. However, if the care recipient has any of the following conditions an additional caregiver can be hired:
+
+\1. Disability certificate that indicates the individual is in a vegetative state.
+
+\2. When a professional medical evaluation classifies a care recipient as scoring zero on the Barthel Index and there is no chance of improvement for a six month period.
+
+The total number of foreign workers in the previous paragraph should include the following:
+
+\1. Number of foreign workers on an initial recruitment application.
+
+\2. Number of workers on an application for a recruitment permit, number of workers with recruitment permits and number of foreign workers already employed
+
+\3. Number of foreign workers permitted to transfer employers or work after the cancellation of an employment permit, who have not yet received continued employment from a new employer or left the Republic of China. However, this does not include individuals who have not received continued employment from an employer more than one month after an employment permit is canceled.
+
+\4. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+### Article 23
+
+\1. If, while the employment permit of a foreign worker hired to engage in live-in care work or intermediate skilled live-in care giving work remains valid, the competent authority determines the employer has violated the provisions of Subparagraph 3 or 4, article 57 of the Act, the Central Competent Authority will order the employer to arrange for the care recipient to receive a professional reevaluation at a designated medical institution within a set period of time or resubmit a diagnosis certificate issued by a doctor.
+
+\2. If the employer fails to comply within the time frame laid down by the Central Competent Authority, or the professional medical evaluation and diagnosis determines the care recipient is no longer eligible under the provisions of Paragraph 1, Article 18 or the previous Article, the Central Competent Authority will revoke the employer’s recruitment permit and employment permit in part or in whole pursuant to the provisions of Article 72 of the Act.
+
+## Chapter IV Manufacturing Work
+
+### Article 24
+
+For foreign workers employed to engage in manufacturing work referred to in SubParagraph 1, Article 5, when the employer’s factory requires working in environments with abnormal temperatures, dust, toxic gas, organic solvents, chemicals, non-automated operations and other specialized manufacturing operations, or where the central competent authority in charge of the target business or the free trade port administration certifies that the main product of the industry conforms to the provisions of Addendum 5, the employer can apply for an initial recruitment permit for the employment of foreign workers.
+
+Specialized manufacturing processes that conform to the previous paragraph but are not included in the industries listed in Addendum 5 can be approved by the Central Competent Authority after consulting with the central competent authority in charge of the target business.
+
+The Central Competent Authority, central competent authority in charge of the target business and free trade port administration are required to conduct on-site inspections pursuant to the previous two paragraphs.
+
+### Article 25
+
+When foreign workers are employed by employers referred to in the previous Article to engage in manufacturing work and those employers seek accreditation of a specialized manufacturing process from the Central Competent Authority, central competent authority for the target industry or free trade port administration, the allocation ratio, number of hired employees and total number of employed foreign workers as part of an initial recruitment application must conform to the provisions of Addendum 6.
+
+The average number of employees referred to in the previous paragraph does not include foreign workers employed pursuant to the provisions of Article 25-1, Article 25-2, all Subparagraphs of Paragraph 1, Article 26 and provisos in Paragraph 3, Article 28.
+
+### Article 25-1
+
+An employer who meets the qualifications of Article 24 and has been approved by the Central Competent Authority to continue the employment of foreign nationals previously employed by other employers in the manufacturing industry may increase the allocation ratio in Addendum 6 of Article 25 by 5 percent. However, the combined allocation ratio for Addendum 6 of Article 25 and Article 26 shall not exceed 40 percent of the average number of employees hired in the year preceding the two months prior to the application.
+
+### Article 25-2
+
+Where an employer meets the qualifications detailed in Article 24 and the requirements detailed below, the allocation ratio for employing foreign workers will be increased on a one-to-one basis, increasing the ratios specified in Addendum Table 6, Article 25. However, the total number of foreign nationals employed shall not exceed 10 percent of the average number of foreign employees employed in the one-year period preceding the two months prior to the month of application:
+
+\1. Starting from the month following, or the second month following, the issuance of the initial recruitment permit, the employer will, based on the number of workers on the recruitment permit applied for, increase the total monthly salary of full-time domestic workers at or above the minimum insured salary under labor insurance or occupational accident insurance, by no less than the amount prescribed by the Central Competent Authority. After the increase, the adjustment must not constitute an adverse change.
+
+\2. Based on the total increased monthly salary of full-time domestic workers in the preceding subparagraph, the employer shall lawfully declare an increase of at least one insured salary grade. However, if the insured salary grade in the month the employment permit is issued is Grade 1 of the Labor Insurance Insured Salary Grade Table or the Occupational Accident Insurance Insured Salary Grade Table, it should be increased to at least Grade 3.
+
+For employers who increase the total monthly salary of full-time domestic workers in accordance with the preceding paragraph, the insured salary grade shown in the Labor Insurance or Occupational Accident Insurance Insured Salary Grade Table for the month two months prior to the month of application will serve as the calculation basis when applying for a recruitment permit.
+
+The total number of foreign nationals in Paragraph 1, including those calculated under the allocation ratio in Addendum Table 6, Article 25 and any increased ratio granted for the employment of foreign nationals under Article 25-1 and Article 26, must not exceed 45 percent of the average number of employees hired during the one-year period two months prior to the month of application.
+
+### Article 26
+
+The ratio of initially recruited foreign workers applied for by an employer in accordance with Article 25 to the total number of employed foreign workers can be increased if the following additional monthly employment security fees per person are paid:
+
+\1. If the ratio is increased by 5 percent, the employer is required to pay an extra NT$3,000 employment security fee for each foreign worker per month.
+
+\2. If the ratio is increased by 5 percent to 10 percent, the employer is required to pay an extra NT$5,000 employment security fee for each foreign worker per month.
+
+\3. If the ratio is increased by 10 percent to 15 percent, the employer is required to pay an extra NT$7,000 employment security fee for each foreign worker per month.
+
+\4. If the ratio is increased by 15 percent to 20 percent, the employer is required to pay an extra NT$9,000 employment security fee for each foreign worker per month.
+
+The increased ratio referred to in the preceding paragraph, combined with the allocation ratio in Table 6 of Article 25 and the ratio in Article 25-1, shall not exceed 40% of the employer’s average number of employees in the year prior to the two months preceding the month of application.
+
+If an employer brings in foreign workers in accordance with the increased ratio in the first paragraph, the amount of additional employment security fee to be paid cannot be changed.
+
+### Article 27
+
+Employers with any of the following qualifications that have an application for new investment approved by the central competent authority in charge of the target business can apply for an initial foreign worker recruitment permit:
+
+\1. Certified factory registration document attesting to the establishment of a new factory.
+
+\2. Individuals who meet the qualification in the previous subparagraph and any of the following conditions:
+
+(1) High-tech industry investment of NT$$500 million or more in the manufacturing sector, or manufacturing investment of NT$100 million or more by other industries.
+
+(2) When a new investment plan estimates that within one year of the new factory being registered it will hire 100 or more domestic workers.
+
+The application for accreditation in the previous paragraph should be submitted from March 13, 2013, when the amendments to the Standards came into effect, to December 31, 2014.
+
+After accreditation detailed in Paragraph 1 employers can apply one time to the Central Competent Authority to hire foreign workers, but the total number of foreign workers applied for and already employed foreign workers must not exceed the ratio calculated by multiplying the number of employees estimated by the central competent authority in charge of the target business by the allocation ratio in Addendum 6 of Article 25 and Article 25-1, added to the ratio in the previous Article.
+
+When the ratio of employed foreign workers referred to in the previous paragraph conforms to either of the following rules the employer does not have to pay the additional employment security fee referred to in the previous Article for a period of three years:
+
+\1. Subparagraph 1, Paragraph: 1: 5 percent or less.
+
+\2. Subparagraph 2, Paragraph: 1: 10 percent or less.
+
+### Article 28
+
+Employers approved by the central competent authority in charge of the target business as having any of the following qualifications can apply for an initial foreign worker recruitment permit:
+
+\1. Employers approved or recognized by the central competent authority in charge of the target business as having invested overseas for two years or more and confirmed as conforming to one of the following conditions:
+
+(1) Where international sales of own brand products over the past two years in foreign countries account for 50 percent or more of the company’s total output.
+
+(2) Where the company was one of the top five suppliers in the international supply chain or has a market share of 10 percent or more of the international market over the past year
+
+(3) When it is classified as a high-value added product and key component related industry.
+
+(4) When the central competent authority in charge of the target business approves the establishment of an R&D center or enterprise operations headquarters.
+
+\2. Factories completed within three years of the date of a letter of approval issued by the central competent authority in charge of the target business in accordance with the previous subparagraph that obtain certified new factory registration and are in compliance with the qualifications stipulated in items 1 and 2 of Subparagraph 2 in the first paragraph of the preceding Article.
+
+The time frame for applications for approval prescribed in the previous paragraph are as follows:
+
+\1. Subparagraph 1 of the previous paragraph: From November 22, 2012 to December 31,2014.
+
+\2. Subparagraph 2 of the previous paragraph: Within three years of the date the central competent authority in charge of the target business issues the letter of approval detailed in Subparagraph 1 of the previous paragraph.
+
+Employers approved according to Paragraph 1 can apply one time to the Central Competent Authority to hire foreign workers, but the number of foreign workers applied for and already employed foreign workers should be calculated based on Paragraph 3 of the previous Article. However, when the ratio of foreign workers applied for is less than 40 percent the employer is required to pay additional employment security fees pursuant to SubParagraph 3, Paragraph 1, Article 26 and increase the ratio of foreign workers to 40 percent.
+
+When the ratio of hired foreign workers referred to in the previous paragraph conforms to either of the following rules the employer does not have to pay the additional employment security fee prescribed in the provisos of each subparagraph of Paragraph 1, Article 26 and the provisos of the previous paragraph for a period of five years:
+
+\1. Points 1 to 3, Subparagraph 1, Paragraph: 1: 20 percent or less.
+
+\2. Point 4, Subparagraph 1, Paragraph: 1: 15 percent or less.
+
+### Article 29
+
+When an employer applies to employ foreign workers pursuant to the previous two Articles and the Central Competent Authority issues an initial recruitment permit, the foreign workers should be brought into the Republic of China within the time limit specified on the permit notification.
+
+When an employer applies to bring in foreign workers as referred to in the previous Paragraph the total must not exceed 50 percent of the number permitted by the initial recruitment permit. However, this provision does not apply when the number of domestic workers hired by an employer reaches 50 percent of the number of domestic workers expected to be hired as part of a new investment plan.
+
+### Article 30
+
+When employers receive approval from the central competent authority in charge of the target business they can, in the following situations, apply for an initial recruitment permit to employ foreign workers:
+
+\1. When an application is in compliance with the “Welcoming Taiwanese Companies Abroad to Invest in Taiwan Action Plan” approved by the Executive Yuan on December 7, 2018.
+
+\2. When an application is in compliance with the “Welcoming Taiwanese Companies Abroad to Invest in Taiwan Action Plan” approved by the Executive Yuan on July 15, 2025.
+
+When employers in compliance with the Offshore Wind Power Industry Additional Manpower Action Plan receive approval from the central competent authority in charge of the target business they can apply for an initial recruitment permit to employ foreign workers.
+
+Employers in compliance with the previous two paragraphs can apply once to the Central Competent Authority for an initial recruitment permit within one year of the completion of the investment period detailed in the approval letter.
+
+### Article 31
+
+The total number of foreign workers employers applied for and hired referred to in the previous Article must not exceed the ratio calculated by multiplying the number of employees estimated by the authority in charge of the target business by the allocation ratio in Addendum 6 of Article 25 and Article 25-1 added to the ratios detailed in Article 26.
+
+However, if the ratio of foreign workers for which the employer in the previous paragraph applies is lower than 40 percent, the ratio of foreign workers employed can be increased in accordance with the following regulations, but the total ratio must not exceed 40 percent:
+
+\1. Subparagraph 1, Paragraph 1 of the previous Article: Additional employment security fees must be paid pursuant to Subparagraph 3, Paragraph 1, Article 26, increased by 5 percent.
+
+\2. Subparagraph 2, Paragraph 1 of the previous Article: Additional employment security fees must be paid pursuant to Subparagraph 4, Paragraph 1, Article 26, increased by 10 percent.
+
+\3. Paragraph 2 of the previous Article: Additional employment security fees must be paid pursuant to Subparagraph 3, Paragraph 1, Article 26, increased by 10 percent.
+
+Employers that meet the following conditions can increase the ratio of foreign workers they employ by 5 percent. However, the total ratio cannot exceed 45 percent:
+
+\1. Employers that fall under the provisions of Subparagraph 2, Paragraph 1 of the previous Article.
+
+\2. Employers who pay additional employment security fees pursuant to Subparagraph 4, Paragraph 1, Article 26, increasing the ratio of foreign workers employed by 10 percent.
+
+\3. The labor insurance insurable salary and labor pension contribution salary for newly hired domestic workers is NT$38,200 or higher.
+
+When an employer calculates the total number of foreign workers on the basis of the ratios in the previous three paragraphs it should be done pursuant to the provisions of Addendum 6, Article 25.
+
+The total number of hired employees and employed foreign workers in previous four paragraphs and the previous paragraph is calculated based on the number of individuals with labor insurance on the same labor insurance certificate number at the factory owned by the employer. However, when a factory has been approved as having a specialized manufacturing process by the central competent authority in charge of the target business or a free trade port administration and has two operations or more, labor insurance certificate numbers shall be separate.
+
+### Article 32
+
+When an employer in compliance with the provisions of Article 30 applies to the central competent authority in charge of the target business for approval it must be done in accordance with the following time provisions:
+
+\1. Those in compliance with Subparagraph 1, Paragraph 1, Article 30 are required to apply from January 1, 2019 to December 31, 2024.
+
+\2. Those in compliance with Subparagraph 2, Paragraph 1, Article 30 are required to apply from January 1, 2025 to December 31, 2027.
+
+\3. Those in compliance with Paragraph 2, Article 30 are required to apply from July 1, 2021 to June 30, 2024.
+
+An employer can only apply one time for approval per factory pursuant to the provisions of Paragraph 1 or Paragraph 2, Article 30 and the Central Competent Authority and central competent authority in charge of the target business will conduct on-site inspections of the employer’s related qualifications.
+
+### Article 33
+
+When an employer applies to hire foreign workers pursuant to the provisions of Article 30 and the Central Competent Authority issues an initial recruitment permit, the foreign workers should be brought into the Republic of China within the time limit specified on the permit notification.
+
+An employer who applies to bring in foreign workers based on the previous paragraph must not exceed 50 percent of the number permitted by the initial recruitment permit. However, this does not apply when the number of domestic workers hired by an employer reaches 50 percent of the number expected to be hired.
+
+When an employer has not established a new labor insurance certificate number the number of domestic workers referenced in the provisos of the preceding paragraph should be calculated based on the domestic workers newly employed from the date the employer registered a certificate of employment demands with a public employment service agency to the date of the application.
+
+### Article 33-1
+
+If foreign workers employed in Taiwan attend on-the job advanced manufacturing, construction, agriculture or long-term care classes for an associate degree or higher at a local college or university, or enroll in related continued education credit courses, and earn nine study creits or more per semester, while their employment permit in Taiwan remains valid, and are employed in accordance with the provisions of Subparagraph 3, Paragraph 1, Article 26, employers are required to apply for a recruitment permit to employ foreign workers based on the number undertaking on-the-job training.
+
+When an employer applies for a recruitment permit to hire foreign workers in accordance with the above paragraph and the number is increased based on the provisions of SubParagraph 3, Paragraph 1, Article 26, the ratio of foreign workers employed can be increased by 5%. However, the total ratio cannot exceed 40%.
+
+When employers hire foreign workers based on the last two paragraphs they ae required to pay an additional employment security fee based on the provisions of Subparagraph 3, Paragraph 1, Article 26, to be reviewed based on regulations in Article 34.
+
+### Article 34
+
+The total number of foreign workers hired by an employer and brought into the Republic of China pursuant to the provisions of Articles 24, 25 and 37 should comply with the following regulations:
+
+\1. For manufacturing firms in free trade port areas, the number of foreign workers employed shall not exceed 40 percent of employees hired.
+
+\2. For Type A+ industries detailed in Addendum 5, Article 24, the number of foreign workers employed shall not exceed 35 percent of employees hired.
+
+\3. For Type A industries detailed in Addendum 5, Article 24, the number of foreign workers employed shall not exceed 25 percent of employees hired.
+
+\4. For Type B industries detailed in Addendum 5, Article 24, the number of foreign workers employed shall not exceed 20 percent of employees hired.
+
+\5. For Type C industries detailed in Addendum 5, Article 24, the number of foreign workers employed shall not exceed 15 percent of employees hired.
+
+\6. For Type D industries detailed in Addendum 5, Article 24, the number of foreign workers employed shall not exceed 10 percent of employees hired.
+
+When the number of foreign workers employed as referred to in the previous paragraph is one, a minimum of one or more domestic workers must be employed every month for every foreign worker employed.
+
+Pursuant to the provisions of Paragraph 3, Article 25-2and the previous two paragraphs, the Central Competent Authority should verify the ratio or total number of foreign workers and domestic workers hired by employers three months after the hired foreign workers arrive in the Republic of China or continue employment and every three months thereafter.
+
+The number of foreign workers, number of domestic workers and total employees hired by an employer referred to in Paragraph 1 and Paragraph 2 are calculated by designating the month two months prior to the inspection conducted by the Central Competent authority as a base month. The average number of workers who participated in the Labor Insurance program for the three months prior to the base month is then calculated.
+
+The total number of foreign workers employed and brought in by an employer pursuant to the provisions of Article 24, Article 25-2 and Articles 28, and the methods employed by the Central Competent Authority to inspect employer’s hiring of foreign workers must be in compliance with the provisions of Addendum 7.
+
+When employers hire foreign workers pursuant to the provisions of Article 30, the Central Competent Authority will conduct the following inspections in accordance with the previous five paragraphs and those inspections should be in accordance with the provisions of Addendum 8:
+
+\1. The total number of foreign workers employed and brought in by an employer pursuant to the provisions of Article 24, Article 25, Articles 26-28, and Article 31.
+
+\2. The number of new domestic workers employers add to the same labor insurance certificate number, labor insurance salary and labor pension wage contributions should comply with the following regulations:
+
+(1) Those in compliance with the provisions of Subparagraph 1, Paragraph 1, Article 30: NT$30,300 and above
+
+(2) Those in compliance with the provisions of Subparagraph 2, Paragraph 1, Article 30: NT$36,300 and above.
+
+(3) Those in compliance with the provisions of Subparagraph 2, Paragraph 1, Article 30 who also increase the ratio of foreign workers hired pursuant to paragraph 3, Article 31: NT$38,200 and above.
+
+(4) Those in compliance with the provisions of Paragraph 2, Article 30: NT$33,300 and above.
+
+If an employer hires foreign workers and one of the following situations pertains the recruitment permit and employment permit will be revoked pursuant to the provisions of Article 72 of the Act, and they will be counted in the total number of foreign workers referenced in the provisions of Addendum 6, Article 25.
+
+\1. When an employer hires foreign workers in excess of the ratio or number stipulated in Article 25-2, Article 26, Article 31 and Paragraph 1, the number of domestic workers employed does not meet the number detailed in Paragraph 2, and the Central Competent Authority issues a notification requiring improvements within a set period of time but those improvements are not made.
+
+\2. Violations of the provisions of Subparagraph 2 in the previous paragraph.
+
+### Article 34-1
+
+Beginning in the year following the issuance of a foreign worker recruitment permit to an employer pursuant to Article 25-2, the central competent authority shall conduct periodic reviews to verify the employer’s compliance with the requirements under Article 25-2 regarding the reported increases in the total monthly salary and the insured monthly salary of full-time domestic workers under labor insurance or occupational accident insurance.
+
+Where necessary, the competent authority may conduct on-site inspections to examine the employer’s compliance with the preceding paragraph and with the prescribed salary increase amounts set by the central competent authority under Subparagraph 1, Paragraph 1 of Article 25-2. The employer shall not evade, obstruct, or refuse such inspections.
+
+If the competent authority determines, based on the reviews conducted under the preceding two paragraphs, that the employer is not in compliance, the employer’s recruitment permit and employment permit shall be partially or entirely revoked in accordance with Article 72 of this Act.
+
+### Article 35
+
+If the number of foreign workers employed exceeds the number prescribed in Addendum 7, Article 34, the Central Competent Authority will revoke the employer’s recruitment permit and employment permit pursuant to Article 72. In addition, the employer shall pay the additional employment security fee originally waived in accordance with the provisions of Article 27 and Article 28.
+
+The owed employment security fee based on number of foreign workers employed, total amount and time period is calculated as below:
+
+\1. Number of foreign workers: Refers to the number of foreign workers listed on the recruitment permit and employment permit revoked by the Central Competent Authority. However, those not exempt from the additional employment security fee are excluded from the calculation.
+
+\2. Amount: The foreign workers who have their permits revoked in accordance with the previous subparagraph are exempted from paying additional employment security fees in accordance with the subparagraphs of Paragraph 1, Article 26.
+
+\3. Time period:
+
+(1) Initial inspection: Starting the day after the foreign worker in question enters the Republic of China until the day before the employment permit is revoked.
+
+(2) Subsequent inspections: Starting the day after the Central Competent Authority notifies the employer of the need to make improvements and sets a deadline for them to be implemented until the day before the employment permit is revoked. However, if a foreign worker enters the Republic of China after the employer has been notified of an improvement deadline, the period shall begin the day after entry and end the day before the employment permit is revoked.
+
+### Article 36
+
+The total number of foreign workers employed and brought in to the Republic of China pursuant to the provisions of Article 24 and Article 37 by employers is required to comply with the following stipulations:
+
+\1. For manufacturing firms in free trade port areas, the number of foreign workers employed shall not exceed 40 percent of employees hired.
+
+\2. For manufacturing firms not in free trade port areas, the number of foreign workers employed shall not exceed 20 percent of employees hired and a minimum of one domestic worker or more must be employed each month.
+
+Pursuant to the provisions of Subparagraph 4, Paragraph 3, Article 24, the Central Competent Authority shall inspect the ratio of foreign workers and number of domestic workers employed.
+
+When an employer hires in excess of the ratio or total number of foreign workers referenced in Paragraph 1 and fewer than the number of domestic workers stipulated in SubParagraph 2, Paragraph 1 the Central Competent Authority will issue a notification to make improvements within a set period of time. If no improvements are made within that time frame then pursuant to the provisions of Article 72 of the Act, the employer will have their recruitment permit and employment permit for the workers exceeding the stipulated maximum revoked and they will be included as part of the total number of total foreign workers based on the provisions of Addendum 6, Article 25.
+
+### Article 37
+
+If a manufacturing employer needs to continue the employment of a foreign worker he/she can apply one time to the Central Competent Authority for re-recruitment up to four months before the worker’s employment permit ends.
+
+The number of foreign workers in a re-recruitment application referred to in the previous paragraph must not exceed the number brought into the Republic of China on the previous recruitment permit or engaging in continued employment, on the same employment insurance certificate number.
+
+## Chapter VII Outreach Manufacturing Work
+
+### Article 38
+
+When foreign workers are engaged in outreach manufacturing work pursuant to the provisions of Subparagraph 2, Article 5, the central competent authority in charge of the target business in consultation with the Central Competent Authority will designate a trial operation, establish an industrial park administration and appoint one of the following to serve as an employer in accordance with Paragraph 1, Article 50 of the Statute for Industrial Innovation.
+
+\1. A juristic person.
+
+\2. A non profit seeking juristic person.
+
+\3. Other non profit making organizations established for public welfare purposes.
+
+For foreign workers engaged in outreach manufacturing work referred to in the previous paragraph, the work location in the outreach manufacturing service contract shall be confirmed by the Central Competent Authority as engaging in production involving the specialized manufacturing processes referenced in Paragraphs 1 and 2, Article 24.
+
+### Article 39
+
+An employer can apply for an initial recruitment permit to employ foreign workers after the approval of an outreach manufacturing service proposal submitted to the central competent authority in charge of the target business.
+
+The outreach manufacturing service proposal referred to in the previous paragraph is required to include the following:
+
+\1. Certified documents attesting to the employer’s qualifications.
+
+\2. Plans for the provision of services, fee-charging items, amounts to be charged and a sample contract.
+
+\3. Plans for manufacturing manpower deployment, supervision and educational training.
+
+\4. Plans for regular inspection and control of the number of workers using outreach manufacturing services at outreach manufacturing service contract locations.
+
+\5. Other outreach manufacturing service related information.
+
+Employers are required to adhere to the details of approved outreach manufacturing service proposals.
+
+The number of foreign workers hired by an employer to engage in outreach manufacturing work shall not exceed the number approved by the central competent authority in charge of the target business.
+
+The total number of foreign workers employed detailed in the previous paragraph should include the following:
+
+\1. Number of foreign workers applying for first time recruitment
+
+\2. Number of foreign workers allowed to apply for a recruitment permit, who have received a recruitment permit or are already employed.
+
+\3. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+### Article 40
+
+The total number of foreign workers hired independently by an employer and foreign workers engaging in outreach manufacturing work at service contract locations to which employers send them to engage in outreach manufacturing work shall not exceed 40% of the workers enrolled on the labor insurance program at the service location site.
+
+The number of foreign workers referred to in the previous paragraph is calculated based on the number of workers with labor insurance two months prior to the inspection.
+
+The industrial park administration referred to in Paragraph 1, Article 38 shall inspect the ratio of foreign workers at the service contract location every three months from the date they start working at the site pursuant to the provisions of Paragraph 1 and submit the results of said inspection to the Central Competent Authority.
+
+When the total number of foreign workers hired independently by an employer and foreign workers engaging in outreach manufacturing work at service contract locations exceed the ratio stipulated in Paragraph 1 the Central Competent Authority will order the employer to stop sending foreign workers to the service contract location.
+
+### Article 41
+
+If an employer is found to have engaged in any of the following behaviors the Central Competent Authority will revoke their recruitment permit and employment permit, in part or whole, pursuant to the provisions of Article 72:
+
+\1. Assignment of foreign workers to engage in outreach manufacturing work at locations that do not have the specialized manufacturing processes specified in Paragraph 1 or Paragraph 2, Article 24, and failure to rectify the misconduct within a fixed period of time.
+
+\2. Violations of the outreach manufacturing service proposal resulting in the central competent authority in charge of the target business revoking authorization.
+
+\3. Failure to comply after receiving notification from the Central Competent Authority to cease outreach manufacturing services in accordance with Paragraph 4 of the previous Article.
+
+\4. Where business operations are inadequate, violations of related laws and regulations, or seriously detrimental to public welfare.
+
+## Chapter VIII Construction Work
+
+### Article 42
+
+For foreign workers hired to engage in construction work detailed in Subparagraph 3, Article 5, where the employer undertakes a public construction project, enters into a construction contract as the winning bidder with a government authority (agency), independent administrative institution or state-run enterprise awarding the contract and conforms to one of the following conditions, an application can be made for an initial recruitment permit to employ foreign workers:
+
+\1. The total value of the construction contract is NT$100 million and above and the duration of the project is 18 months or longer.
+
+\2. The total value of the construction contract is more than NT$50 million but less than NT$100 million and the duration of the project is 18 months or longer, where the value of the contract, added to the value of other public construction contracts undertaken by the same employer comes to NT$100 million or more. However, when applying for an initial recruitment permit the value of any public construction contract already completed by the same employer, or where the total contract value is less than NT$50 million, or for which the duration of the project is less than 18 months will be excluded.
+
+If the project referred to in the previous paragraph is contracted out by a state-run enterprise to a construction company the state-run enterprise can apply for an initial recruitment permit to employ foreign workers.
+
+When any of the following situations pertain and the winning bidder referred to in Paragraph 1 signs a contract with a subcontractor that conforms to the provisions of the aforementioned paragraph, with the approval of the project authority the subcontractor can apply for an initial recruitment permit to employ foreign workers for its sub-contracted part of the project:
+
+\1. Selected subcontractors are those stipulated in Article 36 of the Enforcement Rules of the Government Procurement Act.
+
+\2. Non-construction related foreign companies selected as subcontractors.
+
+For public construction projects referred to in Paragraph 1, either the winning bidder or a subcontractor can apply for an initial recruitment permit to employ foreign workers, but this is limited to one firm only and cannot be changed after approval from the Central Competent Authority.
+
+### Article 43
+
+For foreign workers hired to engage in construction work referred to in Subparagraph 3, Article 5, when an employer undertakes a major construction project invested in by a private institution (hereinafter “major private construction project”) and enters into a construction contract with said private institution, and where the total cost of the project is NT$200 million or more and the contract project duration is 18 months or more, the employer can apply for an initial recruitment permit to employ foreign workers, limited to the following construction projects:
+
+\1. Public utilities projects invested in by private institutions and given special approval.
+
+\2. Projects approved as an incentive for private institutions to invest in construction, or where private institutions are authorized to participate in a major public infrastructure project, or to promote private sector participation in public works projects conducted in accordance with the Act for Promotion of Private Participation in Infrastructure Projects.
+
+\3. Private school, social welfare organization, medical institution, or social housing related construction projects.
+
+\4. Major manufacturing industry investment projects involving the construction of factories.
+
+When an employer undertakes to construct a major private construction project that conforms to the qualifications detailed in the preceding paragraph, where the total amount of the contract is more than NT$100 million but less than NT$200 million, and the duration of the project is 18 months or longer and the same employer has contracted other major private construction projects that accumulated come to a contract total of NT$200 million or more, an application can be made for an initial recruitment permit to employ foreign workers.
+
+If an employer referred in the previous paragraph has undertaken other major private economic construction projects but the project has been completed, the total contract value of the project is less than NT$100 million, or the duration of the project is less than 18 months, it will not be added to the total value of project contracts.
+
+An employer’s application for a permit detailed in the preceding three paragraphs must be approved by the competent authority in charge of the target business as conforming to the conditions detailed in those aforementioned paragraphs.
+
+Where a project referred to in the subparagraphs of Paragraph 1 is prepared, planned, constructed, or installed independently by a private institution, the aforementioned institution can apply for an initial recruitment permit to employ foreign workers.
+
+### Article 44
+
+The total number of foreign workers hired by employers referred to in Article 24 to engage in construction work on the same public works project must not exceed 20% of the number calculated based on the provisions of Addendum 9, pursuant to the project amount and duration referred to in each construction contract. However, when individual projects conform to the following circumstances calculations should be made separately for each regulation:
+
+\1. Where a total score of 80 or more is achieved based on a calculation using the grading indicator and formula detailed in Addendum 9, the ratio of foreign workers allocated is achieved by multiplying the total score by 4/1000.
+
+\2. If the central competent authority in charge of the target business considers it necessary to increase the allocation ratio of foreign workers it needs to secure authorization from the Executive Yuan.
+
+The total project cost, project duration, and grading indicator referred to in the previous paragraph must be approved by the public works project authority and its supervising agency.
+
+### Article 45
+
+The total number of foreign workers hired by employers detailed in Article 43 to engage in construction work on the same major private construction project must not exceed 20 percent of the number calculated based on the provisions of Addendum 9, in the previous Article, pursuant to the project amount and duration referred to in individual construction projects. However, projects that are prepared, planned, constructed, or installed independently by a private institution, when the individual construction project value is less than NT$100 million and project duration less than 18 months are not included in the calculation.
+
+Total project value and duration referred to in the previous paragraph must be approved by the competent authority in charge of the target business. However, when no individual construction contract is signed said authority should approve the total value and duration of the construction project based on the submitted plans.
+
+### Article 46
+
+When an employer undertakes a public works project, the project authority (institution) issues a project duration extension certificate and the employer needs to hire foreign workers during the extended duration, an application should be made to the Central Competent Authority for an employment permit extension within 14~120 days before the expiration of the original employment permit.
+
+If a private institution undertakes itself or invests in a major private construction project when the competent authority in charge of the target business issues a project duration extension certificate and the employer needs to employ foreign workers during the extended project duration an application should be made to the Central Competent Authority for an employment permit extension 14~120 days prior to the expiration of the original employment permit.
+
+The number of foreign workers allowed to be hired during the project duration extension referred to in the previous two paragraphs shall be recalculated by the Central Competent Authority based on the original project duration plus the extended project duration, pursuant to the provisions of Addendum 9, Article 44, but cannot exceed the number of workers employed on the initial recruitment permit issued by the Central Competent Authority.
+
+The extended employment permit period for foreign workers referred to in Paragraph 1 and Paragraph 2 can be no longer than the extended project duration. Moreover, the employment permit period plus the extended employment permit period can be no longer than three years.
+
+### Article 47
+
+Where an employer undertakes a public works project and still needs to employ foreign workers during the inspection and acceptance period, when the project authority (institution) issues a certificate for the scheduled completion date, the employer should apply to the Central Competent Authority for an employment permit extension 14~120 days prior to the expiration of the original employment permit.
+
+The number of foreign workers involved in the employment permit extension referred to in the preceding paragraph must be no more than 50% of the total foreign workers hired for the project.
+
+When a foreign worker is absent from work for three consecutive days without a justifiable reason and cannot be contacted the competent authority must be notified and he/she will not be included in the number of foreign workers hired referred to in the preceding Paragraph.
+
+The extended employment permit period for foreign workers referred to in Paragraph 1 can be no longer than the expected inspection and acceptance period. Moreover, the employment permit period plus the extended employment permit period can be no longer than three years.
+
+### Article 47-1
+
+With regards foreign workers employed to engage in construction work as defined in Subparagraph 3 of Article 5, an employer in accordance with the Construction Industry Act and recognized by the central competent authority for the target industry to be contracted in ongoing construction work, that meets the provisions of Addendum 9-1, may apply for an initial foreign worker recruitment permit.
+
+### Article 47-2
+
+When foreign workers are employed by employers referred to in the previous Article to engage in construction work, the allocation ratio, number of hired employees and total number of foreign workers employed as part of an initial recruitment application must conform to the provisions of Addendum 9-2.
+
+The average number of employees referred to in the previous paragraph does not include foreign workers employed in accordance with the provisions of the subparagraphs of Paragraph 1, Article 47-3.
+
+### Article 47-3
+
+The ratio of initially recruited foreign workers applied for by an employer in accordance with the previous Article to the total number of foreign workers employed can be increased if the following additional monthly employment security fees per person are paid:
+
+\1. If the ratio is increased by 5 percent, the employer is required to pay an extra NT$3,000 employment security fee for each foreign worker per month.
+
+\2. If the ratio is increased by 5 percent to 10 percent, the employer is required to pay an extra NT$5,000 employment security fee for each foreign worker per month.
+
+The increased ratio referred to in the preceding paragraph, combined with the allocation ratio in the previous Article, shall not exceed 40% of the employer’s average number of employees in the year prior to the two months preceding the month of application.
+
+The number of foreign workers initially recruited and the total number of foreign workers employed by the employer in accordance with the first paragraph shall not exceed the number of workers approved by the central competent authority for the target industry.
+
+If an employer brings in foreign workers in accordance with the increased ratios in the first paragraph, the amount of additional employment security fee to be paid remains unchanged.
+
+## Chapter IX Slaughterhouse Work
+
+### Article 48
+
+When the employer of foreign workers employed to engage in slaughterhouse work as detailed in Subparagraph 4, Article 5, is involved in the slaughter, dismembering and packaging of poultry and livestock or related manual labor and approved as compliant by the central competent authority in charge of the target business an application can be made to the authority for an initial recruitment permit to employ foreign workers.
+
+The Central Competent Authority and the central competent authority in charge of the target business can conduct on-site inspections pursuant to the provisions of the previous Paragraph.
+
+### Article 49
+
+If an employer detailed in the previous paragraph employs foreign workers to engage in slaughterhouse work and is approved as compliant by the central competent authority in charge of the target business, the allocation ratio, number of employees and total number of foreign workers hired in an application for initial recruitment should be in accordance with the provisions of Addendum 10.
+
+The average number of employees hired detailed in the previous paragraph does not include foreign workers employed pursuant to the provisions of provisos in each subparagraph of Paragraph 1, Article 50.
+
+### Article 50
+
+The ratio of the foreign workers applied for in the initial recruitment to the total number of foreign workers employed detailed in the previous Article can be increased if the following additional monthly employment security fees per person are paid:
+
+\1. If the ratio is increased by 5 percent, the employer is required to pay an extra NT$3,000 employment security fee for each foreign worker per month.
+
+\2. If the ratio is increased by 5 percent to 10 percent, the employer is required to pay an extra NT$5,000 employment security fee for each foreign worker per month.
+
+\3. If the ratio is increased by 10 percent to 15 percent, the employer is required to pay an extra NT$7,000 employment security fee for each foreign worker per month.
+
+The increased ratio referred to in the preceding paragraph, combined with the allocation ratio in the previous Article, shall not exceed 40% of the employer’s average number of employees in the year prior to the two months preceding the month of application.
+
+If an employer increases the ratio of foreign workers brought into the Republic of China in accordance with the first paragraph, the amount of additional employment security fees to be paid cannot be changed.
+
+### Article 51
+
+The total number of foreign workers employed and those brought into the Republic of China by an employer pursuant to the provisions of Article 48 and Article 49 should not exceed 25% of the total number of employees and a minimum of one domestic worker or more must be hired per month.
+
+The total number of foreign workers employed, those brought into the Republic of China by an employer pursuant to the provisions of Articles 48 to50, and inspections of employers who hire foreign workers conducted by the Central Competent Authority should be conducted in accordance with the provisions of Addendum 11.
+
+The Central Competent Authority will inspect the ratio and number of foreign workers as well as the number of domestic workers hired by employers pursuant to the provisions of the previous two paragraphs, three months after the foreign workers are brought into the Republic of China or engage in continued employment and every three months thereafter.
+
+The number of foreign workers, domestic workers and hired employees detailed in Paragraph 1 and Paragraph 2 is calculated based on the average number of employees with labor insurance per month for the three month period prior to the base month, which is two months before the Central Competent Authority conducts its inspection:
+
+If the number or ratio of foreign workers employed exceeds the provisions of Paragraph 1, and the number of domestic workers employed is less than prescribed in Paragraph 1, the Central Competent Authority will issue a notification requiring improvements within a set period of time. If no improvements are made within that time frame the employer will have their recruitment permit and employment permit for the additional workers revoked pursuant to Article 72 of the Act, and they will be included as part of the total number of foreign workers employed detailed in Addendum 10, Article 49.
+
+### Article 52
+
+When an employer in the slaughterhouse industry needs to continue the employment of foreign workers a one time only application can be made to the Central Competent Authority for re-recruitment and should be submitted within four months of the expiry of the foreign workers’ employment permit.
+
+The number of re-recruited foreign workers in the previous paragraph cannot exceed the number brought into the Republic of China on the last recruitment permit or on the continued employment permit and same labor insurance certificate number.
+
+## Chapter X Outreach Agricultural Work
+
+### Article 53
+
+When foreign workers are employed to engage in outreach agricultural work, pursuant to the provisions of Subparagraph 5, Article 5, by a farmers’ association, fishing association, or agricultural, forestry, fishing or animal husbandry related cooperative or non-profit organization, an application for an initial recruitment permit to employ foreign workers should be submitted.
+
+The service contract location where foreign workers engage in outreach agricultural work must be a site where agricultural, forestry, animal husbandry, or aquaculture work is conducted.
+
+Employers who have applied to employ foreign workers to engage in any of the following work in accordance with the provisions of the Standards are not permitted to use outreach agricultural services:
+
+\1. Ocean fishing work or skilled ocean fishing work as detailed in the Regulations on Foreign Skilled Workers
+
+\2. Manufacturing work or skilled manufacturing work as detailed in the Regulations on Foreign Skilled Workers
+
+\3. Slaughterhouse work or skilled slaughterhouse work as detailed in the Regulations on Foreign Skilled Workers
+
+\4. Agricultural, forestry, animal husbandry, or aquaculture work or skilled agricultural, forestry, animal husbandry, or aquaculture work as detailed in the Regulations on Foreign Skilled Workers
+
+### Article 54
+
+Employers referred to in Paragraph 1 of the previous Article are required to submit an outreach agricultural service plan to the central competent authority in charge of the target business
+
+The outreach agricultural service plan referred to in the preceding paragraph is required to include the following:
+
+\1. Certified documents attesting to the employer’s qualifications.
+
+\2. Plans detailing service provision, fee-charging items and amounts, and a sample contract.
+
+\3. Plans for the deployment, supervision and educational training of agricultural manpower.
+
+\4. Other outreach agricultural service related information.
+
+After the outreach agricultural service plan is approved by the central competent authority in charge of the target business, the employer is required to adhere to the details of the plan.
+
+The number of foreign workers hired by an employer referred to in the preceding Article to engage in outreach agricultural work cannot exceed the average number of workers on the same labor insurance certificate number per month in the one year period prior to the base month which is two months before the employer submits the application.
+
+The total number of foreign workers employed detailed in the previous paragraph should include the following:
+
+\1. Number of foreign workers applying for first time recruitment
+
+\2. Number of foreign workers allowed to apply for a recruitment permit, who have received a recruitment permit or are already employed.
+
+\3. Number of workers impacted by the cancellation of foreign worker recruitment permits and employment permits, for reasons attributable to the employer, in the two years preceding the application.
+
+### Article 55
+
+The Central Competent Authority and the central competent authority in charge of the target business will conduct on-site inspections as prescribed in the preceding two Articles.
+
+If an employer engages in any of the following behaviors, the Central Competent Authority will revoke their recruitment permit and employment permit in part or full pursuant to the provisions of Article 72:
+
+\1. Assigning foreign workers to engage in outreach agricultural work in a location where agricultural, forestry, animal husbandry or aquaculture work is not conducted and failing to rectify the situation within a set period of time.
+
+\2. Violations of related laws or an approved outreach agricultural service plan determined to be serious by the Central Competent Authority and central competent authority in charge of the target business.
+
+\3. Where business operations are inadequate or seriously detrimental to public welfare.
+
+## Chapter XI Agriculture, Forestry, Animal Husbandry, or Aquaculture Work
+
+### Article 56
+
+Employers who hire foreign workers to work at locations referred to in Subparagraph 6, Article 5 to engage in agricultural, forestry, animal husbandry or aquaculture work, are required to be involved in one of the following categories of work:
+
+\1. Management of livestock farms engaged in livestock and poultry management, breeding, milking, egg collection, livestock farm environment management, waste disposal and reuse, feed preparation, disease prevention, and animal husbandry related manual work.
+
+\2. Manual work related to the cultivation of vegetables, flowers, plant seeds, fruit trees, miscellaneous grains, specialty crops, the cultivation of turf, sprouts, and edible mushrooms etc. and protected agricultural crops. However, this does not include manual work related to the cultivation of betel nuts, betel peppers and tobacco.
+
+\3. Manual work related to growing seeds, afforestation, silviculture and logging.
+
+\4. Feed management, breeding, harvesting and aquaculture environment cleaning for aquaculture products, as well as aquaculture related manual work.
+
+\5. Management of any manual work related to agriculture, forestry, animal husbandry, or aquaculture designated by the Central Competent Authority in consultation with the central competent authority in charge of the target business.
+
+Employers referred to in the preceding paragraph deemed to be in compliance with the provisions of Addendum 12 by the central competent authority in charge of the target business can apply for an initial recruitment permit to employ foreign workers.
+
+When an employer hires foreign workers to engage in agricultural, forestry, animal husbandry, or aquaculture work referred to in Paragraph 1, the allocation ratio, number of employees and total number of foreign workers employed must be in compliance with the provisions of Addendum 12.
+
+## Chapter 11-1 Diverse companionship care services work
+
+### Article 56-1
+
+Foreign nationals employed to engage in companionship care service work detailed in Subparagraph 7, Article 5, must be hired by a foundation or non-profit organization that has been legally established or registered for a minimum of five years.
+
+### Article 56-2
+
+Employers in the previous Article are required to submit a diverse companionship services plan based on the program and time period established by the Central Competent Authority.
+
+The aforementioned diverse companionship services plan is required to include the following:
+
+\1. Certified documentation attesting to the eligibility of the employer.
+
+\2. A list of services provided, fee-charging items and amount charged, contract template and other related plans.
+
+\3. Total manpower and allocation, supervision and education, training mechanism plans.
+
+\4. Additional diverse companionship care services related information.
+
+After a diverse companionship care services plan is approved by the Central Competent Authority, the employer and foreign workers are required to proceed in accordance with the provisions of the approved plan and services contract.
+
+### Article 56-3
+
+The number of foreign nationals hired by an employer to engage in diverse companionship service work cannot exceed the total number determined by the Central Competent Authority.
+
+Determination of the aforementioned total number of hired foreign workers should include the following:
+
+\1. Number of foreign workers recruited for the first time in the application.
+
+\2. Number of foreign workers that can be applied for on the recruitment permit, number of recruitment permits obtained and number of foreign workers already employed. However, in either of the following circumstances foreign workers are not included in the calculation:
+
+(1) When an employer wants to continue the employment of a foreign worker with four months left on his or her employment permit an application for re-recruitment can be filed with the Central Competent Authority, those individuals are not included in the calculation.
+
+(2) When there are changes to the factual basis of the original recruitment permit and an employer is unable to apply for supplementary recruitment, re-recruitment or employment of foreign workers, those individuals are not included in the calculation.
+
+\3. Number of foreign workers included on foreign worker recruitment permits and employment permits revoked in the two year period preceding the application, for reasons attributable to the employer.
+
+### Article 56-4
+
+The Central Competent Authority can conduct on-site inspections based on the provisions of the previous three Articles.
+
+In any of the following situations the Central Competent Authority will, in accordance with the provisions of Article 72, revoke in part or entirely an employer’s recruitment permit and employment permit:
+
+\1. When the Central Competent Authority confirms a serious violation of the provisions of Paragraph 3, Article 56-2, or a fixed period of time is given to make related improvements, but no improvements are made.
+
+\2. When the Central Competent Authority confirms a serious violation of related labor laws.
+
+\3. Where there is deemed to have been mismanagement and significant harm to the public interest.
+
+## Chapter 11-2: Waste and resource recycling and processing work
+
+### Article 56-5
+
+Employers hiring foreign nationals to engage in waste and resource recycling and processing work as specified in Subparagraph 8 of Article 5, must obtain one of the following registration certificates or permits issued by the competent environmental protection authority:
+
+\1. A registration certificate for a recycling enterprise that recycles waste.
+
+\2. A registration certificate for an enterprise that processes recyclable waste.
+
+\3. A permit for a public or private waste processing facility.
+
+Employers who have been verified as qualified by the central competent environmental protection authority may apply for initial recruitment permits to hire foreign nationals.
+
+In accordance with the above conditions the Central Competent Authority and the central competent environmental protection authority may conduct on-site inspections.
+
+### Article 56-6
+
+The total number of foreign workers an employer applies to initially recruit under the preceding Article combined with the number of foreign workers already employed shall not exceed 20% of the employer’s average number of employees in the year prior to the two months preceding the month of application.
+
+The number of employees hired by an employer in the preceding paragraph shall be determined based on the average number of employees enrolled on labor insurance under the same labor insurance certificate number by the employer. However, this does not include foreign workers employed under the subparagraphs of Paragraph 1, Article 56-7.
+
+The total number of foreign nationals employed as referred to in Paragraph 1 includes the following:
+
+\1. The number of foreign workers for whom initial recruitment is being applied.
+
+\2. The number of foreign workers for which recruitment permits have been applied, the number of recruitment permits obtained, and the number of foreign workers already employed.
+
+\3. The number of recruitment and employment permits for foreign workers that were revoked due to reasons attributable to the employer in the two years prior to the application date.
+
+### Article 56-7
+
+The ratio of the number of foreign workers an employer applies to initially recruit under the preceding Article to the total number of foreign workers already employed can be increased if the following additional monthly employment security fee is paid for each foreign worker:
+
+\1. If the ratio is increased by 5 percent, the employer is required to pay an extra NT$3,000 employment security fee for each foreign worker per month.
+
+\2. If the ratio is increased by 5 percent to 10 percent, the employer is required to pay an extra NT$5,000 employment security fee for each foreign worker per month.
+
+\3. If the ratio is increased by 10 percent to 15 percent, the employer is required to pay an extra NT$7,000 employment security fee for each foreign worker per month.
+
+\4. If the ratio is increased by 15 percent to 20 percent, the employer is required to pay an extra NT$9,000 employment security fee for each foreign worker per month.
+
+The increased ratio under the preceding paragraph, combined with the allocation ratio in the previous Article, shall not exceed 40% of the employer’s average number of employees in the year prior to the two months preceding the month of application.
+
+After increasing the ratio and bringing in foreign workers as per the provisions in the above paragraph, the employer can not change the amount of the additional Employment Stability Fee to be paid.
+
+### Article 56-8
+
+The number of foreign workers employed by an employer, combined with the total number of foreign workers introduced under Article 56-5 and Article 56-6, shall not exceed 20% of the number of employed staff, and the employer is required to employ at least one local worker per month.
+
+The number of foreign workers employed, combined with the total number introduced under Article 56-5 and Article 56-7, and the method of inspection adopted by the Central Competent Authority on the employer’s hiring of foreign workers, shall comply with the provisions of Appendix 12-1.
+
+Starting from the third month after the foreign workers introduced by the employer enter Taiwan or continue their employment, the Central Competent Authority shall every three months thereafter inspect the ratio or number of foreign workers employed according to the first two paragraphs, as well as the number of local workers.
+
+The number of foreign workers employed as per the provisions of Paragraph 1 and Paragraph 2, the number of local workers, and the number of employed staff shall be calculated based on the average number of labor insurance participants over the three months preceding the base month, which is two months prior to the month the Central Competent Authority conducts its inspection.
+
+If an employer exceeds the ratio or number of foreign workers, or fails to employ the prescribed number of local workers as detailed in Paragraph 1, the Central Competent Authority shall notify the employer to rectify the situation within a fixed period of time. If the employer fails to do so, his recruitment and employment permits exceeding the allowed number will be revoked in accordance with Article 72 of the Act, and the excess number shall be counted as part of the total number of foreign workers employed under Article 56-6.
+
+## Chapter XII (Delete)
+
+### Article 57
+
+(Delete)
+
+### Article 58
+
+(Delete)
+
+## Chapter XIII (Delete)
+
+### Article 59
+
+(Delete)
+
+### Article 60
+
+(Delete)
+
+## Chapter XIV (Delete)
+
+### Article 61
+
+(Delete)
+
+### Article 61-1
+
+(Delete)
+
+### Article 62
+
+(Delete)
+
+### Article 63
+
+(Delete)
+
+### Article 64
+
+(Delete)
+
+## Chapter 15 Addendums
+
+### Article 65
+
+These Standards will go into effect on April 30, 2022
+
+With the exception of the amended provisions of Article 8, which were amended on August 15, 2022 and will be implemented on January 1, 2023; provisions amended on October 12, 2022, other than those implemented on April 30, 2022, will come into force on the day of issue.
+
+## Attachments
+
+- [Addendum Table 1：Benchmark for Accumulating Points.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009830)
+- [Addendum 2：Items of Specific Physical and Mental Disability.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008231)
+- [Addendum 2：Items of Specific Physical and Mental Disability.DOCX](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008232)
+- [Addendum 3：Situations in which care recipients are exempted from the requirement to undergo a professional evaluation by a medical institution.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008233)
+- [Addendum 3：Situations in which care recipients are exempted from the requirement to undergo a professional evaluation by a medical institution.DOCX](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008234)
+- [Addendum 4  Points System for Live-in Foreign Caregivers with Accumulated Work Period of 14 Years.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009411)
+- [Addendum 5  Industries with Specialized Manufacturing Operations.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009230)
+- [Addendum 6 Allocation ratio number of employees and total number of foreign workers when foreign workers are employed to engage in work detailed in Article 25.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009500)
+- [Addendum 7：Regular inspections of foreign workers detailed in Article 24, Article 25 and Articles 25-2 to 28 brought into the Republic of China by Employers.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009831)
+- [Addendum 8 Regular inspections of total number of foreign workers employed total number brought into the Republic of China by employers pursuant to the provisions of Article 31 and the salaries of domestic workers.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009502)
+- [Addendum 9：Project Finance Methodology and Demand Model Calculation Formula.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007690)
+- [Addendum 9-1 ：may apply for an initial foreign worker recruitment permit.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008046)
+- [Addendum 9-2： Comparison Table of Amendments.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008047)
+- [Addendum 10：Confirmation of allocation ratio, total employees hired and total foreign workers hired for foreign workers employed to engage in work detailed in Article.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007538)
+- [Addendum 11：Regular inspection of foreign workers defined in Article 48 and Article 50 brought into the Republic of China by employers.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007445)
+- [Addendum 12 Determination of employer qualifications allocation ratio and number of hired employees for foreign workers employed to engage in word detailed in Article 56.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009232)
+- [Addendum 13  Professional licenses, training classes or practical work certification qualifications required for intermediate skilled work and travel and accommodation work.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009412)
+- [Addendum 13-1  Basic salary for intermediate skilled work and travel and accommodation work salary levels at which eligibility provisions in Addendum 13, Article 62 are waived.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009413)
+- [Addendum 14：Maximum number of foreign workers employed to engage in intermediate skilled work and travel and accommodation work in various industries.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008794)
+- [Addendum 14：Maximum number of foreign workers employed to engage in intermediate skilled work and travel and accommodation work in various industries.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008795)
+
+## History
+
+1.Promulgated by the Bureau of Employment and Vocational Training of the Council of Labor Affairs, the Executive Yuan, on January 13, 2004, by the Order of Chih Kong Tze No.0930200140.
+
+2.Amended for Article 13, Article 14, Article 15, Article 16, Article 20 and Article 21, and added Article 15-1, on April 15, 2005, by the Order of Lau Chih Wai Tze No.0940502293.
+
+3.Amended for Article 13, Article 16, Article 22 and Article 24, deleted Article 15-1, and added Article 15-2 and Article 15-3, on December 30, 2005, by the Order of Lau Chih Wai Tze No.0940509674.
+
+4.Amended for Article 13, Article 15, Article 15-3, Article 24, Article 25, Article 26 and Article 27, on August 30, 2005, by the Order of Lau Chih Wai Tze No.0950508454.
+
+5.Amended for Article 13, Article 15-2 and Article 15-3, on December 8, 2006, by the Order of Lau Chih Wai Tze No.0951181231.
+
+6.Amended for Article 6, Article 13, Article 14, Article 14-1, Article 15, Article 15-2, Article 15-3, Article 15-4, Article 15-5, Article 15-6, Article 16, Article 18 and Article 22, on October 1, 2007, by the Order of Lau Chih Wai Tze No.0960508093.
+
+7.Amended for Article 13, Article 14-1, Article 15-4 and Article 16 on March 5, 2009, by the Order of Lau Chih Xu Tze No. 0980505375.
+
+8.Amended for Article 13, Article 14-1, Article 15-4, Article 16; added Article 14-2, Article 14-3, Article 15-7, and Article 16-1, on September 29, 2010, by the Order of Lao Chih Xu Tze No.0990510169
+
+9.Amended on September 16, 2011
+
+10.Amended on September 17, 2012
+
+11.Amended on March 11, 2013
+
+12.Amended and promulgated the contents of 3rd, 4th, 7th, 8th, 9th, 11th, 20th, 22th, 23rd and 24th -2 Articles by the order of Council of Labor Affairs, Executive Yuan Tai-Lao-Zhi-Wai-Tze No. 1031811823 on 28 March 2014
+
+13.Amended on June 5,2014
+
+14.Amended on March 3,2015
+
+15.Amended on May 1, 2015
+
+16.Amended on August 6, 2015
+
+17.Amended on September 4, 2015
+
+18.Amended on November 11, 2015
+
+19.Amended on March 14, 2016
+
+20.Amended on November 16, 2016
+
+21.Amended on August 11, 2017
+
+22.Amended on March 14,2019
+
+23.Amended on April 3,2019
+
+24.Amended on August 26,2019
+
+25.Amended on November 26,2019
+
+26.Amended on January 20,2020
+
+27.Amended on June 15,2020
+
+28.Amended on July 31,2020
+
+29.Amended on July 30,2021
+
+30.Amended on April 29, 2022
+
+31.Amended on August 15, 2022
+
+32.Amended on October 12, 2022
+
+33.Amended on November 24, 2022
+
+34.Amended on March 13, 2023
+
+35.Amended on May 18, 2023
+
+36.Amended on June 15, 2023
+
+37.Amended on October 13, 2023
+
+38.Amended on August 26, 2024
+
+39.Amended on November 14, 2024
+
+40.Amended on May 7, 2025
+
+41.Amended on July 30, 2025
+
+42.Amended on November 3, 2025
+
+43.Amended on December 30, 2025
+
+44.Amended on April 11, 2026

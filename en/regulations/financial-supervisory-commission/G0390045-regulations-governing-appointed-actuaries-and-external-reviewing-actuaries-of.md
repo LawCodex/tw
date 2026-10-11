@@ -1,0 +1,207 @@
+---
+title: "Regulations Governing Appointed Actuaries and External Reviewing Actuaries of Insurance Companies"
+title_zh: "保險業簽證精算人員及外部複核精算人員管理辦法"
+identifier: "G0390045"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-20
+last_amended: 2024-01-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390045"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Appointed Actuaries and External Reviewing Actuaries of Insurance Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390045-regulations-governing-appointed-actuaries-and-external-reviewing-actuaries-of.md](../../../zh/regulations/financial-supervisory-commission/G0390045-regulations-governing-appointed-actuaries-and-external-reviewing-actuaries-of.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated in accordance with the provisions of Paragraph 2 and Paragraph 3 of Article 144 of the Insurance Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+An Appointed Actuary of an insurance company (hereinafter referred to as “Appointed Actuary”) shall possess the following qualifications:
+
+1.The qualifications of an actuary;
+
+2.Actually Engaged in insurance actuarial business for more than five years; and
+
+3.Completion of the training course on Code of Professional Ethics for Certified Actuaries designated or accredited by the competent authority.
+
+An External Reviewing Actuary (hereinafter referred to as “Reviewing Actuary”) must have served  as an Appointed Actuary for more than five years. However the preceding provision does not apply to whom have served as a Reviewing Actuary before the implementation of the amendment of these Regulations on January 16, 2024.
+
+An actuary referred to in Subparagraph 1 of Paragraph 1 hereof means a person who engages in insurance actuarial related work of insurance companies, and meets one of the following requirements:
+
+\1. Having acquired the fellow membership of a domestic association of actuaries which is recognized by the competent authority.
+
+\2. Having passed the actuarial examination organized by a domestic academic insurance institution recognized by the competent authority and obtained the actuary's certificate.
+
+3.Having registered with the competent authority as an actuary before the implementation of these Regulations.
+
+## Article 3
+
+Where any of the following circumstances applies, a person shall be disqualified to serve as an Appointed Actuary or Reviewing Actuary, and if the person has served as the above Actuary and has any of the following situations, he or she shall be dismissed therefrom by the competent authority:
+
+1.Having a situation specified in Article 3 of the Regulations Governing Qualification Requirement and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Insurance Enterprises.
+
+2.An Appointed Actuary serves concurrently as the general manager or in an equivalent position at the same insurance company.
+
+3.A Reviewing Actuary or his/her employer and the insurance company meet the condition of a same person, same related party or same affiliated enterprise under Paragraph 2, Article 146-7 of the Act.
+
+4.A Reviewing Actuary appointed as an Appointed Actuary by the same insurance company or is employed by the same company or same affiliated enterprise with the Appointed Actuary.
+
+## Article 4
+
+An insurance company shall appoint one of the actuaries it employs as an Appointed Actuary. Such appointment and termination of appointment must have the prior approval of the majority of directors (council members) present at a board of directors’ (council) meeting attended by a majority of the directors (council members).
+
+After appointing an Appointed Actuary, the insurance company shall file the following documents with the competent authority for recordation:
+
+1.An application form;
+
+2.The minutes of the meeting of the board of directors (council members) relating to the approval for appointment;
+
+3.The certificates substantiating that the Appointed Actuary meets the qualifications set forth under Paragraph 1 of Article 2 herein;
+
+4.A statement undertaking that the Appointed Actuary is free of circumstances set forth in Article 3 herein; and
+
+5.A letter of authorization issued by the board of directors (council members) pursuant to Article 11 herein.
+
+An insurance company may not arbitrarily terminate the appointment of the Appointed Actuary. Upon termination of an Appointed Actuary, the insurance company shall file a written statement with the competent authority, explaining the reasons for the termination, and appoint a new Appointed Actuary within three months.
+
+## Article 5
+
+An insurance company shall employ a Reviewing Actuary responsible for the items to be verified in the Certified Report designated by the competent authority.
+
+An insurance company shall not employ a Reviewing Actuary having any of the following situations, and such a Reviewing Actuary who has already been employed shall be dismissed:
+
+1.Having consecutively reviewed the same insurance company twice according to Paragraph 1 of Article 8 herein.
+
+2.Having appointed as an Appointed Actuary for the same insurance company within the past three years.
+
+The employment of a Reviewing Actuary must have the prior approval of the majority of directors (council members) present at a board of directors’ (council) meeting attended by a majority of the directors (council members).
+
+After employing a Reviewing Actuary, the insurance company shall file the following documents with the competent authority for recordation:
+
+1.An application form;
+
+2.The minutes of the meeting of the board of directors (council members) relating to the approval for employment;
+
+3.The certificates substantiating that the Reviewing Actuary meets the qualifications set forth under Paragraph 2 of Article 2 herein;
+
+4.A statement undertaking that the Reviewing Actuary is free of circumstances set forth in Article 3 herein, complies with the provisions of Paragraph 2 hereof, and that the Reviewing Actuary and the company’s independent auditor are independent of each other.; and
+
+5.A letter of authorization issued by the board of directors (council members) pursuant to Article 11 herein.
+
+When an insurance company employ a Reviewing Actuary, it shall specify in the contract the duration of employment. If the insurance company terminates the employment early, it shall file a written statement with the competent authority, explaining the reasons for the termination, and employment a new Reviewing Actuary within three months.
+
+## Article 6
+
+The insurance company shall establish a system and staff engaging in actuarial business to assist the Appointed Actuary or Reviewing Actuary and provide the data necessary to collect and maintain. The insurance company shall also cooperate with the Appointed Actuary or Reviewing Actuary engaging in the actuarial related business and provide the actuaries with continual training or development programs to enhance their competence.
+
+## Article 7
+
+The Appointed Actuary shall file with a Certified Report on the date, accredited by the competent authority, upon the following particulars on an annual basis:
+
+\1. Assessment on Adequacy of premiums rates: Regarding the insurance lines designated by the competent authority, the Appointed Actuary shall examine the premium rates of these products on a regular basis, and propose proper adjustments to or other feasible measures for such premium rates as are considered unfair, unreasonable and inadequate.
+
+\2. Assessment on adequacy of various reserves: The Appointed Actuary shall ensure that the reserves set aside by the insurance company in accordance with the Regulations for Setting Aside Various Reserves in the Insurance Industry or the Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises and the actuarial assumptions used are reasonable, and provide reasonable assurance that various reserves will be sufficient to pay the future benefits payable under the policies issued by the insurance company. If the reserves set aside are insufficient, the Appointed Actuary shall propose to the insurance company for improvement therefor.
+
+\3. Distribution of policy dividends: The Appointed Actuary of a life insurance company shall submit a proper proposal for distribution of policy dividends before the insurance enterprise distributes dividends to the holders of the participating policies each year.
+
+\4. Evaluation of investment strategy:  The Appointed Actuary shall provide professional analysis and opinions regarding the match and influence of the investment with and on the assets and liabilities of the insurance company for reference by management in making investment decisions.
+
+\5. Evaluation of solvency: The Appointed Actuary shall evaluate current and future capital adequacy for the insurance company each year upon different hypotheses regarding economic conditions and circumstances.
+
+\6. Other items required by the competent authority.
+
+When the competent authority orders the insurance company to suspend and wind up business accordance of Paragraph 3, Article 149 of the Act, the rehabilitator may be exempted from submitting the Certified Report after being approved by the competent authority.
+
+## Article 8
+
+An insurance company shall file with the competent authority a Verification Report on the latest annual  Certified Report with verified items on the date designated by the competent authority. The verified requirement, timing and frequency requirements are as follows:
+
+1.Where an insurance company's capital grade for either of the recent two years does not meet the capital adequacy requirements set forth in Article 143-4 of the Act, the verified assessment shall be conducted annually.
+
+2.Where a life insurance company's capital grade for the recent two years meets the capital adequacy requirements set forth in Article 143-4 of the Act, the verified assessment shall be conducted every three years.
+
+3.Where the capital grade of a non-life insurance company or a professional reinsurance enterprise for the recent two years meets the capital adequacy grade set forth in Article 143-4 of the Act, the verified assessment shall be conducted every five years.
+
+Based on the quality of the  Certified Report, compliance of reserve valuations and the business distributions of individual insurance companies, the competent authority may adjust the aforesaid timings and frequencies of the verified assessment, and assign specific year and verified items of the verified assessment when necessary.
+
+Insurance companies that have small business scale or simple business nature may be exempted from employing a Reviewing Actuary to conduct the Verification Report stated in the first paragraph after approving by the competent authority.
+
+The necessary scopes and items to be included in the Verification Report stated in the first paragraph shall be stipulated by the competent authority.
+
+When the competent authority orders the insurance company to suspend and wind up business  in accordance of Paragraph 3, Article 149 of the Act, the rehabilitator may be exempted from employing a Reviewing Actuary to conduct the Verification report.
+
+## Article 9
+
+If, during the period of operating business, the Appointed Actuary discovers that the business of the insurance company are likely to incur or have already incurred significant adverse impact on the financial standing of the company, he or she shall inform, in writing, the general manager of the insurance company thereof and propose measures for improvement thereof within a time limit. If the insurance company fails to make improvement within the time limit, the Appointed Actuary shall submit a report thereon to the Board of Directors. In the case of severe circumstances, the Appointed Actuary shall immediately report to the competent authority.
+
+After completing the Certified Report, the Appointed Actuary shall submit the report, together with the relevant proposals to the board of directors (governors) of the insurance company. If necessary, the board of directors (governors) or the competent authority may request the Appointed Actuary make an oral explanation of the contents of such submissions.
+
+After completing the Verification Report, the Reviewing actuary shall submit the copy of the report to the insurance company and its Appointed Actuary for reference. Then, the Appointed Actuary shall submit the result of the  verified assessment to the board of directors (governors) of the insurance company. If necessary, the board of directors (governors) or the competent authority may request the Reviewing Actuary make an oral explanation of the contents of such submission, the Appointed Actuary should attend.
+
+The insurance company shall, within fifteen days after each of the Board meetings referred in the preceding three Paragraphs, submit the respective meeting minutes to the competent authority for recordation.
+
+## Article 10
+
+The Appointed Actuary and the Reviewing Actuary engaging in certification and verification business shall comply with the Act, the relevant regulations, and the applicable principles of actuarial practice.
+
+The principles of actuarial practice referred to in the preceding paragraph may be proposed by specific domestic institution (association) of actuaries or other relevant organization designated or authorized by the competent authority.
+
+## Article 11
+
+The board of directors (governors) of an insurance company shall authorize the Appointed Actuary to conduct the following activities within the scope of his or her duties:
+
+1.Requesting the managers or employees of the insurance company to provide correct information or documents and answer relevant questions for his/her certification business; and
+
+2.Attending the insurance company's meetings at which important decisions on issues relating to solvency will be made, and giving his or her opinions on such issues.
+
+The board of directors (governors) shall authorize the Reviewing Actuary to be able to request correct information or documents associated with his/her verification procedure from the Appointed Actuary or related staff of the insurance company, and to provide responses to such matters.
+
+## Article 12
+
+The Appointed Actuary or Reviewing Actuary shall abide by the code of professional ethics for members of the institution (association) of actuaries of which he or she is a member or by the code of professional ethics stipulated by the domestic academic insurance institution recognized by the competent authority. Certification and verification made by him or her shall not have any of the following situations:
+
+1.Absence of such explanations as are required in the Certified Report or the Verification Report to avoid misunderstanding.
+
+2.Failure to disclose or rectify the misrepresentation, concealment, omission or incorrect information contained in the Certified Report or the Verification Report.
+
+3.Failure to disclose such actuarial methodology used by the insurance company as is inconsistent with the relevant laws, regulations, and principles of actuarial practice.
+
+## Article 13
+
+In any of the following circumstances, the Appointed Actuary or Reviewing Actuary shall refuse to certify or verify, and shall inform in writing the competent authority thereof:
+
+1.Where the insurance company intends to mislead him or her to make a false or improper certification or verification.
+
+2.Where the insurance company intentionally withholds the necessary information.
+
+3.Where he or she is unable to make a fair, detailed, and true certification or verification due to concealment and deceit of the insurance company.
+
+## Article 14
+
+The Appointed Actuary or Reviewing Actuary shall, on a regular basis, attend the training programs designated or recognized by the competent authority and obtain the certificates proving his or her completion of such programs. The said certificates shall be filed with the competent authority together with the Certified Report or the Verification Report for recordation. The Appointed Actuary or Reviewing Actuary, who fails to obtain the completion certificate for each of the aforesaid training programs which shall be attended in a specific period, shall not engage in any certification or verification business for the insurance company.
+
+The contents and assessment standards of the training programs referred to in the preceding paragraph shall be designed by the organizations designated or authorized by the competent authority to offer training programs for the Appointed Actuaries or Reviewing Actuary. The designated or authorized training organizations referred to in the preceding paragraph shall submit, on a regular basis, the name list of the Appointed Actuaries or Reviewing Actuaries who have completed the programs and the training courses plans to the competent authority for record.
+
+## Article 15
+
+These Regulations shall enter into force on the date of promulgation, except for Article 7 and Article 8 that will be implemented on January 1, 2026.
+
+## History
+
+1.Promulgated by Ministry of Finance (Tai-tsai-pao No. 0900751320) in total of 14 articles on 2001.12.20
+
+2.Amended on December 31, 2007
+
+3.Amended on 10 Jun 2015 per Order Ref. Jin-Kuan-Bao-Tsai 10402503791 of the Financial Supervisory Commission
+
+4.The full text of 15 articles amended and promulgated by Financial Supervisory Commission Order Jin-Guan-Bao-Cai-Zi 11204945761 on January 16, 2024;The regulations shall become effective on the date of promulgation except for Article 7 and 8 which shall become effective from January, 1, 2026

@@ -1,0 +1,131 @@
+---
+title: "Regulations for Cosmetic Product Information File Management"
+title_zh: "化粧品產品資訊檔案管理辦法"
+identifier: "L0030098"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-05-30
+last_amended: 2022-06-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030098"
+retrieved: 2026-10-12
+---
+
+# Regulations for Cosmetic Product Information File Management
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0030098-regulations-for-cosmetic-product-information-file-management.md](../../../zh/regulations/ministry-of-health-and-welfare/L0030098-regulations-for-cosmetic-product-information-file-management.md)) is authoritative.
+
+## Article 1
+
+The regulations are prescribed pursuant to Paragraph 3 of Article 4 of the Cosmetic Hygiene and Safety Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+The cosmetics manufacturers or importers of a certain scale (hereinafter referred to as " cosmetics manufacturers or importers ") mentioned in Paragraph 1 of Article 4 of the Act shall mean the following entities which engage in cosmetics manufacturing or importing:
+
+\1. The companies and businesses which shall apply for registration according to the Company Act and Business Registration Act.
+
+\2. The factories which shall complete registration according to Paragraph 1 of Article 8 of the Act.
+
+\3. The groups and corporations which engage in cosmetics manufacturing or importing, except the handmade soap entities which are exempt from industry registration, excluding the entities mentioned in preceding two subparagraphs.
+
+## Article 3
+
+Cosmetic product information file shall establish the following information in Chinese or English:
+
+\1. Basic information of the product: the name of the product, the category of the product, dosage form, purpose, the names and addresses of manufacturing facilities, information of product manufacturers or importers.
+
+\2. Evidentiary documents of completing product notification.
+
+\3. Full ingredient names and the individual content.
+
+\4. The outer packaging of the products, containers, labels or leaflets.
+
+\5. GMP compliance certificates or self-declarations which the manufacturing facilities comply with cosmetic Good Manufacturing Practice Regulations
+
+\6. Manufacturing methods and procedures.
+
+\7. Usage methods, body parts, dosage, frequencies and the targeted population.
+
+\8. Adverse effects of the product application.
+
+\9. Physical and chemical characteristics of the products and individual ingredients.
+
+\10. Toxicological data of the ingredients.
+
+\11. The product stability test reports.
+
+\12. The microbiological test reports.
+
+\13. The antimicrobial effectiveness test reports.
+
+\14. Supporting information of the functional assessments.
+
+\15. Information about the packaging materials which have contact with the products.
+
+\16. Product safety information:
+
+(1) Safety evaluation conclusion and suggestion which has the signature of the signatory for the safety report and the date.
+
+(2) Qualification certificates which the signatory for the safety report complies with Article 4, 5 and 6.
+
+If the original information of the file in the preceding paragraph is established in the language other than Chinese or English, the Chinese or English translation shall be attached
+
+Cosmetic products which are manufactured in separate processes, the names and addresses of manufacturing facilities mentioned in the Subparagraph 1 of the previous paragraph shall include all of the manufacturing facilities in the processes and their operation procedures.
+
+Cosmetic product information file shall be renewed in accordance with Paragraph 1 when it changes.
+
+The information mentioned Subparagraph 11 to 13 of Paragraph 1, when the signatory for the safety report evaluates the characteristics or specialty of the product and makes reasoning in Subparagraph 16 of the same Paragraph, may be exempt from establishment.
+
+## Article 4
+
+A person who has taken cosmetic safety evaluation training courses which are provided domestic or foreign university which complies with Regulations Governing the Assessment and Recognition of Foreign Academic Records by Institutions of Higher Education (hereinafter referred to as " domestic or foreign university"), or by central competent authority, and complied with the following conditions, the person may serve as a signatory for the safety report of product information file mentioned in Subparagraph 16 of Paragraph 1 of the preceding article:
+
+\1. who graduated from department of medicine, department of pharmacy, or toxicology, cosmetic and other related departments or graduate schools at the domestic university or the foreign university.
+
+\2. Who graduated from the department of chemistry or chemical engineering at the domestic or foreign university before 2019.6.30, and had at least five years of relevant work experience in cosmetic safety evaluation.
+
+The content and hours of cosmetic safety evaluation training courses mentioned in the preceding paragraph shall be:
+
+\1. Cosmetic management regulations: including cosmetic hygiene management regulations of R.O.C (Taiwan), international cosmetic hygiene regulations, and the system of cosmetic product information file in R.O.C. (Taiwan); at least 4 hours.
+
+\2. Applications and risks of cosmetic ingredients: including the action principles and safety of whitening, sunscreen, antiperspirant, deodorant, hair-dyeing, permanent waving and other ingredients, and common cosmetic adverse effects and violations; at least 8 hours.
+
+\3. Methods of cosmetic safety evaluation: including skin anatomy and physiology, cosmetic percutaneous absorption capacity, skin irritation, the mechanism and symptom of photoaging and photoallergy, the safety evaluation of nanomaterials, the safety evaluation of natural substance cosmetic, the cosmetic risk assessment, toxicological evaluation methods(skin irritation, skin sensitization, skin corrosivity, eye irritation and genetic toxicity and mutagenicity test), systemic toxicity and margin of safety, and alternative methods of animal testing; at least 36 hours.
+
+\4. Concluding the product safety evaluation: at least 6 hours.
+
+## Article 5
+
+The signatory for the safety report of product information file shall take at least eight hours courses yearly which are provided by the domestic or foreign university, or by central competent authority, and the courses shall relate to Paragraph 2 of the preceding article.
+
+## Article 6
+
+The countries (regions) or areas which have signed the cooperation agreements of the signatory for the safety report of product information file with R.O.C (Taiwan), their signatories are exempted from the application of Paragraph1 of Article 4 and the preceding article.
+
+## Article 7
+
+The cosmetic product information file may be stored by written records or the means of electronic data storage media.
+
+The file stated in the preceding paragraph shall be kept for at least five years from the next day of the date of the product lastly available in the market.
+
+## Article 8
+
+The cosmetics manufacturers or importers shall store the product information file at the address mentioned in Subparagraph 7 of Paragraph 1 of Article 7 of the Act and provide it for the competent authority inspection.
+
+The competent authority shall send a notification at least seven days before it assigns officers to inspect the file mentioned in the preceding paragraph unless the emergency or the need of public interests.
+
+## Article 9
+
+The Regulations shall take effect on July 1, 2019.
+
+## History
+
+1.Full text including 9 articles adopted and promulgated by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1081604087 on May 30, 2019. These Regulations shall enter into force take effect on July 1, 2019.
+
+2.Amended by the Ministry of Health and Welfare Order Wei-Shou-Shi-Zi No. 1111604382 on June 16, 2022.

@@ -1,0 +1,71 @@
+---
+title: "Regulations on Governing the Developer’s Use of Reclaimed Water"
+title_zh: "開發單位使用再生水辦法"
+identifier: "J0110103"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-11-04
+last_amended: 2023-08-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0110103"
+retrieved: 2026-10-12
+---
+
+# Regulations on Governing the Developer’s Use of Reclaimed Water
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0110103-regulations-on-governing-the-developers-use-of-reclaimed-water.md](../../../zh/regulations/ministry-of-economic-affairs/J0110103-regulations-on-governing-the-developers-use-of-reclaimed-water.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 4 of Article 4 of the Reclaimed Water Resources Development Act (hereinafter referred to as the "Act").
+
+## Article 2
+
+The municipal or county (city) competent authority shall announce the total quantity of effluent and systemic reclaimed water in its jurisdiction, available quantity for application in its jurisdiction, and related information before the end of February and August each year.
+
+## Article 3
+
+For any development initiated by the developer, if water intake quantity in the water consumption plan reaches 20,000 cubic meters per day or more, 50% or more of the industrial water consumption in the water consumption plan should be systemic reclaimed water.
+
+In the event that the municipal, county (city), or the designated area in which the initiated development provided in the preceding paragraph is located lacks sufficient conditions for systemic reclaimed water supply, the developer may implement one of the following as alternatives:
+
+\1. Reuse of wastewater (sewage) not drained into the sewer system past the effluent or discharge point after it has been under the necessary treatment or processing.
+
+\2. Exchange of water sources with an existing water intake enterprise in the same water supply area, as a substitute for fulfilling its obligation of using systemic reclaimed water.
+
+If the developer, after evaluating the preceding alternatives, determines that the necessary quantity of systemic reclaimed water cannot be adequately supplemented, it may resort to other alternatives to fill the gap after acquiring the approval of the reasonableness of its water consumption by the central competent authority. However, in the event of an increase in systemic reclaimed water usage for development after the approval of the water consumption plan, the central competent authority may order the developer to propose a modified water consumption plan for using additional systemic reclaimed water.
+
+## Article 4
+
+These Regulations were amended and promulgated on August 8, 2023. For a water consumption plan approved prior to the promulgation of these Regulations on February 1, 2024, if the scheduled water intake quantity in the water consumption plan cumulatively reaches 20,000 cubic meters per day or more due to modified development, the increased portion of the quantity shall subject to the preceding Article.
+
+If the calculations in the preceding Paragraph conclude that the quantity of systemic reclaimed water shall be used daily is less than 1,000 cubic meters per day, such may be exempted from using systemic reclaimed water.
+
+## Article 5
+
+Where the actual water consumption deviates from the water consumption plan to the certain percentage or certain size stipulated in Paragraph 2 of Article 4 of the Act shall mean that the scheduled water intake quantity in the water consumption plan reaching 20,000 cubic meters per day or more, the actual water consumption has not reached 70% of the approved water intake quantity for (3) three consecutive years and the discrepancy reaches an average of 3,000 cubic meters per day or more, according to the audit by the central competent authority.
+
+A developer meeting the requirements of the preceding Paragraph shall submit a variance analysis report to the central competent authority for review. The central competent authority may, depending on its discrepancy, adjust or reduce the originally approved yearly and final water usage plan in the water consumption plan, or adjust the certain percentage of systemic reclaimed water to be used within the range of variance.
+
+The adjustment of the certain percentage of systemic reclaimed water to be used in the preceding Paragraph shall be deliberated and determined on a case-by-case basis by the central competent authority, after evaluating the water supply conditions, industrial water consumption characteristics, the developer's water-saving efficiency, the construction status of adjacent public sewer systems and reclaimed water plants, and other relevant factors. Such percentage shall be lower than the percentages specified in Paragraph 1 of Article 3.
+
+## Article 6
+
+For a water consumption plan submitted according to Paragraph 6 of Article 54-3 of the Water Act, if the water intake quantity in the water consumption plan cumulatively reaches 20,000 cubic meters per day or more due to the increase or change of the water consumption quantity beyond the existing water intake demand, the increased water quantity portion shall be managed in accordance with Article 4.
+
+The initiated development outlined in the preceding paragraph is subject to Paragraph 1 of Article 6-1 of the Regulations for Review of Water Usage Plan. In the event that the developer does not assume authority and responsibilities for coordinating, distributing, and managing water users within the area, individual water users in the area shall manage in accordance with Article 4 the increased portion of water quantity when the scheduled water intake quantity of their individual water consumption plan cumulatively reaches 20,000 cubic meters per day or more due to individual increase or change in water consumption quantity.
+
+## Article 7
+
+These Regulations shall become effective as of February 1, 2024.
+
+## History
+
+\1. A Total of 8 articles were promulgated on November 4, 2016 by the ordinance of the Ministry of Economic Affairs Ref. No. Ching-Shui-Tzu 10504605460
+
+\2. Amendment to Title of "Regulations on Governing the Developer's Use of Reclaimed Water" was promulgated on August 8, 2023 by the ordinance of the Ministry of Economic Affairs. The Regulation shall become effective on February 1, 2024.

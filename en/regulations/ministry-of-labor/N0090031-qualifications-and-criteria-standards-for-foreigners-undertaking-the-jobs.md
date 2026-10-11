@@ -1,0 +1,693 @@
+---
+title: "Qualifications and Criteria Standards for Foreigners Undertaking the Jobs Specified Under Subparagraph 1 to 6 of Paragraph 1 of Article 46 of the Employment Service Act"
+title_zh: "外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準"
+identifier: "N0090031"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-01-13
+last_amended: 2024-08-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090031"
+retrieved: 2026-10-12
+---
+
+# Qualifications and Criteria Standards for Foreigners Undertaking the Jobs Specified Under Subparagraph 1 to 6 of Paragraph 1 of Article 46 of the Employment Service Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090031-qualifications-and-criteria-standards-for-foreigners-undertaking-the-jobs.md](../../../zh/regulations/ministry-of-labor/N0090031-qualifications-and-criteria-standards-for-foreigners-undertaking-the-jobs.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Standards set herewith are based on the stipulations of Article 46.2 of the Employment Service Act ( the Act herewith).
+
+### Article 2
+
+To be employed at the jobs specified in Articles 46.1.1, 46.1.2, 46.1.4 to 46.1.6 of the Act, foreigners have to comply with the Standards stipulated herewith.
+
+To be employed at the jobs specified in Article 46.1.3 of the Act, foreigners have to comply with the Regulations Governing Educational Institutions at All Levels Applying for Work Permits for Foreign Teachers and their Administration prescribed by Ministry of Education.
+
+### Article 2-1
+
+Where an employer applies for a permit to hire a foreigner for the latter to perform the work specified in the preceding Article, the foreigner may not be found to be engaged in any of the following circumstances within three (3) years prior to the application date:
+
+\1. He or she has ever engaged in work without obtaining an Employment Permit;
+
+\2. He or she has ever worked or is currently working for an employer other than the employer who applied for a permit for him or her;
+
+\3. Without the employer’s designation, he or she has ever engaged in work not specified in the Employment Permit;
+
+\4. He or she was absent from work without leave or a justifiable reason for three (3) consecutive days, and he or she and the employer lost contact;
+
+\5. He or she has ever refused to undergo a health examination or provided a false specimen;
+
+\6. He or she has ever been found significantly violating Articles 48.2 and 48.3, or 49 of this Act;
+
+\7. He or she has ever been found significantly violating laws and regulations of the Republic of China; or
+
+\8. He or she has ever refused to submit any information as required by laws and regulations, or has submitted false information in violation of the laws and regulations.
+
+### Article 3
+
+To protect the working rights of the citizens in this country and to provide equal opportunities to foreigners in this country in a fair and reciprocal manner, the central competent authorities will decide along with specific industry authorities the quota of foreign employees based on the evaluation of the employment market, employers' industries, scale, employment plan, operation performance and the contributions to the economic and social development of this country.
+
+## Chapter 2 Special Professions or Technical Assignments
+
+### Article 4
+
+“Specialized or technical work” mentioned in Subparagraph 1, Paragraph 1, Article 46 of the Act refers to the following work requiring specialized knowledge, expertise, or skills a foreign national is hired to perform:
+
+\1. Civil engineering or building techniques;
+
+\2. Communications and transportation;
+
+\3. Tax and financial services;
+
+\4. Real estate agent;
+
+\5. Immigration services;
+
+\6. Attorney or patent attorney;
+
+\7. Technician;
+
+\8. Social worker or health care;
+
+\9. Environmental protection;
+
+\10. Culture, sports, and leisure services;
+
+\11. Academic research;
+
+\12. Veterinarian;
+
+\13. Manufacturing;
+
+\14. Wholesales;
+
+\15. Other work designated as per consultations between the Central Competent Authority and central authority in charge of the target industry.
+
+### Article 5
+
+Other than meeting with other criteria specified in the Standards, foreign employees have to acquire one of the following qualifications before undertaking the jobs/assignments specified here above:
+
+\1. Acquire certificates or operation qualifications through the procedures specified in the Examinations of Specific Profession and Technician Guidelines.
+
+\2. Acquire credentials of Master degree or above from universities in the ROC or in foreign countries or acquire Bachelor degree and with more than two years working experiences in the specific field.
+
+\3. Expatriates to the ROC that have been employed in multi-national companies for more than one year.
+
+\4. Specialists who have been trained professionally or self-taught in the specific field and have more than five years experiences in related skills and have demonstrated outstanding performances.
+
+### Article 5-1
+
+Other than meeting additional criteria specified in the Standards, foreign overseas students, overseas compatriot student and other students of Chinese descent, who meet one of the following criteria and have accumulated 70 points or more based on the provisions in the attached addendum, can be employed to undertake work listed in Article 4 and be exempted from the restrictions in the previous Article:
+
+\1. Students who have graduated from a university in the Republic of China with a bachelor's degree or higher
+
+\2. Students who have graduated from a university or college in the Republic of China with an associate degree or higher in subjects related to manufacturing, construction, agriculture, long-term care, or e-commerce
+
+The Central Competent Authority will announce application documents and procedures relating to the issuing employment permits referred to in the previous paragraph.
+
+### Article 6
+
+In order to assist companies in retaining professional and technical employees in response to the changes in the industry environment, foreigners employed in accordance with Article 5.2 may be exempted from the limitation of two-year work experience by the agreement with the central competent authorities in consultation with the central industry competent authorities.
+
+The startup businesses recognized as capable of innovation by the agreement with the central competent authorities in consultation with the central industry competent authorities are not subject to the limitation of five-year related experience as stated under Article 5.4.
+
+### Article 7
+
+Whereas the execution of contract(s) of construction, sale, technical cooperation, or so requires a foreign legal entity to designate its employee of a foreign nationality to engage in work specified in Article 4 in the Republic of China, the employment eligibility of the foreign employee will not be bound to Article 5, provided that the period for the employee to engage in such work does not exceed ninety (90) days.  However, if the number of days when the foreign employee has worked to perform the said contract(s) within one (1) year prior to the application date, and the number of days that the employer applies currently such work, total more than ninety (90) days, the foreign employee shall still be bound to Subparagraphs 1, 2, and 4 of Article 5.
+
+### Article 8
+
+The wages or remuneration for foreign employees who, or foreigners who, according to the contract for the business lines allowed under international treaties, undertake the jobs specified in Article 4 should not be lower than the amount published by the central competent authority.
+
+### Article 8-1
+
+If foreigners are employed to engage in architecture or civil engineering, the content of their work shall be the construction technical guidance and/or quality control in architecture; or planning, design, supervision, and/or technical consultations in civil engineering.
+
+### Article 9
+
+Employers who hire the foreigners mentioned in the preceding Article shall be qualified for one of the following:
+
+\1. Construction enterprises that have obtained permits and have registered with the competent governing authorities.
+
+\2. Architects who have obtained operation certificates and have more than 2 (two) years' experiences in the construction field.
+
+### Article 10
+
+Work responsibilities for foreign workers employed in the transportation industry should include the following:
+
+\1. Land Transportation
+
+(1) Planning, design, construction supervision, consulting, operation and maintenance work for railways, highways and mass rapid transit systems (MRT).
+
+(2) Installation, maintenance, technical supervision, testing and operation of facilities for passengers and cargo vehicles for railways, highways and MRT that are either imported or manufactured domestically by foreign companies.
+
+(3) Examination and testing of instruments procured overseas and R&D work that facilitates the upgrading of land transportation technology.
+
+\2. Sea and Air Transportation
+
+(1) Planning, design, manufacturing supervision, and construction evaluation work relating to harbors, docks and piers.
+
+(2) Management of commercial harbor facilities and salvage work, construction and maintenance of machinery, installation, technical supervision, testing, operation, directing of loading and unloading work, scheduling, operating machinery and R&D work that facilitates enhanced port operations.
+
+(3) Construction and maintenance of ships, containers and the R&D work that enhances the development of related technology.
+
+(4) Training and management of personnel in the maritime transport industry and other work that contributes to the development of maritime transport
+
+(5) Planning and construction of civil aviation terminals and supporting facilities
+
+(6) Maintenance and procurement of aircraft, inspections of civil aviation facilities, and technical supervision that facilitates enhanced sea and air transportation R&D capabilities
+
+(7) Personnel training, operational management, transportation of aircraft, test flights, pilot training, commercial aviation and other work that enhances the development of transportation
+
+\3. Postal Industry:
+
+(1) Planning, designing, examination and construction supervision of postal machinery and systems.
+
+(2) Verification and production supervision of postal instruments purchased overseas that enhance postal industry technology R&D.
+
+(3) Research, design, technical support and maintenance of postal machinery, and postal personnel training.
+
+\4. Telecommunications Industry:
+
+(1) Planning, design, and construction supervision of telecommunications engineering techniques.
+
+(2) Examination, manufacturing and technical supervision of instruments purchased overseas that enhance telecommunications technology R&D.
+
+(3) Research, design, technical support, technical supervision and maintenance of telecommunication equipment
+
+(4) Telecommunications personnel training
+
+(5) Design and technical support of telecommunications value-added networks
+
+(6) Planning, design, manufacturing supervision, and instruction of radio wave technology and equipment used in radio and television broadcasting
+
+\5. Tourism Industry
+
+(1) Operation and management of tourist hotel industry, hotel businesses and travel agencies, tour guides, tour leaders, and other R&D work that enhances the tourism industry.
+
+(2) Jobs related to the operation of tourist hotel industry, hotel and food & beverage businesses that require techniques lacking in the Republic of China (Taiwan).
+
+(3) Planning, development, operation and management of scenic areas or recreational areas.
+
+\6. Meteorology Industry
+
+(1) Collection, evaluation, processing, supply and exchanging of international meteorological, earthquake and marine meteorological information.
+
+(2) Technical research and supervision of meteorology, earthquake and marine meteorology work.
+
+(3) Testing and maintenance instruction work on meteorological, earthquake and marine meteorological instruments procured overseas that enhance meteorological, earthquake and marine meteorological technique R&D work.
+
+(4) Cultivation and training of meteorological, earthquake and marine meteorology related personnel, and the verification of meteorological, earthquake, marine meteorology, volcano and tsunami related facts.
+
+\7. Planning and management work detailed in Subparagraphs 1 to 6
+
+### Article 11
+
+The employers of the foreigners referred to in the preceding Article shall acquire the business license issued by the authority concerned.
+
+Foreigners to be employed as tour guides, tour leaders, or travel agency managers in the tourism industry, as specified in Article 10.5, should respectively obtain a tour guide license, tour leader license, or travel agency management certificate issued by the authority concerned at the central government level.
+
+### Article 12
+
+Qualifications for foreigners to be employed for air-transportation or test-fly include the following:
+
+\1. Pilots have the qualification for transporting or test-flying the aircraft model(s) that required by the employer(s).
+
+\2. Pilots have the valid certificate of the aircraft model(s) required by the employer(s).
+
+\3. Pilots have passed the physical examination and obtain the valid documents.
+
+### Article 13
+
+Qualifications for foreigners to be employed for pilot training include the following:
+
+\1. Pilots are qualified for aircraft training.
+
+\2. Pilots have the valid certificate of the aircraft model(s) required by the employer(s).
+
+\3. Pilots have passed the physical examination and obtain the necessary documents to prove it.
+
+### Article 14
+
+Qualifications for foreigners workers who are employed for commercial aircraft flying include the following:
+
+\1. Pilots have the qualification for civil aircraft flying and transportation.
+
+\2. Pilots have the valid certificate of the aircraft model(s) required by the employer(s).
+
+\3. Pilots have passed the physical examination from the civil aviation medical center and obtain the necessary documents to prove it.
+
+In the case that, for some aircraft models, if there are no qualified pilots for those models domestically or internationally, employers may hire foreign pilots who have not acquired the valid certificates of the aircraft models to give them due trainings. Only when they have acquired the valid certificates of the aircraft models are they allowed to be employed the work prescribed in this Article. However, our national qualified aircraft pilots shall be trained in the first priority.
+
+### Article 15
+
+An employer who hires foreign pilots, as specified in the preceding Article, shall also train domestic pilots. The total number of foreign pilots hired by the employer may not exceed two point five (2.5) times of the sum of the total number of domestic pilots trained by the employer within seven (7) years prior to the application date, and the planned number of domestic pilots who are being or to be trained by the employer in the year of the application.
+
+### Article 16
+
+Employers who employ foreign workers specified in Article 12 to Article 14 should obtain civil aviation transportation permit issued by the industry authority at the central government level.
+
+### Article 17
+
+Qualifications for foreigners to be employed for domestic commercial (aircraft) flying include the following:
+
+\1. Pilots have to be qualified for captains* in aviation system.
+
+\2. Pilots have the valid certificate of the aircraft model(s) required by the employer(s).
+
+\3. Pilots have passed the physical examination and obtain the necessary documents to prove it.
+
+### Article 18
+
+Employers have to be qualified for one the following when hiring foreigners for the work stipulated in the previous Article:
+
+\1. Obtain the permit from the ROC general aviation issued by the authority concerned at the central government level.
+
+\2. Foreign pilot employed for aircraft operation and training can only be assigned for aircraft models that have yet been initiated in this country.
+
+However, for those existing aircraft models which have yet to be operated by local pilot trainers are exempted from abovementioned restriction.
+
+On-job training (re-training) for international pilots who have already operated the said aircraft model(s) should also be exempted from the abovementioned restriction.
+
+### Article 19
+
+Employers' application plans have to be qualified for one the following when hiring foreigners for the work stipulated in the previous Article:
+
+\1. Employers can assign pilots to operate either single-seat or double-seat aircraft model.In the first year of operating ( an aircraft ), either model can be operated fully by foreign pilots; from the second year onward, double-seated aircraft model must have at least one pilot with the ROC nationality.
+
+\2. At least half of the total flying hours of single-seat aircraft models need to be assigned to the ROC pilot from the second year of operation, with the exception of cases where special nature or techniques are required for the job and are approved by the central competent authorities along with authority concerned at the central government level.
+
+### Article 20
+
+Foreigners to be employed in the aircraft engine, fuselage or electronic communication visa related field shall acquire the valid certificates and 5 years aircraft maintenance or related technical field working experience.
+
+### Article 21
+
+Work undertaken by foreign nationals employed in the tax & financial service sector in-clude the following:
+
+\1. Securities & Futures Trading
+
+(1) Planning, research, analysis, investment, management and trading relating to marketable securities and securities finance, as well as financial, business auditing or the introduction of new techniques
+
+(2) Futures trading, investment, analysis, as well as financial, business auditing or the introduction of new techniques
+
+\2. Financial industry: deposits, credit, investment, trusts, foreign exchange and other financial businesses recognized by the Central Competent Authority and central authority in charge of the target industry as well as planning, research & analysis, management & consulting of the aforementioned business, business auditing, risk management or the introduction of new work techniques.
+
+\3. Insurance industry: Claims for life or property insurance, approval of insurance policy, actuary, investment, information, re-insurance, insurance brokerage, insurance agent, training, notarization, engineering, risk management or the introduction of new techniques.
+
+\4. Assisting business accounting affairs.
+
+\5. Assisting with businesses specified in the Certified Public Accountant Act.
+
+Employers of foreign nationals referred to in Subparagraphs 1 to 4 in the preceding paragraph are required to obtain a business license for securities, futures trading, financial industry or insurance industry business issued by thecentral authority in charge of the target industry.
+
+Employers of foreign nationals referred to in Subparagraph 5, Paragraph 1 are required to obtain Certified Public Accountant license.
+
+### Article 22
+
+Job descriptions for foreigners to be employed in the real estate agencies should be brokerage or selling of real estates.
+
+Foreign workers in this category should obtain a real estate broker certificate issued by the municipality or county (city) competent authority, or a real estate broker certificate issued by the organization or association designated by the authority concerned at the central government level.
+
+### Article 23
+
+Job descriptions for foreigners to be employed in the immigration service organizations should be within the following categories:
+
+\1. Consultation of immigration fund and brokerage services related to investment immigrating.The idea is to protect the rights of the immigrants.
+
+\2. Other consultation services related to immigration.
+
+Foreigners workers specified in the previous Article should be qualified for one of the following:
+
+\1. Have more than two-year experience in the immigration business specified in Article 22.
+
+\2. Worked as immigration officer and has been responsible for immigration visa issuance for more than one year.
+
+\3. Qualified as attorney and has been working on immigration-related business for more than one year.
+
+### Article 24
+
+Foreigners to be employed for attorney's assignments should be qualified with one of the following:
+
+\1. Lawyers/ attorneys recognized in the Republic of China.
+
+\2. Lawyers/attorneys specialize in foreign laws.
+
+### Article 25
+
+Employers have to be qualified for one the following when hiring foreigners for the work stipulated in the previous Article:
+
+\1. Lawyers/ attorneys recognized in the Republic of China.
+
+\2. Lawyers/attorneys specialize in foreign laws.
+
+### Article 25-1
+
+Foreigners to be employed to engage in the practice of patent attorneys shall qualify as patent attorneys of the Republic of China.
+
+The employer which is to hire foreign patent attorneys as set forth in the preceding Paragraph shall be a firm that operates and handles patent business, and satisfies one of the following conditions:
+
+\1. Patent attorneys of the Republic of China;
+
+\2. Attorneys of the Republic of China;
+
+\3. Patent agents of the Republic of China.
+
+### Article 26
+
+Foreigners to be employed to practice business as professional engineers should obtain the license issued by the central competent authority as defined in the Professional Engineers Act.
+
+The employers of the foreigners referred to in the preceding paragraph shall acquire one of the following documents:
+
+\1. Professional engineering consulting firm registration certificate;
+
+\2. Business license issued by the authority concerned.
+
+### Article 26-1
+
+A foreign national employed to engage in social work is required to obtain a social worker certificate issued by the Central Competent Authority as stipulated in the social Worker Act.
+
+Employers who hire the aforementioned foreign nationals are required to hire one or more full-time social worker or a full-time social work related personnel with a background in professional social work, who has interned at one of the following professionally registered venues as detailed in the Social Workers Act:
+
+\1. Public social welfare, labor, judicial or health agency (institution).
+
+\2. Registered private social welfare, labor, judicial or health agency (institution).
+
+\3. Registered group with a charter the main focus or mission of which is social work or social welfare.
+
+\4. Public and private colleges and universities, middle schools or elementary schools.
+
+\5. Institutions accredited by the central authority in charge of the target industry.
+
+\6. Other legally registered businesses that employ social workers.
+
+### Article 27
+
+A foreigner to be employed to engage in healthcare in a medical institution to shall qualify for one of the following:
+
+\1. A physician who has obtained a medical professional certificate issued by any of the concerned central governing authorities, traditional Chinese medical practitioner, dentist, pharmacist, medical technologist, medical radiation technologist, physical therapist, licensed nurse, nutrition specialist, clinical psychologist, counseling psychologist, respiratory therapist, speech pathologist, dental technician, licensed midwife, an occupational therapist, audiologist, or optician.
+
+\2. Other than the professionals as set forth in the preceding Paragraph, any other medical specialist or technician whom is recognized as necessary in healthcare business by the joint consultation of the central governing authority and central competent authorities.
+
+### Article 28
+
+Medical organizations specified in the previous Article shall fall within the following categories:
+
+\1. Legally registered institutions where the personnel prescribed in Subparagraph 1 of the preceding Article practice.
+
+\2. Pharmacists.
+
+\3. Non-profit healthcare organizations.
+
+\4. Other organizations allowed to recruit foreigners and that are recognized by the central competent authorities along with the specific authorities concerned at the central government level.
+
+### Article 29
+
+The job descriptions for foreigners to be employed in the environmental protection work should be within the following:
+
+\1. personnel training.
+
+\2. research and development of techniques.
+
+\3. installations, operations and maintenances of pollution-prevention instruments.
+
+### Article 30
+
+When hiring foreigners for the work stipulated in the previous Article, employers have to be within the following categories :
+
+\1. Environment examination and examination organizations.
+
+\2. Waste ( sewage) water disposal operators.
+
+\3. Cleaning agencies that handle the sewage-water disposal facilities for (office and apartment) buildings.
+
+\4. Garbage disposal agencies.
+
+\5. Other work / industries allowed for foreigner-recruitment recognized by the central competent authorities along with the specific industry authorities at the central government level.
+
+### Article 31
+
+The job descriptions for foreigners to be employed in the cultural, sports, and recreation service industries should be within the following categories:
+
+\1. Publication Industry: management, foreign-language scriptwriting, editing, translation or compilation for newspapers, magazines or books; management, production or music composing, new facilities & techniques initiation for audio publication.
+
+\2. Motion picture industry: motion picture production, screenplay writing, art designing, promotion, direction, or new techniques initiation.
+
+\3. Wireless, cable, and satellite broadcasting (radio and television) industries: program designing and production, foreign-language scriptwriting, translation & editing, announcing & dubbing, directing & program hosting, management or new techniques initiation.
+
+\4. Service industry related to arts, culture and sports: literary work, commentary, operation and management of arts & culture activities, agents for art talents and models, operation & management of sports venues, judges (referees) for sports competition, sports (training) instructor, or organizer for sports events.
+
+\5. Library and archive preserving industries: data collecting and maintaining, transformation of data into photographs, maps, audio tapes, video tapes and other preservation or management format.
+
+\6. Museums, historical heritages and other organizations dedicated to preserving cultural assets: preservation, maintenance, display and demonstration, education or management of various cultural assets or other cultural assets worthy of preservation.
+
+\7. Recreation & service industries: operation and management of theme parks or playgrounds.
+
+The employers of the foreigners referred to in the subparagraphs 5 and 6 of the preceding paragraph shall acquire the publication industry license, archive preservation industry license, museum license or historical heritages license issued by the authority concerned.
+
+### Article 32
+
+Where a foreigner is to be hired to perform research work, his or her employer shall be a college or above, or an academic research institution or teaching hospital whose registration is approved by the central governing authorities pursuant to laws.
+
+### Article 33
+
+Foreign employees who are hired by veterinarian clinic or other organizations recognized by the central competent authorities along with authority concerned at the central government level should obtain the veterinarian certificate issued by the latter.
+
+### Article 34
+
+Work engaged in by foreign nationals employed in the manufacturing industry includes: management, dispatch, supervision, operation, direction, research, research and development, development, analysis, design, planning, testing, inspection, auditing, training, curation, quality control, maintenance, consultation, instrument installation and technical supervision or the introduction of technical research and development etc.
+
+### Article 35
+
+The job descriptions for foreigners to be employed in the wholesale business should include: operational management, design, planning and technical supervision.
+
+### Article 36
+
+An employer who is to hire a foreigner as set forth in Subparagraph 15 of Article 4, Paragraph 1 of Articles 22, Paragraph 1 of Articles 23, Articles 29, Subparagraphs 1 to 4 and 7 of Paragraph 1 of Article 31, Articles 34 or 35 shall meet one of the following requirements:
+
+\1. Domestic company:
+
+(1) Established for less than one (1) year, and its paid-up capital has reached five million (5,000,000) New Taiwan Dollars and above, or average turnover, actual import and export revenue, or commission has reached ten million (10,000,000) New Taiwan Dollars and above, one million (1,000,000) United States dollars and above, or four hundred thousand (400,000) United States dollars and above, respectively.
+
+(2) Established for more than one (1) year, and its average turnover, actual import and export revenue, or commission in the most recent year or for the past three (3) years has reached no less than ten million (10,000,000) New Taiwan Dollars, one million (1,000,000) United States dollars, or four hundred thousand (400,000) United States dollars, respectively.
+
+\2. Foreign branch company established in the Republic of China or Mainland China branch company established in the Republic of China:
+
+(1) Established for less than one (1) year, and its working capital, turnover, actual import and export revenue, or commission has reached five million (5,000,000) New Taiwan Dollars and above, ten million (10,000,000) New Taiwan Dollars and above, one million (1,000,000) United States dollars and above, or four hundred thousand (400,000) United States dollars and above, respectively.
+
+(2) Established for more than one (1) year, and its average turnover, actual import and export revenue, or commission in the most recent year or for the past three (3) years has reached no less than ten million (10,000,000) New Taiwan Dollars, one million (1,000,000) United States dollars, or four hundred thousand (400,000) United States dollars, respectively.
+
+\3. The employer is a representative office of a foreign company or a Mainland China company approved by the authority concerned at the central government level, and has actual performance records in Taiwan.
+
+\4. The employer is a research and development center, or a corporate operation headquarter, and its establishment has been approved by the authority concerned at the central government level.
+
+\5. The employer has made substantial contribution to the domestic economic development. Alternatively, he, she, or it has a special circumstance that is treated as a special case by the central competent authority after consultation with the authority concerned at the central government level.
+
+### Article 37
+
+Employers who hire a foreign worker to engage in the work detailed in Article 4 must be a juridical person, juridical association, government agency (institution), administrative juridical person, or international non-government organization, and meet one of the following requirements:
+
+\1. Juridical person: Established for less than one year, with total funding of NT$10 million or more; alternatively, established for one year or more or had average operating expenditure in the most recent year or for the past three years of NT$5 million or more.
+
+\2. Juridical association: Must have 50 members or more.
+
+\3. Government agency (institution): Government agencies at any level and their affiliated agencies (institutions).
+
+\4. Administrative juridical person: An administrative juridical person established pursuant to the law.
+
+\5. Non-government organization: A representative office, secretariat, headquarters, or branch in Taiwan establishment with the approval of the central competent authority for the target industry.
+
+When the aforementioned employer is a juridicial person or juridicial association that makes a substantive contribution to the development of the domestic economy or, owing to special circumstances and with the agreement of the Central Competent Authority and central competent authority for the target industry on a case by case basis, they can be exempted from the restrictions in Subparagraph 1 or Subparagraph 2 in the previous paragraph.
+
+### Article 37-1
+
+Foreigners employed in the jobs specified in Items 1 to 6, Paragraph 1 of Article 46 of this Act whose foreign spouses with whom they live are employed in part-time work prescribed in Article 4, shall not receive hourly wages or remunerations lower than the amount announced by the central competent authority in accordance with Article 8.
+
+Employer's application for employment of an aforesaid foreigner's spouse is not subject to the following restrictions:
+
+\1. The amount of paid-up capital, turnover, actual import and export revenue, agency commission and working capital in Taiwan set forth in Article 36 (1) and (2).
+
+\2. The amount of funds, the average operating expenses and the number of members set up in the first and second Paragraphs of the precedingarticle.
+
+Foreigners’ spouses whose permitted period of work according to the application provisions specified in the first Paragraph shall not exceed the allowable period of foreigners.
+
+## Chapter 3 Management work in a business entity invested by overseas compatriot student or foreigners
+
+### Article 38
+
+A foreign national hired to serve as a supervisor or manager at a business invested in or established by overseas compatriots or foreign national(s) and approved by the Government of the Republic of China (Taiwan), in accordance with the provisions of Subparagraph 2, Paragraph 1, Article 46 of the Qualifications and Criteria Standards are required to have one of the following qualifications:
+
+\1. The expatriate has worked as a manager at a company invested in by overseas compatriots or foreign national(s) and approved by the government of the Republic of China (Taiwan) in accordance with the provisions of the Statute for Investment by Overseas Compatriots, or Statute for Investment by Foreign Nationals, whereby the amount of shares held by or capital contributed by the overseas compatriot or foreigner national(s) exceeded one third (1/3) of the total amount of shares, or total capital of the business.
+
+\2. The foreigner has ever acted as a manager of a foreign branch company.
+
+\3. The foreigner has ever acted as a representative of a representative office, approved by the central industry competent authorities.
+
+\4. The foreigner has ever acted as the deputy director or manager or the equivalent position in the start-up business recognized as capable of innovation in accordance with the Article 6.2. authority concerned at the central government level.
+
+If the number of expatriates to be hired by the employer pursuant to the preceding Paragraph 1 to 3 exceeds one (1), the qualifications of the expatriates and the employer, or other qualifications thereof shall conform to provisions set forth in Chapter 2.
+
+If the number of expatriates to be hired by the employer pursuant to the preceding Paragraph 4 exceeds one (1), the wages or remuneration of the expatriates shall not be lower than the amount published by the central competent authority set forth in the Article 8.
+
+The provisions referred to in the preceding three paragraphs shall apply to a foreigner to be hired by a Mainland China branch company or representative office to act as a manager of the company.
+
+### Article 39
+
+The employer who is to hire a foreigner specified in the preceding Article shall meet one of the following requirements:
+
+\1. Established for less than one (1) year, and its paid-up capital or working capital in Taiwan has reached five hundred thousand (500,000) New Taiwan Dollars and above, or average turnover, actual import and export revenue, or commission has reached three million (3,000,000) New Taiwan Dollars, five hundred thousand (500,000) United States Dollars and above, or two hundred thousand (200,000) United States dollars and above, respectively.
+
+\2. Established for more than one (1) year, and its average turnover, actual import and export revenue, or commission in the most recent year or for the past three (3) years has reached no less than three million (3,000,000) New Taiwan Dollars, five hundred thousand (500,000) United States dollars, or two hundred thousand (200,000) United States dollars, respectively.
+
+\3. Whereas the employer is a representative office of a foreign company, whose establishment has been approved by the authority concerned at the central government level, with actual performance records in Taiwan, provided that no such performance records are needed, if it has been established for less than one year.
+
+\4. The employer has made substantial contribution to the domestic economic development. Alternatively, he, she, or it has a special circumstance that is treated as a special case by the central competent authority after consultation with the authority concerned at the central government level.
+
+### Article 39-1
+
+Foreigner spouses, who come with the foreigners employed in works provided in Subparagraphs 1 to 6 of Paragraph 1 of Article 46 in this Act and are engaged in part time work specified in Article 38, shall not receive hourly wages or incomesless than the amount approved by the central competent authority in accordance with Article 8.
+
+Employers who apply for the employment of the spouses mentioned in the preceding paragraph to engage in the work are not subject to the restrictions of the amount of paid-up capital, turnover, actual import and export revenue, agency commission and working capital in Taiwan set forth in the preceding Subparagraphs 1 and 2. .
+
+The application for working period permission made by foreigner spouse of foreigner according to the provisions of Paragraph 1,shall not exceed the allowable period of foreigners concerned.
+
+## Chapter 4 (Deleted)
+
+### Article 40
+
+(Deleted)
+
+### Article 41
+
+(Deleted)
+
+### Article 41-1
+
+(Deleted)
+
+### Article 42
+
+(Deleted)
+
+## Chapter 5 Sports, Arts and Performing Arts
+
+### Article 43
+
+Foreigners who are employed by a sports trainer specified in the provisions of Subparagraph 5, Paragraph 1 of Article 46 in this Act shall have one of the following qualifications:
+
+\1. Holding a national sports coach certificate issued by the National Sports Association.
+
+\2. Having more than two (2) years’ practical experience as former sports coach and being recommended by the national (international) individual sports association (federation).
+
+\3. Holding a qualified lecturer certificate for coaching seminars issued and recommended by his/her country’s International individual sports association.
+
+\4. Having the ability to demonstrate sports action and being recommended by his/her country’s International individual sports association..
+
+\5. Having expertise in athletics and aiming to promote the development of domestic sport, or in special circumstances that are identified by the Central Competent Authority after consulting with the central business purpose authorities.
+
+### Article 44
+
+Foreigners who are employed and engaged in athletic workspecified in Subparagraph 5 of Paragraph 1 of Article 46 of this Act shall have one of the following qualifications:
+
+\1. An athlete who has participated in an international or national sports competition and holds a supporting document;
+
+\2. Having actual work experience in athletics for more than a year and being recommend by national (international) individual sports association (federation);
+
+\3. Having expertise in athletics and aiming to promote the development of domestic sport, or in special circumstances that are identified by the Central Competent Authority after consulting with the central business purpose authorities.
+
+### Article 45
+
+Employers must qualify as one of the following when hiring foreigners for the work stipulated in the previous two Articles:
+
+\1. Schools.
+
+\2. Government agencies (institutions) or administrative corporation.
+
+\3. Non-profit sports groups.
+
+\4. Companies that are involved in physical educations, sports and related businesses.
+
+\5. Companies or organizations that participate in the sports competitions and games organized by national sports federations or associations, with certificates proving participation.
+
+### Article 46
+
+Foreigners who are engaged in the arts and performing arts prescribed in Subparagraph 6 of Paragraph 1 of Article 46 of this Act shall present a recommendation or certificate issued by the official organ of the country file. However, in the event of special circumstances, this requirement might be waived to foreigners who are identified by a project which is determined after the Central Competent Authority in consultation with the central relevant competent authorities.
+
+### Article 47
+
+Employers who employ foreigners mentioned in the preceding Article shall fall into one of the following categories:
+
+\1. Schools, public social education and cultural institutions.
+
+\2. Tourist hotels.
+
+\3. Tourism and leisure industry.
+
+\4. Performing arts industry.
+
+\5. Cultural and educational foundation.
+
+\6. Performing Arts groups, academic culture or art groups.
+
+\7. Publishing industry.
+
+\8. Film industry.
+
+\9. Wireless, cable or satellite radio and television industry.
+
+\10. Arts and literature service industry.
+
+\11. Government agencies (institutions) or administrative corporation.
+
+\12. Foreign embassies, institutions and international organizations in Taiwan.
+
+## Chapter 6 Attachments
+
+### Article 48
+
+The Standards shall take effect from the day of promulgation.
+
+Article 15 of the Standards amended on January 29, 2010 will take effect from January 29, 2015; amendments announced on October 25, 2021 will take effect from October 25, 2021; and amendments announced on April 29, 2022 will take effect from April 30, 2022.
+
+## Attachments
+
+- [Table.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008493)
+
+## History
+
+1.Promulgated on January 13,2004
+
+2.Amended on May 24,2005
+
+3.Amended on May 02, 2006
+
+4.Amended on January 29, 2010
+
+5.Amended on May 17, 2013
+
+6.Amended on July 1, 2014
+
+7.Amended on May 1, 2015
+
+8.Amended on July 26, 2017
+
+9.Amended on May 9, 2018
+
+10.Amended on May 18, 2020
+
+11.Amended on October 25, 2021
+
+12.Amended on April 29, 2022
+
+13.Amended on June 14, 2024
+
+14.Amended on August 1, 2024

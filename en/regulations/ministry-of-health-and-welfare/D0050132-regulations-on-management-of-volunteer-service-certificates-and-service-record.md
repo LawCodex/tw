@@ -1,0 +1,103 @@
+---
+title: "Regulations on Management of Volunteer Service Certificates and Service Record Books"
+title_zh: "志願服務證及服務紀錄冊管理辦法"
+identifier: "D0050132"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會救助及社工目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-04-20
+last_amended: 2024-11-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050132"
+retrieved: 2026-10-12
+---
+
+# Regulations on Management of Volunteer Service Certificates and Service Record Books
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050132-regulations-on-management-of-volunteer-service-certificates-and-service-record.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050132-regulations-on-management-of-volunteer-service-certificates-and-service-record.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 2, Article 12 of the Volunteer Service Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+After a volunteer finishes the training, the volunteer service exerciser shall grant him/her a volunteer service certificate (hereinafter referred to as “Service Certificate”) and a service record book (hereinafter referred to as “Record Book”).
+
+## Article 3
+
+A Service Certificate shall be fabricated, granted, and managed by the volunteer service exerciser and shall record at least the following items:
+
+\1. Name of the volunteer.
+
+\2. The organization granting the Service Certificate along with the issue/expiration date.
+
+\3. The Service Certificate number
+
+\4. Other items designated by the competent authority.
+
+The volunteer service mark designated by the central competent authority and a photo of the volunteer shall be printed on the Service Certificate.
+
+Service Certificates shall be used for identification of volunteers, and cannot be used for other purposes.
+
+## Article 4
+
+A Record Book records all the services provided by a volunteer, and the format shall be prescribed by the central competent authority; Record Books shall be printed by the central regulating department of objective undertaking.
+
+Within the Record Book, a volunteer service exerciser shall record the hours and content of basic training and special training received by the volunteer pursuant to Paragraph 1, Article 9, of the Act, as well as the volunteer’s insurance information; the dates, hours, and content of services; awards; and photo.
+
+The central competent authority shall undertake Record Book management to establish an integrated national volunteer service information system (hereinafter referred to as “the National Information System”).
+
+A volunteer service exerciser shall register the Record Book content specified in Paragraph 2 in the National Information System. However, where a municipal or county (city) competent authority (hereinafter referred to as “local competent authority”) has established a local information system, the volunteer service exerciser may register the Record Book content in the local information system, after which the respective local competent authority shall register the content in the National Information System.
+
+The provisions of the preceding paragraph will take effect as of January 1, 2026.
+
+## Article 5
+
+When a volunteer applies for a Record Book, a volunteer service exerciser shall register the volunteer’s basic information and his/her basic training and special training completion certificates in the National Information System; the local regulating department of objective undertaking shall create the Record Book, and the volunteer service exerciser shall give the Record Book to its subordinate volunteer.
+
+Where a volunteer service exerciser has no local regulating department of objective undertaking but a central regulating department of objective undertaking exists, the central regulating department of objective undertaking shall create the Record Book.
+
+The volunteer’s basic information specified in Paragraph 1 shall include the volunteer’s name; sex; date of birth; and National ID card number, passport number, or resident certificate number.
+
+## Article 6
+
+A Service Certificate and a Record Book shall be used and stored by the volunteer himself/herself, and may not be borrowed to others, used by someone else, or used inappropriately.
+
+If a volunteer violates the provisions of the preceding paragraph or the rules prescribed by the volunteer service exerciser, the volunteer service exerciser shall make corrections, record the action in the Record Book, and not adopt the service records; if necessary, they may also call back the Service Certificate and write off the certificate number.
+
+## Article 7
+
+Where a volunteer works for another volunteer service exerciser, the Record Book shall continue to be used.
+
+## Article 8
+
+If a Record Book is damaged or lost, the volunteer may apply to the volunteer service exerciser for reissuance or renewal in accordance with Article 5.
+
+## Article 9
+
+When a volunteer service exerciser registers content in a Record Book, the National Information System, or a local information system, they shall comply with the following provisions:
+
+\1. Registration shall be performed by designated personnel.
+
+\2. Service items and service content shall be registered according to the facts.
+
+\3. Hours of service shall not include the round-trip transit time.
+
+## Article 10
+
+Regulating departments of objective undertakings may randomly examine the usage of their subordinate volunteer service exercisers’ Service Certificates and Record Books at any time, as well as the status of information registration pursuant to Paragraph 4, Article 4.
+
+## Article 11
+
+Except where otherwise stipulated in Paragraph 5, Article 4, these Regulations will take effect as of the date of promulgation.
+
+## History
+
+1.Promulgated on April 20, 2001
+
+2.Amended on Nov 12,2024

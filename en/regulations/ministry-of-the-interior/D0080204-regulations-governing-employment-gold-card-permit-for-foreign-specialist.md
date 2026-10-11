@@ -1,0 +1,141 @@
+---
+title: "Regulations Governing Employment Gold Card Permit for Foreign Specialist Professionals"
+title_zh: "外國特定專業人才申請就業金卡許可辦法"
+identifier: "D0080204"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-02-06
+last_amended: 2025-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080204"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Employment Gold Card Permit for Foreign Specialist Professionals
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080204-regulations-governing-employment-gold-card-permit-for-foreign-specialist.md](../../../zh/regulations/ministry-of-the-interior/D0080204-regulations-governing-employment-gold-card-permit-for-foreign-specialist.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to paragraph 3 of Article 9 of the Act for the Recruitment and Employment of Foreign Professionals (hereinafter referred to as “the Act”).
+
+## Article 2
+
+A foreign specialist professional applying for an Employment Gold Card shall submit the application to the Foreign Professionals Online Application Platform (hereinafter referred to as the “Foreign Professionals Application Platform”) established by the National Immigration Agency of the Ministry of the Interior (hereinafter referred to as “the NIA”) in accordance with the following requirements:
+
+1.Upload color scanned electronic files of the following documents:
+
+(1)A passport valid for at least 6 months.
+
+(2)2-inch hatless facial color photo taken within 6 months.
+
+(3)Documents for recognition of eligibility as a foreign specialist professional as announced by the central competent authority of the industry concerned.
+
+(4)Other required documents for applications for the work permit, resident visa, Alien Resident Certificate and re-entry permit.
+
+2.Choose the validity period of the Employment Gold Card and pay the stipulated fees.
+
+In the case of a foreign specialist professional whom the central competent authority of the industry concerned has recommended to apply for an Employment Gold Card, the documents referred to in subparagraph 1 of the preceding paragraph may be submitted in written form.
+
+After the NIA has accepted an application and the Ministry of Labor has reviewed it for compliance with foreign specialist professional eligibility as prescribed in paragraph 1 of Article 3, the NIA shall notify the applicant to submit the Passport Submission Notice and his/her passport (original) to an overseas embassy, representative office, or office (hereinafter referred to as “overseas mission”) of the Ministry of Foreign Affairs for verification within six months. However, a foreign specialist professional who applies for an Employment Gold Card having already entered the Republic of China　(R.O.C., hereinafter referred to as “the State”) may be exempted from passport verification.
+
+## Article 3
+
+After accepting an application, the NIA shall jointly review the application with the Ministry of Labor and the Ministry of Foreign Affairs (hereinafter referred to as the “review authorities”). If necessary, the review authorities may consult the central competent authority of the industry concerned for provision of opinion therefrom. However, a foreign specialist professional who applies for an Employment Gold Card having already entered the State may be exempted from joint review by the Ministry of Foreign Affairs.
+
+The review authorities shall complete the review of an application within 30 working days from the date of its acceptance. The waiting time for passport verification as referred to in paragraph 3 of the preceding Article, time taken for document supplementation and correction as referred to in Article 4, and other delay caused by force majeure, shall be deducted.
+
+## Article 4
+
+If the application materials are inconsistent, incomplete, or if the required fees have not been paid in accordance with the regulations, the NIA shall notify the applicant to make corrections within thirty (30) days. Where the supplementary documents must be obtained from overseas regions, mainland China, Hong Kong, or Macau, the correction period shall be six (6) months. If the applicant fails to rectify or incompletely rectify within the stipulated period, their application shall be rejected.
+
+Where the applicant has failed to submit his/her passport for verification in accordance with the notice under Paragraph 3 of Article 2, his/her application shall be rejected.
+
+## Article 5
+
+Where an application falls under any of the following circumstances, the NIA may deny the application. If approval has already been granted, the NIA may revoke or rescind such approval and cancel the applicant’s Employment Gold Card:
+
+1.Where the Ministry of Labor determines that the applicant does not meet the qualifications of a foreign specialist professional, or determines that the applicant falls under any of the circumstances listed in Article 2-1 of the Qualifications and Criteria Standards for Foreigners Undertaking the Jobs Specified under Subparagraphs 1 through 6 of Paragraph 1 of Article 46 of the Employment Service Act.
+
+2.Where the Ministry of Foreign Affairs determines that the applicant falls under any of the circumstances listed in Paragraph 1 of Article 12 or Paragraph 1 of Article 13 of the Statute Governing Issuance of R.O.C. Visas in Foreign Passports, or where the applicant is a foreign national, an official or a dependent of such official employed by an embassy or consulate in the State, a foreign institution, or an international organization.
+
+3.Where the applicant falls within any circumstances set out in Paragraph 1 or Paragraph 2 of Article 24 of the Immigration Act.
+
+4.Where the applicant falls within any circumstances set out in Paragraph 1 of Article 22 or Paragraph 1 of Article 28 of the Regulations Governing Permits for Hong Kong and Macao Residents Entering the Taiwan Area and Setting up Residence or Registered Permanent Residence in R.O.C.
+
+5.Other circumstances that are inconsistent with the provisions of the Act or these Regulations.
+
+## Article 6
+
+Where an application is found to comply with the relevant requirements upon review, the NIA shall process the application in accordance with the following provisions:
+
+1.Onshore application: issue the Employment Gold Card to the applicant.
+
+2.Offshore application: issue an Employment Gold Card Overseas Approval Certificate (hereinafter referred to as the “Certificate”) to the applicant, who shall use the Certificate for entry. The applicant shall present the Certificate and proof of residence in the State at the NIA to exchange for an Employment Gold Card within 30 days after entering the State.
+
+The validity period of the Employment Gold Card shall be calculated from the day following the date of approval.
+
+During the validity period of the Employment Gold Card, a foreign specialist professional may use the card to work and reside in the State, and may use it together with a valid passport for multiple re-entries.
+
+Where an applicant already holds an Alien Resident Certificate (ARC), the NIA shall, upon issuing an Employment Gold Card or a Employment Gold Card Overseas Approval Certificate pursuant to Paragraph 1, revoke the applicant’s residence permit and cancel the ARC.
+
+## Article 7
+
+Where a holder of an Employment Gold Card falls under any of the following circumstances, the NIA shall revoke or rescind the approval of Employment Gold Card and cancel the Employment Gold Card:
+
+1.Notified of withdrawal or revocation of work permit or eligibility as a foreign specialist professional by the Ministry of Labor or the central competent authority of the industry concerned.
+
+2.Notified of withdrawal or revocation of visa by the Ministry of Foreign Affairs.
+
+3.Where, during the period of residence in the State, the holder falls under any of the circumstances listed in Article 32 of the Immigration Act.
+
+## Article 8
+
+Where a foreign specialist professional falls within any circumstances set out in Article 5 or the preceding Article, and the approval of Employment Gold Card is revoked or rescinded, the NIA may handle the case in accordance with the provisions of the Immigration Act and the Laws and Regulations Regarding Hong Kong & Macao Affairs concerning compulsory departure (deportation) and detention.
+
+## Article 9
+
+Where the NIA denies an application, or revokes or rescinds　the　approval of an Employment Gold Card , and the applicant consents or is deemed to have consented pursuant to Paragraph 4 of Article 5 of the Electronic Signatures Act, the written administrative disposition may be issued in electronic form.
+
+## Article 10
+
+Where a holder of an Employment Gold Card who is employed by a public or private enterprise or institution in the State obtains an Alien Resident Certificate (ARC) pursuant to Paragraph 2 of Article 8 of the Act, the NIA shall revoke the approval of Employment Gold Card and cancel the Employment Gold Card.
+
+## Article 11
+
+Where a holder of an Employment Gold Card changes his or her residential address in the State, passport number, or other personal information, or where the card becomes damaged, illegible, destroyed, or lost, the holder shall apply for reissuance of the Employment Gold Card through the Foreign Professionals Online Application Platform within thirty (30) days from the date the event occurs.
+
+## Article 12
+
+Where a holder of an Employment Gold Card does not fall within any circumstances set out in Subparagraph 1, Subparagraphs 3 through 5 of Article 5, or Article 7, and still meets the qualifications of a foreign specialist professional, the holder may apply for an extension of validity through the Foreign Professionals Online Application Platform within four (4) months prior to the expiration of the Employment Gold Card. The application shall include the documents specified in Items 1 through 3 of Subparagraph 1 of Paragraph 1 of Article 2 and a color scanned electronic file of the Employment Gold Card. Each extension may be granted for one (1) to three (3) years.
+
+After accepting the application referred to in the preceding paragraph, the NIA shall conduct a joint review with the Ministry of Labor. Where necessary, the Ministry of Labor may consult the central competent authority of the industry concerned for opinions. If the application does not meet the requirements specified in the preceding paragraph, the NIA may deny the application.
+
+## Article 13
+
+Where the documents required to be submitted for an Employment Gold Card application are produced overseas, they shall be authenticated by an overseas mission of the Ministry of Foreign Affairs. Those produced domestically by foreign embassies or their authorized representative agencies in the state or authenticated, certified, or verified by them must be further authenticated by the Ministry of Foreign Affairs. Documents produced in mainland China, Hong Kong, or Macau shall be authenticated by institutions established or designated by the Executive Yuan, or by private organizations commissioned by the Executive Yuan.
+
+Where the documents referred to in the preceding paragraph are in a foreign language, an English or Chinese translation shall be attached.
+
+Authentication of foreign public documents shall be conducted in accordance with the Document Legalization Act for the Ministry of Foreign Affairs and Overseas Missions, where the circumstances provided in Article 15-1 thereof apply.
+
+## Article 14
+
+Where a Hong Kong or Macao resident engages in professional work or seeks employment in the Taiwan Area, and Article 9 of the Act is applied mutatis mutandis pursuant to Paragraph 1 of Article 30 of the Act, such person may apply for an Employment Gold Card or apply for an extension of its validity in accordance with these Regulations.
+
+## Article 15
+
+These Regulations shall come into force on January 1, 2026.
+
+## History
+
+1.Promulgated by Ministry of the Interior Order Tai-Nei-Yi-Tzu No. 10709414242 on 6th, February, 2018. Regulations in Fourteen articles to take effect on 8th, February, 2018.
+
+2.Consisting of 14 Articles in total, as amended by Ministry of the Interior Order Tai-Nei-Yi-Zi No. 110009126051 dated November 8, 2021, and set to be effective on October 25, 2021 since the Act for the Recruitment and Employment of Foreign Professionals comes into force.
+
+3.Consisting of 15 Articles in total, as amended by Ministry of the Interior Order Tai-Nei-Yi-Zi No. 11409340741 dated December 31, 2025, and set to be effective on January 1, 2026 since the Act for the Recruitment and Employment of Foreign Professionals comes into force.

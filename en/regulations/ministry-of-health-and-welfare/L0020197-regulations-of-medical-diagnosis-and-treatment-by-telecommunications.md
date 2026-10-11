@@ -1,0 +1,220 @@
+---
+title: "Regulations of Medical Diagnosis and Treatment by Telecommunications"
+title_zh: "通訊診察治療辦法"
+identifier: "L0020197"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞醫事目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-05-11
+last_amended: 2024-01-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020197"
+retrieved: 2026-10-12
+---
+
+# Regulations of Medical Diagnosis and Treatment by Telecommunications
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0020197-regulations-of-medical-diagnosis-and-treatment-by-telecommunications.md](../../../zh/regulations/ministry-of-health-and-welfare/L0020197-regulations-of-medical-diagnosis-and-treatment-by-telecommunications.md)) is authoritative.
+
+## Article 1
+
+The Regulations are established under Paragraph 2, Article 11 of the Physicians Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The mountainous areas, outlying islands, and remote areas specified in the proviso of Paragraph 1, Article 11 of the Act are shown in the appendix.
+
+## Article 3
+
+The special circumstances specified in the proviso of Paragraph 1, Article 11 of the Act refer to the following situations where a patient requires one of the following diagnosis or medical services (hereinafter referred to as “treatment”):
+
+\1. Post-acute care (PAC).
+
+\2. Chronic disease care plan enrolled patient.
+
+\3. Long-term care services.
+
+\4. Family physician care.
+
+\5. Home healthcare.
+
+\6. End-of-life care.
+
+\7. Correctional institution care.
+
+\8. Impaired mobility care.
+
+\9. Disaster, infectious disease, or other major event care.
+
+\10. International medical care.
+
+## Article 4
+
+As defined in Subparagraph 1 of the preceding Article, Post-acute Care refers to the follow-up treatment and care provided to patients within three months of leaving a hospital or clinic. This care is intended for patients with acute trauma, acute coronary syndrome, acute mental illness, acute stroke, chronic obstructive pulmonary disease, chronic heart failure, postoperative patients, or other patients requiring acute post-hospital care.
+
+## Article 5
+
+Subparagraph 2 of Article 3 defines a Chronic Disease Care Plan Enrolled Patient as an individual formally accepted into a chronic disease care program administered by the competent authority or its affiliated agencies. These patients receive treatment and care tailored to their specific medical needs.
+
+## Article 6
+
+As defined in Subparagraph 3 of Article 3, Long-Term Care Services refer to the treatment and care provided to residents of long-term care facilities, elderly welfare facilities, disability welfare facilities, nursing homes, or other similar institutions that have entered into a medical service contract with medical institutions. These services are specifically designed for residents with dementia, disabilities, or mobility impairments.
+
+## Article 7
+
+As defined in Subparagraph 4 of Article 3, Family Physician Care refers to the treatment and care provided by a family physician to patients enrolled in the Integrated Family Physician Care Plan administered by the competent authority or its affiliated agencies. These patients meet the criteria for participation in the Improved Medical Benefits Scheme and require treatment and care from their family physician due to their medical condition.
+
+## Article 8
+
+As defined in Subparagraph 5 of Article 3, Home-Based Medical Care refers to the treatment and care provided to patients within three months of a physician’s visit by the medical team responsible for the Home Care and Integrated Home-Based Medical Care Plan administered by the competent authority or its affiliated agencies. This care is provided when the patient’s medical condition necessitates further treatment and care.
+
+## Article 9
+
+As defined in Subparagraph 6 of Article 3, Terminal Care refers to palliative and supportive treatment and care provided to alleviate or eliminate the physical, psychological, and spiritual suffering of patients in the terminal stages of illness.
+
+## Article 10
+
+As defined in Subparagraph 7 of Article 3, Correctional Institution Care  refers to the treatment and care provided to inmates of correctional institutions.
+
+## Article 11
+
+As defined in Subparagraph 8 of Article 3, Impaired Mobility Care for patients refers to the treatment and care provided to patients who have difficulty seeking medical care outside the home due to disability, physical or mental impairment, or serious illness.
+
+## Article 12
+
+As defined in Subparagraph 9 of Article 3, Disaster, Infectious Disease, or Other Major Event Care refers to the treatment and care provided to patients who are unable or have difficulty seeking medical care at medical institutions in the area of residence due to disasters as defined in Paragraph 1 of Article 2 of the Disaster Prevention and Protection Act, infectious diseases as defined in Paragraph 1 of Article 3 of the Communicable Disease Control Act, or other major incidents.
+
+## Article 13
+
+As defined in Subparagraph 10 of Article 3, International Medical Care refers to the consultation, treatment, and care provided to patients who are Taiwanese nationals or non-Taiwanese nationals residing outside of Taiwan.
+
+## Article 14
+
+The urgent situations referred to in the proviso of Paragraph 1 of Article 11 of the Act are as follows:
+
+\1. The patient is in a state of imminent danger to life.
+
+\2. There is another urgent situation that requires immediate medical attention.
+
+## Article 15
+
+Medical services that can be provided through telemedicine:
+
+\1. Disease history-taking;
+
+\2. Providing medical consultation.
+
+\3. Examination, diagnosis, and medical orders.
+
+\4. Issuing orders for tests and examinations.
+
+\5. Consultation.
+
+\6. Psychiatric therapy.
+
+\7. Prescribing medication.
+
+\8. Adjusting or instructing on existing prescriptions.
+
+\9. Health education.
+
+\10. Other items designated by other central competent authorities.
+
+A consultation under Subparagraph 5 of the preceding Paragraph refers to a situation where the treating physician at the patient’s end consults with the treating physician at another medical institution via telemedicine to seek their opinion on the patient’s treatment or to receive prescription advice. The treating physician at the other medical institution may be exempt from obtaining prior approval from the competent authority in their jurisdiction, as per Article 8-2 of the Physicians Act.
+
+Prescriptions issued electronically under Subparagraph 7 of Paragraph 1 must comply with the format prescribed by the competent central authority.
+
+## Article 16
+
+A physician may only issue a prescription to a patient who has undergone telemedicine and meets one of the following conditions:
+
+\1. Patients with stable conditions who are returning for follow-up appointments are eligible for prescriptions for items under Subparagraphs 1 to 6 and 8 of Article 3.
+
+\2. Patients who are new to the practice or returning for follow-up appointments are eligible for prescriptions for items under Article 2; Subparagraphs 7, 9, and 10 of Article 3; and Article 14.
+
+Prescriptions issued under the preceding paragraph shall not include controlled substances. However, this shall not apply to prescriptions for controlled substances under Article 2, Subparagraph 6 of Article 3, Article 14, and for psychiatric conditions.
+
+## Article 17
+
+Except for urgent circumstances, designated physicians in mountainous areas, outlying islands, and remote areas must meet one of the following criteria:
+
+\1. Physicians stationed at health stations, health rooms, or other public medical institutions specified in the appendix.
+
+\2. Physicians practicing at medical institutions participating in the enhancement of medical service quality in mountainous areas and outlying islands, as specified in the Rules and Decrees of competent authorities or their subordinate agencies.
+
+\3. Other physicians designated by the competent authority of the municipality/city/county.
+
+## Article 18
+
+Medical institutions conducting telemedicine in special circumstances shall prepare a telemedicine implementation plan and obtain prior approval from the competent authority of the municipality/city/county before commencement. For telemedicine activities under Subparagraph 7 of Article 3, consent from the correctional authority is also required.
+
+The telemedicine implementation plan shall include:
+
+\1. Designation of the responsible physician and other medical personnel.
+
+\2. Description of the medical treatments to be provided.
+
+\3. Specification of the intended recipients.
+
+\4. Planned duration of implementation.
+
+\5. Collaboration details with other medical institutions, facilities mentioned in Article 6, or correctional institutions.
+
+\6. Sample informed consent form for telemedicine.
+
+\7. Measures for safeguarding personal information and ensuring data security.
+
+\8. Any additional requirements stipulated by competent authorities.
+
+Medical institutions conducting telemedicine may substitute the implementation plan required in Paragraph 1 with documents approved by the competent central authority or its subordinate agencies, as per relevant laws and regulations, and must report this to the competent authority of the municipality/city/county for record.
+
+In case of any changes to the medical personnel under Subparagraph 1 of Paragraph 2, the medical institution shall promptly report such changes to the competent authority of the municipality/city/county within 30 days.
+
+## Article 19
+
+Telemedicine services may be conducted using telecommunications equipment, electronic communication, the Internet, or other similar information and communication technologies or equipment.
+
+Information systems used for telemedicine that involve the transmission, exchange, storage, or prescription of medical records, examination, or test results must have personal identity authentication. This authentication must meet the general data transmission encryption mechanism standards set by international standard organizations and comply with the relevant provisions of the Medical Institution's Electronic Medical Record Production and Management Regulations.
+
+Medical institutions may commission institutions, legal persons, groups, or universities to establish and manage telemedicine information systems under the preceding paragraph. The entrusted party shall pass the information security standard certification recognized by the competent central authority; the entrustment shall be made in writing.
+
+## Article 20
+
+When implementing telemedicine, medical institutions shall comply with the following requirements:
+
+\1. Obtain informed consent from the subject of telemedicine. However, this requirement does not apply in urgent situations.
+
+\2. When conducting telemedicine, the physician shall confirm the patient’s identity. Telemedicine shall not be provided to new patients for the conditions specified in Subparagraphs 1 to 6 and 8 of Article 3.
+
+\3. Telemedicine services shall, in principle, be provided in person at the medical institution, and the patient’s privacy shall be ensured.
+
+\4. Medical records shall be produced in accordance with the Medical Care Act, indicating that the diagnosis and treatment were performed via telecommunications.
+
+\5. When nurses, midwives, or other medical personnel perform telemedicine medical orders, they shall make a record of execution and keep it with the medical record.
+
+\6. Comply with any other matters announced by the competent central authority.
+
+If the patient’s condition is deemed inappropriate for telemedicine, the physician may decide not to conduct it after assessment. In such cases, the physician shall recommend alternative methods of treatment.
+
+## Article 21
+
+For patients who receive telemedicine services under the Regulations and are covered by the National Health Insurance program, their insurance benefits shall be provided in accordance with the National Health Insurance Act and its related regulations.
+
+## Article 22
+
+The Regulations shall enter into force on July 1, 2024.
+
+## Attachments
+
+- [Appendix： A List of the Mountain Areas, Outlying Islands, and Remote Areas.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008692)
+- [Appendix： A List of the Mountain Areas, Outlying Islands, and Remote Areas.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008693)
+
+## History
+
+1.Promulgated on May 11, 2018
+
+2.The full text of 22 articles amended and promulgated on January 22, 2024；Enacted on July 1, 2024.

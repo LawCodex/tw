@@ -1,0 +1,147 @@
+---
+title: "Regulations Governing Coordination & Liaison between Coast Guard Administration and Ministry of National Defense"
+title_zh: "海岸巡防機關與國防部協調聯繫辦法"
+identifier: "D0090025"
+type: regulation
+law_level: "命令"
+category: "行政＞海洋委員會＞海岸巡防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-07-25
+last_amended: 2021-02-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0090025"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Coordination & Liaison between Coast Guard Administration and Ministry of National Defense
+
+> Translation. The Chinese text ([zh/regulations/ocean-affairs-council/D0090025-regulations-governing-coordination-liaison-between-coast-guard-administration.md](../../../zh/regulations/ocean-affairs-council/D0090025-regulations-governing-coordination-liaison-between-coast-guard-administration.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated pursuant to Paragraph 2, Article 12 of the Coast Guard Act.
+
+## Article 2
+
+Personnel exchange and transfer can be conducted between military personnel of Coast Guard Administration (hereinafter referred to as CGA) and those from the subordinate agencies or organizations and troops of Ministry of National Defense (hereinafter referred to as MND).
+
+Operation regulations governing personnel exchange and transfer between CGA and MND as referred to in the preceding paragraph shall be formulated separately by CGA in conjunction with MND.
+
+## Article 3
+
+To meet the needs of mission, CGA may entrust MND to provide training and education for military personnel of CGA.
+
+Guidelines for providing the training and education mentioned in the preceding paragraph shall be formulated by CGA in conjunction with MND.
+
+## Article 4
+
+The boundary of the coast control zone shall be demarcated and announced by MND jointly with CGA and the Ministry of the Interior (MOI) according to the actual needs for maritime defense and military security within the coverage of the coastline of the Taiwan area.
+
+CGA shall be responsible for the approval of access permit applications to, control of, and security maintenance for the coast control zone mentioned above (excluding the military facilities within the coast control zone), while the military facilities located in the control zone shall be controlled by the war zone. Operation regulations governing access to the coast control zone by civilians shall be formulated by MND in conjunction with CGA and MOI.
+
+## Article 5
+
+When required in carrying out its coast patrol and defense missions, CGA may request MND to provide necessary information such as navy and air force meteorological information, maps, sea charts, digital maps, satellite images, aerial photographs, etc. and support in provision of radar information, aerial reconnaissance, electronic reconnaissance, and criminal forensic tasks.
+
+The confidential information obtained by CGA in accordance with the preceding paragraph and Paragraph 1 of Article 7 hereof shall be classified according to the Classified National Security Information Protection Act, the Enforcement Rules of the Classified National Security Information Protection Act, and the the Regulations for Scope, Categories and Classification of Military Secrecy and National Secrecy in order to implement relevant confidentiality measures.
+
+## Article 6
+
+Any personnel of CGA, who is dispatched to collect information in a foreign country for the needs of a mission, may request the supports and assistance from the MND’s overseas representative offices in that country.
+
+## Article 7
+
+In the joint efforts for maintaining national security, CGA and MND shall cooperate with each other, maintain close coordination, and provide information that may affect the security of the sea territory and the coast, such as pre-alarm information, radar information and infiltration intelligence, to each other.
+
+Transmission of the information mentioned in the preceding paragraph shall be made in writing, by phone, by fax, via information network or any other proper means, and handled by a task force established by the competent regulating units of CGA and MND respectively.
+
+## Article 8
+
+CGA may entrust the subordinate agencies or organizations of MND to carry out R&D, production, subsequent supplies, repair and maintenance of various standard military reconnaissance equipment required for execution of its missions, including night vision, observation and measurement, and lighting devices, etc.
+
+## Article 9
+
+CGA may entrust MND to carry out maintenance and repair for its various standard military equipment including weapons, ammunition, chemical, communication, and reconnaissance facilities.
+
+Guidelines governing the entrustment referred to in the preceding paragraph shall be formulated by CGA in conjunction with MND.
+
+## Article 10
+
+MND may, according to its actual needs, entrust CGA to carry out activities related to the inspection and control of vital military facilities in the control zones located in the territories of the Pratas Islands and the Spratly Islands.
+
+MND may, depending on the operation needs, dispatch armed forces to rush to the rescue if the territories mentioned in the preceding paragraph are under the threat of military force.
+
+Timing, procedures, authority and responsibilities for firing of the defensive weapons in the territories mentioned in the first paragraph shall be specified by MND, and then carried out by CGA on commission. To facilitate the military rescue operation, CGA shall adjust the deployment of the defensive weapons in conjunction with MND.
+
+## Article 11
+
+Any personnel of CGA in the territories of the Pratas Islands and the Spratly Islands shall be evacuated in accordance with the Regulations Governing Military Rescue Operation if he/she suffers major injury or illness in an emergent case.
+
+## Article 12
+
+CGA may, for security reason, request support from MND in transportation of weapons, ammunition, etc. to outlying islets or offshore islands.
+
+Guidelines governing the support mentioned in the preceding paragraph shall be formulated by CGA in conjunction with MND.
+
+## Article 13
+
+CGA and MND shall supervise their subordinate agencies or organizations and troops to formulate guidelines governing mutual support and coordination.
+
+## Article 14
+
+CGA and the subordinate agencies or organizations and troops of MND shall, depending on the nature of their missions, support and cooperate with each other, take relevant confidential measures, reach agreement in establishment of a communication, information network and data linking and exchanging mechanism, and coordinate with each other to provide support to the facilities of communications, electronics and information stations.
+
+## Article 15
+
+To meet the needs during the war, the subordinate agencies or organizations and troops of MND should establish a system of connection circuit and information network for command, control, intelligence and transmission purposes with the route (network) required for the connection to be constructed by the demanding unit.
+
+## Article 16
+
+The operation command center at each level in CGA and operation intelligence center (including Intelligence Undersecretary Office) at each level in MND shall maintain periodical contacts each day and immediately notify the other party in case of any major or emergency condition.
+
+## Article 17
+
+In carrying out their coast patrol missions, CGA may request the supports from agencies or organizations and troops of MND.
+
+In carrying out their military operations, agencies or organizations and troops of MND may request the supports from CGA.
+
+Upon receiving the request for supports as mentioned in the preceding two paragraphs, CGA and the subordinate agencies or organizations and troops of MND shall provide mutual coordination and supports and shall report their superior units to request for the dispatch and assignment of aids in case of any insufficiency in manpower and/or materials.
+
+The request for support mentioned in the preceeding paragraphs shall be made in writing, or by phone, fax or other proper means in case of emergency.
+
+## Article 18
+
+To implement the provision of Article 4 of National Defense Act, CGA shall participate timely in the annual combat readiness drills, military simulations, development and revision of operation strategies conducted by MND and its subordinate agencies or organizations and troops, and shall complete the development of operation plans according to the combat missions assigned.
+
+In carrying out the missions described in the preceding paragraph, MND and its subordinate agencies or organizations and troops shall notify CGA in writing or other proper means.
+
+In case of getting involved in a major event, CGA may suspend from participating in any drills, and the criteria for the recognition of the major event that justifies the suspension shall be formulated by CGA separately in negotiation with MND.
+
+## Article 19
+
+Funds required in the request for mutual supports and undertakings between CGA and MND shall be paid from the budget prepared by the requesting or entrusting party.
+
+## Article 20
+
+Any failure to reach an agreement in matters related to the request for mutual support between CGA and the subordinate agencies or organizations of MND shall be settled through negotiation by level.
+
+## Article 21
+
+When required by the operation, the competent regulating units from CGA and MND shall keep regular contracts and formulate detailed guidelines for coordination and liaison.
+
+## Article 22
+
+CGA and any subordinate agencies or organizations and troops of MND may formulate jointly and agree on the response and support programs for the main island of Taiwan, outlying islets and offshore islands.
+
+## Article 23
+
+These Regulations shall come into force as of the date of promulgation.
+
+## History
+
+1.Published on July 25, 2001 Jointly by Order of (2001) Su/Shun/Hai/Tze No. 0900007968, CGA, Executive Yuan; and Order of (2001) Shu/Jung/Tze No. 2661, MND
+
+2.On Feb. 22, 2021, the Regulations were promulgated according to the Order of Ocean Affairs Council Hai-Yu-Cyuan-Zih No. 11000000381 and the Order of the Ministry of Finance Guo-Guei-Wei-Huei-Zih No. 1100023338.

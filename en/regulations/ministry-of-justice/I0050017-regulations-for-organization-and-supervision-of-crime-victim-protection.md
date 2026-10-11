@@ -1,0 +1,461 @@
+---
+title: "Regulations for Organization and Supervision of Crime Victim Protection Organization"
+title_zh: "犯罪被害人保護機構組織及監督辦法"
+identifier: "I0050017"
+type: regulation
+law_level: "命令"
+category: "行政＞法務部＞保護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-11-01
+last_amended: 2023-12-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0050017"
+retrieved: 2026-10-12
+---
+
+# Regulations for Organization and Supervision of Crime Victim Protection Organization
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-justice/I0050017-regulations-for-organization-and-supervision-of-crime-victim-protection.md](../../../zh/regulations/ministry-of-justice/I0050017-regulations-for-organization-and-supervision-of-crime-victim-protection.md)) is authoritative.
+
+## Article 1
+
+These Regulations are stipulated pursuant to Paragraph 2 of Article 75 of the Crime Victim Rights Protection Act（hereinafter referred to as “the Act”）.
+
+## Article 2
+
+The Ministry of Justice（hereinafter referred to as the Ministry）shall act in accordance with the provisions of the Act and these Regulations with respect to the organization, operation, supervision, and management of the Crime Victims Protection Organization（hereinafter referred to as the “Protection Organization”）established in accordance with Paragraph 1 of Article 75 of the Act；for matters not provided in the Act and these Regulations shall be governed by the provisions of other relevant Acts and regulations.
+
+## Article 3
+
+The Protection Organization may establish the branch of the Protection Organization（hereinafter referred to as “the Branch”）upon approval by the Ministry based on its business needs.
+
+The Protection Organization shall coordinate and plan the business of protecting the rights of crime victims as stipulated in the Act, supervise the Branch to improve the quality of protection services, and handle the matters assigned by the Ministry.
+
+## Article 4
+
+The Protection Organization and the Branch shall handle the following duties：
+
+\1. Assistance in physical, psychological, and medical treatment, financial situations, and application for Crime Victim Compensation and placement.
+
+\2. Assistance in litigation procedures：
+
+（1）Assisting in investigating the property of the criminals or the persons liable for compensation according to laws and civil claims.
+
+（2）Accompanying crime victims in court and assisting them in presenting their opinions.
+
+（3）Assisting in petitions for participating in litigation procedures.
+
+（4）Providing psychological counselling or guidance during litigation procedures.
+
+（5）Other necessary assistance during the investigation, trial, and after the trial.
+
+\3. Assistance in life rehabilitation：
+
+（1）Providing or assisting in the utilization of life support resources.
+
+（2）Assisting in job matching and vocational training.
+
+（3）Assisting in handling or providing microloans.
+
+（4）Providing or introducing education, learning, and guidance resources to crime victims or their family members.
+
+\4. Assistance in requesting police for security protection.
+
+\5. Promoting, advocating, and conducting research on crime victim protection.
+
+\6. Approving and issuing subsidies based on needs assessment results.
+
+\7. Other assistance that meets the needs of crime victims and their family members.
+
+\8. Fund raising, management, and utilization.
+
+## Article 5
+
+The Protection Organization and the Branch shall enter into contracts with commissioned agencies or organizations for the provisions of the protection services as stipulated in the preceding Article.
+
+## Article 6
+
+The scope of supervision of the Protection Organization by the Ministry shall include the following items：
+
+\1. Approval of establishment of the Protection Organization.
+
+\2. Organizational management, operation, and facility status.
+
+\3. Annual work plan and major measures.
+
+\4. Safekeeping and utilization of property and accrued interests.
+
+\5. Budget, final account, and financial status.
+
+\6. Status and quality of protection service business.
+
+\7. Matters related to crime victim rights protection.
+
+\8. Other matters shall be supervised in accordance with Acts and Regulations.
+
+## Article 7
+
+The Protection Organization shall report to the Ministry for approval in respect of the formulation, amendment, and abolishment of the operation directions or regulations for administration of the Protection Organization authorized by the Act or for the purpose of handling the protection services stipulated in the Act before the implementation；the rest of operation directions or regulations for administration shall be submitted to the Ministry for reference.
+
+## Article 8
+
+The Protection Organization shall set up a board of directors consisting of fifteen directors, who shall be appointed by the Ministry from the following persons：
+
+\1. Two representatives from the Ministry, one representative from the Ministry of Health and Welfare, one representative from the National Police Agency of the Ministry of the Interior, and one representative from the Ministry of Labor, and these representatives shall be appointed or resigned along with their positions.
+
+\2. One lawyer recommended by the National Bar Association, who has been engaged in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\3. One psychologist recommended by the Taiwan Counseling Psychologist Union and one psychologist recommended by the Association of Taiwan Clinical Psychologists, who have participated in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\4. One social worker recommended by the National Association of Social Workers, who has participated in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\5. One scholar or expert, who has conducted research on crime victim rights protection.
+
+\6. Two persons who are upright or diligently dedicated to public welfare.
+
+\7. One representative of a group or organization related to the protection of the rights of crime victims and protection services.
+
+\8. Two representatives of crime victims or their family members.
+
+The board of directors shall, one month before the expiration of the term of directors of each session, nominate the candidates in an amount that is double the number of board members to be elected for the next session of directors in accordance with the provisions of Subparagraphs 2 to 8 of the preceding Paragraph and submit the list to the competent authorities for appointment along with the candidates for directors selected in accordance with the provision of Subparagraph 1 of the preceding Paragraph.
+
+When the board of directors nominates the candidates in an amount that is double the number of board members to be elected for the next session of directors in accordance with Paragraph 2 of Article 79 of the Act, the method of nominating the candidates in accordance with the provisions of Subparagraphs 5 to 8 of Paragraph 1 shall be determined by a resolution of the board of directors.
+
+## Article 9
+
+The duties and powers of the board of directors are as follows：
+
+\1. Appointment and dismissal of the Chief Executive Officer, the Deputy Chief Executive Officer, and personnel of other important positions.
+
+\2. Proposal for amendments to the charter of the Protection Organization.
+
+\3. Review and promotion of work plans.
+
+\4. Fund raising, management, and utilization of funds.
+
+\5. Approval of annual budget and final accounts.
+
+\6. Management and utilization of property.
+
+\7. Establishment and management of internal organization.
+
+\8. Dissolution or merger of protection organization.
+
+\9. Formulation of important regulations.
+
+\10. Decisions on other major matters.
+
+## Article 10
+
+The Protection Organization shall have a chairperson who represents the Protection Organization externally.
+
+The chairperson shall be elected by all directors from among themselves and shall be appointed by the Protection Organization after reporting to the Ministry for approval, and the term of office of chairperson shall be the same as the terms of office of directors；prior to the appointment, the elected director shall exercise the power and authority of the as interim chairperson of the board, and the period shall not be more than one month.
+
+## Article 11
+
+If the chairperson asks for leave or is unable to exercise the power and authority for any reason or in accordance with laws, the chairperson shall designate one of the managing directors to act as the proxy；if the chairperson fails to designate or is unable to appoint a proxy, such proxy shall be elected by the directors from among themselves.
+
+## Article 12
+
+The Board meeting shall be convened quarterly and chaired by the chairperson of the Board. The chairperson of the board may call an interim Board meeting if the chairperson deems it necessary or upon the written proposal by at least one-third of the total number of directors in office.
+
+When the Board meeting is convened, the date and agenda of the meeting shall be notified to the representatives of the Ministry, the Protection Organization, and the Branch for presence ten days prior to the convening date. However, if the interim Board meeting is called for an emergency, it shall be free from the restrictive requirement of ten days' notice.
+
+Minutes of the Board meeting shall be submitted to the Ministry for reference within one month after the Board meeting.
+
+## Article 13
+
+Resolutions of the board of directors shall be adopted by more than half of the attending directors at the Board meeting attended by more than half of all directors. However, resolutions on the following matters shall be adopted by more than half of the attending directors at the Board meeting attended by more than two-thirds of all directors and be reported to the Ministry for approval before implementation：
+
+1.Proposal for any amendment to the endowment charter.
+
+2.Proposal for taking disposition, establishing encumbrances on real estate, taking significant disposition, or establishing encumbrances on rights.
+
+3.Proposal for dissolution or merger of the Protection Organization.
+
+4.Other matters designated by the Ministry.
+
+Relevant information with regard to the Subparagraphs of the preceding Paragraph shall be distributed to all directors and the Ministry ten days before the Board meeting, and shall not be brought up as extemporary motions. The Ministry shall delegate representatives to attend the meeting and may participate in discussions before voting.
+
+## Article 14
+
+The board of directors may establish a board of managing directors, consisting of three to five managing directors. Except for the chairperson who shall be a managing director ex officio, the others shall be elected from among the directors.
+
+The board of managing directors implements the resolutions of the board of directors and operates other daily business.
+
+## Article 15
+
+The Protection Organization shall have three supervisors, who shall be elected and appointed by the Ministry from the following persons：
+
+\1. One representative from the Ministry.
+
+\2. One lawyer recommended by the National Bar Association.
+
+\3. One accountant recommended by the National Federation of CPA Association.
+
+The duties and powers of the supervisor are as follows：
+
+1.Supervise business execution and financial status.
+
+2.Audit financial statements, documents, and property information.
+
+\3. Supervise the implementation of affairs in accordance with relevant Acts and regulations and the provisions of the endowment charter.
+
+## Article 16
+
+The Protection Organization shall have one managing supervisor, who shall be elected from among the supervisors and appointed after the approval by the Ministry；and the terms of office shall be the same as that of the supervisors.
+
+The managing supervisor shall attend the Board meeting, and shall designate a supervisor as the proxy if the managing supervisor is unable to attend the Board meeting.
+
+## Article 17
+
+The directors and supervisors of the Protection Organization are non-paid positions, whose terms of office shall be three years, and eligible for re-election and re-appointment after their terms of office expire.
+
+The terms of office of directors of the ninth session shall last until the directors of the next session convene the first Board meeting；the terms of office of supervisors of the seventh session shall end when the managing supervisor of the next session is approved by the Ministry.
+
+If a director or supervisor is dismissed due to resignation, death, or inability to perform duties for any reason before the expiration of the term of office. The Protection Organization shall report to the Ministry to appoint another person in accordance with the provisions of the Act, and the successor shall serve the remaining term of office of the session.
+
+If the chairperson or managing supervisor is under the circumstances set forth in the preceding Paragraphs, the Ministry may order the Protection Organization to re-elect within a time limit given by the Ministry. Before the re-election, the directors or supervisors shall elect one among themselves to act as the proxy.
+
+## Article 18
+
+Anyone who falls under any of the following circumstances shall not serve as a director or supervisor of the Protection Organization：
+
+1.Being sentenced to fixed-term imprisonment or other more stringent punishments.
+
+2.Violating laws or the provision of the endowment charter, resulting in damage to the public interest or the interest of the foundation.
+
+\3. The appointed director or supervisor fails to comply with the policy of the competent authority while performing their duties, resulting in a violation of the purpose of election or appointment.
+
+\4. Being subject to the declaration of bankruptcy or being ordered to initiate a liquidation procedure in accordance with the Consumer Debt Clearance Statute and has not yet fully recovered.
+
+\5. The guardianship or curatorship declaration has not been revoked.
+
+If a director or supervisor falls under any of the circumstances in Subparagraphs 1 to 3 of the preceding Paragraph, the Ministry shall remove him／her from his／her position and notify the court for registration. If a director or supervisor falls under any of the circumstances prescribed in Subparagraphs 4 or 5, such director and supervisor shall be discharged automatically, and the Ministry shall notify the court of such registration.
+
+## Article 19
+
+The Protection Organization shall have one full-time Chief Executive Officer（CEO）and one to three Deputy CEOs, at least one of them shall be full-time, who shall possess relevant expertise in the law, psychology, social work, crime prevention, institutional management, etc., and shall be appointed by the Protection Organization.
+
+The CEO and Deputy CEO shall not only possess the relevant expertise as stipulated in the preceding Paragraph but also shall have the relevant qualifications, such as experience and seniority, as determined by the board of directors.
+
+The chairperson shall submit a proposal for appointing the CEO and Deputy CEO to the board of directors for approval and then report it to the Ministry. The terms of office of the CEO and Deputy CEOs shall be three years, and eligible for reappointment after the expiry of their terms of office. The CEO shall be supervised by the board of directors and manage the board affairs. The Deputy CEOs shall assist the CEO in handling the board affairs.
+
+The payment of the CEO and the Deputy CEOs shall be based on their actual service period.
+
+If the CEO and the Deputy CEOs resign or are unsuitable for their positions, they shall be dismissed, and the dismissal procedure shall be the same as the appointment procedure.
+
+## Article 20
+
+The Protection Organization shall draft the relevant management regulations on the establishment and management of specialized committees in accordance with Article 87 of the Act, and report them to the Ministry for approval before implementation.
+
+## Article 21
+
+In response to business needs, the Protection Organization and Branches may appoint a number of consultants upon resolution of the board of directors or standing committee.
+
+The consultants may be invited by the Protection Organization and Branches to attend meetings.
+
+## Article 22
+
+The Branch shall establish a standing committee consisting of nine to fifteen non-paid members, who shall be selected by the Protection Organization from those who have one of the following qualifications：
+
+\1. Persons respectively from the social, police, health, and labor administration agencies, or units of the municipality or county（city）government where the Branch is located, and these representatives shall be appointed or resigned along with their positions.
+
+\2. Lawyers recommended by the local Bar Association who have been engaged in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\3. Psychologists recommended by the local Counseling Psychologist Union or the local Association of Taiwan Clinical Psychologists, who have participated in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\4. Social workers recommended by the local Association of Social Workers, who have participated in crime victim rights protection or issues regarding public welfare and the socially disadvantaged for a long time.
+
+\5. Scholars or experts, who have conducted research on crime victim rights protection.
+
+\6. Persons who are upright or diligently dedicated to public welfare.
+
+\7. Representatives of groups or institutions related to crime victim rights protection and protection services.
+
+\8. Representatives of crime victims or their family members.
+
+The standing committee provides professional advice on the Branch’s strategies, programs, and plans for implementing crime victim protection services, and assists in utilizing and coordinating the resources from relevant agencies and groups.
+
+The method of nominating the members in accordance with the provisions of Subparagraphs 2 to 8 of Paragraph 1 shall be determined by a resolution of the standing committee.
+
+The terms of office of committee members of Paragraph 1 shall be three years and eligible for reappointment after the expiry of their terms of office. In the event of resignation, death, unfitness for duty, inability to perform duties for any reason, or when the representatives of an agency or unit resign along with their position before the expiry of the terms of office, the Protection Organization shall appoint other suitable persons to fill the original term of office. If a successor’s remaining term of office is more than two years, it shall be deemed as a full session.
+
+## Article 23
+
+One of the standing committee members shall be the Branch chairperson, who represents the Branch externally and takes charge of the Branch’s business.
+
+The Branch chairperson shall have relevant expertise in the law, psychology, social work, crime prevention, and organizational management, etc. or be a reputable person with rich experience in crime victim protection services.
+
+## Article 24
+
+The term of office of the Branch chairperson shall be three years. Reappointment for a consecutive term shall be permitted once only.
+
+The terms of office of the chairperson of the 7th session of each Branch and the chairperson of the 3rd session of the Kiu Tau Branch shall last until the next standing committee is formed；the reappointment of the next session chairperson shall be free from the restrictive requirement of reappointment times stipulated in the preceding paragraph.
+
+The appointment, resignation, or dismissal due to unsuitability for the Branch chairperson shall be carried out by the Protection Organization and reported to the Ministry for reference.
+
+## Article 25
+
+The Branch shall have one full-time director, who shall have relevant expertise in law, psychology, crime prevention, and organizational management, and shall be responsible for processing the affairs of the Branch according to the order of the branch chairperson.
+
+The appointment or dismissal of the director of the Branch shall be reported to the Protection Organization by the CEO or branch chairperson.
+
+## Article 26
+
+The Protection Organization and Branches shall have a number of staff with professional backgrounds stipulated in the Act. However, those employed to handle administrative affairs are not subject to this limitation.
+
+The recruitment, dismissal, service, payment, pension, welfare, and performance appraisal of the staff mentioned in the preceding paragraph shall be subject to the relevant regulations stipulated by the Protection Organization and reported to the Ministry for approval before implementation. However, the regulations, which do not involve organizational structure, staffing, or personnel expenses, shall be submitted to the Ministry for reference.
+
+## Article 27
+
+The part-time fees of the directors, supervisors of the Protection Organization, and the branch chairperson, and the payment, pension, benefits, and other personnel expenses of the CEO and Deputy CEOs shall be within the scope of the expense items and standards corresponding to the personnel expenses of the Ministry or its affiliated agencies（institutions）. The Protection Organization shall draft the salary payment standard, which involves the organizational structure, payment items, recipient, amounts, cap amount, and other items, and shall report it to the Ministry for approval after the board of directors determines a resolution. The same shall apply when the salary payment standard is revised.
+
+## Article 28
+
+Directors, supervisors, CEO, and branch chairperson shall recuse themselves when a conflict of interests occurs in the execution of their duties.
+
+Directors, supervisors, CEO, and branch chairperson shall not seek any interest for themselves or their related parties by abusing the power, opportunities, or methods in the execution of their duties.
+
+A spouse or relative by blood or marriage within three degrees of kinship of a director or supervisor may not hold a position of general affairs, accounting, or human resources of the Protection Organization and its Branches.
+
+The chairperson of the board or the branch chairperson shall not hire his／her spouse or relatives by blood or marriage within third degrees of kinship to serve in the Protection Organization or its Branch.
+
+## Article 29
+
+In addition to the provisions of the Act and the endowment charter, the Protection Organization shall establish the duties, obligations, and standards for the appointment or dismissal due to unsuitability for the CEO, Deputy CEOs, specialized committee members, branch chairpersons, committee members, directors, and other important personnel, then submit them to the board of directors for resolution, and report them to the Ministry for approval before implementation.
+
+If directors of the board or supervisors fail to exercise their duties or perform their obligations in accordance with the Act, and the circumstances are sufficiently severe enough to affect the operation of the Protection Organization, the Ministry may, depending on the severity of the violation, impose necessary penalties for correction or dismissal.
+
+## Article 30
+
+The Protection Organization shall establish internal control and audit systems, and report them to the Ministry for approval.
+
+## Article 31
+
+The Protection Organization shall conduct various protection businesses by using the interest derived from the endowment property and other incomes received after its establishment, and the endowment property shall not be expended or disposed of without the resolution of the board of directors and the permission of the Ministry.
+
+The property of the Protection Organization shall be registered under the name of the Protection Organization or deposited in a particular account and shall not be deposited or loaned to directors, other individuals, or non-financial institutions, and the surplus shall not be distributed.
+
+## Article 32
+
+Expenditures of the Protection Organization shall be limited to activities related to the purpose of its establishment, and shall not be used in any way to give any unlawful or unreasonable benefits to any particular person, employee, or group besides the purpose of its establishment.
+
+## Article 33
+
+Procurements handled by the Protection Organization shall comply with the provisions of the Government Procurement Act and related Acts and regulations.
+
+## Article 34
+
+All withdrawals of the Protection Organization shall be signed by the chairman, the chief accountant, and the chief cashier. However, the chairperson may authorize a representative to sign on his／her behalf.
+
+All withdrawals and expenditures of the Branch shall be signed by the branch chairperson, the chief accountant, and the chief cashier.
+
+The appointment and dismissal of the chief accountant and chief cashier shall be reported to the board of directors and Supervisors meeting for reference.
+
+## Article 35
+
+For the management of accounting matters, the Protection Organization shall adopt the accrual principle as the accounting basis, and shall take the fiscal year based on a calendar year, and shall also formulate an accounting system in accordance with the nature of its accounting affairs, the actual situation of its business, and the needs of its development and management, and submit it to the Ministry for approval.
+
+The accounting system mentioned in the preceding paragraph shall include at least the following item：
+
+\1. A general description.
+
+\2. A chart of accounting journals and ledgers.
+
+\3. Accounting titles, accounting books, and accounting vouchers.
+
+\4. Accounting standards and procedures.
+
+\5. Internal audit procedure.
+
+\6. Accounting files management.
+
+\7. Other required matters.
+
+## Article 36
+
+The Protection Organization shall submit results of protection business and accounting reports to the Ministry monthly or periodically for reference.
+
+The Protection Organization shall submit work plans, performance goals, budgets, work results, and final accounts of revenue and expenditures and property inventories after inspection by the supervisors to the Ministry for reference before the deadlines specified in Paragraphs 3 and 5 of Article 91 of the Act.
+
+The format, items, preparation method, entries, and other matters particularly required to be recorded of the work plan, budget, work report, and financial statements of the preceding Paragraph shall apply to the Regulations Governing the Preparation of Work Plans, Budgets, Reports, and Financial Statements for Foundations.
+
+The Ministry shall conduct the annual performance evaluation before the date of May 31st every year, and the performance evaluation results may be used as a reference for personnel adjustments and subsidies（donations）.
+
+## Article 37
+
+The Protection Organization shall report any change in the type and quantity（amount）of the total amount of property registered by the court to the Ministry for approval before implementation.
+
+If there is a change in the total amount of property involved in the financial statement, when it is reported to the Ministry for reference in accordance with the Act, it shall be reported to the Ministry for permission within 30 days after the resolutions determined by the board of directors and make the change registered within 30 days after receiving the permission documents from the Ministry.
+
+If the type of property is marketable securities, the change in the total amount of property stipulated in the preceding paragraph refers to a premium or discount when the marketable securities are realized. For other types of property, the property change is determined in accordance with relevant Acts and regulations.
+
+In order to examine whether the actual total property is consistent with the registered property by the court, the Ministry, when necessary, may notify the Protection Organization to provide relevant supporting documents or send its staff to conduct inspections.
+
+## Article 38
+
+For the purpose of supervising the business of the Protection Organization, the Ministry may order the Protection Organization to submit reports on matters relating to its business, accounting, and property, and may send its staff to inspect the business of the Protection Organization.
+
+In addition to ordering the Protection Organization to submit certified documents, accounting journals, and relevant information, the Ministry may, if necessary, invite professionals to assist or cooperate with the relevant agencies（units）to implement the supervision referred to in the preceding paragraph.
+
+If the Protection Organization is found to be non-compliant with the regulations, it shall improve the situation within the period required by the Ministry.
+
+## Article 39
+
+The Ministry may establish a Supervisory Committee for Protection Organization（hereinafter referred to as the Supervisory Committee）, if necessary, in order to carry out the supervision, management and auditing matters stipulated in these regulations.
+
+The Supervisory Committee shall consist of nine committee members, one of whom shall be the Convener and shall be concurrently served by the Minister of the Ministry, one of whom shall be the Vice-Convener and shall be concurrently served by the Deputy Minister of the Ministry. In addition to the heads of the relevant divisions and departments assigned by the Ministry as the committee members, the rest of the committee members shall be the representatives of the relevant authorities, scholars or experts appointed by the Ministry in accordance with the needs of the business.
+
+The committee members assigned by the Ministry in the preceding paragraph shall resign when he／she leaves his／her position；the terms of office of the committee members appointed by the Ministry shall be two years, and eligible for reappointment after the expiry of their terms of office.
+
+When a committee member assigned by the Ministry leaves his／her position, a new representative shall be assigned to fill the remaining term of office；in the event of a vacancy in the appointed committee member, the vacancy shall be filled by another person, and the successor shall serve till the end of the original term.
+
+The Supervisory Committee shall have an Executive Secretary, who is responsible for the execution of the resolutions adopted by the Convener and shall handle the affairs of the Supervisory Committee. Operation staff of the Supervisory Committee shall be appointed by the Ministry from among its present personnel to handle the affairs of the Supervisory Committee or conduct the assigned affairs.
+
+The Supervisory Committee may set up various teams according to the needs of the business.
+
+Committee members and currently-served staff are unpaid positions.
+
+Committee members appointed in accordance with the provisions of Paragraph 2 may be paid with the attendance fee and reimbursed with the actual transportation expenses in accordance with relevant regulations.
+
+## Article 40
+
+Under any of the following circumstances, the Ministry may order the Protection Organization to improve itself within a required period of time：
+
+1.The activities, the management, or the operation does not conform to the purpose of its establishment.
+
+2.The expense or disposal of endowment property is in violation of the provision of Paragraph 1 of Article 31.
+
+3.The Protection Organization does not register or deposit the endowment property in accordance with the provision of Paragraph 2 of Article 31, or violate the provision prescribed in same paragraph.
+
+4.The Protection Organization impedes, avoids, or refuses the inspection by the Ministry prescribed in Paragraph 1 of Article 38.
+
+5.The Protection Organization does not keep complete and accurate records of its revenue and expenditure or preserve the original receipts, invoices, or certificates so that the fiscal condition cannot be examined.
+
+6.The Protection Organization conceals its property or makes false records and reports about its business and financial conditions.
+
+7.The Protection Organization illegally, illegitimately or wastefully expends the profits of the endowment property and the income after its establishment.
+
+8.The Protection Organization violates the provisions prescribed by the Act, these Regulations, and the provisions of the endowment charter.
+
+Protection Organization, whose license has been revoked by the Ministry in accordance with Article 30 of the Foundation Act or whose dissolution has been proposed by the board of directors pursuant to the provisions of the endowment charter and approved by the Ministry, shall register the dissolution and carry out liquidation in accordance with the provisions of the relevant Acts and regulations.
+
+The residual assets of the Protection Organization, upon its dissolution, shall be distributed to the authorities or public-interest organization appointed by the Ministry.
+
+## Article 41
+
+These regulations shall come into force on January 1st, 2024.
+
+## History
+
+\1. Promulgated on November 1, 2002 by the Order of Ministry of Justice of No.0911001171.
+
+\2. Amended and promulgated on July 2, 2003 by the Order of Ministry of Justice of No.0921000768.
+
+\3. Amended on April 19, 2013
+
+\4. A total of 41 articles amended and promulgated on December 29, 2023 by the Order of Ministry of Justice of No.11205516920, and come into force on January 1, 2024.

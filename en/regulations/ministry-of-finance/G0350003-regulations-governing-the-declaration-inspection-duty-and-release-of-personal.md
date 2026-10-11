@@ -1,0 +1,279 @@
+---
+title: "Regulations Governing the Declaration, Inspection, Duty, and Release of Personal Luggage or Goods of Inward Passengers"
+title_zh: "入境旅客攜帶行李物品報驗稅放辦法"
+identifier: "G0350003"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1969-02-11
+last_amended: 2026-01-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350003"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Declaration, Inspection, Duty, and Release of Personal Luggage or Goods of Inward Passengers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350003-regulations-governing-the-declaration-inspection-duty-and-release-of-personal.md](../../../zh/regulations/ministry-of-finance/G0350003-regulations-governing-the-declaration-inspection-duty-and-release-of-personal.md)) is authoritative.
+
+## Chapter I GENERAL PROVISIONS
+
+### Article 1
+
+The regulations herein are defined pursuant to the provisions of Article 23 Paragraph 2 and Article 49 Paragraph 3 of the Customs Act.
+
+### Article 2
+
+The customs declaration, inspection, duty and release of the personal accompanied luggage or goods and the unaccompanied luggage or cargo of inward passengers are determined pursuant to the provisions herein provided.
+
+The term "unaccompanied luggage or cargo" provided in the foregoing refers to luggage that do not arrive in the same aircraft or ship as the inward passengers.
+
+### Article 3
+
+For the purpose of simplifying and expediting the inspection of the accompanied luggage of inward passengers, luggage of inward passengers may be subject to dual channel red/green line or other clearance formalities approved by the Customs upon the actual requirement of circumstances.
+
+### Article 4
+
+The duty-free privilege for inward passengers is limited to goods carried in for personal or household use only.
+
+Details of the items and allowed quantities of agricultural products, cigarette and alcohol, products made in China, medicine for personal use, environmental pesticides and veterinary drugs carried by inward passengers are listed in the attached reference table.
+
+## Chapter II CUSTOMS DECLARATION AND INSPECTION
+
+### Article 5
+
+Inward passengers are not required to present a permit for such luggage or goods carried into the country pursuant to the range and limitations herein provided. Luggage and goods are subject to the customs inspection, duty levy, and release procedures, as herein provided.
+
+Inward passengers carrying sample goods, machinery spare parts, raw materials, material and supplies, equipment, and tools, providing that value of such goods is under the limit herein provided, such goods shall be regarded as luggage and thus, no importation permit shall be required during the duty levy and customs clearance processing.
+
+Where the luggage and goods provided in the foregoing two paragraphs are classified as a single personal luggage for personal use or compliant with the provisions of Article 52 of the Customs Act and allowed for importation, the value of which is not restricted in the related restrictions herein provided, and such luggage or goods may be imported without importation permit.
+
+Where the luggage and goods provided in Paragraph 1 and Paragraph 2 are classified as goods subject to inspection, epidemic control items, or other importation restrictions, unless otherwise provided in other specific regulations, such goods shall be processed pursuant to the provisions of governing laws and regulations.
+
+### Article 6
+
+Passengers having no permanent residence in ROC, such as foreign nationals and overseas compatriots, carrying dutiable goods for personal use into the country may apply for registration of goods for release in place of substitute duty performance bond or credit institution security submission. Dutiable goods duly registered, inspected and released should be re-exported out of the country under the same condition they were imported within six months after its entry or before the expiration of the authorized deadline extension period. Moreover, the passenger should process the pertinent cancellation procedure with the customs before deadline; otherwise, after deadline has elapsed, the customs shall issue a post-import customs duty levy notice and terminate duty-payer's registration rights for the particular item.
+
+### Article 7
+
+Where the items and quantities of goods contained in the luggage of an inward passenger during his/her entry into the country are compliant with the duty-free provisions of Article 11 and the passenger has no other matters to declare, the ROC customs declaration form requirement for inward passengers shall be waived. The passenger may pass through Customs through the green line counter.
+
+Inward passengers carrying controlled or restricted luggage or goods into the country under one of the following circumstances are obliged to declare such items on the ROC customs declaration form and submit the form through the red line counter for customs inspection and clearance:
+
+\1. Carrying cigarettes, liquor, and other luggage or goods in excess of the duty-free allowance provided in Article 11.
+
+\2. Carrying cash in foreign currency or currencies issued by Hong Kong or Macau in an aggregate amount exceeding Ten Thousand US Dollars (USD10,000) equivalent.
+
+\3. Carrying any domestic or foreign negotiable or marketable securities with face value in excess of Ten Thousand US Dollars (USD10,000) or its equivalent.
+
+\4. Carrying cash in an aggregate amount exceeding One Hundred Thousand NT Dollars (NTD100,000).
+
+\5. Carrying gold in an aggregate value exceeding Twenty Thousand US Dollars (USD20,000) or more.
+
+\6. Carrying cash in an aggregate amount exceeding Twenty Thousand Renminbi (RMB20,000) or more; moreover, inward passengers should voluntarily seal and deposit all amounts in excess of RMB20,000 with Customs for temporary custody until the exit departure time of passenger.
+
+\7. Carrying aquatic, animal, or plant products.
+
+\8. Having unaccompanied luggage coming into the country.
+
+\9. Carrying articles in an aggregate value exceeding Five Hundred Thousand NT Dollars (NTD500,000) which might be used for the purpose of money laundering.
+
+\10. Other matters non-compliant with the duty-free regulations or requiring customs declaration or where inspection before clearance is required by law.
+
+The articles which may be used for money laundering referred to in Subparagraph 9 of the preceding paragraph refer to diamonds, precious stones, and platinum articles not for personal use.
+
+Where inward passengers are in doubt whether their luggage or goods qualify for the green line clearance, passengers should clear their luggage at the red line counter.
+
+Customs are entitled to inspect passengers’ luggage passing through the green line counter or through other customs formalities approved by Customs in accordance with Article 3 at any time Customs deems it necessary. In the event that an inward passenger going through the green line counter fails to voluntarily declare goods before a green line counter customs officer finds it necessary to inspect the passenger's luggage or goods, Customs shall not entertain any customs declaration form from said passenger, unless the said passenger inquires about the necessity of such declaration with the customs officer and, upon determination of such necessity, he or she voluntarily fills out the pertinent customs declaration form. For passengers who pass through the red line counter, Customs shall not accept any form of correction after accepting the declaration and beginning the inspection procedure. Thereafter, should Customs find the passenger luggage to contain dutiable, controlled or restricted goods, or find that passenger violated the customs declaration regulations or evaded inspection, Customs shall process the case pursuant to the Customs Anti-smuggling Act and other related laws.
+
+### Article 8
+
+Where the inward passenger required to present an ROC customs declaration form to the customs is accompanied by family members, customs declaration of the combined luggage or goods of the family may be declared under one person only; in the event that passenger also has unaccompanied luggage, passenger is obliged to declare the quantity and principal contents of such luggage in the ROC customs declaration form presented during passenger's entry into the county.
+
+The unaccompanied luggage or cargo of inward passengers should be imported into the country before entry or within six months from the day of entry. Moreover, passenger should process customs declaration of such luggage or goods after entry, within 15 days from the day following the arrival date of the vessel carrying the unaccompanied luggage. Late customs declaration shall be processed pursuant to the provisions of Article 73 of the Customs Act.
+
+Upon the importation of the aforementioned unaccompanied luggage or cargo, the passenger should either personally or authorize an attorney or customs broker to process import declaration matters with the customs. The declaration form should clearly state the name, quantities and value of the luggage contents or goods, as well as state the following items：
+
+\1. The date of entry.
+
+\2. Passport number, visa number or Alien Resident Certificate number of the passenger.
+
+\3. The passenger's address in the country.
+
+Where passenger fails to import the aforementioned luggage or goods within the prescribed deadline, where passenger fails to declare such luggage in the ROC customs declaration form presented at the time of entry, or where passenger processes customs declaration of such luggage or goods before entry, the customs clearance procedure for regular import cargoes shall be applied to such luggage. The related duty exemption and certification exemption provisions herein provided shall no longer apply. However, where passenger presents valid reasons for such failure and obtained customs approval for such reasons, this restriction shall not apply.
+
+### Article 9
+
+Inward passengers carrying cargo other than luggage or goods for home and personal use and importing such cargo under the name of a manufacturing establishment, are required to process customs declaration matters through the import declaration form provided in Article 17 of the Customs Act.
+
+Inward passengers may pre-declare luggage before entry if luggage carried contains valuable goods or bonded goods, such as sample goods, machinery spare parts, equipment, raw materials, tools, material and supplies for bonded factories, business establishments in technology industrial parks, science parks, and agricultural technology parks.
+
+### Article 10
+
+The personal luggage or goods accompanying passengers should be inspected at the harbor or airport station where the passenger is entering the country. In the event that the luggage cannot be inspected and released on site, the passenger is obliged to declare such items on the ROC customs declaration form. Thereafter, Customs should seal said luggage and put it in the customs warehouse or the bonded warehouse which is located within the control area of an international airport terminal and exclusively made for storage of passengers' luggage for temporary storage until such time within a month of the next day of the day of entry as the passenger personally or through an authorized representative, presents the customs receipt or the bonded warehouse operator receipt and passport, visa, or Alien Resident Certificate of the passenger, and after the passenger pays the pertinent duties and processes customs clearance or processes the withdrawal and return of such luggage. The one-month period may, upon application, be extended for one more month when necessary.
+
+In the event that the aforementioned customs clearance or luggage withdrawal and return procedure is processed through an authorized representative, the representative is obliged to present his/her personal identification papers and the passenger's power of attorney document.
+
+Where the luggage and goods provided in Paragraph 1 are classified as goods subject to the provisions of Paragraph 1, Article 14 of the Money Laundering Control Act, the inward passenger or outward passenger should fill out the “Report of Inward/Outward Passengers or Crew Members Carrying Money Laundering Controlled Items” based on Paragraph 1, Article 4 of the Anti-Money Laundering Regulations for Cross-border Declaration and Reporting, or make declarations through the Customs online processing system, and present it to Customs for approval, and the passenger has to personally processes the withdrawal and return of such luggage.
+
+## Chapter III DUTY EXEMPTIONS
+
+### Article 11
+
+In addition to the items already exempted from duties pursuant to the Customs Act and the Customs Import Tariff, inward passengers carrying luggage or goods for home and personal use into the country are likewise entitled to a duty-free allowance on the following items:
+
+1.One and a half liters of liquor product (regardless of the quantity of bottles), and such privilege is limited to passengers aged 18 or older.
+
+2.Two hundred pieces of cigarettes, 25 pieces of cigars, a pound of tobacco, or 200 pieces of designated tobacco products approved through the health risk assessment by the Ministry of Health and Welfare, and such privilege is limited to passengers aged 20 or older.
+
+3.All luggage or goods the importation of which not placed under control, other than those stated in the preceding two subparagraphs, under the possession of the passenger during his/her stay in another country, and such items have been used and are in rational quantities and types; moreover, the price including freight and insurance of each item is less than NT$10,000, such items may be imported duty-free following customs examination and approval.
+
+Passengers carrying luggage or goods for personal or home use (except for controlled goods and tobacco or liquor products) outside the allowed duty-free items, and the total price (including freight and insurance) value of which is NT$35,000 or less, such items are likewise duty exempt. However, this provision is not applicable where it is apparent that the passenger is carrying goods for business or commercial use, or frequently travels in and out of the country and has prior customs violation record.
+
+The term "frequently travels in and out of the country" stated in the preceding paragraph refers to a departure and entry record of at least twice within a period of thirty days or at least six times within a period of six months.
+
+### Article 12
+
+Where the personal luggage or goods of inward passengers exceed the regulated limits of the foregoing provision, the customs tariff shall be levied on the excess portion of such luggage, pursuant to the duty rates provided in the Customs Import Tariff Regulations. However, the tariff rate for goods qualifying as odds and ends for personal or home use shall be based on the rate schedule provided in Article 5, General Rules of the Customs Import Tariff.
+
+The tariff payment period of the foregoing customs tariff is 14 days from the day following the delivery of the customs tariff levy notice. Where duty-payer fails to pay tariff duties within such deadline, the provisions of Article 74 of the Customs Act shall be applied.
+
+### Article 13
+
+The price (including freight and insurance) of dutiable luggage or goods should be determined pursuant to the provisions stated in Articles 29 to 35 of the Customs Act.
+
+Where price (including freight and insurance) is determined pursuant to the provisions of Article 35 of the Customs Act, Customs should assess price based on the pricing information of the following:
+
+\1. The reasonable price information compiled by Customs Administration, Ministry of Finance,
+
+\2. Price rationally calculated based on domestic market prices, and
+
+\3. The reference price presented by the duty-payer.
+
+### Article 14
+
+The maximum limit for the dutiable goods contained in the personal accompanied and unaccompanied luggage or cargo brought by inward passengers into the country is Twenty Thousand US Dollars per person as per duty paid price.
+
+Where the aforementioned luggage or goods are sample goods, machinery spare parts, raw materials, material and supplies, equipment or tools, total value should not exceed the maximum limit stipulated for import goods exempted from the importation permit requirement, as provided in Article 9 Paragraph 1 subparagraph 3 of the Cargo Importation Administration Regulations. However, such luggage or cargo should not contain goods under control importation.
+
+### Article 15
+
+Under one of the following circumstances, the customs should inspect the value and quantity of the luggage or goods of inward passengers and process relax clearance pursuant to the supporting documents presented. Where two or more of the following circumstances is noted, the passenger should choose which privilege should be applied; no double privilege shall be provided.
+
+\1. An overseas compatriots together with family is returning to take up permanent residence in ROC. Upon due certification of the Overseas Community Affairs Council, no maximum limit shall be applied on the value of dutiable personal luggage or goods.
+
+\2. Passenger is taking up residence in ROC for at least one year: Upon verification of the supporting documents presented, a rule relaxation shall be applied to the value and quantity of personal luggage or goods, as provided in Article 4 and Article 14; however, the maximum additional allowance granted should not exceed 50%.
+
+\3. Representatives of friendly nation governments, heads of governments, academic experts or government and non-government organizations attending a meeting or visiting the nation under the invitation of the government: Upon verification of the supporting documents presented, a rule relaxation shall be applied to the value and quantity of personal luggage or goods, as provided in Article 4 and Article 14; however, the maximum additional allowance granted should not exceed 50%. Where such passengers are entering the country without government invitation, passengers should present the supporting documents issued by the respective proper authorities.
+
+### Article 16
+
+The limits of the luggage or goods carried by inward passengers are as follows:
+
+1.It is clearly evident that passenger is bringing goods for business or commercial reasons, or frequently travels in and out of the country and has prior customs violation record. The value and quantity of personal luggage or goods should be reduced by half during assessment, as provided in Article 4 and Article 14.
+
+2.Transit passengers entering the country: Except for the clothes, accessories, make up and cosmetics, and other items for daily living needs needed during the trip, all personal luggage or goods of passenger should be cleared after duty payment as provided in the foregoing subparagraph.
+
+3.The customs value of dutiable personal luggage (or goods) brought into the country by the service crew on board of transport is limited to five thousand NT Dollars per person for each trip. The types of goods should be among the items not restricted for importation. Where the luggage of the member of crew exceed the allowed limit or where items appear to have been broken up into parts to be carried, the customs may refuse the importation of all the dutiable luggage (or goods) and reship the goods out of the country. As for the duty-free items allowance of the service crew, each person is entitled to carry a small quantity of permitted items for personal use and five packs of cigarettes (20 pieces per pack), half a pound of tobacco, 20 pieces of cigars, or five packs of designated tobacco products approved through the health risk assessment by the Ministry of Health and Welfare (20 pieces per pack).
+
+### Article 17
+
+Where the personal luggage or goods of inward passengers exceeds the limits set in Article 4, Article 14, Article 15, or Article 16, the passenger is obliged to submit an importation permit or documents issued by the relevant competent authority for examination, or process the return of such excess portion, or declare the abandonment in writing within 2 months from the day following passenger's date of entry. The two-month period may, upon application, be extended for one more month when necessary. Where the passenger fails to do so before the deadline, the provisions of Article 96 of the Customs Act shall be applied.
+
+## Chapter IV SUPPLEMENTARY PROVISIONS
+
+### Article 18
+
+These regulations shall be effective from the date of their promulgation. However, the amendment to these Regulations made on June 28, 2017 will enter into force on June 28, 2017; the amendment to these Regulations made on December 30, 2022 will enter into force on January 1, 2023; the amendment to these Regulations made on January 30, 2026 will enter into force on February 1, 2026.
+
+## Attachments
+
+- [Attachment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009607)
+
+## History
+
+\1. Promulgated on Feb. 11, 1969
+
+\2. Amended on Jul. 12, 1975
+
+\3. Amended on Jan. 27, 1976
+
+\4. Amended on Jul. 20, 1977
+
+\5. Amended on Sep. 15, 1978
+
+\6. Amended on Apr. 24, 1980
+
+\7. Amended on Dec. 10, 1980
+
+\8. Amended on Jun. 29, 1982
+
+\9. Amended on Jan. 23, 1984
+
+10.Amended on Aug. 13, 1984
+
+11.Amended on May 20, 1986
+
+12.Amended on Oct. 30, 1986
+
+13.Amended on Jan. 16, 1987
+
+14.Amended on May 19, 1987
+
+15.Amended on Jul. 7, 1987
+
+16.Amended on Sep. 8, 1987
+
+17.Amended on Jan. 19, 1988
+
+18.Amended on Sep. 12, 1989
+
+19.Amended on Sep. 4, 1990
+
+20.Amended on Feb. 8, 1996
+
+21.Amended on Feb. 23, 1999
+
+22.Amended on Jun. 19, 2000
+
+23.Amended on Dec. 26, 2001
+
+24.Amended on Feb. 28, 2004
+
+25.Amended on Aug. 5, 2004
+
+26.Amended on Oct. 23, 2006
+
+27.Amended on Aug. 13, 2007
+
+28.Amended on Jul. 22, 2009
+
+29.Amended on Dec. 30, 2014
+
+30.Amended Attachment on Feb. 16, 2015
+
+31.Amended on Aug. 19, 2016
+
+32.Amended on Jun. 28, 2017
+
+33.Amended on Aug. 30, 2017
+
+34.Amended on Feb. 6, 2018
+
+35.Amended on Aug. 21,2018
+
+36.Amended on Jan. 21,2021
+
+37.Amended on Dec. 30,2022
+
+38.Amended on Jun. 24,2024
+
+39.Amended on Jan. 13,2025
+
+40.Amended on Jan. 23,2025
+
+41.Amended on Jan. 30,2026

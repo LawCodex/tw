@@ -1,0 +1,487 @@
+---
+title: "Regulations Governing Tour Guides"
+title_zh: "導遊人員管理規則"
+identifier: "K0110003"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-06-28
+last_amended: 2025-12-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110003"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Tour Guides
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0110003-regulations-governing-tour-guides.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0110003-regulations-governing-tour-guides.md)) is authoritative.
+
+## Article 1
+
+These regulations are promulgated in accordance with Paragraph 5, Article 66 of the Act for the Development of Tourism (hereinafter “the Act”).
+
+## Article 2
+
+The certification examinations, training, licensing, management, and punishing and rewarding of tour guides shall be administered by the Tourism Administration under commission by the Ministry of Transportation and Communications (hereinafter “the MOTC”). Commissioned matters along with related legal grounds shall be announced and published in government bulletins or newspapers.
+
+## Article 3
+
+Tour guides who have violated these regulations and have had their tour guide licenses revoked within the past five years are prohibited from serving as tour guides.
+
+## Article 4
+
+Tour guide licenses are categorized into English, Japanese, other foreign languages, and Chinese-speaking tour guide licenses.
+
+Holders of English, Japanese, or other foreign language tour guide licenses are authorized to conduct reception or guiding services for tourists from foreign countries, Mainland China, Hong Kong, and Macau.
+
+Holders of a Chinese-speaking tour guide license are authorized to provide reception or guiding services for tourists from Mainland China, Hong Kong, Macau, or foreign tourists who use Chinese. They are not permitted to guide foreign tourists who do not use Chinese. However, when accompanied by a rare foreign language interpreter, they may guide foreign tourists who speak less commonly used languages.
+
+The categories of rare foreign languages mentioned in the proviso of the preceding paragraph, as well as the periods during which such services may be performed, shall be announced by the Tourism Administration of the Ministry of Transportation and Communications based on the tourism market and the supply and demand of tour guide personnel.
+
+## Article 5
+
+Tour guide certification examinations are divided into the following categories:
+
+\1. Foreign language tour guides
+
+\2. Chinese language tour guides
+
+The certification examinations for foreign language tour guides, as mentioned in Subparagraph 1 of the preceding paragraph, are further divided into the following categories based on the applicant’s eligibility at the time of registration:
+
+\1. General certification: To be conducted on applicants with qualifications specified in Paragraph 1 of Article 11
+
+\2. Specialty certification: To be conducted on applicants with qualifications specified in Paragraph 2 of Article 11
+
+## Article 6
+
+Individuals unfit to be tour guides as described in Article 3 may not enroll for tour guide certification examinations.
+
+## Article 7
+
+Tour guide certification examinations are held once a year or every other year. The frequency may be adjusted when necessary.
+
+## Article 8
+
+The Tourism Administration shall publicly announce the schedule, categories, subjects (including test outlines), and registration details for the certification examinations one year before the examinations are held.
+
+The Tourism Administration shall maintain comprehensive records for tour guide certification examination applicants, including registration data, qualification review results, test scores, and other relevant documents. These records shall be preserved for at least one year from the examination date.
+
+The expenses incurred for the tour guide proficiency tests shall be covered by the annual budget allocated by the Tourism Administration of the Ministry of Transportation and Communications.
+
+## Article 8-1
+
+When organizing tour guide certification examinations, the Tourism Administration may notify examination participants regarding the following matters by telex, fax, SMS, e-mail, and other electronic documents, which will be considered as having been delivered by themselves:
+
+\1. Notifications to submit or correct payment documents within a specified period for applications for certification exam registration and score review that are either missing required payments or have incomplete documents.
+
+\2. Notifications of non-acceptance of applications for certification exam registration and score review.
+
+\3. Results of score reviews.
+
+\4. Notification of examination results.
+
+\5. Notification of pre-employment training.
+
+\6. Notification of rejection or approval of various applications.
+
+\7. Other responses to various applications.
+
+Participants should ensure that the e-mail address, mobile phone, and other contact information provided are correct and functioning normally, and regularly check for notifications from the Tourism Ad-ministration of the Ministry of Transportation and Communications.
+
+## Article 9
+
+When organizing tour guide certification examinations, the Tourism Administration shall create a certification review committee to supervise inspection of applicant qualifications, question extraction from the database, review of test scores and explanation of question answers.
+
+## Article 10
+
+Applicants are required to pay registration fees according to the following standards:
+
+\1. Written test: NT$1,300 per person
+
+\2. Oral test: NT$ 1,100 per person
+
+## Article 11
+
+ROC citizens, foreign nationals, Hong Kong or Macao residents, and mainland China residents who are permitted to re-side with relatives or reside long-term in Taiwan in accordance with the provisions of Paragraphs 1, 3, or 4 of Article 17 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area meeting one of the following qualifications may sign up for general certification examinations for foreign language tour guide certification and examinations for Chinese language tour guide certification:
+
+\1. Holding a diploma from a public or legally registered private vocational school, senior high school or a higher-level educational institution in the country or from a foreign educational institution of equivalent level
+
+\2. Holding proof of educational level equivalent to the level specified in Subparagraph 1; recognition of equivalent educational levels of which shall be conducted according to Article 2 of the Standards for Recognition of Equivalent Educational Levels for University Admission
+
+Current consolidated travel agency and Class-A travel agency employees meeting one of the qualifications described in the preceding paragraph and having served more than (including) two years (as of the date of enrollment deadline) may be recommended by their employers to sign up for foreign language tour guide specialty certification examinations.
+
+## Article 12
+
+Applicants for certification shall turn in the following documents and pay the fees required:
+
+\1. Enrollment form and CV
+
+\2. Proof of qualification and subject test exemptions
+
+\3. National ID photocopy, resident ID for Taiwan area, R.O.C.（Taiwan） nationals residing overseas Identity Certificate issued by OCAC, or photocopy of valid ROC passport with foreign resident ID endorsement conducted by the Ministry of Foreign Affairs, ROC embassy, consulate, representative office, economic and cultural office or an institution authorized by the Ministry of Foreign Affairs in the country of foreign residence; and photocopy of passport or alien resident certificate for foreign nationals and residents of Hong Kong or Macau. Residents of mainland China shall submit a copy of their resident ID.
+
+\4. A one-inch headshot photo (no hat) taken within one year
+
+\5. Enrollment fees
+
+For people signing up for certification online, fee payment methods are indicated in the enrollment brochure and on the enrollment website of the Tourism Administration.
+
+## Article 13
+
+Presentation of diplomas from foreign educational institutions or other certificates shall include the original copies as well as photocopies and scanned Chinese translations verified by ROC overseas missions or scanned Chinese translations certified by notaries public in the country.
+
+The original copies of various certificates stated in the preceding paragraph may be substituted with scanned photocopies authenticated by legal notaries in the country of foreign residence as exactly the same as the originals and also verified by ROC overseas missions.
+
+## Article 14
+
+Foreign language tour guide certification examinations are conducted in writing and orally.
+
+Applicants may take the oral test only after passing the written test. Written test pass marks shall not be reserved. Applicants exempted from taking written tests of all the subjects as specified in Paragraphs 2 and 3 of Article 15 may take the oral test directly.
+
+Applicants for Chinese language tour guide certification only need to written tests.
+
+## Article 15
+
+The general written tests of different subjects for foreign language tour guides are all multiple-choice tests. The subjects include:
+
+\1. Tour guiding practices
+
+\2. Tour guiding regulations
+
+\3. Overview of tourism resources
+
+\4. Foreign languages
+
+Holders of a valid tour guide permit or certification examination takers who with-in three years prior to the current year held a tour guide qualification certificates or passing the general foreign language tour guide certification examination or the Chinese language tour guide certification examination within three recent years may be exempted from taking subject tests other than foreign language tests when taking the general examination for foreign language tour guide certifications.
+
+Applicants for certification may present certificates of foreign language proficiency acquired within three recent years to apply for exemption from taking foreign language tests specified in Subparagraph 4 of the preceding paragraph. The Tourism Administration shall separately define the standards for foreign language proficiency recognition.
+
+Oral tests shall be conducted individually according to the foreign languages chosen by certification applicants and the foreign language oral test rules established by the Examination Yuan shall apply mutatis mutandis.
+
+## Article 16
+
+The written specialty tests for foreign language tour guide certification are all multiple-choice tests. The subjects are as follows:
+
+\1. Tour guiding practices and regulations
+
+\2. Foreign languages other than English
+
+The regulations set forth in Paragraphs 3 and 4 of the preceding article shall apply to applicants taking the specialty examination for foreign language tour guide certification.
+
+## Article 17
+
+The tests for Chinese language tour guide certification are all multiple-choice tests and the subjects are as follows:
+
+\1. Tour guiding practices
+
+\2. Tour guiding regulations
+
+\3. Overview of tourism resources.
+
+## Article 18
+
+Applications for foreign language test exemptions in accordance with Paragraph 3 of Article 15 and Paragraph 2 of Article 16 shall be reviewed by the Tourism Administration.
+
+The Tourism Administration shall notify applicants when their applications for written foreign language test exemptions are approved and the applicants shall proceed to take the other written tests for certification of foreign language tour guides.
+
+## Article 19
+
+The average score of all the subject tests for Chinese language tour guide certification shall be the final score. The pass mark is 60 points.
+
+The average score of all the subject tests for foreign language tour guide certification shall be the final score. The pass mark is 60 points and at least 50 points on the foreign language test; however, scoring zero on any one subject or scoring less than 50 points on the foreign language test is considered failing the examination. For examinees exempted from taking certain tests, the pass mark for the foreign language subject is 60 points. Missing a test is regarded scoring zero on the subject.
+
+If the number of individuals passing a subject other than English or Japanese is less than 33% of the total number of test-takers as mentioned in the preceding paragraph, then the top 33% of test-takers who have an average score of at least 50 points across all subjects and a score of at least 50 points on the foreign language subject will be considered to have passed. Those exempt from certain subjects are not subject to the 60-point passing requirement in the preceding paragraph.
+
+The average grade given by all the oral examiners shall be the final score in the oral examination for foreign language tour guide certification. The pass mark is 60 points.
+
+A missed subject test of this certification examination will be considered as a score of zero. A person with a zero on any subject test cannot pass the examination.
+
+## Article 20
+
+The examination hall regulations established by the Examination Yuan shall apply to people taking tour guide certification examinations. When cheating or violations of examination hall regulations are confirmed, the grades shall be revoked and the offenders shall be disqualified.
+
+When having doubts about announced answers to test questions, examinees are required to present supporting evidence to apply to the Tourism Administration for clarification within three days after completion of the examination. Applications filed beyond the aforementioned period or without stating the reasons presented and submitting supporting evidence shall not be accepted. The doubt about the announced answer to each question can only be filed one time only. The Tourism Administration shall separately establish the procedure for handling disputes over test question answers.
+
+Applications for test score review shall be filed with the Tourism Administration within ten days after score announcement. Those presented beyond the aforementioned period shall not be accepted. Each examinee may file such an application one time only and is required to pay a NT$50 test score review application fee.
+
+## Article 21
+
+When a typhoon, earthquake, air raid, flood, fire, epidemic or any critical event that takes place and makes it impossible to hold the certification examination, it shall be handled according to the following regulations:
+
+\1. If the force majeure happens before the examination is held and the event has to be conducted at a different time, the Tourism Administration shall publicly announce the postponement and notify the examinees.
+
+\2. If the force majeure occurs during the examination which is simultaneously held in different districts, all the districts shall be notified to suspend the examination and the subject tests yet to be held shall be conducted at another time.
+
+When all or part of the subject tests are to be held at another time due to the situation described in the preceding paragraph, the test questions shall be rewritten unless the certification review committee confirms there is no concern about test question leaks.
+
+## Article 22
+
+Examinees passing the general examination for foreign language tour guide certification and the examination for Chinese language tour guide certification are required to take and pass the pre-service training within three years after receiving the pre-service training notification from the Tourism Administration. The qualification of those failing to comply shall not be reserved.
+
+People passing the certification examination and subsequent training must acquire licenses before they can be employed and assigned by travel agencies or recruited by government agencies or institutions to execute tour guiding work.
+
+## Article 23
+
+Examinees passing the specialty examination for foreign language tour guide certification are required to take and pass preservice training within one year after receiving the pre-service training notification from the Tourism Administration. The qualification of the ones failing to comply shall not be reserved. However, those unable to attend pre-service training due to maternity leave, critical illnesses or other justifiable causes may submit related proof documents to apply to the Tourism Administration in writing for postponement for up to one year.
+
+Examinees passing the examination and training and acquiring their tour guide licenses are required to indicate the name of travel agency that recommends them and they may carry out tour guiding work for the recommending travel agency only. They may not be employed by other travel agencies or recruited by government agencies or institutions to execute tour guiding work.
+
+When an individual passing the certification examination and training as described in Paragraph 1 leaves the recommending travel agency or the recommending travel agency has its business license revoked or repealed by the Tourism Administration, registers dissolution or becomes a Class-B travel agency, the tour guide license of the individual loses its validity automatically. The individual is required to return the license to the Tourism administration or an institution commissioned by the Tourism Administration within ten days. If the license is not returned, the Tourism Administration shall nullify it directly.
+
+## Article 24
+
+Tour guide personnel training consists of pre-service training and on-the-job training.
+
+Those who pass the examination or assessment for tour guide personnel shall participate in pre-service training organized by the Tourism Administration or its com-missioned relevant agencies or organizations. Upon obtaining the graduation certificate, they may then apply for the professional license to engage in tour guide services.
+
+On-the-job training for tour guide personnel shall be conducted by the Tourism Administration or its commissioned relevant agencies or organizations.
+
+The agencies or organizations entrusted with the preceding two paragraph shall meet one of the following qualifications:
+
+\1. Must be a tourism-related group in the travel industry or related to tour guide personnel, and has been commissioned by the Tourism Administration of the Ministry of Transportation and Communications),and within the last two years, have conducted tour guide personnel training on their own or accepted the commission from the Tourism Administration.
+
+\2. Must be a college or higher education institution with tourism-related departments, and has been commissioned by the Tourism Administration of the Ministry of Transportation and Communications), and within the last two years, have conducted training for industry practitioners in the tourism sec-tor on their own or accepted the com-mission from the Tourism Administration.
+
+The methods, courses, fees, and relevant regulations for preservice training and on-the-job training shall be determined by the Tourism Administration or proposed by the relevant agencies or organizations commissioned by them and submitted for approval by the Administration.
+
+## Article 25
+
+Those meeting any of the following conditions and passing the assessment for foreign language tour guides are exempt from undergoing pre-service training:
+
+1.Those who have passed the assessment for Chinese-speaking tour guides and are qualified in training.
+
+2.Those who have passed the assessment for foreign language tour guides and are qualified in training.
+
+3.Tour guides who passed the examinations and training conducted by the Tourism Bureau before April 19, 2005, as per the amendments in this regulation.
+
+4.Individuals who passed the tour guide examinations and training by the Examination Yuan before October 19, 2023, as per the amendments in this regulation.
+
+## Article 26
+
+Individuals participating in pre-service training for tour guides should submit a notice of pre-service training or a copy of the tour guide examination qualification certificate, pay the training fee, and apply to the relevant agency or organization commissioned by the Tourism Administration. They should report for training at the scheduled time.
+
+Participants in the tour guide pre-service training may cancel their registration and apply for a 70% refund of the training fee up to seven days before the training begins. No refund will be provided after this period. However, individuals unable to undergo training due to maternity leave, severe illness, or other valid reasons may apply for a full refund.
+
+## Article 27
+
+The pre-service training of tour guides shall consist of 80 lessons, with each lesson lasting 50 minutes.
+
+During the period of pre-service training, trainees may not be absent from more than ten percent of the training lessons.
+
+Each time a trainee arrives for a lesson late or leaves a lesson early by ten minutes or more shall be counted as an absence from the training lesson.
+
+## Article 28
+
+The tour guide pre-service training examination shall have a full score of one hundred (100) points, with the pass mark set at seventy (70) points.
+
+Trainees who fail to achieve the pass mark shall retake the examination one time within seven (7) days; and those who fail to achieve the pass mark in retaking the examination may not graduate.
+
+If, due to maternity leave, serious illness, or other proper reason, a trainee is granted permission to defer taking the examination, he or she shall apply to take the examination within one year; and if he or she fails to achieve the pass mark, the provisions of the preceding paragraph shall apply.
+
+## Article 29
+
+If a trainee is found to have met any of the following conditions while receiving pre-service training, he or she shall withdraw from the training; and in such case, he or she may not apply for reimbursement of any training fee that he or she has already paid:
+
+\1. Being absent from more than one tenth of the training lessons.
+
+\2. Acting in a violent or threatening manner toward an instructor, counselor or other training personnel during the training period.
+
+\3. Having another person attend the training in his or her place.
+
+\4. Submitting false or altered documentary proof of qualifications upon registration.
+
+\5. Other concrete fact that is sufficient to be deemed a serious breach of ethical standards.
+
+In the case of any of the situations set out in the preceding subparagraph 2 to subparagraph 4, the trainee may not attend further training within two (2) years of withdrawal from the training.
+
+## Article 30
+
+If a trainee is found to have met any of the following conditions while receiving on-the-job training, he or she shall withdraw from the training; and in such case, he or she may not apply for reimbursement of any training fee that he or she has already paid:
+
+\1. Being absent from more than one tenth of the training lessons.
+
+\2. Having another person attend the training in his or her place.
+
+\3. Acting in a violent or threatening manner toward an instructor, counselor or other training personnel during the training period.
+
+\4. Other concrete fact that is sufficient to be deemed a serious breach of professional ethical standards.
+
+## Article 31
+
+Organizations or institutions that have been commissioned to conduct pre-service training and on-the-job training of tour guides shall implement training programs as approved by the Tourism Administration, and within ten (10) days of the conclusion of the training shall submit a report to the Tourism Administration setting out the performance of the trainees and the numbers of graduates and withdrawals.
+
+## Article 32
+
+If an organization or institution that has been commissioned to conduct pre-service training and on-the-job training of tour guides violates the requirements of the preceding Article, the Tourism Administration may make a correction and give notice of a time limit for making improvement; if the organization or institution fails to make the improvement within the specified time, its commission shall be terminated, and it may not participate in selection for commissioned training within two years thereafter.
+
+## Article 33
+
+Tour guides who have obtained graduation certificates or tour guide licenses but have not engaged in tour guide services for three consecutive years must undergo training again upon receipt or renewal of their professional license before resuming tour guide duties. However, in cases of natural disasters, epidemics, or other valid reasons, the competent central authority may announce an extension based on actual needs.
+
+Individuals undergoing retraining as stipulated in the preceding paragraph shall comply with the provisions regarding pre-service training in this regulation. However, the retraining consists of 40 sessions, with each session lasting for 50 minutes.
+
+## Article 34
+
+People applying, renewing, or filing for tour guide license reissuance are required to submit the following relevant documents to apply to the Tourism Administration or an institution commissioned by the Tourism Administration.
+
+When a tour guide certificate is renewed or reissued, the original certificate be-comes invalid.
+
+The commissioning details and legal basis for the first paragraph should be announced and published in government bulletins or newspapers.
+
+## Article 35
+
+A tour guide license shall be valid for three years. Within one year before expiration, an application for license renewal shall be filed with the Tourism Administration or an authorized organization commissioned by the Tourism Administration before the expiration date.
+
+## Article 36
+
+When practicing his or her business, a tour guide shall be subject to the instruction and supervision of the employing travel agency or the hiring organization or group.
+
+## Article 37
+
+A tour guide shall practice his or her business in accordance with the tour itinerary and contents arranged by the employing travel agency or the hiring organization or group, and may not make arbitrary changes except when necessitated by force majeure or special accidents.
+
+## Article 38
+
+When practicing his or her business, a tour guide shall wear his or her license in a visible position on his or her chest to facilitate contact for services and inspection by the Tourism Administration.
+
+## Article 39
+
+If a tour guide encounters an incident or accident in the practice of his or her duties, he or she shall immediately take appropriate measures, and shall report the course and handling of the event to the Tourism Administration and the employing travel agency, organization or group within 24 hours.
+
+## Article 40
+
+For the supervision of tour guides, the Tourism Administration may dispatch authorized personnel to inspect their business practices at any time.
+
+## Article 41
+
+The Tourism Administration may award or recognize a tour guide who is found to have met any of the following conditions:
+
+\1. Having performed in an outstanding manner in upholding national honor and fostering international friendship.
+
+\2. Having a good record of promoting Taiwanese culture and upholding good social customs.
+
+\3. Having made concrete contributions to the maintenance of national security or social order.
+
+\4. Having a concrete record of providing good services to travelers and upholding travel safety.
+
+\5. Having a concrete record of promoting the public interest and team spirit in an enthusiastic manner.
+
+\6. Having written reports that are full and accurate and that provide comprehensive information with reference value.
+
+\7. Having made achievements with originality and practicability in research related to tourism or the tour guide business.
+
+\8. Having provided tour guide services in an outstanding manner for over fifteen consecutive years.
+
+\9. Having manifested other good conduct or practices deserving of commendation.
+
+## Article 42
+
+A tour guide may not engage in any of the following behaviors:
+
+\1. Acting in an improper manner when providing tour guide services.
+
+\2. Failing to take proper care of tourists who have fallen ill.
+
+\3. Arranging tourists to purchase goods, or receiving kickbacks for other services without authorization.
+
+\4. Demanding extra charges from tourists.
+
+\5. Buying goods from or selling goods to tourists.
+
+\6. Taking goods or money from tourists by improper means.
+
+\7. Engaging privately in foreign exchange.
+
+\8. Violating professional code of conduct.
+
+\9. Lending a license to be used by others.
+
+\10. Delaying the provision of services without justifiable reason, or entrusting others to provide services without authorization.
+
+\11. Evade, obstruct, or refuse an inspection by an administrative or police agency; or not to provide/present documents, information and/or other articles as may be necessary.
+
+\12. Provision of services without authorization after ceasing to be eligible to act as a tour guide.
+
+\13. Operating a travel business without authorization or providing tour guide services for a non-travel business operator.
+
+\14. Provision of tour guide services under employment by a foreign travel operator.
+
+\15. Before transporting tourists, it is discovered that the means of transport are not provided by lawful operators and also failing to report the travel agency; while using the tour bus for transportation, the escape and safety guide is failed to be explained and demonstrated, according with the checklist form prescribed by Highway Bureau, MOTC.
+
+\16. While providing tour guide services, failing to warn and prevent the acts of the received or guided tourists after discovering that such acts could damage natural resources or tourist facilities.
+
+## Article 43
+
+A fee of five hundred (500) New Taiwan dollars shall be charged for the issuance of each tour guide graduation certificate issued in accordance with these Regulations; the same fee shall be charged for the replacement of such certificate.
+
+## Article 44
+
+A fee of two hundred (200) New Taiwan dollars shall be charged for the issuance, re-issuance or replacement of a tour guide license.
+
+## Article 45
+
+These Regulations shall become effective on the date of their promulgation.
+
+The amendments to these Regulations, promulgated on December 11, 2025, shall take effect on June 1, 2026.
+
+## History
+
+\1. Promulgated on June 28, 1968
+
+\2. Amended on December 29, 1969
+
+\3. Amended on February 02, 1972
+
+\4. Amended on November 21, 1975
+
+\5. Amended on May 27, 1981
+
+\6. Amended on July 08, 1985
+
+\7. Amended on March 03, 1989
+
+\8. Amended on June 15, 1990
+
+\9. Amended on September 01, 1995
+
+\10. Amended on March 01, 2001
+
+\11. Amended and promulgated in accordance with Jiao Lu Fa No. 093B000014, on February 17,2004
+
+\12. Promulgated as per a Ministry of Transportation and Communications ordinance, Reference MOTC Integrated No. 0940085017, dated April 19, 2005.
+
+Amended and promulgated in accordance with Jiao Lu Fa No. 0940085017, on April 19, 2005
+
+\13. Article 26 amended as per a Ministry of Transportation and Communications ordinance, reference MOTC Integrated No. 09400850611, dated January 6, 2006.
+
+\14. Article 27 amended and promulgated in accordance with Jiao Lu No. 0960085012, on February 27, 2007.
+
+\15. Article 27 Paragraph 16 amended and promulgated in accordance with MOTC ordinance, Jiao Lu No. 1000008330, on September 5, 2011.
+
+\16. Amendments to Articles 3,4,6,7,9,11,14,15,17,19,28,30 and deletion of Article 18 promulgated on March 5, 2012.
+
+\17. Amended to Article 30 on Sep 24, 2013.
+
+\18. Amendment to Article 6 and 28 promulgated on November 24, 2015.
+
+\19. Amendment to Article 27 promulgated on August 26, 2016.
+
+\20. Amendment to Article 6 and 28 promulgated on January 03, 2017.
+
+\21. Amendment to Article 27 promulgated on March 03, 2017.
+
+\22. Amendment to Article 6 promulgated on February 01, 2018.
+
+\23. Amendment to Article 6、28 promulgated on October 22, 2020
+
+\24. Amendment to Article 16 promulgated on November 22, 2022
+
+\25. Amendment to Article 1-45 promulgated on October 19, 2023.
+
+\26. Amendments to Articles 10-12, 15, 19, 22, 24, and 34 and an addition of Article 8.1 promulgated on October 16, 2024.
+
+\27. Amendments to Articles 27, 33 and 45 promulgated on December 11, 2025.

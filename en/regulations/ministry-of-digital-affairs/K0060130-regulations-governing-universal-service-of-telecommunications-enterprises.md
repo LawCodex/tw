@@ -1,0 +1,406 @@
+---
+title: "Regulations Governing Universal Service of Telecommunications Enterprises"
+title_zh: "電信事業普及服務管理辦法"
+identifier: "K0060130"
+type: regulation
+law_level: "命令"
+category: "行政＞數位發展部＞韌性建設目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-06
+last_amended: 2024-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060130"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Universal Service of Telecommunications Enterprises
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-digital-affairs/K0060130-regulations-governing-universal-service-of-telecommunications-enterprises.md](../../../zh/regulations/ministry-of-digital-affairs/K0060130-regulations-governing-universal-service-of-telecommunications-enterprises.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are established in accordance with the stipulations of Paragraph 5, Article 12 of the Telecommunications Management Act (hereafter referred as the Act).
+
+### Article 2
+
+For the purposes of the Regulations:
+
+\1. Telecommunications Universal Service (hereafter "universal service" or "US"): Telecommunications services with a basic quality necessary for use provided at reasonable and affordable rates for all citizens.
+
+\2. Voice-based Telecommunications Universal Service: Voice-based telecommunications services between the outgoing end and the incoming end provided over the public telecommunications network.
+
+\3. Telecommunications Universal Service on Data Transmission: Service of the provision of access to the Internet Service over wired or wireless Broadband Telecommunications Network.
+
+\4. Public Payphone Service: Telephones installed by operators for public use and paid for by inserting coins, cash cards, credit cards, electronic stored value cards or other pre-paid means.
+
+\5. Universal Service Provider: Telecommunications enterprises providing one or more category of universal service through fixed or mobile telecommunications networks installed by them.
+
+\6. Participating Universal Service Carriers: telecommunications enterprises designated as being required to contribute towards sharing of universal service costs and its necessary administrative costs.
+
+\7. Universal Service Cost: the net universal service cost and the necessary administration costs.
+
+\8. Net Universal Service Costs: the net losses incurred by universal service providers in the provision of universal service.
+
+\9. Necessary Administration Cost: examination cost, transportation cost, attendance cost, requested investigation cost and other necessary administration costs.
+
+\10. Avoidable Costs: costs that universal service providers may avoid or save by not providing universal service.
+
+\11. Revenue forgone: losses in revenue by universal service providers as a result of not providing universal service.
+
+\12. Uneconomic Public Payphone: Public payphone (hereafter "payphone") that has been approved by the competent authority (NCC) where under normal business conditions or without any subsidy, the avoidable costs that a universal service provider may incur for the provision of a single payphone service exceeds its revenue forgone.
+
+\13. Uneconomic Area: The service area of a single local exchange office (hereafter "local exchange area") or mobile telecommunication transmission station that has been approved by the competent authority (NCC) where the avoidable costs incurred by a universal service provider for the provision of telephone service in a remote area exceeds its revenue forgone.
+
+\14. Remote Area: Townships, (Towns, Cities and District) with a population density no more than one-fifth of the average national population density, or outlying area at least 7.5 km away from the location of the cabinet-level municipality, county or city government.
+
+### Article 3
+
+The service area of a universal service provider's local exchange office shall be considered as a remote area by the competent authority (NCC) in accordance with the following conditions and conditions of transportation, power supply, telecommunication infrastructure, household socio-economic or other factors:
+
+\1. Service areas adjacent to remote areas.
+
+\2. Townships, (Towns, Cities and District) with a population density of between one-fifth and one-quarter of the average national population density.
+
+### Article 4
+
+Types of universal service includes Voice-based Telecommunications Universal Service and Data Transmission Telecommunications Service.
+
+The provision of universal service should be provided by telecommunications enterprises providing service through fixed telecommunications networks installed by them, however services may be provided through transmission stations by enterprises providing service through mobile telecommunications networks installed by them when the following requirements are met:
+
+\1. The competent authority's announcement made in accordance with Paragraph 2 or Paragraph 3 of Article 13.
+
+\2. Due to the features of the topography, it is impractical to deploy fixed communication data access networks.
+
+\3. Residents and real estate owners with broadband demand sites have agreed to build base stations.
+
+\4. The relay transmission circuit is sufficient for the bandwidth requirement of the mobile telecommunication high-speed base station.
+
+\5. The location where the mobile telecommunication transmission station is to be installed already has the power required for the station.
+
+\6. The municipal, county (city) government or township (Towns, Cities and District) public office agrees to assist the base station to set up use.
+
+The universal service provider who has set up a mobile communication network may not refuse requests from other mobile communication and telecommunications enterprises for co-location, co-construction of their universal service mobile telecommunication transmission stations, and the provision of relay transmission circuits without justifiable reasons.
+
+## Chapter 2 Voice-based Telecommunications Universal Service
+
+### Article 5
+
+Voice-based Telecommunication Universal Service includes uneconomic public payphones and telephone service in uneconomic areas.
+
+### Article 6
+
+The telecommunication enterprises with significance in the fixed telecommunications network voice retail service market, by June 1 of the year prior to the fiscal year in which universal service is implemented (hereafter named the "implementation year"), submit the Annual Universal Service Implementation Plan (hereafter named the "implementation plan") based on the cabinet-level municipalities, counties and cities which are publicly designated as the implementation units by the competent authority, and apply to the competent authority for accreditation as universal service providers for uneconomic public payphone and telephone services in uneconomic areas.
+
+Apart from those with significance in the fixed telecommunications network voice retail service market of local Internet service as referred to in the preceding paragraph, other telecommunications enterprises installing fixed or mobile telecommunications networks may also submit applications in accordance with the preceding paragraph.
+
+The "Implementation Year" as stated in paragraph 1 refers to the calendar year from January 1 to December 31.
+
+The competent authority shall publicize the Implementation Plan in accordance with paragraph 1 and paragraph 2 no later than July 1 of the year prior to the implementation year. Telecommunications enterprises installing fixed or mobile telecommunications networks may once again submit improved implementation plans no later than August 1 of the same year, and apply for accreditation as a universal service provider for telephone service in uneconomic areas.
+
+The competent authority, before approving the previous implementation plan, shall compare the net universal service costs, requested subsidy amounts, and the predicted improvements in service penetration and quality as outlined in various implementation plans; and in consideration with the actual operating abilities of the applicants, the competent authority shall then choose the best implementation plan; if necessary, the competent authority must request the applicant to amend its proposed implementation plan.
+
+### Article 7
+
+The implementation plan shall clearly outline the following items:
+
+\1. The indicators of universal rate and service quality prior to the implementation of the universal service in the implementation year.
+
+\2. Predictions of maintenance or improvement of the universal rate and service quality indicators of the telephone service in uneconomic area after implementation of the universal service in the implementation year.
+
+\3. Implementation solutions and the tariffs of the universal service in the implementation year.
+
+\4. Estimates of the net universal service costs of the implementation year, and the amount of subsidies required.
+
+\5. Detailed calculations of the net universal service costs required in the implementation year.
+
+Implementation plans published by the competent authority (NCC) under Articles 6 and 18 of the Regulations, excluding the contents of Subparagraph 5 of the preceding paragraph.
+
+### Article 8
+
+The net universal service costs for voice-based telecommunication service are the avoidable costs incurred by the universal service provider in connection with the fulfillment of the service obligation less any revenues forgone.
+
+### Article 9
+
+The avoidable costs of the telephone service in uneconomic area shall be calculated in accordance with the formula as stated in Appendix 1.
+
+The revenue forgone for the fixed telecommunications service in an uneconomic area shall be the sum of the following listed revenues as collected from the provision of telephone and other related services by the universal service providers in a single local private branch exchange network of the remote area:
+
+\1. Monthly rental revenue.
+
+\2. Phone charge revenue.
+
+\3. Installation and connection revenue.
+
+\4. Extension charges.
+
+\5. Internet connection charges.
+
+\6. Rental revenue from leased circuit or other networking equipment.
+
+\7. Internet access service revenue.
+
+\8. Other service revenue.
+
+\9. Other non-operating revenue.
+
+The revenue forgone for a single transmission station providing universal service shall consist of relay transmission circuit revenue and a certain proportion of the following revenues derived from mobile telecommunication services provided by the universal service provider:
+
+\1. Monthly rental revenue.
+
+\2. Telecommunication charge revenue.
+
+\3. SMS revenue.
+
+\4. Other revenue.
+
+The proportionate revenue derived from mobile telecommunication services provided by the aforementioned universal service provider shall be calculated based on the ratio of the average data transmission volume of transmission stations in the village designated in the preceding paragraph to the total data transmission volume of transmission stations nationwide, multiplied by the difference between the universal service provider’s revenue for the current year and the previous year. If the aforementioned revenue difference is negative, the revenue shall be calculated as zero.
+
+The district in which the single local private branch exchange network serves crosses remote and non-remote areas, the universal service provider shall, in its calculations of the total net universal service costs of the telephone service in an uneconomic area, include the net universal service cost incurred by the district in which the single local private branch exchange network serves.
+
+### Article 10
+
+The avoidable costs of uneconomic public payphone service shall be calculated in accordance with the formula as stated in Appendix 2.
+
+The revenue forgone for an uneconomic public payphone service shall be the service income as derived from a single public payphone booth.
+
+The following are the subsidy methods of Uneconomic Public Payphone service:
+
+\1. Subsidize two uneconomic public payphone booths within a radius of two hundred meters in remote areas.
+
+\2. Subsidize one uneconomic public payphone booth within two square kilometers.
+
+The competent authority (NCC) shall, in accordance with the actual requirement, adjust the subsidy amount of the installation of uneconomic public payphones in government bureaus, local schools, hospitals, prisons, military camps, train stations, airports, congress, and mountainous areas; the subsidy is not limited by the preceding paragraph.
+
+## Chapter 3 Telecommunications Universal Service on Data Transmission
+
+### Article 11
+
+Telecommunications Universal Service on Data Transmission includes Telecommunications Universal Service on Data Transmission in uneconomic areas and discounts of Internet access offered to local schools and public libraries.
+
+### Article 12
+
+The service provider of the Telecommunications Universal Service on Data Transmission in uneconomic areas shall provide services based on economic and effective technology.
+
+The aforementioned economic and effective technology refers to the technology capable of reaching out to the maximum number of users outside uneconomic regions or achieving the transmission speed of the Telecommunications Universal Service on Data Transmission as approved by the NCC.
+
+### Article 13
+
+Telecommunications enterprises installing fixed or mobile telecommunications networks shall, in accordance with the implementation plan of Telecommunications Universal Service on Data Transmission in uneconomic areas, propose method, term, content, implementation year, implementation duration and net service cost calculation method under Articles 6 and 9 of these Regulations. For service providers that apply for Voice-based Telecommunications Universal Service and Telecommunications Universal Service on Data Transmission in uneconomic area at the same time, the net service cost of the implementation plan of Telecommunications Universal Service on Data Transmission in uneconomic area shall deduct the proposed net cost of Voice-based Telecommunications Universal Service.
+
+The administrative authority may, prior to March 1st of the year before the implementation year, according to the demand of the uneconomic area, promulgate and designate the telecommunications enterprises installing fixed or mobile telecommunications networks to provide digital communication access universal service to specific villages and neighborhoods, the aforementioned enterprises shall incorporate the universal service into the implementation plan referred to in the preceding paragraph.
+
+The administrative authority may, prior to March 1st of the year before the implementation year, according to the demand of villages with a population density no more than one-fifth of the average national population density and under the circumstances specified in Subparagraphs 2 to 6, Paragraph 2, Article 4, promulgate and designate the telecommunications enterprises installing mobile telecommunications networks to provide digital communication access universal service to specific villages and neighborhoods, and incorporate the universal service into the implementation plan referred to in Paragraph 1.
+
+### Article 14
+
+Telecommunications enterprises installing fixed or mobile telecommunications networks and providing local Data Transmission internet access to elementary schools, high schools and public libraries with discounted fees may choose not to submit an implementation plan.
+
+The elementary schools and high schools mentioned in the preceding paragraph refer to those established under the approval of governmental agencies; public libraries refer to national libraries as well as municipal, county and local libraries.
+
+### Article 15
+
+The competent authority (NCC) shall, no later than December 1 of the year prior to the implementation year, set forth the subsidy available for the provision of Telecommunications Universal Service on Data Transmission.
+
+Items subject to discounts and subsidies in the preceding paragraph are limited by the monthly rental charge of the local transmission circuit.
+
+## Chapter 4 Operations and Management for Universal Service
+
+### Article 16
+
+In order to manage the Telecommunications Universal Service Fund related matters, the competent authority shall establish the Telecommunications Universal Service Fund Administrative Committee (hereafter referred as the "committee").The functions of the committee are set forth below:
+
+\1. Assessment of the annual implementation plans of the universal service.
+
+\2. Assessment of the subsidy applications of the universal service.
+
+\3. Assessment of the revenue figures for telecommunication service as reported by the Participating Universal Service Carriers.
+
+\4. Auditing and calculation of the proportions and amount of contributions to be made by the Participating Universal Service Carriers towards Universal Service Cost.
+
+\5. Auditing and assessment of the incomes and expenses of the Telecommunications Universal Service Fund.
+
+\6. Evaluation of the performance of the universal service regime.
+
+\7. Other matters concerning the telecommunications universal service.
+
+### Article 17
+
+The committee shall have thirteen to fifteen members and the number of members of each gender may not be less than one third. The chairman, also a member of the committee, shall be the head of the competent authority or the personnel authorized by the head; other members are to be selected by the head of the competent authority or the personnel authorized by the head from the entity among internal personnel, academics and experts.
+
+Each member shall be appointed for one year as a term, with possible extension if necessary. In case of the withdrawal of member before the termination of the term, temporary substitutes shall be appointed to carry out the post till the end of the term.
+
+Members shall not receive a salary. However, assessment fees, transportation fees or attendance fees may be paid in accordance with the relevant rules.
+
+### Article 18
+
+The competent authority (NCC) shall, no later than December 1 of the year prior to the implementation year, set forth the universal service providers and the implementation plans.
+
+Every universal service provider shall provide universal service in accordance with the implementation plan in the preceding paragraph in the implementation year. However, in case of unpredicted events such as a necessary change of plan, the universal service provider shall apply for change of implementation plan with the competent authority (NCC) and carry out the change after approval.
+
+In the case where the implementation plan of the provider of the Voice-based Telecommunications Universal Service stated in paragraph 1 includes provision of the facilities for Telecommunications Universal Service on Data Transmission, the service provider shall provide Telecommunications Universal Service on Data Transmission in uneconomic areas in accordance with functions of the facilities; and shall not apply for extra subsidy of Telecommunications Universal Service on Data Transmission in uneconomic areas based on the facilities.
+
+### Article 19
+
+Universal service providers shall not reject any service applications in the areas in which they serve without justifiable reasons; apart from the approved fees and charges, the providers shall not charge the subscribers extra fees.
+
+### Article 20
+
+Universal service providers shall submit universal service subsidy applications and the related information to the competent authority (NCC) for subsidies of the implementation year no later than May 1 of the year following the implementation year.
+
+Universal service subsidy applications of Voice-based Telecommunications Universal Service and Telecommunications Universal Service on Data Transmission shall contain the following information:
+
+\1. Statistics of the universal service implementation results (including the effectiveness of the improvements in terms of universal service penetration and the service quality, in addition, the effects on society shall be analyzed).
+
+\2. Net costs of various universal service categories and the requested amount of subsidy.
+
+\3. Detailed calculations of the net universal service costs for each implementation year audited by certified accountants.
+
+\4. The universal service provider who has set up a mobile communication network shall apply for a new transmission station for the establishment of a telecommunications universal service, and certification of approval should be attached.
+
+Subsidy application of the Telecommunications Universal Service on Data Transmission in local schools and the public libraries shall contain the following information:
+
+\1. Statistics of the universal service implementation results (including the accessible circuit statistics, service quality and tariffs of Telecommunications Universal Service on Data Transmission as provided to schools and the public libraries).
+
+\2. The universal service subsidy requests of the universal implementation year audited by certified accountants.
+
+Universal service providers, when calculating the penetration of Voice-based Telecommunications Universal Service and Telecommunications Universal Service on Data Transmission in all regions, shall be based on the proportion of total households in the area with telephone service to the total number of households in the area.
+
+The subsidies as requested in Subparagraph 2, Paragraph 2 and Subparagraph 2, Paragraph 3 shall include the three months’ interest as calculated from the one-year fixed deposit interest rate as announced by the Bank of Taiwan on the day of application.
+
+The subsidies, after deduction of the above interest, in Subparagraph 2, Paragraph 2 of Voice-based Telecommunications Universal Service and Telecommunications Universal Service on Data Transmission as calculated by the universal service providers cannot exceed 105% of the predicted subsidy amounts in the approved implementation plans of the service providers.
+
+### Article 21
+
+Universal service providers shall regulate a procedure manual for accounting purposes, and apply for approval before its implementation. Approval is also required for any revisions of the procedure manual. Except those only providing discounts of Internet access offered to local schools and public libraries.
+
+If deemed necessary, the administrative authority may order the universal service provider to revise the procedure manual.
+
+If there are any significant changes in organization, business and operation of the universal service provider that lead to the revision of the procedure manual, the universal service provider shall revise accordingly, and report to the administrative authority for reference after such revision.
+
+The procedure manual, in Paragraph 1, shall state and describe concrete methods and procedures for implementing Article 22.
+
+### Article 22
+
+When calculating the cost of universal service, a telecommunications universal service provider shall meet the following requirements:
+
+\1. Net Universal Service Costs shall be calculated based on the long-term incremental cost of the full service and avoidable costs.
+
+\2. The avoidable cost of universal service should be the cost incurred under efficient management.
+
+The long-term incremental cost of full service in Subparagraph 1 of the preceding paragraph refers to the increased cost in the long-term of providing a full set of services in addition to the existing services.
+
+The cost of efficient management in Subparagraph 2, Paragraph 1 refers to the cost calculated in accordance with the following conditions:
+
+\1. According to the current most cost-effective technology.
+
+\2. Calculate relevant costs in accordance with the prices of materials and equipment of current market.
+
+\3. Calculate the cost of capital based on the return on capital in the current market.
+
+\4. Calculate the investment amount based on the expected value of future demand, and the cost of eliminating excess investment.
+
+Information regarding cost submitted by universal service provider shall meet the following requirements:
+
+\1. Various cost data shall have a clear calculation process and a traceable origin.
+
+\2. The revenue, cost, net cost or data of benefits of other telecommunication services of a single local exchange office in the city network for telephone services in uneconomic areas shall be summarized and reported.
+
+\3. Shared costs shall be excluded from Net Universal Service Costs.
+
+\4. A cost analysis model shall be submitted, explaining reasonable separation of shared costs and combined into universal service costs.
+
+### Article 23
+
+Applications accepted and processed by the competent authority (NCC) for universal service subsidies shall be published, and applications shall be assessed and have the results published no later than August 15 of the same year.
+
+Publications of the applications in the preceding paragraph shall not include the detailed calculations of the net universal service cost in Subparagraph 3, Paragraph 2 of Article 20.
+
+The competent authority (NCC) may request universal service providers and the certified accountants to submit supplementary information and explanations for the universal service subsidy applications assessment process.
+
+### Article 24
+
+Telecommunications enterprises shall contribute to universal service costs. However, the telecommunications enterprises shall be exempted from sharing the universal service cost in the implementation year if the revenue as designated by the competent authority is not achieved.
+
+The contributing telecommunications enterprises in the preceding paragraph shall be the Participating Universal Service Carriers, they must report annual telecommunication service revenue figures, which are audited by certified accountants, to the competent authority by June 1 of the year after the implementation year, together with the relevant accounting certification information.
+
+The competent authority may request participating universal service carriers and the certified accountants to submit supplementary information and explanations for the assessment of the telecommunication service revenue figures in the preceding Paragraph.
+
+The telecommunication service revenue figures of the Participating Universal Service Carriers, their telecommunications service revenue reported on corporate annual income tax forms in the implementation year; the revenue forgone of the various universal service categories may be deducted.
+
+### Article 25
+
+The participating universal service carriers shall share the amount of the universal service costs; the competent authority shall multiply their proportion of the telecommunication service revenue in the implementation year of the participating universal service carriers’ total telecommunication service revenue as referred to in these Regulations with the universal service cost.
+
+The proportion and amount that shall be contributed by the Participating Universal Service Carriers in the preceding paragraph shall be announced by the competent authority.
+
+### Article 26
+
+The participating universal service carriers shall deposit their universal service payments into a designated telecommunications universal service fund account within one month after publishing of the contributing proportions and amounts; contributing parties that cannot deposit their total (or at least partial) share of the contributions shall be subject to the provisions contained in Article 75 of these Regulations, as well as penalty interests to the tune of the one-year fixed deposit rate as announced by the Bank of Taiwan on the last day of the one month period.
+
+Participating Universal Service Carriers that fail to deposit their total (or at least partial) share of the contributions within three months starting from the due date shall have their deficits considered as bad debts.
+
+### Article 27
+
+Participating Universal Service Carriers shall, in addition to sharing the universal service costs in accordance with preceding two Articles of these Regulations, contribute towards the reserve fund for bad debts:
+
+\1. Bad debts incurred in the first implementation year in accordance with these Regulations shall be considered part of the universal service charges for the second implementation year, and shall be shared amongst Participating Universal Service Carriers in accordance with the methods set forth in Article 25.
+
+\2. From the second implementation year onwards, a certain proportion in relation to the contributing universal service charges shall be paid annually.
+
+The "certain proportion” in the preceding paragraph shall be set in accordance with the following criteria as well as the adjustment by the competent authority (NCC) according to the experience of collecting bad debts:
+
+\1. If the proportion of bad debts of the first implementation year exceeds 1%, the "certain proportion" shall be the proportion of bad debts.
+
+\2. If the proportion of bad debts of the first implementation year is less than 1%, the "certain proportion" shall be 1%.
+
+The "proportion of bad debts” in the preceding paragraph shall be the proportion of bad debts incurred in an implementation year in relation to the total universal service costs in that year.
+
+### Article 28
+
+Payments to the bad debts reserve fund as regulated in the previous article shall be suspended in the subsequent year if the accumulated sums exceed its upper limit. Payments shall be resumed in the subsequent year if the bad debts reserve fund after payment suspension falls to the lower limit.
+
+The upper limit in the preceding paragraph shall be 5% of the total universal service charges in the first implementation year, and the lower limit shall be 2% of the total universal service charges in the first implementation year. These limits may be adjusted by the competent authority (NCC) depending on current circumstances.
+
+If the bad debts reserve fund runs out in any implementation year, any deficits shall be considered universal service costs in the subsequent year, and shared amongst Participating Universal Service Carriers in accordance with the methods set forth in Article 25.
+
+### Article 29
+
+The Telecommunications Universal Service Fund may only be used to pay for universal service costs, and may not be withdrawn for other purposes.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 30
+
+(Deleted)
+
+### Article 31
+
+(Deleted)
+
+### Article 32
+
+(Deleted)
+
+### Article 33
+
+These Regulations take effect from July 1, 2020.
+
+The amendments to these Regulations shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1：Avoidable cost formula for telephone or data communication access service in uneconomic areas.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006330)
+- [Appendix 2：Formula for the calculation of avoidable costs for uneconomic public payphone service.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009065)
+
+## History
+
+1.33 Articles promulgated in full by National Communications Commission（NCC）on July6,2020. Ref：Tung-Chuan-Ping-Tai Tze No. 10941019640.
+
+2.The amended Article 17 and Article 33 were amended and promulgated by Ministry of Digital Affairs（moda） Order No. 11150001623.
+
+3.The amended Articles 4, 6, 9, 13, 16, 24, and 25, and Annex 2 of Article 10 were amended and promulgated by Ministry of Digital Affairs（moda）Order No. 1135002751 on December 30, 2024. Articles 30 to 32 were deleted.

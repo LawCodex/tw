@@ -1,0 +1,208 @@
+---
+title: "Regulations for Management of Water Efficiency Label"
+title_zh: "省水標章管理辦法"
+identifier: "J0110104"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞水利目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-06-07
+last_amended: 2025-12-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0110104"
+retrieved: 2026-10-12
+---
+
+# Regulations for Management of Water Efficiency Label
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0110104-regulations-for-management-of-water-efficiency-label.md](../../../zh/regulations/ministry-of-economic-affairs/J0110104-regulations-for-management-of-water-efficiency-label.md)) is authoritative.
+
+## Article 1
+
+These regulations are formulated in accordance with the provisions of Paragraph 2 of Article 95-1 of the Water Supply Act (hereinafter referred to as this Act for short).
+
+## Article 2
+
+The term "water efficiency label" as mentioned in the first paragraph of Article 95-1 of this Act means the pattern used by the central competent authority to mark the product conforming to the water consumption standard or the water saving quantity ratio.
+
+Water efficiency label design and the use provisions are as the attached figures.
+
+## Article 3
+
+Legal persons, organizations, individuals who produce or sell accessories for water use equipment, sanitary equipment or other equipment shall apply to the central competent authority for the issuance of licenses for the use of water efficiency label.
+
+Please refer to Annex: product item and specifications standard of the Water Efficiency Labeling for the sanitary equipment or other equipment referred to in the preceding paragraph.
+
+Applicants who are the product sales agents should attach the document to prove that the product manufacturer has authorized them to apply for water efficiency label.
+
+After applicants in the first paragraph obtain the license to use the water efficiency label, they are the users.
+
+## Article 4
+
+An applicant who is an individual shall be at least 18 years of age and shall have the nationality of the Republic of China. For legal persons, they shall be corporate juridical persons or other legal persons established by law. For a group, it shall be a professional body or social group established according to the Civil Organizations Act.
+
+## Article 5
+
+To apply for the issuance of water efficiency label, the applicant shall fill in the application form and submit each of the following application documents in duplicate. After paying the review fee, apply to the central competent authority:
+
+\1. The applicant and the product information table.
+
+\2. The applicant qualification proof documents.
+
+\3. The test report of the product specification s project in the annex within three years before the application date.
+
+\4. The payment receipt of the review fee.
+
+\5. Other documents that are relevant or designated by the central competent authority.
+
+It is acceptable to use photocopies for the application documents of the preceding paragraph and they shall be noted that these photocopies are the same as the original version.
+
+For a natural per son, the applicant certificate of qualifications in subparagraph 2, paragraph 1 is a national identity card issued by the Ministry of the Interior or a passport issued by the Ministry of Foreign Affairs; for a legal person, or group, it is the proof documents registered according to the law.
+
+The test report of subparagraph 3, paragraph 1 shall be handled in accordance with the following provisions:
+
+\1. If domestically there is no test unit that is certified and verified to be able to practice that test item for the annex products by the Taiwan Accreditation Foundation (TAF), the test item can be drawn up by the certification institution noticed by the central competent authority.
+
+\2. When selling the product, or selling the product as agent for which other users have obtained a water efficiency label use license, the two parties swear an affidavit on the product, the applicant can take the test report on the product that has obtained the water efficiency label use license for each test. But if the central competent authority considers there is doubt, it shall be re-examined.
+
+\3. For a series of product models in line with the accessory product specifications, after swearing an affidavit that the products are for the series of products and their models, applicants may attach a water efficiency label use license for a series of products and all or part of the test report for obtaining the water efficiency label according to the accessory regulations in the original validity period. But if the central competent authority considers that there is doubt, it shall be re-examined.
+
+\4. For products outside the previous three paragraphs, the test items should be tested by the test unit that is verified by the Taiwan Accreditation Foundation (TAF).
+
+## Article 6
+
+If any of the following circumstances arises, the central competent authority shall not accept the application and shall return one half of the review fee:
+
+\1. The applicant does not match the qualifications.
+
+\2. The application documents are not complete. After the applicant is noticed for correction, it is overdue and correction is not done or correction is not complete within the time limit.
+
+For subparagraph 2 of the preceding paragraph, the central competent authority shall list matters or documents to be corrected by items, notifying the applicant to correct within one month.
+
+## Article 7
+
+To When accepting the application, the central competent authority shall complete the review within one month from the date of receipt of the application. If necessary, it may be extended once, but not more than one month, and the applicant shall be notified.
+
+During the preceding period under review, if the applicant is notified for the correction according to the subparagraph 2, paragraph 1 of the preceding article, it is counted from the next day following the date of correction. If the correction is not made or the correction is not complete in the time limit, it is counted from the next day following the expiry date of the correction.
+
+## Article 8
+
+The examination of the preceding article shall be made by the central competent authority in writing and, if necessary, on-site inspection or sampling inspection on the product may be done.
+
+## Article 9
+
+If the examination of the water efficiency label use license application results in one of the following situations, it shall be rejected and the paid review fee shall not be returned:
+
+\1. The product does not meet the criteria listed in the Annex.
+
+\2. The application documents are false, forged, altered or incomplete.
+
+Before rejecting an application in accordance with the preceding paragraph, the applicants shall be notified in writing of the reasons for refusal, and to express their views before deadline.
+
+## Article 10
+
+When the water efficiency label use license application is examined as complying with the provisions of the regulations, the central competent authority shall issue licenses for the use of the water efficiency label.
+
+For the product specifications of an annex that have a classified grading, the gold grade or the general grade of the water efficiency label use license shall be issued accordingly. In case of no grading, the general grade of the water efficiency label use license shall be issued.
+
+Where one identical user re-applies for the water efficiency label use license for the same model number of the same product item, the original water efficiency label use license shall become invalid starting from the effective date of the license.
+
+## Article 11
+
+The water efficiency label use license shall be recorded separately with the user, address, product item and model number, license number and effective date of commencement and expiry.
+
+The central competent authority shall, in accordance with the way provided in Article 8 of the Freedom of Government Information Law, externally disclose the contents of the use license for the water efficiency label in the preceding paragraph.
+
+## Article 12
+
+The valid period for the water efficiency label use license shall be three years from the date of license approval.
+
+## Article 13
+
+The license for the use of the water efficiency label shall expire at the expiry of the time limit. After the expiry of the time limit, those who still need to continue to use it shall apply for an extension within one month from the first three months of the expiry. If it expires, the application shall be remade.
+
+Regarding the application for an extension of the preceding paragraph, besides the relevant documents in duplicate provided in Subparagraph 5, Paragraph 1, Article 5, if the documents to be submitted are the same as those for the original application case, the documents may be exempted, and after the users submit the application forms and pay the review fees, they shall be handled according to the provisions of Article 5 to Article 10. However, when the product test report within six years before the expiry date for the original water efficiency label use license time limit complies with the current regulations, it may replace the product test report within three years before the application date as provided in Subparagraph 3, Paragraph 1, Article 5.
+
+Where a user has no need to continue to use the license before the expiry of the time limit of the license, he or she may apply for the cancellation of the license with the central competent authority.
+
+## Article 14
+
+If the user or address specified on the water efficiency label use license is changed, the user shall submit the application form and the relevant supporting documents within ninety days from the date of occurrence of the event. After paying the change fee, the applicant shall apply to the central competent authority for the change of water efficiency label use license.
+
+## Article 15
+
+The user shall count the number of water efficiency labels used from January to June and July to December each year, and the statistical data shall be sent to the central competent authority for future reference on July 31 and January 31 of each year respectively.
+
+## Article 16
+
+The central competent authority may carry out sample checks or product inspection on the product using the water efficiency label by the user from time to time in the place of the business or the factory of the production; the result shall be made into a report and delivered to the user.
+
+If there is any inconsistency between the water efficiency label products in the random inspection or product inspection mentioned in the preceding paragraph and the original application documents, the user shall provide the explanation within one month; and the improvements shall be made within six months, and the central competent authority shall be notified for re-examination.
+
+The expense s of the foregoing review shall be borne by the user.
+
+## Article 17
+
+If the user has one of the following circumstances, the water efficiency label use license shall be revoked:
+
+\1. By fraud, coercion, or bribery, make the central competent authority issue a water efficiency label use license.
+
+\2. By providing forgery, alteration of information or false, incomplete statements, make the central competent authority issue a water efficiency label use license in accordance with the information or statements.
+
+## Article 18
+
+If the user has one of the following circumstances, the water efficiency label use license shall be abolished:
+
+\1. In case of the failure to correctly use the water efficiency label in line with the provisions of the attached figure, the central competent authority has informed that the user has to improve within the time limit; it is overdue and has not been improved.
+
+\2. In case where the user specified on the water efficiency label use license is changed, but such change fails to be handled according to the provision s of Article 14.
+
+\3. In case where the address specified on the water efficiency label use license is changed, but such change fails to be handled according to the provision s of Article 14 and no correction is made within the time limit informed by the central competent authority.
+
+\4. In case of the failure to deliver the quantitative statistics data for using the water efficiency label by products in accordance with the provisions of Article 15 within the time limit, or if they gather false statistics on the number of use, the central competent authority has notified them and it is not improved within the time limit.
+
+\5. The user avoids, hinders or refuses the implementation of spot checks or product inspection of the paragraph 1, Article 16.
+
+\6. Failure to provide explanation according to the provisions in the former section of Paragraph 2 of Article 16, or after providing the explanation, it is still impossible to confirm the consistency with the original application documents.
+
+7.Failure to make improvement according to the provisions in the latter section of Paragraph 2 of Article 16, or after improvement, it is still found not in compliance with the provisions upon re-check.
+
+## Article 19
+
+With the abolition or revocation of the water efficiency label use license, the user shall immediately cease the use of the water efficiency label and the central competent authority shall notice it.
+
+## Article 20
+
+The account in the application form and its format in Paragraph 1 of Article 5, Paragraph 2 of Article 13, and Article 14 and the statistical format of Article 15 shall be prescribed by the central competent authority.
+
+## Article 21
+
+(Deleted)
+
+## Article 21-1
+
+When the person who already received the water efficiency label use license before January 1, 2024 applies for an extension of the water efficiency label use license in accordance with Paragraph 1 of Article 13, the person may still attach the electromagnetic compatibility test report that was attached to the original license, free from the restrictions referred to in the Annex of the Regulations amended on July 7, 2023 requiring that the products which have any electronically controlled device should satisfy the quality requirement about CNS13783-1 and CNS13783-2 electromagnetic compatibility.
+
+## Article 22
+
+Except the provision herein requiring that the products which have any electronically controlled device referred to in the Annex of the Regulations amended and promulgated on July 7, 2023 shall comply with CNS13783-1, and CNS13783-2 electromagnetic compatibility shall be enforced as of January 1, 2024, the Regulations shall be enforced as of the date of promulgation.
+
+Note: In case of any dispute, the Chinese version shall prevail.
+
+## Attachments
+
+- [Figure：the water efficiency labeling signs.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009727)
+- [Annex I：product item and specification standard of the Water Efficiency Labeling.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009728)
+
+## History
+
+1.A Total of 22 articles were promulgated on June 7, 2017 by the ordinance of the Ministry of Economic Affairs Ref. No. Ching-Shui-Tzu 10604602300
+
+2.Amendment to Articles 10, 13, 14, 18 & Annex on May 20, 2020 by the ordinance of the Ministry of Economic Affairs No. Ching-Shui-Tzu 10904602220
+
+3.Amendment to Articles 3, 4, 16, 18, 22 and Annex of Article 3, addition of Article 21-1 and deletion of Article 21 by order of the Ministry of Economic Affairs Jing-Shui-Zi No. 11260201830 on July 7, 2023; except the Annex of Article 3 with respect to the Electronic Control Unit, which shall satisfy the electromagnetic compatibility quality requirements under CNS13783-1 and CNS13783-2 and be enforced as of January 1, 2024, said provisions shall be enforced as of the date of promulgation.
+
+4.Amendment to Articles 21-1, 22 & & Annexes of Articles 3, 5, 9, 10, 16, 21-1, 22 on Dec 24, 2025 by the ordinance of the Ministry of Economic Affairs No. Ching-Shui-Tzu 11460202600; the amended provisions shall become effective as of the date of promulgation.

@@ -1,0 +1,195 @@
+---
+title: "Regulations for Tuna Longline Fishing Vessels Operating in the Maritime Area Subject to the Fisheries Agreement between Taiwan and Japan"
+title_zh: "鮪延繩釣漁船赴台日漁業協議適用海域作業管理辦法"
+identifier: "M0050048"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-03-05
+last_amended: 2025-04-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050048"
+retrieved: 2026-10-12
+---
+
+# Regulations for Tuna Longline Fishing Vessels Operating in the Maritime Area Subject to the Fisheries Agreement between Taiwan and Japan
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050048-regulations-for-tuna-longline-fishing-vessels-operating-in-the-maritime-area.md](../../../zh/regulations/ministry-of-agriculture/M0050048-regulations-for-tuna-longline-fishing-vessels-operating-in-the-maritime-area.md)) is authoritative.
+
+## Article 1
+
+These Regulations are hereby established pursuant to Article 37, subparagraph (3) and Article 54, subparagraph (5) of the Fisheries Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The maritime area subject to the Fisheries Agreement between Taiwan and Japan (hereinafter referred to as “Taiwan-Japan Area”) as referred to in these Regulations is shown in the attached figure, which comprises waters where the other party’s laws are not applicable and a special cooperation zone.
+
+## Article 3
+
+Any tuna longline fishing vessel shall not operate in the Taiwan-Japan Area without a permit.
+
+## Article 4
+
+Any tuna longline fishing vessel that intends to operate in the Taiwan-Japan Area shall install an automatic location communicator.
+
+## Article 5
+
+Before the deadline set by the central competent authority, any fishery operator who intends to apply for a permit to operate in the Taiwan-Japan Area shall annually complete and submit an application form, together with the following documents, to the Suao Fishermen’s Association, which shall compile and produce a list of applications for forwarding to the central competent authority:
+
+A copy of valid fishing license for specified ishery.
+
+A certificate issued by the Overseas Fisheries Development Council of the Republic of China verifying that the automatic location communicator installed on board the vessel has been tested and proven to be capable of automatically reporting its positions hourly.
+
+A document proving that the regional fishermen association to which the fishery operator belongs consents to provide assistance in handling marine accidents such as collision.
+
+## Article 6
+
+For any application made in accordance with Article 5 and has been approved by the central competent authority, a permit to operate in the Taiwan-Japan Area will be issued. The validity period of the permit shall be up to one year, but shall not exceed the expiry date of the fishing license.
+
+For the purpose of managing fisheries resources or maintaining the order of fishing operations in the Taiwan-Japan Area, the central competent authority may promulgate restrictions on the number or catch amount of tuna longline fishing vessels operating in the Taiwan-Japan Area and publish such restrictions on the Government Gazette.
+
+## Article 7
+
+No permit to operate in the Taiwan-Japan Area shall be issued in the event that a tuna longline fishing vessel is involved in any of the following:
+
+The required documents for an application are incomplete, or where supplementation of documents is required, the concerned applicant fails to supplement within the required timeframe after being notified, or still fails to comply with the relevant requirements after the supplementation.
+
+Any of the circumstances set out in Article 7-1, subparagraph (4) to (6) of the Act. However, it is exempted in the event that the payment of fine imposed pursuant to the Act or the Act for Distant Water Fisheries is permitted to be made by installment and the payment is made on time.
+
+A dispute with a Japanese fishing vessel in the Taiwan-Japan Area has not been resolved properly.
+
+A fishing vessel owned by a fishery operator is involved in any one of the circumstances as referred to in the preceding two subparagraphs.
+
+## Article 8
+
+A permit to operate in the Taiwan-Japan Area shall expire upon expiry of its validity period. Where a fishery operator intends to continue fishing operations in the Taiwan-Japan Area, he or she shall make an application in accordance with Article 5.
+
+## Article 9
+
+Any tuna longline fishing vessel with a permit to operate in the Taiwan-Japan Area shall maintain a functional automatic location communicator year-round, even when it is in port.
+
+A tuna longline fishing vessel may leave a port only after it has checked with the Fisheries Monitoring Center of the Fisheries Agency, Ministry of Agriculture (hereinafter referred to as “FMC”) and confirmed that the automatic location communicator installed on board is switched on and functional.
+
+After a tuna longline fishing vessel as referred to in the preceding paragraph leaves a port, the automatic location communicator installed on board shall automatically report vessel position(s) hourly.
+
+Where a tuna longline fishing vessel fails to report its position(s) normally, the central competent authority may order the fishing vessel to return to a port for repair within a specified timeframe, during which the vessel shall use the telecommunication equipment on board to report its position(s) every four hours to the FMC. After returning to the port, the vessel shall not leave the port unless the automatic location communicator installed on board is repaired.
+
+Where there is a need to switch off the automatic location communicator installed on board after port entry, the tuna longline fishing vessel may do so only after its fishery operator applies for and obtains permission from the central competent authority.
+
+The cost of communications of the automatic location communicator installed on board any tuna longline fishing vessel shall be borne by its fishery operator and may be subsidized by the competent authority depending on the financial situation of the government.
+
+## Article 10
+
+Any tuna longline fishing vessel with a permit to operate in the Taiwan-Japan Area shall be restricted to land its catch in the Nanfangao fishing port in Ilan County, and shall not land in any other port unless otherwise permitted on a case-by-case basis.
+
+## Article 11
+
+Any tuna longline fishing vessel operating in the Taiwan-Japan Area shall comply with the following provisions:
+
+It shall not discard any fishing gear, such as longline(s), or pick up any fishing gear of other fishing vessel(s).
+
+It shall not sever lines entangled with the lines of other fishing vessel(s) unless they can be disentangled only by severing. The longline fishing vessel which has severed the entangled lines shall be responsible for repairing the longline gears.
+
+Its captain shall immediately notify the fishery radio station of the Suao Fishermen’s Association, in case of a dispute with a Japanese fishing vessel.
+
+## Article 12
+
+During the period from 1 April to 31 July every year, any longline fishing vessel operating in the water demarcated with straight lines connected among point D, E, and F in the attached figure shall comply with the following rules:
+
+For the water demarcated with straight lines connected among point D, M, and N, as well as the water demarcated with straight lines connected among point E, F, P and south of 250 15' N in the attached figure, any fishing vessel shall set longline(s) in the south-north direction, and the distance between vessels shall be at least four nautical miles.
+
+For the water demarcated with straight lines connected among point N, M, E, and P in the attached figure:
+
+The time to start a setting shall, in principle, be at 00:00 midnight Taiwan time and 12:00 noon Taiwan time, and hauling operations shall be completed as soon as possible.
+
+Direction of a setting and distance between sets: any longline fishing vessel shall set longline(s) in the east-west direction. For a fishing vessel operating east of 1230 30' E, the direction of a setting shall be from the west to the east, and the setting shall not exceed 124°E. For a fishing vessel operating west of 1230 30' E, the direction of a setting shall be from the east to the west, and the setting shall not exceed 123°E. The distance between sets shall reach at least 1 nautical mile in the south-north direction.
+
+Longliner gears shall not drift outside 124°3' E.
+
+## Article 13
+
+During the period from 1 May to 31 July every year, any tuna longline fishing vessel operating in the special cooperation zone shall comply with the following provisions:
+
+In the waters south of 260N:
+
+Time of setting and hauling: any longline fishing vessel that sets longline(s) after 00:00 (inclusive) midnight of Taiwan time shall complete hauling before 12:00 noon of Taiwan time. Any longline fishing vessel that sets longline(s) after 12:00 (inclusive) noon of Taiwan time shall complete hauling before 00:00 midnight of Taiwan time.
+
+Cardinal point of setting: the cardinal point of setting shall be located at one or half degree of longitude and one minute of latitude.
+
+Fishing notification: when a longline fishing vessel arrives at its intended fishing location, it shall use the common channel (9222 kilohertz) to notify nearby fishing vessel(s). In the event that there is already another vessel waiting to start fishing at the same location, the vessel of later arrival shall search for other fishing locations.
+
+Direction of setting: all longline fishing vessels shall set their longlines in the east-west direction.
+
+Distance between sets: the distance between sets shall not exceed 30 nautical miles in the east-west direction and shall reach at least 1 nautical mile in the south-north direction.
+
+In the waters north of 260N:
+
+For the setting direction that is westward from the start point, the time for start setting shall be between 4:00 a.m. and 5:00 a.m. of Taiwan time. For the setting direction that is from west to east, the time for start setting shall be after 19:00 p.m. of Taiwan time, and the hauling shall be completed by 08:00 a.m. of next day. The range of longlines that are set from west to east can be set till 125040' E. After the completion of hauling, any longline fishing vessel shall not disturb fishing operation of other fishing vessel(s).
+
+Distance between vessels shall be at least 4 nautical miles.
+
+Setting shall be limited to once per day.
+
+After completion of hauling, the longline fishing vessel shall return to the start point of its previous set before the start time of next set.
+
+A longline fishing vessel may start fishing only after it has confirmed with Japanese fishing vessel(s) operating in its vicinity that fishing can be conducted.
+
+## Article 13-1
+
+For a fishing vessel whose longline gear(s) drifts outside 124°3' E from 1 April to 31 July of the same year, in violation of Article 12, subparagraph (2), item iii, the following rules apply:
+
+For the second violation committed in the same year, the concerned permit to operate in the Taiwan-Japan Area demarcated with straight lines connected among point D, E, and F in the attached figure shall be revoked. The concerned fishery operator may only re-apply to the central competent authority for a permit to operate in that area 30 days after such revocation.
+
+For the third and subsequent violations committed in the same year: the fishing license of the concerned fishery operator and the certificate of fishing vessel officer or the fishing vessel crew identification of the concerned fishery employee(s) shall be suspended for a period of not more than one year, pursuant to Article 10 of the Act. Where the violation is considered serious, the fishing license of the fishery operator and the certificate of fishing vessel officer or the fishing vessel crew identification of the fishery employee(s) may be withdrawn.
+
+## Article 14
+
+In the event of any of the following circumstances, pursuant to Article 10 of the Act, the fishing license of the concerned fishery operator and the certificate of fishing vessel officer or the fishing vessel crew identification of the concerned fishery employee(s) shall be suspended for a period of not more than one year; where the violation is considered serious, the fishing license of fishery operator and the certificate of fishing vessel officer or the fishing vessel crew identification of the fishery employee(s) may be withdrawn:
+
+Fishing in the Taiwan-Japan Area without a permit, in violation of Article 3.
+
+Violating any restriction on catch amount as promulgated pursuant to Article 6, paragraph 2.
+
+Failing to maintain the automatic location communicator functional year-round, in violation of Article 9, paragraph 1.
+
+Failing to have the automatic location communicator installed on board confirmed functional before port departure, and failing to report vessel position(s), in violation of Article 9, paragraph 2.
+
+Failing to return to a port within the specified timeframe, or leaving a port without having the automatic location communicator repaired, in violation of Article 9, paragraph 4.
+
+Switching off the automatic location communicator installed on board without applying for permission, in violation of Article 9, paragraph 5.
+
+Landing in any port other than the designated ports, in violation of Article 10.
+
+Violating any provision on fishing operations in the Taiwan-Japan Area as stipulated in Article 11; Article 12, subparagraph (1); Article 12, subparagraph (2), item i and ii; or Article 13.
+
+## Article 15
+
+In the event that, after port departure, a vessel fails to report its position hourly in accordance with Article 9, paragraph 3, a fine between 30 thousand New Taiwan dollars and 150 thousand New Taiwan dollars shall be imposed on the concerned fishery operator or fishery employee(s) pursuant to Article 65, paragraph 8 of the Act.
+
+## Article 16
+
+These Regulations shall enter into force on the date of promulgation.
+
+## Attachments
+
+- [Appendix.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007535)
+
+## History
+
+1.The full text established and promulgated on 5 March 2014 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1031332616.
+
+2.Article 20 amended on 5 May 2014 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1031333908A.
+
+3.Article 14, 15, 18, 20, and Attached Figure of Article 2 amended on 30 March 2014 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 10413335174A.
+
+4.Article 14 and 18 amended on 18 April 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1071333786.
+
+5.Article 9 and 14 amended on 10 June 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1081334959.
+
+6.The full text amended with the title revised as “Regulations for Tuna Longline Fishing Vessels Operating in the Maritime Area Subject to the Fisheries Agreement between Taiwan and Japan” on 18 August 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1111335211.
+
+7.Part of these Regulations amended and promulgated on 16 April 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1141533271.

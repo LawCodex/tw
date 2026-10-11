@@ -1,0 +1,573 @@
+---
+title: "Regulations for Administration of Tourist Hotel Enterprises"
+title_zh: "觀光旅館業管理規則"
+identifier: "K0110006"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1977-07-02
+last_amended: 2025-01-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110006"
+retrieved: 2026-10-12
+---
+
+# Regulations for Administration of Tourist Hotel Enterprises
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0110006-regulations-for-administration-of-tourist-hotel-enterprises.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0110006-regulations-for-administration-of-tourist-hotel-enterprises.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are enacted in accordance with Paragraph 2 of Article 66 of the Act for the Development of Tourism.
+
+### Article 2
+
+Tourist hotels are divided into international tourist hotels and standard tourist hotels. Their buildings and facilities shall comply with hotel building and facility regulations and standards.
+
+### Article 3
+
+The Ministry of Transportation and Communications (hereinafter referred to as the MOTC) may authorize the Tourism Administration of the MOTC to execute matters regarding establishment preparation, changes, transfers, inspections, counseling, awarding, punishment and supervision of tourist hotels; however, the MOTC may delegate municipality governments to be responsible for those of standard tourist hotels in municipalities.
+
+The MOTC shall authorize the Tourism Administration to be in charge of issuance of tourist hotel licenses and official tourist hotel labels.
+
+The authorization and delegation and corresponding legal bases shall be publicly announced and as well as posted in government gazettes.
+
+### Article 4
+
+Hotels established without filing applications for approval according to these regulations may not adopt the name of international tourist hotel or standard tourist hotel or use the official tourist hotel labels.
+
+The official tourist hotel labels for international tourist hotels and standard tourist hotels shall carry serial numbers to facilitate control. The formats are as shown in the attachment.
+
+## Chapter II Hotel Establishment Preparation, Licensing and Changes
+
+### Article 5
+
+Parties intending to set up tourist hotels shall submit the following documents to apply to the MOTC for approval to start preparation:
+
+\1. Intended hotel locations not involving urban planning changes or not included in areas designated for urban land rezoning:
+
+(1) The Hotel Establishment Preparation Approval Application Form
+
+(2) The list of founders or directors and supervisors
+
+(3) The corporate charter
+
+(4) The business plan
+
+(5) The financial plan
+
+(6) The land registration transcript, land-use zoning certificate and land-use rights certificate issued within the three most recent months; for hotels to be using existing buildings, the building registration transcript and building use rights documents issued within the three most recent months shall also be required.
+
+(7) Hotel building blueprints
+
+(8) General hotel facility description
+
+\2. In the event that the intended hotel location involves urban planning changes or is not included in an area designated for urban land rezoning, the applicant shall draw up a business establishment plan and acquire the ratification of the competent authority before submitting the finalized business establishment plan and the documents specified in Items 1 to 6 and Item 8 to apply to the MOTC for approval to start preparation.
+
+The building projects specified in the business plan or the business establishment plan described in the preceding paragraph may be conducted in stages and in divided zones.
+
+After the plan for the establishment of the business has been approved, it shall be handled according to the following provisions:
+
+\1. Effective January 3, 2025, changes to the development schedule of the business plan shall be limited to two times.
+
+\2. If the business is not built in accordance with the approved business plan or the business license of the tourist hotel business has not been obtained after the scheduled opening date of the business and the competent authority has ordered the business to submit an application for changes to the business plan within one year, and the business has failed to submit an application for changes within the time limit, or if the competent authority has requested that the application be supplemented or corrected within six months but the business has failed to supplement or correct, or if the application is rejected by the competent authority, the final version of the business plan shall lose its validity.
+
+### Article 6
+
+After accepting a hotel establishment preparation approval application, the MOTC shall conclude the reviewing within 60 days and notify the applicant and concerned agencies of the decision. However, under special circumstances, the reviewing period may be extended for up to 50 days and the applicant shall be notified.
+
+If further information is required, the applicant shall be notified to provide such information within a given period which shall not be included as part of the reviewing timeline specified in the preceding paragraph. If the applicant fails to provide further information or the further information provided is incomplete, the application shall be rejected.
+
+Before the period given for provision of further information expires, the applicant may provide justifiable reasons and apply for extension of the period or withdraw the application. If the applicant does not apply for extension or withdraw the application or the reasons provided are not justifiable, the MOTC shall reject the application.
+
+### Article 7
+
+Parties approved to start hotel establishment preparation shall take the due procedure to apply for company registration and submit the following documents to the MOTC for reference:
+
+\1. A photocopy of the company registration
+
+\2. The list of directors and supervisors
+
+Changes made to information registered in the documents specified in the preceding paragraph shall be submitted to the MOTC within 15 days after they are ratified by the competent authority.
+
+### Article 8
+
+The name of a tourist hotel in Chinese or in a foreign languages may not be identical or similar to that of any already registered tourist hotel unless the tourist hotel has joined an international or domestic hotel chain and registered the chain membership in accordance with Article 36 of these Regulations.
+
+### Article 9
+
+Parties approved to start hotel establishment preparation shall complete the following undertakings within the given periods:
+
+\1. Act according to related regulations in the Building Act and apply to the local building authority for a tourist hotel building permit within two years after obtaining the approval for starting preparation and submit a photocopy of the building permit to the MOTC for reference within 15 days after receiving the building permit.
+
+\2. Apply to the local building authority for a tourist hotel building use permit within five years after obtaining the building permit as well as submit a copy of the building use permit to the MOTC for reference within 15 days after receiving the building use permit.
+
+\3. Apply to the local building authority for a tourist hotel building use permit within two years after acquiring the approval for starting preparation if a building use permit has already been issued for the building to be used for the tourist hotel and also submit a copy of the tourist hotel building use permit to the MOTC for reference within 15 days after receiving the permit.
+
+\4. Apply for permission to begin operation according to Article 12 of these Regulations within one year after acquiring the tourist hotel building use permit.
+
+The time limit specified in the preceding paragraph shall not apply in any of the following circumstances:
+
+\1. Before the expiration of the period specified in the preceding paragraph, the applicant has stated just causes and applied to the Ministry of Communications for an extension of time. Each extension period is six months with up to two extensions.
+
+\2. Due to natural disasters, epidemics, or other reasons, the Ministry of Communications may extend the time limit specified in the preceding paragraph as it is actually necessary.
+
+If it is not completed within the time limits specified in the preceding two paragraphs, the approval of its establishment shall lose its validity, and the Ministry of Communications shall notify relevant authorities.
+
+### Article 9-1
+
+A business operator who has been approved to apply for the operation of a tourist hotel and does not have a business plan to establish a business before the promulgation of the amendment on January 28, 2016, or a business that has obtained a construction license for the purpose of a tourist hotel issued by the local building authority in accordance with the relevant provisions of the Building Act within the time limit, or has obtained a license for the use of a building for a tourist hotel and has obtained a license from the local building authority to use the tourist hotel within the time limit, shall complete the following matters within the time limit from the date of the effective date of the amendment on January 3, 2025:
+
+\1. If the original construction license has become invalid, it shall re-apply to the local building authority for the issuance of a construction license for the purpose of a tourist hotel within two years of the effective date of the amendment in accordance with the relevant provisions of the Building Act, and report to the Ministry of Communications within 15 days of the date of obtaining the construction license for future reference. It shall then be handled in accordance with subparagraphs 2 and 4 of paragraph 1 of the preceding article.
+
+\2. If the original construction license is still valid, an application shall be made within five years of the effective date of the amendment to the local building authority for the issuance of a license for the use of a tourist hotel, and a report shall submitted to the Ministry of Communications for future reference within 15 days of the date of obtaining the license. It shall then be handled in accordance with item 1 and subitem 4 of the preceding article.
+
+\3. A person who has obtained a license for using a building for a tourist hotel and has obtained a license from the local building authority for the purpose of using a tourist hotel shall apply for operation in accordance with the provisions of Article 12 within one year of the effective date of the amendment.
+
+The provisions of Paragraphs 2 and 3 of the preceding Article shall apply to the cases described in the preceding paragraph.
+
+### Article 10
+
+A tourist hotel intending to make area changes during the preparation process shall apply to the MOTC for approval in advance. However, if the changes involve more than one fifth of the original area approved or such changes are considered entailing serious impacts on the preparation of the tourist hotel in question, the MOTC may revoke the preparation approval
+
+A tourist hotel intending to make building design changes before or during construction shall submit plans of design changes and related documents to apply to the MOTC for approval in advance and the changes shall be conducted according to related regulations in the Building Act.
+
+### Article 11
+
+The preparation approval of any tourist hotel dissolving the company or having its company registration revoked during the preparation process shall lose its validity.
+
+A tourist hotel intending to assign the hotel to another during the preparation process shall submit the following documents to apply to the MOTC for approval:
+
+\1. Ownership assignment application
+
+\2. Duplicates of related agreements
+
+\3. The assigner’s shareholders’ meeting minutes or letter of consent
+
+\4. The assignee’s business plan and financial plan
+
+If a tourist hotel takes part in a business merger during the preparation process, the surviving company or the new company shall submit the following documents to the MOTC for reference:
+
+\1. The shareholders’ meeting and board of directors meeting minutes indicating the resolution on the merger
+
+\2. Proof of company merger registration and a duplicate of the merger agreement
+
+\3. Proof of land and building ownership transfers
+
+\4. The business plan and financial plan of the surviving company or new company
+
+### Article 12
+
+A tourist hotel completing the preparation work shall submit the documents listed below for the MOTC to organize joint inspections with the police department, building authority, fire department and health authority. The tourist hotel may begin operation only after passing the inspections and obtaining a tourist hotel license and an official tourist hotel label,
+
+\1. The Tourist Hotel License Application
+
+\2. A photo copy of the building use permit and the as-built drawings
+
+\3. A photocopy of the company registration
+
+### Article 13
+
+A tourist hotel with more than three hundred rooms and meeting the requirements below may apply for inspections according to the preceding article. After passing the inspections, the hotel may be issued a tourist hotel license and an official tourist hotel label to begin operation early.
+
+\1. Having obtained the building use permits and the as-built drawings for all the facilities of the hotel
+
+\2. Having completed the furnishing of at least 60% of the guest rooms, no less than two 240 rooms, and all the floors to be used for the hotel
+
+\3. The floor areas of all the restaurants totaling no less than the number of guest rooms multiplied by 1.5 square meters and the furnishing of all the floors with restaurants completed
+
+\4. Having completed the lobby, elevators and restaurant kitchens
+
+\5. Having installed noticeable safety warning signs for hotel guests on floors or in areas where the furnishing is not yet completed
+
+A tourist hotel beginning operation early as described in the preceding paragraph shall complete all furnishing within one year as well as apply for and pass the inspections stated in the preceding article. However, with justifiable reason, a tourist hotel may apply to the MOTC for extension for up to one year.
+
+Tourist hotels constructed in stages or in divided zones may apply for inspections according to the preceding article after the construction of each stage of zone is concluded and all the facilities specified in the Tourist Hotel Construction and Facility Standards are completed. A tourist hotel complying with the requirements shall be issued a tourist hotel business license and an official tourist hotel label for the stage or zone to begin operation without being subject to the two preceding paragraphs.
+
+### Article 14
+
+The provisions regarding tourist hotel establishment preparation shall apply mutatis mutandis to addition, reconstruction and reparation of tourist hotel buildings, However, the list of founders or directors and supervisors shall not be required.
+
+### Article 15
+
+If a tourist hotel approved to be designed and constructed on the same base with buildings for other purposes intending to change the use of such other buildings as part of the hotel after beginning operation shall submit the following documents to apply to the MOTC for approval:
+
+\1. The business plan
+
+\2. The Financial plan
+
+\3. Photocopies or proof of use rights for the buildings to be incorporated as part of the hotel
+
+\4. Building design plans
+
+\5. Facility descriptions
+
+After the buildings to be incorporated as part of the hotel as described in the preceding paragraph are completed, the tourist hotel shall submit the photocopies of the permits for change of building use license for the buildings in concern and the as-built drawings to request the MOTC to organize joint inspections with the police department, building authority, fire department and health authority. The buildings shall pass the inspections before they may be used as part of the hotel.
+
+### Article 16
+
+A tourist hotel intending to change the uses of its lobby, guest rooms, restaurants, recreational facilities and stores shall apply to the MOTC for approval in advance.
+
+After approving an application described in the preceding paragraph, the MOTC shall notify related agencies to take necessary action in accordance with related regulations.
+
+### Article 17
+
+A tourist hotel changing its organization, name, address or representative shall submit the following documents to the MOTC to apply for registration of such changes and a new tourist hotel license within 15 days after such changes are approved by the competent authority.
+
+\1. The Tourist Hotel Change Registration Application
+
+\2. A photocopy of the company registration and the shareholders’ meeting minutes or letter of consent or the board of directors meeting minutes indicating agreement on such changes
+
+The preceding paragraph shall apply to tourist hotel name changes but the regulation on application to the competent authority of the hotel industry for registration of changes shall not apply.
+
+### Article 18
+
+The MOTC may perform tourist hotel ratings and issue tourist hotel rating labels in accordance with the results.
+
+The MOTC may delegate the Tourism Administration or private organizations to perform the tourist hotel ratings described in the preceding paragraph provided that the delegation, range of authority delegated and the corresponding legal bases are publicly announced and posted in government gazettes.
+
+When the MOTC delegates the Tourism Administration or private organizations to perform tourist hotel ratings as stated in Paragraph 1, the Tourism Administration shall define the rating standards in accordance with the building and facility quality, management condition and service quality of tourist hotels and also design the tourist hotel rating labels.
+
+Each tourist hotel shall place its rating label issued in accordance with Paragraph 1 at noticeable locations in the lobby.
+
+A tourist hotel unable to continue operation for practical reasons or legal consequences shall return its rating label within 15 days after the practical reasons occur or receiving the administrative disposition. If any tourist hotel enterprise fails to comply, the MOTC may publicly announce the revocation of the tourist hotel rating label or delegate the Tourism Administration to do so in accordance with Paragraph 2. However, tourist hotels in temporary business suspension according to Paragraph 1 of Article 34 are excluded.
+
+## Chapter III Tourist Hotel Management and Administration
+
+### Article 19
+
+Each tourist hotel shall register guest information each day and keep the record for half year.
+
+The acquisition, processing and use of guest information shall be conducted in accordance with related regulations in the Personal Information Protection Act.
+
+### Article 20
+
+Tourist hotels shall properly guard money, securities, jewels or other valuable objects entrusted by guests for safekeeping, issue receipts upon guests’ requests and provide compensate for any damage to or loss of entrusted objects according to law.
+
+### Article 21
+
+When discovering luggage or objects left behind by hotel guests, tourist hotels shall register the characteristics of the objects as well as the time and place of discovery, guard the objects properly, and notify the owners to reclaim such objects or send them to the owners if the tourist hotels know the owners and their addresses or report and turn the objects over to the local police authority if the owners are unknown,
+
+### Article 22
+
+Each tourist hotel shall take liability insurance for its operations.
+
+The coverage of such liability insurance and minimum insured value are as follows:
+
+\1. Bodily injury or death: NT$3 million per person
+
+\2. Bodily injury or death in each incident: NT$ 15 million
+
+\3. Property damage or loss in each incident: NT$ 2 million
+
+\4. Total insured value for the insured period: NT$ 34 million
+
+### Article 23
+
+Tourist hotels shall abide by the following in their management:
+
+\1. Tourist hotels may not act as sexual service agents for their guests, engage in conduct against social decency or defraud their guests.
+
+\2. Tourist hotels may not hire foreign entertainers without government permission to perform in their performance venues.
+
+\3. Tourist hotels with nightclubs may not employ or find professional or amateur dance partners or escorts for their guests.
+
+### Article 24
+
+Tourist hotels shall immediately take action or report to the local police department when discovering hotel guests in one of the following situations:
+
+\1. Suspected of engaging in activities likely to endanger national security
+
+\2. Carrying weapons, hazardous substances or other contrabands
+
+\3. Using illegal drugs or other narcotics
+
+\4. Attempting to commit suicide or found dead
+
+\5. Gambling or engaging in conduct that disturbs public order or peace or violates social decency and refusing to cooperate when told to stop such behavior
+
+\6. Suspected of committing other crimes
+
+### Article 25
+
+Tourist hotels shall provide necessary assistance when discovering their hotel guests are sick or injured
+
+Tourist hotels shall provide assistance when the fire or police department has the necessity or urgency to enter occupied guest rooms to execute their duties or rescue hotel guests.
+
+### Article 26
+
+Tourist hotels shall determine their room rates and submit them to the MOTC for reference and also provide the local tourist hotel association with a duplicate. The same procedure shall apply when changes are made.
+
+Tourist hotels shall post the room rates, hotel guest notices and emergency shelter location chart at noticeable locations in each guest room.
+
+### Article 27
+
+Each tourist hotel shall post its official tourist hotel label at a noticeable location in the lobby.
+
+Tourist hotels receiving approval to cancel their business licenses or sanctioned to suspend operation or having their business licenses revoked by authorities shall return their official tourist hotel labels.
+
+The MOTC shall public announce cancellation of the official tourist hotel labels of tourist hotels failing to return their official tourist hotel labels as described in the preceding paragraph and such tourist hotels may not continue to use the official tourist hotel labels.
+
+### Article 28
+
+Tourist hotels charging corkage fees shall indicate the charge standards and related matters on their websites, menus and noticeable locations in the restaurants in the hotel.
+
+### Article 29
+
+A tourist hotel may not offer guaranteed rentals or profits as an enticement to sell the entire or part of the hotel facilities and equipment before or during operation.
+
+### Article 30
+
+After beginning operation, a tourist hotel shall provide the Tourism Administration of the MOTC and the municipality government with jurisdiction over the hotel with the following information within the periods specified:
+
+\1. The business income, guest room occupancy rate, total number of hotel guests and foreign currencies received each month before the 20th of the following month
+
+\2. The balance sheet and income statement before June 30 the following year
+
+### Article 31
+
+Tourist hotel facilities approved in accordance with these Regulations may be assigned as one entity only.
+
+If a tourist hotel intends to rent out or assign the entire facilities and equipment to another operator, both parties shall submit the following documents to apply to the MOTC for approval in advance:
+
+\1. The Tourist Hotel Assignment Approval Application
+
+\2. Duplicate of related agreements
+
+\3. The shareholders’ meeting minutes or letter of consent from the lessor or assigner
+
+\4. The business plan and financial plan of the lessee or assignee
+
+The lessee or assignee shall complete company registration or ownership change registration according to law within two months after such an application is approved and both parties shall submit the following documents to apply to the MOTC for a tourist hotel business license:
+
+\1. The Tourist Hotel License Application
+
+\2. The original tourist hotel license issued
+
+\3. Photocopies of the corporate charter and company registration and a list of directors and supervisors of the lessee or assignee
+
+When there are justifiable reasons, the lessee or assignee may apply for a two-month extension of the period specified in the preceding paragraph and such application may be filed once only.
+
+### Article 32
+
+When the entire facilities and equipment of a tourist hotel are taken over by the surviving company or newly created company as a result of merger, the surviving company or new company shall submit the following documents and apply to the MOTC for approval:
+
+\1. The shareholders’ meeting minutes and board of directors meeting minutes indicating the resolution on the merger or a letter of consent form the shareholders
+
+\2. Proof of company merger registration and a duplicate of the merger agreement
+
+\3. Proof of land and building ownership transfer registration
+
+\4. The surviving company or new company’s business plan and financial plan
+
+After the application described in the preceding paragraph is approved, the surviving company or new company shall complete company change registration according to law within two months and also submit the following documents to apply to the MOTC for a new tourist hotel license.
+
+\1. The Tourist Hotel License Application
+
+\2. The original tourist hotel license issued
+
+\3. The corporate charter of the surviving company or new company, a photocopy of the company registration and a list of directors and supervisors
+
+When there are justifiable reasons, the surviving company or new company may apply for a two-month extension of the period specified in the preceding paragraph and such application may be filed once only. .
+
+### Article 33
+
+When the facilities of a tourist hotel are auctioned off by a judicial court or taken over by creditors and the buyers or parties taking over apply for approval to continue the operation of the hotel, they shall act according to hotel establishment preparation application regulations and submit the certificates of real estate rights transfer and deeds to the MOTC for approval to begin preparation and a tourist hotel license. The same procedure shall apply when a third party is assigned or delegated by the buyers or parties taking over to manage the tourist hotel.
+
+If the facilities of the tourist hotel described in the preceding paragraph are constructed on the same base with other buildings, letters of consent for use of the land outside the hotel area shall not be required.
+
+If the purposes of the facilities and equipment involved in applications described in the two preceding paragraphs have not been changed, the regulations governing the original preparation approval shall apply; otherwise, existing regulations at the time of application shall apply.
+
+### Article 34
+
+Tourist hotels suspending operation for over one month shall submit the shareholders’ meeting minutes or letter of consent to the MOTC for reference within 15 days after suspension begins.
+
+The business operation suspension described in the preceding paragraph may not exceed one year. A tourist hotel with justifiable reason may apply for extension once for up to one year and the application shall be filed within 15 days before the original period allowed expires. After the business suspension period expires, the tourist hotel shall apply to the MOTC for resumption of operation.
+
+A tourist hotel terminating its operation as a result of building destruction or other reasons shall submit the following documents and apply to the MOTC for cancellation of its tourist hotel license:
+
+\1. The original tourist hotel license, the official tourist hotel label and the hotel rating label issued
+
+\2. The shareholders’ meeting minutes or letter of consent indicating the operation termination decision
+
+The MOTC may cancel the tourist hotel license, official tourist hotel label and hotel rating label of a tourist hotel when the tourist hotel fails to apply for cancellation within the given period as specified in the preceding paragraph.
+
+### Article 35
+
+A tourist hotel may not lease out all or part of its guest rooms to be managed by others. When the restaurants, meeting venues and other facilities of a tourist hotel are leased out to be managed by others, the lessees and their employees shall abide by these Regulations. If there are violations, the tourist hotel shall be held liable in accordance with these Regulations.
+
+### Article 36
+
+Tourist hotels joining a domestic or international hotel chains or delegating their hotel management to others shall follow the procedures specified in related regulations as well as submit such contracts and related documents to the MOTC for reference.
+
+### Article 37
+
+Tourist hotels shall collaborate and participate in related promotional activities held by the MOTC or international tourism organizations.
+
+### Article 38
+
+Tourist hotels shall conduct orientation and on-the-job training for their employees; the MOTC may provide assistance if necessary.
+
+Tourist hotels shall act according to related regulations and send employees to participate in the MOTC’s training programs designed to improve the quality of tourist hotel service personnel and such trainees shall abide by related regulations.
+
+## Chapter IV Tourist Hotel Personnel Administration
+
+### Article 39
+
+Managers of tourist hotels shall have the professional knowledge and capacity required for tourist hotel management.
+
+### Article 40
+
+A tourist hotel shall create different departments in accordance with its operations, appoint a manager for each department and submit the results to the MOTC for reference within 15 days after the personnel appointments are approved by the competent authority. The same procedure shall apply when changes of managers are made.
+
+### Article 41
+
+Tourist hotels may assign business representatives to be stationed in important locations overseas to promote business internationally and also file with the MOTC for reference within one month after the personnel assignments are completed.
+
+### Article 42
+
+Tourist hotels shall conduct proper personnel management, record personnel changes and assure their employees abide by these Regulations.
+
+Tourist hotels shall pay their employees reasonable salaries and wages; shares of tips may not be regarded part of employees’ pay.
+
+### Article 43
+
+Tourist hotels shall issue uniforms and easily identifiable badges for their employees.
+
+Tourist hotel employees shall wear uniforms and badges bearing their names or code numbers when working and may not engage in any of the following conduct:
+
+\1. Acting as sexual service agents, finding dance partners or escorts for hotel guests or engaging in conduct in violation of social decency
+
+\2. Stealing or embezzling hotel guests’ property
+
+\3. Defrauding hotel guests
+
+\4. Demanding hotel guests for extra charges
+
+\5. Conducting foreign currency exchange privately
+
+## Chapter V Awards and Penalties
+
+### Article 44
+
+The MOTC may act according to law and coordinate with land administration agencies to lease or sell public land for construction of tourist hotels if necessary.
+
+### Article 45
+
+The MOTC may award or publicly commend tourist hotels with any of the following achievements:
+
+\1. Having special contributions in protection of national honor or social security
+
+\2. Participating in international promotion activities with outstanding performance in enhancement of international friendships
+
+\3. Exhibiting excellent performance in management improvement and service quality upgrades
+
+\4. Showing excellent performance in earning foreign currencies
+
+\5. Having other commendable deeds
+
+### Article 46
+
+The MOTC may award or publicly commend tourist hotel employees with any of the following achievements:
+
+\1. Showing extraordinary performance in promotion of tourism
+
+\2. Having outstanding performance in tourist hotel management research and development
+
+\3. Providing excellent service highly appreciated by hotel guests or accomplishing impressive deeds
+
+\4. Having outstanding performance in protection of national honor and enhancement of international friendships
+
+\5. Having served in the same business entity for 15 years or longer with impeccable work ethics
+
+\6. Having other commendable deeds
+
+## Chapter VI Supplementary Provisions
+
+### Article 47
+
+The criteria for fees to be collected by the MOTC in accordance with these Regulations are as follows:
+
+\1. NT$3,000 for issuance of each tourist hotel license
+
+\2. NT$1,500 for each tourist hotel license renewed or reissued
+
+\3. NT$23,000 for each official international tourist hotel label issued or reissued; NT$21,000 for each official standard tourist hotel label issued or reissued
+
+\4. Tourist hotel application review fees:
+
+(1) NT$16,000 for each hotel establishment application and NT$8,000 for each application for approval of changes.
+
+(2) NT$36,000 for each application for approval to begin preparation of a hotel with less than (including) 100 guest rooms and NT$6,000 for each increase of 100 rooms (increase of less than 100 rooms considered 100 rooms); NT$6,000 for each application for approval of changes and NT3,000 for each increase of 100 rooms (increase of less than 100 rooms considered 100 rooms)
+
+(3) NT$6,000 for each application for approval of changes to be made to a tourist hotel in operation; no charges for applications involving guest room type adjustments
+
+(4) NT$6,000 for each application for approval to lease or assign the entire facilities and equipment
+
+(5) NT$6,000 for each merger case
+
+\5. NT$200 of each hotel employee registering for a professional training course and NT$200 for issuance of each training certificate
+
+No charges for license renewal applications filed as a result of address changes due to administrative district or house number adjustment
+
+### Article 48
+
+These Regulations shall take effect on the day of promulgation.
+
+## Attachments
+
+- [Attachment：The Official Tourist Hotel Labels.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009073)
+
+## History
+
+\1. Promulgated on July 2, 1977
+
+\2. Amended on November 29, 1980
+
+\3. Amended on October 30, 1981
+
+\4. Amended on April 14, 1982
+
+\5. Amended on June 13, 1985
+
+\6. Amended on November 15, 1985
+
+\7. Amended on December 15, 1987
+
+\8. Amended on June 15, 1988
+
+\9. Amended on December 15, 1989
+
+\10. Amended on November 15, 1990
+
+\11. Amended on July 12, 1995
+
+\12. Amended on October 14, 1996
+
+\13. Amended on July 18, 1997
+
+\14. Amended on September 11, 1998
+
+\15. Amended on June 29, 1999
+
+\16. Amended on April 28, 2003
+
+\17. Amended on June 19, 2008
+
+\18. Amended on October 31, 2008
+
+\19. Amended on January 21, 2011
+
+\20. Amended on January 28, 2016
+
+\21. Amended on June 23, 2021
+
+\22. Amended on August 30, 2024
+
+\23. Amended on January 3, 2025

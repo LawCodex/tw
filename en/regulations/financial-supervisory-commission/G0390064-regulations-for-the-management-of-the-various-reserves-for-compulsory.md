@@ -1,0 +1,139 @@
+---
+title: "Regulations for the Management of the Various Reserves for Compulsory Automobile Liability Insurance"
+title_zh: "強制汽車責任保險各種準備金管理辦法"
+identifier: "G0390064"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-10-07
+last_amended: 2023-12-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390064"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Management of the Various Reserves for Compulsory Automobile Liability Insurance
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390064-regulations-for-the-management-of-the-various-reserves-for-compulsory.md](../../../zh/regulations/financial-supervisory-commission/G0390064-regulations-for-the-management-of-the-various-reserves-for-compulsory.md)) is authoritative.
+
+## Article 1
+
+These regulations are stipulated pursuant to the provision of Paragraph 3 of Article 47 of the Compulsory Automobile Liability Insurance Act (hereinafter referred to as "this Act").
+
+## Article 2
+
+The term “retained business” as used in these Regulations means the business of insurance directly underwritten by an insurer and reinsurance assumed by the insurer, less reinsurance ceded by the insurer.
+
+## Article 3
+
+For the compulsory automobile liability insurance (hereinafter referred to as “this insurance”) directly underwritten and reinsurance assumed, an insurer shall calculate liability for remaining coverage in accordance with International Financial Reporting Standards 17 (“IFRS 17”) and set aside unearned premium reserve.
+
+## Article 4
+
+For the reinsurance of this Insurance ceded, an insurer shall calculate asset for remaining coverage in accordance with IFRS 17 and set aside ceded unearned premium reserve.
+
+## Article 5
+
+For this insurance directly underwritten and reinsurance assumed, an insurer shall calculate liability for incurred claims in accordance with IFRS 17 and set aside loss reserve.
+
+## Article 6
+
+For the reinsurance of this Insurance ceded, an insurer shall calculate asset for incurred claims in accordance with IFRS 17 and set aside ceded loss reserve.
+
+## Article 7
+
+An insurer shall set aside a special reserve for the retained business of this insurance pursuant to the following provisions:
+
+1.The total sum of retained earned pure premium and interest earned on the balance of the special reserve in the previous year, less the total sum of the retained claim payment and the difference between the previous period’s loss component and that of the current period, shall be completely set aside as a special reserve;
+
+2.If the total sum of retained earned pure premium and interest earned on the balance of the special reserve in the preceding fiscal year is less than the total sum of the retained claim payment and the difference between the previous period’s loss component and that of the current period, the deficit shall be amended with the recovered special reserve accumulated in the previous years. If any deficit remains, the balance shall be recorded as a memorandum entry and amended with the recovered special reserves in the subsequent years.
+
+## Article 8
+
+For the special reserve set aside by the insurer pursuant to the preceding article, the insurer shall purchase treasury bills or deposit the reserve with a financial institution as a time deposit. Provided that with the approval of the competent authority, the insurer may purchase the following domestic securities:
+
+1.Government bonds, not including exchangeable government bonds.
+
+2.Financial bonds, negotiable certificates of deposit, banker's acceptances, and commercial paper guaranteed by a financial institution, provided that financial bonds shall be limited to ordinary financial bonds only.
+
+The amount of treasury bills purchased or time deposits placed in a financial institution under the preceding paragraph shall not be less than 30 percent of the total amount of the insurer's retained earned pure premiums for this Insurance in the most recent period, as audited or reviewed by a certified public accountant. The competent authority may raise that percentage to a level it deems appropriate based on the insurer's operational status.
+
+The financial institution that handles the issuance, acceptance, or guarantee of securities, other than government bonds and treasury bills, purchased by the insurer pursuant to paragraph 1 shall have a long-term credit rating of "twBBB+" or higher from the Taiwan Ratings Corporation, or an equivalent or higher rating from another international credit rating institution acknowledged by the competent authority.
+
+If the balance of the insurer's special reserve is less than 30 percent of the total amount of the insurer's retained earned pure premiums for this Insurance in the most recent period, as audited or reviewed by a certified public accountant, then the full amount of its special reserve shall be used to purchase treasury bills or be deposited in a financial institution as a time deposit.
+
+## Article 9
+
+Except for the special reserve set aside as prescribed in the preceding Article, funds held by an insurer for this Insurance shall be deposited in a financial institution in the form of demand deposits and time deposits, provided that with the approval of the competent authority, an insurer may purchase any of the following domestic securities:
+
+1.Treasury bills.
+
+2.Negotiable certificates of deposit, banker's acceptances, and commercial paper guaranteed by a financial institution.
+
+3.Government bonds in a repo transaction.
+
+The term "funds" in the preceding paragraph refers to all types of reserves, payables, temporary credits and amounts to be carried forward.
+
+The amount of deposits deposited in financial institutions under the first paragraph shall not be less than 45 percent of the balance remaining after subtracting the amount of special reserves from the amount of funds held by the insurer due to the operation of this Insurance, or less than 30 percent of the retained earned pure premium for the most recent period as audited or reviewed by a certified public accountant. The competent authority may raise the percentage of deposits required by the insurer to a level it deems appropriate based on the insurer's operational status.
+
+If the total amount of unearned premium reserve and loss reserve of the insurer with respect to this Insurance is less than 30 percent of the retained earned pure premiums of this Insurance for the most recent period as audited or reviewed by a certified public accountant, the funds held by the insurer through its conduct of this Insurance shall be deposited in full with a financial institution in the form of deposits.
+
+The financial institution that handles the issuance, acceptance, or guarantee of securities, other than government bonds and treasury bills, purchased by the insurer pursuant to paragraph 1 shall have a long-term credit rating of "twBBB+" or higher from the Taiwan Ratings Corporation, or an equivalent or higher rating from another international credit rating institution acknowledged by the competent authority.
+
+## Article 10
+
+When an insurer makes an allocation of its funds pursuant to the two preceding Articles, the calculation of its funds shall be based on the final (audited) figures for the most recent period as audited or reviewed by a certified public accountant.
+
+## Article 11
+
+The special reserve set aside by an insurer in the handling of this Insurance may not be reversed except if used to offset an annual pure premium deficit.
+
+## Article 12
+
+The interest referred to in Article 7 of these Regulations shall be calculated based on the average of the fixed interest rates posted for Bank of Taiwan one-year term deposits on the first business day of each month of the given fiscal year. The special reserve set aside for each fiscal year shall begin to accrue interest from January 1 of the following year.
+
+## Article 13
+
+The accumulated special reserve of the compulsory automobile third party liability insurance before the implementation of this Insurance shall be transferred into the special reserve as mentioned in Article 7 of these Regulations.
+
+## Article 14
+
+When an insurer suspends business operations or terminates its operation of this Insurance, the various reserves for this Insurance shall be transferred into the various reserves set aside for handling of this Insurance by the other insurer that assumes the business. If no other insurer is to assume the business, and there is no outstanding liability under this Insurance, and the balance of the special reserve is positive, the assets corresponding to the special reserve shall be transferred to the Motor Vehicle Accident Compensation Fund.
+
+When an insurer has been duly ordered to suspend business and undergo rehabilitation, ordered to dissolve, or its permission to operate this Insurance business has been revoked, and no other insurer is to assume this Insurance business, and there is no outstanding liability under this Insurance and the balance of the special reserve is positive, the assets corresponding to the special reserve shall be transferred to the Motor Vehicle Accident Compensation Fund.
+
+## Article 15
+
+The methods for setting aside and calculating reserves under Article 3 ~ Article 7 shall be proposed by the professional institution approved by the competent authority to formulate the rates and submitted to the competent authority for approval prior to public announcement.
+
+## Article 16
+
+These Regulations shall be implemented from 1 January 2026.
+
+## History
+
+1.Full text of 10 articles were enacted and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-09402563341 of the Financial Supervisory Commission, Executive Yuan ; dated 7 October 2005; for implementation from the date of promulgation.
+
+2.Article 5 was amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-09602562051 of the Financial Supervisory Commission, Executive Yuan, dated 7 June 2007.
+
+3.Articles 7and 9 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-09602564401 of the Financial Supervisory Commission, Executive Yuan, dated 25 December 2007.
+
+4.Full text of 12 articles were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09802565137 of the Financial Supervisory Commission, Executive Yuan, dated 29 December 2009; for the implementation from January 1, 2010.
+
+5.The regulation name and Articles 8, 11, and 12 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902564897 of the Financial Supervisory Commission, Executive Yuan, dated 26 July 2010; for implementation from the date of promulgation.
+
+(Original regulation name：Regulations Governing the Setting-aside and Management of the Reserves for Compulsory Automobile Liability Insurance)
+
+6.Articles 2, 3, 9 and 12 were amended and promulgated and Article 10-1 was added pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902567121 of the Financial Supervisory Commission, Executive Yuan, dated 16 December 2010. Articles 2, 3, and 10-1 shall be implemented
+
+from 1 January 2011, other articles shall be implemented from the date of promulgation.
+
+7.Articles 3 to 6 and 12 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-10202530301 of the Financial Supervisory Commission dated 31 December 2013, for enforcement from 1 January 2014.
+
+8.Articles 2, 3 and 12 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-11104520199 of the Financial Supervisory Commission dated 25 November 2022.
+
+\9. Full text of 16 articles were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-11204946281 of the Financial Supervisory Commission, dated 29 December 2023; for the implementation from January 1, 2026.

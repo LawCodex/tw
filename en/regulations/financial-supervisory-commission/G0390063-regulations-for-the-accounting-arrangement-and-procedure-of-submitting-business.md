@@ -1,0 +1,169 @@
+---
+title: "Regulations for the Accounting Arrangement and Procedure of Submitting Business and Financial Reports of Compulsory Automobile Liability Insurance"
+title_zh: "強制汽車責任保險會計處理及業務財務資料陳報辦法"
+identifier: "G0390063"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-10-07
+last_amended: 2023-12-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390063"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Accounting Arrangement and Procedure of Submitting Business and Financial Reports of Compulsory Automobile Liability Insurance
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390063-regulations-for-the-accounting-arrangement-and-procedure-of-submitting-business.md](../../../zh/regulations/financial-supervisory-commission/G0390063-regulations-for-the-accounting-arrangement-and-procedure-of-submitting-business.md)) is authoritative.
+
+## Article 1
+
+These regulations are stipulated pursuant to the provision of Paragraph 3 of Article 47 of the Compulsory Automobile Liability Insurance Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+An insurer operating the Compulsory Automobile Liability Insurance (hereinafter referred to as ”this Insurance”) shall add a note to the accounting items under the current accounting system to indicate the name of this Insurance. It shall, based on the underwriting year, create a sub-account to list together with other existing sub-accounts on an equivalent level under the accounting items.
+
+## Article 3
+
+The accounting items to which sub-accounts shall be added for this Insurance are as follows:
+
+\1. Profit and loss account items and various investment valuation items related to this Insurance, including insurance revenue, insurance service expenses, income or expenses from reinsurance contracts held, gain (loss) on financial assets or financial liabilities measured at fair value through profit or loss, realized gain (loss) on financial assets measured at fair value through other comprehensive income, gain (loss) arising from derecognition of financial assets measured at amortized cost, insurance finance income or expenses, finance income or expenses from reinsurance contracts held, interest income, net change in special reserves, other operating costs, and other operating expenses.
+
+\2. Asset line items related to this Insurance, including cash and cash equivalents, insurance contract assets, reinsurance contract assets, other receivables, financial assets measured at fair value through profit or loss, financial assets measured at fair value through other comprehensive income, financial assets measured at amortized cost,   temporary payments and suspense accounts, and other assets.
+
+\3. Liability line items related to this Insurance, including insurance contract liabilities, reinsurance contract liabilities, temporary receipts and suspense accounts, special reserves and other liabilities.
+
+## Article 4
+
+The accounting entry and treatment method that an insurer shall observe for handling related accounting and account closing operations of this Insurance shall be prescribed by the competent authority.
+
+## Article 5
+
+An insurer shall make a distinction between direct expenses and joint expenses contribution in respect of all kinds of insurance service expenses of this Insurance.
+
+Direct expenses mean the expenses directly accrued from the operation of this Insurance; joint expenses contribution means that the expenses cannot be treated as direct expenses and shall be jointly allocated with other insurance.
+
+An insurer shall include the allocation method for joint expenses contribution into its internal management system, making a record and accurately calculate the joint expenses contribution of this Insurance in producing reports.
+
+The allocation method stipulated in the preceding paragraph shall be conformed to the principle of consistency. The competent authority may require the insurer to provide the allocation method if necessary.
+
+The expense for promotion, expense for actuarial and research and development, expense for inquiry services, and expense for data transmission shall be booked into account, on an accrual basis at the end of each month. They shall be respectively booked using the following subsidiary items and accrued expenses, and shall be offset upon payment:
+
+\1. Expense for promotion shall be booked in the subsidiary item "insurance service expenses - advertisement expenses - promotion expenses for compulsory automobile liability insurance."
+
+\2. Expense for actuarial, research and development shall be booked in the subsidiary item "insurance service expenses - research and development expenses - expenses for actuarial research and development for compulsory automobile liability insurance. "
+
+\3. Expense for inquiry service shall be booked in the subsidiary item "insurance service expenses - postage expenses - expenses for inquiry service for compulsory automobile liability insurance."
+
+\4. Expense for data transmission shall be booked in the subsidiary item "insurance service expenses - postage expenses - expenses for data transmission for compulsory automobile liability insurance."
+
+## Article 6
+
+An insurer shall write off the following possible claim expenses as handling expenses:
+
+\1. Photography and copying expenses.
+
+\2. Telephone and postal expenses.
+
+\3. Travel expenses.
+
+\4. Investigation expense for personal injury or death.
+
+\5. Any other reasonable and necessary expenses.
+
+With the exception of expenses difficult to allocate on a per-case basis such as photo, telephone and traveling expenses, all expenses shall be allocated on a per-case basis.
+
+When an insurer simultaneously handles claims for this Insurance and other insurance business, allocation of the expenses of paragraph 1 shall be proportional to respective claim settlement amounts.
+
+## Article 7
+
+An insurer handling the business entrusted by the Motor Vehicle Accident Compensation Fund (hereinafter referred to as Compensation Fund) shall follow the accounting treatment requirements:
+
+\1. An insurer shall book the aforementioned business at the end of each month on an accrual basis under the sub-account "insurance service expenses－compulsory insurance Compensation Fund and fees payable－compulsory insurance Compensation Fund." The latter item shall be offset when consolidated payment is made.
+
+\2. An insurer that handles a compensation case entrusted by the Compensation Fund shall book the compensation payment under the sub-account "temporary payment and suspense account－compulsory insurance Compensation Fund," to be offset upon payment by the Compensation Fund.
+
+\3. The insurer, upon receiving payment for entrusted expenses from the Compensation Fund, shall offset the "insurance service expenses－compulsory automobile liability insurance" sub-account.
+
+\4. An insurer shall send a written notice to the Compensation Fund by January 15 each year to estimate the compensation payment and handling expense for each compensation case entrusted by the Compensation Fund that was accepted for processing but not yet paid out as of the end of the preceding year.
+
+## Article 8
+
+In transmitting information to the institutions (organizations) designated by the competent authority, an insurer shall observe the following principles:
+
+\1. Before a business department provides data on premium income, claims payment, and other data relating to accounting records for this Insurance, it shall have the reasonableness of its account entries for the aforementioned data verified by an accounting department.
+
+\2. The business department and the accounting department shall respectively verify the reasonableness between the statistic information published by the institutions (organizations) designated by the competent authority subject to the preceding subparagraph and the data originally provided.
+
+\3. If there is any inconsistency between the data of the preceding two subparagraphs, the business department and the accounting department shall jointly verify the reason and provide a correction or an explanation that will rationalize the inconsistency, then file the results of their work with the institutions (organizations) designated by the competent authority.
+
+## Article 9
+
+The insurer shall prepare the statements below in the format required by the competent authority:
+
+\1. A statement of assets and liabilities for compulsory automobile liability insurance; a statement of compulsory automobile liability insurance earnings and expenses.
+
+\2. A calculation table of special reserves for compulsory automobile liability insurance.
+
+\3. A calculation table of unearned premium reserves for compulsory automobile liability insurance.
+
+\4. A calculation table of loss reserves for compulsory automobile liability insurance.
+
+\5. A statement of utilization of funds for compulsory automobile liability insurance.
+
+\6. A statement of business expenses for compulsory automobile liability insurance.
+
+An insurer shall prepare the statements listed in subparagraphs 1 through 5 of the preceding paragraph and transmit the data by the 25th day of next month to the institutions designated by the competent authority.
+
+An insurer shall produce semiannual statements for the items set forth in subparagraphs 1 through 5 of the first paragraph and file them to the competent authority by the end of August each year after auditing and attestation by a certified public accountant. The statements under subparagraphs 2 through 4 shall additionally be audited and attested by an actuary and be reported to the competent authority prior to the end of August each year.
+
+An insurer shall prepare annual statements for the items set forth in subparagraphs 1 through 6 of the first paragraph, and file them with the competent authority by the end of April of the following year after auditing and attestation by a certified public accountant. The statements set forth in subparagraphs 2 through 4 and subparagraph 6 shall also be audited and attested by an actuary and reported to the competent authority prior to the end of March of the following year.
+
+## Article 10
+
+The items and scope of assets relevant to this Insurance mentioned in Article 47-1 of the Act refer to all assets stated on the statement of assets and liabilities for compulsory automobile liability insurance in subparagraph 1 of the first paragraph of the preceding article hereinabove.
+
+## Article 11
+
+With the exceptions of amortized cost, uncollected receivables and advance payments duly made, an insurer shall record the funds it holds in relation to handling of this Insurance as financial assets measured at fair value through profit or loss or financial assets measured at fair value through other comprehensive income, and file statements based on their measured fair value. This requirement shall not be applied, however, to funds placed on deposit in a financial institution or when the date of maturity or repayment occurs within three months of the investment date.
+
+The term "funds" in the preceding paragraph refers to all types of reserves, payables, temporary receipts and suspense accounts.
+
+## Article 12
+
+An insurer that processes data relating to underwriting and claim settlement business for this Insurance shall do so pursuant to the “Business statistics rules for compulsory automobile liability insurance” edited by the Non-life Insurance Association of the R.O.C. and the Taiwan Insurance Institute and approved by the competent authority.
+
+## Article 13
+
+These Regulations shall be implemented from 1 January 2026.
+
+## History
+
+1.Full text of 10 articles were enacted and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-09402563331 of the Financial Supervisory Commission, Executive Yuan ; dated 7 October 2005; for implementation from the date of promulgation.
+
+2.Article 8 was amended and promulgated and Article 8-1 was added pursuant to Order No. Jin-Guan-Bao-IV-Zi-09602562052 of the Financial Supervisory Commission, Executive Yuan, dated 7 June 2007.
+
+3.Articles 3, 4, 8 and 10 were amended and promulgated and Article 8-2 was added pursuant to Order No. Jin-Guan-Bao-IV-Zi-09702564381 of the Financial Supervisory Commission, Executive Yuan, dated 25 December 2008. Articles 3, 8, and 8-2 shall be implemented
+
+from 1 January 2009, other articles shall be implemented from the date of promulgation.
+
+4.Full text of 12 articles were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09802565131 of the Financial Supervisory Commission, Executive Yuan, dated 29 December 2009; for the implementation from January 1, 2010.
+
+5.Article 12 was amended and promulgated pursuant and Article 9-1 was added pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902564891 of the Financial Supervisory Commission, Executive Yuan, dated 26 July 2010; for implementation from the date of promulgation.
+
+6.Articles 3, 9 and 12 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902567127 of the Financial Supervisory Commission, Executive Yuan, dated 16 December 2010; Articles 3 and 9 and the Appendix of Article
+
+4 shall be implemented from 1 January 2011.
+
+7.Articles 9 and 12 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10002565601 of the Financial Supervisory Commission, Executive Yuan, dated 2 December 2011; Articles 9 shall be implemented from 1 January 2012.
+
+8.Article 3, 7 , 9 and 12 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10302529351 of the Financial Supervisory Commission, dated 18 December 2014. Article 3, 7 and 9 shall be implemented from 1 January 2015, other articles shall be implemented from the date of promulgation.
+
+9.Article 2, 3, 5 and 10 and the Appendix of Article 4 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Tse-Zi-10704520901 of the Financial Supervisory Commission, dated 31 January 2018.
+
+\10. Full text of 13 articles were amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-11204946281 of the Financial Supervisory Commission, dated 29 December 2023; for the implementation from January 1, 2026.

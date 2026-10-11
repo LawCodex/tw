@@ -1,0 +1,207 @@
+---
+title: "Regulations for Electronic Procurement"
+title_zh: "電子採購作業辦法"
+identifier: "A0030105"
+type: regulation
+law_level: "命令"
+category: "行政＞行政院公共工程委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-07-17
+last_amended: 2025-03-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030105"
+retrieved: 2026-10-12
+---
+
+# Regulations for Electronic Procurement
+
+> Translation. The Chinese text ([zh/regulations/public-construction-commission/A0030105-regulations-for-electronic-procurement.md](../../../zh/regulations/public-construction-commission/A0030105-regulations-for-electronic-procurement.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These regulations are prescribed pursuant to paragraph 2 of Article 93.1 of the Government Procurement Act (hereinafter referred to as the “Act”).
+
+### Article 2
+
+The terms used in these regulations are defined as follows:
+
+1.Government procurement card: the credit card, debit card or stored-value card that is issued to an entity by a credit card business institution for use in payment of government procurement prices and fees.
+
+2.Electronic instrument: A certificate authenticated with a digital key for signing and verification through the information system designated by the responsible entity, serving as proof for receiving electronic tender documentation, acquiring tender documentation, receiving electronic tenders, electronic bid bond certificates, electronic guarantee bond certificates, opening of tenders, awarding of tenders, placing orders, and making payments.
+
+3.Electronic bid bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a bid bond.
+
+4.Electronic guarantee bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a guarantee bond.
+
+5.Digital signature: A digital signature as prescribed by the Electronic Signatures Act.
+
+### Article 3
+
+Where entities and suppliers engage in procurement by using electronic means (hereinafter referred to as “electronic procurement”), any required signature or seal shall be provided through the use of a digital signature.
+
+### Article 4
+
+Entities and suppliers engage in electronic procurement shall file an application for a certificate with the certification authority designated by the responsible entity.
+
+### Article 5
+
+Entities and suppliers engage in electronic procurement shall use the information system designated by the responsible entity and register necessary information thereon.
+
+## Chapter 2 Invitation to Tender and Awarding of Tender
+
+### Article 6
+
+An entity conducting public dissemination, sale or public viewing of the tender documentation by use of the information system designated by the responsible entity may elect not to prepare additional written documentation.
+
+Where an entity permits suppliers to acquire tender documentation using electronic means (hereinafter referred to as “electronic acquirement of tender documentation”), this shall be prescribed in the notice of invitation to tender and the tender documentation. Additionally, the tender documentation shall specify that a supplier engaging in the electronic acquirement of tender documentation must submit the electronic instrument used for such acquisition obtained from the designated information system when submitting a tender, either electronically (hereinafter referred to as “electronic submission of tender”) or in written form. If the supplier fails to provide such document, the entity shall proceed in accordance with Article 50 of the Act.
+
+The entity shall specify in the tender documentation that suppliers may submit their tenders using one of the following methods:
+
+1.Written tender submission.
+
+2.Electronic tender submission.
+
+3.Either written or electronic tender submission.
+
+### Article 7
+
+The electronic tender documentation may be provided by an entity to suppliers by charging a fee to cover necessary costs and expenses, and the amount of the fee shall be determined by the procuring entity. Where there are additional written documents, the fee charged for the electronic tender documentation shall not be higher than that of the written documents.
+
+### Article 8
+
+An entity’s electronic tender documentation is provided solely for suppliers to use within the scope of acquiring tender documentation, submitting tenders, and performing contracts. Suppliers shall not reproduce, republish, or modify the documentation.
+
+### Article 9
+
+An entity may convert a portion or whole of the file of the electronic tender documentation to one or several self-extracted compressed files, and the content of which after decompression shall remain the same as that before compression.
+
+### Article 10
+
+An entity may prescribe in the tender documentation the file format to be used by suppliers in electronic submission of tender or the format by which suppliers may print out the electronic tender documentation for use in preparing their tenders. However, where the file format or printing format adopted by a supplier does not affect reading, recognizing or use, the entity shall not reject it.
+
+The file format or printing format prescribed by an entity referred to in the preceding paragraph shall not restrain competition among suppliers.
+
+### Article 11
+
+Where an entity allows suppliers to submit tenders electronically in accordance to Paragraph 3 of Article 6, the following provisions may be prescribed in the tender documentation:
+
+1.Items for which suppliers must submit tenders using other forms.
+
+2.Suppliers must additionally provide other forms of documentation containing the same content as the electronic tender submission; in the event of discrepancies, the electronic tender submission shall prevail.
+
+3.Following the award of the contract, the contract may be signed based on the electronic tender submission or in written form. If a written contract is signed, its content shall be identical to the electronic tender submission; in the event of discrepancies, the electronic tender submission shall prevail.
+
+### Article 12
+
+A supplier submitting a tender electronically shall, pursuant to the requirements set forth in the tender documentation, and depending on their format, transmit all required documentation before the tender submission deadline to the information system designated by the responsible entity or deliver it to the location specified by the entity.
+
+### Article 13
+
+A supplier participating in electronic procurement and required to submit a bid bond, guarantee bond, or provide a guarantee pursuant to Article 30 or Paragraph 2 of Article 37 of the Act may do via electronic means approved by the responsible entity.
+
+The electronic means approved by the responsible entity in the preceding paragraph shall be disclosed on the designated information system.
+
+### Article 14
+
+A supplier’s electronic tender shall contain no computer viruses, can be opened normally and shall not affect reading, recognizing or use.
+
+### Article 15
+
+An entity allowing suppliers to adopt electronic submission of tender may conduct electronic opening of tenders and electronic awarding of tender.
+
+The opening of tenders and awarding of tender referred to in the preceding paragraph may be conducted not in public, and the procuring entity may conduct it without notifying tenderers to be present. The monitoring of these proceedings may be conducted by monitoring units based on the written documents pursuant thereto.
+
+### Article 16
+
+The tender documentation and the electronic tender may, where there are any difficulties in handling characters or graphical files, take the form of a scanned electronic documentation instead.
+
+Where an electronic tender contains scanned documentation, the entity may notify the supplier to present written documentation for verification.
+
+### Article 17
+
+During the course of an entity’s procurement, the interactions between the entity and suppliers concerning notification, explanation, price reduction, price competition, negotiation, modification of the original tender and resubmission of price offer may be handled by means of electronic data transmission.
+
+### Article 18
+
+During the course of electronic procurement, if the information system designated by the responsible entity is temporaily out of service, in whole or in part the situation shall be handled as follows:
+
+1.at the stage of invitation to tender and price inquiry: the entity shall wait until the system has recovered and then transmit the electronic tender documentation;
+
+2.at the stage of acquirement of the tender documentation: suppliers shall make a request of the tender documentation using other means provided therein, or they shall wait until the system has recovered and then proceed to make electronic acquirement of tender documentation; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;
+
+3.at the stage of submission of tender: suppliers shall submit their tenders using other means provided by the tender documentation, or they shall wait until the system has recovered and then proceed to conduct electronic submission of tenders; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;
+
+4.at the stage of opening of tenders: the entity shall wait until the system has recovered and then proceed to open tenders, or it shall defer opening of tenders; an exception of this provision will be given where it is certain that there exists no electronic tender;
+
+When special circumstances prevent the normal conduct of an electronic procurement operations for a specific procurement case, the preceding paragraph may apply mutatis mutandis.
+
+## Chapter 3 Payment
+
+### Article 19
+
+An entity making payment for procurement prices and fees may use the government procurement card.
+
+### Article 20
+
+The contract signed between an entity and a card-issuing institution shall contain the following:
+
+\1. the form and appearance of the government procurement card;
+
+\2. where the government procurement card is used to make payment in foreign currency, the method for calculation of exchange rate;
+
+\3. handling of questions and inquiries regarding an account;
+
+\4. the procedure for reporting, reissuing or replacement of a missing or damaged government procurement card and the responsibilities and obligations of both parties;
+
+\5. the government procurement card may not be used for cash advance or financing;
+
+\6. the credit limit of the government procurement card;
+
+\7. when a card holder is conducting procurement for official business, the record of using the government procurement card related thereto shall not affect the card holder’s personal credibility;
+
+\8. causes for relieving an entity from the responsibility of payment; and
+
+\9. others as determined by the responsible entity.
+
+### Article 21
+
+The holder of the government procurement card shall be designated by an entity, and this individual shall be responsible for keeping the card in good care as long as it is under his or her custody. Where the qualification of a cardholder has been revoked, the entity shall notify the card-issuing institution to suspend his or her card, and the original cardholder shall, within the period specified by the head of the entity or the personnel authorized by the head, make a clear-payment report.
+
+### Article 22
+
+An entity shall assign an authorized limit on the government procurement card based on the cardholder’s status and the characteristics, supplier and amount of the subject of the prospective procurement.
+
+The assignment of an authorized limit referred to in the preceding paragraph shall be approved by the head of the entity or the personnel authorized by the head.
+
+### Article 23
+
+The holder of the government procurement card may, within the authorized limit, use the card to make payment for prices and fees of procurement.
+
+The card holder shall, after receiving the statement of account from the card-issuing institution, enclose the statement with relevant procurement documents, mark all vouchers with words “paid by the government procurement card” and then make a clear-payment report.
+
+After the documents referred to in the preceding paragraph have been reviewed by the entity’s comptroller (accounting) unit and approved by the head of the entity or the personnel authorized by the head, the procedure for payment shall be undertaken.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 24
+
+The responsible entity may charge a fee to the user for access to the information system for electronic procurement; the standard of fees shall be determined by the responsible entity.
+
+Where necessary, the responsible entity may entrust the operation of the information system for electronic procurement to a third-party supplier.
+
+### Article 25
+
+These regulations shall take effect from the date of promulgation.
+
+Note: In case of discrepancies between the Chinese version and this English version, the Chinese version shall prevail.
+
+## History
+
+1.Promulgated on July 17, 2002
+
+2.Amended on March 27, 2025

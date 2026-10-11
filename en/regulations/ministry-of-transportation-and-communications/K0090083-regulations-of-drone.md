@@ -1,0 +1,556 @@
+---
+title: "Regulations of Drone"
+title_zh: "遙控無人機管理規則"
+identifier: "K0090083"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-07-23
+last_amended: 2024-11-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090083"
+retrieved: 2026-10-12
+---
+
+# Regulations of Drone
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090083-regulations-of-drone.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090083-regulations-of-drone.md)) is authoritative.
+
+## Chapter 1 – General
+
+#### Article 1
+
+The Regulations are enacted in accordance with Article 99-17 of the Civil Aviation Act (the “Act”).
+
+#### Article 2
+
+The terms used in the Regulations are defined as follows:
+
+\1. Remote control equipment: means the equipment used for controlling the Drone being part of the Drone system.
+
+\2. Communication and command/control links: mean the data interface between the Drone and the remote control system used for the purpose of controlling Drone flight.
+
+\3. Maximum take-off weight: means the designed weight of Drone comprising of the frame, fuel, battery, load equipment and payload.
+
+\4. Remote pilot (hereinafter referred to as Pilot): means the person who actually controls the Drone or commands its flight activities during Drone flight activities.
+
+\5. Flight in extended visual range: means the operation method where the visual observer keeps direct visual contact with the drone within a 300-meter radius and provides necessary flight information to the Pilot who is outside the visual range of the drone. The maximum range of the extended visual range is within a 900-meter radius of the Pilot and shall not exceed 400 feet above ground level or sea level.
+
+\6. Visual observer: means the person with Remote Pilot License (hereinafter the “License”) who provides Pilot with necessary flight information in the course of Drone operation.
+
+\7. E-commerce: means advertising, marketing, supply, order and other matters on commercial transactions relating to products or services through the internet.
+
+#### Article 3
+
+Drones are classified into the following types in accordance with its structure:
+
+\1. Unmanned aeroplane;
+
+\2. Unmanned helicopter;
+
+\3. Unmanned multirotor;
+
+\4. Other types as announced by the Civil Aviation Administration (hereinafter the “CAA”) of the MOTC.
+
+#### Article 4
+
+The owner (hereinafter the “Owner”) and the Pilot shall be responsible for the flight safety of the Drone, keep the Drone properly maintained and follow flight safety procedure.
+
+#### Article 5
+
+During the Drone flight activity, where there are two or more Pilots, one of them shall be designated as the Pilot in command, failing which no Drone flight activity shall be permitted.
+
+## Chapter 2 – Drone Registration and Management of Radio Frequency
+
+#### Article 6
+
+Application for registration shall be submitted to CAA with the documents listed below for the Drone with maximum take-off weight exceeding 250g owned by the natural person, and for the Drone owned by the government agencies (institutions), schools or legal persons. Drone can only be operated after the registration is completed and the registration number issued by CAA is displayed on a conspicuous part of the Drone.
+
+\1. Natural person: Application form (Attachment 1), and copy of ROC identity card or R.O.C. （Taiwan） nationals residing overseas resident document.
+
+\2. Government agencies (institutions), schools or legal persons: Application form (Attachment 1) and the registration document.
+
+Where the Owner is a natural person, he/she shall be at least 14 years of age. Any Owner under 18 years of age shall additionally submit written consent from his/her legal representative.
+
+In the event of any change of the following particulars, the Owner shall submit the application form and the registration document as set out in paragraph 1 herein to CAA to apply for change of registration:
+
+\1. Name of Owner;
+
+\2. Household registration or registered office;
+
+\3. Telephone number.
+
+#### Article 7
+
+Upon any of the following occurrence to the Drone, the Owner shall apply to CAA for cancellation within 15 days thereof:
+
+\1. Missing;
+
+\2. Damage beyond repair;
+
+\3. Being scrapped;
+
+\4. Permanent discontinuation of use;
+
+\5. Ownership transfer.
+
+#### Article 8
+
+The registration number shall be displayed on a conspicuous part of the Drone in the following manner:
+
+\1. It shall be marked with tag, engraved print, paint or other identifiable mode, be ensured that it shall not come off the Drone, and be clear, conspicuous and identifiable during each flight activity.
+
+\2. The location of the paint shall be in the conspicuous part of the external fixed structure of Drone.
+
+\3. The color shall cause the registration number to be in clear contrast with the background, and be visible with naked eyes.
+
+#### Article 9
+
+The registration number may not be falsified, reproduced or altered, and may not be lent and provided to any other person for use on the unregistered Drone.
+
+#### Article 10
+
+The registration number shall be valid for two years; Owners may, within 30 days before its expiry date, submit the documents listed in paragraph 1 of Article 6 herein to CAA for renewal.
+
+#### Article 11
+
+A Drone with a maximum take-off weight exceeding a specified threshold shall be equipped with a remote identification (RID) function in compliance with RID specifications during manufacturing, importation, registration, or extension of the registration validity period. The "certain weight" and RID specifications shall be announced by the CAA.
+
+#### Article 12
+
+A Drone with a maximum take-off weight exceeding 1 kg and equipped with a navigation system shall also be equipped with a geofencing software system that actively restricts or alerts the Pilot to prevent the drone from entering prohibited areas, restricted areas, and designated distances around airports or airfields. The geographical data shall comply with the range specified in Article 4 and Paragraph 1 of Article 99-13 of the Act.
+
+A Drone equipped with a navigation system and required to file for registration under Article 6 shall also be equipped with a geofencing software system capable of actively restricting or alerting the Pilot. The geographical data shall not only comply with the range specified in the preceding paragraph but also include areas designated by the central competent authority under the proviso of Paragraph 2, Article 99-13 of the Act or other laws prohibiting or restricting drone activities.
+
+The range and area of geofencing software system that actively restricts or alerts the Pilot in paragraphs 1 and 2 above shall be released on the designated information system of the CAA.
+
+The designer, manufacturer, or modifier of the Drone shall maintain the accuracy of the geographical information in the preceding two paragraphs and provide updates to the Owner and the Pilot in a timely manner.
+
+## Chapter 3 – Inspection of Drone System, and the Registration and Responsibility of Drone Manufacturer and Importer
+
+#### Article 13
+
+With respect to the design, manufacturing, and modification of the Drone, the designer, manufacturer, or modifier shall submit the application form (Attachment 2) to the CAA to apply for type inspection. After passing the type inspection, a type inspection certificate (Attachment 3) and a type inspection mark (Attachment 4) shall be issued.
+
+With respect to Drones that are imported from overseas, the importer shall apply to CAA for type inspection pursuant to paragraph 1 above, or submit the application form (Attachment 5) to CAA for certification. After such Drone is certified, the certification document and the certification mark (Attachment 4) shall be issued.
+
+No inspection or certification shall be required for Drones referred to in Paragraphs 1 and 2 above, or those carried by inbound travelers, that are of a simple form and structure, as announced by the CAA.
+
+The type inspection and certification procedures for Drones referred to in Paragraphs 1 and 2 shall be announced by the CAA.
+
+#### Article 14
+
+The test flight of Drone required for the purpose of various performance inspections during the design, manufacturing and modification stages shall be carried out in compliance with Attachment 6 – Regulations Governing Test Flights, and application for approval shall be submitted to CAA with the following documents:
+
+\1. The planning of, coordination for, and application for test flight field;
+
+\2. The application for, safety of, and management of test flight areas;
+
+\3. The statement of compliance with the inspection standards applicable to the Drone and its relevant equipment;
+
+\4. The ground inspection and testing information of the Drone;
+
+\5. Test flight plan;
+
+\6. The qualification of the Pilot;
+
+\7. The reporting and handling of flight safety-related event.
+
+#### Article 15
+
+In order to ensure compliance with the various performance requirements, including the design, manufacturing, and modification of the Drone with a maximum take-off weight over 25 kg, the Owner shall submit the application form (Attachment 2) to CAA for application for inspection. After passing the inspection, the substantive inspection certificate (Attachment 7) shall be issued.
+
+Where the Drone with a maximum take-off weight over 25 kg is self-made or for self-use, the Owner shall submit the application form in the preceding paragraph to CAA for special inspection. After passing such inspections, the special inspection certificate (Attachment 8) shall be issued.
+
+The substantive and special inspection procedures for drones referred to in the preceding two paragraphs shall be announced by the CAA.
+
+The inspection certificate shall be valid for three years; the valid term of the special inspection certificate shall be remarked by CAA in the certificate with reference to the various performance requirements including design, manufacturing and modification, which shall not be more than three years.
+
+The holder of the inspection certificate and special inspection certificate shall apply to CAA for re-inspection, with the copy of the inspection certificate and special inspection certificate, within 30 days prior to the expiry date of such inspection certificate and special inspection certificate.
+
+#### Article 16
+
+Where there is any change of particular in the inspection certificate or special inspection certificate, the Owner shall, within 15 days of the occurrence of such change, submit the original certificate to CAA for application for replacement thereof.
+
+Where any inspection certificate of Drone is lost or damaged, the Owner shall apply to CAA for the re-issuance or replacement thereof with an explanation of the loss or damage.
+
+#### Article 17
+
+Before the public sale of the Drone, the manufacturer or the importer, as applicable, shall register the following information with the designated information system of the CAA:
+
+\1. Brand and model name.
+
+\2. Model and specifications of the Drone.
+
+\3. Name of the manufacturer or importer's business or company.
+
+\4. For domestic manufacturers, relevant factory registration information; for importers, the import product classification code.
+
+\5. A compliance report on cybersecurity testing for the Drone issued by a professional institution or legal entity, as announced by the Ministry of Digital Affairs, in accordance with the cybersecurity test specification jointly established by the Ministry of Digital Affairs and the Ministry of Transportation and Communications.
+
+\6. For Drones with a maximum take-off weight of less than 2 kg, the certificate of conformity issued by the Bureau of Standards, Metrology, and Inspection, Ministry of Economic Affairs, shall be registered. For drones with a maximum take-off weight of 2 kg or more, the type inspection certificate or certification document issued by the CAA shall be registered.
+
+\7. Certification documentation showing compliance with the radio frequency equipment regulatory requirements of the National Communications Commission.
+
+\8. Any other items announced by the CAA.
+
+Before the public sale of a Drone, the manufacturer or importer shall, in addition to registering the information specified in the preceding paragraph, clearly label the following items on the product or its packaging:
+
+\1. The business or company name of the manufacturer or importer.
+
+\2. The serial number of the cybersecurity compliance report for the Drone.
+
+\3. For Drones with a maximum take-off weight of less than 2 kg, the commodity inspection mark issued by the Bureau of Standards, Metrology, and Inspection, Ministry of Economic Affairs, shall be displayed. For Drones with a maximum take-off weight of 2 kg or more, the type inspection mark or certification mark issued by the CAA shall be displayed.
+
+\4. Markings indicating compliance with the relevant inspection and regulatory requirements of the National Communications Commission.
+
+\5. The maximum take-off weight.
+
+\6. Registration procedures.
+
+\7. Description of physical inspection requirements.
+
+\8. Description of operational limitations.
+
+\9. Information on management and penalties for violations.
+
+When selling the Drone on e-commerce platform, the manufacturer or the importer of the Drone shall mark the following text together on a conspicuous place of e-commerce platform. The same shall apply to the Drone sold by an agent, distributor or other third parties.
+
+\1. The registered name of the business or company of the manufacturer or importer.
+
+\2. Application for registration shall be submitted for the Drone with maximum take-off weight exceeding 250g.
+
+\3. Before Drone flight activities, the area of activities shall be noted, and the Drone flight activities shall be carried out in compliance with operation rules.
+
+\4. Please see the website of CAA for related information of area of activities and operation rules.
+
+The Owner of a Drone that is self-made or for self-use shall register their name as a natural person, business, or legal entity, along with the information specified in Subparagraphs 1 and 2 of Paragraph 1 above, in the designated information system of the CAA.
+
+For Drones not equipped with navigation systems, the manufacturer, importer, or Owner may be exempt from registering the product classification code specified in Subparagraph 4 of Paragraph 1, the cybersecurity compliance specified in Subparagraph 5, and the type inspection or certification specified in Subparagraph 6. For Drones offered for public sale, the cybersecurity compliance specified in Subparagraph 2 of Paragraph 2 and the type inspection or certification marking specified in Subparagraph 3 may be noted as exempt from labeling.
+
+#### Article 18
+
+In the event of an unsafe circumstance occurring in a Drone system with a maximum take-off weight exceeding 25 kg due to a fault, failure, or defect during use, the designer, manufacturer, modifier, or importer shall take remedial measures to address such fault, failure, or defect.
+
+The designer, manufacturer, modifier, or importer shall submit a written report (Attachment 18) to the CAA within 30 days from the date the fault, failure, or defect is discovered. However, this time limit does not apply if a justifiable reason is provided and an extension is approved by the CAA.
+
+## Chapter 4 – Testing and Licencing of Remote pilot
+
+#### Article 19
+
+The Pilot of the following Drone may only engage in the operation thereof with the License issued by CAA:
+
+\1. Drone owned by government agencies (institutions), schools or legal person;
+
+\2. Drone owned by the natural person with maximum take-off weight above 2 kg and below 15 kg with navigation system;
+
+\3. Drone with maximum take-off weight above 15 kg.
+
+#### Article 20
+
+The classification of Remote Pilot Licenses, age of applicants and other rules pertaining to Drones are set out below:
+
+\1. Student Remote Pilot License: Applicants shall be at least 14 years of age, and shall be issued Student Remote Pilot License by CAA after application.
+
+\2. General Remote Pilot License: Applicants shall be at least 18 years of age, and shall be issued General Remote Pilot License by CAA after passing the written test.
+
+\3. Professional Remote Pilot License: Applicants shall be at least 18 years of age and meet the relevant experience requirements, and shall be issued Professional Remote Pilot License by CAA after passing the physical check, written test and practical test.
+
+The permitted scope of operation for each of the Licenses in the preceding paragraph is set out below:
+
+\1. Student Remote Pilot License: The holder of the Student Remote Pilot License may learn operating the Drone with maximum take-off weight below 25 kg under the supervision of the holder of the General Remote Pilot License or Professional Remote Pilot License in accordance with the structure and classification contained therein.
+
+\2. General Remote Pilot License: The holder of the General Remote Pilot License may operate the Drone owned by the natural person with maximum take-off weight above 2 kg and below 15 kg and navigation system.
+
+\3. Professional Remote Pilot License: The holder of the Professional Remote Pilot License may operate the Drone owned by government agencies (institutions), schools or legal person, or the Drone owned by the natural person with maximum take-off weight above 15 kg.
+
+The eligibility for application, test items, rules governing registration for test, the certificates of physical check, permitted scope of operation and instructor’s qualifications for the Licenses in paragraph 1 herein are set out in Attachment 9; application form for written and practical tests and application form for License are set out in Attachment 10 and Attachment 11 respectively.
+
+The structure, weight, operating limitations and instructor’s qualifications of the Drone shall be specified in the License.
+
+#### Article 21
+
+In the practical tests, the applicants shall bring their own Drones that meet the requirements set out in Attachment 12 for taking the tests.
+
+#### Article 22
+
+Applicants who apply for Professional Remote Pilot Licenses shall complete the practical test within one year from the date of passing the written test, failing which the applicants shall be required to re-apply for the written test.
+
+Applicants who fail the practical test for a Remote Pilot License may apply for the second test for the part previously failed within 30 days of receiving the notification of the test result.
+
+Applicants for a Remote Pilot License shall, within 30 days from the date of approval by the CAA confirming they have passed the relevant tests, submit documents verifying their successful completion of the written and practical tests to the CAA to apply for license issuance.
+
+If an applicant is unable to apply for license issuance within the time limit specified in the preceding paragraph, they may request a 30-day extension from the CAA before the deadline, provided such an extension is granted only once.
+
+#### Article 23
+
+Licenses shall be valid for three years.
+
+The renewal of various types of Remote Pilot Licenses shall be processed in accordance with the following provisions:
+
+\1. The holder of the General Remote Pilot License and the Professional Remote Pilot License may submit to CAA the ID photo above the waist taken within the past two years and a copy of the valid Remote Pilot License within three months before the expiry date thereof for replacement; provided, however, holders of Professional Remote Pilot Licenses must pass a physical examination and the renewal test before the license can be renewed.
+
+\2. Where the holder of a Professional Remote Pilot License adds items for different structures, weights, or advanced practical tests, an added rating shall be given after passing the practical tests administered by the CAA.
+
+\3. Within three months prior to the expiration of a Professional Remote Pilot License, holders who pass the renewal test must first complete the renewal process outlined in Subparagraph 1 before applying for an endorsement renewal. Conversely, holders who pass the practical test mentioned in the preceding Subparagraph must first complete the endorsement renewal before applying for the expiration renewal.
+
+Remote Pilot Licenses obtained prior to the amendment and enforcement of these regulations on December 1, 2024, shall remain valid in accordance with the provisions in effect before the amendment.
+
+#### Article 24
+
+Where any particular in the Remote Pilot License is changed, the holder shall apply to CAA for the replacement thereof with the original License within fifteen (15) days of the occurrence of such change.
+
+Where the Remote Pilot License is lost or damaged, the holder of the License shall apply to CAA for the re-issuance or replacement thereof with an explanation thereto.
+
+## Chapter 5 – Operating Limitations and Permits of Flight
+
+### Section 1- General operation rules
+
+#### Article 25
+
+The Pilot shall, before Drone flight activities, maintain and check the Drone system according to the maintenance manual provided by the Drone manufacturer and may only engage in the activities after the Drone conforms to the flight safety conditions
+
+#### Article 26
+
+Pilot shall evaluate the following circumstances before the Drone flight operations:
+
+\1. Environment of the operation area, including weather condition, airspace, flight limitations and other hazardous factors in the air or on the ground;
+
+\2. General operation, emergency procedures and regulations of Drone;
+
+\3. Communication and command/control signals between the remote control equipment and the Drone in good working condition;
+
+\4. Carrying sufficient fuel or power in the battery, and having considered the weather condition in the forecast, expected delay and other circumstances under which the landing of the Drone may be delayed.
+
+#### Article 27
+
+Pilot shall comply with the following when operating the Drone:
+
+\1. Blood alcohol content not exceeding 0.02%, or not exceeding 0.01mg per liter when exhaling;
+
+\2. Not be affected by substance with psychoactive effect which may cause the capacity to be impaired;
+
+\3. Not engaging in any operation which may endanger life or property.
+
+\4. Flight activities approved under Paragraph 1 of Article 30 shall be conducted in accordance with the operations manual approved by the CAA as specified in Subparagraph 3 of the same paragraph.
+
+#### Article 28
+
+Pilot shall comply with the following operating limitations in the course of Drone flight activities:
+
+\1. A distance of more than 30 meters shall be kept from highway, freeway/expressway, railway, elevated railway, grounded or elevated mass rapid transit system, building and obstacles;
+
+\2. Operation of Drone from moving aircraft, vehicles or ships is prohibited;
+
+\3. The maximum flying speed shall not exceed 87 knots or 160 kilometers per hour for Drones with maximum take-off weight below 25 kg and navigation system;
+
+\4. For flights in extended visual range, the maximum range shall be 900 meters radius from the Pilot as the center, and shall not exceed 400 feet above ground level or sea level; the visual observer shall keep visual contact with the Drone and provide the Pilot with necessary flight information.
+
+The limitations in the preceding paragraph shall not apply to government agencies (institutions), schools or legal persons after the approval from CAA is obtained pursuant to Article 32, Paragraph 1 herein.
+
+#### Article 29
+
+During the Drone operation, Pilot shall keep alert to the flight and surrounding conditions of the Drone, ensure that the other aircraft, ultra-light vehicles, Drone or obstacles shall be detected and avoided, and prevent the Drone from approaching thereto and colliding therewith.
+
+### Section 2- Flight Permits for Government agencies (institutions), schools or legal persons
+
+#### Article 30
+
+Government agencies (institutions), schools or legal persons shall submit the following documents to CAA for application, and may only engage in Drone flight activities after obtaining CAA’s authorization:
+
+\1. Registration document;
+
+\2. Checklist of Drone system, and list of operating personnel;
+
+\3. Operations manual, the content of which is set out in Attachment 13; where the performance of duties requires the government agencies (institutions), schools or legal persons to operate the flight activities as set out in Article 99-14, Paragraph 1, Subparagraphs 1~8 of the Act, the relevant equipment and procedures for the exclusion of operating limitations shall be specified in the operation manual.
+
+The authorization in the preceding paragraph shall be valid for two years, and government agencies (institutions), schools or legal persons may apply to CAA for the renewal thereof within 30 days before the expiry date thereof.
+
+In the event of any change to the information in Paragraph 1, Subparagraphs 1 and 3 herein, government agencies (institutions), schools or legal persons shall file to CAA within 15 days of the occurrence thereof, and Drone flight activities may only be operated after obtaining CAA’s authorization.
+
+Government agencies (institutions), schools, or legal entities shall keep the information specified in Paragraph 1, Subparagraph 2, up to date at all times in the designated information system of the CAA. During activities, they shall comply with the provisions related to the safety of Drone systems and the qualifications of Pilots as stipulated in the operations manual approved by the CAA under Paragraph 1, Subparagraph 3.
+
+#### Article 31
+
+Government agencies (institutions), schools or legal persons which engage in Drone flight activity in the prohibited area, restricted area, and the range of the distance from the boundary of an airport or airfield shall submit activity plan (Attachment 14) 15 days prior to the date of the activity for the consent by CAA in consultation with relevant supervisory authority. Provided, however, that where the prohibited area, restricted area or the airport or airfield involves any area administered by the military authorities (agencies), the application shall be filed 30 days prior to the date of the activity.
+
+Government agencies (institutions), schools or legal persons which engage in Drone flight activity in the prohibited area or restricted area notified by the Municipality and County (City) government shall submit activity plan (Attachment 14) 15 days prior to the date of the activity to the Municipality and County (City) government, which shall consult the central government authority for approval. In the event of cross-county/city activity, application shall be filed to the Municipality and County (City) government of the take off location for the consent by the Municipality and County (City) government of the take off location and of the location which the flight route crosses.
+
+Before and after each activity in the preceding two paragraphs that has been approved by CAA or the Municipality and County (City) government, flight information shall be registered in the information system designated by CAA within the designated time limit.
+
+The consent document in paragraphs 1 and 2 herein shall be valid for a maximum of three months; provided, however, that where the activity is carried out by legal persons registered and certified by agricultural administration as set out in Article 99-14, Paragraph 1, Subparagraphs 2, 3 and 6 of the Act, the term of this paragraph shall be valid for a maximum of six months; and where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph shall be valid for a maximum of one year.
+
+For the Drone flight activity which is carried out within the area set out in Article 99-13, Paragraph 2 of the Act, paragraph 2 herein shall not apply if the relevant Municipality and County (City) government has enacted regulations regarding the application for such activity.
+
+Starting from December 1, 2027, government agencies (institutions), schools, or legal entities using Drones equipped with navigation systems for the flight activities specified in Paragraphs 1 and 2 shall comply with the following requirements:
+
+\1. A cybersecurity compliance report for Drones issued by a professional institution or legal entity, as announced by the Ministry of Digital Affairs, in accordance with the cybersecurity test specification jointly established by the Ministry of Digital Affairs and the Ministry of Transportation and Communications, shall be required. However, this requirement does not apply to drones that have obtained a special inspection certificate for agricultural purposes under Article 15.
+
+\2. Drones with a maximum take-off weight of less than 2 kg shall have a certificate of conformity issued by the Bureau of Standards, Metrology, and Inspection, Ministry of Economic Affairs. Drones with a maximum take-off weight of 2 kg or more shall have a type inspection certificate or certification document issued by the CAA. However, this requirement does not apply to drones that have obtained a special inspection certificate for agricultural purposes under Article 15.
+
+For procurement conducted by government agencies (institutions), public schools, or state-owned enterprises in accordance with the Government Procurement Act, Drones used in procurement cases are exempt from complying with the provisions of Subparagraph 1 above if the bidding documents explicitly specify cybersecurity test specification for drones.
+
+#### Article 32
+
+Government agencies (institutions), schools or legal persons that engage in the flight activity with operating limitations as set out in Article 99-14, Paragraph 1, Subparagraphs 1~8 of the Act shall submit the activity plan (Attachment 14) to CAA for approval 15 days prior to the date of the activity; where the activity shall take place in the space above the crowd or outdoor assembly and parade, the consent document from the Municipality and County (City) government as well as relevant central government agency shall also be submitted. For activities involving the control of 200 or more Drones simultaneously for performances, a cybersecurity compliance report for the drone swarm system issued by a professional institution or legal entity, as announced by the Ministry of Digital Affairs, in accordance with the cybersecurity test specification jointly established by the Ministry of Digital Affairs and the Ministry of Transportation and Communications, shall also be provided.
+
+Before and after each activity in the preceding paragraph that has been approved by CAA, flight information shall be registered in the information system designated by CAA within the designated time limit.
+
+The consent document in paragraph 1 herein shall be valid for a maximum of three months; provided, however, that where the activity is carried out by legal persons registered and certified by agricultural administration as set out in Article 99-14, Paragraph 1, Subparagraphs 2, 3 and 6 of the Act, the term of this paragraph shall be valid for a maximum of six months; and where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph shall be valid for a maximum of one year.
+
+Commencing from December 1, 2027, government agencies (institutions), schools, or legal entities using drones equipped with navigation systems for flight activities specified in Paragraph 1 shall comply with the following requirements:
+
+\1. A cybersecurity compliance report for drones issued by a professional institution or legal entity, as announced by the Ministry of Digital Affairs, in accordance with the cybersecurity test specification jointly established by the Ministry of Digital Affairs and the Ministry of Transportation and Communications, shall be required. However, this requirement does not apply to drones that have obtained a special inspection certificate for agricultural purposes under Article 15.
+
+\2. Drones with a maximum take-off weight of less than 2 kg shall have a certificate of conformity issued by the Bureau of Standards, Metrology, and Inspection, Ministry of Economic Affairs. Drones with a maximum take-off weight of 2 kg or more shall have a type inspection certificate or certification document issued by the CAA. However, this requirement does not apply to drones that have obtained a special inspection certificate for agricultural purposes under Article 15.
+
+Government agencies (institutions), public schools, and state-owned enterprises conducting procurement in accordance with the Government Procurement Act are exempt from the requirement in Subparagraph 1 above if the bidding documents explicitly specify cybersecurity test specification for drones used in the procurement case.
+
+#### Article 32-1
+
+Obtaining consent stipulated in Article 31, Paragraph 2 or Article 32, Paragraph 1, relevant central government agency may commission the government agency (institute) or group to perform.
+
+When the relevant central government agency commission in accordance with the preceding paragraph, the target and matter commissioned and the legal basis for such commission shall be publicly announced and published in a government gazette.
+
+#### Article 33
+
+Where any disaster occurs, the Drone activities shall be subject to the unified command and dispatch of the commander in the emergency response center of all relevant government levels within the warning area or designated area delineated by relevant government of all levels pursuant to the Disaster Prevention and Protection Act, and application to CAA for approval shall be filed by the emergency response center of all relevant government levels.
+
+For prevention of disaster, recovery and rehabilitation and the occurrence of the emergency other than the disaster, the Drone activities within the warning area or designated area delineated by the government with authority shall be subject to the unified command and dispatch of the commander on site or the person-in-charge on site designated by government with authority; if the warning area or designated area is within the range as set out in Article 99-13, Paragraphs 1 and 2 of the Act, the commander on site or the person-in-charge on site designated by government with authority shall apply to CAA or the Municipality or City (County) government for approval; if the activity involves application of Article 99-14, Paragraphs 1, Subparagraphs 2~8 of the Act, approval by CAA shall be applied for.
+
+Before and after each activity in the preceding two paragraphs that has been approved by CAA, flight information shall be registered in the information system designated by CAA within the designated time limit.
+
+#### Article 34
+
+Where the government agency, for the purposes of performing official duties including disaster prevention and rescue, inspection, investigation and corrective measures, needs to operate Drone flight activities within the range of distance from the boundary of an airport or airfield set forth in Article 99-13, Paragraph 1 of the Act, or within the prohibited or restricted area set forth in Article 99-13, Paragraph 2 of the Act, or needs to engage in the activities set forth in Article 99-14, Paragraph 1, Subparagraphs 2~8 of the Act, it shall be exempted from the restrictions set forth in Article 31, Paragraphs 1-2, and Article 32, Paragraphs 1 and 2 herein with CAA’s consent.
+
+CAA may specify in the consent document set out in the preceding paragraph the items to be noted with respect to the Drone activities.
+
+The consent document in paragraph 1 herein shall be valid for two years; however, application for renewal may be filed with CAA within 30 days before the expiry date thereof.
+
+#### Article 35
+
+Government agencies (institutions), schools, or legal persons shall keep records of the Drone's registration number, activity dates, activity areas, continuous records of time, altitude, and location, flight time, nature of flight, name of operating personnel, registered flight information, and maintenance, repair, or modification records for a minimum of two years.
+
+#### Article 35-1
+
+Government agencies (institutions), schools, or legal persons applying for Drone flight activities under Article 31, Paragraph 1, and Article 32, Paragraph 1 shall conduct flight activities in accordance with the content and conditions of the approval or permission granted. If the activity involves the need to issue a flight announcement, the applicant shall submit relevant information to the CAA to request the issuance of the flight announcement. Furthermore, they shall dispatch liaison personnel and conduct flight activities in accordance with the instructions of the air traffic control unit.
+
+## Chapter 6 – Notification and Handling of Flight Safety-Related Event
+
+#### Article 36
+
+Upon the occurrent of any of the following flight safety-related events in the course of Drone flight, the Owner or Pilot shall, within 24 hours of the occurrence or after becoming aware thereof, notify CAA by filling in the Notification Form for Flight Safety-Related Event (Attachment 15):
+
+\1. The aviation occurrence involving Drone as set out in the Transportation Occurrence Investigation Act;
+
+\2. Actual damage to or disappearance of the Drone with maximum take-off weight over 2 kg and equipped with navigation device;
+
+\3. Actual damage to or disappearance of the Drone during the course of flight activities within the area as set out in Article 99-13, Paragraphs 1~2 of the Act;
+
+\4. Actual damage to or disappearance of the Drone during the course of flight activities as set out in Article 99-14, Paragraph 1, Subparagraphs 1~8 of the Act;
+
+\5. Occurrence of incident involving proximity to or collision with other aircraft or obstacle.
+
+#### Article 37
+
+Where flight safety-related event as set out in the preceding paragraph occurs involving the Drone, CAA may suspend the operation or the flight activities of the Drone in the event of the following:
+
+\1. Necessity to investigate the incident;
+
+\2. For the purpose of stabilizing the emotion of the person involved;
+
+\3. For the purpose of strengthening personnel training.
+
+\4. Other circumstances that affect flight safety.
+
+## Chapter 7 - Miscellaneous
+
+#### Article 38
+
+Foreign nationals who hold valid Drone registration, inspection certificate and Remote Pilot Licenses issued by foreign government shall submit the following documents to CAA, and may only engage in Drone flight activities within Taipei Flight Information Region pursuant to the provisions in the Act after CAA’s certification:
+
+\1. Application form (Attachment 16)。
+
+\2. Copy of passport;
+
+\3. Documentary proof of the registration, inspection certificate and Remote Pilot Licenses issued by foreign government or jurisdiction; where such documentary proof is in any foreign language other than English, the Chinese translation shall also be submitted.
+
+The certification of the Drone registration, inspection certificate and Remote Pilot Licenses held by the foreign national shall be valid for a maximum of six month after the date of issuance thereof.
+
+Taiwan national without domestic household registration or foreign national with documentary proof of permitted stay or residency over six months, as well as people in Mainland area, Hong Kong or Macau permitted to stay or reside in Taiwan for over one year may apply for all classes of Licenses pursuant to Chapter 4 herein.
+
+Foreign government agencies (institutions), schools or legal persons engaging in Drone flight activities within Taipei Flight Information Region shall not be applicable to provisions in Chapter 5, Section 2.
+
+#### Article 39
+
+All the applications and notifications under these Regulations may be filed in electronic form through the information system designated by CAA.
+
+#### Article 40
+
+All applications under the Regulations shall be charged pursuant to Attachment 17.
+
+#### Article 40-1
+
+No one shall delete or alter the Drone’s RID data, geofencing software system, or its electromagnetic records without any reason.
+
+Any application for registration, inspection, approval, certification, consent for Drone’s flight activities, permit for operational restrictions, or marking of related matters under these Regulations shall not involve any false or misleading information.
+
+#### Article 41
+
+The designer, manufacturer, modifier or the Owner of the Drone which has passed the inspection or certification by CAA and been issued relevant certification documents prior to the enactment of the Regulations may apply to CAA for relevant inspection certificate or certification document after the Regulations take effect.
+
+The Pilot who has passed CAA’s examination and obtained relevant certification document prior to the enactment of the Regulations may apply to CAA for the relevant License after the Regulations take effect.
+
+#### Article 41-1
+
+From May 15 2021, due to the epidemic during the period of the Central Epidemic Command Center was set up and CAA temporary suspend the business for drone inspection or renewal of License, the applicant shall state the reason and attach the relevant documents to apply an approval from CAA for issuing the document of extension up to and not exceed 3 months with one of the following conditions:
+
+\1. In the event that the applicant cannot apply for re-inspection within the due date set forth in Article 15, Paragraph 4.
+
+\2. In the event that the applicant cannot apply for renewal of the License within the due date set forth in Article 23, Paragraph 2.
+
+From May 15 2021, due to the epidemic during the period of the Central Epidemic Command Center was set up and CAA temporary suspend the business for test of Remote Pilot License so that applicant cannot complete the practical test of Pilot within the due date set forth in Article 22, Paragraph 1, the applicant shall state the reason and attach the relevant documents to apply an approval from CAA for extending the aforementioned due date for 3 months.
+
+Those who have been approved for extension in accordance with the preceding two paragraphs, and still affected by the epidemic during the extension, can apply to CAA for further extension in accordance with the provisions of the preceding two paragraphs.
+
+#### Article 42
+
+The date on which the Regulations shall take effect shall be determined by the Ministry of Transportation and Communications
+
+## Attachments
+
+- [Attachment 1 Application Form For Registration of Drone, Change of Particulars and Extension of Validity Period.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008966)
+- [Attachment 2 Application Form for Drone Inspection Certificate.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008967)
+- [Attachment 3 Type Inspection Certificate.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008968)
+- [Attachment 4 Type Inspection Mark and Type Certification Mark of Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008969)
+- [Attachment 5 Application for Type Validation Approval of Imported Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008970)
+- [Attachment 6 Regulations Governing Test Flights of Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008971)
+- [Attachment 7 Inspection Certificate of Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008972)
+- [Attachment 8 Special Inspection Certificate of Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008973)
+- [Attachment 9 Relevant Regulations Governing Remote Pilot Licenses.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008974)
+- [Attachment 10 Application Form for Written and Practical Test.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008975)
+- [Attachment 11 Application Form for Remote Pilot License.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008976)
+- [Attachment 12 Specifications of Drone Used in Practical Test.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008977)
+- [Attachment 13 Operation Manual of Government Agencies (Institutions), Schools or Legal Persons.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008978)
+- [Attachment 14 Activity Plan of Government Agencies (Institutions), Schools or Legal Persons.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008979)
+- [Attachment 15 Notification Form for Flight Safety-Related Event Involving Drone.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008980)
+- [Attachment 16 Application Form For Certification of Registration of Drone, Inspection Certificate and Remote pilot Certificate by Foreign Nationals.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008981)
+- [Attachment 17 Fee Schedule.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008982)
+- [Attachment 18 REPORT OF DRONE FAILURES, MALFUNCTIONS, OR DEFECTS.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008983)
+
+## History
+
+1.Promulgated on July 23, 2019, and enforced on March 31, 2020.
+
+2.Amendment to Articles 2, 3, 17, 20, 31, 32, attachments 9 to 11 under Article 20, attachment 12 under Article 21, and Attachment 13 under Article 30; addition of Article 32-1, promulgated on July 14, 2021, and enforced on July 19, 2021.
+
+3.Amendment to Article 41-1, promulgated on November 26, 2021, and enforced on November 29, 2021.
+
+4.Amendment to Article 6 and Attachment 9 under Article 20, promulgated on December 30, 2022, and enforced on January 1, 2023.
+
+5.Amendment to Articles 2, 6, 11, 12, 13, 15, 17, 18, 20, 22, 23, 25, 27, 28, 30, 31, 32, 34, and 35, as well as Attachment 12 under Article 21, Attachment 15 under Article 36, and Attachment 17 under Article 40; addition of Articles 35-1 and 40-1, promulgated on November 14, 2024. Except for Paragraph 2 of Article 12, for which the enforcement date shall be determined separately by the MOTC, and Article 17, which shall be enforced from December 1, 2025, all other provisions enforced from December 1, 2024.

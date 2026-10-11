@@ -1,0 +1,179 @@
+---
+title: "Ministry of Education’s Regulations Governing the Establishment of the National Professorship"
+title_zh: "教育部設置國家講座辦法"
+identifier: "H0020039"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞高等教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-05-28
+last_amended: 2025-10-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0020039"
+retrieved: 2026-10-12
+---
+
+# Ministry of Education’s Regulations Governing the Establishment of the National Professorship
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0020039-ministry-of-educations-regulations-governing-the-establishment-of-the-national.md](../../../zh/regulations/ministry-of-education/H0020039-ministry-of-educations-regulations-governing-the-establishment-of-the-national.md)) is authoritative.
+
+## Article 1
+
+In order to provide incentives for cademic development, enhance teaching and research standards, and encourage universities to develop their own individual strengths, the Ministry of Education (hereunder “the Ministry”) has established the National Chair Professorships, in accordance with the provisions of Paragraph 2 of Article 17 of the University Act, and has formulated these Regulations.
+
+## Article 2
+
+Each National Chair Professorship shall be awarded to a full-time university professor who, on the date set as the deadline for universities to submit recommendations to the Ministry, is aged seventy years or less; to whom none of the situations referred to in the subparagraphs of Article 14, Paragraph 1 of the Teachers’ Act or in the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertain; and who when recommended or selected is still actively engaged in ongoing academic research and teaching, held in high esteem, playing a leading role in shaping the direction of academic thought, and an exemplary role model in the academic community. In addition, the person shall satisfy one of the following eligibility requirements:
+
+1.Be an Academician of Academia Sinica;
+
+2.Have received a Ministry of Education Academic Award at least three years earlier; or
+
+3.Have some outstanding achievement equivalent to being an Academician of Academia Sinica, or to having received a Ministry of Education Academic Award, in an academic or professional field in Taiwan or overseas.
+
+The current president of a university is not permitted to be one of the candidates recommended or selected for the National Chair Professorship referred to in the preceding paragraph.
+
+## Article 3
+
+A person who meets the eligibility requirements for a National Chair Professorship set out in Paragraph 1 of the preceding article shall be recommended to the Ministry by their university after their university has conducted a substantive review and their recommendation has been approved by the university-level Teacher Evaluation Committee. Each university may recommend up to four people in each disciplinary category, and the selections shall be made by the Ministry.
+
+A recommendation for a person who meets the eligibility requirements for a National Chair Professorship set out in Subparagraph 1 or 2 of Paragraph 1 of the preceding article, which has been co-signed by three people in the same disciplinary category as the person recommended but not including that person, each of whom is either an Academician of Academia Sinica or a recipient of a National Chair Professorship, shall be submitted to the Ministry by their university, together with the university’s other recommendations, after the person’s recommendation has been submitted to and approved by the university-level Teacher Evaluation Committee. The number of recommendations of this nature is not counted toward the quotas stipulated in the provisions of the preceding paragraph. However, the maximum number of additional recommendations of this nature permitted for each disciplinary category is the same as the maximum number for each disciplinary category in those quotas.
+
+The Ministry’s procedures to select National Chair Professors are as follows:
+
+1.A separate Review Board will be set up for each of five disciplinary categories, based on different academic fields: the Humanities and Arts; Social Sciences; Mathematics and Natural Sciences; Biology and Medical and Agricultural Science; and Engineering and Applied Science. From nine to eleven prestigious scholars and experts shall be appointed to be the members of each Review Board. The Standing Committee of the Ministry of Education’s Academic Review Committee  shall designate the convener of each Review Board.
+
+2.Each Review Board shall conduct its first review after undertaking a detailed evaluation of the academic research and teaching performance of each of the recommended candidates and fully discussing each one.
+
+3.Each Review Board shall forward all the material pertaining to each candidate who has passed the first review that was provided by the person who recommended the candidate to three or four scholars or experts for further evaluation, after which it will conduct its second review. Each Review Board will then give its recommendations of candidates for a National Chair Professorship to the Standing Committee.
+
+4.The Standing Committee shall review and discuss the results of each evaluation of each of the recommended candidates referred to in the preceding subparagraph and then draw up and submit a list of candidates for a National Chair Professorship to a meeting of all members of the Academic Review Committee to discuss and deliberate over.
+
+5.A meeting that shall be attended by at least half of the members of the Academic Review Committee shall vote on the list of candidates that resulted from the deliberations of the meeting of all members of the Academic Review Committee and the National Chair Professors will be selected based on the number of votes received by each of those candidates in accordance with one of the following provisions:
+
+(1)At least two thirds of the members present give their approval; or
+
+(2)More than half of the members present give their approval, and at least half of the members who are in the same disciplinary category as the candidate recommended for a National Chair Professorship are present, and at least two thirds of those members give their approval.
+
+\6. If any of the annual quota of National Chair Professorships remain unawarded after this selection procedure, the members present at the meeting of the Academic Review Committee attended by at least half of its members may continue and cast one further ballot for each National Chair Professorship still unawarded if more than half of the members present at the meeting agree to do so. If any additional ballot still fails to result in any candidate receiving the required number of votes stipulated in the preceding subparagraph, that National Chair Professorship shall remain unawarded .
+
+## Article 3-1
+
+The recusal of members of the Academic Review Committee from review and ballot-casting procedures shall be handled in accordance with the following provisions:
+
+1.If a member of the Academic Review Committee is one of the candidates currently recommended for a National Chair Professorship, that person shall recuse themself from the review and ballot-casting procedures.
+
+2.If any one of the circumstances listed below pertains to any member of the Academic Review Committee and to any candidate currently recommended for a National Chair Professorship, the committee member shall disclose those circumstances to the Committee. That member may participate in the review process but shall recuse themself  from the ballot-casting procedure:
+
+(1)The committee member and the candidate have had a teacher-student relationship in which the committee member was an advisor for the candidate’s doctoral or master’s degree thesis;
+
+(2)The committee member and the candidate both hold a position in the same department, institute, or division, or in another unit of an equivalent-level;
+
+(3)The committee member and the candidate have co-authored an academic paper or research findings published within the past two years;
+
+(4)The committee member and the candidate have jointly conducted a research project within the past three years; or
+
+(5)Any of the circumstances referred to in the provisions of Article 32 and Article 33 of the Administrative Procedure Act.
+
+3.If any member of the Academic Review Committee has or has had some relationship with any candidate recommended for a National Chair Professorship, apart from those relationships listed in the subparagraphs above, all of which must be disclosed, the member may disclose it to the Academic Review Committee of their own volition, and the Academic Review Committee will then discuss whether recusal is necessary and pass a resolution.
+
+## Article 4
+
+The annual quota for approved National Chair Professorships shall be limited to thirteen which shall be allocated among the disciplinary categories specified in Article 3, Paragraph 3, Subparagraph 1. The Humanities and Arts category and the Social Sciences category shall each be allocated two, and the remaining categories shall each be allocated three.
+
+## Article 5
+
+The term of each National Chair Professorship is three years. If it is necessary for a National Chair Professorship to be extended beyond the end of this term, the procedures set out in the provisions of Article 3 shall be conducted before the term ends.
+
+Any person who has served two terms as a National Chair Professor shall become an honorary life-time National Chair Professor, without participating in any further recommendation or selection process.
+
+## Article 6
+
+During the period when they are receiving the associated grant, National Chair Professors shall set up elective courses that students from other universities may enroll in; deliver lectures around the country; publicize research and teaching achievements, in order to enhance the quality and general climate of academic research and teaching in Taiwan; and each National Chair Professor shall submit a detailed summary to the Ministry of their findings or other achievements, lectures and presentations given, and substantial contributions made each year
+
+Their university shall assist each National Chair Professor to establish a designated area where details of their research and teaching achievements will be accessible, in order to enhance academic exchanges and put their achievements to practical use.
+
+## Article 7
+
+In addition to the necessary resources that each university that recommended a particular National Chair Professorship will provide, the Ministry shall provide NTD two million annually, which shall be allocated each year as follows:
+
+1.A personal grant for each National Chair Professor: up to a maximum of NTD 1,500,000.
+
+2.Teaching and research funds: the amount remaining after the allocation of funds for the National Chair Professor’s personal grant, to be used for employing assistants, operating expenses, and transportation.
+
+Any person selected to be a National Chair Professor is not permitted to concurrently receive any other grant from the public affairs budget of any other government agency (organization).
+
+## Article 8
+
+If any of the following circumstances occur, a National Chair Professor’s personal grant shall be handled in accordance with the following provisions:
+
+1.If a National Chair Professor leaves the university where they have a position as a fulltime professor, their grant shall be terminated from the next semester. If, however, the university where the person newly takes up an appointment may continue providing similar administrative resources, and a similar research environment, and offer National Chair Professorship related courses, then that person may continue to receive the grant.
+
+2.If a National Chair Professor takes research leave, they shall report this to the Ministry, and the Ministry shall suspend their grant from the month following the start of their leave. Grant payments shall be resumed when their research leave ends and continue until the expiration of the term of the National Chair Professorship.
+
+3.If a National Chair Professor is seconded in accordance with regulations  for a period not exceeding two years, their grant shall be suspended from the month following the start of the secondment. The grant payments shall be resumed when the secondment period ends and continue until the expiration of the term of the National Chair Professorship.
+
+4.If a National Chair Professor assumes the office of university president during the grant period, they shall report this to the Ministry, and their grant shall be suspended from the month following the start of their presidency. The grant payments shall be resumed after the person completes their presidential term and then continue until the term of their National Chair Professorship ends.
+
+The provisions of Subparagraph 4 of the preceding paragraph shall apply to National Chair Professors selected in and after 2026.
+
+## Article 8-1
+
+If any of the circumstances referred to in the subparagraphs below pertained to a National Chair Professor before their selection, the Ministry shall submit the matter to the Academic Review Committee for deliberation and if it passes a resolution approving the disciplinary measure, the Ministry shall declare the person’s eligibility to be a National Chair Professor null and void and require the personal grant that they were paid in accordance with the provisions of Article 7, Paragraph 1, Subparagraph 1 to be repaid:
+
+1.Any of the situations referred to in the subparagraphs of Article 14, Paragraph 1 or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertains to them, and they were dismissed.
+
+2.They were involved in a violation of academic ethics that would have adversely affected the decision to select them.
+
+3.Any material presented during their selection procedure contained false or incorrect details that would have adversely affected the decision to select them.
+
+If either of the circumstances referred to in the subparagraphs below pertains to a National Chair Professor after they have been appointed, the Ministry shall submit the matter to the Academic Review Committee for deliberation, and if it passes a resolution approving the disciplinary measure, the Ministry shall revoke the person’s eligibility to hold a National Chair Professorship and shall cease paying the personal grant that was paid in accordance with the provisions of Article 7, Paragraph 1, Subparagraph 1:
+
+1.Any of the situations referred to in the subparagraphs of Article 14, Paragraph or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertains to them, and they have been dismissed.
+
+2.They have become involved in a violation of academic ethics and the circumstances are serious.
+
+If, subsequent to their appointment, a National Chair Professor no longer has the status of teacher, and the institution (or agency) at which they are employed or a related committee constituted in accordance with the law has investigated and verified that they engaged In conduct referred to in any of the subparagraphs of Article 14, Paragraph 1 or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act, the Ministry shall submit the matter to the Academic Review Committee for deliberation, and if it passes a resolution supporting the disciplinary measure, the Ministry shall declare the person’s eligibility to hold a National Chair Professorship null and void or revoke their eligibility and handle the matter in accordance with the provisions of the preceding two paragraphs.
+
+If the Ministry declares a person’s eligibility to hold a National Chair Professorship null and void or revokes their eligibility during the period in which any associated grant is being paid, the Ministry shall cease its allocation of the teaching and research funds referred to in Article 7, Paragraph 1, Subparagraph 2. If any such funds have been released but have not yet been spent, the operations for which the funds were to be used shall be discontinued and the unspent funds must be returned.
+
+The procedures for the Ministry to declare a person’s eligibility to hold a National Chair Professorship null and void or revoke their eligibility, in accordance with the provisions of Paragraph 1 to Paragraph 3, are as follows:
+
+1.The procedures for the Ministry to declare a person’s eligibility to hold a National Chair Professorship null and void pursuant to Paragraph 1, Subparagraph 1, or Paragraph 3, or to revoke a person’s eligibility to hold a National Chair Professorship pursuant to Paragraph 2, Subparagraph 1, or Paragraph 3: the Ministry shall submit the matter to the Academic Review Committee for deliberation.
+
+2.To declare a person’s eligibility to hold a National Chair Professorship null and void pursuant to Paragraph 1, Subparagraph 2 or Subparagraph 3, or to revoke a person’s eligibility to hold a National Chair Professorship pursuant to Paragraph 2, Subparagraph 2: an investigation team organized by the Ministry shall investigate the matter, and after the investigation team makes its professional judgement, it shall draw up and submit a written report of its investigation to the Academic Review Committee for deliberation.
+
+3.The deliberation procedures referred to in the two preceding subparagraphs shall be conducted at meetings of the Academic Review Committee attended by at least half of its members, and a resolution approving the disciplinary measure will be passed if at least two-thirds of the members present vote in favor.
+
+## Article 9
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Promulgated on May 28, 1997
+
+\2. Amended on July 7, 2000
+
+\3. Amended on May 28, 2002
+
+\4. Amended on March 15, 2004
+
+\5. Amended on October 3, 2006
+
+\6. Amendment to all articles, promulgated on January 8, 2008.
+
+\7. Amended on March 18, 2013.
+
+\8. Amendment to all articles, promulgated on March 23, 2017.
+
+\9. Amended on December 3, 2020
+
+\10. Amended on October 13, 2021
+
+\11. Amended on November 24, 2023
+
+\12. Amended on October 31, 2025

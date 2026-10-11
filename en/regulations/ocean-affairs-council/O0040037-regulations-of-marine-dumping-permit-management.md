@@ -1,0 +1,183 @@
+---
+title: "Regulations of Marine Dumping Permit Management"
+title_zh: "海洋棄置許可管理辦法"
+identifier: "O0040037"
+type: regulation
+law_level: "命令"
+category: "行政＞海洋委員會＞海洋資源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-12-25
+last_amended: 2023-11-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040037"
+retrieved: 2026-10-12
+---
+
+# Regulations of Marine Dumping Permit Management
+
+> Translation. The Chinese text ([zh/regulations/ocean-affairs-council/O0040037-regulations-of-marine-dumping-permit-management.md](../../../zh/regulations/ocean-affairs-council/O0040037-regulations-of-marine-dumping-permit-management.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 23 Paragraph 2 and Article 27, Paragraph 1 applied to Article 23, Paragraph 2 of the Marine Pollution Control Act (herein referred to as this Act)
+
+## Article 2
+
+Those who wish to dumping Category B or C substances announced pursuant to Article 24 Paragraph 1 of this Act into the sea may do so only after applying to the central competent authority for a permit and receiving a permit document.
+
+## Article 3
+
+Those who apply for a marine dumping permit pursuant to the foregoing article shall submit an application and the following documents:
+
+I. Photocopies of relevant permits issued by the competent authority or industry competent authority, registrations, licenses or other verification documents
+
+II. A photocopy of the personal identification document,address and contact telephone number of the applicants statutory responsible person
+
+III. The name of the marine transport ship or equipment, a photocopy of the personal identification document of the ship’s or equipment’s statutory responsible person, photocopies of the pollution and damage compensation liability insurance policy or security provided
+
+IV. Marine dumping operation plan, which should cover the following items:
+
+A. Name, type, quantity, and source, as well as an analysis report on the physical, chemical and biological characteristics of the substance to be dumped at sea
+
+B. Description of the dumping area
+
+C. Loading operations, pollution control measures, dumping method, and sea transport itinerary
+
+D. Number of times of marine dumping and expected period
+
+E. Dumping rate
+
+F. Monitoring plan including monitoring area, monitoring positions, monitoring items, monitoring frequency, monitoring methods, sampling and analysis methods as well as quality assurance/quality control plan
+
+G. Emergency response plan
+
+V. Necessary explanation of marine dumping
+
+VI. Marine dumping operation impact assessment including at least four background surveys of the dumping area within the most recent two years, with survey periods spaced at least three months apart, and the possible impact of marine dumping on the marine environment, marine life, and other marine uses
+
+VII. Other documents designated by the competent authority
+
+When applicants rent ships or equipment to perform marine dumping, they shall submit relevant information on the ship or equipment mentioned in Subparagraph 3 of the foregoing Paragraph before collecting the permit documents.
+
+## Article 4
+
+Marine dumping ships or equipment as referred to in Paragraph 1, Subparagraph 3 of the foregoing Article must comply with the following regulations:
+
+I. They must be able to control the emission rate of the substance to be dumped at sea.
+
+II. When not carrying out dumping operations, they shall have water-impermeable equipment or structures.
+
+III. They must have equipment or structures that prevent the falling or outflow of the substance to be dumped at sea.
+
+IV. They shall install an automatic identification system which must be switched on when the engine is started, and provide navigation information.
+
+V. They shall have installed a global navigation system, which immediately automatically monitors when the engine starts and continually records the ships’ or equipment’s trajectory; during marine dumping the time and the position of the ship or equpiment shall be recorded once every five minutes.
+
+## Article 5
+
+The necessary explanation of marine dumping referred to in Article 3, Paragraph 1, Subparagraph 5 shall include the following items:
+
+I. An assessment of recycling, reuse, or best feasible disposal technologies for the substance to be dumped, including assessment of restoration through engineering, agriculture, or fisheries and other relevant technologies
+
+II. Comparison of marine dumping with other alternative solutions
+
+## Article 6
+
+Those who engage in marine dumping shall, at least 24 hours before loading ship or leaving harbor, notify the local coast guard authority and competent authorities at all levels online or by fax regarding the quantity to be dumped, name and marine transport itinerary of the loaded ship, dumping area, and timetable.
+
+## Article 7
+
+The following documents concerning ships or equipment used to perform marine dumping shall be kept on hand to facilitate inspection:
+
+I. Emergency response plan
+
+II. Ship certificates or relevant equipment approval documents from the industry competent authority.
+
+III. Photocopy of pollution and damage compensation liability insurance policy or security provided
+
+A ship or eqipment used for marine dumping in the foregoing paragraph shall be marked in a prominent location with the substance to be dumped, the permit’s validity period and document number.
+
+## Article 8
+
+The marine dumping permit document shall record the following items:
+
+I. Basic information
+
+A. The name, contact telephone number and address of the applicants
+
+B. The name, adress, contact telephone number and identification document number of the statutory responsible person of the applicants.
+
+II. Permit content:
+
+A. Name, type, and quantity of the substance to be dumped
+
+B. Dumping area
+
+C. Loading operations, pollution control measures, dumping method, dumping rate and sea transportation itinerary
+
+D. Number of times of dumping and dumping frequency
+
+E. Monitoring positions, monitoring items, monitoring frequency, monitoring methods, reporting, record preservation and other binding matters
+
+F. Restrictive terms regarding the dumping period
+
+G. Documents and information on the names of the ships or equipment used for marine dumping; and on the name, identification document number and address, and liability insurance of the statutory responsible person
+
+H. Other items designated by the central competent authority
+
+III. Validity period of the marine dumping permit document and document number
+
+## Article 9
+
+The validity period of marine dumping permit documents for Category B substances shall be period approved by the central competent authority.
+
+Marine dumping permit documents for Category C substances shall have a maximum validity period of three years.
+
+## Article 10
+
+When there are changes to the information recorded on a marine dumping permit document, the applicant shall register the changes with the central competent authority within thirty days after the occurrence of the change. When the changes involve the content of the permit, however, the applicant shall re-apply to the central competent authority for a permit.
+
+## Article 11
+
+When documents submitted by applicants with an application for a marine dumping permit are found to be false or untruthful, the central competent authority may revocate the permit.
+
+In one of the following circumstances at applicants that are engaged in marine dumping the central competent authority may cancel the permit:
+
+I. Article 8 on permit content has been violated twice during a six-month period.
+
+II. The premises have not engaged in marine dumping for a year.
+
+III. The applicants have suspended work (business) for more than six months. However, an enterprise that reports a valid reason for being unable to resume operations to the industry competent authority and receives the consent of the industry competent authority is not subject to this clause.
+
+## Article 12
+
+When the central competent authority receives an application for a marine dumping permit, it shall complete its documentary review within 14 days and notify the applying applicants to pay review fees within seven days. The central competent authority shall complete its actual review within two months of the day after the receival of the review fees from the applicants; when necessary the actual review may be extended for another two months, but only once.
+
+The applicants that apply for a permit pursuant to Article 3, Paragraph 2 shall submit relevant ship or equipment information to the central competent authority within the notification period. Applicants that fail to submit the information within the deadline shall have their application rejected. The central competent authority shall complete its actual review within 14 days after receiving the information from the applicants.
+
+Those circumstances in which the review of the application documents in the two forgoing paragraph demonstrates failure to comply with these Regulations or incomplete content, the central competent authority shall notify the applicant to make corrections within a limited time period. The number of days for making corrections shall not be calculated within the review period, but the overall period for correction may not exceed 42 days; any applications that have not been corrected by the deadline shall be rejected.
+
+The central competent authority may, when necessary, consult with the relevant industry competent authority during the review in Paragraph 1.
+
+## Article 13
+
+The applicants shall, following notification of review and approval by the central competent authority, pay certificate fees before claiming a permit document.
+
+## Article 14
+
+Those that violate either Articles 4, 6, or 7, or that fail to change permit content pursuant to Article 8 Subparagraph 2 or Subparagraph 3, or that violate Article 10, shall be punished pursuant to Article 51 Subparagraph 2 of this Act.
+
+## Article 15
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+1.Twenty-one articles promulgated by Environmental Protection Administration Order Huan-Shu-Shui-Tzu No. 0910088369 on December 25, 2002.
+
+2.Fifteen articles revised and promulgated by Environmental Protection Administration Order Huan-Shu-Shui-Tzu No.0980000029 on Jan. 8, 2009; name of the Regulations revised from the original name “Marine Dumping and Marine Incineration Management Regulations”.
+
+3.Amended and promulgated by Ocean Affairs Council Order Hai-Bao-Tzu No. 1120011419 on November 30, 2023

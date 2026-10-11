@@ -1,0 +1,251 @@
+---
+title: "Regulations for the Organization Procedure, Training Program, Drill and Service of the Voluntary Fire Fighters"
+title_zh: "義勇消防組織編組訓練演習服勤辦法"
+identifier: "D0120033"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞消防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-06-01
+last_amended: 2025-08-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120033"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Organization Procedure, Training Program, Drill and Service of the Voluntary Fire Fighters
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0120033-regulations-for-the-organization-procedure-training-program-drill-and-service.md](../../../zh/regulations/ministry-of-the-interior/D0120033-regulations-for-the-organization-procedure-training-program-drill-and-service.md)) is authoritative.
+
+## Article 1
+
+This regulation is formulated in accordance with Paragraph 1of Article 28 in the Fire Services Act.
+
+## Article 2
+
+Volunteer firefighters shall accept the orders of the staff in command and assist in firefighting works.
+
+## Article 3
+
+Volunteer fire brigades (hereinafter referred to as the Brigade) established by governments of each municipality, county (city) shall set up battalions, stations, and branches according to service requirements. The organization can be referenced in the Supplementary Table.
+
+Accident insurance must be provided for volunteer firefighters, and shall be the expense of the local government of municipality or county (city).
+
+Internal management affairs of the Brigade shall be regulated by the municipal, county (city) fire department (hereinafter referred to as the Fire Department) together with the Brigade.
+
+## Article 4
+
+Newly recruited volunteer firefighters (hereinafter referred to as new recruits) shall have the following qualifications:
+
+\1. A citizen of the Republic of China or foreigners (including residents from China, Hong Kong or Macao) with valid resident permits, aged 18 and above.
+
+\2. Resides in the local area and not taking part in any other volunteer or civil defense organizations.
+
+\3. Has not been sentenced to imprisonment within the past 10 years for nationals of the Republic of China, or during their stay in the Republic of China for foreigners (including residents from China, Hong Kong, and Macao). However, R.O.C. nationals with records of criminal negligence or probationary declaration are not limited to this.
+
+Consultants are not subject to the provisions of Subparagraph 2 in the preceding Paragraph.
+
+Men who have retired from their position as a substitute fire fighting civilian serviceman are the first eligible for hire as volunteer firefighters.
+
+Foreign new recruits (including residents from China, Hong Kong, and Macao) shall not be included in manpower mobilization for supporting military actions.
+
+## Article 5
+
+The hiring procedures and qualifications for all levels of volunteer firefighters are as follows (excluding consultants):
+
+1.The commander and deputy commander of the Brigade shall be selected by the Fire Department or chosen from who have been qualified by senior management workshop trainings. This shall be reported to the Ministry of the Interior for recruitment approval. Other personnel in the Brigade shall be selected by the Brigade or chosen from who have been qualified by middle management workshop trainings or above. This shall be reported to the Fire Department for recruitment approval.
+
+2.The commander of battalions is selected by the Brigade or chosen from who have been qualified by high management workshop trainings; and deputy commander shall be selected by the Brigade or chosen from who have been qualified by middle management workshop trainings. This shall be reported to the jurisdiction's brigade and transferred to the Fire Department for recruitment approval. Other personnel in the battalion shall be selected by the Brigade or chosen from who have been qualified by entry-level management workshop trainings. This shall be reported to the Brigade affiliated to the jurisdiction and transferred to the Fire Department for the recruitment approval.
+
+3 All personnel of the station shall be selected by the jurisdiction's brigade or chosen from who have been qualified by entry-level management workshop trainings. This shall be reported to the jurisdiction's station and transferred to the Fire Department for recruitment approval.
+
+4.The head and deputy heads of branches shall be selected by the Brigade or battalion, or by Brigade if there is no battalion or station, or chosen from who have been qualified by basic management workshop trainings. This shall be reported to the jurisdiction’s branch and transferred to the Fire Department for recruitment approval. Officers, deputy officers, squad leaders, and deputy squad leaders shall be selected by the branch or chosen from current volunteer firefighters. This shall be reported to the jurisdiction's branch and transferred to the Fire Department for recruitment approval.
+
+5.Branch officers shall be selected from volunteer firefighters and reported to the jurisdiction’s branch and transferred to the Fire Department for recruitment approval.
+
+The staff mentioned in the preceding paragraphs 1 to 4 shall be reviewed by the a review team set up by the recruitment authority. The main assessment areas shall be determined by the Fire Department.
+
+The hiring procedure for consultants of all levels are as follows:
+
+1.Brigade consultants shall be selected from the Trigade and reported to the Fire Department for recruitment approval.
+
+2.Battalion consultants shall be selected from the jurisdiction’s battalion volunteer firefighters, and reported to the jurisdiction’s brigade and transferred to the Fire Department for recruitment approval.
+
+3.Station consultants shall be selected from the jurisdiction’s station volunteer firefighters, and reported to the jurisdiction’s brigade and transferred to the Fire Department for recruitment approval.
+
+4.Branch consultants shall be selected from the jurisdiction’s branch volunteer firefighters, and reported to the jurisdiction’s branch and transferred to the Fire Department for recruitment approval.
+
+## Article 6
+
+Age requirements for volunteer firefighters, excluding commandant, deputy commandants, and consultants in the Brigade, are as follows:
+
+1.Brigade officers: 70 years old and below.
+
+2.Battalion officers: 68 years old and below.
+
+3.Station officers: 65years old and below.
+
+4.Branch officers: 60 years old and below.
+
+5.Special assistant for disaster prevention education promotion: 68 years old and below.
+
+## Article 7
+
+Recruited volunteer firefighters, excluding consultants, branch officers, assistant officers, squad leaders, deputy squad leaders, and officers, shall be employed for a period of three years. Those with good grades may be re-appointed twice at most. However, if recruited volunteer firefighters are foreigners (including residents from China, Hong Kong, or Macau), their period of employment shall be limited to their legal residence in Taiwan.
+
+Shall volunteer firefighters in the preceding Paragraph be absent for some reason during their employment period, the successor shall be employed to make up their employment period. Successors with more than two years employment shall be counted as a single appointment.
+
+## Article 8
+
+Volunteer firefighters may be dismissed by the hiring authority under the following circumstances:
+
+1.Loss of the nationality of the Republic of China, change of resident purpose, revoked or cancelled resident permit.
+
+2.Handicapped and cannot qualify for volunteer work.
+
+3.Not residing in the local area or is taking part in other volunteer or civil defense organizations. Consultants are not limited to this.
+
+4.Has been sentenced to imprisonment, but criminal negligence or probationary declaration are not limited to this.
+
+5.Age exceeding requirements in Article 6.
+
+6.Failure to participate three times or above within one year in training stipulated in Articles 10 to 14, drills stipulated in Article 16, or services stipulated in Article 18.
+
+7.Other incompetence and behavior sufficient to affect the team's image.
+
+## Article 9
+
+Training for volunteer firefighters include basic training, professional training, management training, long-term training, and other training.
+
+The basic training courses shall be set by the central authority. The remaining training courses shall be set by respective training authorities at each level.
+
+## Article 10
+
+Basic training shall be handled by the Fire Department and shall gather new recruits for more than 48 hours of training.
+
+New recruits with prior firefighter status shall be exempt from basic training.
+
+## Article 11
+
+Professional training takes place after basic training, and more than 24 hours of training shall be administered according to service characteristics by the Fire Department.
+
+## Article 12
+
+The types and procedure of management training are as follows:
+
+\1. Advanced management workshop training: This shall be held by the agency. More than 12 hours of training shall be provided to previous or current volunteer firefighters with at least three years of experience at a station commander position or above (including consulting position).
+
+\2. Upper-Intermediate management workshop training: This shall be held by the Fire Department. More than 16 hours of training shall be provided to previous or current volunteer firefighters with at least two years of experience at a branch head position or above (including consulting position).
+
+\3. Elementary management workshop training: This shall be held by the Fire Department. More than 20 hours of training shall be provided to previous or current volunteer firefighters with at least one year's experience at a squad leader position or above (including consulting position), or to those who have been qualified from basic management workshop training.
+
+\4. Beginner management workshop training: This shall be held by the Fire Department. More than 24 hours of training shall be provided to previous or current volunteer firefighters with at least one year's experience (including consulting position).
+
+## Article 13
+
+Annual training shall be handled by the Fire Department and shall gather branches, stations, or brigades for concentrated training. The annual training hours shall be cumulated over 24 hours each year.
+
+## Article 14
+
+Other trainings shall be carried out by the agency or Fire Department to assist the promotion of firefighting services, various workshops, and publicity works.
+
+## Article 15
+
+(Deleted)
+
+## Article 16
+
+The Fire Department may call upon volunteer firefighters to conduct service drills or comprehensive drills shall the duty be required.
+
+## Article 17
+
+The Fire Department may call upon volunteer firefighters to perform service shall the duty be required.
+
+## Article 18
+
+Volunteer firefighters shall quickly arrive at the assigned service location upon receiving notice of service. Shall special situations arise, they can be exempted from service after leave application has been approved by the system.
+
+## Article 19
+
+Volunteer firefighters shall wear provided clothing during trainings, drills, and services, and be fully equipped. However, emergency situations are not limited to this.
+
+## Article 20
+
+Volunteer firefighting organizations shall be equipped with the following, and shall be provided to volunteer firefighters for use:
+
+1.Firefighting coats, helmets, shoes, raincoats.
+
+2.Self-container breathing apparatus or protecting equipment.
+
+3.Disassembling tools.
+
+4.Other equipment necessary for assisting in firefighting.
+
+## Article 21
+
+The banner and service certificates of volunteer firefighting organizations shall be issued by the Fire Department.
+
+The service certificate format in the preceding Paragraph shall be determined by the agency.
+
+## Article 22
+
+Volunteer firefighting organizations may not make official communications to the public independently.
+
+## Article 23
+
+The attendance and performance of volunteer firefighters during trainings, drills, and services are assessed by the Fire Department and made into written records for re-employment reference.
+
+## Article 24
+
+The agency shall conduct evaluation and review of the Brigade at least once every three years.
+
+## Article 25
+
+The funds required in this regulation shall be budgeted by the agency for central governments, and by the municipality and county (city) governments for municipalities, counties (cities).
+
+## Article 26
+
+Harbor Fire Corps can establish volunteer firefighting organizations according to the agency's regulations to assist in firefighting work. The organization, training, drill, and service requirements shall be in accordance with this regulation.
+
+## Article 27
+
+This regulation shall be effective on the release date.
+
+## Attachments
+
+- [Supplementary Table.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009380)
+
+## History
+
+\1. Promulgated by Decree No. 9086646 issued by the Ministry of the Interior on 1 June, 2001, with 27 Articles in total, and was implemented on the date of its release.
+
+\2. Articles 3~8, and12 were amended and promulgated by Decree No. 0920092663 issued by the Ministry of the Interior on 26 March, 2003.
+
+\3. Articles 5, 9, 23 were amended, Article 15 was deleted and promulgated by Decree No. 0930092365 issued by the Ministry of the Interior on 24 November, 2004.
+
+\4. The Supplementary Table in Articles 5 and 3 were amended and promulgated by Decree No. 0950013662 issued by the Ministry of the Interior on 26 January, 2006.
+
+\5. Article 6 was amended and promulgated by Decree No. 0950826120 issued by the Ministry of the Interior on 12 December, 2006.
+
+\6. Article 6 was amended and promulgated by Decree No. 0960824828 issued by the Ministry of the Interior on 28 August, 2007.
+
+\7. Articles 6, 8, and the Supplementary Table in Article 3 were amended and promulgated by Decree No. 1020825946 issued by the Ministry of the Interior on 31 December, 2013.
+
+\8. Articles 4, 5, 8, 10, 12, and the Supplementary Table in Article 3 were amended and promulgated by Decree No. 1060822807 issued by the Ministry of the Interior on 6 September, 2017.
+
+\9. Articles 4, 7, and 8 were amended and promulgated by Decree No. 1080821584 issued by the Ministry of the Interior on 23 April, 2019.
+
+\10. Article 3 was amended and promulgated by Decree No. 1090821993 issued by the Ministry of the Interior on 28 May, 2020.
+
+\11. Article 4 was amended and promulgated by Decree No. 1100821023 issued by the Ministry of the Interior on 4 May, 2021.
+
+\12. Article 5 was amended and promulgated by Decree No. 1110821120 issued by the Ministry of the Interior on 20 October, 2022.
+
+\13. Articles 6 was amended and promulgated by Decree No. 1120825565 issued by the Ministry of the Interior on 31 August, 2023.
+
+\14. Articles 26 was amended and promulgated by Decree No. 1120826860 issued by the Ministry of the Interior on 17 November, 2023.
+
+\15. Articles 6 and the Supplementary Table in Article 3 was amended and promulgated by Decree No. 1141603618 issued by the Ministry of the Interior on 5 August, 2025.

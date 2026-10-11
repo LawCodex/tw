@@ -1,0 +1,269 @@
+---
+title: "The Regulation Governing the Handling of Investigation Procedures for Railway Occurrence"
+title_zh: "重大鐵道事故調查作業處理規則"
+identifier: "K0030023"
+type: regulation
+law_level: "命令"
+category: "行政＞國家運輸安全調查委員會＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-02-21
+last_amended: 2025-05-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0030023"
+retrieved: 2026-10-12
+---
+
+# The Regulation Governing the Handling of Investigation Procedures for Railway Occurrence
+
+> Translation. The Chinese text ([zh/regulations/taiwan-transportation-safety-board/K0030023-the-regulation-governing-the-handling-of-investigation-procedures-for-railway.md](../../../zh/regulations/taiwan-transportation-safety-board/K0030023-the-regulation-governing-the-handling-of-investigation-procedures-for-railway.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are enacted pursuant to Article 38 of the Transportation Occurrences Investigation Act (hereinafter referred to as the "Act") and shall apply to the investigation of major railway occurrences.
+
+### Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. Major Railway Occurrences: Any occurrence classified as specified within the Scope of Major Transportation Occurrences prescribed pursuant to Paragraph 2, Article 2 of the Act.
+
+\2. Death: The fatality of a person at the scene of a major railway occurrence or within 30 days of the person sustaining an injury resulting from a major railway occurrence, and not from natural causes, the person's own behavior, or the conduct of other persons.
+
+\3. Injury: An injury sustained by a person resulting from a major railway occurrences, and not from natural causes, the person's own behavior, or the conduct of other persons, leading to:
+
+(1) Fracture of any bone, except fingers,thumbs,toes; or
+
+(2) Amputation of any limb; or
+
+(3) Dislocation of any shoulder, hip, knee, or the spine; or
+
+(4) Temporary or permanent loss of sight in either eye or both eyes; or
+
+(5) Damage to either eye or both eyes as a result of burns from chemical materials or heated metals, or as a result of other penetrative injuries; or
+
+(6) Hypothermia or hyperthermia; or
+
+(7) Emergency rescue; or
+
+(8) Hospitalization for more than 24 hours;
+
+(9) Loss of consciousness; or
+
+(10) An acute disease caused by the inhalation, ingestion, or skin absorption of specific substances and requiring medical treatment."
+
+\4. Accredited Representative: An individual who, in the event of a major railway occurrences, is appointed and authorized by the government of the State of Design or the State of Manufacture to lead one or more advisors from the State to participate in the investigation of the major railway occurrence conducted by Taiwan.
+
+\5. Duty Officer: A Taiwan Transportation Safety Board (hereinafter referred to as the TTSB) investigator assigned to 24-hour shifts responsible for receiving and notifications of reporting major railway occurrences.
+
+\6. On-Scene Investigator: A railway safety investigator designated by the TTSB upon notification of a major or suspected major railway occurrence, responsible for leading the on-scene team in the on-site determination of a major railway occurrence and investigation-related operations, and whose mission shall terminate upon the appointment of an Investigator-in-Charge.
+
+\7. On-Scene Team: An ad hoc group of TTSB investigators assembled to conduct on-site determination, documentation, and data collection in response to a major railway occurrence.
+
+\8. Investigator-in-Charge: An investigator designated by the TTSB in accordance with the Act to lead and manage the investigation of a major railway occurrences, and to appoint and establish the investigation task force; and direct major relevant investigations.
+
+\9. Investigation Task Force: An ad hoc investigation team established and directed by the investigator-in-charge pursuant to Paragraph 1, Article 11 of the Act.
+
+\10. Investigation Command Post: A facility established to provide command, control, communication, and logistic support to facilitate on-site investigation, as well as to host meetings and briefings for the investigation task force.
+
+\11. Data Recorder: A device that records the parameters of the railway rolling stock and system, and audio data.
+
+## Chapter 2 Reporting of Major Railway Occurrences
+
+### Article 3
+
+Following a major railway occurrence or a suspected occurrence, the public/private operators, the organizations of traffic control, the fire department, and the police department shall, within the time limit specified in Article 9 of the Act, report to the TTSB.
+
+In addition, pursuant to Paragraph 2, Article 9 of the Act, the public/private operators shall report to the TTSB any of the following occurrences involving trains or rolling stock of the railway system or the mass rapid transit system:
+
+\1. Operation against block protection.
+
+\2. Operation against the signal.
+
+\3. Signal passed at danger (SPAD).
+
+\4. Equipment damage.
+
+\5. Rolling stock failure.
+
+\6. Death of a person onboard
+
+\7. Death or injury of three or more persons.
+
+\8. Train or rolling stock uncoupling.
+
+\9. Train or rolling stock runaway movement.
+
+\10. Incorrect signal setting.
+
+\11. Electrical equipment failure.
+
+\12. Operation safety device failure.
+
+\13. Incapacitation of the driver.
+
+\14. Foreign object intrusion.
+
+In the event of any of the occurrences, the public/private operators, the transportation control agency, the fire department, and the police department shall submit a major railway occurrence report to the TTSB and give the TTSB duty officer a status report.
+
+## Chapter 3 Determination of Major Railway Occurrences
+
+### Article 4
+
+Upon receipt of any report, where necessary, the TTSB may designate an on-scene investigator to lead an on-scene team to the site of the occurrence. The public/private operators, the railway bureau, the local government, the local fire department, the local police department, and other relevant authority (agency) shall assist the on-scene investigator as necessary.
+
+### Article 5
+
+The TTSB shall, on the basis of the report and the information collected by the on-scene team, determine whether the event in the report is a major railway occurrence, and, where necessary, may form a review board to review disputes over the determination.
+
+### Article 6
+
+The TTSB may terminate an ongoing investigation after deliberating its feasibility but shall specify the reasons for such termination.
+
+## Chapter 4 On-Scene Conduct
+
+### Article 7
+
+Members of the on-scene team and the investigation task force shall carry a TTSB-issued investigator identification card when entering restricted areas such as the scene of the occurrence, wreckage storage area, reconstruction area, and investigation command post.
+
+### Article 8
+
+In the event of a major railway occurrence, the public/private operators, the railway bureau, the local government, the local fire department, and the local police department shall cooperate with the investigation task force in matters identified for investigation, and shall render assistance ex officio in respect of any of the following matters:
+
+\1. Collect information regarding casualties.
+
+\2. Collect information regarding damages.
+
+\3. Collect information regarding the site of the occurrence.
+
+\4. Conduct alcohol and drug testing of the train driver.
+
+\5. Locate the data recorders and other recording devices.
+
+\6. Retain contact information of the train driver and on-site on witnesses and record their statements.
+
+7.Transport evidence items, conduct aerial reconnaissance, and assist in measurements.
+
+### Article 9
+
+In the event of a major railway occurrence, the public/private operators, the railway bureau, the local government, the local fire department, or the local police department shall provide spaces for the operations of the investigation command post, temporary wreckage storage, as well as communication and office equipment.
+
+The TTSB may request the local government and law enforcement to take necessary security and precautionary measures on-site so as to prevent the wreckage of rolling stock, the facility damage, or the hazardous materials on board from endangering the public and to preserve the integrity of the scene.
+
+### Article 10
+
+The public/private operators shall preserve data from the recording device after the railway occurrence.
+
+### Article 11
+
+During the course of the investigation, the Ministry of the Interior, the Ministry of National Defense, the Ministry of Transportation and Communications, local governments, and any other private enterprises deemed appropriate and commissioned by the TTSB may, as requested by the investigation task force, take measures such as aerial surveillance or photography, and promptly report any information obtained to the TTSB.
+
+### Article 12
+
+After a major railway occurrence, the site's management authority (agency) shall preserve the integrity of the scene. If any of the following situations are likely to occur, the site's management authority (agency) shall negotiate with the Investigator-in-Charge to clear the scene as necessary:
+
+\1. Severe impact on railway operations and safety.
+
+\2. Further damage to the wreckage.
+
+\3. Occurrence of secondary disasters.
+
+\4. Injury to the general public.
+
+\5. Environmental pollution.
+
+## Chapter 5 Investigation of Major Railway Occurrences
+
+### Article 13
+
+To implement Article 11 of the Act, when necessary, the Investigator-in-Charge shall invite parties consisting of representatives and experts from the following authorities (agencies) to participate in the investigation task force:
+
+\1. The Railway Bureau, Ministry of Transportation and Communications.
+
+\2. The transportation bureaus of local governments.
+
+\3. The public/private operators.
+
+\4. The authorities (agencies) involved in the occurrence.
+
+\5. The investigation agencies of the railway rolling stock and system's State of Design and State of Manufacture.
+
+\6. Any relevant railway safety organizations or academic experts with railway safety expertise.
+
+Neither attorneys nor representatives from insurance companies may participate in the investigation task force.
+
+### Article 14
+
+If any person participating in the investigation referred to in the preceding article fails to comply with any direction given by the Investigator-in-Charge or breaches any provision of the confidentiality agreement, the Investigator-in-Charge may suspend his or her participation in the investigation.
+
+### Article 15
+
+In accordance with Article 20 of the Act, the investigation task force may, upon signing a confidentiality agreement and obtaining consent from the Investigator-in-Charge, perform any of the following tasks:
+
+\1. Visit the scene of the occurrence.
+
+\2. Inspect the wreckage.
+
+\3. Interview the witnesses and obtain statements in coordination with the investigation task force.
+
+\4. Examine the evidence.
+
+\5. Receive copies of all relevant documents.
+
+\6. Participate in readouts of data recorders.
+
+\7. Participate in the off-scene investigation, including component examinations, technical briefings, tests, and simulations.
+
+\8. Attend progress meetings covering analysis briefings, findings, causes, and safety recommendations.
+
+\9. Provide recommendations regarding various aspects of the investigation.
+
+### Article 16
+
+In accordance with Article 14 of the Act, the TTSB has priority in taking custody of any evidence. During the course of an investigation, the TTSB may return evidence that is no longer required to the relevant authorities (agencies).
+
+After the Final Report is released, the TTSB shall promptly return the relevant, evidence, including the rolling stock, wreckage, documents, and manuals, to the authorities (agencies) concerned.
+
+If the major railway occurrence involves death or injury, the TTSB shall not return the evidence to the authorities (agencies) concerned until approval is granted by the prosecutorial authorities.
+
+## Chapter 6 Interviews
+
+### Article 17
+
+Prior to an interview, an interviewee may request to be accompanied by a person during the interview. Unless permitted by the TTSB, no supervisor, employer, attorney, insurance agent of the interviewee may accompany the interviewee.
+
+The person accompanying the interviewee may not enter the interview site before committing to non-disclosure of the questions asked and answers given in the interview and noninterference with the interview.
+
+During the interview, the interviewee shall answer truthfully to all questions posed by the TTSB investigation task force. The accompanying person may not make any statements, interfere with, or interrupt the interview; however, the interviewee may consult with the accompanying person regarding the questions.
+
+Prior to the interview, the supervisor or employer of the interviewee shall not attempt to influence the interviewee's statement or interfere with the interview in any manner.
+
+Only persons permitted by the investigation task force may enter the interview site.
+
+After the interview, the interviewee shall not disclose the content of the interview to any third party.
+
+### Article 18
+
+Where the audio recordings, transcripts of interviews, or any restricted documents are subject to Article 21, Article 22 of the Act or any subparagraph under Paragraph 1, Article 18 of the Freedom of Government Information Law, their public disclosure shall be restricted.
+
+## Chapter 7 Draft Final Report Review and Safety Recommendations
+
+### Article 19
+
+In accordance with Paragraph 3, Article 24 of the Act, all relevant domestic and foreign authorities (agencies), as well as any entities being under investigation, are entitled to file an application in writing within 15 days of receipt of the draft Final Report to present their comments on the report at a TTSB board meeting.
+
+## Chapter 8 Supplementary Provisions
+
+### Article 20
+
+These Regulations shall become effective as of the date of promulgation.
+
+## History
+
+1.20 clauses established and promulgated on February 21, 2020
+
+2.Amendment to Article 2,3 promulgated on May 26, 2025

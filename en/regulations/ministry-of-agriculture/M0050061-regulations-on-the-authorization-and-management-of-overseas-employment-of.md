@@ -1,0 +1,673 @@
+---
+title: "Regulations on the Authorization and Management of Overseas Employment of Foreign Crew Members"
+title_zh: "境外僱用非我國籍船員許可及管理辦法"
+identifier: "M0050061"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2025-11-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050061"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Authorization and Management of Overseas Employment of Foreign Crew Members
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050061-regulations-on-the-authorization-and-management-of-overseas-employment-of.md](../../../zh/regulations/ministry-of-agriculture/M0050061-regulations-on-the-authorization-and-management-of-overseas-employment-of.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are established pursuant to Article 26, paragraph 3 of the Act for Distant Water Fisheries.
+
+### Article 2
+
+For any fishing vessel permitted by the competent authority to conduct distant water fisheries that meets any of the following conditions, its distant water fisheries operator may employ foreign crew member(s) overseas:
+
+\1. The fishing vessel, in the year of application for employing crew member(s) or in the preceding year, has operated on the high seas or in waters under the jurisdictions of any other country for a cumulative period of 30 days or above.
+
+\2. Where the condition set forth in the preceding subparagraph is not met, the fishing vessel has berthed in port continuously for a period of not less than six months but less than one year, and has, within the two years prior to the application for employing crew member(s), previously been approved to employ foreign crew member(s) overseas.
+
+\3. In the case of a newly built fishing vessel, the vessel from which it obtains the replacement qualification is a fishing vessel that has been permitted by the competent authority to conduct distant water fisheries.
+
+\4. The fishing vessel which resumes its operation after a period of suspension has previously been approved to employ foreign crew member(s) overseas within the two years before the suspension.
+
+The fishing vessel as referred to in subparagraph (3) of the preceding paragraph may, after obtaining its Vessel Nationality Certificate but before obtaining a distant-water fisheries permit, apply for employing foreign crew officer(s) overseas.
+
+### Article 2-1
+
+Before employing any foreign crew member overseas, any distant water fisheries operators shall join a wage arrears payment mechanism or provide a wage payment guarantee letter issued by a financial institution.
+
+The wage arrears payment mechanism as referred to in the preceding paragraph means the establishment and operation of wage arrears payment reserves in accordance with the guidelines governing the income, expenditure, utilization, and management of such reserves (hereinafter referred to as the “Wage Arrears Payment Management Guidelines”) as developed by the Taiwan Deep Sea Tuna Boat-Owners and Exporters Association, the Taiwan Squid and Saury Fisheries Association, the Taiwan Tuna Purse Seiners Association, the Taiwan Tuna Longline Association (hereinafter collectively referred to as the “fisheries association(s)”), or fishermen’s associations.
+
+The Wage Arrears Payment Management Guidelines as referred to in the preceding paragraph shall include the following matters and shall be submitted to the competent authority for approval before implementation; the same shall apply to any amendments thereto:
+
+\1. The determination of the amount of the wage arrears payment reserve corresponding to risk levels.
+
+\2. The establishment of a dedicated account for the wage arrears payment reserve, and the source(s) and use(s) of the reserve. Where exemptions from payment are provided, conditions for such exemptions.
+
+\3. The timing and procedures for payments from the reserve.
+
+\4. Procedures for recourse or replenishment after payments have been made from the reserve.
+
+The income and expenditure of the wage arrears payment reserves shall be reported to the competent authority for recordation in June and December of each year.
+
+The wage payment guarantee letter issued by a financial institution as referred to in paragraph 1 means a guarantee letter issued by a bank, credit cooperative, credit department of a farmers’ or fishermen’s association, or Chunghwa Post Co., Ltd. The guarantee period shall cover the validity period of the concerned distant water fisheries permit for the current year, and the guaranteed amount shall exceed the total amount calculated by multiplying the vessel’s maximum number of crew members by the minimum monthly wage for crew members announced by the competent authority for one year.
+
+### Article 3
+
+Any foreign crew member employed by distant water fisheries operators shall meet the following requirements:
+
+\1. He/she has reached the age of 18.
+
+\2. In the case of an ordinary crew, he/she shall possess the Crew Identification issued by his/her home country; for an officer, he/she shall possess the Certificate of Fishing Vessel Officer issued by his/her home country.
+
+\3. His/her home country is not on the list of countries that foreign crew members are prohibited from being employed.
+
+\4. During the period of employment by distant water fisheries operators of the Republic of China, he/she does not have any record of criminal convictions.
+
+The list of countries that foreign crew members are prohibited from being employed as referred to in subparagraph (3) of the preceding paragraph shall be announced by the competent authority.
+
+### Article 4
+
+Distant water fisheries operators may handle matters relating to overseas employment, transfer of employment, assumption of employment, termination of employment, transportation, at-sea embarkation or disembarkation of foreign crew members either directly on their own or by commissioning recruitment agents authorized by the competent authority
+
+Distant water fisheries operators that directly employ foreign crew members on their own shall not handle the matters as referred to in the preceding paragraph through any foreign recruitment agent.
+
+### Article 5
+
+Any distant water fisheries operator that employs a foreign crew member overseas shall, before signing a bilingual employment contract with such crew member, inform the crew of the matters that shall be included in the employment contract as stipulated in Article 6. Each foreign crew member shall be provided with one copy of the contract.
+
+For any distant water fisheries operator that commissions a recruitment agent to employ foreign crew member(s) overseas, a commission contract shall be signed between the operator and agent, and the agent shall sign an employment contract on behalf of the operator with foreign crew member(s) employed.
+
+Any recruitment agent commissioned to conduct the matter as referred to in the preceding paragraph shall, before signing a bilingual service contract with crew member(s), inform the crew of the matters that shall be included in the employment and service contracts as stipulated in Article 6 and 13. Each foreign crew member shall be provided with one copy of both the employment and service contracts.
+
+For a recruitment agent that recruits foreign crew member(s) through any foreign recruitment agent, the cooperating foreign recruitment agent shall meet the following conditions; however, this requirement shall not apply where a fishing vessel employing foreign crew member(s) has been approved by the competent authority to engage in fisheries cooperation with an foreign country:
+
+\1. The foreign agent has been authorized to conduct recruitment business by the government of the crew member’s home country.
+
+\2. The foreign agent has not been subject to any disposition by the government of the crew member’s home country to revoke or suspend its authorization to conduct employment service activities in that country.
+
+\3. The foreign agent has not violated any local labor law or regulations in the recent two years. Relevant supporting document(s) and Chinese translation(s) thereof shall be submitted.
+
+A cooperation contract shall be signed between a recruitment agent and its cooperating foreign agent, and such recruitment agent shall still sign a service contract with foreign crew member(s) recruited and fulfill the obligation to inform as referred to in paragraph 3.
+
+When fulfilling the obligation to inform in accordance with paragraph 1, 3, and the preceding paragraph, distant water fisheries operators and recruitment agents shall make visual and audio recordings throughout the entire process and keep the recordings for at least three years. This provision also applies when the contract with any foreign crew member is modified or renewed.
+
+### Article 6
+
+Any employment contract signed between a distant water fisheries operator and a foreign crew member in accordance with Article 5, paragraph 1 shall include the following:
+
+\1. Term of the contract.
+
+\2. Items, amount, method(s), and frequency of payment to the foreign crew member. The monthly wage of the foreign crew member shall not be less than the minimum monthly wage as stipulated by the competent authority.
+
+\3. During the term of the employment contract, the distant water fisheries operator shall take out personal accident, medical, and life insurances for the foreign crew member. The medical insurance shall provide reimbursement of actual expenses in an amount of not less than three hundred thousand New Taiwan Dollars, and the insured amount for life insurance shall be not less than 1.5 million New Taiwan Dollars. In case of failing to take out the insurances as required, insufficient insurance coverage, or failing to acquire a sufficient claim from an insurer, the distant water fisheries operator shall bear the loss or indemnity.
+
+\4. In case that the foreign crew member suffers injury or illness in the performance of duties, the distant water fisheries operator shall immediately arrange for medical treatment nearby and shall pay the medical and other related expenses.
+
+\5. In case that the foreign crew member suffers injury or illness not in the performance of duties, the distant water fisheries operator shall immediately arrange for medical treatment nearby and shall pay in advance the medical and other related expenses.
+
+\6. The transportation arrangement for the foreign crew member and the related transportation expenses.
+
+\7. The minimum hours of rest in any 24-hour period for the foreign crew member shall not be less than ten hours and shall consist of a period of at least six consecutive hours. The minimum hours of rest shall not be less than 77 hours in any seven-day period. However, for limited and specified reason(s), temporary exceptions may be agreed upon by both the employer and employee, provided that compensatory leave(s) is otherwise arranged at sea or upon arrival at port.
+
+\8. The distant water fisheries operator shall respect the need of the foreign crew member for religious holidays.
+
+\9. The compensation and arrangement provisions in case of breaching the contract.
+
+\10. The distant water fisheries operator shall make channels for filing complaints to the concerned authorities accessible for the foreign crew member.
+
+\11. The foreign crew member may request early termination of the employment contract and return to his/her home country.
+
+\12. Contact information of the foreign crew member and his/her relatives.
+
+\13. Other rights and obligations.
+
+The beneficiary of the insurance proceeds as referred to in subparagraph (3) of the preceding paragraph shall be the concerned foreign crew member him/herself. The beneficiary of the life insurance, other than the spouse, shall be determined in the following order or priority:
+
+\1. Lineal descendants.
+
+\2. Parents.
+
+\3. Siblings.
+
+\4. Grandparents.
+
+The employment contract as referred to in paragraph 1 shall be in accordance with the template promulgated and announced by the competent authority.
+
+### Article 6-1
+
+The monthly wage as referred to in subparagraph (2) of Article 6, paragraph 1 means the remuneration obtained by a foreign crew member for the performance of the employment contract, including wages, salaries, and any other regular payment.
+
+The monthly minimum wage stipulated by the competent authority as referred to in subparagraph (2) of Article 6, paragraph 1 shall be 550 US Dollars, and may be adjusted and announced by the competent authority after annual review.
+
+From the effective date of the adjustment of the minimum monthly wage as announced by the competent authority pursuant to the preceding paragraph, distant water fisheries operators shall re-enter into employment contracts with foreign crew members, or adjust the crew’s wages directly in accordance with the minimum monthly wage announced by the competent authority.
+
+The method(s) of payment as referred to in subparagraph (2) of Article 6, paragraph 1 shall comply with one of the following provisions, and distant water fisheries operators shall make full payment to foreign crew members and bear any handling charge incurred:
+
+\1. To pay in cash to the crew members.
+
+\2. To make payment to the accounts designated by the crew members, which shall not be accounts of any foreign recruitment agent.
+
+\3. To make payment to the accounts designated by the crew members through domestic recruitment agents, and the designated accounts shall not be accounts of any foreign recruitment agent.
+
+The frequency of payment as referred to in subparagraph (2) of Article 6, paragraph 1 shall not exceed once every three months. Notwithstanding this provision, in the case of any of the following circumstances, the concerned distant water fisheries operator and the foreign crew member(s) may agree to a payment frequency exceeding three months, provided that all wages shall be paid in full upon completion of the current fishing trip:
+
+\1. The average monthly wage paid to the crew reach 60% or more of the minimum monthly wage.
+
+\2. The average monthly wage paid to the crew is less than 60% of the minimum monthly wage, and the unpaid wages are deposited by the distant water fisheries operator every three months in the amount of 200 US Dollars per crew per month into a wage custody account maintained by the fisheries association or fishermen’s association that the concerned operator belongs to.
+
+\3. The distant water fisheries operator has paid the maximum amount of wage arrears payment reserve, or has provided a wage payment guarantee letter issued by a financial institution.
+
+The wage custody account as referred to subparagraph (2) of the preceding paragraph shall be managed in accordance with the wage custody account management guidelines (hereinafter referred to as the “Wage Custody Management Guidelines”) established by the fisheries associations or fishermen’s associations. The Wage Custody Management Guidelines shall include the following matters and shall be implemented upon approval by the competent authority; the same shall apply to any revisions thereto:
+
+\1. Establishment of a wage custody account, which shall be used exclusively for such purpose and shall not be diverted for other uses.
+
+\2. The timing and procedures for distant water fisheries operators’ deposit and withdrawal of wages.
+
+Where the wage payment falls under the circumstances set forth in paragraph 5, subparagraph (2), the concerned distant water fisheries operator shall, after the fishing vessel enters port, submit proof of port entry to the fisheries association or fishermen’s association that he/she belongs to, to withdraw and pay the wages.
+
+Distant water fisheries operators shall periodically, or within ten days after withdrawing and paying the wages to foreign crew members pursuant to the preceding paragraph, report the status of wage payment to the competent authority for recordation.
+
+The method(s), frequency, recipient(s), and required supporting document(s) for reporting the wage payment status by distant water fisheries operators as referred to in the preceding paragraph shall be announced by the competent authority.
+
+## Chapter II The Agents
+
+### Article 7
+
+Any applicant intending to become a recruitment agent shall meet the following qualifications:
+
+\1. It is established in accordance with the Regulations for Permission and Supervision of Private Employment Services Institution and approved to recruit foreign persons to work in the Republic of China.
+
+\2. It is a company of the Republic of China founded and registered pursuant to the Company Act.
+
+Recruitment agents that are authorized prior to the amendment and promulgation of these Regulations on 20 May 2022 and that do not meet the qualifications as referred to in the preceding paragraph shall not, from 1 January 2023 onwards, recruit foreign crew members. The competent authority shall revoke such agents’ authorization, and the provisions stipulated in Article 20, paragraphs 4 and 5 shall apply mutatis mutandis.
+
+### Article 8
+
+Any applicant intending to become a recruitment agent shall submit a guarantee bond in advance to the competent authority.
+
+The guarantee bond as referred to in the preceding paragraph shall be submitted in cash, by remittance, or by transfer. The amount shall, in accordance with the number of people planned to recruit as specified in its operation plan or business execution plan, be divided as follows:
+
+\1. Under 150 persons: 500 thousand New Taiwan Dollars.
+
+\2. 150 persons or above and under 700 persons: 1 million New Taiwan Dollars.
+
+\3. 700 persons or above: 2 million New Taiwan Dollars.
+
+### Article 9
+
+Any applicant intending to become a recruitment agent shall apply to the competent authority together with the following documents:
+
+\1. Documentary proof demonstrating that it is established in accordance with the Regulations for Permission and Supervision of Private Employment Services Institution and is approved to recruit foreign persons to work in the Republic of China.
+
+\2. Copies of the front and back sides of the national identity card of the person in responsible or legal representative.
+
+\3. A copy of the company registration certificate.
+
+\4. An operation plan or business execution plan, including the number of persons planned to recruit and documentary proof of the submission of the guarantee bond.
+
+\5. Other documents designated by the competent authority.
+
+Where the application as referred to in the preceding paragraph is approved upon review by the competent authority, an approval document will be issued. The maximum approval period shall be two years.
+
+The recruitment agent shall, within 60 days from the date of obtaining the approval as referred to in the preceding paragraph, complete the registration of change(s) to its business scope in accordance with the relevant law and report the same to the competent authority for recordation before commencing recruitment. Failure to do so within the prescribed timeframe shall result in revocation of the approval by the competent authority.
+
+For any recruitment agent failing to reapply for the approval three months before the expiry of the approval period, the provisions stipulated in Article 19, paragraphs 2, 3, 5, and 6 shall apply mutatis mutandis.
+
+For any recruitment agent that has completed the business transfer and four months have elapsed from the date of the expiration of the approval period, Article 19, paragraph 7 may apply mutatis mutandis for the application by such agent of interest-free refund of the guarantee bond.
+
+### Article 10
+
+Where any of the matters as specified in Article 9, paragraph 1 is changed, the recruitment agent shall submit relevant supporting document(s) to the competent authority to apply for approval of such change(s).
+
+Any recruitment agent intending to increase the number of persons to be recruited as planned in its operation plan or business execution plan as referred to in subparagraph (4) of Article 9, paragraph 1 shall make up the shortfall in the guarantee bond in accordance with Article 8, paragraph 2.
+
+In case that any recruitment agent intends to reduce the number of persons to be recruited as planned in its operation plan or business execution plan as referred to in subparagraph (4) of Article 9, paragraph 1, and the actual number of persons recruited is below the revised number, such recruitment agent may apply, in accordance with the amount as specified in Article 8, paragraph 2, for a reduction of the guarantee bond and for an interest-free refund of the excess part of the guarantee bond .
+
+Any recruitment agent that was authorized prior to the amendment and promulgation of these Regulations on 20 May 2022, that meets the qualifications as referred to in Article 7, paragraph 1, and that continues engaging in the recruiting operations, may, before 1 July 2023, apply to the competent authority for an interest-free refund of the excess part of the guarantee bond as referred to in Article 8, paragraph 2.
+
+### Article 11
+
+An application to operate as a recruitment agent shall be denied by the competent authority, in case of any of the following circumstances:
+
+\1. One year has not passed since the authorization is revoked pursuant to Article 19, paragraph 4.
+
+\2. One year has not passed since the prohibition on engaging in recruiting operations pursuant to Article 20, paragraph 1, or two years have not passed since the authorization is revoked pursuant to Article 20, paragraph 3.
+
+\3. For applicants that fail to re-apply for the authorization in accordance with the deadline prescribed in Article 9, paragraph 4, one year and three months have not passed since the day following the expiration of the application deadline.
+
+\4. The person in charge or the legal representative of the recruitment agent has committed any violation as prescribed in Article 2, subparagraph (2) of the Human Trafficking Prevention Act, and has been convicted by the judiciary authority.
+
+\5. The person in charge or the legal representative of the recruitment agent previously served as the person in charge or the legal representative of another recruitment agent, and one year has not passed since such other recruitment agent is prohibited from engaging in recruiting operations pursuant to Article 20, paragraph 1, or two years have not passed since the authorization of such other recruitment agent is revoked pursuant to Article 20, paragraph 3.
+
+### Article 12
+
+The commission contract signed between a distant water fisheries operator and a recruitment agent shall specify the followings:
+
+\1. The names of the recruitment agent and the distant water fisheries operator.
+
+\2. The commissioned items, fees, and payment method(s).
+
+\3. Matters concerning compensation for damages in the event that foreign crew member(s) does not to report for duty to the employer.
+
+\4. Matters concerning the entry into the Republic of China, embarkation, handover, and medical examination of foreign crew member(s), and the reporting medical examination results.
+
+\5. Matters concerning the repatriation, replacement, assumed employment, and management of foreign crew member(s).
+
+\6. The handling of any breach of contract.
+
+\7. In case that it is agreed that the distant water fisheries operator pays the wage through the recruitment agent, the recruitment agent shall prepare a wage roster for foreign crew member(s), which shall record the date(s) of wage payment, wage item(s), the total amount of the wage, and the other relevant matters. The original copy of the wage roster shall be provided to the distant water fisheries operator before the payment of the crew’s next wage period, and a carbon copy of the wage roster shall be kept for at least five years.
+
+\8. Other rights and obligations.
+
+### Article 13
+
+The service contract signed between a recruitment agent and a foreign crew member shall specify the followings:
+
+\1. The scope of services.
+
+\2. The fees and amount.
+
+\3. Method(s) of charging and refund.
+
+\4. Compensation in case of breaching the contract.
+
+\5. Other rights and obligations.
+
+The service contract as referred to in the preceding paragraph shall not be under any of the following circumstances:
+
+\1. Conflicting with the rights and obligations of foreign crew stipulated in the template of the employment contract as referred to in Article 6, paragraph 3.
+
+\2. Forcing the foreign crew member to work, by violence, threat, or other illegal means.
+
+\3. Charging the crew any of the following fees:
+
+\1. Service fees.
+
+\2. Any costs incurred for recruiting or employing crew on behalf of the distant water fisheries operator.
+
+\4. Charging fees by concocting various pretexts.
+
+\5. Making advance deduction of wages as liquidated damages or as indemnity.
+
+\6. Forcing the foreign crew member to work on board any other fishing vessel.
+
+\7. Violating any other matter as stipulated by the competent authority.
+
+### Article 14
+
+The cooperation contract signed between a recruitment agent and a foreign recruitment agent as referred to in Article 5, paragraph 5 shall specify the following:
+
+\1. The names of distant water fisheries operator(s) and vessel(s) to be served, fishing area(s), position(s) to be filled by foreign crew member(s), and the term of the contract. In case that the relevant information is to be confirmed, such information may not be specified.
+
+\2. Qualification requirements for and matters to be complied with by foreign crew member(s).
+
+\3. The amount of wages payable to foreign crew member(s) and payment method(s); types and coverage amounts of insurances for foreign crew member(s); the sharing amount of the transportation costs for travel between the crew member(s)’ home country and the port of embarkation on the fishing vessel, as well as for repatriation.
+
+\4. Matters concerning the basic rights and interests of distant water fisheries operator(s) and foreign crew member(s).
+
+\5. The handling of any breach of the contract by distant water fisheries operator(s) or foreign crew member(s)
+
+\6. Dispute settlement.
+
+\7. Other matters as agreed upon by both parties.
+
+The payment method(s) as referred to in subparagraph (3) of the preceding paragraph shall not be made through any foreign recruitment agent, regardless of whether the consent of the foreign crew member(s) has been obtained.
+
+Within 15 days after the contract as referred to in paragraph 1 is signed; the recruitment agent shall submit a carbon copy and the Chinese translation of the contract to the competent authority for recordation.
+
+### Article 15
+
+Recruitment agents shall conduct the following matters:
+
+\1. Fulfilling commission contracts and service contracts signed with distant water fisheries operators and the foreign crew members.
+
+\2. In the event that any foreign crew member falls under the circumstances stipulated in Article 30, subparagraphs (9), (11) to (15); or is injured or ill and unable to recover within a short period of time; or is demised, repatriating such foreign crew member or the remains together with the personal belongings to his/her home country.
+
+\3. Handling disputes and emergencies between distant water fisheries operators and foreign crew members.
+
+\4. Negotiating the compensation in the event that foreign crew members cause losses to distant water fisheries operators.
+
+\5. Cooperating with the competent authority in conducting training sessions and outreach programs for distant water fisheries operators and foreign crew members.
+
+\6. Assisting in searching for and reaching any missing foreign crew member.
+
+\7. Supervising and managing foreign crew members who enter the Republic of China via aircraft from the time of entry until the foreign crew members are handed over to distant water fisheries operators.
+
+\8. Supervising foreign crew members who enter the Republic of China via aircraft or fishing vessels to ensure their compliance with pandemic prevention measures required by the health competent authority.
+
+\9. Other matters designated by the competent authority.
+
+### Article 16
+
+Unless otherwise provided in these Regulations, any foreign crew member recruited by a recruitment agent shall not be transferred to any other recruitment agent.
+
+### Article 17
+
+In case that any distant water fisheries operator that commissions an recruitment agent, or an recruitment agent itself, fails to fulfill the obligations set forth in the contract relating to the wages, insurance, medical care, transportation expenses, damage compensation, and other obligations owed to foreign crew members, and such operator or recruitment agent fails to discharge the debt or pay within the required timeframe after being notified by the competent authority, the competent authority may apply the guarantee bond submitted by such recruitment agent pursuant to Article 8 to satisfy such obligations.
+
+Where the guarantee bond is drawn upon pursuant to the preceding paragraph, the competent authority shall order the concerned recruitment agent to, within a prescribed time limit, replenish the bond to the amount specified in Article 8, paragraph 2.
+
+### Article 18
+
+The competent authority may conduct annual evaluation of recruitment agents. The evaluation grades, categorized into A, B, and C, will be announced by the competent authority.
+
+Any recruitment agent shall accept inspections conducted by personnel designated or commissioned by the competent authority regarding the rights and interests of foreign crew member(s) and its business execution, and shall not evade, obstruct, or refuse such inspections.
+
+### Article 19
+
+Any recruitment agent intending to terminate its operations (hereinafter referred to as the inoperative recruitment agent) shall submit, three months prior to terminating operations, a plan of handling the operation termination and apply to the competent authority for approval.
+
+The competent authority shall, upon approval of the application as referred to in the preceding paragraph, order the inoperative recruitment agent to transfer its recruiting business to other recruitment agent(s) (hereinafter the assuming recruitment agent(s)) within the required timeframe.
+
+The inoperative recruitment agent as referred to in the preceding paragraph shall not conduct any other recruiting business, except for transferring the recruiting business and repatriating foreign crew members to their home countries.
+
+Once the inoperative recruitment agent has fulfilled its obligations as referred to in the preceding paragraph, it shall apply to the competent authority for revocation of its authorization as the recruitment agent with the enclosure of the following documents:
+
+\1. Lists of distant water fisheries operator(s) who originally commissioned the recruitment agent and the foreign crew members employed thereby.
+
+\2. Documents proving that distant water fisheries operator(s) agrees to terminate the contract(s).
+
+\3. A copy of the commission contract(s) signed between distant water fisheries operator(s) and the assuming recruitment agent(s).
+
+The assuming recruitment agent(s) shall have the evaluation grade B or above in the previous year.
+
+The assuming recruitment agent(s) shall re-enter into commission contract(s) with the distant water fisheries operator(s), and the distant water fisheries operator(s) shall apply for the permission in accordance with Article 23, paragraph 1 to employ the foreign crew member(s).
+
+The inoperative recruitment agent whose authorization has been revoked may only apply for the interest-free refund of the guarantee bond four months after the date of revocation. Where such application is approved by the competent authority, the guarantee bond shall be refunded without interest after deducting any amount applied to satisfy obligations pursuant to Article 17, paragraph 1.
+
+An authorized recruitment agent that has never conducted recruitment of any foreign crew member may apply for revocation of authorization and interest-free refund of the guarantee bond.
+
+### Article 20
+
+In case of any of the following circumstances, the competent authority shall prohibit the concerned recruitment agent from newly employing any foreign crew member for a period of one year:
+
+\1. The foreign recruitment agent with which the recruitment agent cooperates does not meet the conditions as stipulated in Article 5, paragraph 4.
+
+\2. The wages of foreign crew member(s) are paid through any foreign recruitment agent, in violation of Article 14, paragraph 2.
+
+\3. The recruitment agent is under the circumstances stipulated in Article 17, paragraph 1 and has not improved after being ordered to make improvements within the required timeframe.
+
+\4. The recruitment agent fails to replenish the guarantee bond within the required timeframe pursuant to Article 17, paragraph 2.
+
+Where foreign crew members recruited by a recruitment agent are missing within three months after embarkation, and the number and percentage thereof reach the threshold as specified in Appendix 1, the competent authority shall prohibit such agent from introducing any foreign crew member for a period of not less than three months and not more than one year.
+
+In case of any of the following circumstances, the competent authority shall revoke the authorization of a recruitment agent:
+
+\1. The recruitment agent whose evaluation grade is C for two consecutive years.
+
+\2. Human trafficking or forced labor has occurred to a recruited foreign crew member serving on board a fishing vessel flying the flag of the Republic of China or a foreign fishing vessel invested and operated by national(s) of the Republic of China, and such incident is either prosecuted by the judiciary of the Republic of China or any other country, or is confirmed to be true by any international fisheries organization, and the recruitment agent fails to conduct the matters as stipulated in Article 15.
+
+For any recruitment agent whose authorization is revoked, the competent authority shall order such recruitment agent to transfer its business to other recruitment agent(s) within a given timeframe, or to repatriate the recruited foreign crew member(s) to his/her home country.
+
+The recruitment agent as referred to in the preceding paragraph shall submit documents to the competent authority for recordation after the completion of transferring its business or repatriating the foreign crew member(s). For the documents to be submitted, qualifications requirements of and matters to be conducted by the assuming recruitment agent(s), and the interest-free refund of the guarantee bond, Article 19, paragraphs 4 to 7 shall apply, mutatis mutandis.
+
+### Article 21
+
+The competent authority may commission professional institution(s) to conduct the following matters:
+
+\1. Matters relating to the collection of the guarantee bond as prescribed in Article 8, paragraph 1; notifying the concerned distant water fisheries operator(s) and recruitment agent(s) to discharge the debt or pay within the required timeframe, or applying the guarantee bond to satisfy obligations as prescribed in Article 17, paragraph 1; and the interest-free refund of the guarantee bond pursuant to Article 19, paragraphs 7 and 8.
+
+\2. Evaluation of recruitment agents.
+
+\3. Mediation of complaint cases pursuant to Article 36, paragraph 3.
+
+## Chapter III Employment and Management of Foreign Crew Members.
+
+### Article 22
+
+Foreign crew members employed overseas shall embark or disembark in foreign ports. However, in case of any of the following circumstances and with the permission from the competent authority, this provision shall not apply:
+
+\1. Where the fishing vessel has returned to the Republic of China due to changing fishing areas or for annual maintenance, the foreign crew member(s) recruited by the concerned recruitment agent(s) which is commissioned by the distant water fisheries operator(s) may enter the Republic of China via aircraft and subsequently leave port with the fishing vessel for fishing operations.
+
+\2. Where, during operations at sea, the foreign crew member(s) needs to disembark for any reason may embark on another fishing vessel(s) or carrier vessel(s) to a port.
+
+\3. Where, during operations at sea, manpower shortages arise due to the circumstances as referred to in the preceding subparagraph and thus the need of additional crew, the additional crew may embark on other fishing vessel(s) or carrier vessel(s) at foreign port(s) to the fishing vessel to serve upon.
+
+Where, in accordance with subparagraph (2) or (3) of the preceding paragraph, a crew embarks on another fishing vessel(s) or carrier vessel(s) other than the fishing vessel on which he/she is employed, the concerned distant water fisheries operator shall not request the crew to perform any duty during the period aboard such other vessel(s).
+
+### Article 23
+
+Within 30 days after a foreign crew member is employed and embarks at a foreign port, or before a foreign crew member departs from the Republic of China with a fishing vessel after the entry via aircraft for employment, the concerned distant water fisheries operator shall complete and submit a Foreign Crew Employment and Personnel Change Roster (fill in Appendix 2 for overseas employment; fill in Appendix 3 for any foreign crew member entering the Republic of China for employment), together with the electronic file, to the concerned fishery association or the fishermen’s association for registration in the Fisheries Management Information System. The following documents shall be submitted as well to the fishery association or the fishermen’s association for verification and subsequent delivery to the competent authority for permission:
+
+\1. A copy of the passport of the foreign crew member. However, for any foreign crew member employed under fisheries cooperation and works on board a fishing vessel operating within the exclusive economic zone of the concerned foreign country, this requirement shall be waived.
+
+\2. For ordinary crew, a copy of the Crew Identification issued by his/her home country shall be provided; for officer, a copy of the Certificate of Fishing Vessel Officer issued by his/her home country shall be provided.
+
+\3. For any foreign crew member embarking at a foreign port, a copy of the crew list validated and stamped by the port State or relevant documentary proof shall be enclosed.
+
+\4. A copy of the employment contract signed by the distant water fisheries operator and the foreign crew member. In the event that the distant water fisheries operator commissions a recruitment agent to conduct the employment, a copy of the commission contract signed between the operator and recruitment agent as well as a copy of the service contract signed between the recruitment agent and the foreign crew member shall be submitted as well.
+
+\5. A document proving enrollment in the wage arrears payment mechanism, or a wage-payment guarantee letter issued by a financial institution and within the validity period.
+
+\6. A copy of documents proving the foreign crew member is insured.
+
+\7. Documentary proof that certifies the foreign crew member has passed a medical examination conducted within the recent three months at the local medical institution in his/her home country or in the country of the embarkation port. The examination items shall be the same as those set forth in paragraph 3 of the Requirements for Medical Examination in the Certificate of Medical Examination on the Crew Member of Fishing Vessel (as shown in Appendix 7).
+
+\8. A color photograph of the foreign crew member or the electronic file thereof.
+
+\9. An onboard care service plan for the foreign crew member.
+
+The onboard care service plan as referred to in subparagraph (9) of the preceding paragraph shall specify at least the following items:
+
+\1. The hygiene and safety of potable water, food, and accommodation.
+
+\2. Health protection.
+
+\3. Emergency pandemic prevention measure.
+
+### Article 24
+
+In case that a foreign crew member is transferred to another fishing vessel for employment, or the ownership of the fishing vessel is changed, the new distant water fisheries operator who assumes the employment of such crew shall, within 30 days after the employed foreign crew member(s) embarks on the fishing vessel, complete and submit a list of employment transfer, together with the electronic file thereof, to the relevant fishery association or fishermen’s association for registration in the Fisheries Management Information System. The document signed by the previous distant water fisheries operator evidencing the discharging of the foreign crew member, and the documents stipulated in subparagraphs (4) to (6) and (9) of Article 23 shall be submitted as well to the relevant fishery association or fishermen’s association for verification and subsequent delivery to the competent authority for approval.
+
+### Article 25
+
+For any application of overseas employment or transferring employment of foreign crew member(s) made in accordance with Article 23 and 24, the competent authority shall issue a permission document upon approval of the application, with a copy of the approved Foreign Crew Employment and Personnel Change Roster to the Border Affairs Corps of the National Immigration Agency, Ministry of the Interior where the relevant fishery association or fishermen’s association is located.
+
+Before the tenth day of each month, fishery associations or fishermen’s associations shall submit statistics on the employment of foreign crew members or changes thereto (format as shown in Appendix 4) and statistics on missing foreign crew members (format as shown in Appendix 5) to the municipal and county (city) governments for delivery to the competent authority.
+
+### Article 26
+
+Where a foreign crew member employed by a distant water fisheries operator with approval from the competent authority meets the conditions set forth in subparagraph (1) of Article 22, paragraph 1 to enter the Republic of China by aircraft, the following procedures shall be followed:
+
+\1. The distant water fisheries operator shall complete and submit a guarantee letter for applying for the entry visa of the foreign crew member (format as shown in Appendix 6) together with documentary proof that certifies the foreign crew member has passed the a medical examination conducted within the recent three months at the local medical institution in his/her home country (format as shown in Appendix 7), to the relevant fishery association or fishermen’s association for delivery to the competent authority for review.
+
+\2. Upon verification that the fishing vessel is in compliance with the conditions stipulated in Article 2 and the foreign crew member meets the qualifications stipulated in Article 3, the competent authority shall stamp on the guarantee letter submitted by the distant water fisheries operator.
+
+\3. The distant water fisheries operator shall, within three months from the day following the stamp on the guarantee letter by the competent authority, submit the guarantee letter bearing such stamp to the relevant embassy, consulate, or representative office of the Republic of China for the applications of entry visa for the foreign crew member. The guarantee letter shall be valid for use in that specific visa application only.
+
+Distant water fisheries operators shall, in cooperation with the containment needs of the local municipal and county (city) governments, arrange for the employed foreign crew members to undergo medical examinations in the designated hospitals within three working days after the foreign crew members enter the Republic of China, and shall, within seven days from the day following the receipt of written medical examination reports, submit the reports to the relevant fishery associations or fishermen’s associations for delivery to the municipal and county (city) governments for recordation. Medical examination items and the designated hospitals shall be in accordance with the requirements of the local municipal and county (city) governments.
+
+Foreign crew members shall depart with the fishing vessels for fishing operations within 14 days after entry into the Republic of China.
+
+The competent authority or the municipal and county (city) governments commissioned by the competent authority shall send the stamped guarantee letter as referred to in subparagraph (3) of paragraph 1 to the relevant embassy, consulate, or representative office of the Republic of China, with a copy to the Ministry of Foreign Affairs.
+
+### Article 27
+
+Where, during at-sea operations, a foreign crew member employed overseas is under the circumstances as referred to in subparagraph (2) of Article 22, paragraph 1, the concerned distant water fisheries operator shall submit a written application specifying the following matters to the competent authority for permission before disembarking the employed crew member from the fishing vessel:
+
+\1. Name and contact information of the fishing vessel operator.
+
+\2. Name, nationality, and passport number of the crew, and reason(s) for disembarkation.
+
+\3. Name of the fishing vessel or carrier vessel planned to embark on, as well as the name and contact information of the concerned vessel operator.
+
+\4. Estimated date of disembarkation, port of arrival, and date of arrival.
+
+### Article 28
+
+Where a fishing vessel is under the circumstances as stipulated in subparagraph (3) of Article 22, paragraph 1 and meets the following conditions, its distant water fisheries operator may apply to the competent authority for permission to allow his/her foreign crew member(s) employed overseas to embark on other fishing vessel(s) or carrier vessel(s) at foreign port(s) to reach the concerned fishing vessel:
+
+\1. The duration of the current fishing trip does not exceed ten months. However, in the event that other legislation(s) applicable to distant water fishing vessels provides otherwise, such legislation(s) shall apply.
+
+\2. During the current trip, the number of crew member(s) transported to the concerned fishing vessel does not exceed that of crew member(s) disembarking from that concerned fishing vessel during the same trip by other fishing vessel(s) or carrier vessel(s).
+
+\3. The maximum number of crew member(s) applied to be transported to the concerned fishing vessel shall be one fifth of the number of crew member(s) that the concerned fishing vessel can carry, to be counted as one person if the figure derived is less than one.
+
+Where an operator allows employed crew members to board another fishing vessel or transport vessel to reach the employed fishing vessel without first obtaining permission in accordance with the preceding paragraph,
+
+In case that a distant water fisheries operator fails to apply for permission in accordance with the preceding paragraph and transports his/her employed crew member(s) to his/her fishing vessel(s) by any other fishing vessel or carrier vessel, any application by such operator under the preceding paragraph shall not be approved for a period of five years from the date that such activity is discovered.
+
+### Article 29
+
+During a foreign crew member’s stay in the Republic of China, where his/her distant water fisheries operator arranges onshore accommodation, such operator shall, at the time when the concerned fishing vessel enters port or before the foreign crew member enters the Republic of China via aircraft, submit an accommodation plan to the municipal and county (city) governments in which the port is located for recordation.
+
+The accommodation plan as referred to in the preceding paragraph shall specify the accommodation site, estimated period, and crew list.
+
+The municipal and county (city) governments where the accommodation site is located shall establish a working group by inviting the local coast guard, police, port authority, sanitation, labor, and immigration agencies, to consult annually on the following matters; where necessary, such consultations may be convened at any time:
+
+\1. Matters relating to foreign crew members’ accommodation control, public safety management, and port entry/departure.
+
+\2. Matters relating to epidemic prevention concerning foreign crew members.
+
+\3. Matters relating to humanitarian rescue of foreign crew members in the event of distress.
+
+\4. Matters relating to coordination and liaison among relevant agencies as well as investigation or arrest in the event of any foreign crew member whose whereabouts are unknown.
+
+\5. Other necessary matters.
+
+The competent authority may, where necessary, invite relevant agencies to hold coordination meetings to consult on the matters as referred to in the preceding paragraph.
+
+### Article 30
+
+During the period in which a distant water fisheries operator employs any foreign crew member, such operator shall comply with the following requirements:
+
+\1. To fulfill the terms of the contract signed with the foreign crew member and the recruitment agent, respectively.
+
+\2. To ensure the foreign crew member enjoys the same benefits and labor protections on board as those provided to crew holding the same position.
+
+\3. To assume responsibility for the living care and the provision of services as specified in the onboard care service plan of the foreign crew member prior to his/her repatriation, and to bear the related expenses. This provision also applies to any distant water fisheries operator who commissions other fishing vessel(s) or carrier vessel(s) to transport his/her crew member(s).
+
+\4. To pay wages in full and directly to the foreign crew member. However, items and amounts that may be directly deducted from wages pursuant to other laws and regulations are not subject to this provision.
+
+\5. Regardless whether or not consent from the foreign crew member has been obtained, wages shall not be paid to the foreign crew member through any foreign recruitment agent, nor shall full payment of wages be withheld on the grounds of savings, safekeeping or any other reason.
+
+\6. To keep, for five years, a wage roster for the foreign crew member, which shall record the wages paid, wage item(s), the total amount of the wages and so on. This provision also applies to any distant water fisheries operator who commissions a recruitment agent to make wage payment to foreign crew member(s). Where the recruitment agent fails to pay the wages on time or in full, the distant water fisheries operator shall be liable for payment.
+
+\7. To keep, for five years, an attendance record of the crew member, form of which is agreed between the employer and the employee, and to request the captain to accurately record the daily working hours of the crew and provide such record to the operator during the period after each port entry of the concerned fishing vessel and before the subsequent port departure.
+
+\8. To ensure the employed foreign crew member not to work on any other fishing vessel or at any other premise, or engage in any other labor unrelated to fisheries.
+
+\9. To inform the local municipal and county (city) governments, the coast guard administration, and the police administration in the event that the foreign crew member commits a crime, is missing, engages in a fight, or commits a serious infringement.
+
+\10. To assist in searching for any runaway foreign crew member whose whereabouts are unknown.
+
+\11. To inform, within 24 hours, the local sanitary control agency pursuant to the Article 42 of the Communicable Disease Control Act, upon discovery that a foreign crew member is suspected to contract a contagious disease as defined by law.
+
+\12. To cooperate with the Border Affairs Corps of the National Immigration Agency, Ministry of the Interior to arrange for aircraft to repatriate any foreign crew member that is employed without permission and enters the Republic of China via fishing vessel(s).
+
+\13. To repatriate the employed foreign crew member in the event that the fishing vessel is detained, sinks, catches fire, or is otherwise unable to continue fishing operations.
+
+\14. In case of injury, casualty or other serious emergency of any foreign crew member, to promptly notify the relevant agencies and make arrangements for emergency medical services and treatments, and to submit a written report on the handling of the situation to relevant fishery association or fishermen’s association for delivery to the municipal and county (city) governments and the competent authority.
+
+\15. In case that the foreign crew member is unable to perform duties due to injuries or sickness, to promptly provide him/her with appropriate care and immediately arrange medical treatment nearby.
+
+\16. To be responsible for supervising and managing the foreign crew member during his/her stay in the Republic of China.
+
+\17. To take out and complete the required insurance for the crew prior to embarkation. Types of insurances to be taken out, the coverage amount, the duration of the insurances, and the beneficiaries shall comply with the provisions as stipulated in subparagraph (3) of Article 6, paragraph 1, and Article 6, paragraph 2. The relevant proof of insurance shall be provided to the crew for his/her retention.
+
+\18. To provide inflatable life jackets onboard the vessel, and to request crew members to wear inflatable life jackets while performing duties on the deck.
+
+\19. Passports, travel documents, or other identity documents of foreign crew members shall not be collected or retained. However, such documents may be collected or retained for the purpose of handling entry and exit procedures, or, during at-sea operations, may be centrally kept for safety reasons with the crew’s consent. Once the reason for retention ceases to exist, the documents shall be returned without delay.
+
+\20. Crew shall not be requested, directly or indirectly, to bear any cost incurred for the recruitment or employment of crew.
+
+### Article 31
+
+Within 30 days from the date of discharging a foreign crew member, the concerned distant water fisheries operator shall complete and submit Foreign Crew Employment and Personnel Change Roster, together with the electronic file thereof, to the relevant fishery association or fishermen’s association for registration. The fishery association or fishermen’s association shall enter such information into the Fisheries Management Information System and forward it to the competent authority for recordation.
+
+Where foreign crew members employed by distant water fisheries operators disembark at foreign ports, the operators shall handle the matter in accordance with the provisions of the preceding paragraph and shall also attach a copy of the crew list upon port entry bearing the stamp of the port State, or copies of relevant documents evidencing the purchase of airline tickets for departure by air.
+
+### Article 32
+
+For any foreign crew member that enters the Republic of China with a fishing vessel, the concerned distant water fisheries operator shall apply to the Border Affairs Corps of the National Immigration Agency, Ministry of the Interior, located at the port that the fishing vessel enters, for the temporary entry permit of such crew member.
+
+Where the foreign crew member that enters the Republic of China with the temporary entry permit as referred to in the preceding paragraph needs to stay in the Republic of China beyond the permitted duration of stay, the concerned distant water fisheries operator shall, before the expiry of the temporary entry permit, apply to the Bureau of Consular Affairs, Ministry of Foreign Affairs for a visitor visa.
+
+### Article 33
+
+For any foreign crew member, his/her entry into the Republic of China via aircraft or with a fishing vessel, and the duration of stay shall be subject to the Immigration Act and relevant regulations.
+
+For a foreign crew member who enters the Republic of China via aircraft or with a fishing vessel, once the permitted duration of stay expires, or once the reason for approving his/her stay no longer exists, the concerned distant water fisheries operator shall arrange repatriation, by the most available aircraft or by the same fishing vessel, of such crew.
+
+### Article 34
+
+In cases that a foreign crew member is missing within the Republic of China, the competent authority may, for a period ranging from one month to less than five years starting from the date that crew is missing, deny applications from the concerned distant water fisheries operator for employing foreign crew member(s), based on the number of missing foreign crew member(s), and enter such information onto the Fisheries Management Information System.
+
+The period of denying applications as referred to in the preceding paragraph shall not be terminated by any change to the fishing vessel ownership.
+
+Where transnational human trafficking, or incidents such as abuse or assault of foreign crew members, arise as a result of missing foreign crew members under employment, the municipality or county (city) governments shall, in accordance with the Regulations Governing the Prevention of Transnational Human Trafficking in Persons and Protection of Victims, and within the scope of the duties, assist the National Immigration Agency, Ministry of the Interior, in handling such matters.
+
+### Article 35
+
+During port entry into the Republic of China of a fishing vessel with employed foreign crew member(s), the concerned distant water fisheries operator and captain shall accept inspection(s) on the matters as referred to in Article 32, paragraph 3 and regarding the fisheries labor rights conducted by the personnel designated or commissioned by the competent authority, the municipal and county (city) governments. In case that a fishing vessel with employed foreign crew member(s) is abroad, it shall accept inspection(s) conducted by the personnel designated or commissioned by the competent authority, and shall not evade, obstruct, or refuse.
+
+The captain and crew member(s) subject to the inspection(s) as referred to in the preceding paragraph shall comply with the following provisions:
+
+\1. To facilitate authorized inspector(s) in prompt and safe boarding of the vessel or inspection(s) of onshore accommodation of foreign crew members.
+
+\2. To cooperate with the inspection(s) and inquiries by the inspector(s), including providing the crew list, the travel identity document(s) of the crew member(s), the crew identification(s), and ant other relevant documents.
+
+\3. To refrain from assaulting, resisting, threatening, interfering with, or otherwise improperly obstructing or delaying the inspector(s) in carrying out inspection duties.
+
+\4. To provide the space and equipment necessary for the inspector(s) to carry out tasks onboard.
+
+\5. To facilitate safe disembarkation of the inspector(s).
+
+### Article 36
+
+Where any foreign crew member is involved in a dispute concerning the rights or obligations during the term of employment, he/she may request the municipal and county (city) governments to invite the concerned distant water fisheries operator, the foreign crew member, and the relevant agencies for meditation.
+
+Coast guard agencies or management units of onshore accommodations shall, upon receiving complaint cases from foreign crew members, immediately forward them to the municipal and county (city) governments as referred to in the preceding paragraph, in addition to any other necessary disposal.
+
+The municipal and county (city) governments shall, within seven days of receiving the complaints as referred to in the preceding two paragraphs, invite the concerned recruitment agent(s), distant water fisheries operator(s), foreign crew member(s), and relevant association(s) to mediate. Where the dispute cannot be settled, such case shall be forwarded to the competent authority for mediation
+
+## Chapter IV Supplementary Provisions
+
+### Article 37
+
+The competent authority may commission the municipal and county (city) governments to conduct the following matters:
+
+\1. The recordation of cooperation contracts as stipulated in Article 14, paragraph 3.
+
+\2. The permission of transporting or disembarkation at sea of foreign crew members as stipulated in Article 22, 27, and 28.
+
+\3. The receipt and permission of the employment, change of employers, or assumed employment of foreign crew members as stipulated in Article 23, paragraph 1; Article 24; and Article 25, paragraph 1.
+
+\4. The stamping on guarantee letters of distant water fisheries operators as stipulated in subparagraph (2) of Article 26, paragraph 1.
+
+\5. The recordation of the discharging of foreign crew members as stipulated in Article 31, paragraph 1.
+
+\6. The denial of applications from distant water fisheries operators to employ foreign crew members as stipulated in Article 34, paragraph 1.
+
+### Article 38
+
+These Regulations shall enter into force on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1_Threshold Percentage and Number of Missing Foreign Crew Members Employed Overseas for Prohibiting a Recruitment Agent from Conducting Recruiting Business.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009503)
+- [Appendix 2_Foreign Crew Employment and Personnel Change Roster (for overseas employment).ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009504)
+- [Appendix 3_List of Foreign Crew Members Entering the Republic of China via Aircraft for Employment.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009505)
+- [Appendix 4  Statisticson Employment or Change of Foreign Crew Membersby.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007424)
+- [Appendix 5_Statistics Form on Missing Foreign Crew Members.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009506)
+- [Appendix 6  Guarantee Letter ofthe Distant Water Fisheries Operator For the Entry Visa of Foreign Crew Members.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007426)
+- [Appendix 7 Certificate of Medical Examination on the Crew Member of Fishing Vessel.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007427)
+
+## History
+
+1.The full text of 36 articles promulgated by the Council of Agriculture, Executive Yuan on January 20, 2017, under Order No. Nong-Yu-Tsu 1061332225.
+
+2.Part of these Regulations amended on 20 March 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1081333049.
+
+3.The full text amended on 20 May 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1111333708.
+
+4.Part of these Regulations amended on 18 November 2025 by the Ministry of Agriculture under Order No. Nung-Yu-Tzu 1141555535.

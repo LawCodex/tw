@@ -1,0 +1,141 @@
+---
+title: "Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises"
+title_zh: "專業再保險業財務業務管理辦法"
+identifier: "G0390081"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-01-15
+last_amended: 2023-12-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390081"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Financial and Business Operations of Professional Reinsurance Enterprises
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390081-regulations-governing-financial-and-business-operations-of-professional.md](../../../zh/regulations/financial-supervisory-commission/G0390081-regulations-governing-financial-and-business-operations-of-professional.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to paragraph 2, Article 147-1 of the Insurance Act (referred to as "the Act" hereunder).
+
+## Article 2
+
+The business, financial and other related management matters of the professional reinsurance enterprises shall be governed by the Regulations herein. Matters not provided for herein shall be governed by other applicable laws and regulations.
+
+## Article 3
+
+The various reserves to be set aside by professional reinsurance enterprises for assumed reinsurance business, ceded reinsurance business, finite reinsurance, or other types of unconventional reinsurance that is used to spread risks by means of transfer, swap, or securitization (hereinafter referred to as "alternative solutions") shall be processed in accordance with the provisions of Articles 39 to 45, Articles 47 to 53, and Article 55 of the Regulations Governing the Setting Aside of Various Reserves by Insurance Enterprises, except for special reserves which shall be processed in accordance with Articles 4 to 6.
+
+The term "retained business" as used in these Regulations means the assumed reinsurance business conducted by a professional reinsurance enterprise minus the reinsurance it cedes.
+
+## Article 4
+
+The special reserves set aside by professional reinsurance enterprises for their retained businesses shall include the following:
+
+1.Special reserves for extraordinary business losses: Reserves set aside for large amount of reinsurance claims arising from extraordinary business losses.
+
+2.Special reserves for fluctuation of risks: Reserves reserve for extraordinary changes in loss ratio or in reinsurance claims under the line of reinsurance.
+
+3.Special reserves for other special needs: The methods of increasing and releasing reserves and the cap of accumulated reserve shall be pre-approved by the competent authority.
+
+Extraordinary business losses referred to in subparagraph 1 of the preceding paragraph means losses arising from any of the following events and the accumulated retained reinsurance claims in a single event total reach NT$100 million or more:
+
+1.A ceding insurer is subject to bankruptcy or liquidation proceedings, or involved in lawsuit or other extraordinary events, and the professional reinsurance enterprises are obligated to continue the payment of reinsurance claims and expenses for their outstanding liabilities.
+
+2.Typhoon, earthquake, flood, tsunami or other natural disasters.
+
+3.Air crash, conflagration, war, terrorist attack or other man-made disasters.
+
+The term “retained reinsurance claim” in the preceding paragraph includes paid, reported but not paid, and incurred but not reported (IBNR) reinsurance claims.
+
+The amount of special reserves as specified in Paragraph 1 hereof set aside each year less income tax pursuant to Statement of IAS No.12 shall be recorded in the account of “Special Reserve” under “Equity.”
+
+The amount of special reserves as specified in Paragraph I recorded in the account of “Special Reserve” under “Liabilities” before December 31st, 2012 less income tax pursuant to Statement of IAS No. 12 shall be recorded in the account of “Special Reserve” under “Equity” on January 1st, 2013, unless otherwise specified by the competent authority for monitoring purposes.
+
+## Article 5
+
+Professional reinsurance enterprises shall reserve or dispose special reserves for extraordinary business losses for retained business according to the following provisions:
+
+1.The provision for special reserves for extraordinary business losses shall be one (1) percent of the retained reinsurance premium. The provision ratio shall be increased to three (3) percent for extraordinary business losses involving earthquake, war or terrorist attack.
+
+2.In case of an extraordinary business losses, the portion of retained reinsurance claim that exceeds NT$100 million may be offset by special reserves for extraordinary business losses.
+
+3.Where the special reserves for extraordinary business losses has been reserved for more than fifteen (15) years, the appointed actuary may evaluate and draft a releasing reserves mechanism and report such mechanism and any subsequent changes thereto to the competent authority for recordation.
+
+The amount that can be offset or released as provided in subparagraph 2 or 3 of the preceding paragraph less income tax pursuant to Statement of IAS No. 12 may be offset or released by or from special reserves for extraordinary business losses recorded in the account of “Special Reserve” under “Equity.”
+
+## Article 6
+
+Professional reinsurance enterprises shall, by each line of reinsurance, reserve or dispose special reserves for fluctuation of risks for their retained businesses according to the following provisions:
+
+1.If the incurred loss ratio calculated based on the amount of retained reinsurance claim minus the offset by special reserves for extraordinary business losses for the line of reinsurance is lower than the average incurred loss ratio in the past fifteen (15) fiscal years, the professional reinsurance enterprises shall reserve special reserves for fluctuation of risks in an amount at no less than thirty (30) percent of the difference.
+
+2.If the incurred loss ratio calculated based on the amount of retained reinsurance claim minus the offset by special reserves for extraordinary business losses for the line of reinsurance exceeds the average incurred loss ratio in the past fifteen (15) fiscal years, the professional reinsurance enterprises shall release special reserves for fluctuation of risks in an amount equal to the excess portion.
+
+3.In the event that the accumulated amount of special reserves for fluctuation of risks exceeds 60% of the retained amount, the amount in excess shall be subject to recovery under the applicable rules.
+
+The amount that can be offset or released as provided in subparagraph 2 or 3 of the preceding paragraph less income tax pursuant to Statement of IAS No. 12 may be offset or released by or from special reserves for fluctuation of risks recorded in the account of “Special Reserve” under “Equity.”
+
+## Article 7
+
+The accounting procedures and preparation of financial reports for reinsurance business by professional reinsurance enterprises shall be governed by provisions in the Regulations Governing the Preparation of Financial Reports by Insurance Enterprises regarding businesses other than direct underwriting.
+
+## Article 8
+
+At the end of each fiscal year, the professional reinsurance enterprises shall also file with the competent authority actuary-certified information on reserves it has set aside for its assumed reinsurance business, ceded reinsurance business, retained business, and "alternative solutions" business for the year according to the format and contents specified by the competent authority.
+
+## Article 9
+
+The foreign investment of professional reinsurance enterprises shall not exceed sixty (60) percent of its funds and is not subject to the limitation stipulated in Article 146-4 of the Act.
+
+## Article 10
+
+Professional reinsurance enterprises shall produce a prospectus according to the following rules and post it on company website or make the document available at its business places:
+
+1.The first page of the prospectus should state the company name and basis for making public the prospectus;
+
+2.The company profile section should state company address, telephone, fax number, name of person-in-charge, and in the case of a foreign insurance enterprise, in addition principal business place, time of establishment and amount of capital;
+
+3.Financial information should include balance sheets and income statements for the last three fiscal years, audited and certified by a certified public accountant;
+
+4.Business operation section should indicate the nature of its assumed reinsurance business;
+
+5.Material information having a bearing on public interest as specified in Regulations Governing Public Disclosure of Information by Non-Life Insurance Enterprises and Regulations Governing Public Disclosure of Information by Life Insurance Enterprises; and
+
+6.Special disclosures should include sanctions imposed by the competent authority and other special disclosures required as announced by the competent authority.
+
+In the case of a foreign insurance enterprise, the prospectus as required in the preceding paragraph shall be posted on the website of its branch office in the Republic of China or made available at the business place of its branch office in the Republic of China.
+
+## Article 11
+
+A foreign professional reinsurance enterprise whose head office is financially sound may be exempted from Article 143-4 and paragraphs 2 and 3, Article 144 of the Act, provided it has furnished information on the systems of its head office and a statement on compliance with the laws and regulations of its home country.
+
+## Article 12
+
+A foreign professional reinsurance enterprise may be exempted from the provisions in Articles 3 to 8 herein, provided its provisions for all lines of reinsurance reserves comply with the laws and regulations of its home country and actuarial principles, and are audited and certified by the appointed actuary.
+
+## Article 13
+
+For a foreign professional reinsurance enterprise, its internal control and audit systems, asset valuation, handling of overdue loans and non-accrual loans, and other financial and business management items as designated by the competent authority may follow the laws and regulations of its home country or the systems of its head office, provided the laws and regulations of its home country or the systems of its head office are not laxer than the laws and regulations of the Republic of China, the enterprise has furnished information on the laws and regulations of its home country or the systems of its head office, a statement of compliance with the laws and regulations of its home country or the systems of its head office, which are signed by the person-in-charge of its branch office in the Republic of China and reported to the competent authority for recordation.
+
+## Article 14
+
+These Regulations shall come into force on January 1st, 2026.
+
+## History
+
+1.Promulgated on January 15, 2008
+
+2.Amended on February 04, 2010
+
+3.Articles 13 amended and article 9-1 augmented on 21 March 2011 per Order Ref. Jin-Kuan-Bao-Tsai 10002504322 of the Financial Supervisory Commission, Executive Yuan
+
+4.Articles 5～7、8-1、15 Amended and article 8-2 augmented on December 28, 2011
+
+5.Amended on 27 December 2023 per Order Ref. Jin-Kuan-Bao- Zong- Zi 11204944681 of the Financial Supervisory Commission; for the implementation from January 1, 2026

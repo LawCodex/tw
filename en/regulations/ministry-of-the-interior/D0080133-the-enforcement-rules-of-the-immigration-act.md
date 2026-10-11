@@ -1,0 +1,357 @@
+---
+title: "The Enforcement Rules of the Immigration Act"
+title_zh: "入出國及移民法施行細則"
+identifier: "D0080133"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-10-30
+last_amended: 2023-12-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080133"
+retrieved: 2026-10-12
+---
+
+# The Enforcement Rules of the Immigration Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080133-the-enforcement-rules-of-the-immigration-act.md](../../../zh/regulations/ministry-of-the-interior/D0080133-the-enforcement-rules-of-the-immigration-act.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Enforcement Rules are enacted in accordance with Article 96 of the Immigration Act (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Before the unification of the Republic of China, the term “entering and/or exiting the State,” stated in the Act, refers to entering and/or exiting the Taiwan Area.
+
+### Article 3
+
+The term “duration of visit or residence,” as stated in Subparagraphs 7 and 8 of Article 3 of the Act, refers to a continuous period of a visit or residence.
+
+The term “duration of residence in the Taiwan Area for the period of six (6) months or more,” as stipulated in Subparagraph 8 of Article 3 of the Act, shall exclude the extended stay specified in the proviso of Paragraph 1 of Article 8 of the Act or by other exceptional incidents.
+
+### Article 4
+
+The competent authorities shall notify the National Immigration Agency of the Ministry of the Interior (hereinafter referred to as the “National Immigration Agency”) for imposing entry/exit bans. If such entry/exit bans need to be ceased, the competent authorities shall notify the National Immigration Agency immediately.
+
+### Article 5
+
+The National Immigration Agency shall conduct annual review to remove those invalid cases of entry/exit bans notified by the competent authorities. However, cases related to tax evasion should not by removed unless their entry/exit bans have been imposed for over five (5) years.
+
+### Article 6
+
+Those who already entered the State may authorize others or immigrations service organizations to apply for residence, change the purpose of residence, residence extension, permanent residence, or registered permanent residence.
+
+Should applications referred to in the previous paragraph be filed by legal guardian of the applicant, the authorization documents may be exempted.
+
+### Article 7
+
+If applicants submit insufficient or inconsistent documents for applications of residence, change the purpose of residence, residence extension, permanent residence and registered permanent residence, the required documents shall be supplemented within fifteen (15) days from the next day upon receiving the National Immigration Agency’s written notification. If the application is submitted from overseas, the Mainland area, Hong Kong, or Macau, or if the supplement documents must be generated from overseas, the Mainland area, Hong Kong, or Macau, the supplementation period is three (3) months.
+
+Should the required documents fail to be supplemented within the periods prescribed in the preceding paragraph, the applications shall be rejected.
+
+### Article 8
+
+The quota of residence, permanent residence, or registered permanent residence shall be divided evenly by month. Qualified applications shall be assigned with numbers in the order. If applications are rejected, the numbering order shall be filled by the following applications.
+
+Unused quota of the current month may be allocated to the next month, while monthly quota of the upcoming month shall not be pre-allocated.
+
+## Chapter 2 Visits, Residence, and Registered Permanent Residence of Nationals without Household Registration in the Taiwan Area
+
+### Article 9
+
+The term "a certain amount of capital," as stated in Subparagraph 6 of Paragraph 1 of Article 9 of the Act, refers to NT$10,000,000.
+
+### Article 10
+
+The term "special skills and experiences," as stated in Subparagraph 9 of Paragraph 1 of Article 9 of the Act, refers to one of the following circumstances:
+
+1.Possessing professional skills in emerging industries, key techniques, key components and products;
+
+2.Having outstanding achievements in optical electricity, telecommunications technologies, industrial automation, applied materials, advanced sensing systems, bio-technologies, resource development, or energy conservation, in which the related expertise is urgently needed or cannot be cultivated in a short period of time in the Taiwan Area;
+
+3.Having special achievements in the field of highway, high-speed railway, mass rapid transit system, telecommunications, aviation, navigation, deep-water construction, meteorology, or seismology, in which related expertise is urgently needed or cannot be cultivated in a short period of time in the Taiwan Area;
+
+\4. Possessing other special skills and experiences ratified by competent authorities on an ad hoc basis.
+
+### Article 11
+
+Nationals without household registration in the Taiwan Area with a single nationality (hereinafter referred to as the “nationals without household registration”) applying for residence in accordance with Subparagraph 11 or 15 of Paragraph 1 of Article 9 of the Act based on the ground of employment as prescribed in Paragraph 1 of Article 46 or Subparagraph 1 or 3, Paragraph 1 of Article 48 of the Employment Service Act, the National Immigration Agency shall review the applications by applying, mutatis mutandis, provisions regarding documents requirement for foreign nationals’ employment permit applications of the Employment Service Act, of which work permits may be exempted.
+
+### Article 12
+
+The National Immigration Agency shall notify competent authorities while revoking or terminating permissions of nationals without household registration for residence, or registered permanent residence pursuant to Paragraphs 2 and 3 of Article 11 of the Act.
+
+### Article 13
+
+If nationals with household registration in the Taiwan Area (hereinafter referred to as the “nationals with household registration”) enter the State with passports or travel documents that are counterfeited, tampered, or belongs to another person, they shall complete entry procedures at the National Immigration Agency with documents listed below after the prosecutor has closed the investigation; those who enter the State without inspection shall follow the same procedure until a final verdict is rendered in accordance with Subparagraph 1 of Article 77 of the Act:
+
+\1. Application form.
+
+\2. Indictment, written withdrawal of prosecution, or relevant documents.
+
+\3. Copy of original national identification card and copy of household certificate in the Taiwan Area.
+
+Nationals with household registration referred to in the preceding paragraph will receive a certificate of entry from the National Immigration Agency; for those who have completed moving-out registration procedures, the National Immigration Agency will notify the local household registration office where the domicile place is registered.
+
+## Chapter 3 Entry and Exit, Visit, Residence, and Permanent Residence of Aliens
+
+### Article 14
+
+Continuous legal residence and legal residence refer to the period of residence completed by the holder of the Alien Resident Certificate, as stated in Paragraph 1 of Article 25 of the Act. The period of residence, completed before the Act goes into effect, may be included in applications for permanent residence.
+
+### Article 15
+
+The term “considerable property, skills or talents to support the cost of living,” as stated in subparagraph 3, paragraph 1, Article 25 of the Act, is stipulated as follows:
+
+\1. Anyone applying for permanent residence as the spouse of an R.O.C. (Taiwan) national shall present any of the following documents acknowledged by the National Immigration Agency:
+
+(1) Statement of income, taxation, movable or immovable property in R.O.C. (Taiwan);
+
+(2) Statement issued by the employer to certify employment, or the applicant’s own statement in writing detailing job descriptions and incomes;
+
+(3) Certificate issued by the R.O.C. (Taiwan) government certifying that its holder is a professional or technician or has passed a technical test;
+
+(4) Other document that is sufficient to prove that the applicant is capable of supporting himself/herself or making a living.
+
+\2. Anyone applying for permanent residence with circumstances other than the one stated in the preceding subparagraph shall meet one of the following conditions:
+
+(1) Having an average monthly income in R.O.C. (Taiwan) in the previous year that is more than twice of the monthly minimum wage promulgated by the Ministry of Labor;
+
+(2) Having movable or immovable property in R.O.C. (Taiwan) with a total value worth more than NT$5,000,000;
+
+(3)Having a certificate issued by the R.O.C. (Taiwan) government that certify people with specialized professional skills, techniques or have passed a technical test.
+
+(4) Other condition(s) recognized by the National Immigration Agency.
+
+Documents stated in items 1, 2 and 4 of subparagraph 1 of the preceding paragraph shall be submitted by the applicant and the following kin with household registration in Taiwan who are not receiving a living allowance:
+
+\1. Spouse;
+
+\2. Parent(s)-in-laws;
+
+\3. Parent(s).
+
+The amount set in items 1 and 2 of subparagraph 2 of paragraph 1 shall include the income or property of the applicant and the following kin with household registration in Taiwan:
+
+\1. Spouse;
+
+\2. Parent(s)-in-laws;
+
+\3. Parent(s).
+
+Certificates that certify people with specialized professional skills, techniques or have passed a technical test as stated in item 3 of subparagraph 2 and item 3 of subparagraph 1 of paragraph 1 shall be submitted by the applicant and the following kin with household registration in Taiwan:
+
+\1. Spouse;
+
+\2. Parent(s)-in-laws;
+
+\3. Parent(s).
+
+If a certificate of specialized occupation and technical personnel or skills specified in item 3 of subparagraph 2 and item 3 of subparagraph 1 of paragraph 1 is submitted by one of the petitioner specified in the preceding paragraph, the petitioner shall also submit a guarantee to assure the livelihood of the applicant in R.O.C. (Taiwan).
+
+Aliens who have been granted permits for residence according to Subparagraphs 9 or 10, Paragraph 1, Article 23 of the Act, or permits for continually reside according to Subparagraphs 1 to 4, Paragraph 4, Article 31 of the Act, shall apply mutatis mutandis to the proviso prescribed in Subparagraph 3, Paragraph 1, Article 25.
+
+### Article 16
+
+The Ministry of Foreign Affairs, embassies and consulates of R.O.C. (Taiwan), representative offices, or other offices (hereinafter referred to as “overseas missions”) shall issue resident visas in accordance with the allotted quota specified in Paragraph 9 of Article 25 of the Act.
+
+### Article 17
+
+The term “diplomats who are posted in the State, their dependents and entourages” as stated in Subparagraph 1 of Paragraph 1 of Article 27 of the Act refers to those who obtained diplomatic ID cards or the ID cards for private servants of the heads of diplomatic/foreign missions from the Ministry of Foreign Affairs.
+
+The term “officials who perform the official duties of a foreign or international organization set up in the State, their dependents and entourages” as stated in Subparagraph 2 of Paragraph 1 of Article 27 of the Act refers to those who obtain ID cards for officials of foreign missions, ID cards for officials of international organizations, and ID cards for private servants of the heads of foreign missions/ international organizations from the Ministry of Foreign Affairs.
+
+### Article 18
+
+The National Immigration Agency shall notify relevant competent central authorities when revoking or terminating the alien residence permit or permanent residence permit pursuant to Paragraph 4 of Article 31, Article 32, and Article 33.
+
+### Article 18-1
+
+The term “has not resided for one hundred and eighty-three (183) days for each year on an average basis in the past five (5) years during his/her permanent residence in the State” as prescribed in Paragraph 4, Article 33 of the Act refers to aliens whose permanent residence duration is over five (5) years but has not resided for one hundred and eighty-three (183) days for each year on an average basis in the latest past five (5) years; the annual calculation starts from January 1st of the year after the alien’s permanent residence certificate was issued.
+
+The period of staying abroad specified in the proviso of Paragraph 4, Article 33 of the Act shall be limited to a maximum of two (2) years each time.
+
+### Article 19
+
+During the period of their stay or residence, if aliens engage in tourism, visiting relatives/friends, and other activities that are necessary in daily lives and not prohibited by laws but not declared on their E/D cards or visa application forms, Subparagraph 4 of Paragraph 2 of Article 36 of the Act shall not apply.
+
+## Chapter 4 Deportation and Detention
+
+### Article 20
+
+Pursuant to Subparagraph 1 of Paragraph 2 of Article 38 of the Act, persons on alternative to detention program required by the National Immigration Agency to report periodically on their activities of daily living at designated specialized operation brigades, they shall make such reports at least every fifteen (15) days.
+
+Pursuant to Subparagraph 3 of Paragraph 2 of Article 38 of the Act, persons on alternative to detention program required to receive onsite inspections periodically at designated places by the National Immigration Agency, they shall report to the designated location at least every fifteen (15) days.
+
+### Article 21
+
+If the temporary detention order of a detainee becomes invalid in accordance with Paragraph 5 of Article 38-2 of the Act, and if the deportation order is still effective and one of the circumstances set forth in Paragraph 1 of Article 38 of the Act are met, the National Immigration Agency may, after considering judgements of the court for releasing the detainee, impose alternatives to detention in accordance with Paragraph 2 of Article 38 of the Act to ensure that deportation of the person can be enforced.
+
+### Article 22
+
+Violation of alternatives to detention specified in Paragraph 3 of Article 38, Paragraph 3 of Article 38-7, and Subparagraph 1 of Paragraph 1 of Article 38-8 refers to the subject meeting one of the following circumstances:
+
+\1. Does not perform his/her obligations specified in the alternative detention order and without obtaining consent from the National Immigration Agency in advance.
+
+\2. Evades the enforcement of deportation.
+
+\3. Verified as out of contact after being reported by the guarantor in writing or orally.
+
+### Article 23
+
+When notifying the embassy or consulate of the subject’s country of origin in the State , an authorized institution, or designated family member or friend of the subject pursuant to Article 38-6 of the Act, the National Immigration Agency may give the notification in writing, by phone, fax, e-mail, or other technological devices using the information provided by the subject, and shall document the notification in the subject’s record.
+
+### Article 24
+
+If a deportation order is enforceable on timely and a temporary detentions or alternative detentions not deemed necessary, the National Immigration Agency shall enforce deportation orders directly.
+
+## Chapter 5 Responsibilities of Transport Services Proprietors and Immigration Guidance
+
+### Article 25
+
+The term “the concerned transport service proprietor shall pay for the related expenses,” as stated in Paragraph 2 of Article 50 of the Act, shall include accommodations, living, medical expenses, and fees paid by the competent authorities for attendance.
+
+### Article 26
+
+The competent authorities shall collect and compile information concerning the geographical environment, social background, politics, laws, economy, culture, education, manpower demands, and immigration qualifications of the recipient countries or districts, and provide the information for people who intend to immigrate.
+
+The competent authorities may entrust relevant institutions to conduct immigration planning, consultation, seminars, or provide language and technical trainings to assist potential immigrants adapting to the recipient countries and getting employed successfully.
+
+### Article 27
+
+The competent authorities shall collect information concerning overseas warfare, epidemics, and anti-R.O.C. (Taiwan) national sentiment in overseas countries and regions, and timely publish the information for public reference.
+
+Immigration service organizations, shall dissuade nationals who plan to immigrate to the countries or regions under warfare, epidemics, or anti-R.O.C. (Taiwan) national sentiment.
+
+### Article 28
+
+The term “private organizations,” as stated in Article 53 of the Act, refers to foundations, immigration organizations, or immigration service organizations.
+
+Private organizations, while operating mass immigration, shall first consult with recipient countries. The competent authorities shall coordinate with the Ministry of Foreign Affairs to represent the government to sign mass immigration accords with recipient governments.
+
+The competent authorities may join related departments such as the Ministry of Foreign Affairs, Ministry of Finance, Ministry of Economic Affairs, Ministry of Education, Overseas Chinese Affairs Commission, Ministry of Agriculture, Ministry of Labor, etc., in sending officers to recipient countries or areas to study the feasibility of mass immigration.
+
+### Article 29
+
+The competent authorities based on the principle of reciprocity, through international economic cooperative investments, rewarded overseas investments, agricultural technique cooperation or other measures, may sign mass immigration cooperation agreements with countries or regions that welcome our nationals, or coordinate with the Ministry of Foreign Affairs to represent the government to sign mass immigration agreements with recipient governments.
+
+The competent authorities may entrust related agencies or groups to conduct planning, selection, and training for mass immigration and provide counseling, assistance, and attendance for immigrants.
+
+### Article 30
+
+The term “immigration funds,” as stated in Articles 56, 57, and 79 of the Act, refers to the investment plans, projects or funds designated by recipient countries for person who qualified for residence in the recipient country through investment.
+
+### Article 31
+
+The term “immigration organizations,” as stated in Paragraph 4 of Article 56 of the Act, refers to organizations that conduct immigration affairs and pursuant to the Commercial Group Act or the Civil Associations Act.
+
+### Article 32
+
+The term “remunerations” in Paragraph 2 of Article 58 of the Act refers to the agreed or claimed considerations paid by parties being matched, for brokerage service, reporting matchmaking opportunities, or introducing marriage prospects.
+
+### Article 33
+
+Business information of marriage agencies referred to in Paragraph 2 of Article 59 of the Act includes the following documents:
+
+\1. Staff list: Shall include names, ID numbers, genders, addresses, telephone numbers, titles, and dates of employment/designation.
+
+\2. Stubs of receipts for various fees;
+
+\3. Account books;
+
+\4. Status list of transnational marriage matches;
+
+\5. Written contracts;
+
+\6. Other forms of documentation required to be preserved according to the announcement of the National Immigration Agency published in the Government Gazette.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 34
+
+In terms of the necessity of verifying facts and evidence, the National Immigration Agency may notify interested persons to make their statement.
+
+### Article 35
+
+The National Immigration Agency may require the subject or a third party to provide necessary documentation, data, or articles to the need of verifying facts and evidence.
+
+### Article 36
+
+The National Immigration Agency may select proper individuals, agencies, or organizations to conduct authentication.
+
+### Article 37
+
+In order to discover the fact, the National Immigration Agency may conduct investigations and verification.
+
+### Article 38
+
+If an entry permit, issued pursuant to the Act or the Enforcement Rules, is damaged or lost, a replacement or a reissue shall be applied for by submitting the following documents; the original permit shall be nullified:
+
+\1. Entry permit application form;
+
+\2. Affidavit regarding the damaged or lost document.
+
+### Article 39
+
+If a Resident Certificate, Alien Resident Certificate, Alien Permanent Resident Certificate, or Immigration Service Registration Certificate of the Taiwan Area, issued by the Act or the Enforcement Rules, is damaged or lost, a replacement or a reissue shall be valid for a period no longer than the remaining valid period of the original certificate. A replacement or a reissue shall be applied for by submitting the following documents:
+
+\1. Residence or immigration service registration application form;
+
+\2. Documents proving that the application is qualified;
+
+\3. Affidavit regarding the damaged or lost certificate.
+
+### Article 40
+
+Individuals, legal representatives, or interested parties may apply for entry/exit relevant documents from the National Immigration Agency.
+
+### Article 41
+
+If required documents are generated outside the State, the following regulations shall be applied:
+
+1.Documents generated overseas must be attested by R.O.C. overseas missions; if required documents are made, notarized, authenticated, or attested by foreign offices or authorized civil institutions in the State, they shall be attested by the Ministry of Foreign Affairs.
+
+2.Documents generated in the Mainland area shall be attested by an agency established or designated by the Executive Yuan or a civil organization commissioned by the Executive Yuan.
+
+3.Documents generated in Hong Kong or Macau shall be attested by an agency established or designated by the Executive Yuan or a civil organization commissioned by the Executive Yuan in Hong Kong or Macau.If documents prescribed in the previous paragraph are written in a foreign language, the National Immigration Agency shall request applicants to attach a Chinese translation attested by overseas missions or accredited by a domestic notary public.
+
+### Article 42
+
+Photos used in applications for entry/exit, and immigration cases shall comply with the format of the national identification card.
+
+### Article 43
+
+These Enforcement Rules shall take effect on the date of promulgation.
+
+The rules were revised and promulgated on December 28, 2023, and shall become effective on January 1, 2024, except for Articles 13 and 22, which shall become effective on March 1, 2024.
+
+## History
+
+1.This Act’s entire 66 articles were promulgated and went into effect on 30 October 1999 by the Ministry of the Interior.
+
+2.This Act’s Articles 27 and 37 were amended and promulgated on 13 December 2000 by the Ministry of the Interior.
+
+3.This Act’s Articles 8-1, 8-2, 26, 43, 45, and 62 to 64 were amended and Article 65 was deleted, which was promulgated on 3 January 2001 by the Executive Yuan.
+
+4.This Act’s Article 42 was amended and promulgated on 1 April 2004 by the Ministry of the Interior.
+
+5.This Act’s Article 42 was amended and promulgated on 14 February 2008 by the Ministry of the Interior.
+
+6.The new Act’s entire 41 articles were promulgated on 5 August 2008 by the Ministry of the Interior and its effective date was to be set by the same ministry. The new Act was promulgated to go into effect on 1 August 2008 by the Ministry of the Interior.
+
+7.The new Act’s Article 16 was amended and promulgated on 14 November 2008 by the Ministry of the Interior; this article went into effect on 16 November 2008.
+
+8.The Act’s Article 39 and 41 were amended and Article 4, Chapter 4 (including title, Article 21 and Article 22) were deleted, these changes were promulgated on September 14, 2012.
+
+9.The Act’s Article 14 was amended and promulgated on December19 ,2013  by the Ministry of the Interior.
+
+10.This Act’s entire 43 articles were amended and promulgated on March 18 ,2016 by the Ministry of the Interior.
+
+11.Articles 6, 7, 11, 13, 15, 16, 22, 27, 28, 41 and 43 were revised and Articles 18-1 was added and promulgated by the Decree of Ministry of the Interior Tai-Nei-Yi-Zi No. 11209133791 on December 28, 2023, which shall become effective on January 1, 2024, except for Article 3 and 22, which shall become effective on March 1, 2024.

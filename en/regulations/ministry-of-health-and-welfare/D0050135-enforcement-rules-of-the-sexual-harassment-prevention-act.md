@@ -1,0 +1,211 @@
+---
+title: "Enforcement Rules of the Sexual Harassment Prevention Act"
+title_zh: "性騷擾防治法施行細則"
+identifier: "D0050135"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-01-25
+last_amended: 2024-03-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050135"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Sexual Harassment Prevention Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050135-enforcement-rules-of-the-sexual-harassment-prevention-act.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050135-enforcement-rules-of-the-sexual-harassment-prevention-act.md)) is authoritative.
+
+## Article 1
+
+These enforcement rules are promulgated pursuant to Article 33 of the Sexual Harassment Prevention Act (hereinafter referred to as the Act).
+
+## Article 2
+
+The determination of sexual harassment referred to in the Act shall be examined on a case-by-case basis to investigate the background and the environments of the incident, the concerned party’s relationships, speeches, conducts, perceptions, understandings, or other specific facts of the respondents.
+
+## Article 3
+
+Government agencies, institutions, troops, schools, and police authorities or the competent authorities at the special municipality or city (county) level that receive a sexual harassment case under Gender Equity Education Act and the Gender Equality in Employment Act as mentioned in the proviso of Paragraph 2, Article 1 of the Act shall transfer the case to the competent authority within 20 days of receipt and notify the parties involved.
+
+## Article 4
+
+The sexual assault crimes referred to in Article 2 of the Act shall mean the crimes prescribed in Subparagraph 1, Article 2 of the Sexual Assault Prevention Act.
+
+## Article 5
+
+The Sexual Harassment Prevention Committee established under Article 6 of the Act shall meet at least once a quarter.
+
+If the convener cannot attend, the deputy convener or one of the attending members shall be elected to act as the convener.
+
+## Article 6
+
+The investigators and the review or mediation committee members of the sexual harassment cases must be aware of gender equality.
+
+## Article 7
+
+The investigation, review, and mediation of the sexual harassment incident shall not be open to public and shall protect the privacy and other rights of the concerned parties.
+
+## Article 8
+
+The calculation of the number of the organization’s members, employees or personnel receiving the services referred to in Paragraph 1, Article 7 of the Act shall include branch offices and subsidiary units. The number calculated shall be based on the first working day of the month the victim files a grievance .
+
+The personnel receiving the services mentioned in the preceding Paragraph refer to those who receive services in government agencies (institutions), troops, schools, institutions, or employers’ places, and not the organization’s staff or employees.
+
+## Article 9
+
+The unjustified discriminatory treatment referred to in Article 9 of the Act means dismissal, demotion, salary reduction, or damage to the rights and interests the victim entitled to under the law without justifiable reasons.
+
+## Article 10
+
+The identifiable information of the victim referred to in Paragraph 1, Article 10 of the Act, includes, but not limited to, the victim’s photograph, video record, drawing, audio record, address, names of relatives or their relationships, school attended, class, workplace and job title, or any other information that can directly or indirectly identify the individual victim.
+
+## Article 11
+
+The competent authority at the special municipality or city (county) level where the victim resides shall be responsible for providing the services specified in Article 11 of the Act, which include consultation, psychological counseling, legal assistance, social welfare resources, and other necessary services. The competent authority may work with relevant units to assist in a specific case if necessary.
+
+## Article 12
+
+A sexual harassment grievance for an incident provided in Article 14 of the Act can be applied to the competent authority at the special municipality or city (county) level either in writing or verbally. For a grievance filed verbally, a record thereof shall be made by the personnel or the unit receiving the case and be read to the complainant or given to the complainant to review. Once the content of the record is confirmed accurate, the complainant is asked to sign or affix a seal.
+
+The grievance filed in writing or the record made from a verbal grievance (hereinafter collectively referred to as “the petition”) shall contain the following information:
+
+\1. The complainant’s name, gender, date of birth, national ID number, service unit or school and position title, domicile or residence address and phone number;
+
+\2. Where the complainant t has a statutory agent , the statutory agent’s name, gender, date of birth, national ID number, occupation, domicile or residence address, and phone number;
+
+\3. Where the applicant has an attorney, the attorney’s name, gender, date of birth, national ID number, occupation, domicile or residence address, and phone number;
+
+\4. Facts and pertinent evidence of the grievance;
+
+\5. The time when the sexual harassment incident occurred and became known; and
+
+\6. Year, month, and date of the grievance.
+
+The complainant must attach a power of attorney for Subparagraph 3 of the preceding Paragraph.
+
+## Article 13
+
+The government agencies (institutions), troops, schools, police authorities, or the competent authorities at the special municipality or city (county) level (hereinafter collectively referred to as the “receiving unit”) that receive a sexual harassment grievance but do not have the authority to investigate shall, within 14 days of receiving the grievance, scrutinize and transfer the case to a receiving unit with the authority to investigate (hereinafter referred to as the “investigative unit”). If the investigative unit cannot be identified, the police authorities where the sexual harassment incident occurred shall investigate the grievance.
+
+The complainant and the competent authority at the special municipality or city (county) level shall be informed of the transfer in writing referred to in the preceding paragraph.
+
+## Article 14
+
+If the petition does not meet the requirements of Article 12 but can be corrected, the receiving unit shall notify the complainant to correct it within 14 days.
+
+If the receiving unit determines that the sexual harassment case falls under one of the circumstances for non-acceptance as specified in Paragraph 5, Article 14 of the Act, it shall immediately transfer the case to the competent authority at the special municipality or city (county) level for a decision on whether or not to accept the case or to continue the investigation.
+
+If the competent authority at the special municipality or city (county) level determines that the investigation should be continued, it shall immediately transfer the case to the investigative unit for investigation under Paragraph 1, Article 15 of the Act.
+
+## Article 15
+
+During the investigation, the investigators of the sexual harassment incident grievance shall be recused under any one of the following conditions:
+
+\1. The investigator, his/her spouse, ex-spouse, relative by blood within the fourth degree of kinship, or relative by marriage within the third degree of kinship is or once was directly involved in the incident;
+
+\2. The investigator, his/her spouse, or ex-spouse has the relationship in joint rights or joint obligations with the parties involved in the incident.;
+
+\3. The investigator is or once was an agent or an assistant of the parties in the incident; and
+
+\4. The investigator once was a witness or an expert witness of the incident.
+
+Under either of the following circumstances, the concerned parties may file a recusal application against the investigators of the sexual harassment incident grievance:
+
+\1. Where such investigator has failed to recuse himself or herself voluntarily under any circumstances outlined in the preceding paragraph; and
+
+\2. Based on any other specific facts, it is believed that the investigator involved may act in a partisan manner during the investigation.
+
+The application mentioned in the preceding paragraph shall include reasons and facts as well as appropriate explanations, so as to be submitted to the investigative unit. The person requested to recuse himself or herself may submit his or her personal written opinion in response to the request.
+
+The investigators requested to recuse himself or herself shall stop the investigation procedures before the application is rejected. In the case of emergency, the investigator shall take necessary measures.
+
+If the investigator has the circumstances provided in Paragraph 1 but did not recuse himself/herself and those directly involved also did not file a recusal application, the investigative unit shall order the investigator to be recused.
+
+The review or mediation committee of the competent authority at the special municipality or city (county) level shall recuse themselves in any of the circumstances mentioned in Paragraph 1.
+
+## Article 16
+
+When investigating sexual harassment cases, government agencies (institutions), troops, schools, or the competent authority at the special municipality or city (county) level may request assistance from the police agency when necessary, according to Article 19 of the Administrative Procedure Act.
+
+## Article 17
+
+If there is a power imbalance between those directly involved or witnesses, confrontation(s) shall be avoided.
+
+The investigator, when necessary, and without infringing the obligation of confidentiality, may produce a written document and provide it to the concerned parties to read or have them informed of the summary.
+
+## Article 18
+
+The investigation report and handling recommendations prepared by the investigative unit according to the Act shall include the following matters:
+
+\1. Causes of the sexual harassment incident, including the statements of the parties involved;
+
+\2. Records of the investigation and interview process, including the date and interviewees;
+
+\3. Statements and answer s of the complainant, witnesses, relevant persons, and the respondent.
+
+\4. Examination of relevant evidence; and
+
+\5. Results of the investigation and handling recommendations for the sexual harassment incident.
+
+## Article 19
+
+If the competent authority at the special municipality or city (county) level receives the sexual harassment incident investigation report and handling recommendations, along with relevant documents and materials, and determine that there is a need for correction, they shall notify the investigative unit responsible for the case to make the correction.
+
+The investigative unit referred to in the preceding paragraph shall make the correction within 14 days of receiving the notice.
+
+## Article 20
+
+The following circumstances are considered “necessary to re-investigate” as defined in Paragraph 1, Article 16 of the Act:
+
+\1. There are significant flaws in the investigation procedure;
+
+\2. New evidence or facts that can affect the original investigation findings; and
+
+\3. Other reasons that the Sexual Harassment Prevention Committee deems necessary for a re-investigation.
+
+The re-investigation referred to in the preceding paragraph shall be completed within two months. If necessary, the length of the investigation may be extended by another one month, and the concerned parties must be informed.
+
+## Article 21
+
+If the perpetrator evades, obstructs, or refuses to provide information without justified reasons, the government agencies (institutions), troops, schools, or police authorities shall notify the competent authority at the special municipality or city (county) level to handle the matter according to Article 30 of the Act.
+
+## Article 22
+
+Mediators shall not use rape, coercion, intimidation, or fraud to conduct mediation, prevent prosecution, complaints, or private prosecutions, or engage in any other criminal behavior.
+
+## Article 23
+
+During the mediation process applied according to Article 18 of the Act, the competent authority at the special municipality or city (county) level shall notify the investigative unit to suspend the investigation at the victim’s request.
+
+## Article 24
+
+The competent regulatory authorities referred to in Article 26 of the Act are defined as follows:
+
+\1. Broadcasting and television businesses: National Communications Commission; and
+
+\2. Promotional materials, publications, the Internet, or other media: The competent authority at the special municipality or county (city) level where the victim resides.
+
+## Article 25
+
+The competent authority at the special municipality or city (county) level referred to in Chapter 6 of the Act is defined as follows:
+
+\1. Paragraphs 4 and 5 of Article 26 of the Act: The competent authority at the special municipality or city (county) level where the victim resides;
+
+\2. Articles 27, 29, and 30 of the Act: The competent authority at the special municipality or city (county) level where the investigative unit of the sexual harassment incident is located; and
+
+\3. Article 28 of the Act: The competent authority at the municipality and county (city) level where the government agencies (institutions), troops, schools, institutions, or employers are located.
+
+## Article 26
+
+The enforcement rules shall be implemented on the date of promulgation.
+
+## History
+
+1.Promulgated by Order Tai-Nei-Feng-Tzu No.0950015715 on January 25, 2006
+
+2.Amended on March 6, 2024

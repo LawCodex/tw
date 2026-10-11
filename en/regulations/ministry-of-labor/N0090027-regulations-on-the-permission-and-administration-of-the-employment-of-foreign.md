@@ -1,0 +1,931 @@
+---
+title: "Regulations on the Permission and Administration of the Employment of Foreign Workers"
+title_zh: "雇主聘僱外國人許可及管理辦法"
+identifier: "N0090027"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-01-13
+last_amended: 2025-12-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090027"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Permission and Administration of the Employment of Foreign Workers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090027-regulations-on-the-permission-and-administration-of-the-employment-of-foreign.md](../../../zh/regulations/ministry-of-labor/N0090027-regulations-on-the-permission-and-administration-of-the-employment-of-foreign.md)) is authoritative.
+
+## Chapter Ⅰ General Provisions
+
+### Article 1
+
+The Regulations are prescribed in accordance with Paragraph 2, Article 48 of the Employ-ment Service Act (hereinafter “the Act”).
+
+### Article 2
+
+Definitions of terms used in the Regulations:
+
+\1. The term “type A foreign worker(s)” means those foreign person(s) who are employed to engage in jobs referred to in Subparagraphs 1 to 6, Paragraph 1, Article 46 of the Act;
+
+\2. The term “type B foreign worker(s)” means those foreign person(s) who are employed to engage in jobs referred to in Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Act;
+
+\3. The term “type C foreign worker(s)” means the foreign person(s) who are employed to engage(s) in jobs referred to in Subparagraph 11, Paragraph 1, Article 46 of the Act;
+
+\4. The term “type D foreign worker(s)” means those foreign person(s) who engage in jobs referred to in Subparagraphs 1 or 2, Article 50 of the Act.
+
+\5. The term “type E foreign worker(s)” means those foreign person(s) who engage in jobs referred to in Subparagraphs 1 to 4, Paragraph 1, Article 51 of the Act.
+
+The work eligibility, permit application, revocation of permits and other matters relating to employment management for type C foreign workers, detailed in Subparagraph 3 of the previous paragraph, are handled in accordance with the provisions of the “Regulations Governing the Work Eligibility and Permits for the Employment of Foreign Skilled Workers.”
+
+### Article 3
+
+After evaluating labor supply and demand, based on domestic economic development and the employment market, the Central Competent Authority will announce the total number, proportion and occupation categories for type A foreign workers referred to in Article 2 to guide recruitment by employers.
+
+### Article 4
+
+The entry visa held by a foreign national shall be deemed a work permit, should it be granted on the basis of an international written agreement specifying work by foreign na-tionals, the number of people and period of residence (stay), even when the primary pur-pose of the agreement is not entry into the Republic of China to work.
+
+The work permit period referred to in Paragraph 1 of this Article shall be no longer than one year.
+
+### Article 5
+
+When the entry visa or entry permit held by a foreign worker engaged in the occupations referred to below has a period of stay that is 30 days or less, it shall be deemed to be a work permit:
+
+\1. Work detailed in Paragraph 3, Article 51 of the Act.
+
+\2. To help assist in the solution of emergency situations and related problems for the pur-pose of public welfare and to engage in work prescribed in Subparagraph 1, Paragraph 1, Article 46 of the Act.
+
+\3. To give speeches or engage in commercial technical advisory work, as prescribed in Subparagraph 1, Paragraph 1, Article 46 of the Act, as a well-known expert recognized by the central authorities in charge of the relevant industry or invited by a higher education institution, government agency at all levels and their affiliated academic research institu-tion.
+
+\4. To engage in non-profit artistic and cultural performances or sporting events at the invi-tation of government agencies at all levels, foreign missions or institutions in Taiwan.
+
+A foreign national who holds an Academic and Business Travel Card issued by the immi-gration authority and is engaged in giving speeches or commercial technical advisory work detailed in Subparagraph 1, Paragraph 1, Article 46 of the Act shall be deemed as being given a work permit in the event the period of stay granted by the entry visa or entry permit is 90 days or less.
+
+### Article 6
+
+Employers shall apply to the Central Competent Authority for a permit to recruit foreign worker(s) to work in the Republic of China, unless otherwise provided for in the Act or the Regulations.
+
+Prior to granting the permit referred to in the preceding Article, the Central Competent Au-thority will consult with the Central Competent Authority for the Relevant Business in question to review their opinions and comments.
+
+Before an employer hires a foreign worker to engage in the occupation detailed in Subpar-agraph 2, Paragraph 1, Article 48 of the Act, he/she shall verify the original Alien Resident Certificate and dependent household registration data of the foreign national.
+
+### Article 7
+
+The Central Competent Authority will publicly announce online application procedures for employers applying to employ foreign workers or foreign workers applying for a work permit online.
+
+In accordance with the aforementioned announcement regulation, employers applying for a work permit for type A to type D foreign workers should do so online, other than where a legitimate reason is provided for not doing so and accepted by the Central Competent Au-thority.
+
+Employers who apply in accordance with provisions in the preceding two paragraphs shall retain written copies of all original application documents for a period of at least five years.
+
+### Article 8
+
+If as part of an application to employ foreign workers the necessary documentation in-cludes documents issued by government agencies (institutions) or state-owned enterprises that can be verified by the Central Competent Authority online, employers do not have to include said documents.
+
+The aforementioned documents will be announced by the Central Competent Authority.
+
+### Article 8-1
+
+When handling employment and management related affairs for foreign nationals as stipulated in Article 2, the Central Competent Authority can request necessary information be provided by related agencies (institutions), groups, legal persons, or individuals.
+
+Within the necessary scope of executing its statutory duties related to the employment and management of foreign nationals as stipulated in Article 2, the
+
+central competent authority for the target business can ask the Central Competent Authority to provide related information, including a list of foreign nationals approved to work, as specified in Article 2.
+
+The collection, processing, and use of information obtained by the Central Competent Authority and the central competent authority for the target business, in accordance with the preceding two paragraphs, should be handled in accordance with the provisions of the Personal Data Protection Act.
+
+## Chapter II Applications for Employment Permits for Type A Foreign Workers
+
+### Article 9
+
+Employers who apply to hire type A foreign workers are required to provide the following documentation:
+
+\1. Application form.
+
+\2. Photocopy of the certified identity documents of the applicant or person in charge of the company; company registration documentation, limited partnership certified documentation, business registration certificate, factory registration certificate or franchise license. However, in accordance with related legal provisions those exempted from applying for a factory registration certificate or franchise license do not have to submit them.
+
+\3. Photocopy of the employment contract.
+
+\4. A list of employed foreigner workers, including photocopies of their passports or ARCs and graduation certificates. However, foreign workers who enter Taiwan to engage in work detailed in Subparagraph 2, 5 and 6, Paragraph 1, Article 46 of the Act are not required to provide a photocopy of their graduation certificate.
+
+\5. Original copy of review fee receipt.
+
+\6. Other documents required by the Central Competent Authority.
+
+Applications for foreigners to enter Taiwan to engage in work listed in Paragraph 3, Article 51 of the Act requires the submission of documentation detailed in Subparagraphs 1, 5 and 6 in the aforementioned paragraph in addition to the following:
+
+\1. Photocopy of the hiring contract, sale and purchase contract or technical cooperation contract.
+
+\2. Certified registration documents for contracted local or overseas legal instruments.
+
+\3. Certified documents detailing issuance of assigned work to overseas legal instruments.
+
+\4. Certified documents showing the registration or accreditation of the applicant. Franchise businesses are required to submit photocopies of their license certificate and the company responsible person’s certified identity documents.
+
+\5. List of contracted foreigners, as well as photocopies of their passports or ARCs and graduation certificates. However, where the combined contracted work period within the year prior to the date of application and current applied for work period do not exceed 90 days a photocopy of the graduation certificate is not required.
+
+When the documents provided pursuant to the above two paragraphs are from overseas, the Central Competent Authority will require that they are verified by a Republic of China overseas mission.
+
+When the employer is a civic organization, other than having to provide the documents detailed in Subparagraph 1 and 3-6, Paragraph 1, organization accreditation documents and photocopies of the organization responsible person’s certified identity documents must also be provided.
+
+### Article 10
+
+In the event a foreign worker is contracted to engage in work in the Republic of China de-tailed in Subparagraph 1 or 2, Paragraph 1, Article 46 of the Act in a business area opened up under a documented international agreement, the contracted business entity must apply for a permit in accordance with type A foreign worker provisions other than where other-wise prescribed in the Act or the Regulations.
+
+In the event the contracted business entity in the preceding paragraph is located in a Free Economic Pilot Zone (FEPZ) and engaged in a business listed in Subparagraph 1 or 2, Par-agraph 1, Article 46 of the Act, it is not restricted to areas of business allowed under the international agreement.
+
+The management of foreign workers after they arrive in the Republic of China specified in the two preceding paragraphs is conducted in accordance with type A foreign worker regu-lations.
+
+The following documents shall be provided when applying for a permit under Paragraph 1 or 2 in addition to those specified in Subparagraphs 1, 5, 6, Paragraph 1 and Subparagraph 4, Paragraph 2 in the preceding Article:
+
+I. Photocopy of the contract.
+
+II. Photocopies of the list of foreign workers, passports, graduation certificates (diplomas) and related certified documents. However, when a foreign worker is engaged in a job listed in Subparagraph 2, Paragraph 1, Article 46 of the Act, he/she is exempted from providing a graduation certificate or related certified documents.
+
+In the event foreign workers engaged in work listed in Paragraph 1 or 2 are required to ob-tain certain qualifications, or conform to certain methods and conditions of professional practice, they must also satisfy laws and regulations promulgated by the Central Compe-tent Authority in charge of the Target Business.
+
+### Article 11
+
+If an employer finds it necessary to continue the employment of a type A foreign worker, he/she is required to apply for an extension of the employment permit within four months of its expiration date by submitting the documents detailed in Subparagraph 1, Subpara-graphs 3 to 6, Paragraph 1, Article 9 to the Central Competent Authority. However, when the duration of the employment permit is less than six months, an extension can only be applied for after two-thirds of permit duration is completed.
+
+### Article 12
+
+When the period of stay of foreign workers referred to in Article 5 is 31 days or more but 90 days or less, the employer is required, in accordance with Article 9, to apply for a per-mit within 30 days of the worker arriving in the Republic of China.
+
+### Article 13
+
+Whenever the Central Competent Authority issues an employment permit or extension thereof to a type A foreign worker, it is also required to notify the Ministry of Foreign Af-fairs.
+
+### Article 14
+
+When an employer applies to employ a type A foreign worker if any of the following situa-tions are determined to exist the Central Competent Authority will not grant all or part of an employment permit, nor the extension thereof:
+
+\1. Provision of false or invalid information.
+
+\2. The foreign worker fails the health examination conducted in accordance with the Regu-lations Governing Management of the Health Examination of Employed Aliens stipulated by the Central Competent Health and Welfare Authority.
+
+\3. The application does not conform to relevant requirements and the employer fails to provide necessary supplements or to do so within the fixed time period given.
+
+\4. Does not meet the standards detailed in Paragraph 2, Article 46 of the Act.
+
+### Article 15
+
+If a type A foreign worker takes a leave of absence the employer is required to notify the Central Competent Authority in writing within three days.
+
+### Article 16
+
+After a foreign worker arrives in the Republic of China to work in accordance with Para-graph 3, Article 51 of the Act, other than where other regulations pertain, his/her applica-tions and management will be conducted in accordance with the type A foreign worker provisions detailed in Subparagraph 1, Article 2.
+
+## Chapter III Applications for Recruitment and Employment Permits for Type B For-eign Workers
+
+### Article 17
+
+In order to apply to employ type B foreign workers, an employer is required to offer reasonable employment terms and register such job openings with a local public employment services agency, and following registration advertise such job ads on the nationwide Employment Information Network established by the Central Competent Authority pursuant to Article 22 of the Act, and seek to recruit domestic workers for a minimum of seven days. However, if an employer also advertises such job openings in domestic newspapers assigned by the Central Competent Authority for two consecutive days at the same time, he/she can seek to recruit domestic workers for a minimum of three days after the advertisement period ends.
+
+The advertisement for the job openings detailed in the above paragraph shall specify the type of work, number of persons to be recruited, required specialty or qualifications, name of the employer, wage/salary, work hours, work location, employment period, whether meals are provided and the name, address and telephone number of the public employment service agency that processed the registration.
+
+When conducting recruitment as referred to in the above paragraph, the employer is required to notify the labor union or workers of the business entity involved in the recruitment and publicly announce the recruitment in a location where it can be readily seen by employees.
+
+When an employer applies to hire a live-in foreign care worker, domestic recruitment should be conducted in accordance with the following provisions:
+
+\1. If the care recipient meets the provisions detailed in Paragraph 1 or Paragraph 2, Article 18 of the “Review Standards and Employment Qualifications for Foreign Workers Engaging in Work Specified in Subparagraphs 8 to 11, Paragraph 1, Article 46 of the Employment Service Act” (hereinafter Review Standards), the application should be processed in accordance with Article 18.
+
+\2. If the care recipient meets the provisions detailed in Paragraph 3, Article 18 of the Review Standards, the applicant should present their identity documents and the application be processed in accordance with Article 18-1.
+
+### Article 18
+
+An employer who wants to hire a live-in caregiver is required to apply for a professional assessment of the care recipient at a medical institution designated by the Central Competent Authority.
+
+If the care recipient is professionally assessed as meeting the Central Competent Authority regulations for hiring a foreign caregiver and there are valid reasons that native caregivers recommended by a long-term care center under a municipal or county (city) government cannot meet the care requirements, the employer can apply to the Central Competent Authority to employ a foreign caregiver.
+
+If the care recipient has any of the following conditions, employers can directly apply for a domestic caregiver recommended by a long-term care centre under a municipal or county (city) government without the aforementioned assessment:
+
+\1. Possessing a specific Catastrophic Illness Manual or certificate.
+
+\2. Meets the regulations of the Central Competent Authority for not requiring a professional assessment by a medical institution.
+
+### Article 18-1
+
+If the care recipient meets the provisions specified in Paragraph 3, Article 18 of the Review Standards, and the employer intends to hire a foreign live-in care worker, the employer is required to post a job vacancy ad for domestic workers, providing reasonable working conditions, on the national employment information network established by the Central Competent Authority in accordance with Article 22 of the Act for a minimum of 7 days calculated from the day after the job posting.
+
+Once a public employment service agency confirms the care needs cannot be met, the employer can apply to the Central Competent Authority to hire a live-in foreign care worker.
+
+The job ad referred to in the preceding paragraph should include the following information: type of job vacancy, number of workers needed, required skills or qualifications, employer name, wages, work hours, work location, duration of employment, and whether meals are provided.
+
+### Article 19
+
+In accordance with the provisions of Article 17 or Article 18-1, type B foreign workers employed by the employer must possess the same specialty or qualifications required by the employer when conducting domestic recruitment. When necessary, the Central Competent Authorities may re-examine the specialty or qualifications of type B foreign workers and those who fail such a reexamination will not be issued a permit.
+
+If an employer utilizes selection testing as part of domestic recruitment then when registering job openings he/she is required to submit the testing criteria and hiring conditions to the public employment services agency in charge of registration for reference purposes. The agency will specify a date on which the test will be conducted and also invite experts with the required expertise to witness the test.
+
+The aforementioned testing criteria and hiring conditions will be announced by the Central Competent Authorities based on category of work.
+
+### Article 20
+
+An employer who has sought to recruit domestic workers in accordance with Paragraph 1, Article 17 but cannot recruit sufficient numbers, can within 15 days of the last advertising day detailed in Paragraph 1, Article 17, submit recruitment advertising materials, a list of employed domestic workers and documents required by the Central Competent Authority, to the public employment services agency in charge of registering the certificate of em-ployment demands.
+
+After the public employment services agency reviews and approves an employer as being in compliance with Articles 17 and 19, the agency will issue an employment ad certificate indicating that insufficient number of domestic workers were recruited.
+
+### Article 21
+
+Employers conducting domestic recruitment in accordance with relevant laws and regula-tions must not engage in any of the following behavior with individuals recommended by public employment services agencies, or self-recommended job applicants:
+
+\1. Make false statements regarding the difficulty or danger of work.
+
+\2. Reject a job applicant on the grounds he/she lacks the required skills when the job open-ing ad does not require technicians or requires physical labor.
+
+\3. Decline to employ a domestic worker for any other unjustified reason.
+
+### Article 21-1
+
+When an employer seeks to recruit domestic workers using one of the following methods but is unable to hire a sufficient number an application for recruitment registration to employ category B foreign workers can be filed with a public employment services agency in the area where the place of work is located, for 60 days after the conclusion of the recruitment period:
+
+\1. A minimum of 7 days after applying for recruitment registration to a public employment services agency in the area where the place of work is located.
+
+\2. A minimum of 7 days after posting a “job advertisement” on the national employment information portal established pursuant to Article 22.
+
+When an employer applies for a recruitment certificate in accordance with the above paragraph the following documents should be appended:
+
+\1. Information should be provided detailing reasonable labor conditions, job advertisement content, union notification, workers and ads detailed in Paragraphs 1-3, Article 17.
+
+\2. A list of employed domestic workers.
+
+\3. Other documents stipulated by the Central Competent Authority.
+
+When a public employment services agency reviews an application by an employer in accordance with the above two paragraphs and finds no violation of provisions in the above Article, a recruitment certificate should be issued based on the employer’s inability to recruit sufficient domestic workers.
+
+### Article 22
+
+When an employer applies for a type B foreign worker recruitment permit the following documents are required:
+
+\1. Application form.
+
+\2. Photocopy of the certified identity documents of the applicant or person in charge of the company; company registration documentation, limited partnership certified documentation, business registration certificate, factory registration certificate or franchise license. However, in accordance with related legal provisions those exempted from applying for a factory registration certificate or franchise license do not have to submit them:
+
+(1) Those who hire foreign workers to engage in construction projects;
+
+(2) Those exempted from providing franchise licenses under other related laws and regulations.
+
+\3. Employment demands certificate. However, those who employ foreign live-in caregivers are exempted from providing the certificate.
+
+\4. When an employer recruits locally he/she is required to provide a list of employed domestic workers. However, those who employ foreign live-in caregivers are exempted from providing said list.
+
+\5. Certified documents issued by a municipality or county (city) government for the following:
+
+(1) When in accordance with existing regulations a contribution has already been made to the Labor Retirement Reserve Fund and Labor Pension Fund
+
+(2) When in accordance with existing regulations payment has already been made to the Wage Arrears Payment Fund
+
+(3) When in accordance with existing regulations labor insurance premiums and occupational accident insurance have already been paid
+
+(4) When in accordance with existing regulations a fine has already been paid for violation of labor laws.
+
+(5) When in accordance with existing regulations management and labor meeting(s) have been held.
+
+(6) When there are insufficient facts to indicate the occurrence of a strike, or management-labor disputes at work locations designated for type B foreign workers, pursuant to Article 10 of the Act.
+
+(7) When there are insufficient facts to indicate evidence of business difficulties, suspension of operations, factory closure or business shut down.
+
+(8) No evidence of the down grading of work conditions for domestic workers due to the employment of type B foreign workers.
+
+\6. Original copy of review fee receipt.
+
+\7. Other documents required by the Central Competent Authority.
+
+Events detailed in Items 6 to 8, Subparagraph 5 of the above paragraph shall be limited to those that happened in the two year period prior to the of date of application.
+
+When an employer applies to employ foreign workers and any of the following conditions pertain the certified document listed in Subparagraph 5, Paragraph 1 do not have to be pro-vided:
+
+\1. Employment of foreign live-in home help and live-in caregivers.
+
+\2. Employment of foreign workers in the ocean fishing industry by individual employers who do not hire domestic workers and agree to share the surplus with a partner(s).
+
+\3. Employment of foreign workers to work in agriculture, forestry, animal husbandry and aquaculture industries by individual employers who do not hire domestic workers.
+
+When the employer is a civic organization, other than having to provide the documents detailed in Subparagraph 1 and 3-7, Paragraph 1, organization accreditation documents and photocopies of the organization responsible person’s certified identity documents must also be provided.
+
+### Article 23
+
+If an employed type B foreign worker leaves the Republic of China for reasons not attributable to the employer, said employer can apply for a replacement in accordance with the provisions of Paragraph 1, Article 58 of the Act by submitting the following documents:
+
+\1. Application form
+
+\2. Certified documents proving the foreign worker has left the Republic of China.
+
+\3. A document issued by a municipal or county (city) government confirming the termination of the employment relationship between the employer and type B foreign worker. However, verification is not required if the employer terminates the employment relationship with the worker and makes an announcement to that effect in accordance with Article 68 or where a foreign worker has no new employer to provide continued employment and leaves the country.
+
+\4. Other documents required by the Central Competent Authority.
+
+If the employer in the preceding paragraph applies for a replacement due to the death of a foreign worker, the following documents must be submitted:
+
+\1. Application form
+
+\2. Death certificate of the foreign worker
+
+\3. Other documents required by the Central Competent Authority.
+
+If an employer applies for a replacement type B foreign worker after said worker goes missing in accordance with Paragraph 1, Article 58 of the Act and Subparagraph 1 or Sub-paragraph 2, Paragraph 2 of the same Article, the following documents must be submitted:
+
+\1. Application form
+
+\2. Other documents required by the Central Competent Authority
+
+If an employer agrees to a live-in caregiver transferring employer or work and applies for a replacement, then in accordance with Subparagraph 3, Paragraph 2, Article 58 of the Act the following documents must be submitted:
+
+\1. Application form.
+
+\2. Photocopy of the new employer’s continued employment permit letter. However, this is not required when a new employer has not continued employment of the foreign worker more than one month after the employment permit is canceled.
+
+\3. Other documents required by the Central Competent Authority.
+
+### Article 24
+
+When a foreign worker leaves the Republic of China, dies or goes missing and becomes undocumented, the employer is required to notify the entry and exit administrative authority and the police. Three months after that notification the employer has a six month period in which to apply for a replacement type B foreign worker in accordance with Paragraph 1, Article 58 of the Act
+
+When an employer applies to replace a live-in caregiver in accordance with Paragraph 2, Article 58 of the Act the application must adhere to the following time provisions:
+
+\1. Applications filed in accordance with Subparagraph 1, Paragraph 2, Article 58 of the Act must be submitted within six months of a foreign worker going missing.
+
+\2. Applications filed in accordance with Subparagraph 2, Paragraph 2, Article 58 of the Act must be submitted within the six month period after the foreign worker has been missing for two months.
+
+\3. Applications filed in accordance with Subparagraph 3, Paragraph 2, Article 58 of the Act must:
+
+(1) Be submitted within six months of the start date of the new employer continuing the foreign worker’s employment
+
+(2) Be submitted within six months of an employment permit being revoked and a new employer not continuing the employment of a foreign worker for one month.
+
+The Central Competent Authority will not grant a replacement application if an employer files it after the deadlines detailed above.
+
+### Article 24-1
+
+Before these measures were amended on May 20, 2023, if the following situations pertain to foreign workers hired by employers, applications for replacements must be filed within six months of the amendments to the measures coming into effect:
+
+\1. When a foreign worker goes missing and becomes undocumented, the employer is required to notify the entry and exit administrative authority and the police, and can apply for a replacement between three and six months after filing a report.
+
+\2. When a foreign worker engaged in live-in care work goes missing and becomes undocumented the employer is required to notify the entry and exit administrative authority and the police, and can apply for a replacement between one and three months after filing a report.
+
+\3. When an employer agrees to a foreign worker engaged in live-in care work transferring employer or work and after the cancelation of the employment permit a new employment has not continued the foreign worker’s employment within a one month period.
+
+If an employer exceeds the replacement application period detailed in the above paragraph, the Central Competent Authority will not grant a permit.
+
+### Article 25
+
+When an employer applies to employ type B foreign workers, he/she shall not withdraw employment demands registration within six months prior to domestic recruitment without having a good reason for doing so.
+
+### Article 26
+
+When an employer receives approval from the Central Competent Authority to re-recruit type B foreign workers, he/she must not bring in or employ type B foreign workers before the original type B foreign workers leaves the Republic of China, other than where the following conditions pertain:
+
+\1. When an employer agrees to a foreign worker transferring employer or work and the new employer undertakes continued employment of said worker, during the period for which the employment permit is valid.
+
+\2. When a foreign worker engages in live-in care work and the employer agrees to a transfer of employer or work while the employment permit remains valid, but more than one month after the employment permit is canceled a new employer has not continued the employment of the foreign worker.
+
+\3. When the validity of a foreign worker’s employment permit ends and the original employer is permitted to continue employment (hereinafter contract completion continued employment).
+
+\4. When the period for which the foreign worker’s employment permit is valid ends and a new employer receives permission for continued employment (hereinafter contract completion transfer) in accordance with the Employer and Work Transfer Procedures (hereinafter Employer Transfer Rules) for foreign workers engaged in work listed in Subparagraph 8 to 10, Paragraph 1, Article 46, of the Employment Service Act.
+
+\5. When the departure of a foreign worker is postponed due to detention, criminal penalty, major disease or injury or other reason not attributable to the employer and the Central Competent Authority grants approval.
+
+### Article 27
+
+If when an employer applies to hire type B foreign workers, it is found that the number of domestic workers he/she has laid off or dismissed over the preceding two years is at a level proscribed by the Central Competent Authority said authority can refuse to issue a permit.
+
+### Article 28
+
+If when an employer applies to employ type B foreign workers any of the following situa-tions are found to exist the Central Competent Authority will refuse to issue a permit:
+
+\1. The employer, care recipient or other relatives who live together, has committed one of the crimes listed in Articles 221-229 of the Criminal Code against a previous type B for-eign worker.
+
+\2. A representative of the employer, person in charge, or individual who takes care of labor affairs on behalf of the employer, has committed one of the crimes listed in Articles 221-229 of the Criminal Code against a previous type B foreign worker.
+
+### Article 29
+
+If when an employer applies to employ type B foreign workers he/she is found to be in vio-lation of any of the standards listed in Paragraph 2, Article 46 or the criteria in Paragraph 2, Article 59 of the Act, the Central Competent Authority will refuse to issue a permit:
+
+### Article 30
+
+When an employer applies to recruit type B foreign workers the Central Competent Authority will prescribe document validity periods for all application documents and application procedures.
+
+When the employer in the above paragraph receives approval to recruit type B foreign workers he/she is required to complete all necessary procedures to facilitate their entry into the Republic of China from an approved labor exporting country within six months of the date on the permit notification. If the employer is unable to complete the procedure within the specified time, he/she has a further three months to do so starting from the day after the original time period expires.
+
+If the procedure is not completed within the time period detailed in the above paragraph, the recruitment permit is invalidated.
+
+### Article 31
+
+An employer cannot employ a type B foreign worker who has already entered the Republic of China, except in the following cases:
+
+\1. When the Central Competent Authority approves contract completion continued em-ployment or a contract completion transfer
+
+\2. When a case is approved by the Central Competent Authority on an ad hoc basis.
+
+### Article 32
+
+When a type B foreign worker applies for a visa to enter the Republic of China in accord-ance with applicable laws and regulations, he/she is required to submit the following doc-uments:
+
+\1. Recruitment permit
+
+\2. Report issued by a hospital approved or designated by the Central Competent Health and Welfare Authority of the Republic of China, certifying that a type B foreign worker passed a health examination conducted within the three month period prior to the application.
+
+\3. Professional certification
+
+\4. A certified document attesting to the good behavior of the type B foreign worker. How-ever, this is not required when worker applies for re-entry within 30 days of departing the Republic of China.
+
+\5. An affidavit from the type B foreign worker on expenses incurred traveling to the Re-public of China to work and wage/salary verified by the Competent Authority in the work-er’s country of origin.
+
+\6. A signed labor contract
+
+\7. An affidavit from the type B foreign worker attesting to his/her understanding of related work regulations in Taiwan
+
+\8. Any other visa application documents stipulated by the Central Competent Authority for the Related Business.
+
+If the original type B foreign worker hired by the employer is re-recruited by the employer him/herself without commissioning a private employment services agency and the applica-tion documents are transferred through the Central Competent Authority, the documents listed in Subparagraphs 3 to 5 and Subparagraphs 7 in the preceding paragraph do not have to be submitted.
+
+### Article 33
+
+When an employer applies to employ a type B foreign worker he/she should adhere to a Foreign Workers Living Care Service Plan
+
+The aforementioned Foreign Workers Living Care Service Plan should include the following:
+
+\1. Secure and sanitary board and lodging.
+
+\2. Guaranteed health and safety provisions.
+
+\3. Information on recreational and cultural facilities and religious activities.
+
+\4. Consultation services on adapting to life in Taiwan.
+
+\5. Accommodation location and life care service personnel.
+
+\6. Other items required by the Central Competent Authority.
+
+When an employer hires a live-in home help or live-in caregiver, items prescribed in Sub-paragraphs 3 and 4 of the preceding paragraph do not have to be included in the plan.
+
+If an employer violates the provisions of the first paragraph and the infraction is deemed minor by the local competent authority he/she will be notified in writing and given a fixed period in which to make improvements.
+
+If an employer makes any alterations to the provisions of Subparagraph 5, Paragraph 2, he/she should notify the local competent authority where the foreign worker lives or works in writing within seven days of the change being made.
+
+### Article 34
+
+An employer applying to hire type B foreign workers is required to submit the following documents to the local competent authority within three days of the workers arriving in the Republic of China so an inspection can be conducted:
+
+\1. Foreign worker arrival notification form
+
+\2. Foreign Workers Living Care Service Plan
+
+\3. List of foreign workers.
+
+\4. An affidavit from the type B foreign workers on expenses incurred traveling to the Re-public of China to work and wage/salary verified by the Competent Authority in the work-er’s country of origin. However, a foreign worker who meets the requirements in Para-graph 2, Article 32 is exempted from submitting such an affidavit.
+
+When the local competent authority receives the correct documents from the employer it will issue a certificate indicating it received notification of the arrival of the foreign worker in the Republic of China and conduct the aforementioned inspection. However, if such an inspection was conducted and passed in the six months preceding the issue of the certifi-cate the inspection does not have to be conducted.
+
+The provisions of the first paragraph do not apply to contract completion continued em-ployment employers
+
+Contract completion transfer employers should submit the required documents in accord-ance with the Employer Transfer Rules, to notify the local competent authority to conduct an inspection
+
+If foreign worker accommodation was not planned by the employer in accordance with Subparagraph 5, Paragraph 2, of the previous Article, after the local competent authority receives notification from the employer in accordance with Paragraph 1 or Paragraph 5 of the previous article it should visit the foreign workers to determine their true feelings on the matter.
+
+### Article 34-1
+
+When an employer applies to hire a foreign worker to engage in live-in home help or caregiving work, he/she is required to file the application with the Central Competent Authority and agree to undertake the following, no later than five days before the arrival of the foreign worker:
+
+\1. Arrange for foreign workers to undergo new arrival orientation training provided by the Central Competent Authority from the day on which they arrive in Taiwan.
+
+\2. Transfer related documentation to the local competent authority notifying them of the need conduct an inspection of items listed in Article 33.
+
+\3. Apply for an employment permit.
+
+### Article 34-2
+
+The documents the employer agrees to transfer pursuant to Subparagraph 2 of the above Article include:
+
+\1. Foreign Worker Living Care Service Plan report.
+
+\2. Foreign Worker Living Care Service Plan.
+
+\3. A foreign worker affidavit on expenses incurred traveling to the Republic of China to work and wage/salary verified by the competent authority in his/her home country. However, this is not required for those who comply with the provisions of Paragraph 2, Article 32.
+
+The Central Competent Authority is required to transfer the aforementioned documents to the local competent authority: Once the latter verifies the documents are in compliance with the provisions in the above paragraph it should inspect the items listed in Article 33.  However, an inspection is not required when the foreign worker has been inspected and certified as conforming within the six month period prior to his/her arrival in Taiwan.
+
+### Article 34-3
+
+When an employer applies for an employment permit pursuant to the provisions of Subparagraph 3, Article 34-1, the following documents should be submitted:
+
+\1. Application document.
+
+\2. Original copy of review fee receipt.
+
+\3. Other documents required by the Central Competent Authority.
+
+When an employer has already completed the requirements in Article 34-1, Article 34-2 and the above paragraph, he/she is exempt from the provisions of Paragraph 1, Article 34 and Article 36.
+
+### Article 34-4
+
+When foreign workers complete the new arrival orientation training detailed in Subparagraph 1, Article 34-1, the Central Competent Authority will issue them with an orientation training completion certificate valid for a period of five years.
+
+When a foreign worker fails to complete the aforementioned new entry orientation training, their employer is required to arrange for said worker to attend a new entry orientation training program on the new entry orientation training website established by the Central Competent Authority, within 90 days of arriving in Taiwan. On completion they will receive an orientation training completion certificate valid for a period of five years.
+
+### Article 35
+
+When the local competent authority inspects the expenses incurred traveling to the Republic of China to work and wage/salary by type B foreign workers it should do so based on the worker’s affidavit on expenses incurred traveling to the Republic of China to work and wage/salary stipulated in Subparagraph 4, Paragraph 1 of Article 34 or Subparagraph 3, Paragraph 1 of Article 34-2.
+
+When the local competent authority conducts the aforementioned inspection of a contract completion continued employment employer it should use the foreign worker’s latest affidavit on expenses incurred traveling to the Republic of China to work and wage/salary verified by the competent authority in his/her home country.
+
+When the local competent authority conducts the aforementioned inspection of a contract completion transfer employer it should be based on the foreign worker’s affidavit on expenses incurred traveling to the Republic of China to work and wage/salary included in the employer’s notification in accordance with the Employer Transfer Rules.
+
+The content of the foreign worker’s affidavit on expenses incurred traveling to the Republic of China to work and wage/salary, as prescribed in the preceding three paragraphs, can-not be amended in any way that is detrimental to the interests of the foreign worker.
+
+### Article 36
+
+When type B foreign workers recruited by an employer arrive in the Republic of China the following documents must be submitted within 15 days of their arrival s part of an applica-tion for an employment permit.
+
+\1. Application form.
+
+\2. Original copy of review fee receipt
+
+\3. Certified document from the local competent authority indicating receipt of employer notification as prescribed in the preceding article.
+
+\4. Other documents required by the Central Competent Authority.
+
+### Article 37
+
+In accordance with the provisions of the Act, employers assume employer responsibilities from the day B foreign workers arrive in the Republic of China or the date on which contract completion continued employment starts
+
+If an employer does not follow the provisions of Subparagraph 3, Article 34-1, Article 34-3, the preceding article or Article 39 and submits an application late or fails to comply with regulations, the Central Competent Authority will issue an employment permit for the following periods:
+
+\1. From the date the foreign worker enters the Republic of China to the date it decides not to issue an employment permit.
+
+\2. From the date of the contract completion continued employment starts to the date it decides not to issue an employment permit.
+
+### Article 38
+
+When an employer applies to employ a foreign worker who has worked in the Republic of China for 12 years or will have worked for 12 years within one year as a live-in caregiver as detailed in Subparagraph 9, Paragraph 1, Article 46, said employer is required to submit the following documents as part of a permit application that will see the worker’s accumu-lated work period reach 14 years:
+
+\1. Application form
+
+\2. An evaluation table and certified documents relating to the foreigner worker’s profes-sional training or outstanding performance if self-taught.
+
+The aforementioned certified documents on special performance are based on Article 20 of the Review Standards in Addendum 4.
+
+### Article 39
+
+When an employer finds it necessary to continue the employment of a type B foreign worker he/she should submit the following documents to the Central Competent Authority 2-4 months before the expiration of the worker’s employment permit as part of an applica-tion for contract completion continued employment.
+
+\1. Application form
+
+\2. Proof that the employer and worker agree to contract completion continued employment
+
+\3. Other documents required by the Central Competent Authority.
+
+### Article 40
+
+When an employer finds it necessary to continue the employment of a type B foreign worker he/she should submit an application form and other documents required by the Central Competent Authority as part of an application to the authority for a contract com-pletion transfer permit.
+
+When the original employer applies for a contract completion transfer the foreign worker has already reached agreement with a new employer on contract completion continued em-ployment, so the new employer should directly apply to the Central Competent Authority for continued employment of the foreign worker in accordance with the provisions of the Employer Transfer Rules.
+
+### Article 41
+
+When there are major and special circumstances or a major engineering project as detailed in Paragraph 2, Article 52 of the Act, and an employer finds within 60 days prior to the ex-piration of a foreign worker’s employment permit that it is necessary to continue the em-ployment of said worker, he/she should prepare employment permit extension application documents and any other documentation required by the Central Competent Authority to be filed with the authority as part of an application for an employment permit extension.
+
+## Chapter IV (Delete)
+
+### Article 42
+
+(Delete)
+
+### Article 43
+
+(Delete)
+
+### Article 44
+
+(Delete)
+
+### Article 45
+
+(Delete)
+
+### Article 46
+
+(Delete)
+
+### Article 47
+
+(Delete)
+
+### Article 48
+
+(Delete)
+
+### Article 49
+
+(Delete)
+
+## Chapter V Application for Employment Permits for Type D Foreign Workers
+
+### Article 50
+
+Foreign student(s) referred to in Subparagraph 1, Article 50 of the Act, are required to meet the qualifications set forth in the Regulations Regarding International Students Un-dertaking Studies in Taiwan.
+
+### Article 51
+
+When foreign students in the Republic of China detailed in the previous Article work they must observe the following regulations:
+
+\1. Must be officially enrolled on a course at a junior college, university or graduate school, or have attended a language program for six months or longer.
+
+\2. The attended school is required to confirm the following:
+
+(1) A student does not have the financial resources to continue his/her studies or cover living expenses and provide concrete evidence of the aforementioned.
+
+(2) A teaching or research department at the attended school requires foreign student to undertake work.
+
+The aforementioned regulations do not apply to foreign students with the following qualifications:
+
+\1. Students who specialize in languages and to whom one of the following conditions pertains, who receive approval from the Ministry of Education:
+
+(1) Students who after enrolling work part time as foreign language teachers at a college affiliated language center or at a foreign cultural and educational foundation affiliated language center in Taiwan.
+
+(2) Students who after enrolling assist with school-based language expertise related teaching activities.
+
+\2. Students who attend graduate school and with the agreement of the school engage in study-related research work.
+
+### Article 52
+
+Overseas compatriot student referred to in Subparagraph 2, Article 50 of the Act are those students defined in the Regulations Regarding Study and Counseling Assistance for Over-seas compatriot Students in Taiwan.
+
+Students with Chinese ancestry referred to in Subparagraph 2, Article 50 of the Act must possess one of the following statuses:
+
+\1. Be a student as defined in the Regulations Governing Study by Hong Kong and Macao Residents in the Republic of China.
+
+\2. Be a student enrolled at a technical training class organized by the Overseas Community Affairs Council (OCAC).
+
+### Article 53
+
+In order to apply for a work permit, a type D foreign worker is required to submit the fol-lowing documents:
+
+\1. Application form.
+
+\2. Original copy of review fee receipt.
+
+\3. Other documents required by the Central Competent Authority.
+
+### Article 54
+
+Work permits issued to type D foreign workers shall be valid for a maximum of one year.
+
+Except during summer and winter vacations, a type D foreign worker with the aforementioned permission to work must not work more than 20 hours a week.
+
+### Article 55
+
+An application by a type D foreign worker for a work permit will be denied by the Central Competent Authority if any of the following situations pertain:
+
+\1. False information is found in the application.
+
+\2. The application is not made in conformity with the relevant requirements, and the appli-cant fails to provide the required supplementary material and/or corrections within the set time period.
+
+## Chapter VI Applications for Employment Permits for Type E Foreign Workers
+
+### Article 56
+
+Employers who apply to hire type E foreign workers are required to provide the following documentation:
+
+\1. Application form.
+
+\2. Photocopy of the certified identity documents of the applicant or person in charge of the company; company registration documentation, limited partnership certified documentation, business registration certificate, factory registration certificate or franchise license. However, in accordance with related legal provisions those exempted from applying for a factory registration certificate or franchise license do not have to submit them.
+
+\3. Photocopy of the employment contract or labor contract.
+
+\4. Photocopy of the passport of the employed foreign worker.
+
+\5. Photocopy of the ARC or Permanent Resident Permit of the employed foreign worker.
+
+\6. Original copy of review fee receipt.
+
+\7. Other documents required by the Central Competent Authority.
+
+When the employer is a civic organization, other than having to provide the documents detailed in Subparagraph 1 and 3-7, Paragraph 1, organization accreditation documents and photocopies of the organization responsible person’s certified identity documents must also be provided.
+
+### Article 57
+
+Should an employer find it necessary to continue the employment of a type E foreign worker within a period of 60 days prior to the expiration of the employment permit, said employer should submit the documents detailed in Subparagraph 1 and Subparagraphs 3 to 7, of Paragraph 1, Article 56, as part of an application to the Central Competent Authority for an employment permit extension.
+
+### Article 58
+
+In order to directly file an application for an employment permit with the Central Compe-tent Authority, in accordance with Paragraph 2, Article 51 of the Act, a type E foreign worker is required to submit the documents detailed in Subparagraph 1 and Subparagraphs 4 to 7, Article 56.
+
+### Article 59
+
+When an employer applies to employ a type E foreign worker or a foreign national applies directly for a work permit to the Central Competent Authority in pursuant to the provisions of Paragraph 2, Article 51 of the Act, the authority will deny the issuance of an employ-ment permit or extension thereof if either of the following situations pertain;
+
+\1. False information is found in the application.
+
+\2. The application is not made in conformity with the relevant requirements, and the appli-cant fails to provide the required supplementary material and/or corrections within the set time period.
+
+## Chapter VII Management of Foreign Workers After Arriving in the Republic of Chi-na
+
+### Article 60
+
+An employer who employs 10 or more foreign workers to engage in institutional care work pursuant to the provisions of Subparagraph 9, Paragraph 1, Article 46 of the Act, and work listed in Subparagraph 10 is required to introduce living care service staff in accordance with the following provisions:
+
+\1. When the number of foreign workers employed is more than 10 but less than 50, there should be a minimum of one living care service staff member.
+
+\2. When the number of foreign workers employed is more than 50 but less than 100, there should be a minimum of two living care service staff members.
+
+\3. When the number of foreign workers employed is more than 1000, there should be a minimum of three living care service staff members, with at least one more added for each additional 100 workers.
+
+The aforementioned living care service staff should have at least one of the following qualifications:
+
+\1. A professional employment services staff certificate.
+
+\2. Two years of work experience in providing living care services to foreign workers.
+
+\3. Graduated from university or college and at least one year of work experience.
+
+Any employer who violates the provisions in the preceding two paragraphs will be notified by the local competent authority to make improvement within a set period of time.
+
+### Article 61
+
+A private employment services agency commissioned by an employer to conduct living care services for foreign workers, as prescribed in the preceding article, shall introduce liv-ing care service staff pursuant to the following provisions:
+
+\1. When the number of foreign workers employed is more than 10 but less than 50, there should be a minimum of one living care service staff member.
+
+\2. When the number of foreign workers employed is more than 50 but less than 100, there should be a minimum of two living care service staff members.
+
+\3. When the number of foreign workers employed is more than 1,000, there should be a minimum of three living care service staff members, with at least one more added for each additional 100 workers.
+
+The qualifications of living care service staff in the preceding paragraph are subject to the provisions of Paragraph 2 in the preceding Article
+
+If a private employment services agency violates the provisions in the preceding two para-graphs the local competent authority will notify the commissioning employer and em-ployment services agency and instruct them to make improvement within a set period of time.
+
+### Article 62
+
+When an employer commissions a private employment services agency to take charge of matters relating to foreign workers living care service plans, he/she should select the best personnel to supervise their work.
+
+### Article 63
+
+When the local competent authority determines that a foreign worker engaged in work de-tailed in Subparagraphs 8 to 10, Paragraph 1, Article 46 of the Act require secure settlement, such individuals should be settled in accordance with rules on settlement recipients, duration and procedures laid out by the Central Competent Authority.
+
+### Article 64
+
+An employer who employs 30 or more foreign workers as detailed in Article 60, shall en-sure there are bilingual individuals among those employed pursuant to the following provi-sions:
+
+\1. When the number of foreign workers employed is more than 30 but less than 100, there should be a minimum of one bilingual worker.
+
+\2. When the number of foreign workers employed is more than 100 but less than 200, there should be a minimum of two bilingual workers.
+
+\3. When the number of foreign workers employed is more than 200, there should be a min-imum of three bilingual workers, with at least one more added for each additional 100 workers.
+
+An employer who violates the provisions of the preceding paragraph will be notified by the local competent authority to make improvement within a set period of time.
+
+### Article 65
+
+Original copies of fixed term labor contracts signed by an employer and a foreign worker in accordance with Paragraph 3, Article 46 of the Act will be in Chinese, with a translated copy provided in the native language of the foreign worker.
+
+### Article 66
+
+When an employer pays wages/salaries to type B foreign workers in accordance with their labor contract a pay slip should be included in Chinese and the worker’s native language detailing the following and kept by the foreign worker:
+
+\1. Wage/salary received, payroll items, total wage/salary, payment method and itemized direct deductions such as
+
+\2. National Health Insurance premium, Labor Insurance premium, income tax, board and lodging expenses and employee benefits.
+
+\3. Amount garnished from wages following an order from a court or administrative agency.
+
+\4. Other legal direct deductions.
+
+The aforementioned wage/salary includes mandated wages and contracted wages.
+
+Employers shall prepare and keep the following documents for the inspection of the competent authorities:
+
+\1. Labor contracts.
+
+\2. Verified type B foreign worker affidavits on expenses incurred traveling to the Republic of China to work and wage/salary verified by the Competent Authority in the worker’s country of origin.
+
+Employers who bring in type B foreign workers in accordance with the provisions of Para-graph 2, Article 32 are exempted from preparing and keeping the affidavits referenced in the preceding paragraph.
+
+Employers should directly pay type B foreign workers their full wage in cash, minus the aforementioned deductions pertaining to foreign workers. However, if payment is made by an alternative method, employers are required to provide relevant certified documentation and keep a copy themselves.
+
+If an employer fails to pay in full the wage/salary referenced in Paragraph 1, the competent authority will instruct the employer to make the full payment within a set period of time.
+
+### Article 67
+
+Type 2 foreign workers are not allowed to bring their family to live with them in the Re-public of China. However, this does not apply to children born to foreign workers during their term of employment who they are able to financially support.
+
+### Article 68
+
+When a foreign worker acts in a manner specified in Article 56 of the Act, employers are required to notifying the local competent authority, the immigration authorities, police and the Central Competent Authority.
+
+If a type B foreign worker leaves the Republic of China while his/her employment permit remains valid as a result of said employment being terminated, the employer is required to notify the local competent authority prior to the worker’s departure, so it can investigate and determine the real intent of the foreign worker. Procedures for notification detailed in Paragraph 1 will be announced by the Central Competent Authority.
+
+The notification specified in Paragraph 1, should include the name, gender, age, nationality, date of arrival in the Republic of China, duration of employment, recruitment permit or employment permit No. of the foreign worker and a photocopy of his/her Alien Resident Certificate.
+
+### Article 69
+
+Employers are required to attend to all formalities to ensure the foreign workers they em-ploy can leave the Republic of China prior to the expiration of their employment permit. In the event a foreign worker is ordered to leave the Republic of China for any of the fol-lowing reasons, the employer is required to attend to all formalities to ensure said worker leaves.
+
+After a foreign worker receives a deportation order from the Entry/Exit Authorities in ac-cordance with applicable laws and regulations, he/she should leave the country within the set time period.
+
+\1. Revocation of employment permit.
+
+\2. Failure to pass part of the mandated health examination.
+
+\3. When an employer fails to apply for an employment permit in accordance with applica-ble laws and regulations or the application is rejected.
+
+Employers are required to submit a list of the foreign workers referenced in Paragraphs 1 and 2 of this Article who left the country and certified documents proving their departure to the Central Competent Authority within 30 days of them leaving the Republic of China. However, this does not apply to foreign workers who leave the country due to the expira-tion of their employment permit, or termination of employment verified by the local com-petent authority.
+
+### Article 70
+
+Employers unable to send notifications or file applications within the time specified in the Regulations will, with the approval of the Central Competent Authority, be permitted to send notifications or file applications within a newly determined set period of time.
+
+Only one such supplementary notification or application is allowed per notification or ap-plication.
+
+### Article 71
+
+When paying employment security fees prescribed in Paragraph 1, Article 55 of the Act, employers should calculate the amount to be paid in the current quarter based on the indus-try classification of the foreign workers, the number of workers and the amount of em-ployment security fees prescribed in Paragraph 2, Article 55 of the Act, from the day after the foreign workers arrive in the Republic of China or the day continued employment starts to the last day of the employment permit or the day before the permit is revoked.
+
+Employers should remit employment security fees to an employment security fund account created by the Central Competent Authority, by the 25th day of the second month of the next quarter. Employers are allowed to make early payment without interest.
+
+If the foreign worker is employed for less than a month, the employer will calculate his/her employment security fees based on actual number of days worked.
+
+If the employment security fees paid exceed the amount that should be paid, the employer can file an application with certified documents for a refund of the overpaid amount.
+
+## Chapter VIII Supplementary Provisions
+
+### Article 72
+
+The format of all documents referred to in these Regulations will be determined by the Central Competent Authority.
+
+### Article 73
+
+These Regulations will go into effect on April 30, 2022
+
+The amended articles of these Regulations, other than those amended and promulgated on October 12, 2022, which come into force on April 30, 2022 and those amended and promulgated on December 26, 2022, which come into force on January 1, 2023, come into force on the day they are issued.
+
+## History
+
+1.Enacted and promulgated a total forty-eight articles of the Act by the Order of the Council of Labor Affairs, Executive Yuan No. 0930200222 on January 13, 2004, and the implementation date was January 15, 2004
+
+2.Amended and promulgated Articles 12, 14, 16, 19, 24, 43 and 48 of the Act, added Article 12-1, and deleted Article 23 by the Order of the Council of Labor Affairs, Executive Yuan No. 0940509680 on December 30, 2005, and implemented on the same day
+
+3.Amended and promulgated Articles 7, 8, 11, 13, 16, 17, 25, 27, 28, 40, 41, 45 and 48, and added Articles 11-1, 11-2, 16-1, 27-1, 40-1 and 46-1 of the Act by the Order of the Council of Labor Affairs, Executive Yuan No. 0950509595 on October 3, 2006, and the implementation date was November 1, 2006
+
+4.Amended and promulgated Articles 11, 20, 27, 27-1, 31 and 43 of the Act by the Order of the Council of Labor Affairs, Executive Yuan No. 0960509382 on January 3, 2008
+
+5.Amended and promulgated Articles 5, 9, 11, 16, 17, 19, 27-1, 40, 40-1 and 43 of the Act, added Articles 17-1, 19-1, 27-2, 40-2 and 40-3, and deleted Article 16-1 by the Order of the Council of Labor Affairs, Executive Yuan No. 0970503667 on December 24, 2008
+
+6.Amended and promulgated Articles 16, 22 and 25 of the Act and added Article 15-1 and 46-2 by the Order of the Council of Labor Affairs, Executive Yuan No. 0990511873 on December 30, 2010
+
+7.Amended and promulgated Articles 4, 7, 16, 30, 31 and 36 of the Act by the Order of the Council of Labor Affairs, Executive Yuan No. 1000508282 on December 30, 2011
+
+8.Contents of Article 11-3, Article 12-1, Article 27-1, Article 28-1 and Article 29 amended and promulgated under Order Lao-Chih-Kuan-Tze 1010516485 dated December 19, 2012
+
+9.Amended on December 10, 2013
+
+10.Amendment to Articles 11, 15-2, 17, 17-1, 19, 20, 27, 27-1, 28, 40, 45 and 48 by the Ministry of Labor on 28 March, 2014 under Lao Dong Fa Decree No. 1031811753
+
+11.Amended on March 3, 2015
+
+12.Amended on August 6, 2015
+
+13.Amended on November 11, 2015
+
+14.Amended on November 15, 2016
+
+15.Amended on January 11, 2017
+
+16.Amended on July 6, 2017
+
+17.Amended on March 21, 2018
+
+18.Amended on January 30, 2019
+
+19.Amended on May 24, 2019
+
+20.Amended on September 2, 2020
+
+21.Amended on January 6, 2021
+
+22.Amended on December 30, 2021
+
+23.Amended on April 29, 2022
+
+24.Amended on October 12, 2022
+
+25.Amended on December 26, 2022
+
+26.Amended on March 13, 2023
+
+27.Amended on May 18, 2023
+
+28.Amended on May 30, 2023
+
+29.Amended on October 13, 2023
+
+30.Amended on August 26, 2024
+
+31.Amended on July 30, 2025
+
+32.Amended on December 30, 2025

@@ -1,0 +1,388 @@
+---
+title: "Permit and Management Regulations for Children and Youth Adoption Service Providers"
+title_zh: "兒童及少年收出養媒合服務者許可及管理辦法"
+identifier: "D0050011"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-06-24
+last_amended: 2025-09-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050011"
+retrieved: 2026-10-12
+---
+
+# Permit and Management Regulations for Children and Youth Adoption Service Providers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050011-permit-and-management-regulations-for-children-and-youth-adoption-service.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050011-permit-and-management-regulations-for-children-and-youth-adoption-service.md)) is authoritative.
+
+## Article 1
+
+The following regulations have been enacted in accordance with Article 15, Paragraph 4 of the Protection of Children and Youths Welfare and Rights Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+Pursuant to Article 15, Paragraph 1 of the Act, legal entities providing adoption matching services and child and youth placement facilities (hereinafter referred to as “placement facilities”) shall be categorized as follows:
+
+\1. Foundations: National welfare foundations established under the Foundations Act.
+
+\2. Placement facilities:
+
+\1) Public placement facilities: Placement facilities founded by the government that meet the standards for child and youth welfare and placement institutes.
+
+\2) Private placement facilities: Placement facilities established under the Foundations Act and the Regulations for the Establishment and Permission of Private Children and Youth Welfare Institutes.
+
+Foundations and placement facilities as described in the preceding paragraph are required to:
+
+\1. Have a robust operation and financial status; and
+
+\2. Receive an ‘A’ or higher grade in the most recent placement facility assessment.
+
+Foundations which provide adoption matching services as described in Paragraph 1, Subparagraphs 1 and 2 (Item 2) must expressly include a description of such services in their organizational charters.
+
+## Article 3
+
+Foundations and placement facilities may not apply to provide adoption matching services if:
+
+\1. They lack operational or financial stability or are subject to fines or administrative action by the competent authority due to a failure to bring the organization into compliance with the necessary applicable regulations in a timely manner after violating the applicable laws and regulations;
+
+\2. They have provided adoption matching services without a permit in violation of Article 15, Paragraph 1 of the Act;
+
+\3. Their permit has been revoked or rescinded within the most recent three-year period due to a violation of the Act; or
+
+\4. Their representative, responsible person, or other personnel described in Article 5 herein is/are found to be in violation of any subparagraph under Article 81, Paragraph 1 of the Act.
+
+## Article 4
+
+Adoption matching service providers shall provide the following services:
+
+\1. Adoption consulting
+
+\2. Adoption briefings
+
+\3. Acceptance of adoption applications
+
+\4. Pre-adoption workshops and training courses
+
+\5. Evaluation of adopters through interviews and visits with prospective adopters; preparation of evaluation records
+
+\6. Adopter evaluation committee meetings
+
+\7. Psychological counseling and other preparatory services for adoptees
+
+\8. Matching of adopters with adoptees
+
+\9. Necessary assistance and evaluation during the trial period in which adopters and adoptees learn to live together or progressively increase contact; evaluation of whether adopters and adoptees are a good fit
+
+\10. Assistance in court adoption proceedings
+
+\11. Follow-up counseling and support services for at least three years after adoption
+
+\12. Support groups, parental workshops, and other activities for adoptive families and adoptees
+
+\13. Promotion of adoption services
+
+\14. Other tasks and services related to adoption
+
+## Article 5
+
+Adoption matching service providers shall appoint a professional supervisor to oversee their adoption matching services.
+
+Adoption matching service providers shall employ the following personnel:
+
+\1. Social workers: At least three full-time social workers (including social work supervisors), with priority given to licensed social workers;
+
+\2. Counselors: At least one counselor, who may be hired on a contract basis; and
+
+\3. Managerial and support staff: Full-time or part-time positions appointed by each foundation and placement facility.
+
+## Article 6
+
+Managers, as described in Paragraph 1 of the preceding article, shall have one of the following qualifications:
+
+\1. A master’s degree (or above) in child and youth welfare, social work, psychology, counseling, education, children and family life, social welfare, or law (or a master’s degree from a related department, graduate institute, college, or degree program), with at least one year of experience at a public or private social welfare agency, institution, school, legal entity, or organization;
+
+\2. A certificate on the national social worker examination, senior civil service examination, or an equivalent examination in social work or social administration, with at least one year of experience at a public or private social welfare agency, institution, school, legal entity, or organization;
+
+\3. A master’s degree (or above) in any specialization or a minor college degree in child and youth welfare, social work, psychology, counseling, education, children and family life, social welfare, or law (or a minor college degree from a related department, graduate institute, college, or degree program), with at least three years of experience at a public or private social welfare agency, institution, school, legal entity, or organization; or
+
+\4. A college or associate degree in any specialization, with at least four years of experience at a public or private social welfare agency, institution, school, legal entity, or organization.
+
+## Article 7
+
+Social workers, as described in Article 5, Paragraph 2, Subparagraph 1 herein, shall have one of the following qualifications:
+
+\1. A certificate on the national social worker examination;
+
+\2. Graduation from a junior college (or above) with an associate or minor degree in social work, child and youth welfare, social welfare, or other related departmental, graduate institute, college, or degree program;
+
+\3. A certificate on the national senior civil service or equivalent examination in social work or social administration under the Social Work and Labor Administration category; or
+
+\4. The qualifications set forth under Article 5 of the Rules for Senior Social Worker Professional and Technologist Examinations.
+
+## Article 8
+
+Counselors, as described in Article 5, Paragraph 2, Subparagraph 2 herein, shall have one of the following qualifications:
+
+\1. A degree or minor degree from a junior college (or above) in psychology, consulting, psychological counseling, or other related departmental, graduate institute, college, or degree program; or
+
+\2. A degree from a junior college (or above) in social work, child and youth welfare, social welfare, education, gender studies, or other related departmental, graduate institute, college, or degree program, with a certificate indicating completion of the professional psychological counseling training program.
+
+## Article 9
+
+An agency wishing to provide adoption matching services shall submit the following documents and information to the central competent authority for approval:
+
+\1. An application indicating the foundation’s or placement facility’s name, registered address, and place of business, as well as the name, address, and biography of its representative or responsible person
+
+\2. A certificate of foundation registration
+
+\3. A photocopy of the minutes for the board of director’s resolution to offer adoption services
+
+\4. Results of the most recent evaluation or inspection and proof of approval to offer adoption services issued by the competent authority
+
+\5. A business plan containing the following details:
+
+\1) Organizational structure, services offered, service procedures, target markets (countries or regions), and scheduled service start date
+
+\2) Itemized fee standards and refund policy
+
+\3) Sample written contract with adopters
+
+\4) Procedures for evaluating and determining the qualifications of adopters and the fitness of the adopter-adoptee match; composition of the adopter evaluation committee
+
+\5) Methods of visitation, interviews, and evaluation during the trial period in which adopters and adoptees learn to live together or progressively increase contact
+
+\6) Preparatory support for adoptees
+
+\7) Support for adoptive families
+
+\8) Manner of follow-up visits to adoptive families following court approval
+
+\9) List of the personnel described under Article 5 herein, as well as photocopies of their qualifications
+
+10)Mechanisms for adoption matching oversight and on-the-job continued staff training
+
+\11) Mechanism for continuous review
+
+\12) Sources of funds and cost projections
+
+\13) Other information related to the promotion and implementation of adoption matching services
+
+Public placement facilities applying to offer adoption matching services may be exempt from submitting the documents described in Subparagraphs 2 and 3 in the preceding paragraph with the approval of their superior competent authority.
+
+For an application missing any of the documents listed in Paragraph 1, the central competent authority shall notify the applicant in writing to make the necessary corrections by a given deadline and shall reject the application in writing if the applicant fails to do so by the deadline.
+
+## Article 10
+
+An agency that has provided domestic adoption matching services for at least three years and received a passing grade in the most recent comprehensive child and youth adoption service assessment may apply with the central competent authority for an international adoption matching service permit.
+
+The application described in the preceding paragraph shall include proof that the foreign agency or organization with which the agency is working has obtained the necessary government approval or authorization to provide adoption services, as well as a signed contract, letter of intent, or other applicable document as proof of the collaboration.
+
+The documents described in the preceding paragraph shall be authenticated by a Taiwanese consular office or overseas mission.
+
+## Article 11
+
+An application submitted in accordance with the preceding two articles shall be rejected by the central competent authority, and any approval shall be rescinded or revoked), if there shall be in any of the following circumstances:
+
+\1. Documents provided are found to be falsified, forged, or misrepresented;
+
+\2. The applicant is found to be in violation of Article 83, Subparagraphs 1 through 4 of the Act;
+
+\3. The applicant fails to make the necessary improvement by a deadline imposed by the competent authority following a violation of Article 83, Subparagraphs 5 through 11 of the Act; or
+
+\4. The applicant is found to be in violation of any paragraphs of Article 3 herein.
+
+## Article 12
+
+If an application submitted in accordance with Article 9, Paragraph 1 and Article 10, Paragraph 1 herein is approved, the central competent authority shall grant a permit to the applicant.
+
+The permit described in the preceding paragraph shall be valid for a period of up to three years.
+
+Adoption matching service providers who wish to continue to provide adoption services shall submit another application in accordance with Article 9 or 10 herein at least 90 days prior to the expiry of their current permit.
+
+## Article 13
+
+The permit shall clearly indicate the foundation or placement facility’s name, registered address, representative/responsible person, and place of business, as well as the permit’s expiration date.
+
+Adoption matching service providers shall display their permit in a prominent location at their place of business.
+
+## Article 14
+
+In the event of a change in name, registered address, or representative/ responsible person, a foundation or placement facility offering adoption matching services shall, within 30 days of the day after the change, fill out and submit an application (with the original permit and any supporting documents attached) to the central competent authority in order to request a new permit.
+
+Adoption service providers wishing to change the place of business indicated on their permit may only do so after submitting an application (with the original permit and supporting documents attached), obtaining the approval of the central competent authority, and receiving a new permit.
+
+Foundations wishing to establish an additional place of business shall fill out an application (with the original permit and the application documents described in Article 9 or 10 herein attached) to obtain the approval of the central competent authority. The new place of business may only begin providing services once a new permit is issued.
+
+## Article 15
+
+Adoption matching service providers may not loan, lend, or transfer their permit to any third party.
+
+Adoption matching service providers shall submit an application and affidavit in order to request a replacement for a lost or destroyed permit. For damaged permits, adoption matching service providers may submit an application (with the original permit attached) to request a replacement.
+
+## Article 16
+
+Adoption matching service providers must submit an application (with the relevant supporting documents attached) to the central competent authority for approval before implementing any changes in fee standards, refund policies, contractual terms, service areas or countries, or collaborating foreign institutions or organizations.
+
+In the event of a change in the personnel stipulated under Article 5 herein, adoption matching service providers shall, within 30 days of the day after the change, provide the updated personnel information and the relevant supporting documents to the central competent authority for record.
+
+## Article 17
+
+A prospective adopter shall undergo pre-adoption workshops and educational courses and pass an adopter qualifications evaluation by the adoption matching service provider in order to become an eligible adopter.
+
+The course contents, hours, and lecturer qualifications for the pre-adoption workshops training courses described in the preceding paragraph shall be announced separately by the central competent authority.
+
+## Article 18
+
+Adoption matching service providers shall perform an adopter qualifications evaluation on each prospective adopter. The evaluation shall cover the prospective adopter’s physical and mental condition, personal character, financial means, age difference with the adoptee, participation and performance in the pre-adoption workshops and educational courses, parental beliefs, criminal record, and other necessary criteria.
+
+Adoption matching service providers may not discriminate against any adopters when performing the evaluation described in the preceding paragraph.
+
+When considering a prospective adopter’s criminal record in accordance with Paragraph 1 herein, only entries that impact the adopter’s parental capacity may be considered. Prospective adopters shall provide a copy of their criminal record issued by the Police within the most recent three-month period.
+
+With the approval of the competent authorities, adoption matching service providers may request criminal records and other necessary information from the relevant government agencies (institutions), organizations, legal entities, or individuals in accordance with Article 70, Paragraph 3 of the Act.
+
+## Article 19
+
+Adoption matching service providers shall interview prospective adopters and visit prospective adoptive families as part of the matching process, with details recorded in writing.
+
+Adoption matching service providers shall establish an adopter evaluation committee to perform the evaluation described under Article 17, Paragraph 1 herein. Prospective adopters shall be notified of the evaluation results in writing.
+
+The adopter evaluation committee described in the preceding paragraph shall be composed of nine members, including one representative appointed by the adoption matching service provider, one municipal/county/city government representative, and seven external experts/scholars specializing in child and youth welfare, healthcare, education, and/or law. The committee may not convene if the number of experts/scholars in attendance falls short of half of the total members in attendance.
+
+Members of either gender must account for no less than one third of the committee.
+
+## Article 20
+
+Prospective adopters who wish to dispute the evaluation results described in Paragraph 2 of the preceding article may, within 20 days of the day after notification delivery, submit a written appeal to the adoption matching service provider to request a review.
+
+Upon receiving the appeal, the adoption matching service provider shall establish a new evaluation committee (excluding experts/scholars from the original committee) to perform a secondary evaluation within 30 days. Prospective adopters shall be notified of the results in writing.
+
+The number of experts/scholars on the evaluation committee described in the preceding paragraph, as well as their qualifications, shall be subject to the provisions on experts/scholars set forth in Paragraph 3 of the preceding article.
+
+## Article 21
+
+Adoption matching service providers shall sign a separate written contract with each prospective adopter and, if applicable, the adoptee’s birth parent or legal guardian.
+
+The written contract described in the preceding paragraph shall clearly indicate the following:
+
+\1. Scope of service
+
+\2. Adoption matching service fees and refund policy
+
+\3. Penalties in the event of a breach of contract
+
+\4. Other stipulations required by the central competent authority
+
+## Article 22
+
+Adoption matching service providers may assess an appropriate fee from an adopter but must issue a receipt. Counterfoils of receipts shall be retained for five years.
+
+See Appendix for the standards of the fees described in the preceding paragraph.
+
+## Article 23
+
+Adoption matching service providers shall abide by the following guidelines:
+
+\1. In consideration of the adoptee’s best interests, prospective domestic adopters shall be prioritized over foreign adopters.
+
+\2. Adoptees’ and their family members’ personal information shall be kept strictly confidential and may not be disclosed unless with the express permission of the respective individuals or as required by law.
+
+\3. Social workers shall undergo at least six hours of pre-employment training and at least 20 hours of continued training per year, including six hours of child development and child abuse sensitivity/identification courses.
+
+\4. Service providers shall establish internal and external oversight mechanisms, hold regular oversight meetings, and provide timely support and guidance for social workers, with meeting minutes and support details duly recorded.
+
+## Article 24
+
+Upon receiving a request for adoption matching by a prospective adoptee’s legal guardian, adoption matching service providers shall notify the local competent authority in the administrative region where the adoptee resides to determine the necessity of adoption.
+
+If adoption is deemed necessary, the local competent authority shall hand over the relevant adoptee case files to an appropriate adoption matching service provider, which shall then call an adoption matching meeting to choose a prospective adopter.
+
+The prospective adoptee’s legal guardian may notify the local competent authority to suspend the adoption matching process if they no longer wish to continue with the process.
+
+The local competent authority shall continue to provide support to the prospective adoptee and their family members after receiving the notification described in the preceding paragraph.
+
+Adoption matching service providers shall assist prospective adopters in obtaining court approval and, for international adoption cases, proof of having exhausted domestic adoption options.
+
+## Article 25
+
+Adoption matching service providers shall maintain a case/client database for information on adoptees, adopters, and adoptees’ birth parents or legal guardians.
+
+The data described in the preceding paragraph shall also be uploaded to the central competent authority’s information system.
+
+## Article 26
+
+The central competent authority shall perform annual on-site inspections at adoption matching service providers’ place(s) of business and may do so together with other competent authority that approved the registration of the foundation or placement facility.
+
+The central competent authority may entrust the local competent authority to perform an inspection described in the preceding paragraph on its behalf.
+
+Adoption matching service providers shall cooperate in inspections, as described in Paragraph 1 herein, by providing the relevant information and may not evade, obstruct, or refuse such inspections. The central competent authority shall require adoption matching service providers to make the necessary improvements by a stipulated deadline if flaws are identified.
+
+## Article 27
+
+The central competent authority shall perform an assessment of adoption matching service providers every three years. Those who fail to pass assessment shall submit an improvement plan to the central competent authority within two months and shall carry out the plan by a given deadline.
+
+During the improvement period described in the preceding paragraph, adoption matching service providers may not take on new adoption services or cases. Violators of previous paragraphs shall be required to make the appropriate improvements by a deadline set by the central competent authority and shall have all prospective adoptees transferred to a different service provider.
+
+## Article 28
+
+Adoption matching service providers must submit an application to the central competent authority for approval at least 60 days prior to a planned suspension of service. The application shall specify the reason(s) for suspension, date of suspension, adoptee referral measures, and employee settlement plan for Article 5 personnel.
+
+The period of suspension described in the preceding paragraph may not exceed one year.
+
+Adoption matching service providers shall submit an application for reinstatement at least 60 days prior to the conclusion of the suspension period (with the documents described in Article 9, Paragraph 1, Subparagraph 5, Item 9 attached) to the central competent authority for approval.
+
+The central competent authority may revoke the permit of an adoption matching service provider that fails to request reinstatement (or obtain approval for reinstatement) 15 days after the expiry of the suspension period.
+
+## Article 29
+
+Adoption matching service providers must submit an application (with a photocopy of their permit) to the central competent authority for approval at least 60 days prior to an early termination of service. The original copy of the permit shall be returned to the central competent authority within 30 days of actual service termination. The central competent authority shall declare any unreturned permits void.
+
+The application described in the preceding paragraph shall clearly indicate the reason for service termination and referral measures for prospective adopters and adoptees.
+
+## Article 30
+
+An adoption matching service provider shall have its permit revoked by the central competent authority in any of the following circumstances:
+
+\1. The foundation or placement facility registration is revoked by the competent authority;
+
+\2. The foundation is dissolved;
+
+\3. No adoption matching service has been provided in the most recent two-year period.
+
+## Article 31
+
+The central competent authority shall publish the results of adoption matching service provider inspections, evaluations, and permit revocations or rescissions.
+
+## Article 32
+
+Upon rescinding or revoking an adoption matching service permit, the central competent authority shall order the affected foundation or placement facility to formulate an adoptee referral plan within 30 days. Once the referral plan is approved by the central competent authority, case files shall be handed over within 30 days.
+
+## Article 32-1
+
+For any adoption matching service provider who obtained a permit prior to the amendment on July 10, 2025 and implementation of these Regulations but does not meet the latest requirements set forth in Article 2, Paragraph 1, Subparagraph 1 as amended, the provider may continue to offer adoption matching services until the expiry of the original permit.
+
+## Article 33
+
+These regulations shall become effective on the date of publishing.
+
+## Attachments
+
+- [appendix.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009370)
+- [appendix.DOCX](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009371)
+
+## History
+
+1.Enacted and promulgated by President Order Tai-Ne-Tong No.0930093719 on June 24, 2004
+
+2.Title and articles amended and promulgated by Order Tai-Ne-Tong No.1010840085 on May 23, 2012
+
+3.Amended on December 18, 2015
+
+4.Amended on July 10, 2025
+
+5.Amended on September 4, 2025

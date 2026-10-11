@@ -1,0 +1,721 @@
+---
+title: "Regulations for Implementing and Rewarding Skills Competition"
+title_zh: "技能競賽實施及獎勵辦法"
+identifier: "N0080044"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業訓練目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2012-08-08
+last_amended: 2026-07-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0080044"
+retrieved: 2026-10-12
+---
+
+# Regulations for Implementing and Rewarding Skills Competition
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0080044-regulations-for-implementing-and-rewarding-skills-competition.md](../../../zh/regulations/ministry-of-labor/N0080044-regulations-for-implementing-and-rewarding-skills-competition.md)) is authoritative.
+
+## Chapter I. General Principles
+
+### Article 1
+
+These Regulations are established in accordance with Paragraph 2, Article 38-1 of the Vocational Training Act.
+
+### Article 2
+
+The skills competitions under these Regulations are divided into the following categories:
+
+\1. Regional skills competition.
+
+\2. National skills competition.
+
+\3. National skills competition for physically and mentally challenged.
+
+\4. WorldSkills Competition (hereinafter “WSC”)
+
+\5. Vocational Skills Competition of International Abilympics (hereinafter “IA”).
+
+\6. WorldSkills Asia Competition (hereinafter “WSAC”).
+
+\7. Other skills competitions organized or participated in for a specific purpose.
+
+"WSC" referred to in Subparagraph 4 under the previous paragraph means the competition organized by WorldSkills International (WSI). "IA" referred to in Subparagraph 5 means the competition organized by the International Abilympics Federation (IAF). "WSAC" referred to in Subparagraph 6 means the competition organized by World Skills Asia (WSA).
+
+The categories of skills competitions referred to in Subparagraphs 1, 2, 4 and 6, Paragraph 1 may be divided into the youth category and the junior category based on the actual situation.
+
+The central responsible authority may hold the National Team Selection for skills competitions referred to in Subparagraphs 4~6, Paragraph 1 together with the skills competitions.
+
+## Chapter II. Implementation, Appointment and Assignment of Skills Competition
+
+### Article 3
+
+The job categories in skills competitions are selected as follows:
+
+\1. Those participated included in WSC and IA.
+
+\2. Those required for national economic construction and development.
+
+\3. Those that improve the living standard of the people.
+
+\4. Those with traditional cultural values.
+
+\5. Those for which skill certifications are available.
+
+### Article 4
+
+The skills regulations regarding the job categories in skills competitions, including the tests to be included in the competitions, the materials, tools and equipment to be used and the procedures of the competitions, shall be published by the central competent authority.
+
+### Article 5
+
+The schedules of skill competitions are as follows:
+
+\1. The National Skills Competition (including Regional Skills Competition) is held once a year.
+
+\2. The National Skills Competition for the Physically and Mentally Challenged is held once every two years.
+
+\3. The National Team Selection for WSC is held once every two years.
+
+\4. The National Team Selection for IA is held once every four years.
+
+\5. The National Team Selection for WSAC is held once every two years.
+
+\6. Other skills competitions may be held from time to time for specific purposes by the central competent authority.
+
+If any skills competition in each subparagraph of the preceding paragraph is discontinued for any reason, it shall be announced.
+
+Before National Skills Competition takes place, a General Competition Committee (hereinafter referred to as the General Committee) shall be set up to determine the contents of the events, lay out rules for competition and handle other related affairs.
+
+When participating in the WSC, IA, and WSAC, a preparatory committee shall be set up for fund-raising and various other affairs such as national team training and practicalities of the competition.
+
+The organization and membership of the preparatory committee described in the preceding paragraph shall be promulgated by the central competent authority.
+
+### Article 6
+
+Where any job category of Regional Skills Competition, National Skills Competition for the Physically and Mentally Challenged, and other skills competitions held for specific purposes has less than six applicants or teams, the competition of such job category shall be suspended.
+
+If there are no more than three individuals or teams participating in any job category of National Skills Competition, such job category will be changed to a demonstration. If there are less than two individuals or teams, such job category shall be canceled.
+
+The number of individuals or teams under which the job categories shall be canceled in the preceding two paragraphs may be adjusted by the central competent authority in accordance with the actual situation.
+
+### Article 7
+
+The skills competitions shall adopt the materials, tools, measurements and relevant facilities stipulated in the tests.
+
+The competitions shall be conducted in the manner of on-site skills operations. However, if the number of participants for any job categories exceeds the capacity of the premises and equipment of the competition, a written test or skills test may be held first to select qualified candidates to participate in the competition.
+
+### Article 8
+
+The central competent authority shall designate subordinate agencies (institutions) or commission outside agencies (institutions), schools or corporate entities to handle the following:
+
+\1. Hold skills competitions.
+
+\2. Participate in the WSC, IA or WSAC.
+
+### Article 9
+
+The assignment of any entity to conduct any skills competition may be terminated by the central competent authority in case of any of the following:
+
+\1. Failure to verify the qualifications of participants in the skills competition under willful act or gross negligence.
+
+\2. Failure to carry out the tasks in accordance with relevant rules and failure to correct the situation within the notified deadline.
+
+\3. Collection of any fees beyond the administrative fees schedule or other undue benefit in conducting the skills competition.
+
+\4. The unit commissions the commissioned certification administration to other units without approval.
+
+\5. Material violations of these Regulations and relevant legislations.
+
+## Chapter III. Selection of Experts and Staff
+
+### Article 10
+
+One chief expert and two experts shall be designated for Regional Skills Competition, National Skills Competition for the Physically and Mentally Challenged and National Team Selections for WSC / IA; and one chief expert and three experts shall be designated for National Skills Competition or other skills competition organized or participated in for a specific purpose.
+
+The Chief Expert may, according to his/her needs, recommend one to three assistant experts or technical advisors to assist in handling the competition affairs or maintaining machineries and equipment.
+
+The number of experts, assistant experts and technical advisors mentioned in the two preceding paragraphs may be increased based on the actual needs of skills competition.
+
+### Article 11
+
+The term of the chief expert for Regional Skills Competition (hereinafter the "Regional Chief Expert"), as well as the experts, assistant experts and technical advisors, shall be limited to the period of the competition.
+
+### Article 12
+
+The chief expert of National Skills Competition, National Skills Competition for the Physically and Mentally Challenged, and other skills competitions held for specific purposes (hereinafter referred to as the National Chief Expert) shall have a professional background and leadership and management skills. The National Chief Expert shall also meet one of the following qualifications:
+
+\1. Having been awarded top three in WSC, IA or WSAC and employed in relevant work for at least six years.
+
+\2. Having been awarded top three in National Skills Competition or National Skills Competition for the Physically and Mentally Challenged and employed in relevant work for at least eight years.
+
+\3. Obtaining a technician certificate as Class A and employed in relevant work for at least eight years.
+
+\4. Obtaining a technician certificate as Class B and employed in relevant work for at least ten years.
+
+\5. Having been trained for the WSC, IA or WSAC and won more than 2 medals.
+
+\6. Having been trained for National Skills Competition or National Skills Competition for the Physically and Mentally Challenged and won more than four times of the first three places.
+
+\7. Having been trained for the National High School Skills Competition and won more than four times of the first three places.
+
+\8. Graduating from college/university or above and having been employed in relevant work for more than twelve years with excellent performance in a specific field.
+
+\9. Having served as a committee member for formulating test projects of skills competition or as an expert for any skills competitions set forth in these Regulations for more than four times.
+
+The National Chief Expert to be openly selected by the central competent authority shall meet the aforesaid qualifications, with the capability of communicating in English being preferred prioritized.
+
+The National Chief Expert shall, subject to the review and approval of the central competent authority, recommend and appoint a person who meets the qualifications set forth in Paragraph 1 to serve as the National Deputy Chief Expert.
+
+### Article 13
+
+The maximum term of the National Chief Expert shall be two years, which may be renewed upon expiry.
+
+Any National Chief Expert’s fails to win awards of Excellence or above for two consecutive terms of WSC or IA, shall submit a review report. If the review confirms that such failure is not attributable to the National Chief Expert, the central competent authority may renew his/her term.However, if such failure continues in the subsequent competition, the central competent authority shall not renew the term upon expiry.
+
+The term of National Deputy Chief Expert shall be the same as National Chief Expert and shall be terminated along with the National Chief Expert’s dismissal.
+
+When the term of a National Chief Expert is renewed by the central competent authority, he/ she may, subject to the review and approval of the central competent authority, recommend and appoint a person who meets the qualifications of the preceding first paragraph to serve as National Deputy Chief Expert.
+
+### Article 14
+
+The duties of the National Chief Experts are as follows:
+
+\1. Stipulate the regulations of the skills categories and prepare the tests.
+
+\2. Recommend Regional Chief Experts, Experts, Assistant Experts and Technical Advisor and allocate tasks.
+
+\3. Assist in the leasing of competition premises, equipment and tools.
+
+\4. Review the performance of participants of all skills categories in a skills competition and prepare recommendation tables showing their strength and weakness to the central competent authority for their reference.
+
+\5. Prepare National Competitors’ training programs, training guidance, and draft reports.
+
+\6. Seek sponsors to provide training premises, materials, machinery, instructors, equipment and living subsidies for the National Competitors.
+
+\7. Attend all meetings held by the central competent authority.
+
+\8. Concurrently serve as members of technical committees of skills competitions.
+
+\9. Concurrently serve as WSC Expert or IA Expert.
+
+\10. Carry out other matters related to the competitions.
+
+In case the National Chief Expert cannot perform his duties due to any reason, the National Deputy Chief Expert shall act on his/her behalf; or the central competent authority shall appoint a person with the qualifications of National Chief Expert to perform.
+
+### Article 15
+
+The central competent authority can relieve of their duties the National Chief Expert or person acting on his/her behalf in case of any of the following circumstances:
+
+\1. Refusing to avoid conflict of interest when their spouses, former spouses, blood relations within the top four degrees of kinship or marital relations within the top three degrees of kinship are participants in the tests for skills competition certification.
+
+\2. Having substantial facts to show that his/her duties were not performed in a fair manner.
+
+\3. Failing to effectively maintain the order of the competition during the competition period. Unsatisfactory work attitude in executing the competition work.
+
+\4. Failing to perform the competition tasks with responsible manner that results the mistake of calculating competition scores or record.
+
+\5. Losing all or part of test sheets, answer sheets (cards), work pieces or review sheets.
+
+\6. Leaking or stealing classified test questions, evaluation criteria, evaluation sheets, referential answers, test results, or classified information and materials learned or possessed through performance of their duties.
+
+\7. Provided qualification documents that are proved to be counterfeited, forged, or unreal.
+
+\8. Receiving the final verdict of more than one year of imprisonment excluding offence by negligence.
+
+\9. Other situations affecting the rights of the competition participants or damaging the national image and reputation.
+
+### Article 16
+
+The central competent authority shall carry out a selection of qualified experts for any job category of any skills competition in any of the following cases:
+
+\1. New job category.
+
+\2. Job categories of which the number of qualified experts is insufficient after the evaluation.
+
+\3. Other job categories that are required to be included.
+
+### Article 17
+
+Any person with any of the following qualifications may be recommended by his/her organization or may self-recommend to be selected as a qualified expert of a skills competition:
+
+\1. Having participated in and won the Excellence or above prize in WSC, IA or WSAC as well as having been employed in relevant work for more than three years.
+
+\2. Having participated in and won the Excellence or above prize in WSC, IA, or WSAC, having graduated from college/university or above or with equivalent educational credentials, and having been hired by the central competent authority to serve as the assistant expert for the relevant skills category for more than three times.
+
+\3. Having a high school/vocational high school diploma or higher and having at least eight years of work experience in related competitions.
+
+\4. Having taught or trained in any department relating to a competition job category for at least three years and having work experience in related competitions for more than two years.
+
+\5. Having graduated from college/university or above or with equivalent educational credentials, having obtained a technician certificate as Class B or above relating to the competition job categories, and having performed relevant work for at least two years.
+
+\6. Having served as a member for preparation or supervision of formulating test projects of skill competitions for relevant competition job categories.
+
+\7. Having accepted employment from the central competent authority and the Ministry of Education to serve as an expert for the relevant job category.
+
+The central competent authority shall openly select the persons assigned by the units or self-recommended as referred to in the preceding paragraph.
+
+The qualifications of the expert prescribed in Paragraph 1 for job categories with special conditions may be specially approved by the central competent authority.
+
+Those selected as qualified experts shall participate in the full training programs organized by the central competent authority. The central competent authority will issue a certificate of qualification after the participants have passed the tests and shall include them in the talent database of experts.
+
+### Article 18
+
+Regional Chief Experts and experts shall be selected by the central competent authority from the talent database of experts.
+
+### Article 19
+
+Any expert with any of the following circumstances shall recuse from scoring during competition period:
+
+\1. The expert works in the same agency (organization) or business entity or has a teacher-student relationship with any participant to the competition.
+
+\2. Their spouses, ex-spouses, blood relatives within the top four degrees of kinship, or marital relatives within the top three degrees of kinship are taking the field tests.
+
+\3. With concrete evidence proves that they are likely to be partial when executing their duties.
+
+Any expert subject to recusal under the previous paragraphs who fails to do so shall be ordered to recuse by the Chief Expert. The score given by such expert shall not be taken into consideration.
+
+### Article 20
+
+Experts shall exercise their duties in accordance with principles of fairness, equality, transparency and professionalism and shall act in compliance with the guidelines for experts, competition rules, and resolutions concluded by relevant competition meetings.
+
+The guidelines for experts specified in the previous paragraph shall be published by the central competent authority.
+
+### Article 21
+
+The qualifications of any expert who violates the guidelines for experts, competition rules or resolutions of relevant competition meetings shall be suspended for two years.
+
+## Chapter IV. The Qualifications and Restrictions of Competitors
+
+### Article 22
+
+The central competent authority shall publish the job categories, the ages and qualifications of participating competitors, as well as registration and competition related matters in the general regulations for skills competitions.
+
+### Article 23
+
+Competitors registering for skills competitions shall be citizens of the Republic of China, and the nominating organizations which recommend the registration shall not be changed after registration.
+
+The nominating organizations mentioned in the preceding paragraph include agencies, schools, ancillary divisions with status of juridical persons, organizations, corporations, and vocational training agencies (organizations).
+
+Each nominating organization shall recommend no more than three individuals or teams for each job category. The number of recommendations may be adjusted by the central competent authority based on the actual situation.
+
+If the competitors graduate, leave a job or reinforce trainings during participation in National Skills Competition or National Team Selection, the schools, employers or training organizations may file applications to be added as co-nominating organizations without being restricted by Paragraph 1 and the preceding paragraph.
+
+### Article 24
+
+When teams are composed to participate in any job categories in any Regional Skills Competition, no change shall be made to the list of team members. However, if any member cannot participate in the competition due to natural disaster, unexpected event or other material reason, the nominating organization may recommend another qualified competitor to participate in the competition thirty days before the start of the competition, subject to the consent of the responsible organization.
+
+### Article 25
+
+Any competitor who has won any top-three prize in National Skills Competition shall not participate in the same job category of National Skills Competition. The same shall be applicable to any participation as a team member.
+
+Any competitor who has won any top-three prize in National Skills Competition for the Physically and Mentally Challenged shall not participate in the same job category of National Skills Competition for the Physically and Mentally Challenged. The same shall be applicable to any participation as a team member.
+
+Any competitor who has participated in WSC shall not participate in any job category of WSC. The same shall be applicable to any participation as a team member.
+
+Any competitor who has participated in WSAC shall not participate in any job category of WSAC. The same shall be applicable to any participation as a team member.
+
+### Article 26
+
+Sources of candidates participating in the youth category of National Skills Competition are as follows:
+
+\1. The responsible organization of the youth category in each region participating in the Regional skills competition of the current year will recommend the top five competitors in each job category. If the number of participants is less than ten individuals or teams, the number of recommendations will be 1/2 of the registered candidates or teams. For any job categories where all candidates are grouped under one single region, when there are more than ten individuals or teams participating in the Regional skills competition, the candidates will be accepted based on qualifications, and no restriction will be imposed on the numbers. However, candidates who fail to meet the qualification requirements will not be included in the ranking and will not be recommended.
+
+\2. The Ministry of Education will recommend the top three winners of the relevant job categories from the national high school skills competition of the previous year. However, if two or more job categories correspond to one single job category in the youth category of National Skills Competition, two recommendations may be made for each job category if there are two job categories. If there are three job categories, one recommendation may be made for each of the job categories.
+
+The number of recommendations in the preceding paragraph may be adjusted by the central competent authority based on the actual situation.
+
+### Article 26-1
+
+Sources of candidates participating in the junior category of National Skills Competition are as follows:
+
+\1. The responsible organization of the junior category in each region participating in the Regional skills competition of the current year will recommend the top five competitors in each job category. If the number of participants is less than ten individuals or teams, the number of recommendations will be 1/2 of the registered candidates or teams. For any job categories where all candidates are grouped under one single region, when there are more than ten individuals or teams participating in the Regional skills competition, the candidates will be accepted based on qualifications, and no restriction will be imposed on the numbers. However, candidates who fail to meet the qualification requirements will not be included in the ranking and will not be recommended.
+
+\2. The Ministry of Education will recommend the top three winners of the relevant job categories from the municipal/city/county junior high school skills competition of the current year. However, if two or more job categories correspond to one single job category in the junior category of National Skills Competition, two recommendations may be made for each job category if there are two job categories. If there are more than three job categories, one recommendation may be made for each of the job categories.
+
+The number of recommendations in the preceding paragraph may be adjusted by the central competent authority based on the actual situation.
+
+### Article 27
+
+Any competitor for WSC who has won any top-three prize in National Skills Competition and whose age does not exceed the limit for participating in the WSI and who has not yet represented the Republic of China to participate in the same competition category of WSC may register to participate in the National Team Selection for WSC for such job category of the competition category.
+
+Any competitor for IA who has won any top-three prize in National Skills Competition for the Physically and Mentally Challenged during the past ten years and who has never represented the Republic of China to participate in the same job category of IA may register to participate in the National Team Selection for IA.
+
+Any competitor for WSAC who has won any top-three prize in National Skills Competition and whose age does not exceed the limit for participating in WSAC and who has not yet represented the Republic of China to participate in the same competition category of WSAC may register to participate in the National Team Selection for WSAC for such job category of the competition category.
+
+### Article 27-1
+
+Notwithstanding the provisions of the preceding article, the central competent authority may hold a national team selection for WSC, IA, or WSAC due to force majeure or special causes.
+
+### Article 28
+
+Any competitor selected and approved by the central competent authority to participate in any WSC, IA or WSAC shall participate in a training program before participating.
+
+The central competent authority may decide to replace or withdraw from the national competitors for WSC, IA or WSAC mentioned in the preceding paragraph who have withdrawn from the competition or suffer any of the following events:
+
+\1. Failure to achieve the goal of training due to physical health conditions.
+
+\2. Failure to comply with the training plan or failure to follow instructions of the training team.
+
+\3. Failure to pass the training test.
+
+\4. Absence during training period without justification exceeding 1/ 10 of the total number of hours or taking leave for more than 1/ 5 of the total number of hours.
+
+\5. Subject to a decision of investigation, prosecution or detention due to the violation of laws.
+
+\6. Dispute between the competitor and the training team due to external interference.
+
+\7. Other special situations.
+
+The central competent authority may disqualify Competitors who damage the national image and reputation, and further decide whether to fill up the vacancy or withdraw from the skill competition.
+
+In case any official National Competitor specified in the preceding two paragraphs cannot participate in the competition, such member shall be replaced by the backup member. If the backup member of the national team cannot participate in the competition either, the replacement can be the person who wins the third place in the National Team Selection. However, if the condition occurs within three months before the start of WSC, IA or WSAC, no replacement for the competition will be made.
+
+If the competition is participated in through a team in the preceding paragraph and if any team member cannot participate in the competition, the central competent authority will select one person from the backup team of such category to participate. If two or more persons cannot participate in the competition, the backup team for such job category will replace the initial team.
+
+## Chapter V. Competition Rules
+
+### Article 29
+
+Competitors shall present the competition notice and identification document with photo, such as the national identification card, passport or driver's license, at the specified time to complete registration procedure with the organizer of the competition. Any delayed presentation will lead to disqualification. Except if such delay is caused by special reason that has been approved by the organizer in advance.
+
+If the competitor mentioned in the previous paragraph is a team composed of two persons or more, the registration shall be completed by a full team.
+
+### Article 30
+
+Competitors shall familiarize themselves with the premises, machinery and equipment at the specified time. Any competitor who fails to enter the premises within fifteen minutes from the specified time shall be deemed to have waived the right to familiarize themselves with the premises, machinery and equipment, as well as the right to voice any objection.
+
+Competitors shall familiarize themselves with the machinery and equipment based on the number of competition posts. Any doubt about any machinery or equipment, tool or material provided by the organizer shall be immediately brought to the attention of the Chief Expert and the experts (hereinafter the "Experts"). The Experts shall handle the matter immediately. Once the competitor confirms the handling of the situation and signs his/her name, no further objection may be voiced thereafter.
+
+### Article 31
+
+When entering into the premises of competition, the competitor shall present his/her badge, identification document and self-prepared tools to the Experts for inspection.
+
+The competitor shall not bring into the competition premises any material, equipment, tools, accessory, plans, mobile phones, beepers, wearable device or other equipment and facility with functions of information transmission, sensing, photographing and recording. Except if the Chief Expert grants approval.
+
+### Article 32
+
+On the day (session) of the competition, any competitor who fails to enter into the competition premises within fifteen minutes from the specified time shall be disqualified for the competition of the current day (session). However, the competitors shall still be allowed to participate in the subsequent competition sessions in accordance with the rules.
+
+### Article 33
+
+During the competition period, a competitor shall wear his/her badge and arm band showing the number of the skills category. The competitor shall also wear the uniforms and safety protection tools in accordance with the rules of the competition premises before entering into the premise to participate in the competition.
+
+### Article 34
+
+The start and end of the competition time shall be controlled by the Experts in accordance with the rules of the tests. No competitor shall be allowed to move the time forwards or backwards.
+
+### Article 35
+
+During the competition, the competitor shall comply with the relevant rules and follow the rules explained by the Experts and technical advisors for the job categories. If the competitor has any question, or discovers any missing page or has any other doubt about any announcement, description or test announced by the Experts, it should be raised immediately for the Experts to handle and record. No objection shall be voiced afterwards.
+
+### Article 36
+
+No one is allowed to make any videos or photographs during the competition, unless otherwise publicly announced by the organizer or approved by the Chief Expert.
+
+### Article 37
+
+The competitor shall exercise due care for safety during the operation of machinery and equipment. Any breakdown of machinery or equipment due to negligent operation shall be resolved by the competitor himself/herself and no additional time will be granted.
+
+Those who deliberately damage the equipment or facilities of the competition premises shall be liable for compensation.
+
+### Article 38
+
+If the competitor needs to leave the competition premises for any reason during the competition, it shall be subject to the consent of the Chief Expert and the competitor shall be accompanied by a dedicated person. The time of absence shall not exceed fifteen minutes, or twenty minutes for the disabled.
+
+The duration of the competitor's absence mentioned in the previous paragraph shall be included in the time of competition. If a competitor exceeds the time period provided specified in the previous paragraph, the competitor shall be disqualified for the competition of the current day (session), unless it is not attributable to the personal conduct of the competitor.
+
+### Article 39
+
+After the completion of each session of competition, no competitor shall be allowed to access the competition post of other competitors or re-enter the competition premises without the consent of the Chief Expert.
+
+If competition needs to be continued after a break time or the following day, the competition tests, self-prepared tools, works or relevant information of the competitors shall be processed in accordance with the instructions of the Experts.
+
+### Article 40
+
+In case of the occurrence of typhoon, earthquake, air attack, flood, fire, power outage, equipment breakdown or other significant event during the competition that renders it impossible to carry out the competition, the situation shall be handled in accordance with the instructions of the organizer.
+
+### Article 41
+
+Any competitor committing any of the following acts who fails to make correction after being warned shall be subject to an immediate meeting to be convened by the Chief Expert and the following decision will be informed to the competitor on site after a resolution to impose the sanction of deducting 5% from the total score:
+
+\1. Talking to or contacting any other competitors, staff, viewers or instructors without the consent of the Experts during the competition.
+
+\2. Bringing mobile phone, beeper, wearable devices or other equipment and facility with functions of information transmission, sensing, photographing and recording.
+
+\3. Violation of Article 34.
+
+\4. Violation of Article 39.
+
+\5. Violation of other competition rules.
+
+### Article 42
+
+Any competitor committing any of the following acts shall be disqualified and shall not be allowed to continue to participate. The total scores of the competition shall be zero:
+
+\1. Having an impostor examinee.
+
+\2. Transmitting information or message related to competition which significantly affects the results of the competition.
+
+\3. Assisting or asking others to do the assignment.
+
+\4. Exchanging work pieces or diagrams with others.
+
+\5. Bringing any part, model, semi-finished product or finished product that is prepared in advance, or any material, equipment, tool, accessory or plan that is not included in the list of competitors’ self-prepared tools without the consent of the Chief Expert, or accepting any such items provided by any other person.
+
+\6. Cheating by the use of electronic communications device or other manners.
+
+\7. Disturbing the order of the competition premises which affects the proceeding of the competition.
+
+\8. Failing to operate in compliance with safety instructions or guidelines so as to cause damage to competitor himself/herself or other person(s).
+
+\9. Intentionally damage the machinery, equipment or facility on the competition premises.
+
+\10. Violating the provisions prescribed in Article 29.
+
+If any competitor is discovered to have committed any of the events under the previous paragraph after the competition, the total score of such competition shall also be zero.
+
+## Chapter VI. Dispute Resolution
+
+### Article 43
+
+If the competitor deems that there is any dispute during the competition, the competitors shall immediately raise the dispute with the Experts for resolution. The competitor who does not accept the result of such resolution shall immediately raise an objection to the organizer. The organizer shall convene a meeting immediately to handle the dispute and make a record.
+
+Any objection raised after the completion of the competition will not be accepted.
+
+### Article 44
+
+Any competitor who has objections to the competition results and is under any of the following circumstances shall file an appeal with the organizer within three hours upon the publication of the competition results:
+
+1.Objection to the competition results.
+
+2.Alleged misconduct of the Experts that affects the competition results.
+
+3.Other disputes sufficient to affect the rights and interests of the competitor.
+
+The appeal mentioned in the preceding paragraph shall be submitted in writing by the competitor himself/herself or his/her legal representative, specifying the name of the skill, the competitor’s name, date of birth, gender, ID number, domicile, and grounds of the appeal.
+
+### Article 45
+
+Upon receiving the appeal mentioned in the preceding Article, the organizer shall report it to the central competent authority for handling within seven days.
+
+If the appeal mentioned in the preceding Article is submitted after the specified time limit, the central competent authority shall not accept it.
+
+The central competent authority shall make an appeal decision within forty-five days from the date of receiving the appeal materials referred to in Paragraph 1, and notify the appellant.
+
+Where the grounds of the appeal accepted by the central competent authority involve highly technical or professional matters, it may convene a meeting and invite relevant professionals for consultation.
+
+An appellant who does not accept the appeal decision mentioned in Paragraph 3 may file an administrative appeal in accordance with the law.
+
+### Article 46
+
+(Deleted)
+
+### Article 46-1
+
+The skills competition referred to in Subparagraphs 4 to 6 of Paragraph 1 of Article 2 shall be conducted in accordance with the regulations of the respective international organizations or international competitions, and the provisions of this Chapter shall not apply.
+
+## Chapter VII. Rewards
+
+### Article 47
+
+The central competent authority may provide rewards to competitors, National Chief Experts, training instructors, business organizations, schools, associations and relevant agencies that have participated in the skills competitions with good performances or special contributions.
+
+### Article 48
+
+The reward methods of the organizer of Regional Skills Competitions, National Skills Competition or National Skills Competition for the Physically and Mentally Challenged or for special purposes shall be as follows:
+
+\1. Top three: award medals, certificate of merit and scholarship. For any job category under National Skills Competition that is a demonstration, half of the scholarship will be awarded.
+
+\2. Fourth or fifth place and Mention will be awarded a certificate of merit.
+
+Any competitor who fails to participate in the award and closing ceremony without justification will lose the right to the scholarship specified in the previous paragraphs.
+
+### Article 49
+
+The central competent authority will award certificates of merit and scholarships to the top three national competitors and excellent-awarded national competitors in WSC, IA, or WSAC.
+
+### Article 50
+
+The central competent authority will award certificates of merit and scholarships to the top three competitors in WSC, IA, or WSAC, the national chiefs refer of Excellence-awarded competitors of job categories, the main former training instructors of the competitor before the competitor is selected as a member of the national team competitors, and the training instructors who provide reinforcement training for the member of the national team competitors.
+
+### Article 51
+
+The scholarships in Articles 48-50 will be awarded as follows:
+
+\1. For each of the top three competitors in the youth category of Regional Skill Competitions:
+
+(1) First place of a job category: NT$12,000.
+
+(2) Second place of a job category: NT$6,000.
+
+(3) Third place of a job category: NT$4,000.
+
+\2. For each of the top three competitors in the junior category of Regional Skill Competitions:
+
+(1) First place of a job category: NT$3,000.
+
+(2) Second place of a job category: NT$1,500.
+
+(3) Third place of a job category: NT$1,000.
+
+3.For each of the top three competitors in the youth category of National Skills Competition or National Skills Competition for the Physically and Mentally Challenged:
+
+(1) First place of a job category: NT$120,000.
+
+(2) Second place of a job category: NT$60,000.
+
+(3) Third place of a job category: NT$40,000.
+
+\4. For each of the top three competitors in the junior category of National Skills Competition:
+
+(1) First place of a job category: NT$30,000.
+
+(2) Second place of a job category: NT$15,000.
+
+(3) Third place of a job category: NT$10,000.
+
+\5. For each competitor winning an excellence prize in the youth category of WSC or IA:
+
+(1) First place of a job category: NT$1,200,000.
+
+(2) Second place of a job category: NT$600,000.
+
+(3) Third place of a job category: NT$400,000.
+
+(4) Excellence prize of a job category: NT$100,000.
+
+\6. For each of the top three competitors in the junior category of WSC:
+
+(1) First place of a job category: NT$300,000.
+
+(2) Second place of a job category: NT$150,000.
+
+(3) Third place of a job category: NT$100,000.
+
+\7. For each of the top three award winners in the youth category of WSAC:
+
+(1) First place of a skill competition: NT$240,000.
+
+(2) Second place of a skill competition: NT$120,000.
+
+(3) Third place of a skill competition: NT$80,000.
+
+\8. For each of the top three competitors in the junior category of WSAC:
+
+(1) First place of a job category: NT$60,000.
+
+(2) Second place of a job category: NT$30,000.
+
+(3) Third place of a job category: NT$20,000.
+
+\9. When a competitor in a certain job category wins an excellence prize in the youth category of WSC or IA, the corresponding National Chief Expert, the main former training instructors of the competitor before the competitor is selected as a member of the national team, and the training instructors who provide reinforcement training for the member of the national team will be awarded as follows:
+
+(1) First place of a job category: NT$600,000.
+
+(2) Second place of a job category: NT$300,000.
+
+(3) Third place of a job category: NT$200,000.
+
+(4) Excellence prize of a job category: NT$100,000.
+
+\10. When a competitor of a certain job category wins a top-three prize in the junior category of WSC, the corresponding National Chief Expert, the main former training instructors of the competitor before the competitor is selected as a member of the national team, and the training instructors who provide reinforcement training for the member of the national team will be awarded as follows:
+
+(1) First place of a job category: NT$150,000.
+
+(2) Second place of a job category: NT$75,000.
+
+(3) Third place of a job category: NT$50,000.
+
+\11. When a competitor of a certain job category wins a top-three prize in the youth category of WSAC, the corresponding National Chief Expert, the main former training instructors of the competitor before the competitor is selected as a member of the national team, and the training instructors who provide reinforcement training for the member of the national team will be awarded as follows:
+
+(1) First place of a job category: NT$120,000.
+
+(2) Second place of a job category: NT$60,000.
+
+(3) Third place of a job category: NT$40,000.
+
+\12. When a competitor of a certain job category wins a top-three prize in the junior category of WSAC, the corresponding National Chief Expert, the main former training instructors of the competitor before the competitor is selected as a member of the national team, and the training instructors who provide reinforcement training for the member of the national team will be awarded as follows:
+
+(1) First place of a job category: NT$30,000.
+
+(2) Second place of a job category: NT$15,000.
+
+(3) Third place of a job category: NT$10,000.
+
+\13. In specially-designated skill competitions, each competitor may receive a prize as follows:
+
+(1) First place of a job category: NT$120,000.
+
+(2) Second place of a job category: NT$60,000.
+
+(3) Third place of a job category: NT$40,000.
+
+### Article 52
+
+The scholarships referred to in Subparagraphs 9-12 of the preceding article are allocated in accordance with the following ratios:
+
+\1. 25% of the scholarship will be awarded to the National Chief Expert.
+
+\2. 25% of the scholarship will be awarded to the main former training instructors of the current competitors for WSC, IA or WSAC before the competitor is selected as a member of the national team. If there are two or more such instructors, the scholarship will be allocated equally.
+
+\3. 50% of the scholarship will be awarded to the training instructors who provide reinforcement training for the member for the National Competitors.
+
+If there are two or more instructors mentioned in Subparagraph 3 of the preceding paragraph, the percentage will be allocated in accordance with the period of training participated in under the schedule of reinforced training. The same shall be applicable if the National Chief Expert also participates in the training.
+
+### Article 53
+
+If any competitor in any skills competition has any of the following conditions, the central competent authority shall issue a certificate of merit to the nominating organization, the training institution, and the training instructors:
+
+\1. Top five award winners, Excellent winners, official or backup National Competitors in skills competitions held by the central competent authority.
+
+\2. Winner of Excellence or above prize in WSC, IA, or WSAC.
+
+### Article 54
+
+The central competent authority will issue rewards to organizations or individuals that sponsor skills competitions by means of providing funds, materials, equipment, trainings, job opportunities for the National Competitors.
+
+### Article 55
+
+The central competent authority may, depending on the funding and budget planning situations, subsidize vocational labor unions such as industry associations and employer-employee organizations that organize skills competitions.
+
+The subsidies and rewards mentioned in the previous paragraph shall be published by the central competent authority.
+
+### Article 55-1
+
+Regulations related to the award to the National Chief Expert stipulated in Article 47, Article 50 to Article 52 shall apply to those who function in acting capacity.
+
+### Article 55-2
+
+Depending on the circumstances, if Competitors, specified in Article 49, and Experts and Trainers, mentioned in Article 50, damage the national image or reputation before the competition is over, the central authority center may withdraw the entire or partial scholarships already awarded to them.
+
+## Chapter VIII. Miscellaneous
+
+### Article 56
+
+The central competent authority shall determine the formats of diplomas and certificates prescribed in the Regulations.
+
+### Article 57
+
+These Regulations are implemented on 1 September 2012.
+
+The amendments of this Directive will be implemented on the promulgation date. The amendments to Articles, 2, 26-1, 27-1, and 51 promulgated on June 6, 2019 shall be implemented on April 1, 2019; The amendments to Articles 51 and 52 promulgated on September 28, 2022 shall be implemented on April 1, 2022; the remaining amendments to these Regulations shall be implemented on the promulgation date.
+
+## History
+
+1.Promulgated pursuant to the Council of Labor Affairs, Executive Yuan, Order Lao-Chung-Si-Zhi No. 1010400279 dated August 8, 2012; implemented on September 1, 2012.
+
+2.Articles 5, 8, 10, 12, 17, 51 and 57 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 10318060941 dated October 31, 2014; implemented on the same day.
+
+3.Articles 2, 10, 12, 13, 14, 15, 17, 27, 28, 31, 41, 48, 53 and 55-1 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 1060519287 dated October 19, 2017.
+
+4.Articles 2, 5, 6, 8, 12, 17, 23, 25, 26, 27, 28, 49~53, and 57 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 1080506734 dated June 6, 2019; Articles 26-1 and 27-1 added; implemented on the same day except for Articles 2, 26-1, 27-1 and 51, which shall be implemented on April 1, 2019.
+
+5.Articles 2, 26, 26-1, 51, and 52 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 10805176431 dated December 9, 2019.
+
+6.Amended and promulgated Articles 28, 51, 52 and 57 by the Ministry of Labor on September 28, 2022 under Lao-Dong-Fa-Neng-Zi-1110521196. Article 55-2 has been added. The amendments to Articles 51 and 52 shall be implemented on April 1, 2022; the remaining amendments shall be implemented on the promulgation date.
+
+7.Amended and promulgated Articles 43, 44 and 45 by the Ministry of Labor on July 22, 2026 under Lao-Dong-Fa-Neng-Zi-1150510572. Article 46-1 has been added. Article 46 has been deleted.

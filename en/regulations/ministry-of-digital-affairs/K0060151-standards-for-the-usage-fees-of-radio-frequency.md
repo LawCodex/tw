@@ -1,0 +1,111 @@
+---
+title: "Standards for the Usage Fees of Radio Frequency"
+title_zh: "頻率使用費收費標準"
+identifier: "K0060151"
+type: regulation
+law_level: "命令"
+category: "行政＞數位發展部＞資源管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-08-25
+last_amended: 2025-06-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060151"
+retrieved: 2026-10-12
+---
+
+# Standards for the Usage Fees of Radio Frequency
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-digital-affairs/K0060151-standards-for-the-usage-fees-of-radio-frequency.md](../../../zh/regulations/ministry-of-digital-affairs/K0060151-standards-for-the-usage-fees-of-radio-frequency.md)) is authoritative.
+
+## Article 1
+
+These Charge Standards are promulgated according to Paragraph 2, Article 64 of Telecommunications Management Act（hereinafter referred to as the Act）.
+
+## Article 2
+
+The competent authority shall collect fees for radio frequency according to the usage of radio frequency in the following paragraphs:
+
+\1. Mobile Telecommunications: fees for usage of mobile telecommunications frequency of radio telecommunications between base stations and mobile stations or between mobile stations shall be collected in accordance with the stipulations in Appendix 1.
+
+\2. Dedicated telecommunications: fees for usage of dedicated telecommunications frequency of radio telecommunications between base stations and mobile stations or between mobile stations shall be collected in accordance with the stipulations in Appendix 2 and Annex 1.
+
+\3. Fixed Telecommunications: fees for usage of radio telecommunications frequency between fixed locations of point-to-point or point-to-multipoint communications shall be collected in accordance with the stipulations in Appendix 3 and Annex 1.
+
+\4. Satellite Communications: fees for usage of radio telecommunications frequency between satellite systems and earth stations shall be collected according to the methods in Appendix 4 and Annex 1.
+
+\5. Radio and television: fees for usage of frequency used for the public listening and viewing provided by radio and television businesses shall be collected in accordance with the stipulations in Appendix 5.
+
+\6. Experimental research telecommunications: fees for usage of experimental research telecommunications frequency of radio telecommunications between base stations and mobile stations or between mobile stations shall be collected in accordance with the stipulations in Appendix 6 and Annex 1.
+
+\7. Mobile broadband dedicated telecommunications: fees for usage of mobile broadband dedicated telecommunications frequency of radio communications between base stations and terminal equipment or between terminal equipment shall be collected in accordance with the stipulations in Appendix 7.
+
+## Article 3
+
+The duration of charging the usage fee shall run from January 1st to December 31st of each year; the fee shall be collected annually.
+
+In any of the following circumstances, the frequency user shall be charged accordingly, and the competent authority shall notify the user to remit payment within a prescribed period of time:
+
+\1. When the use of frequency has been issued a certificate for frequency use thereto in accordance with Article 83, Paragraph 3 of the Act, the usage fee of the frequency shall be calculated based on the number of days from the day after the date the frequency use certificate thereto is issued until December 31 of the same year.
+
+\2. The usage fee of a newly established station or renewed station license in accordance with Article 86, Paragraph 2 of the Act shall be calculated based on the number of days from the day after the date the license is issued or renewed until December 31st of the same year.
+
+During the duration of charging, in the case where a new radio station license is replaced due to relocation of an existing radio station for transmission, change of frequency and electric power, or transmitter ids replaced, the usage fee shall be calculated, before the replacement of license, according to the calculation standard of original usage fee of radio station; after the replacement of license, according to the calculation standard of usage fee after change.
+
+If the frequency allocation is abolished by the competent authority, the frequency usage fee shall be calculated and collected based on the number of days from January 1 of the current year to the day when the frequency allocation is abolished; After the frequency user has paid the annual frequency usage fee, when the frequency allocation is abolished by the competent authority, the competent authority shall refund frequency usage fee on the number of days from the day after the abolishment of the frequency allocation to December 31 of the current year.
+
+If the collection and refund method in Paragraph 2 and preceding Paragraph is regulated by other laws or regulations, the said other laws or regulations shall prevail.
+
+## Article 4
+
+Payment of the usage fee shall be remitted annually by the frequency within the period from July 1st to before July 31st of the same year.
+
+## Article 5
+
+In accordance with the Regulations Governing the Use of Radio Frequencies, the usage fee of frequency shall be paid by the provider in accordance with the provisions of the preceding two articles for providing others to use or share with other parties a frequency approved by the competent authority.
+
+## Article 6
+
+The usage fee for frequency for national security or for the fulfillment of public obligations shall be not required if such circumstances are reported to and approved by the Executive Yuan.
+
+## Article 7
+
+The party shall remit payment for the determined fees within a prescribed period unless other applicable laws allows for remittance to be made in installments, as stipulated in Article 16 of the Charges and Fee Act.
+
+The determined amount aforementioned shall be as follows:
+
+\1. Mobile Telecommunications: NT$200,000,000.
+
+\2. Other usage: NT$1,000,000.
+
+## Article 8
+
+These Standards shall become effective on July 1, 2020.
+
+The amendments to these Standards shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1 REVISED CALCULATION STANDARDS TABLE OF FREQUENCY FOR MOBILE TELECOMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008422)
+- [Appendix 2 CALCULATION STANDARDS TABLE OF FREQUENCY FOR DEDICATED MOBILE TELECOMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008423)
+- [Appendix 3 CALCULATION STANDARDS TABLE OF FREQUENCY FOR FIXED TELECOMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008424)
+- [Appendix 4 CALCULATION STANDARDS TABLE OF FREQUENCY FOR SATELLITE COMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009262)
+- [Appendix 5 CALCULATION STANDARDS TABLE OF FREQUENCY FOR RADIO AND TELEVISION.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008426)
+- [Appendix 6 CALCULATION STANDARDS TABLE OF FREQUENCY FOR EXPERIMENTAL RESEARCH TELECOMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008427)
+- [Appendix 7 CALCULATION STANDARDS TABLE OF FREQUENCY FORMOBILE BROADBAND DEDICATED TELECOMMUNICATIONS.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008428)
+- [Annex 1 Adjustment factor d.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008420)
+- [Annex 2 Frequency table of maritime and land distress communications.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008421)
+
+## History
+
+\1. 8 Articles promulgated in full by the National Communications Commission（NCC） on August 25, 2020. Ref：Tung-Chuan-Tz Tze No. 10943021150
+
+\2. Amended and promulgated Article 5, Article 8 and Appendix 4 of Article 2 by Ministry of Digital Affairs Order No. 1116000304 on November 3, 2022
+
+\3. Amended and promulgated Article 2 by Ministry of Digital Affairs Order No. 1120011601 on June 1, 2023
+
+\4. Amended and promulgated Appendix 1 of Article 2 by Ministry of Digital Affairs Order No. 1126002561 on January 2, 2024
+
+\5. Amended and promulgated Appendix 4 of Article 2 by Ministry of Digital Affairs Order No. 1140011484 on June 16, 2025

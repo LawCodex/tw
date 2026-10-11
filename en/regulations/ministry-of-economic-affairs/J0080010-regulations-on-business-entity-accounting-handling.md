@@ -1,0 +1,573 @@
+---
+title: "Regulations on Business Entity Accounting Handling"
+title_zh: "商業會計處理準則"
+identifier: "J0080010"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞商業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1966-03-12
+last_amended: 2026-07-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080010"
+retrieved: 2026-10-12
+---
+
+# Regulations on Business Entity Accounting Handling
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0080010-regulations-on-business-entity-accounting-handling.md](../../../zh/regulations/ministry-of-economic-affairs/J0080010-regulations-on-business-entity-accounting-handling.md)) is authoritative.
+
+## Chapter 1 General Provision
+
+### Article 1
+
+This Regulation is be prescribed in accordance with Article 13 of Business Entity Accounting Act (hereinafter referred to as the "Act")
+
+### Article 2
+
+The handling of business accounting affairs shall be in accordance with the provisions of the "Act", this Regulation and all applicable legal directives. Matters not provided herein shall be subject to Generally Accepted Accounting Principles. However, starting the beginning of 2018 fiscal year, a company, except when it has control or significant influence over, or a joint venture interest in, an invested company, in which case it shall value the long-term equity investment using the equity method, may prepare financial statements voluntarily pursuant to provisions in Articles 3, 9 through 14, 16, 18, 24-1 through 26 and 28 of "Regulations Governing the Preparation of Financial Reports by Securities Issuers" promulgated by Financial Supervisory Commission, and shall be exempted from restrictions under this Regulation.
+
+### Article 3
+
+A business entity may set up, as required, accounting documents, account items, account books and financial statements in addition to those listed in this Regulation.
+
+The titles and formats of the bookkeeping voucher, account books and financial statements shall be announced by the Central Competent Authority.
+
+### Article 4
+
+A business entity may set up, as required, subsidiary items for account items, subsidiary books for account books and supplementary schedules for financial statements.
+
+## Chapter 2 Accounting Documents
+
+### Article 5
+
+The external document and outgoing document shall be signed or sealed by the issuer and shall include the following items:
+
+1.Name of the document.
+
+2.Date.
+
+3.The name and address or the Tax Identification Number of the transacting parties.
+
+4.Contents and amount of the transaction.
+
+The internal document shall be prepared and kept by the business entity according to the fact and amount of the transaction.
+
+### Article 6
+
+The content of a bookkeeping voucher should include the name of the business entity, name of the voucher, date, serial number of the voucher, name of the account items, summary contents and amount.
+
+The bookkeeping voucher should be signed or sealed by a relevant personnel.
+
+### Article 7
+
+The preparation of a bookkeeping voucher shall be based on the source document affixed thereto.
+
+The source document that proves the existence of right and liability which is required to be preserved permanently or bound separately for convenience may be compiled and kept separately, categorized and numbered according to the nature or preservation period, specified for cross reference with the date, number, person of custody, place of custody, and catalogued with a table of documents for auditing purposes.
+
+### Article 8
+
+The bookkeeping voucher shall be bound by the sequence of date or month with a cover to specify the number of volumes, starting and ending dates and the number of pages, and shall be signed or sealed thereon by the manager, in-charge personnel or handling accountant authorized by the business entity’s person-in-charge, appropriately stored and catalogued with a table of vouchers for auditing purposes.
+
+After the end of the preservation period, the bookkeeping voucher may be destroyed with approval of the person-in-charge of the business entity.
+
+## Chapter 3 Account Books
+
+### Article 9
+
+An account book should be used continuously for record keeping within the same accounting year and, unless completely exhausted, shall not be replaced by a new book.
+
+### Article 10
+
+The first page of every account book should provide record of the initial use, management, and closing bookend date. The second page of a ledger book should provide a table of accounts.
+
+### Article 11
+
+In replacing an account book, each blank page of the book shall be stamped "Blank and Invalid" or clipped to render it ineffective, and the words "All of the following pages are blank and invalid" should be added on the first blank page.
+
+### Article 12
+
+Bookkeeping figures shall use the Yuan as the monetary unit or, as required by the nature of transaction, may extend to the decimal fraction below the Yuan.
+
+### Article 13
+
+Where a correction of a bookkeeping error does not affect the total, the error shall be indicated with a double strike-through in red ink with the correct figure or words written and signed or sealed by the individual who made the correction, or the correction can be done using a new bookkeeping voucher, to prove identity of responsible party.
+
+## Chapter 4 Account Items and Preparation of Financial Statements
+
+### Article 14
+
+The statement of financial position shall be presented as follows:
+
+1.Assets.
+
+(1)Current assets.
+
+(2)Non-Current assets
+
+2.Liabilities.
+
+(1)Current liabilities.
+
+(2)Non-Current liabilities.
+
+3.Equity.
+
+(1)Capital (or share capital)
+
+(2)Capital surplus.
+
+(3)Retained earnings (or accumulated deficit)
+
+(4)Other Equity
+
+(5)Treasury share
+
+### Article 15
+
+Current assets, a business entity expects to realize, or intends to sell or consume the asset, in its normal operating cycle; holds the asset primarily for the purpose of trading; expects to realize the asset within twelve months after the date of statement of financial position; the asset is cash or a cash equivalent. Unless the asset is restricted from being exchanged or used to settle a liability for at least twelve months after the date of statement of financial position.
+
+Current assets including account items as follows:
+
+1.Cash and Cash equivalent: cash on hand, demand deposits, and short-term, highly liquid certificate deposits or investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value.
+
+2.Short-term investment: defined as investment that is short-term, including account items as follows, provided as a lien, collateral or refundable deposit, etc. shall be disclosed.
+
+(1)Financial assets measured at fair value through profit or loss-current:
+
+A.Financial assets not measured at amortized cost, measured at fair value through other comprehensive income or financial assets measured at cost.
+
+B.Financial assets measured at amortized cost or measured at fair value through other comprehensive income which be designated as financial assets measured at fair value through profit and loss at the time of initial recognition.
+
+(2)Financial assets measured at fair value through other comprehensive income-current:
+
+A.Debt instrument investments that meets all of the following conditions:
+
+a.Holds the financial assets within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.
+
+b.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+B.Equity investments not held for trading, for which the entity has irrevocably elected at initial recognition to present changes in fair value in "other comprehensive income".
+
+(3)Financial assets measured at amortized cost – current, meaning all of the following conditions are met:
+
+A.The asset is held within a business model whose objective is to hold assets in order to collect contractual cash flows.
+
+B.The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+
+(4)Financial assets measured at cost-current: Investments in equity instruments that do not listed and whose fair value cannot be reliably measured and derivatives that are linked to and must be settled by delivery of such unquoted equity instruments.
+
+(5)Financial assets for hedging-current: Any financial asset that is a designated and effective hedging instrument under hedge accounting requirements.
+
+\3. Contract assets: defined as the business entity has transferred goods or services to the customer according to the terms and conditions of a contract, but does not yet have an unconditional right to consideration. Contract assets shall be valued at the date of statement of financial position for the unrecoverable amount, and any allowance for the uncollectible amount shall be properly provided.
+
+4.Notes receivable: defined as various notes which are collected by the business entity.
+
+(1)Notes receivable should be measured at amortized cost as a principle. However, short-term notes receivable with no stated interest rate may be measured at the original invoice amount if the effect of discounting is immaterial.
+
+(2)Notes receivable that were discounted or transferred to others shall be disclosed.
+
+(3)Notes receivable arising from operations shall be presented separately from those not arising from operations.
+
+(4)Large-sum notes receivable from related persons shall be presented individually.
+
+(5)Notes receivable that are provided as collateral shall be disclosed.
+
+(6)Notes receivable determined to be uncollectible shall be written off.
+
+(7)Notes receivable shall be valued at the date of statement of financial position for the unrecoverable amount, and any allowance for the uncollectible amount shall be properly provided and presented as the contra account of the notes receivable.
+
+5.Accounts receivables: defined as the business entity has an unconditional contractual right to consideration for goods or services that have been transferred.
+
+(1)Accounts receivable should be measured at amortized cost as a principle. However, short-term accounts receivable with no stated interest rate may be measured at the transaction amount if the effect of discounting is immaterial.
+
+(2)Large-sum accounts receivable from related persons shall be presented individually.
+
+(3)Accounts Receivable have been collateralized, shall be disclosed.
+
+(4)Accounts receivable determined as uncollectible shall be written off.
+
+(5)Accounts receivable shall be valued at the financial position date for the unrecoverable amount, and any allowance for the uncollectible amount shall be properly provided and presented as the contra account of the trade receivables.
+
+6.Other receivables: defined as the receivables that do not belong to the notes receivable and accounts receivable.
+
+(1)Other receivables shall be valued at the date of statement of financial position for the uncollected amount, and any allowance for doubtful accounts shall be properly provided and presented as the contra account of the other receivables.
+
+(2)Where the receivables are classified greater detail, the allowance for doubtful accounts shall also be presented accordingly.
+
+7.Current tax assets: defined as the portion of the tax amount already paid in respect of current and prior periods that exceed the amount due for those periods.
+
+8.Inventories: defined as held for sale in the ordinary course of business; or in the process of production for sale in the ordinary course of business; or in the form of materials or supplies to be consumed in the production process or in the rendering of services.
+
+(1)The cost of inventories shall comprise all costs of purchase, costs of conversion and other costs incurred in bringing the inventories to their present location and condition, the cost may be calculated by using a specific identification method, first-in first-out method, or average method, in accordance with the categories or characteristics of an inventory.
+
+(2)Inventories shall be measured at the lower of cost and net realizable value. If the cost of inventories is higher than net realizable value, inventories shall be written down below cost to net realizable value, and the amount of the write-down shall be recognized as cost of sales in the period the write-down occurs.
+
+(3)Inventories that are provided as lien or guarantee, whose usage is supervised by creditors, etc. shall be disclosed.
+
+9.Prepayments: defined as various costs and expenses prepaid, including prepaid expenses and prepayments to suppliers.
+
+10.Other current assets: defined as current assets that do not belong to the previous nine categories of current assets.
+
+Any asset that cannot be attributed to the current assets as paragraph 1 indicated, a business entity should classify it as non-current asset.
+
+### Article 16
+
+Long-term investments include the following account items:
+
+1.Financial assets at fair value through profit or loss-non current.
+
+2.Financial assets measured at fair value through other comprehensive income-non current.
+
+3.Financial assets measured at amortized cost-non current.
+
+4.Financial assets measured at cost -non current.
+
+5.Financial assets for hedging-non current.
+
+6.Investments accounted for using the equity method: defined as holding an investment in equity instruments with major influence or power of control.
+
+Long-term investments that are provided as lien or subject to restrictions, limitations, etc. shall be disclosed.
+
+### Article 17
+
+Investment property shall mean property held by the owner or by the lessee under a finance lease to earn rentals or for capital appreciation or both.
+
+Initial recognition of Investment properties shall be recognized at cost, and subsequent measurement shall be presented at a carrying amount of costs subtracted by accumulated depreciation and accumulated impairment losses.
+
+### Article 18
+
+Property, plant and equipment shall mean tangible asset items held to be in the use of production or provision of commodities, agricultural produce or services, as rental to tenants or for administrative purposes, and to be with expected useful life longer than one year, and the accounting items of which shall include land, buildings, machineries, transportation equipment, office equipment and bearer plants.
+
+Property, plant and equipment shall be recognized at its original and subsequent costs at the time of acquisition or construction. Original cost shall include the purchase price, any costs incurred directly attributable to bringing the asset to the site and working condition for its intended use and estimated cost of dismantling and removing the asset and restoring the site in the future. Subsequent costs shall include the cost of enhancements, partial redevelopment or maintenance.
+
+Property, plant and equipment shall be presented at a carrying amount of costs subtracted by accumulated depreciation and accumulated impairment losses.
+
+The fact, if any, that property, plant and equipment being provided as security, pledged, or otherwise subject to any restriction or limitation shall be disclosed in financial statements together with the amounts involved.
+
+### Article 19
+
+Mineral resources are defined as natural resources whose value decreases after extraction or other means of alteration.
+
+Mineral resources shall be recognized according to the exact cost of acquisition, exploration and development, and carried at its cost less accumulated depletion and accumulated impairment losses.
+
+### Article 20
+
+Biological assets shall mean living animals or plants related to agricultural activities. However, bearer plants shall be classified into property, plant and equipment.
+
+Biological assets shall be divided as current and non-current based on liquidity and measured by fair value less costs to sell. However, in the event that fair value is not readily determined without undue cost or effort, biological assets may be presented at carrying amounts of costs subtracted by accumulated depreciation and accumulated impairment losses.
+
+### Article 21
+
+Intangible assets are identifiable non-monetary assets without physical substance, as follows:
+
+1.Intangible Assets other than Goodwill: defined as assets have meet identifiability, controlled by the business entity, and future economic benefits. Including trademarks, patents, copyrights, and computer software, etc.
+
+2.Goodwill: defined as the goodwill is unidentifiable and not separately recognized future economic benefits of intangible assets that acquired in a business combination.
+
+Intangible assets with economic benefit clearly shall be reasonably and systemically amortized over the years. Goodwill and intangible assets without economic benefit clearly shall be reasonably and systemically amortized or tested for impairment annually.
+
+Research expenditures and development expenditures, with the exception of commissioned research where the costs can be totally recovered according to contract, must be recognized incurred profit or loss. However, development expenditure qualify for recognition as assets, may recognized as intangible assets.
+
+Intangible assets shall be carried at its cost less accumulated amortization and accumulated impairment losses. Amortization period and method of intangible assets shall be disclosed.
+
+### Article 22
+
+Deferred tax assets: defined as the amounts of income taxes probable against in future periods in respect of deductible temporary differences; the carryforward of unused tax losses; and the carryforward of unused tax credits.
+
+### Article 23
+
+Other non-current assets are defined as assets that do not belong to the Article sixteen through Article twenty two categories of non-current assets.
+
+### Article 24
+
+A business entity should be assess at the date of statement of financial position to financial assets measured at fair value through other comprehensive income, financial assets measured at cost, financial assets measured at amortized cost, investments accounted for using the equity method, property, plant and equipment, investment property and intangible assets project whether there is any indication of impairment; If the carrying amount of the asset is greater than its recoverable amount, an impairment loss should be recognized.
+
+When there is evidence of goodwill and equity instruments measured at cost investments other than the impairment loss recognized in prior periods out, may no longer exist or decreased when the carrying amount of the asset shall reverse rotation amount will be recognized to the current profit.
+
+Those have handled the asset revaluation, impairment occurs should first reduce the unrealized revaluation increment, if insufficient, recognized to current period loss. Rotation impairment loss when the loss recognized in the original scope of recognized to the current profit if the balance is recorded as unrealized revaluation increment.
+
+### Article 25
+
+Current liabilities are regarded as liabilities that the business entity are to be expects to settle the liability in its normal operating cycle; it holds the liability primarily for the purpose of trading, and are due to be settled within twelve months after the maturity of the debt, even if the liability at the date of statement of financial position to complete the long-term refinancing prior to the financial statements or reschedule payment agreement; the business entity at the date of statement of financial position does not have in substance the right to defer settlement of the liability for at least twelve months after the date of statement of financial position.
+
+Current liabilities include the following account items:
+
+1.Short-term borrowings: defined as the sum of money that is borrowed or is an overdraft from a financial institution or another party.
+
+(1)Shall be specified by type or nature, guarantee situation and interest rate range of the borrowings, and, if collateral is disclosed, the name and carrying amount of the collateral.
+
+(2)Borrowings from financial institutions, owners, employees, related persons, and other persons or institutions shall be separately disclosed.
+
+2.Short-term bills payable: defined as the short-term notes and bills issued through a commissioned financial institution for the purpose of obtaining funds from the money market, including commercial paper payable and bank acceptances, etc. Short-term bills payable shall be specified for the guarantee, institution of acceptance, interest rate, and if collateral is disclosed, the name and carrying amount of the collateral.
+
+3.Financial liabilities at fair value through profit or loss-current: defined as when held for trading or is specified initial recognition of financial liabilities measured at fair value through profit or loss.
+
+4.Financial liabilities for hedging-current: A financial liability that is a designated and effective hedging instrument under hedge accounting requirements.
+
+5.Financial liabilities measured at cost-current: defined as with the unlisted equity tools of the link and delivery settled derivatives such equity tools, financial liabilities whose fair value cannot be measured reliably.
+
+6.Contract liability: defined as a business entity's obligation to transfer goods or services to a customer for which the business entity has received or is entitled to receive consideration from the customer under the terms and conditions of a contract.
+
+7.Notes payables: defined as the various notes payable by the business entity.
+
+(1)Notes payables arising from operations shall be separately presented from those not arising from operations.
+
+(2)Notes payable of a material amount to related parties shall be presented individually.
+
+(3)Notes payable with collateral disclosed shall be specified for the name and carrying amount of the collateral.
+
+(4)Notes payable that are used as security and can be recovered for cancellation at the termination of guarantee responsibility may not be presented as current liabilities, but shall be disclosed specified for the nature and amount of the guarantee.
+
+8.Accounts payable: defined as the liabilities occurring due to trade on credit terms purchased of raw materials, goods or services.
+
+(1)Accounts payable arising from operations shall be separately presented from those not arising from operations.
+
+(2)Accounts payable of a material amount to related parties shall be presented individually.
+
+(3)Accounts payable with collateral disclosed shall be specified for the name and carrying amount of the collateral.
+
+9.Other payables: defined as any of the payables that do not belong to the previous categories of payables, such as other salary payables, taxes payables, dividend and bonus payables etc. Dividend and bonus payables whose appropriation method and expected payment date are determined shall be disclosed.
+
+10.Current tax liabilities: defined as the unpaid income tax for the current and prior periods.
+
+11.Advance Receipts: defined as various sums of money received in advance other than contract liability. Advance receipts shall be disclosed separately by major category with special contract items specified.
+
+12.Provisions-current: defined as the uncertain point or amount of current liabilities. A business entity arising from past events has a present obligation, and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and provisions liabilities shall be recognized when a reliable estimate can be made of the amount of the obligation.
+
+13.Other current liabilities: defined as current liabilities that do not belong to the previous twelve categories.
+
+Short-term borrowings, short-term bills payable, notes payable, accounts payable and other payables should be measured at amortized cost. But they may be measured at the transaction amount if the effect of discounting is immaterial.
+
+### Article 26
+
+Non-current liabilities: defined as the non-current liabilities do not belong to the current liabilities. Whether the business entity intends or expects to settle a liability within 12 months after the date of statement of financial position does not affect the classification of the liability as current or non-current. Non-current liabilities shall include the account items as follows:
+
+1.Financial liabilities at fair value through profit or loss-non current.
+
+2.Financial liabilities for hedging-non current.
+
+3.Financial liabilities measured at cost-non current.
+
+4.Bonds payable: defined as bonds issued by the business entity.
+
+(1)Premiums and discounts on bonds payable are valuation items of bonds payable. They shall be presented as an addition to or deduction from bonds payable, and shall also be amortized, as an adjustment to interest expenses, using the effective interest method during the period of bond circulation.
+
+(2)For issued bonds, the total approved amount, interest rate, maturity date, name of collateral, carrying amount, issuing area, and other relevant terms and restrictions shall be disclosed.
+
+5.Long-term borrowings: defined as the loans payable whose repayment deadlines are exceeds one year.
+
+(1)Measured at amortized cost.
+
+(2)The content, maturity date, interest rate, name of the collateral, carrying amount and other covenants of shall be specified. Where the repayment of long-term loans payable is denominated at a foreign currency or is based on a foreign currency exchange rate, the name and amount of the foreign currency shall be specified.
+
+(3)Long-term borrowings from owners, employees or related persons shall be separately disclosed.
+
+6.Long-term notes and accounts payable: defined as the notes payables, accounts payables, etc. whose payment deadline exceeds one year. Long-term notes payable and other long-term accounts payables shall be measured at its amortized cost.
+
+7.Provisions-non current: defined as the liabilities of uncertain timing or amount.
+
+8.Deferred tax liabilities: defined as the amounts of income taxes payable in future periods in respect of taxable temporary differences.
+
+9.Other non-current liabilities: defined as other non-current liabilities that do not belong to the previous eight categories.
+
+### Article 27
+
+Capital (or share capital): defined as the capital brought into the business entity by the owner and registered with a competent authority; however it does not include preferred share of liability nature; the items that shall be disclosed in the notes are as follows:
+
+1.The kinds of capital, face value per share, number of shares authorized, number of shares issued and special conditions shall be specified.
+
+2.Various class of share capital: the rights, preferences and restrictions.
+
+3.The number of treasury shares held by the entity or by its subsidiaries and associates.
+
+### Article 28
+
+Capital surplus: defined as equity arising through company’s trading of equity.
+
+Capital surplus shall be specified according to its nature.
+
+### Article 29
+
+Retained earnings (or accumulated deficit): defined as the equity resulting from business operations, including account items as follows:
+
+1.Legal reserve: defined as the reserve appropriated from earnings according to Company Law or other related regulations.
+
+2.Special reserve: defined as the reserve appropriated from earnings according to regulations or the resolution of earnings distribution for the purpose of restricting the distribution of earnings as dividends or bonus.
+
+3.Undistributed earnings (or deficit to be offset): defined as the earnings that have not been appropriated (or the deficit has not been offset).
+
+The appropriation of retained earnings (or the offsetting of deficit) shall only be recorded in the book with the consent of the business owner or a mutual resolution among the stockholders. Proposals for the appropriation of earnings (or the offsetting of deficit) shall be specified in the notes to the current period financial statements.
+
+### Article 30
+
+Other equity: defined as the items causing the increase or decrease of equity, including account items as follows:
+
+1.Unrealized valuation gains and loss from financial assets measured at fair value through other comprehensive income: the valuation gains and losses produced by financial assets measured at fair value through other comprehensive income measured at fair value.
+
+2.Gains and loss on hedging instruments: defined as the effective portion of unrealized gains and loss on hedging instruments.
+
+3.Gains and loss on the exchange differences resulting from translating the financial statements in foreign operations: defined as the exchange differences resulting from translating the financial statements of a foreign operation and the monetary items of net investment in a foreign operation.
+
+4.Unrealized revaluation surplus: defined as the unrealized revaluation surplus arising under asset revaluation according to law.
+
+### Article 31
+
+Treasury shares: defined as the shares once issued, later reacquired and still not resold or cancelled by the company. Treasury shares shall be accounted for using the cost method and presented as a deduction from equity. The number of shares shall be noted.
+
+### Article 32
+
+The categories of account items in the statement of comprehensive income are as follows:
+
+1.Operating revenue.
+
+2.Operating costs.
+
+3.Operating expenses.
+
+4.Non-operating income and expenses.
+
+5.Tax expense (benefit).
+
+6.Profit (loss) of continued operations.
+
+7.Profit (loss) of discontinued operations.
+
+8.Profit (loss) for the period.
+
+9.Other comprehensive income.
+
+10.Total comprehensive income.
+
+### Article 33
+
+Operating revenue: defined as the revenue earned from the transfer of goods or services in the current period.
+
+### Article 34
+
+Operating costs: defined as the costs that are attributable to the transfer of goods or services to customers in the current period.
+
+### Article 35
+
+Operating expenses: defined as the expenses that are attributable to the transfer of goods or services to customers in the current period; operating costs and expenses that cannot be separately presented may be merged into operating expenses.
+
+### Article 36
+
+Non-operating income and expenses: defined as the revenues and expenses which do not arise from usual operating activities in the current period; include interest income, rental income, royalty income, dividend income, interest expense, gains (losses) on financial assets (liabilities) at fair value through profit or loss, gains (losses) from investments for using equity method, gains (losses) on foreign exchange, gains (losses) on disposals of investment, gains (losses) on disposal property, plant and equipment, gains on reversal of impairment loss.
+
+Interest revenues and expenses shall be presented separately. Gains (losses) on financial assets (liabilities) at fair value through profit or loss, gains (losses) from investments for using equity method, gains (losses) on foreign exchange, gains (losses) on disposals of investment may be presented at the respective net amount.
+
+### Article 37
+
+Tax expense (tax benefit): defined as the aggregate amount included in the determination of profit or loss for the period in respect of current tax and deferred tax.
+
+### Article 38
+
+Profit (loss) of discontinued operations : defined as the post-tax profit or loss of discontinued operations and the post-tax gain or loss recognized on the measurement to fair value less costs to sell or on the disposal of the assets or disposal group(s) constituting the discontinued operation.
+
+### Article 39
+
+Profit (loss): defined as the current period’s profit (or loss).
+
+### Article 40
+
+Other comprehensive income: defined as the changes of the equity in the current period, including unrealized valuation gains and loss from financial assets measured at fair value through other comprehensive income, gains and loss on hedging instruments, gains and loss on exchange differences on translation of foreign financial statements, unrealized revaluation surplus.
+
+### Article 41
+
+Total comprehensive income: defined as the components of the profit (or loss) for the period and other comprehensive income.
+
+### Article 42
+
+The statement of changes in equity: defined as the changes in the items of the equity. The item categories and contents are as follows:
+
+1.The beginning balance, the changes of the items and the amount during the current period, and the ending balance of the share capital must be indicated.
+
+2.The beginning balance, the changes of the items and the amount during the current period, and the ending balance of the capital surplus must be indicated.
+
+3.Retained earnings (or accumulated deficit).
+
+(1)The beginning balance.
+
+(2)Effects of retrospective application and retrospective restatement (net post-tax amount)
+
+(3)Net profit (or loss) for the period.
+
+(4)The appropriation of legal reserves and special reserves, distribution of dividends, etc.
+
+(5)The ending balance.
+
+4.The beginning balance, the changes of the items and the amount during the current period, and the ending balance of each item of the other equity must be indicated.
+
+5.The beginning balance, the changes of the items and the amount during the current period, and the ending balance of the treasury shares must be indicated.
+
+### Article 43
+
+The statement of cash flows: defined as the information about the changes in cash and cash equivalents of the business entity for a reporting period, showing separately changes from operating activities, investing activities and financing activities.
+
+### Article 44
+
+The following events after the reporting period that occur between the date of statement of financial position and the date when the financial statements are authorized for issue shall be disclosed:
+
+1.Changes in capital structure.
+
+2.Significant long- or short-term borrowings.
+
+3.Additions, expansion, construction, leasing, abandonment, idleness, sale, collateralization, transfer or long-term renting of major assets.
+
+4.Significant changes in productive capacity.
+
+5.Significant changes in production and sales policies.
+
+6.Major investments in other businesses.
+
+7.Losses on catastrophic disasters.
+
+8.The proceeding or settlement of important lawsuits.
+
+9.The signing, fulfillment, cancellation or voiding of important contracts.
+
+10.Important organizational adjustments and significant reforms in management systems.
+
+11.Significant effects resulting from changes in government regulations.
+
+12.All other important events and measures that will affect the financial position, results of operations and cash flows in the future.
+
+## Chapter 5 Appendix
+
+### Article 45
+
+These Regulations shall be enforced from January 1, 2016. However, a business entity may voluntarily adopt the Regulations starting January 1, 2014.
+
+Except that Article 2 and Article 17 have been enforced starting January 1, 2018, amendments to the Regulations promulgated on December 10, 2018, shall be enforced starting January 1, 2019.
+
+Amendments to the Regulations promulgated on September 16,2021, shall be enforced starting January 1,2023.
+
+Amendments to the Regulations promulgated on July 3, 2026, shall be enforced starting January 1, 2028. However, a business entity may voluntarily adopt the Regulations starting January 1, 2026.
+
+## History
+
+1.Drafted and promulgated by Order Ching (62) Shang Tze No. 05694 on March 12, 1966.
+
+2.Amended and promulgated by Order Ching (62) Shang Tze No. 05694 on March 5, 1973.
+
+3.The entire 43 articles were amended and promulgated by Order Ching (85) Shang Tze No. 85213206 on August 28, 1996.
+
+4.Amended and promulgated by Order Ching (90) Shang Tze No. 0902188540 on September 12, 2000.
+
+5.Amended and promulgated by Order Ching (90) Shang Tze No. 09002269250 on December 26, 2001.
+
+6.Article 34-1 was added by Order No. 09102054180 on April 17, 2002.
+
+7.Amended by Order No. 09502431220 on November 30, 2006.
+
+8.Amended by Order No. 10302430520 on November 19, 2014.
+
+9.Amended by Order No. 10702425960 on December 10, 2018.
+
+10.Amended by Order No. 11002426940 on September 16,2021.
+
+11.Amended by Order No. 11568001020 on July 3,2026.

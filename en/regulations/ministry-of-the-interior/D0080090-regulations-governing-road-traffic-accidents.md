@@ -1,0 +1,211 @@
+---
+title: "Regulations Governing Road Traffic Accidents"
+title_zh: "道路交通事故處理辦法（92.09.24  訂定）"
+identifier: "D0080090"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-09-24
+last_amended: 2024-02-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080090"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Road Traffic Accidents
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080090-regulations-governing-road-traffic-accidents.md](../../../zh/regulations/ministry-of-the-interior/D0080090-regulations-governing-road-traffic-accidents.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted pursuant to the fifth paragraph of Article 92 of the Road Traffic Management and Penalty Act (the “Act”).
+
+## Article 2
+
+The terms used in the Regulations are defined as follows:
+
+\1. A road traffic accident: an accident that involves one or more vehicles, motor-powered machines, mass rapid transit system vehicles being used on a road and leads to an injury or death of a person or damage to the vehicles or property thereof.
+
+\2. A major road traffic accident: a road traffic accident that meets one of the following conditions:
+
+(1)Three or more deaths, the injury and death inflicted on ten or more persons, or the injury sustained by 15 or more persons.
+
+(2) An explosion, the burning of hazardous materials, or the leakage of toxic liquid (gas), radioactive substances during road transport.
+
+(3) Hit-and-run accidents causing significant property loss or having a severe impact on traffic safety and order, which catch public attention and need public assistance in the provision of evidence or leads.
+
+## Article 3
+
+The driver or perpetrator shall first undertake the following measures if a traffic accident occurs:
+
+\1. If the accident took place in a vehicle lane or road shoulder warning signs or other clear warning facilities shall be put up at a proper distance. Such signs or facilities shall be removed immediately after the accident scene is removed.
+
+\2. In case of injury, aid shall be provided swiftly and the fire authority shall be notified as soon as possible.
+
+\3. Any fire shall be extinguished swiftly to prevent aggravation of the disaster and the fire authority shall be notified as soon as possible.
+
+\4. No vehicles involved in the accident or traces/evidence at the scene shall be moved. However, if there is no personal injury/death and if the vehicle can be driven, or if there is personal injury and all parties agree to move the vehicles, the locations of the vehicles and the traces/evidence at the scene shall first be drawn before moving the vehicles to a location that does not interfere with the traffic.
+
+\5. Notify the police authority and cooperate in necessary investigations, unless nobody was injured or killed and all the parties involved in the accident reach a settlement on site.
+
+The drawing and marking of the locations of the traces/evidence left at the scene described in subparagraph 4 of the preceding paragraph that may be recorded by a camera or a video camera if nobody was injured or killed and the vehicles are still drivable.
+
+## Article 4
+
+The proper distance under subparagraph 1 of the preceding article is listed as follows:
+
+\1. Freeway: 100 meters behind the location of the accident.
+
+\2. Highway or road section with maximum speed limit over 60 km/hr: 80 meters behind the location of the accident.
+
+\3. Road section with maximum speed limit between 50 and 60 km/hr: 50 meters behind the location of the accident.
+
+\4. Road section with maximum speed limit below 50 km/hr: 30 meters behind the location of the accident.
+
+\5. Road section with heavy traffic or with hourly speed below 10 kilometers: 5 meters behind the location of the accident.
+
+In the event of any subparagraph of the preceding paragraph, if the level of visibility is low due to rain/fog, the proper distance shall be increased. In case of two-way or multiple-way traffic, additional signs/facilities shall be placed in proper locations preceding the accident or in the vicinity.
+
+## Article 5
+
+The vehicle owner shall provide statements or information related to the driver of the vehicle at the stipulated date and time if receives an investigational notice by the police authority about a hit-and-run incident.
+
+## Article 6
+
+Having been notified a traffic accident, the fire authority shall send rescue personnel to the location of the accident immediately to provide emergency care to injured patients, and escort the injured to the closest hospital or clinic for treatment as soon as possible.
+
+## Article 7
+
+Hospitals and clinics shall provide treatment to patients injured by traffic accidents without refusal. If the patient needs to be transferred, proper emergency care shall first be provided.
+
+When a hospital or clinic treats patients injured by traffic accidents, the names, national identification numbers, addresses and telephones of the person escorting the injured and of the injured shall be registered.
+
+## Article 8
+
+Traffic accidents shall be handled by the police authority, except the following conditions:
+
+\1. An accident involving a military vehicle shall be handled by the military police authority, with the assistance of the police authority.
+
+\2. An accident involving a military vehicle on a freeway shall be handled by the National Highway Police Bureau of the National Police Agency of the Ministry of the Interior as soon as possible, with a notice to the military police. The case shall then be transferred to the military police for further handling under its jurisdiction.
+
+\3. An accident involving a member of the military or a military vehicle shall be handled by both the police authority and the military police authority. However, either authority whose personnel arrives on site first shall handle the accident first. The case shall then be transferred to such authority under its jurisdiction.
+
+## Article 9
+
+Having been notified a traffic accident, the police authority shall undertake the following measures swiftly depending on the situation:
+
+\1. Record the time of reporting of the case, verify the identity of the person reporting the case, the time and place of the accident, status of injury and death, rescue measures, and a summary description of the accident.
+
+\2. Send personnel to the site of the accident swiftly to provide reporting contact related to the rescue, support and consultation.
+
+\3. Inform the fire authority as soon as possible to escort the injured to the closest hospital or clinic for treatment. Inform family members.
+
+\4. Put up clear signs at a proper distance from the site of the accident to warn vehicles passing by. Put up warning objects in the vicinity to secure the site.
+
+\5. Exercise proper control to alleviate traffic congestion on the road. Exercise control to prevent the public from stopping and watching the accident, except relevant personnel participating in the rescue. Block the traffic if necessary.
+
+\6. When the site of the accident needs to be changed, the status of the people, vehicles and objects shall be drawn up and video recorded before relocation.
+
+\7. After site inspection and evidence collection, move the corpses to a proper location and covered them. Notify family members and a prosecutor for inspection.
+
+\8. Work with relevant personnel on site to collect luggage and properties of the injured or the deceased. Seal and keep them in temporary custody, followed by a notice to the family members to retrieve.
+
+\9. If no inspection, expert examination or verification on any vehicles involved in the accident is required, vehicles shall be handled by the driver or the owner. If the driver or the owner does not or cannot relocate the vehicle immediately, causing traffic obstruction, the police authority may relocate the vehicle. To relocate a mass rapid transit system vehicle, a notice may be given to the operating authority.
+
+Upon discovery of any person that may suffer from physical or mental disability on the location of the accident, the police authority shall give immediate notice to the local social administration authority for assistance.
+
+In handling a traffic accident involving any vehicle transporting hazardous object, the police authority shall first ascertain the type of hazardous object and exercise proper control on site. An immediate notice shall be given to the competent authority of the relevant industry, the operator and the fire authority as soon as possible for further handling on site.
+
+Upon occurrence of a major traffic accident, the police authority handling the accident shall swiftly report to the National Police Agency of the Ministry of the Interior, the Taiwan Transportation Safety Board (the “TTSB”), the Traffic Safety Committee of the Ministry of Transportation and Communications, and the local motor vehicle authority, and provide necessary assistance to on-site investigators of the TTSB.
+
+## Article 10
+
+The police authority shall engage in detailed exploration, evidence collection, and enquiry of related parties on the site of traffic accident and shall perform an analysis and study based on such conditions:
+
+\1. Location and direction of the accident, traffic status, and status of the environment in the vicinity.
+
+\2. All traces on road surface and fallen objects caused by the accident.
+
+\3. Physical and mental status of the driver, traces of damages to persons and vehicles, level of damage and status of attached objects.
+
+\4. Positions and shapes of the persons and vehicles in the accident.
+
+\5. Movements of the persons and vehicles during the accident and each related location.
+
+\6. Evidence that is related to the accident and was recorded by scientific instruments such as monitors, vehicle traveling data recorders, or other legal methods.
+
+The exploration and evidence collection under each subparagraph of the preceding paragraph shall be possibly done through statements on site by the parties to the accident and witnesses. Records shall be prepared through site drawings, sketches, and video recordings. An investigation report of traffic accidents shall be completed in detail. Statements by the parties to the accident and witnesses shall be taken through records or minutes. The scene drawing or sketch may be photographed or video recorded by using scientific instrument.
+
+The parties to the accident who are unable or unsuitable to be interviewed for investigation records on the spot shall contact the response unit for an interview within seven days after the accident occurs or the cause of accident disappear.
+
+If the statements given by the parties require further verification, the police authority may notify the owners of the vehicle, parties to the accident or related persons to give their accounts again at the police department.
+
+## Article 11
+
+After exploration and evidence collection on the site of the accident are completed, the police authority shall give notice to the relevant department to clean up the site, remove control measures and restore traffic.
+
+The police authority shall maintain the integrity of accident scene after a major traffic accident or a probable major traffic accident occurs. If any of the following situations is likely to occur, the police authority shall conduct necessary clean-up of the scene after consulting with the investigator designated by the TTSB to be responsible for the investigation:
+
+\1. The wreckage may have a significant impact on the smooth flow and safety of traffic;
+
+\2. The wreckage may sustain further damage;
+
+\3. It may cause a second disaster;
+
+\4. It may cause harm to other people;
+
+\5. It may pollute the environment.
+
+## Article 12
+
+If the marks on the vehicle, information recorded in the traveling data recorders, or other mechanical parts of the vehicle involved in the accident requires further inspection, expert examination or verification, the police authority may seize them in temporary custody. The period shall not exceed 3 months.
+
+A receipt shall be given for any vehicle seized under the preceding paragraph, recording in detail the license plate number or engine number, type and model of vehicle and the cause for seizure . After the cause for seizure ceases to exist, an immediate notice shall be given to the owner of the vehicle to retrieve the vehicle before a deadline. If the vehicle is not retrieve in time or if the owner of the vehicle cannot be identified, the vehicle shall be handled by the seizure authority in accordance with Article 85-3 of the Act.
+
+When a mass rapid transit system vehicle is seized, a notice may be given to the operating authority for further handling.
+
+When a mechanical component of a vehicle involved in the accident is damaged, which will endanger the operating safety, the use of the vehicle shall be prohibited.
+
+## Article 13
+
+The parties or related parties in a traffic accident may apply to the police authority for the viewing or provision of relevant information:
+
+\1. On the site of the accident, an application may be filed for the provision of a registered list of the parties to the traffic accident.
+
+\2. 7 days after the accident, an application may be filed for the reviewing or provision of drawings or photographs on site.
+
+\3. 30 days after the accident, an application may be filed for the provision of initial analysis of the traffic accident.
+
+The viewing of information under the preceding paragraph shall be done in the office of the police authority. No information shall be brought away, altered, added or deleted. The police authority may provide photographs on site in the form of duplicate or backup copies.
+
+The applicant shall bear the cost of the provision of information.
+
+## Article 14
+
+In case of traffic accident involving motor-powered machines or mass rapid transit system vehicles, the driver or the owner shall proceed in accordance with the Regulations.
+
+## Article 15
+
+The Regulations shall become effective on July 1 2006.
+
+Amended articles of the Regulations shall become effective on the date of promulgation.
+
+## History
+
+\1. Enacted and issued by Order Tai-Nei-Ching-Tzu No. 0920076134 of the Ministry of the Interior , No. 092B000074 of the Ministry of Transportation and Communications and No.0920214545 of the Executive House Department of Health on Sep. 24, 2003
+
+\2. Amend by Order Tai-Nei-Ching-Tzu No.0950870849 of the Ministry of the Interior , No. 0950085041 of the Ministry of Transportation and Communications and No.0950212824 of the Executive House Department of Health on Jul. 10, 2006
+
+\3. Amend by Order Tai-Nei-Ching-Tzu No.10308706081 of the Ministry of the Interior , No. 10300085691 of the Ministry of Transportation and Communications and No.1031662335 of the Ministry of Health and Welfare on May. 5, 2014
+
+\4. Amend by Order Tai-Nei-Ching-Tzu No.1040872808 of the Ministry of the Interior , No. 10400319901 of the Ministry of Transportation and Communications and No.1041668124 of the Ministry of Health and Welfare on Nov. 11, 2015
+
+\5. Amend by Order Tai-Nei-Ching-Tzu No. 1090873683 of the Ministry of the Interior , No. 10900355891 of the Ministry of Transportation and Communications and No. 1090044501 of the Ministry of Health and Welfare on Feb. 22, 2021
+
+\6. Amend by Order Tai-Nei-Ching-Tzu No. 1110871525 of the Ministry of the Interior , No. 11100130451 of the Ministry of Transportation and Communications and No. 1110015155 of the Ministry of Health and Welfare on Jul. 7, 2022
+
+\7. Amend by Order Tai-Nei-Ching-Tzu No. 1120873225 of the Ministry of the Interior , No. 11200347311 of the Ministry of Transportation and Communications and No. 1121672241 of the Ministry of Health and Welfare on Feb. 17, 2024

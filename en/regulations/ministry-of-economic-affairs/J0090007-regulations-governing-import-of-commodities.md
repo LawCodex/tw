@@ -1,0 +1,175 @@
+---
+title: "Regulations Governing Import of Commodities"
+title_zh: "貨品輸入管理辦法"
+identifier: "J0090007"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞國際貿易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-07-14
+last_amended: 2023-12-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0090007"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Import of Commodities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0090007-regulations-governing-import-of-commodities.md](../../../zh/regulations/ministry-of-economic-affairs/J0090007-regulations-governing-import-of-commodities.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are enacted pursuant to Paragraph 2 of Article 15 of the Foreign Trade Act (hereinafter referred to as "the Act").
+
+### Article 2
+
+Regarding these regulations of the competent authority of the Ministry of Economic Affairs (hereinafter referred to as MOEA), such affairs shall be implemented by the International Trade Administration (hereafter referred to as TITA), MOEA.
+
+### Article 3
+
+The term "licensing" as used herein means issuance of import permits by TITA or any organization authorized by it. The term "exemption of licensing" as used herein means exemption of an import permit.
+
+### Article 4
+
+The term "a firm" as used herein means an exporter/importer duly registered with TITA under the "Regulations Governing Registration of Exporters and Importers".
+
+### Article 5
+
+In respect to intellectual property rights affiliated with commodities, rules governing import of trademarks rights, patent rights, copyrights, and any other intellectual property rights protected by the laws enacted and the scope of such commodities shall be published by TITA after consultation with the relevant authorities.
+
+## Chapter II Import Regulations
+
+### Article 6
+
+Regarding the following commodities, which are restricted for import under this Act, TITA shall compile a“List of Commodities Subject to Import Restriction” according to the import regulations and commodity name list as hereby announced:
+
+1.Commodities manufactured in specific countries or territories to be designated under Article 5 of the Act.
+
+2.Commodities for which necessary measures need to be taken to restrict import thereof in accordance with Article 6 of the Act.
+
+3.Commodities of which import is restricted in accordance with the proviso of Article 11 of the Act.
+
+\4. Importation of endangered species of wild fauna and flora, and products thereof in accordance with Article 13-1 of the Act.
+
+5.Commodities for which an import quota system is enforced in accordance with Article 16 of the Act.
+
+6.Commodities of which import is restricted due to import relief in accordance with Article 18 of the Act.
+
+Import of commodities included on the “List of Commodities Subject to Import Restriction” shall be filed in accordance with the regulations prescribed in the said List. Those commodities that do not comply with import regulations and have not been given special approval by TITA shall not be permitted for import.
+
+### Article 7
+
+Where a firm, government agency, government operated enterprise and a public or private school imports commodities not included on the list of commodities subject to import restriction, licensing shall be exempted.
+
+### Article 8
+
+In respect of commodities for which licensing is exempted but whose import is regulated subject to other laws or regulations, TITA may, to the extent that examination of import commodities can be performed by the customs, compile and publish a list of commodities assisted by the customs for import examination, listing the nomenclatures of and the import regulations applicable to such commodities.
+
+For import of commodities listed in the above said list of commodities entrusted to the customs for import examination, the applicable import regulations listed on the said list shall be followed when an import application is filed with the customs.
+
+### Article 9
+
+Where a person, other than a firm, a government agency, a government operated enterprise, and a public or private school, who is not a professional importer, imports commodities subject to Article 10 of the Act, he/she shall apply for import licensing; however, subject to any of the following circumstances, import licensing shall be exempted:
+
+\1. Baggages and articles of which the quantities and values are within the limits set by customs brought in by passengers and crews of vessels and aircraft.
+
+\2. Duty free articles for official and/or personal use imported by embassies/consulates of various countries in the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu, international organizations, and diplomatic organizations stationed in this country against the duty-exemption application forms issued by Ministry of Foreign Affairs.
+
+\3. Commodities which are not included on the list of commodities subject to import restriction but are imported by other importers through marine shipment, airfreight, or parcel post, at an FOB price less than US$20,000 or its equivalent.
+
+\4. Articles for humanitarian relief.
+
+\5. Other articles approved by TITA.
+
+For import of the above licensing-exemption commodities, if they are included on the list prescribed in Article 6 or 8 hereof, regulations set forth on the list shall be complied with when import application is filed with the customs, unless there are other special regulations applicable.
+
+Specific commodities for which import licensing is applied for by an importer mentioned in Paragraph 1 of this Article, shall be limited to those imported for personal use by the importer, unless special approval is obtained from TITA.
+
+### Article 10
+
+If an importer imports any commodity on the list of commodities subject to import restriction in a small quantity for own use or as gift, the customs may release it by assessing a duty thereon with consideration of the circumstances and in accordance with the applicable regulations listed in the said list; and in such case import licensing may be exempted. However, if special provisions are otherwise provided in other laws and regulations in force, such special provisions shall be followed.
+
+### Article 11
+
+To satisfy the requirement of trade administration, TITA may designate items of commodities to be imported on which country of origin shall be marked or for which certificates of country of origin shall be submitted for examination at the time of filing import applications with the customs.
+
+## Chapter III Regulations Governing Licensing
+
+### Article 12
+
+Applicants for an import permit to import commodities can apply for an electronic permit with TITA. However, in cases stipulated in the proviso of paragraph 1 of Article 4 of the Regulations Governing Electronic Licensing for the Export and Import of Commodities, applications shall be made in writing.
+
+Applicants that apply for an import permit in writing shall prepare and submit the following documents:
+
+\1. An import permit application form completed in full.
+
+\2. Any other documentation as stipulated by other relevant regulations.
+
+The formats for the import permit and the import permit application form shall be designed by TITA.
+
+### Article 13
+
+An import permit shall be valid for six(6) months from the day of licensing. For import of specific commodities or import of commodities from specific areas, import permits of shorter validity may be issued. For special import cases which have been approved by the MOEA or TITA, import permits of longer validity may be issued.
+
+If the applicant foresees that the commodities for import cannot be shipped within the prescribed validity period of an import permit, the applicant may apply for an import permit of longer validity by explaining reasons and submitting evidential documents.
+
+### Article 14
+
+Imported commodities shall be shipped from the port of embarkation before the expiry of the validity of an import permit. The date of B/L shall be considered the shipment date; if there is any doubt about the B/L date, customs may investigate and determine the shipment date.
+
+### Article 15
+
+In case shipment of imported commodities cannot be made from the port of embarkation within the validity period of an import permit, the applicant may apply for an extension within one(1) month before the expiry of the validity. Each extension shall not exceed a period of six(6) months, and no more than two(2) extensions may be made. For TITA designated commodities of which shipment must be made within the validity of the import permit, extension is not allowed.
+
+### Article 16
+
+In respect to amending the contents of an import permit, the applicant may submit, before expiry of the validity of the import permit, an application for amendment together with the original import permit and relevant evidential documents for amendment. Except for change of registration already approved, no change of applicant name for an import permit may be made.
+
+If part of the commodities covered by an import permit has been declared with the customs, no application for amendment of the contents on the import permit is allowed, except for application for extension of the validity period of the import permit in accordance with the regulations of the preceding Article.
+
+### Article 17
+
+For extension or amendment to an import permit, relevant import regulations in force at the time of application for extension or amendment shall apply
+
+### Article 18
+
+No expired import permits shall be used to import commodities.
+
+## Chapter IV Supplemental Provisions
+
+### Article 19
+
+For commodities of which import is subject to legal inspection or quarantine, relevant inspection and/or quarantine regulations shall apply.
+
+### Article 20
+
+TITA may, based on the administrative requirements for trading activities, publish other rules or regulations governing importation in accordance with these Regulations.
+
+### Article 21
+
+These Regulations shall be come into force from the date of promulgation.
+
+## History
+
+1.Promulgated on July 14, 1993
+
+2.Amended on March 22, 1995
+
+3.Amended on July 30, 1997
+
+4.Amended on August 9, 2000
+
+5.Amended on December 11, 2002
+
+6.Amended on July 2, 2003
+
+7.Amended on April 6, 2005
+
+8.Amended on July 8, 2010
+
+9.Amendment of the full text for 21 Articles promulgated on December 26, 2023

@@ -1,0 +1,337 @@
+---
+title: "Enforcement Rules of the Nationality Act"
+title_zh: "國籍法施行細則"
+identifier: "D0030022"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞戶政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-02-01
+last_amended: 2024-11-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0030022"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Nationality Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0030022-enforcement-rules-of-the-nationality-act.md](../../../zh/regulations/ministry-of-the-interior/D0030022-enforcement-rules-of-the-nationality-act.md)) is authoritative.
+
+## Article 1
+
+These Rules are enacted in accordance with Article 22 of the Nationality Act (hereinafter referred to as ”this Act”).
+
+## Article 2
+
+Applications for naturalization, or for loss, restoration of nationality, or revocation of loss of nationality, according to this Act, shall be made by the applicant in person or by the applicant’s legal representative.
+
+Applications for naturalization, or for loss, restoration of nationality, or revocation of loss of nationality shall be filed with the local household registration office, and then transferred to the municipal or county (city) government for the approval of the Ministry of the Interior (hereinafter referred to as the MOI).
+
+To apply for loss of nationality or revocation of loss of nationality, an applicant who resides in a foreign country may file an application with an embassy, consulate, representative office, or branch office (hereinafter referred to as an Overseas Mission) of the Republic of China (hereinafter referred to as the R.O.C.) or the agency or private group set up, designated or commissioned by the Executive Yuan in Hong Kong and Macao. The application shall then be transferred through the Ministry of Foreign Affairs (hereinafter referred to as the MOFA) to the MOI for approval.
+
+Under circumstances prescribed in the Proviso of Subparagraph 1 of Article 12 of this Act, an application for loss of nationality shall be filed with an Overseas Mission or the agency or private group set up, designated or commissioned by the Executive Yuan in Hong Kong and Macao, and then transferred through MOFA to the MOI for approval.
+
+Where an application is filed incorrectly or the required documents have not been submitted in full but the matter can be rectified, a time limit shall be set within which the applicant must make the necessary corrections. In cases where the applicant fails to fulfill the required corrections within the time limit, the application shall be rejected.
+
+When necessary, the MOI may commission any other related government agency to conduct the activities prescribed in the preceding Paragraph.
+
+## Article 3
+
+In this Act, a "stateless person" is a person who is not recognized as the citizen of any country according to the laws of that country.
+
+The following persons may be recognized as stateless:
+
+\1. A person who holds travel documents issued by a foreign government that prescribe that he/she is stateless.
+
+\2. A stateless person from Thailand, Myanmar, Indonesia, India or Nepal who conforms with the provisions of Paragraph 2 to Paragraph 4 of Article 16 of the Immigration Act, and who holds an Alien Resident Certificate prescribing the holder as stateless.
+
+\3. Other persons recognized by the MOI.
+
+## Article 4
+
+A foreign national or stateless person who has domicile in the territory of the Republic of China as referred to in Article 3 to Article 5 and Article 15 of this Act refers to a person who resides in the territory of the R.O.C. with the intention to reside for a long period and holds an Alien Resident Certificate or Alien Permanent Resident Certificate.
+
+## Article 5
+
+The calculation of the duration of legal stay in the R.O.C. as prescribed in Article 3 to Article 5 of this Act shall include the duration of legal stay as permitted by the Alien Resident Certificate or Alien Permanent Resident Certificate acquired before this Act was amended and enforced on 9 February 2000.
+
+Under any of the following circumstances, the duration of stay shall not be included in the calculation of the legal stay period as defined in the preceding Paragraph:
+
+\1. Where the applicant is permitted by the Ministry of Labor to engage in work prescribed in Subparagraph 8 to Subparagraph 10 of Paragraph 1 of Article 46 of the Employment Service Act.
+
+\2. Where the applicant comes to Taiwan for schooling.
+
+\3. Where the Applicant is under exit restrictions by the National Immigration Agency of the MOI as requested by competent authorities.
+
+\4. Where an applicant has lost the nationality of his/her country of origin, has not acquired the nationality of the R.O.C., and is waiting for nationality restoration of his/her country of origin.
+
+\5. Where an applicant has a labor dispute, which has been under litigation proceedings.
+
+\6. Where an applicant suffers an occupational disaster and requires medical treatment.
+
+\7. Where the applicant is the victim or witness of a criminal case.
+
+\8. Where the applicant is a dependent of persons referred to in the preceding seven Subparagraphs.
+
+## Article 6
+
+The annual legal residence for more than 183 days in total for more than 5, 3 or 2 consecutive years as referred to in Articles 3 and 4 of this Act shall mean that the residence period of such 5, 3 or 2 years prior to the application for naturalization shall be consecutive, as well as that the applicant has legally resided for more than 183 days in total every year during such period. Nevertheless, any residence overstay does not conform to the requirement of legal residence, which results in the interruption of such residence period. If the overstay period does not exceed 30 days, the residence period shall be deemed not to have been interrupted.
+
+The overstaying period as mentioned in the preceding paragraph shall not be calculated into the legal residence of the 183 days.
+
+The consecutive residence of more than 5 or 10 years as referred to in Article 5 of this Act shall mean the consecutive residence of more than 5 or 10 years before the application for naturalization.
+
+## Article 7
+
+A person who possesses sufficient property or professional skills sufficient to enable him/her to be self-reliant as prescribed in Subparagraph 4 of Paragraph 1 of Article 3 of this Act is as prescribed below:
+
+\1. A person who applies for restoration of nationality or naturalization in accordance with Subparagraph 2 and 3 of Paragraph 1 of Article 4 of this Act shall prepare one of the following documents recognized by the MOI:
+
+(1) Proof of domestic income, tax payment, personal property, or real estate ownership in the territory of the R.O.C..
+
+(2) Proof of employment by the employer or self-written description of the applicant’s job content and income.
+
+(3) Certificate of a specific professional, and/or technical skill or document of technical assessment issued by a competent authority of the government.
+
+(4) Other documents that can prove the applicant is able to be self-reliant.
+
+\2. A person who applies for naturalization under circumstances other than those prescribed in the preceding Subparagraph shall conform to at least one of the following provisions:
+
+(1) Earn an average monthly income within the R.O.C. over the past year more than double the basic wage as promulgated by the Ministry of Labor.
+
+(2) Own personal or real property, worth more than NT$5 million.
+
+(3) Possess a specific professional/technical skill certificate or document of technical assessment issued by a competent authority of the government.
+
+(4) Serve as a skilled employee in demand by high-tech industries in the R.O.C. as prescribed in Subparagraph 2 of Paragraph 3 of Article 25 of the Immigration Act, and is thus granted permission to reside permanently in the R.O.C..
+
+(5) Meet other requirements as recognized by the MOI.
+
+Documents referred in Item 1 of Subparagraph 1 and Item 2, Item 4 of Subparagraph 2 of the preceding Paragraph shall include the applicant and his/her related personnel as follows who has household registration in the R.O.C. but do not receive living subsidies:
+
+\1. His/her spouse.
+
+\2. Parent(s) of his/her spouse.
+
+\3. His/her parent(s).
+
+The calculation of the amount listed in Item 1, Item 2 of Subparagraph 2 of Paragraph 1 shall include the income or property of the applicant and his/her related personnel as follows who has household registration in the R.O.C.:
+
+\1. His/her spouse.
+
+\2. Parent(s) of his/her spouse.
+
+\3. His/her parent(s).
+
+The specific professional / technical skill certificate or document of technical assessment issued by a competent authority of the government as stated in Item 3 of Subparagraph 1, and Item 3 of Subparagraph 2 of Paragraph 1 shall include the applicant and related personnel who has household registration in the R.O.C. as follows:
+
+\1. His/her spouse.
+
+\2. Parent(s) of his/her spouse.
+
+\3. His/her parent(s).
+
+As for any of the aforementioned persons who possesses a specific professional/technical skill certificate or document of technical assessment issued by a competent authority of the government as stated in Item 3 of Subparagraph 1 and Item 3 of Subparagraph 2 of Paragraph 1 shall also present a certificate of security which can secure the applicant’s living needs in the R.O.C..
+
+## Article 8
+
+Those who apply for naturalization pursuant to Article 3 to Article 5 or Article 7 of this Act shall fill out an application and submit it with the following documents:
+
+\1. A valid Alien Resident Certificate or Alien Permanent Resident Certificate.
+
+\2. A criminal record issued by the police or other equivalent certificates issued by the government of the applicant’s country of origin. Minors under the age of 14 or who entered the R.O.C. before the age of 14 and had never left are not required to submit such documents.
+
+\3. Documents proving that the applicant possesses sufficient property or professional skills, which enable him or her to be self-reliant. This does not apply to applicants referred to in Subparagraph 1 of Paragraph 1 of Article 4 of this Act, and to the unmarried minors under the age of 18 naturalizing in conjunction with applicants applying pursuant to Paragraph 2 of Article 4 and Article 7 of this Act.
+
+\4. Evidential documents as listed in Paragraph 1 and Paragraph 2 of Article 3 of the Standards for Identification of Basic Language Abilities and Common Sense of National Rights and Duties of Naturalized R.O.C. Citizens. This does not apply to unmarried minors under the age of 18 naturalizing in conjunction with applicants applying pursuant to Paragraph 2 of Article 4 and to Article 7 of this Act.
+
+\5. An unmarried minor under the age of 18 is required to submit a letter of consent from his or her legal representative and a certificate describing his or her marital status. This does not apply if the Ministry of Foreign Affairs confirms that due to operations of the law or administrative restrictions in the applicant’s country of origin the marital status certificate cannot be obtained.
+
+\6. Other identity certificates as needed.
+
+For naturalization applications filed under Subparagraph 2 of Paragraph 1 of Article 4 of this Act, in addition to submitting documents required in the preceding Paragraphs, one of the following documents shall also be submitted:
+
+\1. Documents proving that the applicant has divorced an R.O.C. national due to domestic violence and has not since remarried.
+
+\2. Documents proving that the applicant still has a relationship with his/her deceased spouse’s relatives and has not remarried. However, under circumstances prescribed in the Proviso of Subparagraph 2 of Paragraph 1 of Article 4 of this Act, the applicant is exempt from submitting such documents proving the relationship.
+
+For those who apply for naturalization pursuant to Subparagraph 3 of Paragraph 1 of Article 4 of this Act, in addition to submitting documents required by Paragraph 1, one of the following documents is also required to be submitted. This does not apply to those who exercise and assume the rights and obligations to their minor children and are the persons applying for household registration as defined by the Household Registration Act:
+
+\1. Document proving child-supporting fact.
+
+\2. Document proving meeting and association.
+
+All documents referred to in the three proceeding subparagraphs shall be examined first by the municipal or county (city) government and transferred to the MOI along with the applicant’s residence data, entry and exit date record, criminal record, household registration record as checked by the household registration office in relation to the applicant’s marriage, adoption, custody, assistantship or exercise and assumption of rights and obligations to minor children. Criminal records for minors under the age of 14 are exempt from examination.
+
+The documents required in Subparagraph 6 of Paragraph 1 refers to either one of the following:
+
+\1. Certificates of marriage, adoption, custody, assistantship declaration or exercise and assumption of rights and obligations to minor children for those who cannot provide household registration record.
+
+\2. A birth certificate or other certificate proving the applicant’s parent-child relationship.
+
+## Article 9
+
+For the spouse of an R.O.C. national that applies for naturalization pursuant to Article 3 to Article 5 of this Act, if the reason for residence as recorded on the Alien Resident Certificate is to reside with relatives, the applicant need not submit a criminal record as stated in Subparagraph 2 of Paragraph 1 of the preceding Article.
+
+For the spouse of an R.O.C. national that applies for naturalization pursuant to Article 3 and Article 5 of this Act and his or her marital relationship with the R.O.C. national has lasted for more than three years, he or she is exempt from having to submit a certificate as required in Subparagraph 3 of Paragraph 1 of the preceding Article.
+
+For those who already acquired an Alien Permanent Resident Certificate, their naturalization applications need not include a certificate stated in Subparagraph 3 of Paragraph 1 of the preceding Article.
+
+For those who apply for naturalization pursuant to Article 3 to Article 5 of this Act, the income, personal property or real estate documents referred to in Subparagraph 3 of Paragraph 1 of the preceding Article shall be verified by household registration offices.
+
+For those who apply for naturalization pursuant to Article 3 to Article 5 of this Act who had certificates required by Subparagraph 4 of the proceeding Article submitted and registered into the Nationality Administration Database of the Registration Information System, they are not required to submit again.
+
+## Article 10
+
+Those who apply for naturalization pursuant to Article 6 of this Act shall fill out an application and attach the following documents:
+
+\1. A certificate of merits.
+
+\2. Other identity certificates.
+
+## Article 11
+
+Foreign nationals who have applied for naturalization but are not able to submit loss of original nationality certificate within the time limit required by Paragraph 1 of Article 9 of this Act may apply for an extension at least 30 days prior to the deadline along with relevant documents proving he/she has applied to the country of origin for loss of nationality.
+
+## Article 12
+
+A person who applies for loss of nationality in accordance with Article 11 of this Act shall submit an application form enclosed with the following documents:
+
+\1. A certificate of R.O.C. nationality.
+
+\2. A certificate proving that no tax or tax-related fine is due.
+
+\3. A letter of consent from a legal representative for a minor applicant.
+
+\4. A declaration letter confirming assistantship from an assistant provider.
+
+\5. A certificate of completion of military service, decommissioning, retirement or service exemption for a male of service age.
+
+\6. Other identity certificates.
+
+Upon receipt of such application referred to in the preceding Paragraph, the household registration office shall check the criminal record and household registration data of such applicant. Minors under 14 years of age or those who never had household registration in the R.O.C. can be exempt from a criminal record check.
+
+The certificate defined in Subparagraph 1 of Paragraph 1 refers to any of the following documents:
+
+\1. Household registration record.
+
+\2. National ID Card.
+
+\3. Passports.
+
+\4. Nationality Certificate.
+
+\5. Overseas Compatriot Registry Certificate.
+
+\6. Overseas Compatriot Identity Certificate, but does not include a certificate issued by the Overseas Compatriot Affairs Commission after the applicant submits a certificate of Chinese descent.
+
+\7. The R.O.C. nationality certificate of one of the applicant’s parents and the applicant’s birth certificate.
+
+\8. Certificate of naturalization.
+
+\9. Other certificates recognized by the MOI.
+
+The documents required by Subparagraph 6 of Paragraph 1 refers to one of the following documents:
+
+\1. Those who are not able to submit a household registration record shall submit the certificates of marriage, adoption, custody, assistantship declaration or exercise and assumption of rights and obligations to minors.
+
+2.For an R.O.C. (Taiwan) national residing overseas as defined in the Proviso of Subparagraph 1 of Article 12 of this Act, an identity document from the residing country shall separately be submitted. Records of entry and exit dates and relocation of foreign household registration shall be verified by the MOI.
+
+## Article 13
+
+An R.O.C.(Taiwan) national residing overseas who had emigrated from the R.O.C. on or before 31 December of the year when he/she turns 15 years old as referred to in the Proviso of Subparagraph 1 of Article 12 of this Act is a person who going abroad on or before 31 December of the year when he/she turns 15 years old, and whose date of emigration abroad has recorded in the household registration records.
+
+## Article 14
+
+A person who applies for revocation of loss of nationality in accordance with Article 14 of this Act shall submit an application form enclosed with the following documents:
+
+\1. A Certificate of Permitted Loss of Nationality;
+
+\2. Related documents proving the rejection or agreed withdrawal of attempted acquisition of foreign nationality, or other documents proving the applicant has not acquired the nationality of that country;
+
+\3. A minor shall submit a letter of consent from his/her legal representative.
+
+The fact that the applicant has failed to acquire foreign nationality as referred to in Subparagraph 2 of the preceding Paragraph shall be verified by MOFA when it is deemed necessary by the MOI.
+
+## Article 15
+
+A person who applies for restoration of nationality in accordance with Paragraph 1 of Article 15 or Article 16 of this Act shall submit an application form enclosed with the following documents:
+
+\1. A valid Alien Resident Certificate or Alien Permanent Resident Certificate.
+
+\2. A criminal record issued by the police or other equivalent certificates issued by the government of the applicant’s country of origin. Minors under the age of 14 years or who entered the R.O.C. before the age of 14 and had never left or applicants who are the spouse of an R.O.C. national whose reason for residence as recorded on the Alien Resident Certificate is to reside with relatives, need not submit a criminal record.
+
+\3. Documents proving that the applicant possesses sufficient property or professional skills, which enable him or her to be self-reliant. A minor who applies for restoration of nationality in conjunction with the applicant or those who have acquired alien permanent resident certificate are not required to submit the documents.
+
+\4. A minor shall submit a letter of consent from his/her legal representative.
+
+\5. Other relevant identity certificates.
+
+Upon receipt of such applications in the preceding Paragraph, the household registration office shall check the criminal and household registration records of such applicants covering the period of such applicant’s residence in the R.O.C.. Minors under 14 years of age are exempt from the check of criminal record.
+
+For those who apply for restoration of nationality pursuant to Paragraph 1 of Article 15 of this Act, the proof of income, personal property or real estate referred to in Subparagraph 3 of Paragraph 1 shall be verified by household registration offices.
+
+## Article 16
+
+A person who applies for naturalization, or loss or restoration of nationality in accordance with this Act, and obtains permission, shall be issued with an approval certificate of naturalization, or of loss or restoration of nationality by the MOI.
+
+## Article 17
+
+In the event that a certificate for naturalization, loss, or restoration of nationality is damaged or lost, a person may submit an application form enclosed with the following documents and apply for a replacement copy or re-issuance of the certificate. When a person is unable to apply in person, he or she may authorize another person in writing to 15 apply on his or her behalf
+
+\1. A certificate of damage or loss of certificate. This Subparagraph does not apply to applicants who apply for re-issuance of certificates.
+
+\2. Related identity certificates.
+
+\3. Minor applicants shall attach a letter of consent from their legal representative.
+
+Applications filed in the preceding Paragraph shall be submitted to any local household registration office to be transferred to the MOI by the municipal or county (city) government, or directly to the MOI for replacement or re-issuance. An applicant residing overseas may submit his/her application to an overseas mission of the R.O.C., or the agency or private group set up, designated, or commissioned by the Executive Yuan in Hong Kong and Macao for transfer to the MOI through MOFA. However, in the event that an application for revocation of a certificate of loss of nationality as per Article 14 is filled concurrently with an application for replacement or re-issuance of the certificate, no replacement or re-issuance is required.
+
+In the event that the identity certificate referred to in Subparagraph 2 of Paragraph 1 is the household registration record, it shall be verified by the household registration authority.
+
+## Article 18
+
+If the documents required in accordance with these Rules are produced or verified by a foreign embassy, consulate or authorized representative agency stationed in the R.O.C., verification by MOFA is required. If they are produced abroad, verification/certification by an Overseas Mission, as well as re-verified by MOFA, will also be required. A review by MOFA may be waived if the application has been filed with a Mission Abroad in accordance with Paragraph 3 or Paragraph 4 of Article 2 for approval by the MOI on behalf of MOFA.
+
+If the documents referred to in the preceding Paragraph are in a foreign language, the Chinese translation of the documents, verified by MOFA and Overseas Mission and re-verified by MOFA or a public notary in the R.O.C., shall also be submitted.
+
+## Article 19
+
+The competent authorities as referred to in Paragraph 1 of Article 20 of this Act refer to those organizations that have the authority to employ the said civil servant.
+
+An R.O.C. national, having acquired a foreign nationality in accordance with Paragraph 1 of Article 20 of this Act, shall be prohibited from holding public office in the R.O.C.. This provision shall also apply to any foreigner who has acquired R.O.C. nationality without losing his/her original foreign nationality.
+
+Those who hold public office prescribed in the Proviso of Paragraph 1 and Paragraph 2 of Article 20 shall be subject to the recognition of the competent authorities.
+
+## Article 20
+
+These Enforcement Rules shall come into force from the date of their promulgation.
+
+Article 8 of these Enforcement Rules amended and promulgated on May 12, 2021 shall come into force on January 1, 2023.
+
+## History
+
+1.Adopted and promulgated on February 1, 2001, by Tai(90)-Nei-Hu-Zi No.9068204 Order of the Ministry of the Interior
+
+2.Amended and promulgated on April 8, 2004, by Tai-Nei-Hu-Zi No.0930004575 Order of the Ministry of the Interior
+
+3.Articles 8 and 10 amended and promulgated on December 30, 2005, by Tai-Nei-Hu-Zi No.0940071434 Order of the Ministry of the Interior
+
+4.Partial articles amended and promulgated on February 14, 2008, by Tai-Nei-Hu-Zi No.0970026017 Order of the Ministry of the Interior
+
+5.Article 7 amended and promulgated on November 14, 2008, by Tai-Nei-Hu-Zi No.0970184578 Order of the Ministry of the Interior
+
+6.Partial articles amended and promulgated on December 30, 2009, by Tai-Nei-Hu-Zi No.0980234924 Order of the Ministry of the Interior
+
+7.Articles 7 and 16 amended and promulgated on April 29, 2010, by Tai-Nei-Hu-Zi No. 0990082147 Order of the Ministry of the Interior
+
+8.Article 8 amended and promulgated on December 30, 2014, by Tai-Nei-Hu-Zi No. 1031201951 Order of the Ministry of the Interior
+
+9.Amended and promulgated on June 8, 2017 by Tai-Nei-Hu-Zi No. 1061201171 Order of the Ministry of the Interior
+
+10.Articles 8, 17, and 20 amended and promulgated on May 12, 2021 by Tai-Nei-Hu-Zi No. 1100242072 Order of the Ministry of the Interior
+
+11.Articles 6 amended and promulgated on November 19, 2024 by Tai-Nei-Hu-Zi No. 1130244626 Order of the Ministry of the Interior

@@ -1,0 +1,213 @@
+---
+title: "Regulations Governing the Implementation of the Epidemiological Surveillance and Advance-Alert System for Communicable Diseases"
+title_zh: "傳染病流行疫情監視及預警系統實施辦法"
+identifier: "L0050006"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞疾病管制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-05-10
+last_amended: 2025-05-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050006"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Implementation of the Epidemiological Surveillance and Advance-Alert System for Communicable Diseases
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0050006-regulations-governing-the-implementation-of-the-epidemiological-surveillance.md](../../../zh/regulations/ministry-of-health-and-welfare/L0050006-regulations-governing-the-implementation-of-the-epidemiological-surveillance.md)) is authoritative.
+
+## Article 1
+
+This set of Regulations is formulated in accordance with regulations of Article 26 of the Communicable Disease Control Act (hereafter referred to as the Act).
+
+## Article 2
+
+The central competent authority shall establish an epidemiological surveillance and advance-alert system for communicable diseases, and implement the following matters:
+
+\1. Formulate definitions for reporting of communicable diseases and manuals for the prevention and control of communicable diseases for the communicable diseases specified under Article 3 of the Act.
+
+\2. Establish nationwide surveillance and advance-alert systems for various communicable diseases and the collection and analysis of information for reporting; establish laboratory systems and computer network systems; and return the analyzed information to the reporting organizations and local competent authorities.
+
+\3. Supervise local competent authorities to implement relevant matters regulated in the Regulations; and support them in handling epidemic situations when necessary.
+
+\4. Other matters related to the epidemiological surveillance and advance-alert of communicable diseases.
+
+For all matters regulated in the Regulations, the central competent authority shall commission its subordinate Centers for Disease Control or relevant organizations (institutions) and groups for implementation.
+
+\1. Formulate definitions for reporting of communicable diseases and manuals for the prevention and control of communicable diseases.
+
+\2. Establish nationwide communicable diseases surveillance and advance-alert systems.
+
+\3. Supervise local competent authorities to implement relevant matters regulated in the Regulations.
+
+## Article 3
+
+The Epidemiological Surveillance and Advance-Alert System for Communicable Diseases contains the following categories:
+
+\1. National Notifiable surveillance and advance-alert system;
+
+\2. Laboratory surveillance and advance-alert system;
+
+\3. Sentinel medical institution surveillance and advance-alert system;
+
+\4. School-based surveillance and advance-alert system;
+
+\5. Nosocomial infection surveillance and advance-alert system;
+
+\6. General public surveillance and advance-alert system;
+
+\7. Disease control material surveillance and advance-alert system;
+
+\8. Populous institution surveillance and advance-alert system;
+
+\9. Symptom surveillance and advance-alert system;
+
+\10. Real-time outbreak disease surveillance and advance-alert system;
+
+\11. Other surveillance and advance-alert system of communicable diseases.
+
+## Article 4
+
+Matters to be implemented by the communicable disease surveillance and advance-alert system shall be:
+
+\1. Upon detection of communicable diseases or suspected communicable diseases, physicians shall report to the local competent authorities by the regulated deadline.
+
+\2. Upon detection of communicable diseases or suspected communicable diseases in the examination of human remains, forensic physicians shall report to the local competent authorities by the regulated deadline.
+
+\3. Medical personnel other than physicians, upon detection of communicable diseases or suspected communicable diseases, shall, by the regulated deadline, report to physicians or report to the local competent authorities.
+
+\4. When reporting to the local competent authorities in accordance with the preceding three subparagraphs, a Communicable and Emerging Infectious Disease Report Form shall be filled out or keyed into the information system designated by the central competent authority.
+
+\5. The local competent authorities, upon receipt of the reports mentioned in subparagraph 1 through subparagraph 3 shall immediately transfer the reports and epidemiological investigation information to the central competent authority via computer networks.
+
+\6. Medical institutions shall establish a nosocomial infection control unit or designate a full-time person to assist the reporting by physicians. Physicians, upon reporting to the local competent authorities, shall also inform the nosocomial infection unit or the full-time person.
+
+## Article 5
+
+(deleted)
+
+## Article 6
+
+Matters to be implemented by the laboratory surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate medical institutions equipped with clinical laboratories, laboratories of health bureaus (stations) or research institutions to periodically report specific pathogens and their laboratory tests results as specified in details in the attached table. When necessary, laboratories shall provide designated clinical specimens or pathogen isolates for surveillance and epidemiological investigations.
+
+\2. The central competent authority shall conduct surveillance of epidemic conditions depend on actual needs.
+
+## Article 7
+
+Matters to be implemented by the sentinel medical institution surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate communicable diseases or symptoms that require surveillance and designate medical institutions to participate in surveillance activities and periodically report relevant information depend on actual needs.
+
+\2. The central competent authority shall conduct surveillance of epidemic conditions based on the results of the report of the above subparagraph.
+
+## Article 8
+
+Matters to be implemented by the school-based surveillance and advance-alert system shall be:
+
+\1. The central competent authority may, as necessary, designate communicable diseases or symptoms that require surveillance and designate schools voluntarily participating in the system to periodically report relevant information or may collect relevant surveillance data on communicable diseases as a means of implementing the system.
+
+\2. The central competent authority shall conduct epidemic surveillance based on the results of the reports specified in the above subparagraph.
+
+## Article 9
+
+Matters to be implemented by the nosocomial infection surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate hospitals to periodically report information on nosocomial infection and results of drug sensitivity testing for nosocomial infections depend on actual needs.
+
+\2. The central competent authority shall conduct surveillance of epidemic conditions based on the results of the report of the above subparagraph.
+
+## Article 10
+
+Matters to be implemented by the general public surveillance and advance-alert system shall be:
+
+\1. Persons specified in Article 41 and Article 43 of the Act or the general public of the community may, upon detection of cases of communicable diseases, human remains suspected to have died of communicable diseases, or cases of suspected herd infections, actively inform by telephones, the Internet, e-mails, communicable disease report for inbound passengers and others, the central competent authority or local competent authorities.
+
+\2. The central competent authority or the local competent authorities shall set up a 24-hour communication channel for reporting; the channels shall be universally publicized and kept open.
+
+## Article 11
+
+Matters to be implemented by the disease control material surveillance and advance-alert system shall be:
+
+\1. The competent economics authorities shall grasp the sales on market of materials relevant to disease control, and periodically provide the central competent authority with such information.
+
+\2. Local competent authorities shall designate full time personnel to monitor the consumption of disease control materials in district and above hospitals in their localities.
+
+\3. Upon detection of any unusual consumption of disease control materials in hospitals, local competent authorities shall dispatch personnel for investigation, and actively report findings to the central competent authority.
+
+\4. Upon detection of any unusual consumption of disease control materials, the central competent authority may ask local competent authorities and relevant organizations (institutions) for assistance in the investigation of the reasons.
+
+## Article 12
+
+Matters to be implemented by the populous institution surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate nursing institutions, nursing care institutions, long-term care institutions, placement (education) institutions, correction facilities or other similar facilities to report surveillance data of designated communicable diseases or symptoms according to relevant regulations.
+
+\2. Local competent authorities shall conduct surveillance of epidemic conditions based on results of the reports of the preceding subparagraph.
+
+## Article 13
+
+Matters to be implemented by the symptom surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate items of symptoms that require surveillance depend on actual needs.
+
+\2. Local competent authorities, upon detection of suspected cases or aggregated infections of the items of symptoms mentioned in the preceding Subparagraph shall fill out reports of symptoms and report to the central competent authority.
+
+## Article 14
+
+Matters to be implemented by real-time outbreak disease surveillance and advance-alert system shall be:
+
+\1. The central competent authority may designate hospitals to periodically report medical care information of patients under emergency care depend on actual needs.
+
+\2. The central competent authority shall conduct surveillance of epidemic conditions based on results of the reports of the preceding subparagraph.
+
+## Article 15
+
+Local competent authorities may conduct necessary epidemiological investigations on patients contacts of communicable diseases or individuals suspected of being infected; if their specimens are examined by laboratory testing positive of communicable diseases, necessary disease control measures shall be taken, and report to the central competent authority.
+
+## Article 16
+
+Local competent authorities shall publicize relevant regulations of the surveillance and advance-alert systems and their operation in medical institutions, relevant medical groups, nursing institutions, nursing care institutions, long-term care institutions, placement (education) institutions, correction facilities and other similar facilities in their district.
+
+## Article 17
+
+Principle of reporting should be in writing or via internet. If necessary, reports and confirmation may also be made initially by telephones, e-mails and others, then followed by written documents or the Internet.
+
+## Article 18
+
+Competent authorities at various levels may inspect and review the reporting of surveillance data on communicable diseases or symptoms made by medical institutions, nursing institutions, nursing care institutions, long-term care institutions, placement (education) institutions, correction facilities or other similar facilities; such institutions (organizations) and facilities shall cooperate, and shall not refuse, evade or hinder.
+
+For institutions not reporting in accordance with regulations, competent authorities at various levels shall impose penalties on them according to regulations and also supervise them to improve before the deadline.
+
+## Article 19
+
+This set of Regulations shall be implemented on the day of announcement.
+
+## Attachments
+
+- [Appendix：List of Pathogens and Laboratory Test Methods for Laboratory Surveillance and Advance-Alert System.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009155)
+
+## History
+
+1.Formulated and announced in 16 articles by the Department of Health, the Executive Yuan, on May 10, 2001, under Wei-Shu-Chi-Guan Order No. 0900031704
+
+2.Amended the title and 19 articles and announced by the Department of Health, the Executive Yuan on June 25, 2004, under Shu-Shou-Chi Order No. 0930000591 (Original title: Implementation Regulations of Epidemiological Surveillance and Alert Systems for Communicable Diseases)
+
+3.Amended 19 articles and announced by the Department of Health, the Executive Yuan, on January 4, 2008, under Shu-Shou-Chi Order No. 0960001302
+
+4.Amended and promulgate Articles 2, 3, 6, 7; deletion of Articles 5 on August 5, 2013, by the Ministry of Health, the Executive Yuan, under Bu-Shou-Chi Order No. 1020103022
+
+5.Amended and promulgate Appendix of Article 6 on March 23, 2015, by the Ministry of Health, the Executive Yuan, under Bu-Shou-Chi Order No. 1040100221
+
+6.Amended Article 4, Article 12 and Article 18 and announced by the Ministry of Health and Welfare, on July 7, 2016, under Bu-Shou-Chi Order No. 1050100825
+
+7.Amended Appendix of Article 6 and announced by the Ministry of Health and Welfare on September 14, 2020, under Bu-Shou-Chi Order No. 1090101715
+
+8.Amended Article 6 and announced by the Ministry of Health and Welfare on October 5, 2022, under Bu-Shou-Chi Order No. 1110101248
+
+9.Amended Article 8 and announced by the Ministry of Health and Welfare on May 12, 2025, under Wei-Shou-Chi Order No. 1140100446

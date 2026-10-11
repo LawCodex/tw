@@ -1,0 +1,87 @@
+---
+title: "The Regulation Governing the Handling of Investigation Procedures for Drone Occurrence"
+title_zh: "遙控無人機重大飛航事故調查作業處理規則"
+identifier: "K0090086"
+type: regulation
+law_level: "命令"
+category: "行政＞國家運輸安全調查委員會＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-03-04
+last_amended: 2020-03-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090086"
+retrieved: 2026-10-12
+---
+
+# The Regulation Governing the Handling of Investigation Procedures for Drone Occurrence
+
+> Translation. The Chinese text ([zh/regulations/taiwan-transportation-safety-board/K0090086-the-regulation-governing-the-handling-of-investigation-procedures-for-drone.md](../../../zh/regulations/taiwan-transportation-safety-board/K0090086-the-regulation-governing-the-handling-of-investigation-procedures-for-drone.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Article 38 of the Transportation Occurrence Investigation Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. Major Aviation Occurrence: Any occurrence classified as specified within the Scope of Major Transportation Occurrences prescribed pursuant to Paragraph 2, Article 2 of the Act.
+
+\2. Death: A person is fatally injured at the scene as a result of direct contact with any part of the drone, including parts which have become detached from the drone.
+
+\3. Injury: An injury sustained by a person requires hospitalization for more than 48 hours, commencing within 7 days from the date the injury was received.
+
+\4. Substantial Damage: Any damage to a drone that is beyond repair.
+
+\5. Duty Officer: A Taiwan Transportation Safety Board (hereinafter referred to as “TTSB”) investigator assigned to 24-hour shifts responsible for receiving and notifications of reporting major aviation occurrences.
+
+\6. Investigator-in-Charge: An investigator designated by the TTSB in accordance with the Act to lead and manage the investigation of a major aviation occurrence, and to appoint and establish the investigation task force; and direct major relevant investigations.
+
+\7. Investigation Task Force: An ad hoc investigation team established and directed by the Investigator-in-Charge pursuant to the Act to carry out relevant tasks during investigation.
+
+## Article 3
+
+In the event of a major aviation occurrence involving a drone, the owner or the operator of the drone and the relevant government agencies (institutions) shall promptly submit a status report to the TTSB duty officer.
+
+The occurrence of any of the following events warrants a report from the owner or the operator of the drone and the relevant government agencies (institutions):
+
+\1. Death or injury to any person.
+
+\2. Substantial damage to a drone with a maximum takeoff mass exceeding 25 kg.
+
+\3. Any other significant impact on the life or property of any person, or any incident resulting in damages exceeding NT$500,000.
+
+## Article 4
+
+In the event of a major aviation occurrence, the owner or operator of the drone and the relevant government agencies (institutions) shall assist and cooperate with the investigation task force and provide support requested from the Investigator-in-Charge.
+
+## Article 5
+
+The Investigator-in-Charge may permit the clearance of the scene of a major aviation accident in order to prevent injury to the general public and environmental contamination.
+
+## Article 6
+
+In accordance with Article 14 of the Act, the TTSB has priority in taking custody of relevant data and objects. During the course of investigation, the TTSB may return relevant data and objects that are no longer required to the owner of the drone.
+
+After the Final Report is released, the TTSB shall promptly return relevant data and objects, such as drone wreckage, documents and manuals, to the owner of the drone.
+
+If the major aviation occurrence involves death, the TTSB shall not return any relevant data and objects to the owner of the drone until approval is granted by the public prosecutor’s office.
+
+## Article 7
+
+The TTSB may interview the relevant personnel pursuant to Article 18 of the Act. Where the audio recordings, transcripts of interviews, or any restricted documents are subject to Article 21, Article 22 of the Act or any subparagraph under Paragraph 1 of Article 18 of the Freedom of Government Information Law, their public disclosure shall be restricted.
+
+## Article 8
+
+The owner or operator of the drone, as well as any entity or individual under investigation, is entitled to file an application in writing within 15 days of receiving the draft Final Report to present their opinions on the report at a TTSB board meeting.
+
+## Article 9
+
+These Regulations shall become effective as of the date of promulgation
+
+## History
+
+9 clauses established and promulgated on March 4, 2020

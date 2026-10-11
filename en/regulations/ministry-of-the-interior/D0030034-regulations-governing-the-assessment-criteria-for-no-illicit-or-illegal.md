@@ -1,0 +1,101 @@
+---
+title: "Regulations Governing the Assessment Criteria for No Illicit or Illegal Behavior of People Applying for Naturalization"
+title_zh: "歸化國籍無不良素行認定辦法"
+identifier: "D0030034"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞戶政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-10-24
+last_amended: 2022-09-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0030034"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Assessment Criteria for No Illicit or Illegal Behavior of People Applying for Naturalization
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0030034-regulations-governing-the-assessment-criteria-for-no-illicit-or-illegal.md](../../../zh/regulations/ministry-of-the-interior/D0030034-regulations-governing-the-assessment-criteria-for-no-illicit-or-illegal.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Paragraph 2 of Article 3 of the Nationality Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+Illicit or illegal behavior as referred to under Subparagraph 3, Paragraph 1, Article 3 of this Act is defined as any one of the following items:
+
+\1. The applicant is subject to a decision of deferred prosecution or a final judgment of detention, fine, or suspension of sentence due to the commitment of a crime, except for a negligent crime.
+
+\2. The applicant has committed any of the following acts that are in violation of the Social Order Maintenance Act, and is subject to a final decision of detention or fine that has not yet been executed or fully paid:
+
+(1) Carrying harmful instruments, chemical compounds, or other hazardous items without justifiable reasons.
+
+(2) Placing, casting, or launching harmful articles in a way that may jeopardize another person’s body or property.
+
+(3) Heading, controlling, or joining a gang that might undermine social order.
+
+(4) Smoking, sniffing or injecting hallucinogenic drugs other than opiates or narcotic drugs.
+
+(5) Soliciting with the intent to commit prostitution or procure for prostitution in public places or publicly accessible places.
+
+(6) Procuring for prostitution or committing prostitution that is in violation of municipal or county (city) self-government ordinances.
+
+(7) Gathering people with the intent to engage in fighting.
+
+\3. The applicant fails to perform his/her legal duty to furnish maintenance and/or support to his/her spouse or minor children, and is subject to a final judgment of the court, or the applicant fails to perform such legal duty to furnish said maintenance and/or support without a justified reason as evidenced by facts.
+
+\4. The applicant is a habitual domestic violence offender, and is subject to a final judgment of the court, or the applicant is the aforementioned offender as evidenced by facts, except for the fact that the applicant deserves sympathy, or that the applicant conducts such behavior in self-defense, or that the occurrence of such situation shall not be attributable to the applicant.
+
+\5. During the applicant’s period of residence in the Republic of China, he/she has once committed an act of sexual assault, sexual exploitation, sexual bullying, sexual harassment, or stalking and harassment, etc. against children and youths, or has violated the provisions of Paragraph 1, Article 49 of the Protection of Children and Youths Welfare and Rights Act, which has been verified by the competent authority.
+
+## Article 3
+
+If any of the following situations occurs, the applicant may be regarded as having not committed illicit or illegal behavior:
+
+\1. The applicant is subject to a decision of deferred prosecution or a judgment of suspension of sentence, while the period of the decision or judgment has expired and the decision or judgment has not been revoked.
+
+\2. The execution of a fine imposed on the applicant is completed.
+
+\3. More than three years have passed after the execution of a detention imposed on the applicant has been completed.
+
+\4. Where the applicant commits a crime with a maximum principal punishment of imprisonment of six months or less, detention, or a fine, and more than three years have passed after the period of limitation for the execution of such sentence has expired.
+
+\5. The punishment specified in Subparagraph 2 of the preceding Article has been executed or paid, or the period of limitation for the execution of such sentence has expired; or the applicant has committed an act specified in Item 5 or 6 of Subparagraph 2 of the preceding Article where the applicant deserves sympathy or the occurrence of such situation shall not be attributable to the applicant.
+
+\6. The applicant has not conducted any of the behaviors specified in the preceding Article within three years after the behavior specified in Subparagraphs 3 or 4 of the preceding Article.
+
+\7. In terms of violations specified in Subparagraph 5 of the preceding Article, more than three years have elapsed after the fine has been fully paid, the period of limitation for the execution of the sentence has expired, or the violation is not subject to punishment in accordance with the law.
+
+For violations of Subparagraph 5 of the preceding Article, after the payment of a fine has been completed, the statute of limitations has expired, or the punishment has been waived for more than three years according to law. Where the applicant has committed an act specified in Subparagraph 5 of the preceding Article that has constituted a crime, or has intentionally committed a crime under the Chapter on Offences Causing Injury of the Criminal Code against children and youths, which is subject to a decision of deferred prosecution or a final judgment of suspension of sentence or a fine, the applicant may be regarded as having committed no illicit or illegal behavior only when more than three years have passed since the occurrence of the such situation as specified in Subparagraph 1 or Subparagraph 2 of the preceding Paragraph.
+
+## Article 4
+
+The competent authority shall invite experts, scholars, and impartial individuals to determine whether any condition of “without a justified reason as evidenced by facts,” “deserves sympathy,” “for self- defense,” or “not attributable to the applicant” as specified in Subparagraphs 3 and 4 of Article 2 and the latter part of Subparagraph 5 of the preceding Article exists.
+
+## Article 5
+
+If the applicant performs public welfare activities for 240 hours or more in a governmental department or governmental institution, non-departmental public body, community, or any other institution or group that serves the public welfare and attains proof, then the period of three years specified in Subparagraphs 3, 4 and 6 of Article 3 may be reduced to two years.
+
+## Article 6
+
+If the applicant is involved in a criminal case, which is under investigation or trial, the assessment of good moral character shall be carried out after the decision of not to prosecute, or deferred prosecution, or the final judgment is made.
+
+## Article 7
+
+The appropriate competent authority shall convene a meeting at least once every three years and invite experts, scholars, and impartial individuals to review the scope of the good moral character specified in Article 2, and may invite relevant departments (agencies) to attend the meeting and provide their opinions.
+
+There shall be at least 11 to 15 experts, scholars, and impartial individuals invited to the meeting according to the preceding Paragraph, with each gender not less than one-third and the representatives of new immigrant group not less than one-fifth.
+
+## Article 8
+
+These Regulations shall enter into force from the date of issuance.
+
+## History
+
+1.Enacted and promulgated on October 24, 2017, by Tai-Nei-Hu-Zi No. 1061203676 Order of the Ministry of the Interior
+
+2.Amended and promulgated on September 22, 2022 by Tai-Nei-Hu-Zi No. 1110243554 Order of the Ministry of the Interior

@@ -1,0 +1,221 @@
+---
+title: "Regulations Governing Electronic Game Machine and Electronic Game Arcade"
+title_zh: "電子遊戲機及電子遊戲場管理辦法"
+identifier: "J0080059"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞商業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-12-06
+last_amended: 2025-10-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080059"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Electronic Game Machine and Electronic Game Arcade
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0080059-regulations-governing-electronic-game-machine-and-electronic-game-arcade.md](../../../zh/regulations/ministry-of-economic-affairs/J0080059-regulations-governing-electronic-game-machine-and-electronic-game-arcade.md)) is authoritative.
+
+## Article 1
+
+The Regulations Governing Electronic Game Machine and Electronic Game Arcade (hereinafter referred to as the "Regulations") are formulated according to Article 4-3, Article 5-3, Article 6-3 and Article 13 of the Electronic Game Arcade Business Regulation Act.
+
+## Article 2
+
+The classification and classification standards of electronic game machine are as follows: 1.Education category (1)Physical exposure: no physical exposure, contents socially friendly (2)Violence, blood or horrors: no excessive violence, blood or horrors
+
+(3)Rewards to game players: scores only exchangeable for gifts, not to be used for betting
+
+2.Steel ball category
+
+(1)Physical exposure: some physical exposure, contents still socially friendly
+
+(2)Violence, blood or horrors: violence, blood or horrors in contents
+
+(3)Rewards to game players: steel balls as rewards to players who manipulate steel balls 3.Entertainment category
+
+(1)Physical exposure: some physical exposure, contents still socially friendly
+
+(2)Violence, blood or horrors: violence, blood or horrors in contents
+
+(3)Rewards to game players: based on chance, rewards in exchange for gifts or used for betting Article 3
+
+The tasks of the Review Committee for Electronic Game Machine (hereinafter referred to as the "Review Committee")are as follows:
+
+1.The determination of electronic game machine;
+
+2.The review and classification of electronic game machine.
+
+The Convenor of the Review Committee will be served by the staff of Administration of Commerce, appointed by Ministry of Economic Affairs (hereinafter referred to as the "M. O. E. A."). There are 12 to 18 members that neither gender should occupy less than one third of the seats of the committee when composed, each at a tenure of two years and served by scholars, experts, representatives of guilds and associations and the Administration of Commerce concurrently with their regular positions.
+
+## Article 3
+
+The tasks of the Review Committee for Electronic Game Arcade (hereinafter referred to as the
+
+"Review Committee")are as follows:
+
+1.The determination of electronic game arcade;
+
+2.The review and categorization of electronic game arcade.
+
+The Convenor of the Review Committee will be served by the staff of Administration of
+
+Commerce, appointed by Ministry of Economic Affairs (hereinafter referred to as the "M. O. E.
+
+A."). There are 12 to 18 members that neither gender should occupy less than one third of the seats
+
+of the committee when composed, each at a tenure of two years and served by scholars, experts,
+
+representatives of guilds and associations and the Administration of Commerce concurrently with
+
+their regular positions.
+
+## Article 4
+
+The Convenor shall serve as the Chairperson of the Review Committee by convening a regular
+
+meeting each month and ad-hoc meetings when necessary. If the Convenor is unable to chair
+
+meetings, he/she may appoint a member of Review Committee to chair the meetings.
+
+The decision from the Review Committee requires the attendance by at least half of the members
+
+and the agreement by more than half of the attending members.
+
+The committee members should attend the meetings in person.
+
+To execute emergency response measures, the meetings of the Review Committee may be
+
+proceeded via document reviewing or video conferencing.
+
+## Article 5
+
+When applying for the review and classification, the applicants shall ensure the machine complies with the relevant intellectual property laws and regulations; the following documents shall be submitted to the M.O.E.A. in the prescribed format, with all Chinese text in Traditional Chinese:
+
+1.Application form for Electronic Game Machine Reviewing (Appendix 1)
+
+2.Description of the Electronic Game Machine (Appendix 2), four copies
+
+3.Video files showing how to operate the electronic game machine
+
+4.Photocopies of the certificates from manufacturers (e.g. factory registrations, importer/exporter
+
+registration)
+
+\5. Affidavit of Compliance with Intellectual Property  Laws and Regulations for the Electronic Game Machine (Appendix 3).
+
+The 25th of each month is the deadline for applications. Any change in the deadline will be
+
+announced by the M. O. E. A. website.
+
+The M. O. E. A. shall demand rectifications before deadlines for any of the following situations
+
+and will not accept the application if amendments have not been made before deadlines.
+
+1.Qualifications of the applicant not meeting the requirements;
+
+2.Any wrong format or missing documents and data.
+
+## Article 5-1
+
+The Chinese text used for the name, cabinet, operating interface, and game screen of the electronic game machine shall be in Traditional Chinese.
+
+For reviewed and classified electronic game machines, in the event of failing to comply with the preceding paragraph, the competent authority may order that improvement be made by a specified deadline; failing which, the central competent authority may cancel the results of the review and classification.
+
+For electronic game machines reviewed and classified prior to the amendment of these Regulations on October 16, 2025, these newly manufactured or imported from the effective date of the said amendment shall be in Traditional Chinese.
+
+For electronic game machines reviewed, classified, and circulating in the market prior to the amendment of these Regulations on October 16, 2025, improvements shall be completed by the following deadlines; these remaining unimproved after the deadlines shall not be used for business:
+
+\1. Education and non-electronic game machines: September 30, 2028.
+
+\2. Entertainment and steel ball electronic game machines: September 30, 2030.
+
+## Article 6
+
+The Review Committee shall make reviews based on the description of electronic game machines
+
+and the video files showing how to operate the electronic game machines. If necessary, the applicant may be invited to explain to the Committee.
+
+If the Review Committee believes further clarification is in order, the M. O. E. A. shall inform the
+
+applicant to make amends before deadlines. If the applicant fails to rectify the issue, the Review
+
+Committee may decide not to render a review.
+
+The Review Committee may decide not to render a review if there are other issues preventing the
+
+completion of review.
+
+The M. O. E. A. shall inform in writing of the applicant and make public announcements regarding
+
+the results of completed review. The applicant whose applications are not to be reviewed shall also be informed by the M. O. E. A. in writing.
+
+## Article 7
+
+The business premises referred to in Article 5-2 of the Electronic Game Arcade Business
+
+Regulation Act is the premises of the same door plate number.
+
+The business premises of the same door plate number shall be limited to one electronic game
+
+arcade. However, it is possible to apply for different certificates of electronic game
+
+arcades by treating the same door plate number as multiple business premises if the
+
+following conditions occur:
+
+1.The floor area is more than 300 square meters. There are dividing walls, and the external
+
+entrances are independent.
+
+2.Belong to different floors, with independent external entrances.
+
+## Article 8
+
+Electronic game arcade should purchase liability insurance for public accidents
+
+according to the Electronic Game Arcade Business Regulation Act. Each business premise is a
+
+policyholder, with the minimum coverage as follows:
+
+1.Physical injury per person: NT$ 6 million
+
+2.Physical injury per accident: NT$30 million
+
+3.Property loss per accident: NT$3 million
+
+4.Total insurance during the insurance period: NT$ 66 million
+
+The electronic game arcade shall renew the liability insurance policy for public accidents
+
+by adhering to the Electronic Game Arcade Business Regulation Act if the previous policy was
+
+purchased before the Regulations take effect.
+
+## Article 9
+
+The Regulations shall take effect on January 1, 2019.
+
+The amendments to the Regulations shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1：Application Form for Electronic Game Arcade Reviewing.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009300)
+- [Appendix 2：Description of the Electronic Game Arcade.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009301)
+- [Appendix 3：Affidavit of Compliance with Intellectual Property Laws and Regulations for the Electronic Game Machine.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009535)
+
+## History
+
+1.Promulgated by Order Ching Shang Tze No. 10702423150 on December 6, 2018
+
+2.Amended and promulgated by Order Ching Shang Tze No. 10902426250 on October 13, 2020
+
+3.Amended and promulgated by Order Ching Shang Tze No. 11268002790 on December 27, 2023
+
+4.Amended and promulgated by Order Ching Shang Tze No. 11468001210 on June 3 ,2025
+
+5.Amended and promulgated by Order Ching Shang Tze No.11468001640 on October 16 ,2025

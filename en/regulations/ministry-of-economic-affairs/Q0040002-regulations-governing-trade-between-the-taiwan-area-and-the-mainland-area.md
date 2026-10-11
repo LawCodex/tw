@@ -1,0 +1,171 @@
+---
+title: "Regulations Governing Trade between the Taiwan Area and the Mainland Area"
+title_zh: "臺灣地區與大陸地區貿易許可辦法"
+identifier: "Q0040002"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞國際貿易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-04-26
+last_amended: 2024-02-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=Q0040002"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Trade between the Taiwan Area and the Mainland Area
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/Q0040002-regulations-governing-trade-between-the-taiwan-area-and-the-mainland-area.md](../../../zh/regulations/ministry-of-economic-affairs/Q0040002-regulations-governing-trade-between-the-taiwan-area-and-the-mainland-area.md)) is authoritative.
+
+## Article 1
+
+These Regulations are promulgated pursuant to the provisions in paragraph 3 of Article 35 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area.
+
+## Article 2
+
+Individuals, juristic persons, organizations or other institutions in the Taiwan Area who/which are engaged in trading activities between the Taiwan Area and the Mainland Area shall comply with the provisions of these Regulations. With regard to matters that are not provided for in these Regulations, other relevant laws and regulations shall govern.
+
+## Article 3
+
+In accordance with this regulation, the Ministry of Economic Affairs is the competent authority, whose duties are entrusted to the International Trade Administration (hereinafter referred to as "TITA").
+
+## Article 4
+
+The term "trading activities” between the Taiwan Area and the Mainland Area, as used in these Regulations, means the exportation or importation of goods between the Taiwan Area and the Mainland Area, and related matters thereof.
+
+The term "goods" referred to in the preceding paragraph includes exclusive rights for use of trademarks, patent rights, copyrights, and any other intellectual property rights protected by the laws enacted.
+
+Any person who engages in trading activities as set forth in the first paragraph shall obtain an export/import permit, unless otherwise exempted, in accordance with these Regulations and other relevant laws and regulations.
+
+## Article 5
+
+Deleted.
+
+## Article 6
+
+In order to implement due control or administration of the trading activities between the Taiwan Area and the Mainland Area, the competent authority may set up appropriate trade monitoring systems.
+
+## Article 7
+
+Goods originating in the Mainland Area are prohibited for importation to the Taiwan Area except for the following subparagraphs:
+
+\1. The competent authority announces items of goods and the conditions for their importation.
+
+\2. Antiques, cultural works relating to religions, tribal art works, works of folk art, works of art, materials to maintain cultural assets, and commodities for cultural or educational activities in small quantities.
+
+\3. Sample products for exclusive use in research or development.
+
+\4. Items listed as permissible for import pursuant to the Regulations Governing Permission for Importation of Industrial Technology from the Mainland Area.
+
+\5. Animals for use by schools, research institutes and zoos.
+
+\6. Raw materials, parts and components imported by duty-bonded factories for export processing, and goods/articles for reconditioning for export.
+
+\7. Raw materials, parts and components imported by the Technology Industrial Parks or Science Parks for processing for export, and goods/articles for reconditioning for export.
+
+\8. Chinese medicines for medical treatments.
+
+\9. Publications, films, video programs, and broadcasting and television programs as permitted by the Ministry of Culture.
+
+\10. Goods carried in by incoming passengers not exceeding the amount announced by the Customs Administration and approved by the Ministry of Finance.
+
+\11. Goods carried in by crewmembers of vessels or aircrafts in compliance with the relevant requirements.
+
+\12. Fishing catches as a result of the settlement of maritime disputes in the cross strait area.
+
+\13. Other items permitted through special approval by the competent authority.
+
+The conditions for importation of the goods/articles specified in subparagraphs 2, 3, 6 and 13 of the preceding paragraph shall be publicly announced by TITA; whereas the conditions for importation of the goods/articles specified in subparagraph 7 of the preceding paragraph shall be publicly announced by the Bureau of Industrial Parks under the Ministry of Economic Affairs or the National Science and Technology Council.
+
+Goods originating in Mainland Area other than those listed in subparagraph 1 of paragraph 1 of this Article, which include agricultural, fishery, and livestock products that are subject to tariff quotas, cannot be reported for shipment and sale through ports in Taiwan Area. These restrictions, however, do not apply to the following situations:
+
+(1) Transportation by sea or air (excluding sea air combined transport and air sea combined transport);
+
+(2) Export transshipment from an off-shore shipping center.
+
+Goods in violation of the provisions in the preceding paragraph shall be returned to the original point of shipment.
+
+## Article 8
+
+Any goods originating in the Mainland Area, as designated by the competent authority under subparagraph 1, paragraph 1 of the preceding Article, are subject to the following requirements:
+
+\1. Their importation shall not endanger national security;
+
+\2. Their importation shall not have any serious or negative impacts on related industries.
+
+If the competent authority determines that any goods originating in the Mainland Area, as designated in subparagraph 1, paragraph 1 of the preceding Article, conflict with any of the requirements set forth in the preceding paragraph due to changes in existing circumstances or policies, the competent authority shall submit to the Executive Yuan approval to terminate the importation for such goods.
+
+The competent authority and the competent authority of related goods shall regularly review the importation of goods originating in the Mainland Area. Exporters/importers, industrial/commercial associations, relevant agencies, and other organizations may submit their suggested goods of Mainland Area origin for importation, for which procedures shall be publicly announced by the competent authority.
+
+## Article 9
+
+Import permits shall be obtained for goods as specified in subparagraphs 1 through 7, 12 and 13 of paragraph 1 of Article 7 from TITA, unless otherwise specified as follows:
+
+\1. Goods which are publicly announced by the competent authority as exempt from permission.
+
+\2. Goods subject to licensing requirements as specified in subparagraph 1 of paragraph 1 of Article 7, or goods as specified in subparagraphs 3, 4, 7 and 13 of the same paragraph that are imported by firms in the Technology Industrial Parks or Science Parks.
+
+Importation of goods as specified in subparagraph 2 of the preceding paragraph by firms in the Technology Industrial Parks or Science Parks shall obtain permission from the Bureau of Industrial Parks under the Ministry of Economic Affairs or the Science Park Bureau under the National Science and Technology Council.
+
+Importation of Goods listed in subparagraphs 8 through11 of Paragraph 1 of Article 7 requires permission or exemption from the relevant agencies (institutions) in accordance with relevant laws and regulations.
+
+## Article 10
+
+If the competent authority announces terms for importation which require relevant approval documents as prescribed in subparagraph 1 of paragraph 1 of Article 7, the issuance of such documents may be entrusted to other government agencies or private entities.
+
+## Article 11
+
+All import documents related to legitimate importation of goods originating in the Mainland Area shall bear the words "Made in Chinese Mainland," or words of the same meaning in other languages, in the column titled “Country of Origin.” Any marks, stamps, insignias, films or sound recordings representing or containing obvious communist propaganda on such goods, or on any packages thereof, as defined by the competent authority, shall be removed by importers after release by Customs, unless otherwise specified as follows:
+
+\1. Marks, stamps, insignias, films or sound recordings on the goods as specified in subparagraph 2 of paragraph 1 of Article 7 hereof, or on packages thereof;
+
+\2. Marks, stamps, insignias, films or sound recordings on the goods as specified in subparagraph 9 of paragraph 1 of Article 7 hereof with approval of the Ministry of Culture;
+
+\3. Marks, stamps, insignias, films or sound recordings on the goods specified in subparagraphs 10 and 12 of paragraph 1 of Article 7 hereof, or on packages thereof.
+
+Any marks, stamps, insignias, films or sound recordings representing or containing obvious communist propaganda on such goods or on any packages thereof as specified in the preceding paragraph shall be announced by the competent authority on its official website.
+
+Goods originating in the Mainland Area that bear any marks, stamps, insignias, films or sound recordings representing or containing obvious communist propaganda on such goods or on any packages thereof and are announced by the competent authority on its official website, as specified in the preceding paragraph, are prohibited from importation to the Taiwan Area.
+
+## Article 12
+
+All export documents related to exportation to the Mainland Area shall bear the words "Chinese Mainland," or words of the same meaning in other language, in the column titled “Destination.”
+
+If goods are exported to the Mainland Area for further processing, or for the purpose of compensation trade, exporters shall explain the reason(s) in the related export documents.
+
+If exporters prescribed in the preceding paragraph convert their activities for investment in the Mainland Area, they shall obtain permission for such investment from the competent authority in compliance with the Regulations Governing Permission of Investment and Technical Cooperation in the Mainland Area.
+
+## Article 13
+
+These Regulations shall enter into force on the date of promulgation.
+
+## History
+
+\1. Promulgated on April 26, 1993
+
+\2. Amended on July 4, 1994
+
+\3. Amended on May 5, 1995
+
+\4. Amended on October 2, 1996
+
+\5. Amended on March 14, 2001
+
+\6. Amended on September 12, 2001
+
+\7. Amended on October 31, 2001
+
+\8. Amended on November 8, 2001
+
+\9. Amended on February 13, 2002
+
+\10. Amended on April 16, 2003
+
+\11. Amended on December 12, 2008
+
+\12. Amendment to Articles 7, 9, 11 and 12; promulgated on March 16, 2022
+
+\13. Amendment to Articles 3, 7, and 9; promulgated on February 19, 2024

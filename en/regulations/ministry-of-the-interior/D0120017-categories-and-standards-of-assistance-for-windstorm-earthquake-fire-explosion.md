@@ -1,0 +1,165 @@
+---
+title: "Categories and Standards of Assistance for Windstorm, Earthquake, Fire, Explosion and Volcanic Disasters"
+title_zh: "風災震災火災爆炸火山災害救助種類及標準"
+identifier: "D0120017"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞消防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-06-01
+last_amended: 2022-10-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120017"
+retrieved: 2026-10-12
+---
+
+# Categories and Standards of Assistance for Windstorm, Earthquake, Fire, Explosion and Volcanic Disasters
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0120017-categories-and-standards-of-assistance-for-windstorm-earthquake-fire-explosion.md](../../../zh/regulations/ministry-of-the-interior/D0120017-categories-and-standards-of-assistance-for-windstorm-earthquake-fire-explosion.md)) is authoritative.
+
+## Article 1
+
+These Categories and Standards are enacted in accordance with Article 63 of the Disaster Prevention and Protection Act (hereinafter referred to as the Act).
+
+## Article 2
+
+These Categories and Standards shall apply to all ROC citizens, as well as their spouses without Taiwan household registration, foreign nationals, and people from the Chinese Mainland, Hong Kong and Macao who become victims of disasters within the territory of the ROC during their legal residency in Taiwan.
+
+The term "assistance" as used in the Standards refers to people mentioned in previous paragraph who are suffered from severe damage caused by windstorm (including typhoon and tornado), earthquake (including tsunami), fire, explosion or volcanic disasters and such impact on their life. The government therefore issues relief assistance to maintain victim’s basic personal or family living.
+
+## Article 3
+
+The Categories of assistance for the disaster are as follows:
+
+1.Assistance for families of dead victims:
+
+(1) Victims who have lost their lives because of a disaster.
+
+(2) Victims who have been severely injured by a disaster and passed away within 30 days after the disaster.
+
+(3) Victims who are missing because of a disaster and whose deaths are pronounced by the court in accordance with Paragraph 1 of Article 62.
+
+\2. Assistance for families of missing victims: Victims who have gone missing as a result of a disaster.
+
+\3. Assistance for severely injured victims: Victims who have been severely injured by a disaster; or victims who have not been severely injured but in need of hospitalization for emergency medical service and self-bearing expense for the first 15 days (during hospitalization) has reached the amount of aid for severely injured victim.
+
+\4. Assistance for victims needing relocation: Victims whose homes are too damaged by disasters to be inhabitable.
+
+The self-bearing expense mentioned in previous Paragraph of Subparagraph 3 refers to self-bearing expenses prescribed in National Health Insurance Act and expenses outside the benefit scope of National Health Insurance.
+
+## Article 4
+
+Disaster victims whose homes meet one of the following conditions of damage and uninhabitability shall be given the assistance for relocation:
+
+\1. Damage caused by earthquakes:
+
+(1) 50% or more of the home has collapsed.
+
+(2) 50% or more of the roof or floor area has collapsed.
+
+(3) Beams and pillars: The concrete is detached and the reinforcing bars of 20% or more of the beams and pillars are exposed; or the reinforcing bars have broken or become loose and the main reinforcing bars are crooked and the concrete has cracked and become detached, and the beams and pillars of the sunken floors measure 10% or more of the total numbers of beams and pillars.
+
+(4) Walls:
+
+((1)) The primary reinforcing bars in reinforced concrete walls of 15cm or more in thickness have broken or become crooked and the structural walls with broken concrete measure 20% or more of the total length of the structural walls.
+
+((2)) The 8-inch brick walls with over 0.5cm cracks measure 50% or more of the total length of the brick walls.
+
+((3)) Wooden, stone, or mud dwellings with detached or damaged walls and 50% or more of the roof has caved.
+
+(5) The tilt rate of the home achieves one thirtieth or more.
+
+(6) Homes with 50% of the total base area buried under rocks or silt or flooded up to one half of the height of the eaves or 100cm.
+
+(7) Homes with over 5cm or above detachment between the ground-level structure and the foundation and the number of detached pillar bases achieved 20% or more of the total number of pillar bases.
+
+(8) Homes with hollowed or sunken foundations:
+
+((1)) Homes with hollowed pillar bases achieving 20% or more of the total number of pillar bases.
+
+((2)) The tilt rate of the home achieves one fiftieth of more as a result of unevenly sunken foundations.
+
+((3)) Roof, floor, beam and pillar, wall, foundation or life maintenance pipe of home is damaged due to soil liquefaction and such damage is confirmed by the municipality or county (city) government.
+
+((4))Other conditions confirmed by the engineering or construction competent authority.
+
+(9) Other homes with damage confirmed by special municipality or county/city governments as severe and requiring reconstruction to be inhabitable.
+
+\2. Damage caused by disasters other than earthquakes:
+
+(1) Homes with over one third of the roof having collapsed; or the floor or crossbeam of the roof of reinforced concrete house is cracked or damaged because of the disaster and requiring reconstruction to be inhabitable.
+
+(2) Homes with broken or tilted walls or collapsed common walls and requiring reconstruction to be inhabitable.
+
+(3) Other homes with damage confirmed by special municipality or county/city governments as severe and requiring reconstruction to be inhabitable.
+
+The tilt rate described in Item 5 of Subparagraph 1 of the preceding Paragraph is defined as the result from dividing the roof tilt (T) with the building height (H); the home sinking slope described in Item 8-2 of Subparagraph 1 is defined as the result from dividing the ebbing (E) with the building width or length (L).
+
+The term of victims used in Paragraph 1 refers to people who have completed their household registration and lived at the current residence when the disaster takes place; a home is defined as and limited to a residence with sleeping, living, and dining quarters as well as attached kitchen and bathroom.
+
+## Article 5
+
+The disaster relief is paid in cash, and the standards of relief assistance for the disaster are as follows:
+
+\1. Assistance for families of dead victims: NT$200,00 per victim.
+
+\2. Assistance for families of missing victims: NT$200,00 per victim.
+
+\3. Assistance for severely injured victims: NT$100,000 per victim.
+
+\4. Assistance for victims needing relocation: NT$20,000 per person and up to five people actually residing in a home too damaged to be inhabitable.
+
+In the event that a victim originally considered missing is found alive after the aid prescribed in Subparagraph 2 of the preceding paragraph has been issued, the said assistance shall be returned. If a victim originally considered missing is found alive after the death aid has been issued according to Item 3 of Subparagraph 1 of Paragraph 1 of Article 3 and the court has revoked the pronouncement of his or her death, the same principle shall be followed.
+
+## Article 6
+
+If various disasters as defined in this and other standards occur in the same period, the claimant shall select only one relief assistance for the same assistance category. The claimant must not claim the same assistance. Otherwise, the assistance shall be pursued and confiscated.
+
+## Article 7
+
+The qualifications of the claimants relief assistance for the disaster are as follows:
+
+\1. The claimant for the assistance for dead or missing victims shall be decided in accordance with the following priorities:
+
+(1) The spouse;
+
+(2) Lineal descendants by blood;
+
+(3) Parents;
+
+(4) Brothers and sisters;
+
+(5) Grandparents.
+
+\2. Assistance for severely injured victims: The victim only.
+
+\3. Assistance for relocation: The head or a member of the household.
+
+Claimant who intentionally causes death, missing or severe injury of himself (herself) or other people, or damages to his (her) or other people’s home and makes it uninhabitable, the person is not qualify to receive disaster relief assistance. Otherwise, the assistance shall be pursued and confiscated.
+
+## Article 8
+
+The special municipal or county (city) government with jurisdiction over the location of the disaster shall disburse relief assistance for the disaster from a specially set-up budget.
+
+## Article 9
+
+These Categories and Standards shall come into force from the date of promulgation, except Article 2 and Article 4 amended on March 25, 2016, and shall take effect on February 6, 2016.
+
+## History
+
+\1. Promulgated by Order (90) Tai-Nei-Hsiao-Tzu No. 9086643, Ministry of the Interior, Jun 1, 2001.
+
+\2. Promulgated by Order Tai-Nei-Hsiao-Tzu No. 1000820397, Ministry of the Interior, Jan 20, 2011. (original description of these Categories and Standards: Categories and Standards of Assistance for Windstorm, Earthquake, Major Fire and Explosion Disasters)
+
+\3. Promulgated by Order Tai-Nei-Hsiao-Tzu No. 1040820659, Ministry of the Interior, Feb 5, 2015.
+
+\4. Amendment to Article 2, 4 and 9 were promulgated by Order Tai-Nei-Hsiao-Tzu No. 1050821649, Ministry of the Interior, March 25, 2016. All Articles shall come into force from the date of promulgation, except Article 2, 4 and 9 that shall be performed on February 6, 2016.
+
+\5. Amendments to Article 3 and 5 were promulgated by Order Tai-Nei-Hsiao-Tzu No. 1050823181, Ministry of the Interior, September 9, 2016
+
+\6. Amendment to the name and Article 2 were promulgated by Order Tai-Nei-Hsiao-Tzu No. 1070821632, Ministry of the Interior, March 23, 2018. (The original name is “Categories and Standards of Assistance for Windstorm, Earthquake, Fire and Explosion Disasters”,and the new name is “Categories and Standards of Assistance for Windstorm, Earthquake, Fire, Explosion and Volcanic Disasters”)
+
+\7. Amendments to Article 1, 3 and 5 were promulgated by Order Tai-Nei-Hsiao-Tzu No. 1110826202, Ministry of the Interior, October 20, 2022.

@@ -1,0 +1,71 @@
+---
+title: "Regulations Governing the Deposit and Audit of Reserves on Stored Value Funds Received by Specialized Electronic Payment Institutions"
+title_zh: "專營電子支付機構收受儲值款項準備金繳存及查核辦法"
+identifier: "G0430009"
+type: regulation
+law_level: "命令"
+category: "行政＞中央銀行＞業務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-06-24
+last_amended: 2021-06-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0430009"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Deposit and Audit of Reserves on Stored Value Funds Received by Specialized Electronic Payment Institutions
+
+> Translation. The Chinese text ([zh/regulations/central-bank/G0430009-regulations-governing-the-deposit-and-audit-of-reserves-on-stored-value-funds.md](../../../zh/regulations/central-bank/G0430009-regulations-governing-the-deposit-and-audit-of-reserves-on-stored-value-funds.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Article 20 of the Act Governing Electronic Payment Institutions (hereafter referred to as "the Act")
+
+## Article 2
+
+The term "specialized electronic payment institutions" as used in these Regulations refers to institutions that have been approved by the competent authority according to the Act to engage exclusively in businesses under the subparagraphs of Paragraph 1 and Paragraph 2, Article 4 of the Act.
+
+## Article 3
+
+When the amount of stored value funds received by a specialized electronic payment institution exceeds NT$10 billion or its equivalent, the institution shall deposit a reserve for the portion exceeding NT$10 billion.
+
+The stored value funds specified in the preceding paragraph refer to funds defined in Item 2, Subparagraph 9, Article 3 of the Act.
+
+## Article 4
+
+The reserve ratios for the stored value funds referred to in the preceding article shall be the same as the required reserve ratios announced by the Central Bank of the Republic of China (Taiwan) (hereafter referred to as "the Bank") in accordance with the Regulations Governing the Audit and Adjustment of Deposit and Other Liability Reserves of Financial Institutions (hereafter referred to as "the Audit Regulations"); for NTD funds, the reserve ratio shall be the same as that for demand deposits; for foreign currency funds, the reserve ratio shall be the same as that for foreign currency deposits.
+
+## Article 5
+
+The required reserves on stored value funds shall be calculated by first converting the amount of funds into an equivalent of NTD, and multiplying the portion where the daily average of each month exceeds NT$10 billion by the daily weighted average ratio of NTD and foreign currency stored value funds and by the reserve ratios prescribed in the preceding article for NTD and foreign currency funds. The total calculated reserve requirements shall be deposited in NTD.
+
+## Article 6
+
+Foreign currency stored value funds shall be converted into an equivalent of NTD based on the closing spot rates for respective currencies offered by the Bank of Taiwan Co., Ltd. (hereafter referred to as "Bank of Taiwan") on the last business day of the month preceding the reserve calculation period.
+
+## Article 7
+
+The Bank entrusts the Bank of Taiwan to handle the receipt, adjustment, audit, and other matters relating to required reserves on stored value funds.
+
+## Article 8
+
+Institutions required to deposit reserves in accordance with Article 3 shall open an "interbank deposits – reserves account A" and an "interbank deposits – reserves account B" at the Bank of Taiwan, and adjust the balance in the reserves account B within five business days after the end of each reserve maintenance period by submitting the reserve adjustment statements.
+
+## Article 9
+
+Unless otherwise provided by these Regulations, the provisions in Paragraph 3 of Article 6, Subparagraph 2 of Paragraph 1 and Paragraph 2 of Article 7, Articles 9 through 13, Paragraph 1 of Article 14 regarding the carry-over of excess reserves, Paragraph 2 of Article 14, Article 15, and Paragraph 2 of Article 16 of the Audit Regulations shall apply mutatis mutandis to the receipt, adjustment, audit, and other matters relating to required reserves on stored value funds.
+
+## Article 10
+
+These Regulations shall become effective on July 1, 2021.
+
+## History
+
+\1. Promulgated on June 24, 2009
+
+\2. Amended on April 10, 2015
+
+\3. Amended on June 17, 2021；effective from July 1, 2021

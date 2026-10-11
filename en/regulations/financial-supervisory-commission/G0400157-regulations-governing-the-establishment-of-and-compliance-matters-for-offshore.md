@@ -1,0 +1,119 @@
+---
+title: "Regulations Governing the Establishment of and Compliance Matters for Offshore Securities Branches"
+title_zh: "國際證券業務分公司設置及應遵循事項辦法"
+identifier: "G0400157"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-08-08
+last_amended: 2022-06-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400157"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Establishment of and Compliance Matters for Offshore Securities Branches
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400157-regulations-governing-the-establishment-of-and-compliance-matters-for-offshore.md](../../../zh/regulations/financial-supervisory-commission/G0400157-regulations-governing-the-establishment-of-and-compliance-matters-for-offshore.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 22-3, paragraphs 2 and 3 of the Offshore Banking Act.
+
+## Article 2
+
+A securities firm filing an application to establish within the ROC an offshore securities branch under Article 22-3, paragraph 1 of the Act shall meet the following conditions:
+
+\1. It is a securities firm that simultaneously operates the business of brokerage, underwriting, and dealing and, on the financial report for the most recent period audited and attested by CPAs, has net worth that meets the standard set by the Financial Supervisory Commission (FSC). If it is a foreign securities firm that is applying for the establishment of the offshore securities branch, it shall exclusively allocate working capital for its operations in the ROC in an amount no less than the aforesaid standard set by the FSC.
+
+\2. Its financial condition and regulatory capital adequacy ratio meet the standard set by the FSC.
+
+\3. It is in compliance with the law, soundly managed, and at the time of the application has no record of receiving any disciplinary action for any material violation as listed below or has received a disciplinary action but the circumstances resulting in the violation have been materially improved and the improvement is recognized by the FSC or the Central Bank of the Republic of China (Taiwan)(CBC).
+
+A. Within the past 3 years, it has received a statutory administrative fine imposed by the FSC under Article 178-1 of the Securities and Exchange Act at one-half or more of the maximum amount.
+
+B. Within the past 3 months, it has received a warning imposed by the FSC under Article 66, subparagraph 1 of the Securities and Exchange Act.
+
+C. Within the past half year, it has received an order from the FSC to discharge any of its directors, supervisors, or managerial officers, or to remove any of its responsible persons or other relevant personnel.
+
+D. Within the past year, it has been sanctioned by the FSC with suspension of business.
+
+E. Within the past 2 years, it has been sanctioned by the FSC with voidance or revocation of any portion of its business license.
+
+F. Within the past 2 years, it has been sanctioned by the CBC with voidance or revocation of part or all of its license to handle foreign exchange business.
+
+The standards regarding the securities firm's net worth on the financial report for the most recent period audited and attested by CPAs under subparagraph 1 of the preceding paragraph and regarding the regulatory capital adequacy ratio under subparagraph 2 thereof shall be prescribed by the FSC in consultation with the CBC.
+
+## Article 3
+
+A securities firm applying to establish an offshore securities branch shall submit the following statements and documents in its application to the FSC:
+
+\1. Application form and the list of items for which it is applying for permission.
+
+\2. Articles of incorporation or equivalent document.
+
+\3. Business plan:
+
+A. Organizational framework, division of duties, and allocation of software and hardware.
+
+B. All types of business to be operated.
+
+C. Operational procedures or rules for each type of business.
+
+D. Internal control system and risk management mechanisms.
+
+E. Accounting treatment operations system.
+
+F. Documents evidencing the academic qualifications and professional experience of the designated managers.
+
+G. Business development plan and financial projections for the next 3 years,
+
+\4. Board of directors meeting minutes.
+
+\5. Balance sheet and statement of comprehensive income for the most recent period, audited and attested by CPAs.
+
+\6. Permission and certificate of license of the securities firm.
+
+\7. Documents evidencing that the securities firm meets the qualifications and requirements set out in all the subparagraphs of paragraph 1 of Article 2.
+
+\8. Other documents as required by the FSC.
+
+After the FSC accepts the application documents, it will review the application in conjunction with the CBC.
+
+After the securities firm’s application has been reviewed and approved in accordance with the preceding paragraph, the FSC will issue a permit for the establishment of an offshore securities branch and the CBC will issue a certificate of approval for the operation of offshore securities business.
+
+## Article 4
+
+If any of the following circumstances applies to an application for establishment of an offshore securities branch, the FSC may deny permission:
+
+\1. The applicant does not meet the qualifying requirements set out in all the subparagraphs of paragraph 1 of Article 2.
+
+\2. Any misrepresentation or falsehood is found in any content or information in the application documents.
+
+\3. The business plan or the internal control system is not concrete enough, or cannot be implemented effectively.
+
+\4. There is concern that a managerial officer lacks adequate professional ability to soundly and effectively operate the offshore securities branch.
+
+\5. Any other circumstance under which denial of permission is considered necessary to protect the public interest.
+
+If the application documents submitted in accordance with these Regulations are incomplete or contain incomplete information, and the deficiency cannot be fully corrected within a time limit designated by the FSC, the application documents will be returned.
+
+## Article 5
+
+An offshore securities branch shall exclusively allocate a minimum of US$2 million working capital.
+
+The FSC may adjust the minimum amount of the working capital referred to in the preceding paragraph depending on domestic economic and financial circumstances.
+
+## Article 6
+
+These Regulations shall be in force from the date of issuance.
+
+## History
+
+\1. Full text of 6 articles jointly adopted and issued per 8 August 2017 Order No. Financial-Supervisory-Securities-Firms-1060024984 of the Financial Supervisory Commission and Order No. Taiwan-Central-Foreign-XI-1060028930 of the Central Bank of the Republic of China (Taiwan), for enforcement from the date of issuance
+
+\2. Article 2 amended and issued per 22 June 2022 Order No. Financial-Supervisory-Securities-Firms-1110382316 of the Financial Supervisory Commission and Order No. Taiwan-Central-Foreign-XI-1110022129 of the Central Bank of the Republic of China (Taiwan)

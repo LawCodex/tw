@@ -1,0 +1,207 @@
+---
+title: "Enforcement Rules of the Child and Juvenile Welfare and Rights Protection Act"
+title_zh: "兒童及少年福利與權益保障法施行細則"
+identifier: "D0050010"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-06-03
+last_amended: 2020-02-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050010"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Child and Juvenile Welfare and Rights Protection Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050010-enforcement-rules-of-the-child-and-juvenile-welfare-and-rights-protection-act.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050010-enforcement-rules-of-the-child-and-juvenile-welfare-and-rights-protection-act.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are formulated in accordance with Article 117 of the Child and Juvenile Welfare and Rights Protection Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The prevention of legal offenses by the Police Competent Authority, as provided in Article 7, Paragraph 2, and Subparagraph 6 of the Act, shall include the inspection, advice, and restraint of prohibited behaviors by children and juveniles as set forth in Articles 43 and 47 of the Act. The prevention of legal offenses by the Justice Competent Authority described in Article 7, Paragraph 2, Subparagraph 7 of the Act shall include the coordination, communication, and adjustment of prevention strategies to prevent the commission of crimes by children and juveniles.
+
+## Article 3
+
+In addition to colleges, institutes, departments, or divisions at senior high schools or above, the government agencies may entrust the relevant authorities, schools, or organizations with the training and selection of child and juvenile welfare professionals described in Article 11 of the Act.
+
+The frequency for the regular organization of pre-service and in-service training by government agencies, as described in Article 11 of the Act, shall be no less than once per year.
+
+## Article 4
+
+Fines imposed under Article 12, Subparagraph 3 of the Act shall be allocated in full to the promotion of child and juvenile welfare.
+
+## Article 5
+
+The calculation of the seven-day reporting period for the birth of a fetus, as described in Article 14, Paragraph 1 of the Act, shall begin on the day following the birth. The reporting date shall be recorded as either the date of online data transmission or the date shown on the postal stamp. For reports not submitted online or by post, the reporting date shall be the date on which the competent authority receives the reports.
+
+## Article 6
+
+The professionals described in Article 17, Paragraph 2, Subparagraph 1; Article 19, Paragraph 2; and Article 21, Paragraph 2 of the Act refer to social workers, physicians, professional registered nurses, clinical psychologists, counseling psychologists, physical therapists, occupational therapists, speech therapists, hearing specialists, and other related professionals who have passed the corresponding professional or technical examination.
+
+## Article 7
+
+Self-reliance services, as described in Article 23, Paragraph 1, Subparagraphs 7 and 13 of the Act, shall include the following:
+
+\1. Development of the ability to adapt to the community and society, including skills related to career planning, daily self-care, social interaction, and personal financial management.
+
+\2. Provision of vocational training and employment matching services.
+
+\3. Assistance in finding rental properties, signing lease, and obtaining housing-related information.
+
+## Article 8
+
+The term “early intervention,” as used in the Act, shall refer to the necessary treatment, education, counseling, referral, placement, and other services and care provided by a team of social welfare, health, and education professionals tailored to the individual needs of children with development delays under the age of six and their family members.
+
+For children whose conditions show no signs of improvement after early intervention, a disability evaluation shall be conducted in accordance with the applicable provisions of the People with Disabilities Rights Protection Act.
+
+## Article 9
+
+The term “child(ren) with developmental delays,” as used in the Act, shall refer to children with suspected or prognosticated developmental abnormalities in aspects such as cognitive development, physiological development, language and communication development, sociopsychological development, or daily self-care, as certified, following the necessary assessment and confirmation, by a medical institution recognized by the Health Competent Authority.
+
+The interval for re-assessment of children with developmental delays shall be determined by professional physicians in accordance with the specific circumstances of each case.
+
+## Article 10
+
+When assigning placement for a child or juvenile in accordance with Article 23, Paragraph 1, Subparagraph 9; Article 56, Paragraph 1; or Article 62, Paragraph 1 of the Act, the special municipality or county (city) competent authority shall prioritize the following options in the indicated order:
+
+\1. An appropriate relative.
+
+\2. A third party with whom the child or juvenile has a positive, stable, and long-term dependent relationship.
+
+\3. A registered and qualified foster family.
+
+\4. A government-approved child and juvenile placement and care institution.
+
+\5. Other placement institutions.
+
+## Article 10-1
+
+The terms “senior high schools and below,” “senior high schools,” and “high schools and vocational schools” shall include special education schools and five-year junior colleges. However, the provisions of Article 29, Paragraph 2; Article 37, Paragraph 1; and Article 41, Paragraph 1 of the Act shall exclude five-year junior colleges.
+
+## Article 11
+
+Upon discovering any of the circumstances specified in Article 43, Paragraph 1, Subparagraph 1 or 3 of the Act, police agencies, schools, or the special municipality or county (city) competent authorities shall instruct the child(ren) or juvenile(s) to cease such behavior and may, at their discretion, notify the parents, guardians, or persons actually caring for them to strengthen their discipline.
+
+Persons who sell, deliver, or supply items specified in Article 43, Paragraph 1, Subparagraph 1or 3 of the Act shall request identification from the recipient if there is reason to believe the individual is under 18 years of age. They shall refuse to sell, deliver, or supply such items to anyone who fails or refuses to present valid identification.
+
+Violations of Article 43, Paragraph 3 of the Act arising from a business’ inability to verify customers’ age or its lack of an age verification mechanism due to its operating model or method shall be handled in accordance with Article 91, Paragraphs 2 through 4 of the Act.
+
+## Article 12
+
+Persons responsible for businesses specified in Article 47, Paragraph 1 of the Act shall display signage in a clearly visible location near the entrance stating that entry is prohibited to individuals under 18 years of age. They shall also request identification from customers who might be underage, and anyone who fails or refuses to present valid identification shall be refused entry.
+
+After completing the required company or business registration, businesses specified in Article 47, Paragraph 1 of the Act may commence operations only upon demonstrating that their place of business is located at least 200 meters away from preschools, elementary schools, junior/senior high schools, and vocational schools, and after registering the following information with the special municipality or county (city) competent authority for business affairs. The same procedures shall apply when making any of the following amendments:
+
+\1. Address of the place of business.
+
+\2. Business items, as specified in the Act.
+
+\3. Area of the place of business.
+
+Registration of electronic game arcades shall also be carried out in accordance with the procedures set forth in Article 11, Paragraphs 1 and 3 of the Electronic Game Arcade Business Regulation Act.
+
+The supporting documents demonstrating the required distance, as referred to in Paragraph 2, shall require a (cadastral) map covering areas within 200 meters to a prospective place of business based on actual measurements taken in the most recent three-month period by a survey engineer, architect, or other certified professional specializing in survey and measurement. The calculation of the 200-meter distance shall be based on the straight-line distance between the two closest points of building site boundaries.
+
+## Article 13
+
+Children and juveniles requiring special care, as described in Article 51 of the Act, shall refer to those unable to perform daily self-care due to a disease, physical injury, or physical or mental disability.
+
+## Article 14
+
+An “unsuitable person,” as described in Article 51 of the Act, shall refer to any of the following:
+
+\1. A person having no capacity for judicial acts.
+
+\2. A child of or over 7 but under 12 years of age.
+
+\3. A person who, based on tangible facts, has the potential to negatively impact a child’s or juvenile’s physical or mental health and wellbeing.
+
+## Article 15
+
+Requests for visitation under Article 60, Paragraph 3 of the Act shall be submitted in writing. The special municipality or county (city) competent authority shall maintain a record of all such visitation.
+
+## Article 16
+
+The term “social workers” used in Article 61, Paragraph 2 of the Act shall include the following:
+
+\1. Social workers and social work administrators, whether quota-based or contract-based, employed by the special municipality or county (city) competent authority.
+
+\2. Social workers or licensed social workers employed by social welfare organizations or institutions entrusted by the special municipality or county (city) competent authority.
+
+\3. Social workers at a medical care institution.
+
+## Article 17
+
+The recognition of “major family changes” that prevent a child or juvenile from living normally in their family, as described in Article 62, Paragraph 1 of the Act, shall be carried out by the local competent authority where the child or juvenile resides. The authority may consult with other relevant authorities as needed.
+
+## Article 18
+
+The special municipality or county (city) competent authorities shall conduct case investigations and provide counseling and familial services for children and juveniles subject to placement under the Act, as well as for their family members.
+
+When handling a child or juvenile case, the competent local authority shall notify the competent authority of the child’s or juvenile’s domicile or place of household registration to provide the necessary information. If continued assistance, counseling, or protection is deemed necessary, the child or juvenile may be referred to the competent authority of the child’s or juvenile’s place of household registration.
+
+## Article 19
+
+Upon discovering an incompatibility between a child or juvenile subject to placement and their relative, foster family, or placement institution, the special municipality or county (city) competent authority shall intervene to mediate the situation. In the event of maladjustment, the child or juvenile shall be assigned alternative placement.
+
+## Article 20
+
+Case data maintained in accordance with Article 66, Paragraph 1 of the Act shall include the following information:
+
+\1. Overview of the child or juvenile, their family and relations.
+
+\2. Brief description of the case issue(s).
+
+\3. Analysis and assessment of the case.
+
+\4. Evaluation of case treatment results.
+
+\5. Reports of case visitation, investigation, and tracking.
+
+## Article 21
+
+For the purpose of Article 69, Paragraphs 1 through 3 of the Act, “other personally identifiable information” shall include photos, videos, audio recordings, addresses, names of relatives or their relationship to the children and juveniles, schools, classes, and other personal information.
+
+## Article 22
+
+For the purposes of Article 69, Paragraph 2 of the Act, the “circumstances in Subparagraph 3 of the preceding paragraph” shall refer to cases in which a child or juvenile is served by constructive notice as an involved or related party to any such circumstance.
+
+## Article 23
+
+The designated businesses of child and juvenile welfare institutions shall be subject to the guidance and supervision of their respective competent authorities.
+
+## Article 23-1
+
+Qualification certificates, as described in Article 81, Paragraph 6 of the Act, must meet the requirements set forth in the Regulations for Governing Qualifications and Trainings of Professional Personnel of Children and Youth Welfare Institutes.
+
+## Article 23-2
+
+Persons actually caring for children and juveniles, as described in Article 102, Paragraph 1 of the Act, shall include relatives and family members who provide direct care for children and juveniles.
+
+## Article 24
+
+When demanding improvements by a specified deadline under Article 105, 107, or 108 of the Act, the competent authority shall request that the child and juvenile welfare institution submit an improvement plan and shall work with the competent authority for the relevant business to evaluate the implementation of such improvements.
+
+## Article 25
+
+These Enforcement Rules shall come into force on the date of promulgation.
+
+## History
+
+1.Promulgated on June 03, 2004
+
+2.Amended and Promulgated by order Tai-Ne-Tong No. 1010840292 on July 9th, 2012
+
+3.Amended on March 16, 2015
+
+4.Amended on November 11, 2015
+
+5.Amended on February 20, 2020

@@ -1,0 +1,93 @@
+---
+title: "Quarantine Requirements for Transshipment of Plants or Plant Products through Countries or Districts Where Designated Diseases or Pests Are Known to Occur"
+title_zh: "植物或植物產品運輸途中經由特定疫病蟲害疫區輸入檢疫作業辦法"
+identifier: "M0140011"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-06-30
+last_amended: 2018-10-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0140011"
+retrieved: 2026-10-12
+---
+
+# Quarantine Requirements for Transshipment of Plants or Plant Products through Countries or Districts Where Designated Diseases or Pests Are Known to Occur
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0140011-quarantine-requirements-for-transshipment-of-plants-or-plant-products-through.md](../../../zh/regulations/ministry-of-agriculture/M0140011-quarantine-requirements-for-transshipment-of-plants-or-plant-products-through.md)) is authoritative.
+
+## Article 1
+
+The Quarantine Regulations are established pursuant to Article 21-1, Plant Protection and Quarantine Act (hereinafter called “the Act”).
+
+## Article 2
+
+Term definitions:
+
+（1）“Designated plant disease or pest infested countries or districts” denotes the countries or districts designated by the central competent authority pursuant to subparagraph 1, first paragraph of Article 14 or subparagraph 2, first paragraph of Article 14, where designated diseases or pests are known to occur and from where the importation of designated plants or plant products are prohibited or allowed under certain quarantine requirements.
+
+（2）“Transshipment” denotes plants or plant products having been unloaded from the original conveyance or transported to other conveyance during transportation.
+
+（3）“Closed container” denotes that the container could completely rule out any pest infestation while the container doors are closed.
+
+（4）“Closed packing” denotes packing of the consignments which shall be completely sealed up with insect proof screen of no more than 1.6 mm fine meshes or with packing materials that may prevent the introduction of the pests, and the packing cannot be resealed once opened.
+
+## Article 3
+
+For plants or plant products transshipped through designated diseases or pests infested countries or districts, the importers or their agents, while applying for quarantine inspection to the plant quarantine authority (hereinafter called “the BAPHIQ”) upon arrival at the port of entry, shall also apply for permission of such transshipment.
+
+## Article 4
+
+If the plants or plant products transshipped through countries or districts where designated fungi, bacteria, viruses, nematodes or other plant pathogens are known to occur, they shall be properly packed in the country of origin in such a way that they shall not be in contact with any other consignment. Otherwise, the plants or plant products shall be transported by closed containers.
+
+## Article 5
+
+If the plants or plant products transshipped through countries or districts where designated insects or mites are known to occur, they shall be packed in the country of origin and the packing status shall be maintained intact by using one of the packing methods listed below.
+
+（1）Packed by air-tight wrapping.
+
+（2）Packed with closed packing cartons. If the packing carton has ventilation holes, the holes shall be covered with insect proof screen of no more than 1.6 mm fine meshes.
+
+（3）Packed on pallets or trays. The pallets or trays shall be entirely wrapped with insect proof screen of no more than 1.6 mm fine meshes or with other insect and mite proof packing materials.
+
+（4）Transported by closed containers.
+
+## Article 6
+
+The following requirements shall be complied for plants or plant products transported by closed containers:
+
+（1）The opening side of the container shall be sealed with a “coded seal” in the country of origin.　The “coded seal” shall keep intact till arrival and before it is broken by the BAPHIQ inspectors.
+
+（2）The container number and seal number shall be marked on the phytosanitary certificate issued by the plant quarantine authority of the exporting country, the bill of lading, or other relevant document(s) approved by the BAPHIQ.
+
+If the closed container is opened by the customs or other inspection agencies for inspection purpose, the shipping or airline company shall provide the container seal change record approved by the custom or other inspection agencies to the BAPHIQ for checking the container number and resealed seal number.
+
+## Article 7
+
+If packages or closed containers of plants or plant products transshipped through designated plant diseases or pests infested countries or districts are not kept intact or damaged or their seals are detached, damaged, or found non-compliance upon their arrival at the port of entry, the following actions shall be applied:
+
+（1）If the plants or plant products are transshipped through countries or districts where designated plant diseases or pests are known to occur and from where the importation is prohibited, the plants or plant products shall not be allowed to be imported.
+
+（2）If the plants or plant products are transshipped through specific countries or districts where designated plant diseases or pests are known to occur and from where the importation is allowed only under certain quarantine requirements, appropriate quarantine treatments shall be applied. If there are no appropriate quarantine treatments, the plants or plant products shall not be allowed to be imported.
+
+If the status of the packages or containers is found as described in the previous paragraph after their arrival at the port of entry, proofs shall be provided by the shipping or airline company, harbor administration, or warehouse company and submitted to BAPHIQ for decision.
+
+## Article 8
+
+Plants or plant products carried by passengers who transit through the designated plant diseases or pests infested countries or districts the provisions of Article 4 and 5 shall apply mutatis mutandis.
+
+## Article 9
+
+The Quarantine Regulations become effective on the date of promulgation.
+
+## History
+
+1.Promulgated on June 30, 2003 and effective as of June 30, 2003.
+
+2.Amended and promulgated on 2 September 2010.
+
+3.Amendment to Article 2 and 7, promulgated on October 15, 2018.

@@ -1,0 +1,151 @@
+---
+title: "Regulations for the Management of Setting up Renewable Energy Power Generation Equipment of Power Users above a Certain Contract Capacity"
+title_zh: "一定契約容量以上之電力用戶應設置再生能源發電設備管理辦法"
+identifier: "J0130095"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞能源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-12-31
+last_amended: 2023-10-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130095"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Management of Setting up Renewable Energy Power Generation Equipment of Power Users above a Certain Contract Capacity
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0130095-regulations-for-the-management-of-setting-up-renewable-energy-power-generation.md](../../../zh/regulations/ministry-of-economic-affairs/J0130095-regulations-for-the-management-of-setting-up-renewable-energy-power-generation.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated in accordance with Paragraph 4 of Article 12 of the Renewable Energy Development Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+The central competent authority referred to in these Regulations is the
+
+Ministry of Economic Affairs; it may appoint the Energy Administration, or entrust legal persons or organizations to execute the regulations specified from Article 3 to Article 13.
+
+## Article 3
+
+The terms and definitions used in these Regulations are as follows:
+
+\1. Compulsory user of renewable energy: Refers to the power user who has signed electricity consumption agreements with the electricity retailing utility enterprise, reserving capacity of no less than 5,000 kW and shall perform the obligation in accordance with Paragraphs 3 and 4 of Article 12 of this Act.
+
+\2. Chartered capacity: Refers to the regular chartered capacity of the signed electricity consumption agreements between the power user and the electricity retailing utility enterprise in accordance with its announced Rate Schedules.
+
+\3. Annual average chartered capacity: Refers to the chartered capacity during the annual electricity billing period, calculated as a daily average.
+
+\4. Compulsory installed capacity: Refers to the capacity of renewable energy power generation equipment installed by the compulsory user of renewable energy in accordance with Article 4 and Article 5.
+
+\5. Energy storage facility: Refers to the facility for electricity energy storage and stabilizing the power system, including components of power storage, energy conversion systems and power management systems. The facility specifications shall be approved by the central competent authority. The electricity energy stored by the storage facilities is specified to be used by the compulsory user of renewable energy including participants involving energy storage demand response programs of the electricity retailing utility enterprise.
+
+The central competent authority shall review the scope of the compulsory user of renewable energy two years after these Regulations became effective, and regularly review shall be conducted every two years thereafter.
+
+## Article 4
+
+The compulsory installed capacity of the compulsory user of renewable energy shall be calculated as 10% of the average chartered capacity of the user in the previous year.
+
+The central competent authority shall notify the compulsory user of renewable energy of the compulsory installed capacity in accordance with the provisions of the preceding paragraph.
+
+If two or more of the compulsory users of renewable energy are recognized as the same legal person, they may report to the central competent authority for reviewing to jointly calculate their compulsory installed capacity.
+
+If the compulsory user of renewable energy has doubts about the compulsory installed capacity notified by the central competent authority, the user may apply for correction by submitting proof documents such as the electricity consumption agreements with the electricity retailing utility enterprise.
+
+## Article 5
+
+If the average chartered capacity of the compulsory user of renewable energy in the previous year has increased by more than 10% from the average chartered capacity notified by the central competent authority previously, the authority shall increase the compulsory installed capacity of the current year in accordance with the calculation method specified in Paragraph 1 of the preceding article and notify the compulsory user of renewable energy.
+
+If the average chartered capacity of the compulsory user of renewable energy in the previous year has decreased by more than 10% from the average chartered capacity notified by the central competent authority previously, the compulsory user of renewable energy may apply to the authority for changing the compulsory installed capacity of the current year by submitting proof documents on chartered capacity changes and stating the reason for such changes.
+
+For the same legal person with the same power-use location, if the average chartered capacity of the previous year after merging is reduced by less than 10% of the specified amount notified by the central competent authority previously, it may not be changed.
+
+## Article 6
+
+The compulsory user of renewable energy shall perform the obligation by setting up renewable energy power generation equipment, purchasing renewable energy and certificate, or installing energy storage facility within five years from January 1 of the current year when the central competent authority notifies the compulsory installed capacity in accordance with Paragraph 2 of Article 4, or notifies the addition of the compulsory installed capacity in accordance with Paragraph 1 of Article 5. The formula for calculating the capacity and amount of each method to perform the obligation are as follows:
+
+1.Installation of renewable energy power generation equipment: Calculation is based on the installed capacity.
+
+\2. Purchase of renewable energy and certificate: The annual purchase amount required is calculated by multiplying the compulsory installed capacity by the annual amount of electricity sales per kW for the selected category of renewable energy (based on the annual amount of electricity sales measured in kW in the Appendix).
+
+\3. Installation of energy storage facility: The installed capacity is calculated by multiplying the compulsory installed capacity by the minimum power supply duration of two hours.
+
+The capacity and purchase amount specified in the preceding paragraph are calculated based on the renewable energy power generation equipment, authorized by the electricity license, the self-use power generation equipment registration or the renewable energy facility registration document, the energy storage facility approved by the central competent authority, or the purchase of renewable energy and certificate.
+
+For those who setting up renewable energy power generation equipment by themselves, the electricity generated shall be used by the compulsory user of renewable energy or other power user who is considered as the same legal person.
+
+Those who fail to perform the obligations within the time limit specified in Paragraph 1, the central competent authority shall notify the compulsory user of renewable energy to make improvements within a certain time limit, or perform the obligation by paying monetary substitution. The annual payment amount of the monetary substitution is calculated by multiplying the unperformed compulsory installed capacity by 2,500 kWh /kW, and times the monetary substitution rate.
+
+The substitute rate described in the preceding paragraph shall be announced by the central competent authority.
+
+## Article 7
+
+The compulsory user of renewable energy shall perform the obligation in accordance with Paragraph 1 of the preceding Article. The compulsory installed capacity may be deducted if the following circumstances are met:
+
+\1. For those who complete the obligations within three years, 20% of the compulsory installed capacity notified by the central competent authority may be deducted.
+
+\2. For those who complete the obligations within four years, 10% of the compulsory installed capacity notified by the central competent authority may be deducted.
+
+If the compulsory user of renewable energy has installed or provided others to setting up renewable energy power generation equipment at the power-use location before the enforcement of the Regulations, the installed capacity of the facility may be deducted from the compulsory installed capacity notified first by the central competent authority, and the limit is 20%.
+
+The compulsory user of renewable energy who is applicable to the provisions of the preceding paragraph shall provide the electricity generation license; the self-use power generation equipment registration; or the renewable energy facility registration document, and apply to the central competent authority for approval.
+
+## Article 8
+
+The compulsory user of renewable energy shall complete the submission of the compulsory performance proposal before the end of March of the following year after being notified by the central competent authority. However, this does not apply to those who have performed the obligations already.
+
+When the compulsory user of renewable energy makes changes to the proposal described in the preceding paragraph, the user shall prepare a comparison table, explaining the reasons for the changes, and describing the content of the changes, which shall be submitted to the central competent authority for future reference.
+
+The compulsory user of renewable energy shall, at the latest in the fourth year after receiving the notification from the central competent authority, report the facility operation information for the installation of renewable energy power generation equipment and energy storage facility in the previous year by the end of March each year. Those who purchase renewable energy and certificate shall provide the certificate of renewable energy and the supporting document for the power wheeling and direct supply within the validity period of the certificate, which shall be submitted to the central competent authority for future reference.
+
+The declaration, filing for future reference and document formats described in the preceding three paragraphs shall be specified separately by the central competent authority.
+
+If the compulsory user of renewable energy fails to complete the declaration and filing for future reference, or provides incomplete information on declaration and documents for future reference as described in the preceding three paragraphs, the central competent authority may notify the compulsory user of renewable energy to make corrections within a time limit. If the compulsory user of renewable energy fails to make corrections within the time limit, the central competent authority shall cancel part or all of the deducted compulsory installed capacity described in the preceding article depending on the circumstances.
+
+## Article 9
+
+The compulsory user of renewable energy who has set up renewable energy power generation equipment or energy storage facility, and is unable to achieve the compulsory installed capacity within the time limit due to equipment damage, may apply to the central competent authority for an extension of the time limit for performing obligation. Each extension of the time limit may not exceed three months, with two extensions at most in principle.
+
+For the compulsory user of renewable energy who fulfills the obligation by purchasing renewable energy and certificate, if the user is unable to achieve the compulsory installed capacity within the time limit due to non-attributable factors, the user may make up the purchase amount by the end of February of the following year.
+
+## Article 10
+
+If the compulsory user of renewable energy fails to maintain the performed compulsory installed capacity, the central competent authority shall notify the compulsory user of renewable energy to make improvements within a time limit or pay the monetary substitution based on the unperformed compulsory installed capacity.
+
+If the average power generated (discharged) during the operation of renewable energy power generation equipment or energy storage facility installed by the compulsory user of renewable energy fails to reach 80%, and has not been improved within the time limit notified by the central competent authority, the performance results of the compulsory installed capacity shall not be included.
+
+## Article 11
+
+The central competent authority may send personnel to inspect the compulsory user of renewable energy, and the user shall provide relevant documents or necessary assistance, and shall not evade, impede or refuse. If the compulsory user of renewable energy evades, impedes or refuses the inspection, the central competent authority may exclude the capacity of the corresponding equipment in the performance results of the compulsory installed capacity.
+
+The central competent authority shall notify the compulsory user of renewable energy in writing before carrying out the inspection. If necessary, the central competent authority shall invite representatives of relevant agencies (institutions), scholars and experts to jointly carry out the inspection.
+
+## Article 12
+
+Electricity retailing utility enterprise shall, in accordance with the requirements of the central competent authority, provide the lists, chartered capacity and relevant information required for inspection and management in compliance with Paragraph 1 of Article 3, Article 4, Article 5, Article 7, Article 8, Article 10 and Article 11.
+
+## Article 13
+
+The monetary substitution paid in accordance with these Regulations shall be dedicated in the Renewable Energy Development Fund for the development of renewable energy.
+
+The compulsory user of renewable energy who has been notified to pay the monetary substitution within a prescribed time limit but failed to pay shall be transferred to the administrative enforcement according to law.
+
+## Article 14
+
+The education industry, medical care and social work service industry, transportation industry, government agencies, fossil-fuel power station, and research agencies (institutions) established by the government in accordance with their Acts are not applicable to these Regulations.
+
+## Article 15
+
+These Regulations became effective on January 1, 2021.
+
+The Amendment to the Regulations shall enter into force from the date of promulgation.
+
+## History
+
+\1. Approved and promulgated by the Executive Yuan and enforced on December 31, 2020；Revised and promulgated by the Ministry of Economic Affairs on September 26, 2023
+
+\2. Revised and promulgated by the Ministry of Economic Affairs on October 17, 2023

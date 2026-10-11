@@ -1,0 +1,115 @@
+---
+title: "Enforcement Rules for the Compulsory Automobile Liability Insurance Act"
+title_zh: "強制汽車責任保險法施行細則"
+identifier: "G0390061"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-12-31
+last_amended: 2022-11-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390061"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules for the Compulsory Automobile Liability Insurance Act
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390061-enforcement-rules-for-the-compulsory-automobile-liability-insurance-act.md](../../../zh/regulations/financial-supervisory-commission/G0390061-enforcement-rules-for-the-compulsory-automobile-liability-insurance-act.md)) is authoritative.
+
+## Article 1
+
+These Rules are stipulated pursuant to the provisions of Article 52 of the Compulsory Automobile Liability Insurance Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+The competent authority, for the purpose of calculating insurance premiums or actuarial calculations of rates for the Compulsory Automobile Liability Insurance (hereinafter referred to as ”this Insurance”), request relevant information with regard to the registered information, and accident and violation record of the driver or of the vehicle from the Insurer, the central competent authority for transportation and communications and the central competent authority for police administration in accordance with Article 4 of this Act.
+
+The competent authority may delegate the professional institutions to handle the collection and processing or use of the aforementioned information.
+
+The insurer, for the purpose of calculating insurance premiums, may make inquiry about relevant information to the professional institutions mentioned in the preceding paragraph in accordance with subparagraph 2 of paragraph 1 of Article 19 of the Personal Information Protection Act.
+
+## Article 3
+
+The amount of the personal injury medical expense benefit recovered from the insurer of this Insurance by subrogation by the insurer of the National Health Insurance, in accordance with Article 95 of the National Health Insurance Act, shall be limited to the balance of the total amount of the personal injury medical expense benefit after deduction of the amount payable to the claimant.
+
+## Article 4
+
+The insurer shall submit in advance the relevant insurance application, insurance policy, and insurance certificate to the competent authority for approval; the same shall apply in the event of any amendment to the aforesaid items.
+
+## Article 4-1
+
+The application of Article 25, paragraph 2, and Article 35, paragraph 3 of this Act shall be subject, respectively, to the provisions of this Act in effect on the day when the insured or the claimant has submitted in full or has filed the relevant documents.
+
+## Article 5
+
+The basis for calculating unearned premium provided in Article 20, paragraph 5, and Article 21, paragraph 3 of this Act is as follows:
+
+\1. If the policy period is less than one (1) year, the premium shall be calculated pro rata to the number of days to expiry in the given year and the entire period of the insurance using the original premium less both the insurer's business expenses and any expenses needed to ensure the soundness of this Insurance in the given year.
+
+\2. If the policy period is one (1) year or more, the insurer shall return all premiums for the years not yet elapsed. The premiums for the insurance period of less than one year in the given year not yet elapsed shall be refunded in accordance with the preceding subparagraph.
+
+After the insurer refunds the unearned premium pursuant to the preceding paragraph, the insurer is entitled to claim for refund of amounts respectively allocated to the Property Insurance Stabilization Fund and the Motor Vehicle Accident Compensation Fund (hereinafter "Compensation Fund").
+
+The dollar amount in the preceding paragraphs shall be rounded to the nearest NT Dollar.
+
+## Article 6
+
+The term "a vehicle currently suspended from use" under Article 16, paragraph 2, and Article 23 of the Act means a vehicle that has been registered with the highway supervisory authority as suspended from use, and the license plate and vehicle license of which have been surrendered.
+
+The term "scrapped" under Article 21, paragraph 2, subparagraph 2 of this Act refers to scrap registration having been carried out by the highway supervisory authority.
+
+## Article 7
+
+The Compensation Fund may make a determination of fact regarding whether an accident vehicle is untraceable, as defined under Article 40, paragraph 1 subparagraph 1 of this Act, by evaluating the following documents provided by the claimant:
+
+\1. Documents related to the handling of traffic accidents by civilian or military police authorities.
+
+\2. Autopsy reports or indictments from a public prosecution agency.
+
+\3. Other evidence or data supporting the fact that an accident vehicle is untraceable.
+
+## Article 8
+
+By the end of every month, the insurer shall deposit the allocation to the special Compensation Fund in the premium for this Insurance underwritten in the previous month to the dedicated account designated by the Compensation Fund; a notice shall be given to the Compensation Fund for any failure to deposit the allocation due to operational delays. The delayed deposit shall still be made no later than the end of following month.
+
+## Article 9
+
+If the penalty provided in Article 49, paragraph 1 of this Act is imposed on the owner of an automobile, the penalty will be imposed by the highway supervisory authority at the registered location of the automobile; if the penalty is imposed on its user or manager, the penalty will be imposed by the highway supervisory authority at the user's or manager's domicile, if the user or manager does not have household registration, the penalty will be imposed by the highway supervisory authority of the user or manager’s place of residence.
+
+## Article 10
+
+The certificate shall be placed in the automobile for inspection purposes.
+
+The driver of the automobile shall present the certificate when the highway supervisory authority executing roadside checks, or the police authority engaging in traffic duties, demands to examine the certificate of this Insurance pursuant to Article 50, paragraph 1 of this Act.
+
+The driver of an automobile that fails to present the certificate in accordance with the preceding paragraph shall be reported to the highway supervisory authority by the inspector by making a check mark in the certificate column on the notice of violation of road traffic administrative matters or in another appropriate manner.
+
+## Article 11
+
+The highway supervisory authority, upon receiving a notice issued pursuant to paragraph 3 of the preceding Article or a report of a violation of the Road Traffic Management and Penalty Act involving an automobile, shall verify the name of the person or entity with the duty to insure, the license plate number, engine serial number or vehicle body number, certificate number, the policy period, the insurer and other insurance information with the agencies (organizations) designated by the competent authority and central competent authority for transportation and communication in accordance with Article 19, paragraph 2 of this Act.
+
+Should there be any discrepancy between the reported insurance information and the information verified pursuant to the preceding paragraph prescribed above at the time when the person with the duty to insure presents him/herself at the designated place to await a ruling after receiving the notice of violation of this insurance accident, the highway supervisory authority may determine the existence of this Insurance by reviewing the certificate and evidence for insurance provided by the person with the duty to insure; if a determination cannot be made, the highway supervisory authority shall verify with the competent authority before making a determination.
+
+## Article 12
+
+Except for paragraph 1 of Article 5 and Article 11, as amended and promulgated on 25 November 2022 and shall be implemented on 30 November 2022, these Rules shall be implemented from the date of promulgation.
+
+## History
+
+1.Promulgated by Ministry of Finance (86-Tai-Tsai-Pao-Zi No. 862402642) and Ministry of Communications (86-Chiao-Lu-Fa-Zi No. 8698) in total of 17 articles onDecember 31, 1997.
+
+2.Full text of 12 articles were amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi -09400091511 of the Financial Supervisory Commission, Executive Yuan, and Order No. Chiao-Lu-Zi- 09400850371 of the Ministry of Transportation and Communications, dated 8 September 2005; for the enforcement from the date of promulgation.
+
+3.Article 9 was amended and promulgated and Article 4-1 was added pursuant to Order No. Jin-Guan-Bao-Tse-Zi-09902566701 of the Financial Supervisory Commissionand, Executive Yuan, and Order No. Chiao-Lu-Zi- 0990010230 of the Ministry of Transportation and Communications dated 8 November 2010.
+
+4.Articles 2 and 3 amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi -10302527291 of the Financial Supervisory Commission, and Order No. Jiao-Lu-Zi-10300313271 of the Ministry of Transportation and Communications dated 6 November 2014.
+
+5.Article 6 amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-10502523251 of the Financial Supervisory Commission, and Order No. Jiao-Lu-10500163411 of the Ministry of Transportation and Communications dated 15 June 2016.
+
+6.Article 4 amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-11004520061 of the Financial Supervisory Commission, and Order No. Jiao-Lu-Zi-11000149061 of the Ministry of Transportation and Communications dated 24 June 2021.
+
+7.Articles amended and promulgated pursuant to Order No. Jin-Guan-Bao-Chan-Zi-11104520191 of the Financial Supervisory Commission, and Order No. Jiao-Lu-Zi-11100343651 of the Ministry of Transportation and Communications dated 25 November 2022.

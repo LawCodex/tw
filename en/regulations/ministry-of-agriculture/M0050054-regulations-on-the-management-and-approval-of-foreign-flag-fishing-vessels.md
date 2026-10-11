@@ -1,0 +1,204 @@
+---
+title: "Regulations on the Management and Approval of Foreign Flag Fishing Vessels Entering into Ports of the Republic of China"
+title_zh: "非我國籍漁船進入我國港口許可及管理辦法"
+identifier: "M0050054"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2025-11-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050054"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Management and Approval of Foreign Flag Fishing Vessels Entering into Ports of the Republic of China
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050054-regulations-on-the-management-and-approval-of-foreign-flag-fishing-vessels.md](../../../zh/regulations/ministry-of-agriculture/M0050054-regulations-on-the-management-and-approval-of-foreign-flag-fishing-vessels.md)) is authoritative.
+
+## Article 1
+
+These regulations are established in accordance with Article 22, paragraph 3 of the Act for Distant Water Fisheries (hereinafter referred to as the Act).
+
+## Article 2
+
+Any foreign flag fishing vessel applying for port entry into the Republic of China shall not fall under any of the circumstances stipulated in Article 22, paragraph 2 of the Act, and shall meet the following conditions:
+
+(1) The fishing vessel is listed in the approved vessel list(s) of an international fisheries organization(s) or holds a valid fishing license, fishing authorization document, or transportation permit issued by the concerned flag State.
+
+(2) The fishing vessel does not engage in gillnet fishery.
+
+(3) Within the most recent 3 years, there shall be no record of more than 4 instances that the whereabouts of any foreign crew or crew of People's Republic of China (hereinafter referred to as “PRC crew”) who enters port with the fishing vessel are unknown, nor a record that, in one single instance, the number of crew whose whereabouts are unknown is more than 6 persons. The number of such instances is calculated based on the number of port entries, and shall commence from 22 June 2021.
+
+(4) No international organization or foreign government has determined that the fishing vessel is involved in forced labor or human trafficking.
+
+## Article 3
+
+Foreign flag fishing vessels may enter ports of the Republic of China only at Keelung Port, Kaohsiung Port, Chen-Pin Fishing Harbor, and Chien-Chen Fishing Harbor.
+
+Activities after the port entry as referred to in the preceding paragraph shall be limited to landing in port, transshipment in port, supply, or repair of fishing vessels.
+
+## Article 4
+
+For any foreign flag fishing vessel entering or leaving a port of the Republic of China, its operator shall provide the Power of Attorney which commissions an agent to apply to the competent authority for the port entry, to submit the Advance Notice of Port Entry, to apply for the extension of the berthing period, and to complete and submit the Landing or Transshipment Declaration and Notification of Port Departure.
+
+The agent as referred to in the preceding paragraph shall be limited to shipping agencies of the Republic of China authorized under the Shipping Act.
+
+## Article 5
+
+For any foreign flag fishing vessel intending to enter into a port of the Republic of China, its agent shall, five working days prior to port arrival, submit an application to the competent authority together with the following documents. Upon approval after examination of the application, a permit will be issued. For any foreign flag fishing vessel whose last port of departure is less than 1,600 nautical miles from the port for which entry is sought and that navigates directly to the port of the Republic of China after port departure, the application may be submitted three working days prior to port arrival:
+
+(1) Advance Notice of Port Entry (format as shown in Appendix 1).
+
+(2) Notification of Fishing, Transshipment or Landing (format as shown in Appendix 2).
+
+(3) A copy of nationality certificate of the fishing vessel.
+
+(4) A copy of the fishing license or fishing authorization document; or a copy of the transportation permit for a carrier vessel.
+
+(5) A list of crew members (including name, nationality, year/month/date of birth, position on board, passport or traveling document numbers) and copies of valid Certificate of Fishing Officers.
+
+(6) Three photos of the portside, starboard, and stern of the vessel concerned. Each photo shall display clearly and legibly the vessel name and the international radio call sign.
+
+(7) Document(s) proving the departure from the last port of call.
+
+(8) For carrier vessels, the following documents shall be submitted as well:
+
+i. The fish hold layout which clearly distinguishes species and quantities of each fish hold, and a copy of document(s) of transshipment details.
+
+ii. Copies of nationality certificates, fishing licenses, and transshipment authorization for donor vessels from which the catch onboard was sourced.
+
+(9) In case that the operator is not the owner of the foreign fishing vessel applying for port entry, document(s) proving the right to operate the vessel shall be also provided.
+
+In case that the documents as referred to in paragraph 1 are in a foreign language, a Chinese translation authenticated by a public notary of the Republic of China shall be submitted. Such provision shall be exempted for documents in English.
+
+For any foreign flag fishing vessel applying for entering Keelung Port or Kaohsiung Port, its agent shall, after obtaining the port entry permit as referred to in paragraph 1, apply for port entry to the shipping administration authority.
+
+In case that a foreign flag fishing vessel, due to force majeure or distress, needs to enter Keelung Port or Kaohsiung Port, its agent may apply for emergency port entry in accordance with the Commercial Port Law, and shall provide the documents as stipulated in paragraph 1 and 2 within 24 hours after port entry.
+
+## Article 6
+
+For a foreign flag fishing vessel seeking port entry into the Republic of China, its operator shall not be under any of the following circumstances:
+
+(1) The operator is sentenced imprisonment for violating the Act, the Fisheries Act, or the Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels, and such sentence is not yet executed, not executed completely, or is on probation whose period is not yet expired.
+
+(2) The operator is sentenced to a short-term imprisonment or criminal fine for violating the Act, the Fisheries Act, or the Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels, and such sentence is not yet executed or not executed completely.
+
+(3) The operator has not paid completely the fine imposed pursuant to the Act, the Fisheries Act, or the Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels.
+
+(4) The previous operator has not paid completely the fine imposed pursuant to the Act, the Fisheries Act, or the Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels.
+
+(5) The operator is charged by the domestic judiciary of involving in forced labor or human trafficking, or an international organization(s) or a foreign government(s) has determined that the operator is involved in forced labor or human trafficking. He/She who is acquitted or is removed from the list(s) notified by the international organization or foreign government is not subject to this provision.
+
+Port entry into Chien-Chen Fishing Harbor by foreign flag fishing vessels shall not be permitted in June, November, and December every year.
+
+In case that berths of Chen-Pin Fishing Harbor or Chien-Chen Fishing Harbor are insufficient, the competent authority may not approve port entry applications into these two ports by foreign flag fishing vessels.
+
+Where a foreign flag fishing vessel applying for port entry into the Republic of China meets the relevant requirements after examination, and, within the most recent 3 years, it has records of more than 2 instances that the whereabouts of any foreign or PRC crew entering port with the fishing vessel are unknown, or a record that, within one single instance, the number of crew whose whereabouts are unknown is more than 4 persons, yet not reaching the upper limit as prescribed in subparagraph (3) of Article 2, the competent authority may, when granting port entry permit, impose conditions specifying that if any of the following provisions is violated, the permit shall be revoked:
+
+(1) The vessel shall not stay in port for more than ten days.
+
+(2) In the event that the vessel stays for more than ten days after port entry, the foreign or PRC crew on board shall be repatriated to the origin country/area within the timeframe required by the competent authority. However, such crew of two persons or more but less than one-fifth of the total crew number may still stay on board. In case that one-fifth of the total crew number crew is less than one, it is counted as one person. In case that one-fifth of the total crew number is more than ten, it is counted as ten persons.
+
+## Article 7
+
+Agents of foreign flag fishing vessels that are permitted for port entry into the Republic of China shall
+
+(1) submit to the competent authority Port Entry Reports (format as shown in Appendix 3) within 24 hours after the port entry.
+
+(2) submit within the required deadline, for the current fishing trip of such vessels or fishing vessel(s) from which catch was transshipped, vessel monitoring system (VMS) or Automatic Identification System (AIS) tracks and catch logbooks or electronic logbook data.
+
+## Article 8
+
+Before entering Chen-Pin Fishing Harbor or Chien-Chen Fishing Harbor, any foreign flag fishing vessel shall complete inspections regarding shipping administration, customs, sanitary, immigration, disease containment, and quarantine in Keelung Port or Kaohsiung Port
+
+For foreign flag fishing vessels permitted to enter the fishing ports as referred to in the preceding paragraph, the following provisions shall apply during their period of berthing:
+
+(1) Any foreign flag fishing vessel invested and operated pursuant to the Act Governing the Investment and Operation of Non-Republic of China (ROC) Flagged Fishing Vessels shall not berth for more than 30 days. However, its agent may apply to the competent authority for an extension prior to the expiration of the period, and such extension shall not exceed 30 days and shall be limited to one time only.
+
+(2) Any foreign flag fishing vessel other than the one as referred to in the preceding subparagraph shall not berth for more than 5 days. Where additional time is needed for landing, its agent may apply to the competent authority for an extension prior to the expiration of the period, and such extension shall not exceed 3 days and shall be limited to one time only.
+
+For any foreign flag fishing vessel entering into a port of the Republic of China with any PRC crew onboard, such vessel shall cooperate with the Coast Guard and police authorities for security inspection(s). For the concerned operator to temporarily place the PRC crew onshore, the Regulations on the Permission and Administration of Overseas Employment and Transport of Mainland China Fishing Vessel Crew Temporarily Placed by Taiwanese Fishing Vessels Owners shall, mutatis mutandis, apply.
+
+For the temporary placement of PRC crew, fees related thereto shall be borne by the concerned operators.
+
+PRC crew intending to depart via aircraft shall apply to the National Immigration Agency of the Ministry of the Interior in accordance with the Regulations on the Entry Permission into Taiwan for People of Mainland China.
+
+## Article 9
+
+For any foreign flag fishing vessel entering into a port of the Republic of China, its berthing, landing, transshipment, supply, or repair shall only be conducted in area(s) designated by the port competent authority or commercial port administrative authority. Any activity that is inconsistent with the purpose(s) of port entry as indicated in the application shall not be conducted.
+
+During the period of berthing in-port in the Republic of China, operators of foreign flag fishing vessels shall supervise and manage the conducts or activities of the crew that enter the port with the fishing vessels.
+
+During the period of pandemic, operators of foreign flag fishing vessels shall, in compliance with order(s) issued by the competent authority pursuant to the directive(s) of the Commander of the Central Epidemic Command Center, implement contingency measure(s).
+
+The contingency measure(s) as referred to in the preceding paragraph shall be promulgated by the competent authority.
+
+## Article 10
+
+In case of any of the following circumstances, the competent authority may revoke the port entry permit of any foreign flag fishing vessel, and notify the shipping administration authority:
+
+(1) The foreign flag fishing vessel fails to submit the required information/data in accordance with Article 7, subparagraph (2), or the information/data submitted is not complete.
+
+(2) After port entry, the foreign flag fishing vessel does not berth, land, transship, supply, or conduct repairing in the designated area(s), or conducts any activity inconsistent with the purpose(s) of port entry as indicated in the application, in contravention of Article 9, paragraph 1.
+
+(3) The foreign flag fishing vessel has not entered the port for more than two days after its estimated time of arrival.
+
+(4) The catch is not weighed or landed by species and by fishing vessel(s) wherefrom the catch is sourced.
+
+## Article 11
+
+Any foreign flag fishing vessel entering into a port of the Republic of China for landing or transshipment shall pay relevant fees incurred from inspection(s) before commencing the landing or transshipment.
+
+The time for landing or transshipment as referred to in the preceding paragraph shall be from 6 a.m. to 18 p.m. every day. Any catch that is not yet landed or transshipped shall be sealed in fish hold(s) by the competent authority, and such fish hold(s) shall not open unless the competent authority has approved.
+
+The inspection(s) and the sealing of fish hold(s) as referred to in the preceding two paragraphs may be delegated by the competent authority to subordinate agency/institution(s) or the government of municipality, county or township; or be commissioned to other institution(s), legal person(s), or organization(s).
+
+Agents shall submit the Landing Declaration (format as shown in Appendix 4) or Transshipment Declaration (format as shown in Appendix 5) to the competent authority within the timeframe prescribed as follows:
+
+(1) For fishing vessels, the Declaration shall be submitted within two days after the completion of landing or transshipment.
+
+(2) For carrier vessels, the Declaration shall be submitted within five days after the completion of landing or transshipment.
+
+## Article 12
+
+For any foreign flag fishing vessel entering into a port of the Republic of China for landing or transshipment, its operator shall fill in completely and accurately the Notification of\ Fishing, Transshipment or Landing.
+
+The discrepancy between the amount recorded in the Notification as referred to in the preceding paragraph and the actual landing or transshipment amount shall meet the following provisions:
+
+(1) For species with catch limit or under the Catch Statistical Document Program or Catch Documentation Scheme adopted by international fisheries organizations, the discrepancy shall not exceed 10%.
+
+(2) For species other than those stipulated in the preceding subparagraph, the discrepancy shall not exceed 25%.
+
+## Article 13
+
+For any foreign flag fishing vessel permitted for port entry into the Republic of China, its agent shall submit to the competent authority the Notification of Port Departure (format as shown in Appendix 6) one day prior to the port departure.
+
+## Article 14
+
+These Regulations shall enter into force upon promulgation.
+
+## Attachments
+
+- [Appendix 1  Advance Notice of Port Entry for Foreign Flag Fishing Vessels.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007492)
+- [Appendix 2  Notification of Fishing, Transshipment or Landing for Foreign Flag Fishing Vessels.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007493)
+- [Appendix 3_Port Entry Report for Foreign Flag Fishing Vessels.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009466)
+- [Appendix 4_Landing Declaration for Foreign Flag Fishing Vessels.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009467)
+- [Appendix 5_Transshipment Declaration for Foreign Flag Fishing Vessels.ODT](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009468)
+- [Appendix 6  Notification of Port Departure for Foreign Flag Fishing Vessels.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007497)
+
+## History
+
+1.The full text of 13 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1051338468.
+
+2.The full text of 14 articles amended and promulgated on 29 May 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1071334297.
+
+3.Article 2, 6, 7, 9, and 10 amended and promulgated on 22 June 2021 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1101334626
+
+4.Article 2 and 6 amended and promulgated on 4 August 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1111334833.
+
+5.Article 6 and 8, Appendix 3 of Article 7, and Appendices 4 and 5 of Article 11 of these Regulations amended and promulgated on 7 November 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1141535920.

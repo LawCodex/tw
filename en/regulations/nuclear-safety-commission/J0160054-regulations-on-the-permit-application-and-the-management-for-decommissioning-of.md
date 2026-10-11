@@ -1,0 +1,195 @@
+---
+title: "Regulations on the Permit Application and the Management for Decommissioning of Nuclear Reactor Facilities"
+title_zh: "核子反應器設施除役許可申請審核及管理辦法"
+identifier: "J0160054"
+type: regulation
+law_level: "命令"
+category: "行政＞核能安全委員會＞原子能目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-07-14
+last_amended: 2026-01-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160054"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Permit Application and the Management for Decommissioning of Nuclear Reactor Facilities
+
+> Translation. The Chinese text ([zh/regulations/nuclear-safety-commission/J0160054-regulations-on-the-permit-application-and-the-management-for-decommissioning-of.md](../../../zh/regulations/nuclear-safety-commission/J0160054-regulations-on-the-permit-application-and-the-management-for-decommissioning-of.md)) is authoritative.
+
+## Article 1
+
+This Regulations is enacted pursuant to Paragraph 4 of Article 23 of the Nuclear Reactor Facilities Regulation Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+To apply for decommissioning of nuclear reactor facilities, the licensee shall submit an application form enclosed with a decommissioning plan to the competent authority for review and pay the prescribed fee.
+
+If the decommissioning of nuclear reactor facilities shall implement the environmental impact assessment, the licensee shall submit related documents of the environmental impact assessment approved by the environmental protection authority before the competent authority issues the decommissioning permit.
+
+## Article 3
+
+The decommissioning plan referred to in Paragraph 1 of the preceding Article shall include the following contents:
+
+(1)Facility overview, operating history, significant events in the past years and their impacts.
+
+(2)Radioactivity survey methods and preliminary assessment results for facility systems, equipment, components, and materials.
+
+(3)Decommissioning objectives, time schedule and the equipment, method and safe operating procedures.
+
+(4)System, equipment and components that are required to operate during the decommissioning period and the operation patterns.
+
+(5)The safety analysis of anticipated occurrence of accidents during the decommissioning period.
+
+(6)Methods for decontamination and the treatment of the radioactive waste gas and liquid during the decommissioning period.
+
+(7)Classification, characteristics, quantity, reduction measures and the planning for treatment, transportation, storage and final disposal of the radioactive waste of the decommissioning.
+
+(8)Radiation dose evaluation and radiation protection measures.
+
+(9) Environmental radiation monitoring.
+
+(10) Organization and personnel training.
+
+(11) Nuclear safeguards materials and the management of the related equipment.
+
+(12) Reutilization plan of facility buildings and lands.
+
+(13) Quality assurance program.
+
+(14) Security measures.
+
+(15) Accident response plan.
+
+(16)The report of technology, management ability and the financial basis including the financial guarantee statement, which shall include the financial sources and financial planning of the expenses for decommissioning of the facilities and management of radioactive waste.
+
+(17) Other matters announced by the competent authority.
+
+## Article 4
+
+Upon receiving the documents referred to in Paragraph 1 of Article 2, if supplementation or correction is required, the competent authority shall list in detail what is required and notify the applicant to supplement or correct within a specified deadline; If the applicant fails to do so after the deadline expires or the supplemented or corrected documents do not comply with the relevant provisions, the competent authority shall not accept the application.
+
+## Article 5
+
+After receiving the complete documents referred to in Paragraph 1 of Article 2, the competent authority shall issue a notification of review results to the licensee within one year.
+
+## Article 6
+
+The review period referred to in the preceding Article shall commence from the day when the applicant has prepared all the required documents.
+
+The review period referred to in the preceding paragraph does not include the following periods:
+
+(1) Not exceeding sixty days for the relevant competent authority to interpret the laws or consult with other government agencies (institutions).
+
+(2) Other delays not attributable to the competent authority.
+
+## Article 7
+
+Before all nuclear fuels are removed from the nuclear reactor facility during the decommissioning period, personnel who operate the controls of the nuclear reactor or the spent fuel pool shall have reactor operator license; the license management and medical examination shall be implemented according to the provisions of the regulation on the reactor operator license and for the implementation of medical examination of reactor operator.
+
+To meet the needs in the operation of decommissioning unit, the licensee may adjust the training requirements and the content of the retraining plan of the qualification for the reactor operator. These adjustments shall be implemented after approved by to the competent authority for review and approval, and they are not subject to the relevant provisions of the regulations in the preceding paragraph.
+
+## Article 8
+
+Before all nuclear fuels are removed from the nuclear reactor facilities during the decommissioning period, the licensee shall comply with the final safety analysis report and the technical specifications in effect at the end of the operating period.
+
+The licensee may revise the final safety analysis report and the technical specifications under the preceding paragraph, and implement them after reviewed and approved by the competent authority.
+
+## Article 9
+
+Before all nuclear fuels are removed from the nuclear reactor facilities during the decommissioning period, the licensee shall hire the authorized inspection agency to inspect the nuclear reactor facilities.
+
+The certification of authorized inspection agencies and the scope of inspection for nuclear reactor facilities referred to in the preceding paragraph shall be in accordance with (mutatis mutandis) the regulations on the scope of inspection and on the certification of authorized inspection agencies for nuclear reactor facilities.
+
+## Article 10
+
+During the decommissioning period, the licensee shall submit the report related to radiation safety, environmental radiation monitoring, report on radioactive gas and liquid waste release, record of radioactive waste production, report on the investigation of site environment and public dose assessment parameters of nuclear reactor facilities, and other reports designated by competent authority.
+
+The deadlines for submitting the respective reports or records to the competent authority by the licensee referred to the preceding paragraph shall be subject to the following provisions:
+
+(1)Radiation safety, environmental radiation monitoring report, report on radioactive gas and liquid waste release: a quarterly report be submitted within sixty (60) days upon end of each quarter; an annual report be submitted within ninety (90) days upon the end of each year.
+
+(2)Radioactive waste production record: a monthly report shall be submitted within thirty (30) days upon the end of each month.
+
+(3)Report on the investigation of site environment and public dose assessment parameters of nuclear reactor facilities: a report shall be submitted every five years; research reactor facilities are not subject to this provision.
+
+## Article 11
+
+During the decommissioning period of the nuclear power reactor facilities, if any of the situations prescribed in Annex 1 occurs that shall be notified immediately, that shall notify instantly, the licensee shall use phone to notify the competent authority about the time, sequences, impact, any radioactive contamination or release, personnel radiation exposure harm and other matters within the specified period, and fill the notification and transmit the documents. If the accident continues to deteriorate, the licensee shall report again under the previous provisions.
+
+During the decommissioning period of the nuclear power reactor facilities, if any of the situations prescribed in Annex 2 occurs, the licensee shall submit written report within thirty (30) days to the competent authority and include the following contents:
+
+(1) Event sequences, causes, and unit condition prior to the event.
+
+(2) Any radioactive materials released and the quantity released.
+
+(3) Any personnel suffered from radiation exposure and the injured situation.
+
+(4) And potential impact.
+
+(5) Similar events occurred in the past.
+
+(6) Corrective and preventive measures.
+
+During the decommissioning period of research reactor facilities, one of the situations occurred which are prescribed in Annexed 3, the licensee shall notify the competent authority within two hours, and submit written report within thirty (30) days; the way and content for the notification shall be in accordance with the provisions in the preceding two paragraphs.
+
+## Article 12
+
+The licensee shall submit an annual implementation report and a revised version of the decommissioning plan in accordance with approved decommissioning plan to the competent authority for review and approval by March 31 each year.
+
+Annual implementation report under the preceding paragraph shall include the following contents:
+
+(1) The completed tasks of decommissioning, ongoing tasks, and the expenditures of the previous year.
+
+(2) The important tasks and estimated expenditures which are planned to be executed for the current year.
+
+(3) Analysis of integrated activities of decommissioning, accumulated expenditures, and the latest cost estimation of integrated expenditures of decommissioning.
+
+## Article 13
+
+Within six months of completing the decommissioning plan of nuclear reactor facilities, the licensee shall submit the report on environmental radiation detection on the post-decommissioning site and the report of completion of decommissioning to the competent authority for review and approval, and the competent authority may deregulate the decommissioning after reviewing and approving the reports.
+
+The report of completion of decommissioning referred to in the preceding paragraph shall include the following contents:
+
+(1) Decommissioning strategy and related implementation of nuclear reactor facilities.
+
+(2) Radiation protection of the workers and the public during the decommissioning process.
+
+(3) The results of the final site survey on radiation dose.
+
+(4) The management of radioactive waste and the quantity of materials released.
+
+(5) Subsequent oversight of the post-decommissioning site.
+
+(6) Other items designated by the competent authority.
+
+## Article 14
+
+The decommissioning plan, the related documents and information submitted for review, and various reports or records submitted in accordance with this Regulations shall be permanently retained by the licensee; the licensee shall set a list of categories and preservation duration for documents and information related to decommissioning technologies, analysis, measurement, and the others, and submit the list to the competent authority for reference.
+
+## Article 15
+
+The formats of the application forms set forth in this Regulations shall be prescribed by the competent authority.
+
+## Article 16
+
+This Regulations shall be put into practice from the date of promulgation.
+
+## Attachments
+
+- [Annex 1.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009730)
+- [Annex 2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009731)
+- [Annex 3.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009732)
+
+## History
+
+1.Promulgated and enforced by Letter Hui-Wu-Tzu No. 0930021810 on July 14th, 2004
+
+2.Amendment of Articles 2 on July 9, 2012 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-1010010790
+
+3.Amendment of all Articles on November 16, 2018 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10700136792.
+
+4.Amendment of Articles 7 on January 16, 2026 by the Nuclear Safety Commission per its decree No. He-An-Tzu-11500006612

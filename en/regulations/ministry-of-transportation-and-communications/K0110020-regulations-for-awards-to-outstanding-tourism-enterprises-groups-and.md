@@ -1,0 +1,221 @@
+---
+title: "Regulations for Awards to Outstanding Tourism Enterprises, Groups and Professionals"
+title_zh: "優良觀光產業及其從業人員表揚辦法"
+identifier: "K0110020"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-04-16
+last_amended: 2026-08-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110020"
+retrieved: 2026-10-12
+---
+
+# Regulations for Awards to Outstanding Tourism Enterprises, Groups and Professionals
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0110020-regulations-for-awards-to-outstanding-tourism-enterprises-groups-and.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0110020-regulations-for-awards-to-outstanding-tourism-enterprises-groups-and.md)) is authoritative.
+
+## Article 1
+
+These Regulations are made pursuant to the provisions of Article 51 of the Act for the Development of Tourism.
+
+## Article 2
+
+The Ministry of Transportation and Communications (“MOTC”) mandates the Tourism Administration of the MOTC (“the Tourism Administration”) to conduct matters for the implementation of the Awards to Outstanding Tourism Enterprises, Groups, and Individuals in accordance with the provisions of these Regulations. The matters mandated and the legal basis for the mandate shall be publicly announced and published in a government gazette and newspapers.
+
+## Article 3
+
+Those to whom these Regulations are intended to apply are as follows:
+
+(1) Tourism enterprises and groups and their members of staff.
+
+(2) Tourist hotel enterprises, hotel enterprises, travel agency, and tourist amusement enterprises and their members of staff.
+
+(3) Home stay facility operators.
+
+(4) Tour guides and tour managers.
+
+The aforementioned staff members and individuals include all responsible officers, directors, supervisors, and employees of tourism enterprises and groups.
+
+## Article 4
+
+Tourism enterprises and groups that have been established for three years and fulfill one of the following conditions may be candidates for the awards:
+
+(1) Have actively conducted meetings to promote the tourism industry, with concrete effect or contribution toward the development of the tourism industry.
+
+(2) Have supported government tourism policy for improving the travel and tourism market, raising the quality of travel and tourism, or protecting the rights and interests of tourists, with concrete effect or contribution toward such purpose.
+
+(3) Have held training for tourism personnel, with concrete effect or contribution toward raising the quality and quantity of tourism industry human resources.
+
+(4) Have regularly issued specialist tourism publications or held tourism-related study and discussion activities, with rich and substantial content, that truly can raise the level of tourism knowledge.
+
+(5) Have conducted tourism publicity and promotion activities at home and abroad, with concrete effect or contribution toward augmenting tourism industry marketing channels.
+
+(6) Have implemented a tourism industry service quality certification system, with concrete effect or contribution toward establishing high quality of service in the travel and tourism environment.
+
+(7) Have achieved concrete effect or contribution toward promoting research and development for upgrading the tourism industry.
+
+## Article 5
+
+Tourist hotel enterprises, hotel enterprises, and home stay facility operators that have been established for three years and fulfill one of the following conditions may be candidates for the awards:
+
+(1) Have created an own brand or joined a domestic or foreign chain system, with concrete effect or contribution toward the setting up and running of operations management systems and the raising of service quality.
+
+(2) Have obtained international-standard quality certification, with concrete effect or contribution toward raising the international competitiveness and overall service quality of the tourism industry.
+
+(3) Have achieved concrete effect or contribution in respect of renewing or maintaining facilities and combining innovative service with assurance of accommodation quality and protection of guests’ safety, to provide an outstanding accommodation experience and be able to assure guests of a peaceful stay.
+
+(4) Have supported government tourism policy by actively assisting or participating in tourism publicity and promotion activities, with concrete effect or contribution toward tourism development.
+
+## Article 6
+
+Those who have been established in the tourism industry for three years and fulfill one of the following conditions may be candidates for the awards:
+
+(1) Have created innovative operations management systems and techniques, with concrete effect or contribution toward raising the competitiveness of the travel and tour industry.
+
+(2) Have attracted foreign tourists to Taiwan or promoted domestic tourism, with concrete effect or contribution in the form of achieving excellent foreign exchange earnings or increasing tourist numbers during the last three years.
+
+(3) Have supported government tourism policy by actively assisting or participating in tourism publicity and promotion activities, with concrete effect or contribution toward development of the tourism industry.
+
+(4) Have created an outstanding own brand, conducted research and development, or created innovative itineraries, with concrete effect or contribution toward opening up new areas of business and raising the quality of travel and tourism services.
+
+(5) Have achieved concrete effect or contribution toward travel and tourism safety or preventing and dealing meticulously with major travel and tourism accidents, or toward safeguarding the rights and safety of tourists.
+
+## Article 7
+
+Tourist amusement enterprises that have been established for three years and fulfill one of the following conditions may be candidates for the awards:
+
+(1) Have supported government tourism policy by actively initiating, participating in or conducting promotional activities, with concrete effect or contribution toward attracting foreign tourists to Taiwan.
+
+(2) Have achieved excellence in facility maintenance, environmental beautification, and operations management within their location, with concrete effect or contribution toward raising recreational quality.
+
+(3) Have drawn up full and detailed plans for preventing and dealing with accidents, with concrete effect or contribution toward protecting the safety of visitors.
+
+(4) Have achieved concrete effect or contribution in serving tourists with enthusiastic attentiveness, usually obtaining positive assessment from tourists, as verified by investigation of the competent tourism authority.
+
+(5) Have achieved concrete effect or contribution toward promoting the development of local tourism industry.
+
+(6) Have carried out the renewal of tourist recreation facilities, or invested in the construction of tourist recreation facilities, with concrete effect or contribution toward promoting the overall development of the tourism industry.
+
+(7) Have made a dedicated effort to establish an international brand or to join a domestic or international chain organization, with concrete effect or contribution toward increasing the number of international tourists coming to Taiwan.
+
+Tourist amusement enterprises that have participated in the annual contests of supervision and evaluation organized by the Tourism Administration pursuant to Article 38 of the Regulations for the Management of Tourist Amusement Enterprises, and that have been judged as excellent or outstanding, may be listed as candidates for the awards without having to undergo assessment and selection as prescribed in these Regulations.
+
+## Article 8
+
+Individuals listed in Article 3 who have served in the tourism industry for three years may be candidates for the awards if they fulfill one of the following conditions:
+
+(1) Have achieved concrete effect or contribution toward promoting the development of the tourism industry.
+
+(2) Have achieved concrete effect or contribution toward the development of management efficiency in superintendent work.
+
+(3) Have published works on tourism, with concrete effect or contribution toward developing the tourism industry.
+
+(4) Have achieved concrete effect or contribution by receiving tourists, serving them to their fullest satisfaction, and receiving a deeply positive assessment from them or having a moving story of a service spirit sufficient to make a visitor feel at home away from home.
+
+(5) Have achieved concrete effect or contribution toward protecting national interests or securing international prestige.
+
+(6) Have achieved some other concrete effect or contribution that is helpful to tourism industry development.
+
+The years-of-service condition may be waived in the case of an individual who fulfills one of the conditions listed in the preceding paragraph and who has made a special contribution to the tourism industry.
+
+## Article 9
+
+Tourist hotel enterprises, hotel enterprises, travel agency, tourist amusement enterprises, and home stay operators that have been penalized by stoppage of operation or imposition of a fine by the tourism authorities within the last three years shall not be commended. However, this restriction shall not apply if the aggregate amount of the fines imposed is NT$100,000 or less and the penalties are unrelated to the achievements being commended.
+
+Individuals working for tourist hotel enterprises, hotel enterprises, travel agency, and tourist amusement enterprises, and tour guides and tour managers, who have been penalized by imposition of a fine or suspension of license by the tourism authorities within the last three years are not eligible for the awards. But this exclusion shall not apply if the amount of the fine was NT$3,000 or less and was imposed for a matter unconnected with the award.
+
+## Article 10
+
+These regulations shall apply mutatis mutandis to commend groups and individuals not belonging to the tourism industry but meeting the conditions prescribed in Subparagraphs 1 and 3 to 6 of Paragraph 1 of Article 8.
+
+## Article 11
+
+During the announced period, groups and individuals meeting the conditions set forth in Articles 4 to 8 or Article 10 may register as candidates for the awards or be recommended by the units where they serve, respective tourism authorities, tourism institutions, groups, juristic persons or individuals.
+
+Candidates should fill in the application form and attach relevant supporting documents and recommendation letters. The qualifications of the candidates will be reviewed in writing by the Tourism Administration of the MOTC, and those who meet the requirements will be submitted to the initial review committee for selection.
+
+The format of the application form and recommendation letter specified in the preceding paragraph shall be determined separately by the Tourism Administration of the MOTC.
+
+## Article 12
+
+The Tourism Administration may create committees to select outstanding tourism enterprises, groups and individuals to be commended.
+
+The selection shall be conducted in two stages, the initial selection and the final selection, to be carried out as follows:
+
+(1) The initial selection: The head of the Tourism Administration unit executing this program or the head of a Tourism Administration unit with related responsibilities or a higher-ranking Tourism Administration official shall serve as the convener and different sections and offices of the Tourism Administration shall appoint seven to nine representatives to form the initial selection committee to evaluate the candidates and establish the list of nominees for each category.
+
+(2) The final selection: The deputy director-general of the Tourism Administration shall serve as the convener and 11 to 13 scholars, specialists and representatives from the tourism authority may be appointed to form the final selection committee to evaluate and select the winners of each category from the list of nominees specified in the preceding subparagraph.
+
+The convener of each selection committee shall chair each meeting convened or appoint a committee member to be the acting chairperson to preside over the meeting if he or she cannot attend the meeting.
+
+In any of the following situations, a committee member shall recuse from voting for the respective award:
+
+(1) The candidate is a committee member themselves, his or her spouse or ex-spouse, his or her relative within the fourth degree of consanguinity or within the third degree of affinity, or an individual who once had a relationship with the committee member.
+
+(2) Candidate recommenders, or persons who hold key positions, such as being the person in charge, chairperson or vice chairperson of the organization where the committee member serves, or a representative authorized by the committee member. However, if the Tourism Administration of the MOTC is the recommender, the selection committee appointed by the Tourism Administration shall not be subject to this limitation.
+
+(3) There is concrete evidence that the committee member is unable to be impartial in executing his or her duty.
+
+Decisions to be made in meetings referred to in Paragraph 2, including establishment of lists of nominees in the initial selection and the final selection of award winners, shall require the attendance of at least two thirds of the total number of committee members as well as approval of the majority of the attending committee members. If the number of candidates approved by the majority of the committee members exceeds the quota for the category in question, selection shall be decided by ranking in accordance with the numbers of votes received. If there are candidates with the same number of votes, a second round of voting shall be conducted to decide. If the number of candidates approved by the majority of the committee members is less than the quota for the category in concern, the second round of voting shall be unnecessary. Under such circumstances, the attending committee members shall vote to distribute the remaining quota to candidates winning approval of the majority of the attending committee members.
+
+If no candidates for a category receive approval of the majority of the attending committee members, the award shall not be given.
+
+## Article 13
+
+The selection criteria or selection principles for tourism enterprises, groups and individuals shall be decided by the awards committee according to the characteristics of such enterprises, groups, and individuals. In deciding the selection criteria or selection principles, the awards committee may give consideration to the following matters:
+
+(1) Operations management and service performance.
+
+(2) Innovative and strategic management.
+
+(3) Consumer satisfaction or public sentiment.
+
+(4) Service quality and safety maintenance.
+
+(5) Planning, development and utilization of manpower resources.
+
+(6) Environmental protection performance.
+
+## Article 14
+
+The Awards to Outstanding Tourism Enterprises, Groups, and Individuals shall be given once a year. The timeline and approaches of registration, candidate qualifications, selection procedure, contents of awards, and the quotas of awardees shall be publicly announced in advance. The selection committees shall determine the quota of awardees for each category. The awards may be given in the form of decorations, medals, certificates of merit or prizes, as decided by the Tourism Administration
+
+Candidates shall be recommended to participate in the selection process in accordance with these measures, and shall not be recommended to participate again for three years.
+
+## Article 15
+
+All expenditures required for the Tourism Administration’s conduct of the Awards to Outstanding Tourism Enterprises, Groups, and Individuals shall be provided for in the annual budget.
+
+## Article 16
+
+The governments of special municipalities, counties and cities may apply these Regulations mutatis mutandis to the conduct of matters under their jurisdiction in respect of the Awards to Outstanding Tourism Enterprises, Groups, and Individuals. All expenditures required for such purpose shall be provided for in their own annual budgets.
+
+## Article 17
+
+These Regulations shall take effect from the date of promulgation.
+
+## History
+
+\1. Promulgated on April 16, 2003
+
+\2. Amended on January 21, 2011
+
+\3. Amended on July 9, 2012
+
+\4. Amended on August 6, 2013
+
+\5. Amended on August 5, 2015
+
+\6. Amended on September 20, 2016
+
+\7. Amended on May 2, 2024
+
+\8. Amended on September 11, 2024
+
+\9. Amended on August 5, 2026

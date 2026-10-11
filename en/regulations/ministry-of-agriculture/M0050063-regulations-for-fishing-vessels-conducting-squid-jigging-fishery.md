@@ -1,0 +1,596 @@
+---
+title: "Regulations for Fishing Vessels Conducting Squid Jigging Fishery"
+title_zh: "漁船從事魷釣漁撈作業管理辦法"
+identifier: "M0050063"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2024-09-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050063"
+retrieved: 2026-10-12
+---
+
+# Regulations for Fishing Vessels Conducting Squid Jigging Fishery
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050063-regulations-for-fishing-vessels-conducting-squid-jigging-fishery.md](../../../zh/regulations/ministry-of-agriculture/M0050063-regulations-for-fishing-vessels-conducting-squid-jigging-fishery.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are established pursuant to Article 2, paragraph 2; Article 10, paragraph 2; Article 11, paragraph 3; and Article 24, paragraph 2 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Terms used in these Regulations are defined as follows:
+
+(1) “Independent third party” means any of the following institutions recognized by the competent authority:
+
+i.    For Japan:
+
+(i) Shinken Corporation.
+
+(ii) Nippon Kaiji Kentei Kyokai, Incorporated Association.
+
+ii.    For areas excluding Japan: the verifying institution which obtains the accreditation for management system certification from the Taiwan Accreditation Foundation (TAF).
+
+(2) “Carrier vessel” means the following vessels that conduct the transshipment of catches from squid jigging fishing vessel(s) to itself and transports to ports:
+
+i.    ‘Carrier vessel of the Republic of China’ refers to the carrier vessel which has the fishing license of the Republic of China.
+
+ii.    ‘Foreign carrier vessel’ refers to the carrier vessel, excluding container vessel, which has the valid nationality certificate of the flag State of a foreign country.
+
+### Article 3
+
+Any distant water fishing vessel conducting squid jigging fishery (hereinafter referred to as “squid jigging fishing vessel”) shall be limited to a fishing vessel with squid jigging registered as the main fishery on its fishing license.
+
+### Article 4
+
+Fishing areas for squid jigging fishing vessels are divided as follows (as shown in Appendix1):
+
+(1) North Pacific Ocean fishing area: the waters of the north Pacific Ocean north of a line extending east along the 20°N from the 140°E to the intersection with the 110°W, and the waters of a line extending east along the 10°N from the 180° meridian to the intersection with the 140°W.
+
+(2) Eastern Pacific Ocean fishing area: the waters of Pacific Ocean east of 150°W, south of 10°N, and west of 70°W.
+
+(3) Southwestern Atlantic Ocean fishing area: the waters of the Atlantic Ocean south of 35°S, west of 50°W, and east of 70°W.
+
+Squid jigging fishing vessels shall fish only within the fishing area(s) permitted by the competent authority.
+
+For any squid jigging fishing vessel navigating through the water under national jurisdiction of any foreign country, all fishing equipment on board shall be stowed and secured, and such vessel shall not conduct activities such as arrangement of fishing gears or fishing, except that it has engaged in fisheries cooperation with the foreign country concerned.
+
+### Article 4-1
+
+Any squid jigging fishing vessel shall not stay at sea for more than ten consecutive months. The duration may be extended for two months with the consent of the competent authority, provided that there is a cause of force majeure or insufficient berths in port that leads to failing to enter a port within the required timeframe. Such extension shall be permitted for one time only.
+
+For any squid jigging fishing vessel that does not enter a port before these Regulations are amended and promulgated on 25 November 2022, its days at sea before the promulgation of the amended Regulations are not counted into the duration as referred to in the preceding paragraph.
+
+## Chapter II Application and Issuance of the Distant Water Fisheries Permit
+
+### Article 5
+
+Any distant water fisheries operator intending to apply for the distant water fisheries permit(s) for his/her fishing vessel(s) to fish in each fishing area in the following year shall fill in the application form (formats as shown in Appendix 2) and submit it with the following documents:
+
+(1) A copy of the valid fishing license which shall contain the International Maritime Organization (IMO) ship identification number.
+
+(2) The following color photographs of the fishing vessel no older than three years and the electronic files. The photos shall clearly show the Chinese/English name of the vessel and its international radio call sign (IRCS) and the size shall not be smaller than 12 cm by 7 cm:
+
+i.    One photo that shows the complete length and structural characteristics of the starboard side of the vessel;
+
+ii.    One photo that shows the complete length and structural characteristics of the portside of the vessel; and
+
+iii.    One photo of the stern of the vessel taken directly from behind the vessel.
+
+(3) The document certified by the commissioned professional institution that the automatic location communicator (ALC) on board the fishing vessel can regularly and normally transmit vessel positions.
+
+(4) The document certified by the commissioned professional institution that the electronic logbook (E-logbook) system on board the fishing vessel can normally transmit catch data.
+
+(5) The document proving the last port entry or departure of the fishing vessel.
+
+When filling in the application form as referred to in the preceding paragraph, a distant water fisheries operator of any squid jigging fishing vessel shall select a fishing area in accordance with Article 4. Multiple fishing areas may be selected.
+
+### Article 6
+
+Any distant water fisheries operator intending to apply for the distant water fisheries permit for the following year shall enclose the required documents as stipulated in Article 5 and shall register to the Taiwan Squid and Saury Fisheries Association (hereinafter referred to as “the Squid and Saury Association”) by October 15 of the current year. The Squid and Saury Association shall compile and submit applications to the competent authority by October 31 of the current year.
+
+### Article 7
+
+In case of any of the following conditions, the distant water fisheries operator may submit the documents prescribed in Article 5, paragraph 1 and apply for the distant water fisheries permit to the competent authority, notwithstanding the application procedures and deadline prescribed in Article 6:
+
+(1) The distant water fisheries operator of a fishing vessel has changed.
+
+(2) The distant water fisheries operator has obtained the fishing license for the chartered fishing vessel.
+
+(3) The distant water fisheries operator has obtained the fishing license for the newly-built fishing vessel.
+
+(4) The distant water fisheries operator who resumes the operation after the suspension of the operation authorized pursuant to Article 11, paragraph 2 of the Fisheries Act has expired.
+
+(5) The distant water fisheries operator applies for the renewal of the fishing license.
+
+(6) The suspension of the fishing license has been executed completely or the fine imposed has been paid up.
+
+(7) Addition of fishing area(s) for a carrier vessel which has obtained the distant water fisheries permit of the current year.
+
+### Article 8
+
+A certificate of distant water fisheries permit will be issued to the application approved by the competent authority. The maximum validity period of the permit shall be one year, and shall not exceed that of the fishing license.
+
+The certificate of distant water fisheries permit shall record, both in Chinese and English, the following:
+
+(1) The number of the certificate;
+
+(2) The name, CT number, gross tonnage (GT), length overall (LOA) and fisheries type of the fishing vessel;
+
+(3) Name of the distant water fisheries operator;
+
+(4) The authorized fishing Ocean, fishing area(s), and fishing period;
+
+(5) The IRCS; and
+
+(6) The IMO ship identification number.
+
+The distant water fisheries operator shall place onboard the fishing vessel a copy of the valid distant water fisheries permit in case of inspection.
+
+### Article 9
+
+For any fishing vessel permitted to conduct squid jigging fishery whose information recorded on the application is changed or whose external characteristic(s) differs from the photo(s) of the vessel submitted, the distant water fisheries operator shall provide, within three working days after such change, the Squid and Saury Association with the new vessel information or new photos. The Squid and Saury Association shall submit such information/photos to the competent authority within three working days following the receipt.
+
+### Article 9-1
+
+Any distant water fisheries operator of a squid jigging fishing vessel that has obtained the distant water fisheries permit may at any time register to the Squid and Saury Association for applying to the competent authority for new fishing area(s).
+
+## Chapter III Fishing Vessel Markings
+
+### Article 10
+
+Fishing vessels shall be marked with vessel markings, including, at least, the Chinese and English vessel name, name of registry port, CT numbers and IRCS. The characters and the edges of characters shall maintain clear and identifiable at all times.
+
+Where fishing vessels are fishing or berthing at ports, the IRCS shall be displayed clearly identifiable for the sighting by other vessels from the water surface or airplanes from the air.
+
+### Article 11
+
+The IRCS of a fishing vessel is its radio call sign.
+
+Vessel markings shall be painted with marine coating. Characters of the Chinese vessel name shall be block letters, and the numbers may be Arabic numerals. Characters of the English vessel name, CT numbers and the IRCS shall be capital letters and Arabic numerals. The height, width, and colors of characters shall meet the specifications as shown in Appendix 3.
+
+### Article 12
+
+Vessel markings shall be placed in accordance with the following:
+
+(1) The Chinese vessel name shall be placed on the port bow and the starboard bow, and the center of stern or port quarter or starboard quarter, where the vessel name is clearly visible.
+
+(2) The English vessel name shall be placed on the port bow and the starboard bow, and the center of stern or port quarter or starboard quarter, under the Chinese vessel name.
+
+(3) The CT numbers shall be placed on the port bow and the starboard bow, under the English vessel name.
+
+(4) The IRCS shall be placed above the waterline on both sides of any fishing vessels and on a deck where the IRCS is not obscured by fishing gear(s), and shall be clear of the bow, stern, discharge or areas which might be prone to damage or discoloration. In case that the lowest edge of characters is under the waterline when the fish holds are full, the IRCS shall be placed on the fishing vessel’s superstructure.
+
+## Chapter IV Management of Vessel Position Reporting
+
+### Article 13
+
+The ALC on board shall be maintained functional at all time, whether at sea or in port.
+
+The ALC on board any fishing vessel shall automatically transmit at least one vessel position in every hour.
+
+Fees for the services and communications of the ALC shall be borne by distant water fisheries operators.
+
+Except for the purpose of repair or replacement approved by the competent authority, any ALC which has been installed on board and has transmitted a vessel position shall not be removed from the fishing vessel.
+
+### Article 14
+
+In case that a fishing vessel needs to stay in a domestic port for three days or above; or in a foreign port for repair; or in a foreign port for seven days or above, its distant water fisheries operator may apply to the competent authority with documentary proof for switching off the ALC, which may only be switched off after obtaining approval.
+
+In the case of a fishing vessel applying for switching off the ALC during its stay in a foreign port for purposes except for repair, a photograph showing the berthing of such fishing vessel shall be provided weekly. The competent authority may order to switch on the ALC concerned in case of failing to provide the photograph in due course.
+
+The period of switching off the ALC as approved in accordance with paragraph 1 shall not exceed six months for each application. Extension may be applied by the distant water fisheries operator concerned in accordance with the preceding provision before the period is expired.
+
+Any fishing vessel shall not leave the port during the period of switching off the ALC.
+
+In the event that the ALC onboard is rebooted, the fishing vessel may only leave the port after the commissioned professional institution has confirmed that such ALC can regularly and normally transmit vessel positions.
+
+### Article 15
+
+Any fishing vessel shall carry at least one spare set of ALC on board.
+
+In case that the identification number of the ALC on board has been changed, the distant water fisheries operator shall notify the competent authority or the commissioned professional institution in writing.
+
+### Article 16
+
+The ALC is deemed as signal-lost in the event that the commissioned professional institution has not received positions automatically transmitted by the ALC twice consecutively. In the event that the ALC is signal-lost for three consecutive days, it is deemed as malfunction.
+
+The malfunctioning ALC shall be repaired no later than 30 days.
+
+In the event that the ALC on board is signal-lost or mal-functional, the distant water fisheries operator or the captain shall immediately send information related to vessel positions by facsimile to the commissioned professional institution. The vessel positions shall be recorded by automatic recording satellite navigator for perusal in later days.
+
+The transmit of vessel positions as referred to in the preceding paragraph shall be hourly for any fishing vessel.
+
+In the event that the ALC on board is mal-functional, the competent authority shall be notified of using the spare set. In case that the spare set is also mal-functional, the spare set from other fishing vessel may be deployed after obtaining the competent authority’s approval.
+
+### Article 17
+
+In the event that the ALC onboard is deemed as signal-lost for an accumulative period of five days and above during one fishing trip, the competent authority may order such fishing vessel to stop fishing immediately and directly navigate to a designated port within the required timeframe for repair and inspection(s) conducted by personnel dispatched by the competent authority, and such vessel shall not leave the port until the commissioned professional institution has confirmed that such ALC can regularly and normally transmit vessel positions.
+
+Any expense incurred from port return, port entry and confirmation of position transmitting as referred to in the preceding paragraph shall be borne by the distant water fisheries operator.
+
+### Article 17-1
+
+For any fishing vessel that is not within the water under the national jurisdiction of the Republic of China and without a valid distant water fisheries permit, it shall still maintain its ALC operational year-round, and Article 13 to 17 shall apply to such vessel.
+
+## Chapter V Logbooks and Catch Reports
+
+### Article 18
+
+In the event that any squid jigging fishing vessel leaves a port, its captain shall daily report catch data through the E-logbook system designated by the competent authority, and shall also fill in the logbooks designated by the competent authority by fishery types. Catch reports shall be filled in completely and accurately, and where the catch amount is zero, catch reports shall be filled in as well.
+
+In case that there is any discrepancy between any datum recorded in the E-logbook system and the logbook, the datum recorded in the E-logbook system shall prevail.
+
+### Article 19
+
+In case that the E-logbook system fails to report catch data on the day, the distant water fisheries operator or the captain shall transmit catch data via facsimile to the competent authority or the commissioned professional institution next day. Such catch data shall be signed by the distant water fisheries operator or the captain.
+
+In the event that the E-logbook system fails to report catch data for three consecutive days, it is deemed as mal-function. The malfunctioning E-logbook system shall be repaired no later than 30 days.
+
+In the event that the E-logbook system onboard is deemed as mal-functional for an accumulative period of 15 days and above during one fishing trip, the competent authority may order such fishing vessel to stop fishing immediately and directly navigate to a designated port within the required timeframe for repair and inspection(s) conducted by the personnel dispatched by the competent authority, and the vessel shall not leave the port until the commissioned professional institution has confirmed that such E-logbook system can normally transmit data.
+
+Any expense incurred from port return, port entry and confirmation of the E-logbook system as referred to in the preceding paragraph shall be borne by the distant water fisheries operator.
+
+### Article 20
+
+Any salmon, trout, sea turtle, seabird, whale shark, cetacean, penguin or other prohibited species promulgated by the competent authority incidentally caught by any squid jigging fishing vessel shall be released when caught alive or discarded dead, and the number(s) be duly recorded in the logbooks and E-logbook system.
+
+### Article 21
+
+Any fish species of no economic value or no utilizing value caught by any squid jigging fishing vessel shall be released immediately, and the number(s) discarded shall be duly recorded in the logbooks and E-logbook system.
+
+### Article 22
+
+In case of bycatch of sharks by any squid jigging fishing vessel, fins shall not be fully cut off and shall be naturally attached to carcasses for the disposal of shark fins, and the number(s) of sharks shall be duly recorded in the logbooks and the E-logbook system.
+
+### Article 23
+
+The datum reported through the E-logbook system shall not be altered or amended, unless there is apparent error with the content and the competent authority has approved.
+
+### Article 24
+
+The discrepancy between the catch amount recorded in the E-logbook during one fishing trip of any squid jigging fishing vessel and the actual landing amount shall not exceed 20% of the actual landing amount.
+
+In case that the discrepancy exceeds the ratio as referred to in the preceding paragraph but is less than four metric tons, the competent authority, at its discretion, may deem such situation as non-misreporting.
+
+In the event that the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds four metric tons and 50% of the actual landing amount, it shall be defined as “seriously misreporting” as referred to in subparagraph (12) of Article 13, paragraph 1 of the Act.
+
+## Chapter VI The Designation and Management of Ports for Transshipment or Landing
+
+### Article 25
+
+Any squid jigging fishing vessel intending to transship or land in port shall be limited to the following ports:
+
+(1) Foreign ports:
+
+i.    Eastern Pacific Ocean fishing area: Callao, Peru.
+
+ii.    North Pacific Ocean fishing area: Busan, Korea.
+
+iii.    Southwestern Atlantic Ocean fishing area: Montevideo, Uruguay; and Port Stanley, Falkland Islands.
+
+(2) Domestic ports: Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Cijin Fishing Harbor, or Pier No. 41 of Kaohsiung Port of Kaohsiung City.
+
+For any landing or in-port transshipment approved by the competent authority to be conducted in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Cijin Fishing Harbor, or Pier No. 41 of Kaohsiung Port, the landing or in-port transshipment may be conducted at any of these ports within the timeframe approved.
+
+Any fishing vessel intending to landing in port(s) in mainland China shall be limited to the designated ports stipulated in the Regulations on Permission and the Management of Fishing Vessels Sailing to Mainland China.
+
+### Article 26
+
+Any carrier vessel of the Republic of China that intends to transship catches from squid jigging fishing vessel(s) shall obtain the distant water fisheries permit.
+
+Any carrier vessel intending to transship catches from squid jigging fishing vessel(s) shall be installed with the ALC which meets the standards specified by the competent authority, report its position hourly to the commissioned professional institution, and meet the following requirements:
+
+(1) Any carrier vessel intending to transship catches caught from squid jigging fishing vessel(s) of the eastern Pacific Ocean fishing area shall be on the list of authorized vessels of the South Pacific Regional Fisheries Management Organization (hereinafter referred to as “SPRFMO”) and shall carry an observer.
+
+(2) Any carrier vessel intending to transship catches caught from squid jigging fishing vessel(s) of the north Pacific Ocean fishing area shall be on the approved vessels list of the North Pacific Fisheries Commission (hereinafter referred to as “NPFC”).
+
+(3) Any carrier vessel intending to transship catches caught from squid jigging fishing vessel(s) of the southwestern Atlantic Ocean fishing area shall obtain the operation permit from the flag State concerned.
+
+### Article 27
+
+Any carrier vessel of the Republic of China shall not transship with, refuel, or supply any fishing vessel not on the approved vessels list of the NPFC or the list of authorized vessels of the SPRFMO, or any fishing vessel that has altered its name or registration number.
+
+For any fishing vessel intending to engage in transshipment, supply, or refueling with other vessel(s) in the Convention Area of the NPFC or SPRFMO, it shall not engage in such activities with vessel(s) not on the approved vessels list of the NPFC or the list of authorized vessels of the SPRFMO, or vessel(s) that has altered its name or registration number.
+
+### Article 28
+
+In case of any of the following circumstances, the competent authority shall list the foreign carrier vessel concerned which transships catches from squid jigging fishing vessel(s) on the non-cooperative carriers list:
+
+(1) The foreign carrier vessel has violated any provision regarding vessel position reporting; or
+
+(2) The foreign carrier vessel has violated any provision regarding transshipment or landing.
+
+### Article 29
+
+For any carrier vessel intending to transship at sea, the distant water fisheries operator shall submit the transshipment plan and relevant information (as shown in Appendix 4) and apply to the competent authority five days before the transshipment at sea for approval. In case that the last day for filing the application is a day-off, the application shall be made on the working day before the day-off.
+
+Any foreign carrier vessel shall, with the enclosure of relevant information as shown in Appendix 4, apply to the competent authority for approval before conducting the transshipment in port with any squid jigging fishing vessel for the first time in the current year.
+
+In case of any addition to the list of squid jigging fishing vessel(s) in the transshipment plan authorized by the competent authority, the application shall be submitted two working days before making such addition to the competent authority for approval. The transshipment with the concerned squid jigging fishing vessel(s) may only be conducted after the approval has been granted. Any application submitted after the prescribed deadline shall be denied.
+
+### Article 30
+
+In case of any of the following circumstances, the application of in-port transshipment or the transshipment plan as referred to in Article 29 shall be denied:
+
+(1) The carrier vessel concerned does not meet the requirements stipulated in Article 26.
+
+(2) Three years have not passed since the carrier vessel concerned was listed on the non-cooperative carriers list, or one year has not passed since the carrier vessel was listed on the non-cooperative carriers list for not submitting the transshipment declaration to the competent authority or the NPFC Secretariat within the required timeframe, in violation of Article 35.
+
+(3) The fine for violating the Act imposed on the carrier vessel concerned has not been paid completely.
+
+### Article 31
+
+Any squid jigging fishing vessel and carrier vessel that intends to conduct transshipment shall respectively apply for the approval from the competent authority before the transshipment.
+
+Any (distant water fisheries) operator or captain applying for the approval as referred to in the preceding paragraph shall fill in the transshipment notification (as shown in Appendix 5 for the eastern Pacific Ocean fishing area and southwestern Atlantic Ocean fishing area, Appendix 5-1 for the north Pacific Ocean fishing area) and submit it to the competent authority no later than three days before the estimated date for transshipment. In case that the last day for filing the application is a day-off, the application shall be made on the working day before the day-off. Notwithstanding such provision, in case of force majeure that prevents a vessel from applying by the deadline for transshipping catches caught from the north Pacific Ocean fishing area, the application shall be filed before the completion of the concerned transshipment.
+
+Squid jigging fishing vessels and carrier vessels approved by the competent authority to transship shall comply with the following requirements:
+
+(1) In the case of transshipping catches caught from the eastern Pacific Ocean fishing area:
+
+i.    The transshipment may be conducted within 72 hours after the approved time for transshipment, but shall only be conducted within 50 nautical miles of the approved location for transshipment.
+
+ii.    The (distant water fisheries) operator or the captain concerned shall, 24 hours before the estimated time for transshipment, fill in the transshipment notification (format as shown in Appendix 5) and apply to the competent authority for the change of transshipment time and/or location, if the transshipment cannot be conducted within the timeframe or range as referred to in the preceding item. Any application made after the timeframe shall be denied. In case that other matter(s) is also changed in addition to the transshipment time and/or location, a new application shall be made in accordance with the preceding paragraph.
+
+iii.    If an approved transshipment is cancelled, the concerned operators or captains of the squid jigging fishing vessel and carrier vessel shall notify the competent authority within three days after the approved period for transshipment.
+
+(2) In the case of transshipping catches caught from the north Pacific Ocean fishing area:
+
+i.    The transshipment may be conducted within 24 hours after the approved time for transshipment, but shall only be conducted within 20 nautical miles of the approved location for transshipment. Notwithstanding such provision, from 24 July 2024 onward, for any transshipment notification made to the NPFC Secretariat via the NPFC Transshipment Record, such transshipment may be conducted within 72 hours after the approved time for transshipment, but shall only be conducted within 50 nautical miles of the approved location for transshipment.
+
+ii.    The (distant water fisheries) operator or the captain concerned shall, 24 hours before the estimated time for transshipment, fill in the transshipment notification (as shown in Appendix 5-1) and apply to the competent authority for the change of transshipment time and/or location, if the transshipment cannot be conducted within the timeframe or range as referred to in the preceding item. Any application made after the timeframe shall be denied. In case that other matter(s) is also changed in addition to the transshipment time and/or location, a new application shall be made in accordance with the preceding paragraph.
+
+iii.    When filing an application in accordance with the preceding paragraph or item, the (distant water fisheries) operator or captain concerned shall simultaneously, or no later than 24 hours before the estimated time for transshipment, submit the transshipment notification (as shown in Appendix 5-1) to the NPFC Secretariat. In case of force majeure that prevents a vessel from submitting such notification within the timeframe, the notification shall be submitted before the completion of the transshipment.
+
+iv.    If an approved transshipment is cancelled, the concerned operators or captains of the squid jigging fishing vessel and carrier vessel shall notify the competent authority and the NPFC Secretariat within three days after the approved period for transshipment.
+
+(3) In the case of transshipping catches caught from the southwestern Atlantic Ocean fishing area:
+
+i.    The transshipment may be conducted on the approved date for transshipment or within three days before or five days after the approved date. Notwithstanding such provision, the actual transshipment date shall not be within two days after the application date.
+
+ii.    The (distant water fisheries) operator or the captain concerned may, before the end of the timeframe, apply for the change of transshipment date, if the transshipment cannot be conducted within the timeframe as referred to in the preceding item. The transshipment shall only be conducted after obtaining the approval from the competent authority. Any application made after the timeframe shall be denied.
+
+### Article 32
+
+For any squid jigging fishing vessel or carrier vessel that is under any of the following circumstances during the current fishing trip, the competent authority shall not authorize such vessel to transship at sea:
+
+(1) The ALC on board is mal-functional and has not been repaired.
+
+(2) There is concrete evidence to identify such vessel has involved in any serious infringement as prescribed in subparagraph (4) to (14) or (18) of Article 13, paragraph 1 of the Act.
+
+(3) The discrepancy between the amount to be transshipped and the catch amount reported through the E-logbook system exceeds 20% of the latter.
+
+In case that, for the catches to be transshipped, it is suspected that the squid jigging vessel or carrier vessel concerned has operated within the water under the jurisdiction of any other country without valid permission, the competent authority may not authorize such vessel to transship at sea.
+
+### Article 33
+
+In the event that the catch of any squid jigging fishing vessel has been landed in a port and is subsequently transported by a carrier vessel for port departure, it shall be deemed as transshipment, and Article 31 shall apply.
+
+### Article 34
+
+The squid jigging fishing vessel or carrier vessel which obtains the approval to transship pursuant to Article 31 shall not conduct the transshipment in the event that the ALC on board is signal-lost and has not been repaired.
+
+### Article 35
+
+For any carrier vessel that receives catches, it shall separate catches from each individual squid jigging fishing vessel, fill in transshipment declaration(s) (as shown in Appendix 6 for the eastern Pacific Ocean fishing area and southwestern Atlantic Ocean fishing area, Appendix 6-1 for the north Pacific Ocean fishing area), and shall place onboard the transshipment declaration(s) for the transshipment(s) conducted within the current trip for inspection.
+
+The (distant water fisheries) operators or the captains of any squid jigging fishing vessel and carrier vessel shall, within five working days after the completion of a transshipment, respectively submit the transshipment declaration to the competent authority. In the case of transshipping catches caught from the north Pacific Ocean fishing area, the transshipment declaration shall also be submitted to the NPFC Secretariat within five working days after the completion of the transshipment.
+
+### Article 36
+
+For any squid jigging fishing vessel landing its catch in a domestic or foreign port, the following person(s) shall fill in the landing notification (as shown in Appendix 7), and submit it to the competent authority for approval by the following deadline; and in case that the last day for filing the application is a day-off, the application shall be made on the working day before the day-off:
+
+(1) For the landing conducted by a squid jigging fishing vessel, its distant water fisheries operator or captain shall submit it no later than three days before the estimated date for landing.
+
+(2) For the landing conducted by a squid jigging fishing vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator or the captain of such squid jigging vessel shall submit it no later than three days before the estimated date for landing.
+
+(3) For the landing conducted by a carrier vessel, the distant water fisheries operator of a squid jigging fishing vessel shall submit it no later than three days before the estimated date for landing.
+
+(4) For the landing conducted by a carrier vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator of a squid jigging fishing vessel shall submit it no later than three days before the estimated date for landing.
+
+Fishing vessels approved by the competent authority to conduct landing may land the catch within seven days from the date approved to conduct landing. For any fishing vessel that is approved to land in the domestic port as referred to in Article 25, paragraph 2, the landing may be conducted within 11 days.
+
+For any landing that cannot be conducted within the timeframe as referred to in the preceding paragraph, the (distant water fisheries) operator or the captain concerned may apply for the change of landing date before the end of the timeframe, and the landing shall only be conducted after obtaining the approval from the competent authority. Any application made after the timeframe shall be denied.
+
+For any squid jigging fishing vessel whose catch is landed in a foreign port and transported to a domestic port by a container vessel, the distant water fisheries operator of such squid jigging vessel shall, no later than three days before the container vessel’s port entry, notify the competent authority of the time for port entry and the name of the port.
+
+Fishing vessels may only apply for navigating from the fishing area to the port(s) of Mainland China for landing in accordance with paragraph 1 after the completion of fishing operations in the current year, and shall not load any object from the Mainland China.
+
+### Article 37
+
+Upon completing a landing of catches of any squid jigging fishing vessel, the following person(s) shall fill in and submit to the competent authority the landing declaration (as shown in Appendix 7 for the north Pacific Ocean fishing area and southwestern Atlantic Ocean fishing area; Appendix 8 for the eastern Pacific fishing area), by the following deadline:
+
+(1) For the landing conducted by a squid jigging fishing vessel, its distant water fisheries operator or captain shall submit it within ten working days after the completion of the landing.
+
+(2) For the landing conducted by a squid jigging fishing vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator of such squid jigging vessel shall submit it within ten working days after the container(s) containing such catch unloads and completes customs clearance.
+
+(3) For the landing conducted by a carrier vessel, the distant water fisheries operator of a squid jigging fishing vessel shall submit it within ten working days after the completion of the landing by the carrier vessel.
+
+(4) For the landing conducted by a carrier vessel with the catch subsequently being transported by commissioning a container vessel, the distant water fisheries operator of a squid jigging fishing vessel shall submit it within ten working days after the container(s) containing such catch unloads and completes customs clearance.
+
+The term “completion of landing” as referred to in these Regulations means the whole weighing process has been completed for the catch landed in a port.
+
+For catches caught from the eastern Pacific Ocean fishing area and transshipped by commissioning any carrier vessel, the distant water fisheries operator or the captain of such carrier vessel shall submit the Landing Declaration for Carrier Vessels Operating in the Eastern Pacific Ocean (as shown in Appendix 9) to the competent authority within ten working days following the completion of landing of all the commissioned catches from the squid jigging fishing vessel(s).
+
+### Article 38
+
+The distant water fisheries operator and captain of any fishing vessel shall accept port inspections conducted by the competent authority or the independent third party for the verification of the catch landed or transshipped.
+
+The distant water fisheries operator or captain of any fishing vessel that is designated by the competent authority to be inspected shall comply with the following:
+
+(1) For inspections conducted by the competent authority, the landing or transshipment shall be started only after the person(s) of the competent authority has arrived.
+
+(2) For inspections conducted by the independent third party, the contact with the independent third party shall be made, and the landing and transshipment shall be started only after the person(s) of the independent third party has arrived.
+
+### Article 39
+
+The distant water fisheries operator of any squid jigging fishing vessel shall, within 60 days after the completion of sale or landing, submit sales or inventory information to the competent authority. The sales information shall at least include buyer(s), fish species and quantities.
+
+### Article 39-1
+
+Any of the following circumstances shall be imposed with punishment(s) in accordance with Article 36 of the Act:
+
+(1) Any transshipment is conducted without approval, or in the case of transshipping catches caught from the north Pacific Ocean under force majeure, the transshipment application is not filed before the completion of the concerned transshipment, in violation of Article 31, paragraph 1 or 2.
+
+(2) Any transshipment is conducted not within the approved timeframe or range, in violation of item i of Article 31, paragraph 3, subparagraph (1); item i of Article 31, paragraph 3, subparagraph (2); or item i of Article 31, paragraph 3, subparagraph (3). Notwithstanding, the circumstances as stipulated in paragraph 2, subparagraph (3) and (5) of this Article are not subject to this provision.
+
+(3) Any landing is conducted without approval, in violation of Article 36, paragraph1.
+
+(4) Any landing is conducted not within the approved timeframe, in violation of Article 36, paragraph 2. Notwithstanding, the circumstances as stipulated in paragraph 2, subparagraph (11) of this Article are not subject to this provision.
+
+(5) Any inspection for verification of the catch is evaded, obstructed, or refused, in violation of Article 38, paragraph 1; or the requirements as stipulated in Article 38, paragraph 2 are not complied with.
+
+Any of the following circumstances shall be imposed with punishment(s) in accordance with Article 41 of the Act:
+
+(1) Any carrier vessel of the Republic of China transships with, refuels, or supplies any fishing vessel not on the approved vessels list of the NPFC or the list of authorized vessels of the SPRFMO, or any fishing vessel that has altered its name or registration number, in violation of Article 27, paragraph 1.
+
+(2) Any fishing vessel engage in refueling or supply within the Convention area of the NPFC or SPRFMO with any fishing vessel not on the approved vessels list of the NPFC or on the list of authorized vessels of the SPRFMO, or any fishing vessel that has altered its name or registration number, in violation of Article 27, paragraph 2.
+
+(3) Any fishing vessel or carrier vessel authorized to transship in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Cijin Fishing Harbor, or Pier No. 41 of Kaohsiung Port conducts such activity after the timeframe approved, in violation of item i of Article 31, paragraph 3, subparagraph (1); item i of Article 31, paragraph 3, subparagraph (2); or item i of Article 31, paragraph 3, subparagraph (3).
+
+(4) Any fishing vessel or carrier vessel that transships catches caught from the eastern Pacific Ocean fishing area fails to notify the competent authority of the cancellation of the transshipment within three days after the approved period for transshipment, in violation of item iii of Article 31, paragraph 3, subparagraph (1).
+
+(5) Any transshipment of catches caught from the north Pacific Ocean fishing area, the notification of which is not filed via the NPFC Transshipment Record, is conducted between 24 hours to 72 hours after the approved time for transshipment or between 20 nautical miles to 50 nautical miles from the approved location for transshipment, in violation of item i of Article 31, paragraph 3, subparagraph (2).
+
+(6) Any fishing vessel or carrier vessel that transships catches caught from the north Pacific Ocean fishing area fails to submit the transshipment notification to the NPFC Secretariat no later than 24 hours before the estimated time for transshipment, or in the case of force majeure, before the completion of the transshipment, in violation of item iii of Article 31, paragraph 3, subparagraph (2).
+
+(7) Any fishing vessel or carrier vessel that transships catches caught from the north Pacific Ocean fishing area fails to notify the competent authority or the NPFC Secretariat of the cancellation of the transshipment within three days after the approved period for transshipment, in violation of item iv of Article 31, paragraph 3, subparagraph (2).
+
+(8) Transshipment is conducted when the ALC on board is signal-lost and has not been repaired, in violation of Article 34.
+
+(9) Transshipment declaration(s) for the transshipment(s) conducted within the current trip is not placed onboard, in violation of Article 35, paragraph 1.
+
+(10) The transshipment declaration is not submitted to the competent authority before the deadline, or in the case of transshipping catches caught from the north Pacific Ocean fishing area, the transshipment declaration is not submitted to the NPFC Secretariat before the deadline, in violation of Article 35, paragraph 2.
+
+(11) A fishing vessel that is under the circumstances stipulated in the proviso clause of Article 36, paragraph 2 lands in Chienchen Fishing Harbor, Siaogang Linhai New Residential Quarter Fishing Harbor, Cijin Fishing Harbor, or Pier No. 41 of Kaohsiung Port after the timeframe approved.
+
+(12) The landing declaration is not submitted before the deadline, in violation of Article 37.
+
+## Chapter VII Observation or Inspection during Fishing Operations
+
+### Article 40
+
+Any distant water fisheries operator whose fishing vessel receives an observer dispatched by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization shall comply with the following:
+
+(1) He/she shall notify the competent authority in writing seven working days before the date of intended port entry or departure.
+
+(2) To embark and disembark the observer at the time and place informed by the competent authority.
+
+(3) To provide the observer, while onboard the vessel, with food, accommodation, adequate sanitary amenities, and medical facilities of a reasonable standard equivalent to those normally available to an officer onboard the vessel.
+
+(4) To instruct the captain and crew of the vessel matters related to the cooperation with or assisting the observer in carrying out the duties and to ensure the safety of the observer.
+
+### Article 41
+
+The captain of any fishing vessel that receives the observer dispatched by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization shall comply with the following:
+
+(1) The captain shall attend the pre-sail training course given by the competent authority.
+
+(2) When an observer is on board the fishing vessel, the captain shall inform the observer of the daily routine, personal safety and vessel equipment.
+
+(3) The captain shall cooperate with and assist the observer in carrying out duties, and shall not evade, obstruct or refuse to answer the inquiry related to the observation mission.
+
+(4) The captain shall not interfere with, assault, intimidate, or bribe the observer.
+
+(5) The captain shall provide the observer with adequate space, facilities, equipment and information on the vessel necessary for his daily living and for carrying out his/her duties.
+
+(6) The captain shall request the crew to comply with the provisions stipulated in the preceding three subparagraphs.
+
+(7) The captain shall sign on the record(s) of observation written by the observer. In case there are different views on the record(s) of the observer, captain’s opinions may be added.
+
+(8) The captain shall ensure the safety of the observer. In case of emergency or distress, special care and refuge shall be provided to the observer.
+
+### Article 41-1
+
+In the event that an observer dies or the search and rescue are ceased for a missing observer fallen overboard, the fishing vessel shall immediately cease fishing operations, and the competent authority shall order such vessel to navigate directly to the port designated by the competent authority for investigation.
+
+In the event that an observer suffers from a serious illness or injury that threatens his or her health or safety, the fishing vessel shall immediately cease fishing operations and facilitate the disembarkation of the observer for appropriate medical treatment.
+
+In the event that an observer is assaulted, intimidated, threatened, or harassed, the competent authority may order such vessel to immediately cease fishing operations and navigate to the designated port within the required timeframe.
+
+### Article 42
+
+In the event of boarding and inspection conducted by the inspector(s) dispatched by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization, any captain and crew of the inspected vessel shall cooperate with, facilitate the safe boarding and disembarkation of the inspector(s), and provide the inspector(s) with adequate space, facilities, and equipment for carrying out the duties.
+
+## Chapter VIII Special Management Measures for High Risk Fishing Vessels
+
+### Article 43
+
+Matters related to the management of high risk fishing vessels categorized by the competent authority shall be governed by this Chapter. Matters not stipulated in this Chapter shall be governed by these Regulations.
+
+### Article 44
+
+Any distant water fisheries operator of the high risk fishing vessels shall, starting from the date that the competent authority informs the distant water fisheries operator of such vessel, comply with the special management measures as follows:
+
+(1) Any high risk fishing vessel shall not engage in fisheries cooperation by means of being chartered to any foreigner.
+
+(2) For each fishing trip of such vessel, the observer dispatched by the competent authority shall be carried on board, or the functional electronic monitoring equipment shall be installed on board before leaving a port. For such vessel that has carried on board the observer who meets the requirement of the international fisheries organization(s), it shall be exempted.
+
+(3) Vessel positions shall be transmitted in accordance with Chapter VI.
+
+(4) Catch reports shall be conducted in accordance with provisions stipulated in Chapter V.
+
+(5) Such vessel shall not conduct at-sea transshipment.
+
+(6) For transshipment in port, the Transshipment Notification shall be filled in to apply for the approval of the competent authority, no later than seven days before the estimated date for transshipment.
+
+(7) For landing in port, the Advance Notice of Landing shall be filled in to apply for the approval of the competent authority, no later than seven days before the estimated date for landing.
+
+(8) In case of transshipment or landing in port, inspections shall be conducted by the competent authority or the independent third party.
+
+### Article 45
+
+In the event that any high risk fishing vessel does not violate any regulation for one year starting from the date of being listed as high risk fishing vessel, such vessel shall be de-listed and exempted from the special management measures.
+
+## Chapter IX Supplemental Provisions
+
+### Article 46
+
+To prevent harming marine living species, any fishing vessel shall not dispose any type of plastic trash or discharge any oil on the sea.
+
+### Article 46-1
+
+Any squid jigging fishing vessel operating in the eastern Pacific Ocean fishing area shall not deliberately discard or abandon its fishing gear(s) at sea. Any fishing gear lost, or for safety reason(s) discarded or abandoned, shall be reported to the competent authority through the completion of the notification form within 48 hours after finding such event. The format of the notification form is as shown in Appendix 10.
+
+### Article 47
+
+These Regulations shall become effective on January 20, 2017.
+
+Amendments to these Regulations shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1 Fishing areas for squid jigging fishing vessels.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008664)
+- [Appendix 2 Application Form for Conducting Squid Jigging Fishery for Year ___.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008665)
+- [Appendix 3 Specification of Width, Height and Color of Characters for Vessel Markings.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008666)
+- [Appendix 4 Information to Be Submitted for Carrier Vessels Intending to Transship.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008667)
+- [Appendix 5 Transshipment Notification for the Eastern Pacific Ocean Fishing area and Southwestern Atlantic Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008668)
+- [Appendix 5-1 Transshipment Notification for the North Pacific Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008669)
+- [Appendix 6 Transshippment Declaration for the Eastern Pacific Ocean Fishing Area and Southerwestern Atlantic Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008670)
+- [Appendix 6-1 Transshipment Declaration for the North Pacfic Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008671)
+- [Appendix 7 Landing Notification／ Landing Declaration for Catches of Distant Water Fishing Vessels.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008672)
+- [Appendix 8 Landing Declaration for Squid Jigging Fishing Vessels Fishing in the Eastern Pacific Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008673)
+- [Appendix 9 Landing Declaration for Carrier Vessels Operating in the Eastern Pacific Ocean.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008674)
+- [Appendix 10 Notification Form for ALDFG in the Eastern Pacific Ocean Fishing Area.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008675)
+
+## History
+
+1.The full text of 47 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061332419A.
+
+2.Part of these Regulations, Appendix 2 of Article 5, and Appendix 6 of Article 35 amended and promulgated on 30 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061339866.
+
+3.Part of these Regulations, Appendix 2 of Article 5, Appendix 4 of Article 29, Appendix 6 of Article 35, and Appendix 8 and 9 of Article 37 amended and promulgated on 22 May 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1081334261.
+
+4.Part of these Regulations and Appendix 6 of Article 35 amended and promulgated on 25 November 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1111337076.
+
+5.Part of these Regulations, Appendix 7 of Article 36, and Appendix 8 of Article 37 amended and promulgated on 30 September 2024 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1131535434.

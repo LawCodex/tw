@@ -1,0 +1,219 @@
+---
+title: "Regulations Governing the Placement and Service of Victims and Suspected Victims of Human Trafficking"
+title_zh: "人口販運被害人及疑似人口販運被害人安置服務管理規則"
+identifier: "D0080182"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-06-01
+last_amended: 2023-12-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080182"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Placement and Service of Victims and Suspected Victims of Human Trafficking
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080182-regulations-governing-the-placement-and-service-of-victims-and-suspected.md](../../../zh/regulations/ministry-of-the-interior/D0080182-regulations-governing-the-placement-and-service-of-victims-and-suspected.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted pursuant to Article 15, Paragraph 2 of the Human Trafficking Prevention Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+Placement services for victims of human trafficking (hereinafter referred to as "victims") and suspected victims of human trafficking (hereinafter referred to as "suspected victims") shall be handled by the following agencies based on their identity:
+
+1.Nationals with household registration in the Taiwan Area: Competent authorities of municipalities or counties (cities).
+
+2.Nationals without household registration in the Taiwan Area, foreign nationals, stateless persons, people of the Mainland Area, residents of Hong Kong or Macau:
+
+a.Those holding work visas for employment in Taiwan (hereinafter referred to as "work visas"): Central labor competent authority.
+
+b.Those not holding work visas: Central competent authority.
+
+Agencies mentioned in the preceding paragraph may delegate or commission other agencies or private organizations to handle the placement services for victims and suspected victims.
+
+## Article 3
+
+Competent authorities and labor competent authorities at respective levels, for the placement services of victims and suspected victims, shall, pursuant to Article 15, Paragraph 2 of the Act, establish or designate appropriate places as follows:
+
+1.Institutional placement service facilities: Places established by the agencies through public-private partnerships, entrusting to private organizations, or in other ways. These places may be combined with those addressing labor disputes or other placement needs based on actual circumstances, and services shall be provided by the respective places.
+
+2.Community-based placement service facilities: After evaluation by the relevant competent authorities and with the agreement of the victims, services shall be provided in the homes or other appropriate places of relatives, as desired by the victims. These services shall be provided by private organizations commissioned for this purpose.
+
+## Article 4
+
+When judicial police agencies (units) refer victims and suspected victims to placement service facilities, they shall, based on their identity, contact the competent authorities or private organizations designated by Article 2, Paragraph 1, for escort, handover, and placement matters.
+
+If the victims or suspected victims prescribed in the preceding paragraph are nationals without household registration in the Taiwan Area, foreign nationals, stateless persons, people of the Mainland Area, residents of Hong Kong or Macau, after placement, the judicial police agencies (units) shall notify the specialized operation brigades under respective Taiwan Administration Corp of the National Immigration Agency, Ministry of the Interior (hereinafter referred to as "the NIA").
+
+## Article 5
+
+Institutional placement service facilities shall segregate victims and suspected victims by gender. For individuals undergoing gender changes or identifying as transgender, placement may be done in individual rooms based on their gender as indicated on their identification documents, gender dysphoria diagnosis, or medical proof.
+
+Institutional placement service facilities shall establish living agreements to regulate daily routines, and such agreements shall be provided to the competent authorities of the respective placement service facilities for reference.
+
+In addition to being written in Chinese, the content of the living agreements may be presented in English or other languages understood by victims or suspected victims during their admission.
+
+The content of the living agreements in the preceding paragraph shall include the following items and shall be posted or displayed prominently within institutional placement service facilities:
+
+1.Assistance provisions under Article 15, Paragraph 1 of the Act.
+
+2.Security maintenance and confidentiality obligations.
+
+3.Access control management and regulations on entry and exit time.
+
+4.Regulations on communication and visitors.
+
+5.Prohibitions on disruptive behavior, arguing, drinking, gambling, damaging public property, harming others, and violating management orders.
+
+6.Procedures for appealing the actions taken by institutional placement service facilities.
+
+7.Other compliance and precautions.
+
+## Article 6
+
+Institutional placement service facilities shall stop victims and suspected victims who violate the living agreements and may take necessary measures, including:
+
+1.Verbal warnings.
+
+2.Restricting phone call.
+
+3.Suspending meetings.
+
+4.Increasing the frequency of care and counseling sessions.
+
+5.Other necessary counseling measures.
+
+Institutional placement service facilities may implement the measures prescribed in the preceding paragraph orally or in writing, and they shall comply with the principle of proportionality.
+
+Victims and suspected victims who disagree with the measures taken under the first paragraph may file a complaint.
+
+## Article 7
+
+Institutional placement service facilities shall preserve information such as the employer, contact information, workplace, and nature of work for victims who have obtained work permits. For suspected victims and victims without work permits, they shall be informed that they are not allowed to engage in illegal employment.
+
+## Article 8
+
+Institutional placement service facilities shall report case information, time of violation, events, and subsequent handling to respective competent authorities, if victims and suspected victims violate the living agreements, leave the placement service facilities without permission, have unknown whereabouts, or violate regulations.
+
+## Article 9
+
+Victims and suspected victims with any of the following circumstances may not be provided with institutional placement services, or if discovered after placement, services may be temporarily suspended:
+
+1.Drug addiction or obvious mental disorders.
+
+2.Suspected of having contagious diseases based on the screening specified in Article 12 of the Act.
+
+3.Suicidal tendencies, self-harm, or a risk of causing harm or death to others.
+
+4.Other circumstances deemed unsuitable for placement services by institutional placement service facilities after assessment.
+
+Victims or suspected victims with any of the circumstances specified in the preceding paragraph shall be handled or provided with appropriate assistance by judicial police agencies (units), health and welfare competent authorities, or other relevant agencies (institutions) in accordance with relevant laws and regulations.
+
+## Article 10
+
+Institutional placement service facilities shall, as needed, provide, refer, or arrange  skill training, life adaptation, language or other training courses for victims and suspected victims.
+
+## Article 11
+
+When victims or suspected victims need to testify or be questioned during the investigation or trial of a case, and there are facts sufficient to believe that their personal safety is at risk, institutional placement service facilities may request the judicial police agency (unit) that transferred the case to perform secure escort work.
+
+The judicial police agency (unit) shall not refuse the request in the preceding paragraph without proper justification.
+
+## Article 12
+
+When victims or suspected victims need to seek medical treatment at a healthcare institution, institutional placement service facilities shall assign a dedicated person to accompany them and provide necessary assistance.
+
+## Article 13
+
+Victims who meet the conditions specified in Article 14, Paragraph 1 of the Act shall, before the expiration of their residence period, be assisted by institutional placement service facilities in applying for an extension.
+
+## Article 14
+
+Institutional placement service facilities shall establish a file of victims and suspected victims, specifying the following matters:
+
+1.Roster: Basic information of victims and suspected victims, brief description of the case upon admission, the name and contact number of the judicial police agencies (units) and the person in charge transferring the case.
+
+2.Brief records of daily life conditions.
+
+3.Records of visits from family and friends.
+
+4.Records of illnesses and medical treatment.
+
+5.Records of interrogation by courts and prosecutors.
+
+6.Records of legal assistance, psychological counseling and consultation services, financial assistance, and other assistance provided.
+
+7.Duration of residence permit.
+
+8.Records related to the conclusion of placement services upon release.
+
+## Article 15
+
+If a victim or suspected victim of institutional placement service facilities falls into any of the following circumstances, the placement services may be terminated and other necessary assistance measures may be provided depending on the situation:
+
+1.Being legally employed in Taiwan with appropriate wages.
+
+2.Having a clear scheduled date for return to the country (region) of origin.
+
+3.No longer necessary to cooperate with the investigation or trial regarding relevant human trafficking cases.
+
+4.Serious violation of the living agreements.
+
+5.Engaging in behavior that harms good customs.
+
+6.Being suspected of committing a serious crime.
+
+7.Suspected victims identified as non-victims through assessment.
+
+8.Other situations assessed by institutional placement service facilities as requiring termination of placement service.
+
+For victims and suspected victims who refuse to leave institutional placement service facilities after the conclusion of institutional placement services, the facilities may, if necessary, request the relevant competent authority to coordinate with the judicial police (unit) to send personnel to assist in handling.
+
+## Article 16
+
+Institutional placement service facilities shall, within one working day after victims and suspected victims conclude placement services and are released, notify the respective competent authorities.
+
+For victims expressing the intention to return to their country (region) of origin, institutional placement service facilities shall promptly notify the judicial authorities.
+
+Regarding the victims in the preceding paragraph, institutional placement service facilities shall, in advance, contact the judicial authorities to confirm the court date and relevant judicial procedures, and inform the victims of the necessity to cooperate with the investigation or trial.
+
+## Article 17
+
+Regarding the matters of assisting in the safe return of victims to their country of origin as stipulated in Paragraph 1 of Article 28 of the Act, the institutional placement service facilities shall, after inquiring with the victim, cooperate with the duty planning of the specialized operation brigades under respective Taiwan Administration Corp of the NIA to assist in arranging for escort to the airport or port.
+
+## Article 18
+
+Personnel dispatched by judicial police (unit) to carry out the escort work for victims and suspected victims under these Regulations may present supporting documents to the NIA for reimbursement of the following expenses:
+
+1.Meal expenses for victims, suspected victims, and escort personnel: Limited to NT$100 per meal per person.
+
+2.Fuel expenses for escort work not conducted with official vehicles due to special circumstances: Calculated at NT$6 per kilometer, with a limit of NT$1,200 for a round trip.
+
+The expenses mentioned in the preceding paragraph shall be budgeted and provided by the NIA.
+
+## Article 19
+
+Victims and suspected victims who are nationals without household registration in the Taiwan Area, foreign nationals, stateless persons, people of the Mainland Area, or residents of Hong Kong or Macau, leaving institutional placement service facilities without permission or have unknown whereabouts, shall, when discovered by the judicial police (unit), be handed over to the specialized operation brigades under respective Taiwan Administration Corp of the Immigration Agency, for legal custody or other necessary disposition.
+
+## Article 20
+
+For entrusted private organizations adopting community-based placement services for victims, when they handle case management and related assistance matters, they should apply mutatis mutandis Articles 7, Article 8, Article 9, Paragraph 1, Subparagraphs 1 to 3, Articles 10 to 13, Article 14, Subparagraphs 1, 4 to 7, Article 15, Paragraph 1, Subparagraphs 2, 3, 5 to 7, Articles 16 and Article 17.
+
+## Article 21
+
+The effective date of these Regulations shall be determined by the Ministry of the Interior.
+
+## History
+
+1.The Enforcement Rules with all 17 articles were promulgated per Order of Ministry of Interior No. Tai-Nei-Yi-Zi-0980959973 dated June 1, 2009
+
+The Enforcement Rules were implemented on June 1, 2009 per Order of Ministry of Interior No. Tai-Nei-Yi-Zi-0980959985 dated June 3, 2009
+
+2.On December 28, 2023, the Ministry of the Interior issued the decree with the reference number Tai-Nei-Yi-Zi No. 11209133931, amending and promulgating the title and the full text consisting of 21 articles. These regulations shall be implemented from January 1, 2024. (Original Title: Regulations Governing the Placement and Protection of Victims and Suspected Victims of Human Trafficking; New Title: Regulations Governing the Placement and Service of Victims and Suspected Victims of Human Trafficking).

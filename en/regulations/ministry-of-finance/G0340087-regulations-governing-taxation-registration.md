@@ -1,0 +1,297 @@
+---
+title: "Regulations Governing Taxation Registration"
+title_zh: "稅籍登記規則"
+identifier: "G0340087"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-08-12
+last_amended: 2022-08-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340087"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Taxation Registration
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340087-regulations-governing-taxation-registration.md](../../../zh/regulations/ministry-of-finance/G0340087-regulations-governing-taxation-registration.md)) is authoritative.
+
+## Chapter1 General Provisions
+
+#### Article 1
+
+These Regulations are adopted pursuant to Article 30-1 of the Value-Added and Non-Value-Added Business Tax Act (hereafter “the Act”).
+
+A business entity shall conduct taxation registration in accordance with these Regulations.
+
+#### Article 2
+
+The taxation registration for a business entity as prescribed in Subparagraphs 1 through 3, Article 6 of the Act shall be complied with the provisions in all Sections and Articles of Chapter II.
+
+The taxation registration for a business entity as prescribed in Subparagraph 4, Article 6 of the Act shall be complied with the provisions in all Sections and Articles of Chapter III.
+
+## Chapter2 Taxation Registration for a Business Entity with a Fixed Place of Business within the Territory of the Republic of China(R.O.C.)
+
+### Section1 Establishment Registration
+
+#### Article 3
+
+Under any of the following circumstances, a business entity shall fill out a registration application form and apply for taxation registration with the competent tax authority before the commencement of business operations:
+
+\1. The business entity is newly established.
+
+\2. The business entity has been re-established due to a merger.
+
+\3. The business entity has been established by means of assignment.
+
+\4. The business entity has been established due to re-organization.
+
+\5. The business entity establishes a branch unit.
+
+Taxation registrations for entities organized as companies, sole proprietorships, partnerships or limited partnerships will be processed by the competent tax authority based on the basic registration data provided by the competent authority for company, commercial, or limited partnership registration. The competent authority's processing of the registration will be deemed as completion of the application for taxation registration required by Article 28 of the Act. The entity that sells goods or services solely or concurrently via online platform, applications on mobile devices, or other electronic tools shall, within 15 days from the approval of taxation registration, apply to the competent tax authority to fulfill the requirements in Subparagraph 9, Paragraph 1 of Article 4.
+
+If a business entity's administrative unit, place of business, factory, maintenance plant, workplace, engine room, warehouse, mining sites, construction site, display/sale area, contact office, business office, service station, operations office, branch store, retail store, auction venue, or other similar fixed place of business is engaged in external business, the business entity shall apply with the competent tax authority prior to the commencement of that business, in accordance with these Regulations, for a taxation registration for each respectively.
+
+If a business entity sells goods or services via automatic vending machines, the business entity shall apply for taxation registration with the competent tax authority of the place where the business entity is located and report the serial numbers of the vending machines, the business locations where the machines are located, and the total number of machines. A business entity is not required to apply for taxation registration for each respective business location of the vending machines; however, this is not applicable to a business entity where its vending machines are placed in specific management sites or it charges parking fee by vending machines.
+
+A foreign enterprise, institution, group, or organization shall apply for taxation registration for its fixed place of business within the territory of the R.O.C. with the competent tax authority of the place where the fixed place of business is located.
+
+The competent tax authority, after handling a taxation registration, shall notify the business entity in writing. In the case of any taxation registration not made in accordance with Paragraph 2, the competent tax authority shall also forward a notification to the relevant construction administration and fire-prevention and health authorities.
+
+#### Article 4
+
+A business entity completing a taxation registration form is required to register the following items :
+
+\1. Name and address.
+
+\2. Name, birth date, national ID number, and household registration address of the business entity’s responsible person.
+
+\3. Type of organization: company, sole proprietorship, partnership, limited partnership, or other type of organization.
+
+\4. Paid-in capital.
+
+\5. Type of business.
+
+\6. When organized as a partnership, the name, birth date, national ID number, and the type and amounts of the capital contributions of the partners.
+
+\7. When organized as a limited partnership, the partner's name, national ID number or juristic person’s uniform serial number, domicile, residence, amounts and type of capital contributions and liability type of each partner.
+
+\8. In case of a fixed place of business with a head office, the head office's name, address, and profit-seeking enterprise uniform serial number; however, the uniform serial number is not required for a head office located outside the territory of the R.O.C.
+
+\9. When selling goods or services solely or concurrently via online platform, applications on mobile devices, or other electronic tools, the domain name and the IP address; in case of applying to internet services provider or other intermediary that provides virtual hosting for the membership to sell goods or services, including the member account.
+
+When a branch unit applies for taxation registration not made in accordance with Paragraph 2 of the preceding Article, the name which is required to register in accordance with Subparagraph 1, Paragraph 1of this Article, must clearly indicate that it is a branch unit in addition to stating the name of the head office. For the name of a foreign company's branch unit, an indication of the company's nationality shall be placed in front of the regional name or the distinctive part of the company name.
+
+#### Article 4-1
+
+A business entity that sells goods or services solely or concurrently via online platform, applications on mobile devices, or other electronic tools shall reveal its profit-seeking enterprise uniform serial number and the name regulated in Subparagraph 1 , Paragraph 1 of the preceding Article clearly on the online sales page and relevant application.
+
+#### Article 5
+
+When a business entity applies for taxation registration, the responsible person to be specified in the registration shall be as follows:
+
+\1. Companies:
+
+(1) In the case of a company limited by shares or a limited company with an appointed president, the responsible person is the president; in the case of a limited company without a president, the directors are responsible persons.
+
+(2) In the case of an unlimited company or an unlimited company with limited liability shareholders, the shareholder(s) executing the business operations or representing the company are responsible persons.
+
+(3) In the case of a company organized pursuant to the Act Governing Investment by Foreign Nationals or the Statute for Investment by Overseas Compatriots, the responsible person is the managerial officer authorized by the board of directors and domiciled within the territory of the R.O.C.
+
+\2. Sole proprietorships: The capital contributor or the statutory representative is the responsible person.
+
+\3. Partnerships: The partner that executes business operations is the responsible person.
+
+\4. Limited partnerships: The responsible person is the representative.
+
+\5. Other organizations: The responsible person is the representative or the administrator.
+
+\6. In the case of a foreign enterprise, agency, organization, or association with a fixed place of business within the territory of the R.O.C., the responsible person is the representative within the territory of the R.O.C. appointed by the head office.
+
+\7. For a fixed place of business with a head office, the responsible person shall be the same as for the head office, provided that another person may be the responsible person when so authorized by the head office.
+
+#### Article 6
+
+A business entity that applies for taxation registration shall be subject to the provisions of Article 7, and shall submit the following documents:
+
+\1. A photocopy of the national ID card, a photocopy of household registry, or any other valid evidentiary documentation for the responsible person.
+
+\2. When the entity is a company, the company's articles of incorporation.
+
+\3. When the entity is a partnership, a copy of the partnership agreement; if any of the partners is a minor, a document evidencing the approval of the minor's legal agent shall also be submitted, but it is not required for a married minor.
+
+\4. When the entity is a limited partnership, a limited partnership agreement and the written consent of general partners for the elected representative; if any of the partners is a minor, a document evidencing the approval of the minor's legal agent shall also be submitted, but it is not required for a married minor.
+
+\5. In the case of other incorporations, a photocopy of the license for the incorporation's establishment issued by the competent authority and the articles of incorporation.
+
+\6. When the responsible person at a branch unit is different from that of the head office, the letter of authorization shall also be submitted.
+
+\7. In the case of the selling of goods or services via automatic vending machines, which satisfies the provision of Paragraph 4, Article 3, the detailed information of the serial numbers of the automatic vending machines, the place of location, and the total number of machines shall also be submitted.
+
+Where a business entity has made the taxation registration pursuant to the provision of Paragraph 2, Article 3, the documents listed in Subparagraphs 1 through 4 of the preceding Paragraph are not required for submission. If it is deemed necessary, the competent tax authority may ask the business entity to submit the original document listed in Subparagraph 1 of the preceding Paragraph.
+
+#### Article 7
+
+If a foreign enterprise, institution, group, or organization conducts business within the territory of the R.O.C. and does not establish a branch company, it shall submit the following documents when applying for taxation registration for its fixed place of business:
+
+\1. The responsible person’s identification documents.
+
+\2. When the foreign entity has an agent, the agent's power of attorney.
+
+\3. Qualification documents evidencing that the foreign enterprise, institution, group, or organization has been approved for registration or establishment by the competent authority for the relevant industry of its home country.
+
+The documents prescribed in Subparagraph 3 of the preceding Paragraph shall be authenticated or notarized (legalized) by a local government agency or court in the foreign country or the R.O.C. embassy, consulate, or representative office in the foreign country, or by the embassy, consulate, or representative office of the given country in the R.O.C., or shall be notarized (legalized) pursuant to The Notary Act of our country.
+
+All the documents listed in Paragraph 1 which are written in a foreign language other than English shall be accompanied by an English or Chinese translation.
+
+### Section2 Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration
+
+#### Article 8
+
+Where there has been a change to any particulars in the taxation registration, the business entity shall apply to the competent tax authority to modify the registration within 15 days from the occurrence of the change by filling out an application for modification registration attached with relevant supporting documents; in the case of a change of address, the business entity shall apply for modification registration with the competent tax authority for the new address.
+
+A business entity that is a company, sole proprietorship, partnership or limited partnership shall apply for modification of registration, with respect to any particulars originally registered, within 15 days after completing modification of company, commercial, or limited partnership registration; however, if any particulars regulated in Subparagraph 9, Paragraph 1 of Article 4 is the only item needs to be modified, the business entity shall apply for modification registration in accordance with the preceding Paragraph.
+
+In the case of a business entity which sells goods or services via automatic vending machines, if there is any increase or decrease in the number of the machines or change in the place of the location of the machines, the business entity shall report to the competent tax authority within 15 days after such occurrence.
+
+A business entity which had sold goods or services solely or concurrently via online platform, applications on mobile devices, or other electronic tools before January 1, 2023 and completed the taxation registration before December 31, 2022 shall, before January 15, 2023, apply to the competent tax authority to modify the registration in accordance with Subparagraph 9, Paragraph 1 of Article 4.
+
+#### Article 9
+
+The period of business suspension or extension of suspension filed by a business entity for approval and recordation as required by Article 31 of the Act shall not be more than one year each time.
+
+If a company, sole proprietorship, partnership or limited partnership has completed a registration for business suspension or resumption with the competent authority for company, commercial or limited partnership registration, the competent tax authority shall process registration matters based on the registration information for the suspension or resumption provided by the competent authority for company, commercial or limited partnership registration. The competent authority's processing of the registration will be deemed completion of filing for approval and recordation as required by Article 31 of the Act.
+
+#### Article 10
+
+When a business entity is discontinued due to dissolution, nullification of registration, transfer, or merger with another business entity, it shall fill out an application form for cancellation of business registration and apply for cancellation of business registration with the competent tax authority within 15 days from the occurrence of the fact.
+
+### Section3 Revocation or Nullification of Registration
+
+#### Article 11
+
+If any forgery or falsification has been found with respect to the establishment of the business entity or any other particulars in the registration for which a final and unappealable conviction is issued, the competent tax authority may revoke the taxation registration based on notification by the prosecution agency.
+
+Given the occurrence of any of the following circumstances with respect to a business entity’s registration, the competent tax authority may nullify the taxation registration ex officio or based on the application by a stakeholder:
+
+\1. The business entity has yet to commence business operations when six full months have elapsed after the registration, or after commencing business operations, has of its own accord suspended business operations for six months, except with legitimate reason and when approval has been granted for an extension.
+
+\2. The business entity has been relocated from the original address, and after six months modification registration has yet to be carried out, even after the business entity has been notified by the tax authority.
+
+\3. After registration, the relevant authority finds no sign of business activities, and the real estate owner has provided proof that no lease relationship exists.
+
+If the circumstance of any of the preceding two Paragraphs occurs with respect to a business entity that carries out taxation registration pursuant to Paragraph 2, Article 3 requiring that the registration be revoked or nullified, the competent tax authority shall file a report with the competent authority for the registration, and may only revoke or nullify the registration after the revocation or nullification by the registration authority, except those which have been notified of dissolution or termination by the competent authority for the registration.
+
+## Chapter3 Taxation Registration for a Business Entity Having No Fixed Place of Business Entity within the Territory of the R.O.C. Which Sells Electronic Services to Domestic Individuals.
+
+### Section1 Establishment Registration
+
+#### Article 12
+
+The competent tax authorities for taxation registration on business entities in accordance with the provisions of Article 28-1 of the Act shall be as follows:
+
+\1. In the case that a business entity applies for taxation registration by itself, the local competent tax authority where the Central Government is located.
+
+\2. In the case that a business entity appoints a tax-filing agent to apply for taxation registration on its behalf, the local competent tax authority where the agent is located.
+
+#### Article 13
+
+A business entity shall apply for taxation registration at the taxation registration platform of the Ministry of Finance. The required registration items are as follows:
+
+\1. Name.
+
+\2. Name of the business entity’s responsible person.
+
+\3. Business information: domain name and IP address, commencing date of supplying services, type of electronic services sold, home country (area) of registration, registered name, registration number.
+
+\4. Contact information: telephone number, mailing address, e-mail address.
+
+\5. Information about tax-filing agent:
+
+(1) An individual residing within the territory of the R.O.C.: name, national ID number, mailing address, telephone number, e-mail address, duration of appointment, scope of appointment.
+
+(2) An enterprise, institution, group, or organization with a fixed place of business within the territory of the R.O.C.: name, address of the business entity, profit-seeking enterprise uniform serial number or tax withholder's uniform number, name of the business entity’s responsible person, telephone number, e-mail address, duration of appointment, scope of appointment.
+
+\6. Bank account information.
+
+In the case that a business entity appoints a tax-filing agent to apply for taxation registration, it shall report to the competent tax authority of the place where such agent is located for approval.
+
+The application in Paragraph 1 shall be notified to the business entity in writing after being reviewed and approved by the competent tax authority. If such business entity agrees, the notification of all official documents may be made electronically.
+
+In the case that a business entity appoints a tax-filing agent to apply for taxation registration, the notification in the preceding Paragraph shall be given to the agent. If it is deemed necessary, the competent tax authority may notify the business entity.
+
+#### Article 14
+
+A business entity that applies for taxation registration shall submit the following documents:
+
+1.Qualification documents evidencing that the foreign enterprise, institution, group or organization has been approved for registration or establishment by the competent authority for the relevant industry of its home country.
+
+2.A tax-filing agent appointed shall submit the power of attorney.
+
+The documents prescribed in Subparagraph 1 of the preceding Paragraph shall be authenticated or notarized (legalized) by a local government agency or court in the foreign country or the R.O.C. embassy, consulate, or representative office in the foreign country, or by the embassy, consulate or representative office of the given country in the R.O.C., or shall be notarized (legalized) pursuant to The Notary Act of the R.O.C.
+
+All the documents listed in Paragraph 1 which are written in a foreign language other than English shall be accompanied by an English or Chinese translation.
+
+### Section2 Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration
+
+#### Article 15
+
+Where there are any changes in taxation registration, the business entity shall, within 15 days from the occurrence of the facts, apply for modification registration at the taxation registration platform of the Ministry of Finance.
+
+#### Article 16
+
+Prior to the temporary suspension of business or a resumption of business after the suspension, the business entity shall file for approval and recordation at the taxation registration platform of the Ministry of Finance.
+
+The aforesaid period of business suspension or extension of suspension filed for approval and recordation shall not be more than one year each time.
+
+#### Article 17
+
+Under any of the following circumstances, a business entity shall apply for cancellation of registration at the taxation registration platform of the Ministry of Finance within 15 days from the date of the occurrence of the facts:
+
+\1. Dissolution or nullification in the country of registration.
+
+\2. Cancellation of domain name and IP address.
+
+\3. The taxation registration has been completed in accordance with the provisions of Article 28 of the Act.
+
+### Section3 Nullification of Registration
+
+#### Article 18
+
+The competent tax authority may nullify the taxation registration ex officio if any of the circumstances referred to Subparagraph 1 or 2 of the preceding Article occurs and the business entity has not applied for cancellation of registration after six months even if such entity has been notified by the tax authority.
+
+## Chapter4 Supplementary Provisions
+
+#### Article 19
+
+A business entity that violates these Regulations will be notified to comply with the requirements within a prescribed time limit and will be punished in accordance with the Act.
+
+#### Article 20
+
+These Regulations shall come into force from May 1, 2017.
+
+The amended Articles of the Regulations shall come into force on the day of promulgation, with the exception of Article 3 amended and promulgated on October 22, 2021, which shall come into force on January 1, 2022, and Articles amended and promulgated on August 8, 2022, which shall come into force on January 1, 2023.
+
+## History
+
+1.Promulgated on 12 August 2003 by the Ministry of Finance under Decree No. 0920455500.
+
+2.Amendment on 5 May 2011 by the Ministry of Finance under Decree No. 10004511230.
+
+3.Amendments to Articles 3 and 12 announced on 23 March ,2012 by the Ministry of Finance under Decree No. 10104516460.
+
+4.Amendment to Article 5 by the Ministry of Finance on 14 December 2012 under Decree No. 10104656130.
+
+5.Amendments to Articles 2, 5 and 7 by the Ministry of Finance on 2 April 2014 under Decree No.10304538230.
+
+6.Amendment on 29 March 2017 by the Ministry of Finance under Decree No. 10604544510.
+
+7.Amendments to Articles 13 and 20 by the Ministry of Finance on 29 June 2018 under Decree No. 10704603600.
+
+8.Amendments to Articles 3, 6, 7, 14, and 20 were promulgated by the Ministry of Finance on 22 October 2021 under Decree No. 11004647341, which shall come into force on the day of promulgation, with the exception of Article 3 which shall become effective on 1 January 2022.
+
+9.Amendments to Articles 3, 4, 4-1, 8, 11, and 20 were promulgated by the Ministry of Finance on 8 August 2022 under Decree No.11104610670, which shall come into force on 1 January 2023.

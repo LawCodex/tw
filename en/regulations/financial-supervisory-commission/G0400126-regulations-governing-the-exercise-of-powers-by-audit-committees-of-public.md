@@ -1,0 +1,177 @@
+---
+title: "Regulations Governing the Exercise of Powers by Audit Committees of Public Companies"
+title_zh: "公開發行公司審計委員會行使職權辦法"
+identifier: "G0400126"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-03-28
+last_amended: 2024-01-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400126"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Exercise of Powers by Audit Committees of Public Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400126-regulations-governing-the-exercise-of-powers-by-audit-committees-of-public.md](../../../zh/regulations/financial-supervisory-commission/G0400126-regulations-governing-the-exercise-of-powers-by-audit-committees-of-public.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 14-4, paragraph 5, of the Securities and Exchange Act (the "Act").
+
+## Article 2
+
+A public company establishing an audit committee shall do so in accordance with the provisions of the Act and of these Regulations; provided, where another law provides otherwise, the provisions of such law shall prevail.
+
+## Article 3
+
+A public company establishing an audit committee under the Act shall adopt an audit committee charter that shall at least include the following:
+
+\1. Number and term of office of audit committee members.
+
+\2. Powers of the audit committee.
+
+\3. Rules of procedure for meetings of the audit committee.
+
+\4. Resources to be provided by the company when the audit committee exercises its powers.
+
+The charter under the preceding paragraph, and any amendment thereto, shall be adopted by resolution of the board of directors.
+
+## Article 4
+
+The audit committee shall be composed of the entire number of independent directors. It shall not be fewer than three persons in number, one of whom shall be committee convenor, and at least one of whom shall have accounting or financial expertise.
+
+## Article 5
+
+The provisions of the Act, the Company Act, and any other law regarding supervisors shall apply mutatis mutandis to the audit committee.
+
+The provisions of Article 14-4, paragraph 4, of the Act concerning provisions of the Company Act that involve the powers of supervisors shall apply mutatis mutandis to the independent director members on the audit committee.
+
+Resolutions of the audit committee shall be adopted with the approval of one-half or more of the entire membership of the audit committee. The committee convenor shall represent the audit committee to the public.
+
+Persons to represent the company in matters under Articles 213, 214, and 223 of the Company Act shall be selected by the audit committee by the procedure set out in the preceding paragraph. The audit committee may resolve for members to individually represent or jointly represent the company in such matters. If representatives are not selected by the procedure in the preceding paragraph, the entire membership shall jointly represent the company.
+
+The term "entire membership" as used in these Regulations shall be calculated as the number of members actually in office.
+
+## Article 6
+
+The matters set out in the subparagraphs of Article 14-5, paragraph 1, of the Act shall be subject to the consent of one-half or more of the entire membership of the audit committee and be submitted to the board of directors for a resolution.
+
+If a matter set out in the subparagraphs of Article 14-5, paragraph 1, of the Act excepting subparagraph 10, has not been consented to by one-half or more of the entire membership of the audit committee, it may be adopted with the consent of two-thirds or more of the entire board of directors.
+
+## Article 7
+
+An audit committee shall meet at least quarterly, which shall be set out in the audit committee charter.
+
+The reasons for calling a meeting of the audit committee shall be notified to each independent director member at least seven days in advance. In emergency circumstances, however, this requirement does not apply.
+
+An audit committee meeting shall be held at the location and during the business hours of the company, or at a place and time convenient to attendance by all audit committee members and suitable for holding an audit committee meeting.
+
+One member shall be elected as the convener and meeting chair by and from among the entire membership of the audit committee. However, if the audit committee members are unable to elect a convener, the independent director who received votes representing the largest share of the voting rights shall serve as the convener.
+
+When the convener goes on leave or otherwise for any reason whatsoever is unable to convene a meeting, the meeting shall be convened by another independent director member designated by the convener, or if no such designation is made, by another member elected by and from among the independent director members of the committee.
+
+Independent directors constituting one-half or more of the entire membership of the audit committee may, by filing a written proposal setting forth the subjects for discussions and the reasons, request the convener to convene a meeting of the audit committee. If the convener fails to convene an audit committee meeting within 15 days from the filing of the request under the preceding paragraph, independent directors constituting one-half or more of the entire membership of the audit committee may convene a meeting on their own.
+
+The audit committee may by resolution request relevant department officers, internal auditors, certified public accountants, legal counsels, or other personnel to attend the meeting as nonvoting participants and provide pertinent and necessary information; provided, they shall leave the meeting when discussion and voting take place.
+
+## Article 8
+
+When an audit committee meeting is held, the company shall have an attendance book ready for signature by the independent director members attending the meeting and thereafter keep it available for future reference.
+
+All independent director members on the audit committee shall attend committee meetings in person; a member who cannot attend in person may appoint another independent director member to attend as their proxy. Attendance via tele- or video-conference is deemed attendance in person.
+
+A member of the audit committee appointing another independent director member to attend a committee meeting shall in each instance give to that director a written proxy stating the scope of authorization with respect to the items on the meeting agenda.
+
+Resolutions at meetings of the audit committee shall be adopted with the consent of one-half or more of the entire membership. The result of a vote shall be made known immediately and recorded in writing.
+
+If for a legitimate reason it is impossible to hold an audit committee meeting, matters on the meeting agenda shall be adopted with the consent of two-thirds or more of the entire board of directors. Notwithstanding the foregoing, the matters in Article 14-5, paragraph 1, subparagraph 10 of the Act shall still require the opinion of the independent directors indicating their consent..
+
+A proxy under paragraph 2 may accept a proxy from one person only.
+
+## Article 8-1
+
+When the time of a meeting has arrived, if the audit committee members present do not reach one-half of the entire membership, the meeting chair may announce that the meeting time will be postponed to later on the same day, provided that only two postponements may be made. If the quorum is still not met after two postponements, the chair may re-call the meeting following the procedures provided in Article 7, paragraph 2.
+
+## Article 8-2
+
+An audit committee meeting shall be conducted in accordance with the order of business on the agenda as specified in the meeting notice. However, the order may be changed with the approval of one-half or more of the entire membership of the audit committee.
+
+The meeting chair may not declare the meeting closed without the approval of one-half or more of the entire membership of the audit committee.
+
+If at any time during the proceedings of an audit committee meeting the members sitting at the meeting do not reach one-half of the entire membership, then upon motion by the independent directors sitting at the meeting, the chair shall declare a suspension of the meeting, in which case the preceding article shall apply mutatis mutandis.
+
+If at any time during the proceedings of an audit committee meeting, the convener for any reason is unable to chair the meeting or the chair fails to declare the meeting closed as provided in paragraph 2, the provisions of Article 7, paragraph 5 shall apply mutatis mutandis to the selection of the deputy to act in place thereof.
+
+## Article 9
+
+If an independent director member of the audit committee has a personal interest in any agenda item, the director shall explain the essential content of the interest. If the director's personal interest is likely to prejudice the interest of the company, the director member may not participate in discussion and voting, and shall recuse himself or herself from the discussion and voting, and also may not exercise voting rights as a proxy for any other independent director member.
+
+Where the spouse or a blood relative within the second degree of kinship of an independent director is an interested party with respect to an agenda item as described in the preceding paragraph, such director shall be deemed to be an interested party with respect to that agenda item.
+
+Where a matter is unable to be resolved at a committee meeting for the reason stated in paragraph 1, the fact shall be reported to the board of directors and the matter shall be resolved by the board instead.
+
+## Article 10
+
+Discussions at an audit committee meeting shall be included in the meeting minutes, which shall faithfully record the following:
+
+\1. Session, time, and place of meeting.
+
+\2. Name of meeting chair.
+
+\3. Attendance of independent director members at the meeting, specifying names and number of members present, excused, and absent.
+
+\4. Names and titles of those attending the meeting as a nonvoting participant.
+
+\5. Name of minutes taker.
+
+\6. Matters reported.
+
+\7. Agenda items: resolution method and result of each proposal; summary of the comments made by the independent director members on the audit committee and the experts and any other persons present at the meeting; the name of any independent director member possibly having an interest relationship as referred to in paragraph 1 of the preceding article, the essential content of the interest, the reasons why the director was required or not required to enter recusal, and the status of the recusal; and any objections or reservations expressed at the meeting.
+
+\8. Extraordinary motions: Name of the mover; the resolution method and result of each proposal; summary of the comments made by the independent director members on the audit committee and the experts and any other persons present at the meeting; the name of any independent director member possibly having an interest relationship as referred to in paragraph 1 of the preceding article, the essential content of the interest, the reasons why the director was required or not required to enter recusal, and the status of the recusal; and any objections or reservations expressed at the meeting.
+
+\9. Other matters required to be recorded.
+
+The attendance book forms a part of the minutes of each audit committee meeting and shall be well preserved for the duration of the existence of the company.
+
+The minutes of an audit committee meeting shall bear the signature or seal of both the meeting chair and the minutes taker, and a copy shall be distributed to each independent director member on the committee within 20 days after the meeting and be carefully preserved as important company records during the existence of the company.
+
+The production and distribution of the meeting minutes referred to in paragraph 1 may be made in electronic form.
+
+## Article 10-1
+
+A company shall record on audio or video tape the entire proceedings of an audit committee meeting, and preserve the recordings for at least five years, in electronic form or otherwise.
+
+If before the end of the preservation period referred to in the preceding paragraph any litigation arises in connection with a resolution of an audit committee meeting, the relevant audio or video recordings shall continue to be preserved until the litigation is concluded.
+
+Where an audit committee meeting is held by video conference, the audio or video documentation of the meeting constitutes part of the meeting minutes and shall be well preserved for the duration of the existence of the company.
+
+## Article 11
+
+The audit committee or any independent director member thereof may, on behalf and at the cost of the company, engage an attorney, certified public accountant, or other professional to conduct a necessary audit or provide advice with respect to any matter related to the exercise of the committee's powers.
+
+## Article 12
+
+A public company that has established an audit committee under the Act is exempted from application of the provisions hereof before expiration of the term of office of the current directors or supervisors.
+
+## Article 13
+
+These Regulations shall be enforced from 1 January 2007.
+
+Any amendments to these Regulations shall be enforced from the date of issuance.
+
+## History
+
+\1. Full text of 13 articles adopted and issued 28 March 2006 per Order No. Financial-Supervisory-Securities-I-0950001615 of the Financial Supervisory Commission, Executive Yuan; for enforcement from 1 January 2007
+
+\2. Article 7, 9, 10, 13 amended and issued and Article 10-1 added per 28 July 2017 Order No. Financial-Supervisory-Securities-Corporate-1060027112 of the Financial Supervisory Commission, for implementation from the date of issuance
+
+\3. Article 9 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Corporate-1080361934 of the Financial Supervisory Commission
+
+\4. Articles 5, 7, and 8 amended and Articles 8-1 and 8-2 added per 11 January 2024 Order No. Financial-Supervisory-Securities-Corporate-1120383996 of the Financial Supervisory Commission

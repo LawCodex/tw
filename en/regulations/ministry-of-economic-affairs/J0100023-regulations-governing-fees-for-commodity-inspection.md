@@ -1,0 +1,395 @@
+---
+title: "Regulations Governing Fees for Commodity Inspection"
+title_zh: "商品檢驗規費收費辦法"
+identifier: "J0100023"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞標準檢驗目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-01-09
+last_amended: 2026-02-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100023"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Fees for Commodity Inspection
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0100023-regulations-governing-fees-for-commodity-inspection.md](../../../zh/regulations/ministry-of-economic-affairs/J0100023-regulations-governing-fees-for-commodity-inspection.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are based on the provisions of Article 56 of the Commodity Inspection Act (the Act).
+
+### Article 2
+
+The inspection authority mentioned in these Regulations refers to the Bureau of Standards, Metrology and Inspection (the BSMI) of the Ministry of Economic Affairs, its branches, or agencies entrusted, legal entities or organizations.
+
+### Article 3
+
+The Inspection fees mentioned under these regulations are as follows :
+
+\1. Inspection fees;
+
+\2. Examination fees;
+
+\3. Assessment fees;
+
+\4. Registration fees;
+
+\5. Certificate fees;
+
+\6. On-site fees;
+
+\7. Testing fees; and
+
+\8. Service fees.
+
+Fees shall be counted & collected in New Taiwan Dollars. The amount of mantissa less than one NT dollar will not be counted.
+
+### Article 4
+
+The fees mentioned in the subparagraphs 1) to 6) of the first paragraph of the preceding Article shall not be collected for the following commodities:
+
+\1. Commodities that are to be used for rescue purpose, accompanied with proper documentation from government authorities; or
+
+\2. Commodities that are to be used for salvaging purpose, accompanied with proper documentation from government authorities.
+
+### Article 5
+
+Where the inspection fees are collected based on foreign currencies, the foreign exchange rates will follow those announced by the Customs Administration, Ministry of Finance every ten days for purpose of customs clearance (buying for export and selling for import).
+
+### Article 6
+
+An applicant shall submit foreign currency exchange certificates or other evidence along with the inspection application in order for the inspection authority to calculate the relevant inspection fees and rates. If such documents are not submitted along with the inspection application, an applicant is required to do so within one month.
+
+### Article 7
+
+Assessment fees shall be charged based on the actual on-site or remote assessment days.
+
+### Article 8
+
+The statutory fees shall be paid to the state exchequer designated by the inspection authority or the BSMI.
+
+If the statutory fees are overpaid or paid in error due to computing mistakes or other reasons, an application for a refund of overpayment can be made to the inspection authority. The application procedures shall be prescribed by the BSMI.
+
+### Article 9
+
+The on-site fees shall be collected in accordance with the following rules for on-site activities performed by personnel of the inspection authority, such as inspection, sampling, supervision of improvement, supervision of destruction, verification of markings, on-site verification, re-exportation, sealing of commodities, escorting of commodities, and other inspection-related business:
+
+\1. An NT$500 on-site fee for each person each time, for activities conducted domestically. If the inspector cannot commute to the place of inspection and back within the same day or has to commute between different branches, the on-site fees shall be collected in accordance with the costs and expenses set forth in the “Operating Guidelines Governing Domestic Business Travel Expenses;”
+
+\2. The on-site fee for one inspector shall be collected for each batch of commodity being inspected;
+
+\3. The on-site fee for one inspector shall be collected from the same obligatory inspection applicant (applicant) if multiple batches of commodities are declared for inspection simultaneously, stored at the same place, and the on-site inspection is conducted at the same time;
+
+\4. The on-site fees shall be collected separately from the same applicant if the commodities are stored in different places;
+
+\5. The on-site fees shall be collected separately for the same applicant if commodities are stored at the same place but covered by different inspection applications. If on-site inspection is conducted at the same time for these commodities, the on-site fees shall be collected for one inspector after a declaration is made; or
+
+\6. The on-site fees shall be collected separately for different obligatory inspection applicants regardless of whether the commodities are stored in the same place.
+
+The inspection authority shall collect on-site fees based on the number of inspectors dispatched, if there are large quantities of commodities and one inspector cannot complete the task in one day, or if multiple batches of commodities under Subparagraphs 3 and 5 of the preceding paragraph involve different commodity categories.
+
+The inspection authority may not collect on-site fees for any personnel not related to the inspection.
+
+If the inspection authority approves withdrawal of the on-site inspection application made by an applicant, it shall return the on-site fees.
+
+On-site fees shall not be collected if the inspection authority has offices stationed in port warehousing facilities to accept inspection applications and conduct inspection-related activities within those facilities.
+
+### Article 10
+
+Upon request by an applicant, the inspection authority shall add up the collection of fees in accordance with the following rules, if relevant activities are conducted over an extended time. This does not apply to the acceptance of documents or those services announced by the BSMI to have 24-hour service available.
+
+\1. The extended operational hours during a weekday are from 6:00 AM to 8:30 AM or from 5:30 PM to 10:00 PM. An NT$400 fee for each batch of commodities shall be collected.
+
+\2. The extended operational hours during weekends and statutory holidays shall be from 6:00 a.m. to 10:00 p.m. An NT$1,000 fee for each batch of commodities shall be collected.
+
+\3. A fee of NT$2,000 shall be collected for activities taking place outside the special operational hours mentioned in the preceding items 1) and 2).
+
+If the inspection authority approves withdrawal of applications for extended operation made by an applicant, it shall return the extended operation fees.
+
+If the same applicant applies for inspection of several batches of commodities and the related inspection activities can be conducted at the same time, the inspection fees for the extended-time operation shall be collected for one batch of commodities.
+
+### Article 11
+
+The examination fee of applications for exemption from inspection shall be NT$200 per application.
+
+The examination fee of business enterprises approved by the competent authority for application for an extended exemption of designated commodities shall be NT$3,000 per application.
+
+### Article 12
+
+A fee at NT$100 shall be charged for actions concerning certificates, certificates of conformity and notices, such as issuance of replacement certificates, copies of certificates or separation of certificates, except for those specified otherwise in these Regulations.
+
+A fee at NT$100 shall be charged each time for updating information upon request by the applicant from on-line application, except for updating not attributable to the applicant.
+
+## Chapter II Fees for Batch-by-Batch Inspection and Monitoring Inspection
+
+### Article 13
+
+The market price mentioned in Paragraph Two of Article 53 of the Act shall be prescribed by the following methods:
+
+\1. For commodities to be imported or exported, the BSMI shall determine the market price by referring to the declared import or export prices, the export prices certified by a designated foreign exchange bank and the wholesale market prices;
+
+\2. For domestically manufactured commodities, the BSMI shall suggest proposed market prices by referring to their wholesale market prices and obtain approval from the competent authority before announcement. When prices are to be adjusted, the same procedure shall apply.
+
+If a market price is not decided in accordance with the preceding paragraph to determine the inspection fee, the inspection fee shall be calculated based on the following prices:
+
+\1. The FOB of commodities to be exported;
+
+\2. The CIF or prices without customs duties of commodities to be imported; or
+
+\3. The retail prices of domestically manufactured commodities, before tax.
+
+The inspection fees for batch-by-batch inspection and monitoring inspection shall be collected in accordance with the inspection fee rates and the minimum inspection fees as prescribed in Annex I, based on the prices mentioned in the preceding two paragraphs.
+
+Commodities that are to be imported in bulk, under the same shipment, item name, and with the same specifications, that are not easily separated for sampling will be treated as one batch and the fees will be collected accordingly.
+
+### Article 14
+
+The certificate fee for the commodity inspection mark labels printed by the BSMI shall be NT$0.2 per label.
+
+### Article 15
+
+The fees for type approval shall be collected as follows:
+
+\1. Examination fee:
+
+(1) NT$3,500 for each type and NT$2,000 for each type in a series; and
+
+(2) NT$2,000 for extension of each type approval certificate.
+
+\2. Certificate fee: NT$500 shall be collected for each new or replacement certificate.
+
+### Article 16
+
+Manufacturers applying to the BSMI for assessment of their management system under monitoring inspection in accordance with Article 33 of the Act shall be charged an assessment fee of NT$8,000 per day for each assessor. NT$4,000 will be charged for assessment conducted in less than four hours.
+
+## Chapter III Fees for Registration of Product Certification and Declaration of Conformity
+
+### Article 17
+
+The fees involved in registration of product certification are as follows:
+
+\1. Examination fee:
+
+(1) Application fee: NT$5,000 for each type and NT$3,000 for each type in a series;
+
+(2) Authorization of certificate: NT$500 for each certificate;
+
+(3) Extension of certificate: NT$3,000 for each certificate;
+
+(4) Application fee for certificate of conformity: NT$5,000 for each application.
+
+\2. Assessment fee: production premises inspection, NT$8,000 per day for each assessor. NT$4,000 will be charged for an assessment conducted in less than four hours..
+
+\3. Registration fee: An annual fee shall be collected in accordance with Annex II.
+
+\4. Certificate fee:
+
+(1) NT$10 for every inspection mark label for commodities subject to registration of product certification scheme; and
+
+(2) NT$500 for each new or replacement certificate and certificate of conformity, and NT$200 for each new or replacement of authorized release notice, except for those not attibutable to the application.
+
+\5. Inspection fee: NT$ 2,000 for the inspection of each batch of sampled commodities for prior-released commodities.
+
+### Article 18
+
+An NT$1,000 registration fee shall be charged for applying for designated codes for declaration of conformity.
+
+## Chapter IV Fees for Related Commodity Inspection Bodies
+
+### Article 19
+
+The fees for designating product certification bodies shall be collected as follows:
+
+\1. Examination fee: NT$25,000 for each application for designation, extension of designation or expansion of the designated scope.
+
+\2. Assessment fee: NT$8,000 per day for each assessor. NT$4,000 will be charged for an assessment conducted in less than four hours.
+
+\3. Certificate fee: NT$500 for each replacement certificate.
+
+### Article 20
+
+The fees for recognizing designated testing laboratories shall be collected as follows:
+
+\1. Examination fee: NT$15,000 for each application for recognition, extension of recognition, addition of testing site or items.
+
+\2. Assessment fee: NT$8,000 per day for each assessor for assessment, second assessment, surveillance or second surveillance. NT$4,000 will be charged for an assessment conducted in less than four hours.
+
+\3. Certificate fee: NT$500 for each replacement of certificate.
+
+The fees for registering a National Certification Body (NCB) and its associated CB Testing Laboratories (CBTL) under the IEC under the Scheme of the IECEE (IEC System for Conformity Testing and Certification of Electrical Equipment) shall be collected as follows:
+
+\1. NT$32,000 for each NCB.
+
+\2. NT$12.000 for each CBTL.
+
+### Article 21
+
+The fees for recognizing quality management system certification bodies, factory inspection bodies and renewable energy certificate site inspection bodies shall be collected as follows:
+
+\1. Examination fee: NT$12,000 per application for initial recognition, extension recognition or expansion of scope.
+
+\2. Assessment fee: NT$8,000 per person per day for assessment activities. Where the assessment time is less than four hours, the fee shall be charged at half the amount.
+
+\3. Certificate fee: NT$2,000 for each certificate issued and NT$500 for each reissued or replaced certificate.
+
+## Chapter V Other Inspection Statutory Fees
+
+### Article 22
+
+The fees involved in voluntary product certification shall be collected as follows, except for those otherwise specified in these Regulations.
+
+\1. Examination fee:
+
+(1) Application fee: NT$5,000 for each type and NT$3,000 for each type in a series;
+
+(2) Extension of certificate: NT$3000 for each renewed certificate;
+
+\2. Assessment fee: NT$8,000 per day for each assessor. NT$4,000 will be charged for an assessment conducted in less than four hours.
+
+\3. Registration fee: an annual fee shall be collected in accordance with Annex II.
+
+\4. Certificate fee: NT$500 for each new or replacement certificate.
+
+### Article 23
+
+The fees for renewable energy certificate (REC) verification shall be collected as follows:
+
+\1. Examination fees:
+
+(1) REC application: NT$3 per certificate.
+
+(2) Document review for renewable energy certificate applications: NT$200 per case.
+
+\2. Assessment fees: NT$8,000 per day for each assessor for assessment. NT$4,000 will be charged for an assessment conducted in less than four hours.
+
+\3. Service fees: NT$0.5 per certificate for each REC transferring.
+
+### Article 24
+
+The fees for management systems certification shall be collected as follows:
+
+\1. Examination fee: NT$10,000 for each application.
+
+\2. Assessment fee: NT$8,000 per day for each assessor for assessment, second assessment, or surveillance. NT$4,000 will be charged for assessment conducted in less than four hours.
+
+\3. Registration fee: An annual fee of NT$12,000 shall be collected from each application.
+
+\4. Certificate fee: NT$2,000 for each new certificate and NT$500 for each replacement certificate.
+
+Assessment fees shall not be collected for applications made via certification bodies that have cooperative agreements on co-registration with the BSMI, and have been granted registration by the BSMI.
+
+### Article 25
+
+The assessment fee for factory inspection under the Registration of Product Certification and the Voluntary Product Certification schemes is NT$8,000 per day for each assessor. NT$4,000 will be charged for an assessment conducted in less than four hours.
+
+### Article 26
+
+The inspection fees for contracted inspection shall be charged based on the FOB price in accordance with the following fee rates, unless other regulations apply:
+
+\1. FOB under US$10,000: a fee rate of 0.3%.
+
+\2. FOB more than US$10,000 and up to US$100,000: a fee rate of 0.1% for the amount over US$10,000.
+
+\3. FOB more than US$100,000: a rate of 0.05% for the amount over US$100,000.
+
+The inspection fees for each batch of commodities mentioned in the preceding items 1) to 3) shall be charged at a minimum of NT$200.
+
+The on-site fees shall be collected in accordance with Article 9 of these Regulations.
+
+### Article 27
+
+The fees for contracted inspection of fishery products for export shall be collected as followings:
+
+\1. Examination fee: NT$600 for each application.
+
+\2. The on-site fees: charged in accordance with Article 9 of these Regulations.
+
+### Article 28
+
+The fees for other testing or technical services shall be collected in accordance with the following rules:
+
+\1. The fees for other testing or technical services shall be collected in accordance with the fee rates set forth in Annex III. If the fee rate for a specific item is not available, the rate for similar items shall apply.
+
+\2. If the testing requires a special pharmaceutical facility or large volumes of material, such as water, electricity, gasoline or coal, additional fees shall be charged on a case-by-case basis according the expenses for testing.
+
+\3. An extra 40% of the testing fee shall be collected to expedite an application.
+
+\4. If on-site sampling by an inspector is required, the on-site fees shall be collected in accordance with Article 9 of these Regulations.
+
+\5. NT$100 shall be charged for each new or replacement testing report or technical service report.
+
+\6. A service fee of NT$50 shall be charged for each application.
+
+If testing is unable to be conducted due to special circumstances, the fees set forth in the subparagraphs 1 to 4 of the preceding paragraph shall be returned. If no testing is conducted, an application for the return of the fees set forth in the preceding subparagraphs 1 to 4 of the preceding paragraph may be submitted to the inspection authority. However, the service fee mentioned in subparagraph 6 of the preceding paragraph are not refundable.
+
+### Article 29
+
+For the application for importing undenatured ethyl alcohol for testing purposes, the examination fee of NT$600 shall be collected for each application.
+
+### Article 30
+
+The BSMI shall charge a business operator for related inspection, assessment, examination or technical services to be conducted abroad in accordance with these Regulations. The fees shall be collected based on the rates stipulated in the “Guidelines Governing Fees for Travelling Abroad”.
+
+### Article 31
+
+These Regulations shall take effect from the date of promulgation.
+
+## Attachments
+
+- [Annex I Inspection Fee Rates and Minimum Fees for Batch-by-Batch Inspection and Monitoring Inspection.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009777)
+- [Annex II Annual Fees for Registration of Product Certification.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009778)
+- [Annex III Schedule of Fees for Commissioned Tests and Technical Services.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009779)
+
+## History
+
+1.Adopted and promulgated by Ministerial Order on 9 January 2002.
+
+2.Amended and promulgated by Ministerial Order on 11 September 2002.
+
+3.Articles 7-9, 11, 16-18, 19-1 and 19-2 amended and promulgated by Ministerial Order on 2 February 2005.
+
+4.Articles 10 and 16 amended, Articles 10-1 and 19-3 added, Articles 13 and 23 deleted, and promulgated by Ministerial Order on 7 January 2008.
+
+5.Articles 10-1 and 16 amended and promulgated by Ministerial Order on 13 September 2010.
+
+6.Articles 19-2 and 19-4 amended and promulgated by Ministerial Order on 30 September 2011.
+
+7.Annex III amended and promulgated by Ministerial Order on 17 December 2013.
+
+8.Article 20 and Annex III amended, Article 20-1 added, and promulgated by Ministerial Order on 3 March 2015.
+
+9.Articles 7, 19-2 and Annex III amended, Article 19-4 deleted, and promulgated by Ministerial Order on 1 August 2016.
+
+10.Annex III amended and promulgated by Ministerial Order on 22 February 2017.
+
+11.Articles 16, 24 and Annex III amended and promulgated by Ministerial Order on 14 November 2017；Article 16 shall take effect on 1 January 2018.
+
+12.Annex III amended and promulgated by Ministerial Order on 10 September 2018.
+
+13.Articles 22, 24 and Annex III amended; Articles 19-5 and 21- 1 added; Article 19-3 deleted, and promulgated by Ministerial Order on 3 January 2020. The implementation date of Article 19-5 shall be determined by the competent authority.
+
+14.Amended and promulgated by Ministerial Order on 11 December 2020.
+
+15.Annex III amended and promulgated by Ministerial Order on 9 July 2021
+
+16.Annex III amended and promulgated by Ministerial Order on 5 November 2021
+
+17.Annex III amended and promulgated by Ministerial Order on 7 July 2022
+
+18.Annex III amended and promulgated by Ministerial Order on 7 November 2022
+
+19.Annex III amended and promulgated by Ministerial Order on 6 July 2023
+
+20.Articles 9, 14, 21, 23, Annex I and Annex III amended and promulgated by Ministerial Order on 10 January 2025
+
+21.Annex III amended and promulgated by Ministerial Order on 8 July 2025
+
+22.Articles 21, 23 and Annex III amended and promulgated by Ministerial Order on 10 February 2026

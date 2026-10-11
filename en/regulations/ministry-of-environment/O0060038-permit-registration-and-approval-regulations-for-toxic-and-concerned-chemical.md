@@ -1,0 +1,279 @@
+---
+title: "Permit, Registration and Approval Regulations for Toxic and Concerned Chemical Substances"
+title_zh: "毒性及關注化學物質許可登記核可管理辦法"
+identifier: "O0060038"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-12-17
+last_amended: 2024-06-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060038"
+retrieved: 2026-10-12
+---
+
+# Permit, Registration and Approval Regulations for Toxic and Concerned Chemical Substances
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060038-permit-registration-and-approval-regulations-for-toxic-and-concerned-chemical.md](../../../zh/regulations/ministry-of-environment/O0060038-permit-registration-and-approval-regulations-for-toxic-and-concerned-chemical.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated pursuant to Article 8, Paragraph 5, Article 13, Paragraph 5 and Article 25, Paragraph 3 of the Toxic and Concerned Chemical Substances Control Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Before handlers may handle toxic and concerned chemical substances, they shall apply for and obtain permits, registration documents, or approval documents from the special municipality, county or city competent authority in which the following types of sites are located:
+
+I. Manufacturing sites
+
+II. Import, export, and sales sites
+
+III. Usage sites
+
+IV. Storage sites
+
+## Article 3
+
+Handlers for manufacturing, importing, exporting, selling or using toxic and concerned chemical substances shall obtain a registration document or approval document for storage before applying for other permits, registration documents or approval documents. However, this requirement does not apply if these documents are applied for simultaneously as stipulated in the second paragraph.
+
+Operations in the preceding paragraph that meet one of the following conditions may apply for the permits, registration documents, and approval documents simultaneously:
+
+I. If the manufacturing site is in the same special municipality, county or city competent authority as the import, export, sales or usage site, then the applicant may apply for documents along with the manufacturing permit or approval documents without separate applications for import, export, selling permits, usage and storage registration documents or approval documents.
+
+II. If the import and sales site is in the same special municipality, county or city as the usage and storage site, then the applicant may apply for usage and storage registration documents or approval documents along with import or selling permits or approval documents without separate applications.
+
+III. If the usage site is in the same special municipality, county or city as the storage site, then the applicant may apply for usage and storage registration documents or approval documents together without separate applications.
+
+IV. If the applications for manufacturing permits or approval documents for toxic and concerned chemical substances are in the same special municipality, county or city as the import site of self-use raw materials of the toxic and concerned chemical substances, then the applicant may apply for import permits or approval documents along with manufacturing permits or approval documents without filing separate applications.
+
+## Article 4
+
+Applicants for permits shall submit an application form and Attachment 1.
+
+Applicants for registration documents shall submit an application form and Attachment 2.
+
+Applicants for approval documents of toxic chemical substances and of concerned chemical substances with hazardous properties, as announced by the central competent authority according to this Act (hereinafter referred to as hazardous concerned chemical substances), shall submit an application form and Attachment 3.
+
+Applicants for approval documents of concerned chemical substances other than those specified in the preceding paragraph shall submit an application form and Attachment 4.
+
+## Article 5
+
+In addition to the central competent authority's announcement pursuant to Articles 11 and 24 of the Act, applications for the storage of toxic and concerned chemical substances shall comply with the following provisions:
+
+I. Storage sites of toxic and hazardous chemical substances meeting any of the following conditions shall not be located in residential or commercial districts under urban planning:
+
+A. The storage quantity of Class 1 to Class 3 toxic chemical substances is at least the graded handling quantity.
+
+B. The storage quantity of Class 4 toxic chemical substances or hazardous concerned chemical substances is at least 50 kg in gaseous form, 100 kg in liquid form, or 200 kg in solid form.
+
+II. If a handler wants to utilize warehouses owned by commercial storage facilities as storage sites, the handler shall submit the storage registration documents or approval documents of toxic and concerned chemical substances of the warehouses, along with a copy of the contract. It is not necessary for the handler to apply for these documents again.
+
+III. If a handler wants to utilize storage sites owned by other handlers of toxic and concerned chemical substances, and if such sites are self-managed, the handler shall submit his/her own registration documents or approval documents along with evidence of consent from the owner for using these storage sites; if these storage sites are entrusted to a storage manager for management, the handler shall submit evidence of the storage entrustment.
+
+IV. Storage sites used as warehouses for loading and unloading unspecified toxic and concerned chemical substances, whether by maritime transport or air cargo, shall submit the warehouse deployment documents issued by the relevant industry competent authority. However, this requirement does not apply to customs warehouses and/or warehouses used for storage seizure upon official demand.
+
+The warehouses and entrusted storage managers described in Subparagraphs II and III of the preceding paragraph shall submit the information regarding the sources of the entrusted toxic or concerned chemical substances through the network submission system designated by the central competent authority. Confirmation shall be completed within 5 working days by the special municipality, county or city competent authority upon acceptance.
+
+Toxic and concerned chemical substances described in Subparagraph IV of the first paragraph, which have not undergone the customs clearance procedure but have already been approved for temporary storage in a warehouse or container terminal by customs according to Customs Act regulations, are not required to have storage registration or approval documents.
+
+## Article 6
+
+When permits, registration documents, or approval documents are damaged or lost within the validity period, the responsible handler shall submit an application form and Attachment 5 within 30 days to the special municipality, county or city competent authority for replacement or re-issuance.
+
+If the period described in the preceding paragraph is exceeded, the handler shall submit the supporting documents for replacement or re-issue within ten days after notification from the special municipality, county or city competent authority.
+
+## Article 7
+
+Applicants for modifications of permits, registration documents, or approval documents shall submit the application form and Attachment 6 to the special municipality, county or city competent authority.
+
+As described in the preceding paragraph, applications for modification of basic information about the handler and site, diagrams of the entire handling site, and the interior layout of the site shall be submitted within 20 days after the relevant industry competent authority issues the plant registration documents, company registration documents, business registration certificate, or upon the occurrence of the change; the modification for the statutory responsible person shall be filed within 60 days.
+
+If applications for the modification of information about the handler, sites, and layouts, as specified in the preceding paragraph, are not submitted within the specified time frame, the handler shall submit relevant documents for modification within ten days after receiving notification from the special municipality, county or city competent authority.
+
+For any modification of the permits, registration documents, approval documents, and attachment documents not included in the second paragraph, the handler shall apply for approval from the special municipality, county or city competent authority in accordance with the first paragraph.
+
+## Article 8
+
+Applicants for the extensions of the permits, registration documents, or approval documents shall submit the application form and Attachment 7 to the special municipality, county or city competent authority within three to six months before the expiration date.
+
+If the application for an extension, in accordance with the preceding paragraph, does not comply with the regulations or fails to make corrections, the special municipality, county or city competent authority shall reject the application before the expiration of the permits, registration documents, or approval documents.
+
+If a handler applies for an extension within the designated time period, and the special municipality, county or city competent authority fails to complete the review before the expiration date, the handler or operation site may continue to operate in accordance with the originally approved items during the period between the expiration and the date when the review is completed.
+
+If a handler fails to apply for an extension within the designated time period as stipulated in the first paragraph, resulting in the inability of the special municipality, county or city competent authority to complete the review before the expiration date, the handler or operation site shall cease to operate after the expiration. Furthermore, if a handler fails to apply for an extension of the permits, registration documents, or approval documents before the expiration date, these documents are deemed invalid from the date of expiration. If handling activities are to continue, re-application is required.
+
+## Article 8-1
+
+Handlers who manufacture or use toxic and concerned chemical substances shall prepare a schematic diagram that illustrates the flow of pollutants such as air, water, waste, and toxic and concerned chemical substances throughout the entire operating site prior to applying for a permit, registration document, approval document, or their modification or extension. This schematic diagram shall demonstrate the flow of pollutants among different media and their correlations with different types of environmental permits (documents). However, this requirement does not apply if the manufacturing or use of toxic and concerned chemical substances is intended solely for research, testing, or educational purposes, and the total operating quantity is below the graded handling quantity
+
+Applications, modifications, or extensions specified in the preceding paragraph that involve the application, modification, alteration, or extension of other types of environmental permits (documents) shall simultaneously comply with the relevant environmental provisions for the applications, modifications, alternations, or extensions of those other relevant environmental permits (documents). However, this requirement does not apply if there is evidence showing that the applications, modifications, or extensions do not substantially involve other relevant environmental permits (documents).
+
+If the special municipality, county or city competent authority confirms that the application, modification, or extension involves other relevant environmental permits (documents) but they were not simultaneously applied for, the special municipality, county or city competent authority may continue the review according to this Act and notify the handler who manufactures or uses toxic and concerned chemical substances to submit the application, modification, or extension for the other relevant environmental permits (documents).
+
+## Article 9
+
+In any of the following circumstances regarding the sites prescribed in Article 2, the handler shall reapply for the permits, registration documents, or approval documents.
+
+I. The site for manufacturing, usage, or storage is relocated.
+
+II. The location of import or selling is moved outside the jurisdiction of the competent authority.
+
+## Article 10
+
+When reviewing applications, modifications, or extensions of permits, registration documents, or approval documents, the special municipality, county or city competent authority shall proceed in accordance with the following provisions:
+
+I. No form of order may impose obligations that are not explicitly defined in the regulations.
+
+II. The scope of the review shall not extend beyond the content of the application, modification, or extension.
+
+The special municipality, county or city competent authority issuing permits, registration documents, and approval documents for review, may invite relevant competent authorities, professionals, scholars, and experts to conduct on-site inspections.
+
+## Article 11
+
+Upon receiving the documents, the review period for the special municipality, county or city competent authority to review applications, replacements (re-issuances), modifications, and extensions shall be 30 workdays for permits and 20 workdays for other documents.
+
+If necessary, the special municipality, county or city competent authority may notify the applicant and extend the review period by up to twice the original number of workdays.
+
+## Article 12
+
+If the review of documents or the results of an on-site inspection indicate noncompliance or contain deficiencies, the special municipality, county or city competent authority shall promptly notify the handler to make corrections within a designated period.
+
+If corrections are made within the designated period but the documents still indicate noncompliance or contain deficiencies, the special municipality, county or city competent authority may notify the handler to make re-corrections within another designated period. Each correction period will not count as part of the review period, and the total time allowed for making corrections shall not exceed 30 days.
+
+## Article 13
+
+The special municipality, county or city competent authority reviewing permits, registration documents, or approval documents shall reject applications for any of the following violations:
+
+I. Failure to pay the toxic and concerned chemical substances handling standard application fees, or failure to complete payment within 14 days after receiving from the special municipality, county or city competent authority notification to pay the review and certificate fees.
+
+II. Failure to submit relevant application documents subject to Article 4 and Articles 6 through 8, and failure to make corrections within the designated period after notification from the authority.
+
+The handler shall make public the contents of the approved permits, registration documents, or approval documents on the website designated by the central competent authority. The special municipality, county or city competent authority shall issue the permits, registration documents, or approval documents within 14 days after the handler makes the information public.
+
+## Article 14
+
+The special municipality, county or city competent authority shall not approve applications for permits, registration documents, or approval documents under any of the following circumstances:
+
+I. The special municipality, county or city competent authority has, within the last two years, in accordance with the provisions of this Act, revoked or cancelled the permits, registration documents, or approval documents for the same toxic or concerned chemical substance with the same Listed Number, or has ordered the termination of operations.
+
+II. Operations have been restricted or forbidden by the central competent authority in accordance with Article 8 of this Act.
+
+## Article 15
+
+The special municipality, county or city competent authority may deny extensions of permits, registration documents, or approval documents under any of the following circumstances:
+
+I. Violation of Paragraph 1 of Article 37, or Paragraph 1 or Paragraph 3 of Article 41 of this Act more than twice within a year.
+
+II. Violation of this Act resulting in work or business suspension two or more times by the competent authority.
+
+III. Violation of this Act resulting in fines exceeding NT$3 million, imposed either once or cumulatively within the same year; or fines exceeding NT$5 million, imposed cumulatively during the validity period of the permits, registration documents, or approval documents.
+
+IV. The handling quantities of toxic and concerned chemical substances in both the handling records and the reported data have continuously been zero for the last three years. However, this requirement does not apply to chemicals used for testing and research purposes.
+
+## Article 16
+
+The special municipality, county or city competent authority receiving the application shall first review it based on the properties of each toxic or concerned chemical substance, and subsequently issue the permits, registration documents, or approval documents together for the handler or operating site.
+
+## Article 17
+
+Permits, registration documents, and approval documents of toxic and concerned chemical substances shall record the following items:
+
+I. Basic information of the handler:
+
+A. Name, address, and regulatory number of the handler.
+
+B. Name of the statutory responsible person.
+
+II. The handling site: name, address, and regulatory number.
+
+III. Date of issuance and period of validity.
+
+IV. Other relevant notes and annexes.
+
+Subparagraph IV of the preceding paragraph shall include the following:
+
+I. Name, listed number, series number, and concentration of toxic and concerned Chemical Substances.
+
+II. Handling activities, uses, permit number of the licensing agency, and permitted (approved) handling items, etc.
+
+III. Original approval date and notes of the handled substances.
+
+If the special municipality, county or city competent authority discovers any miswriting, miscalculation, or other obvious errors in the permits, registration documents, or approval documents that do not comply with the Act and relevant regulations, the authority may correct the permits, registration documents, or approval documents at any time and notify the handler.
+
+## Article 18
+
+Handlers of toxic and hazardous concerned chemical substances shall submit a disposal declaration for each batch of disposal to the special municipality, county or city competent authority where the chemical substances are located, and obtain approval before commencing disposal.
+
+If the handler and the operating sites fall under the jurisdiction of different special municipality, county or city competent authorities, the competent authority of the operating site shall inform the relevant competent authorities.
+
+Disposal of toxic and concerned chemical substances shall comply with the Waste Disposal Act and relevant regulations.
+
+## Article 19
+
+Handlers exporting Class 1 to Class 3 toxic chemical substances shall submit an export registration for each batch of export to the special municipality, county or city competent authority, along with the foreign purchaser's order, a copy of the letter of credit, or other supporting documents for the export, before commencing exportation.
+
+Handlers exporting Class 4 toxic chemical substances and concerned chemical substances shall export in accordance with the approval documents.
+
+## Article 20
+
+The special municipality, county or city competent authority shall cancel or revoke the permits, registration documents, or approval documents of handlers who have obtained permits, registration documents, or approval documents in accordance with this regulation under any of the following circumstances:
+
+I. The handler’s business license, factory registration or other permit documents have been canceled or revoked by the relevant industry competent authority.
+
+II. The application documents contain false or inaccurate information.
+
+III. The handling of Class 1 to Class 3 toxic chemical substances has been suspended for one year or more without the approval of the special municipality, county or city competent authority.
+
+IV. The handling of Class 1 to Class 3 toxic chemical substances has been suspended for six months or more and the special municipality, county or city competent authority determines there is concern of pollution of the environment or the endangerment of human health.
+
+V. The handler does not comply with the order to suspend work or business issued by the competent authority according to the Act.
+
+If storage sites with registration documents for Class 1 to Class 3 toxic chemical substances or storage sites with approval documents for Class 4 toxic chemical substances and hazardous concerned chemical substances are re-designated as residential or commercial districts under urban planning, the special municipality, county or city competent authority shall revoke the permits, registration documents, or approval documents.
+
+## Article 21
+
+Handlers whose applications for issuance, replacement (re-issuance) modification or extension for the permits, registration documents, or approval documents have been approved shall publicly disclose the contents of these documents, concealing personal information, on the website designated by the central competent authority in accordance with this Act. However, this requirement does not apply to those who have applied for the protection of confidential information to the central competent authority according to the Regulations of New and Existing Chemical Substances Registration.
+
+Handlers may withhold the following types of information from public disclosure if they apply for the protection of confidential information by submitting supporting evidence to the special municipality, county, or city competent authority, and if such approval is granted:
+
+I. It is not known to persons generally involved in the information of this type.
+
+II. It has economic value, actual or potential, due to its secretive nature.
+
+III. Its owner has taken reasonable measures to maintain its secrecy.
+
+The personal information referred to in the first paragraph includes a name, ID or passport number, personal photo, date of birth, contact phone number, cell phone number, fax number, e-mail address, permanent address, or other information that can be used to directly or indirectly identify a person.
+
+Handlers who have obtained permits, registration documents, or approval documents before the amendment of these regulations implemented on Jan. 15, 2020 shall publicly disclose the most recently approved documents on the website designated by the central competent authority before Jan. 17, 2021.
+
+## Article 22
+
+Applications for replacements (re-issuance), modification, or extension of permits, registration documents, or approval documents for toxic or concerned chemical substances shall be submitted via an online portal website designated by the central competent authority. However, this requirement does not apply if the special municipality, county or city competent authority has agreed to allow submission of written applications.
+
+## Article 23
+
+These Regulations shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Attachment 1 Required Documents and Information for Applying Permits of Toxic Chemical Substances of Classes 1 to 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008616)
+- [Attachment 2 Required Documents and Information for Applying Registration Document of Toxic Chemical Substances of Classes 1 to 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008617)
+- [Attachment 3 Required Documents and Information for Applying Approval Documents of Toxic Chemical Substances and of Hazardous Concerned Chemical Substances.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008618)
+- [Attachment 4 Required Documents and Information for Applying Approval Documents of Concerned Chemical Substances.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008619)
+- [Attachment 5 Required Documents and Information for Applying Replacement or Re-issuance of Permit, Registration Documents or Approval documents for Toxic or Concerned Chemical Substances.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008620)
+- [Attachment 6 Required Documents and Information for Applying Modifications of Permit, Registration Documents or Approval Documents for Toxic and Concerned Chemical Substances.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008621)
+- [Attachment 7 Required Documents and Information for Applying Extensions of Permit, Registration Documents or Approval Documents for Toxic and Concerned Chemical Substances.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008622)
+
+## History
+
+1.Original 23 articles determined and promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0960095333 on December 17, 2007.
+
+2.Articles 2, 8, 13, 16, 22 and Article 5 Annex I, Article 6 Annex II, Article 7 Annex III amended;Articles 3 and 21 revoked; and promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0990113501 on December 20, 2010.
+
+3.Amended 23 articles promulgated by the Environmental Protection Administration Order Huan-Shu--Hua -Tzu No. 1098000002 on January 15, 2020.
+
+4.Articles 3, 5, 10, 13, 17 and 19 amended; Article 8-1 added; and promulgated by the Ministry of Environment Order Huan-Pu-Hua-Tzu No. 1138111423 on June 11, 2024.

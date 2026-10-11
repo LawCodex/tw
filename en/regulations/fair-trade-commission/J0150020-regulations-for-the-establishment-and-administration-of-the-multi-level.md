@@ -1,0 +1,519 @@
+---
+title: "Regulations for the Establishment and Administration of the Multi-level Marketing Enterprises and Participants Protection Institute"
+title_zh: "多層次傳銷保護機構設立及管理辦法"
+identifier: "J0150020"
+type: regulation
+law_level: "命令"
+category: "行政＞公平交易委員會＞公平交易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2014-05-19
+last_amended: 2023-04-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0150020"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Establishment and Administration of the Multi-level Marketing Enterprises and Participants Protection Institute
+
+> Translation. The Chinese text ([zh/regulations/fair-trade-commission/J0150020-regulations-for-the-establishment-and-administration-of-the-multi-level.md](../../../zh/regulations/fair-trade-commission/J0150020-regulations-for-the-establishment-and-administration-of-the-multi-level.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are formulated in accordance with the provisions of Article 38 of the Multi-Level Marketing Supervision Act.
+
+### Article 2
+
+The term Multi-level Marketing Enterprises and Participants Protection Institute (hereinafter referred to as EPPI) used in the Regulations refers to the incorporated foundation established in accordance with the Regulations.
+
+### Article 3
+
+The functions of the EPPI are as follows:
+
+1.Mediating civil disputes between multi-level marketing（hereinafter referred to as MLM）enterprises and participants;
+
+\2. Assisting participants to bring lawsuits to court;
+
+3.Advancing and recovering payment and damage compensations from MLM enterprises, payable to the participants, as a result of MLM civil disputes;
+
+\4. Managing and employing the protection fund, annual fees and accrued interest;
+
+\5. Enhancing MLM enterprises and participants’ awareness of MLM regulations;
+
+\6. Assisting training activities;
+
+\7. Providing information service with regard to MLM regulations.
+
+\8. Counseling with matters related to guidance on and evaluation of the dispute resolution mechanism between the MLM enterprises and their participants;
+
+\9. Provide incentives to those who report violations of Article 6 and Article 18 of the Multi-Level Marketing Supervision Act;
+
+\10. Address other matters favorable to the protection of the rights and interests of the participants, and the development of the MLM industry.
+
+## Chapter II Establishment of the Institute
+
+### Article 4
+
+The EPPI shall be established by MLM enterprises designated by the Fair Trade Commission (hereinafter referred to as FTC) by submitting quadruplicate copies of each of the following documents for FTC’s approval:
+
+\1. An application stating that the objectives of establishment, name, the location of main office, total assets, operation items and other required information;
+
+\2. The original copy of the charter for endowment for the EPPI;
+
+\3. A detailed list of endowment including proof of deposits by financial institutions or other relevant documents for cash payments, or certificates of ownership for the endowed land and buildings for other assets;
+
+\4. A roster of directors, with photocopies of National Identification Cards and a diagram of any kinship relations between the directors and supervisors;
+
+\5. Consent statements to serve as directors;
+
+\6. A detailed list of Specimen seals or signatures of the EPPI and directors;
+
+\7. Minutes of the founding meeting of board of directors;
+
+\8. A roster of supervisors, with photocopies of National Identification Cards, consent statements to serve as supervisors and specimen seals or signatures;
+
+\9. Consent letters from the donors to transfer the ownership of the endowed assets to the possession of the EPPI;
+
+\10. The operation plan and capital utilization statement.
+
+The board of directors of the EPPI shall register with the court as a legal person within 30 days after receiving the establishment approval from the FTC, and submit a photocopy of the certificate as a legal person to the FTC for reference within 30 days after registration, as well as apply to the local tax collection authorities for a tax code number after registration and submit the result to the FTC for reference.
+
+### Article 5
+
+If there is any amendment to the registration, the EPPI shall fill out the application form for amendment and submit it along with related documents to the FTC for approval within 15 days, and thereafter filed with the court for amendment registration.
+
+### Article 6
+
+Once the establishment of the EPPI is approved, the donors shall transfer all the endowed assets to the EPPI within 90 days after completion of registration with the court, to register in the name of the EPPI or deposit in a designated account at a financial institution, and thereafter submit the related documents to the FTC for reference.
+
+For the abovementioned endowment that takes the form of cash payments shall be deposited in an account in the name of the EPPI’s preparatory office at a financial institution before approval of application.
+
+### Article 7
+
+The act of endowment for the EPPI shall carry the following information:
+
+\1. The name of the EPPI, objectives of endowment and location of the main office; if there's a branch office, information on such an office.;
+
+\2. The types, amounts, and custody and management of endowed assets;
+
+\3. Operation items and their administration;
+
+\4. The number of directors, supervisors and members of the Mediation Committee, their qualifications, method of their installation, term of office, dismissal, by-election（assignment）of vacancies during the term, and re-election（assignment）at the end of the term;
+
+\5. The organization, method of adopting resolutions and powers of the board of directors;
+
+\6. Adoption of accounting system, calculation of fiscal year and timelines for compilation and presentation of budget and final accounting account;
+
+\7. The organization of administrative units;
+
+\8. Distribution of remaining assets after dissolution;
+
+\9. Completion date of the charter for endowment;
+
+\10. Other information required according to the regulations of the FTC.
+
+### Article 8
+
+The EPPI shall report the following matters and any amendments thereto, to the FTC for approval:
+
+\1. Charter for endowment;
+
+\2. The procedures for acquisition and disposal of fixed assets;
+
+\3. The internal control system;
+
+\4. Other matters that should be reported to the FTC for approval, pursuant to the law or the regulations of the FTC.
+
+## Chapter III Organization
+
+### Article 9
+
+An EPPI shall establish a board of directors with 13 directors. A full complement of
+
+directors, to be selected（assigned）by the FTC for the next term, is as follows:
+
+\1. 3 representatives from MLM enterprises, as on file with the FTC;
+
+\2. 3 representatives from the participants;
+
+\3. 5 experts or scholars;
+
+\4. 2 representatives from the FTC.
+
+Each director shall serve a 3-year term and may be re-selected/ re-appointed for a second term. The number of directors to serve a second term may not exceed 2/3 of the total number of directors.
+
+The chairperson of the board of directors shall be elected from among the directors, exclusive of the FTC’s representative（s）, with a majority vote at a meeting attended by a quorum of over 2/3 of the directors. The result shall become effective upon approval of the FTC.
+
+### Article 10
+
+The responsibilities of the board of directors are as follows:
+
+\1. Fund raising, administration and management;
+
+\2. Election and dismissal of chairperson of the board;
+
+\3. Selection of members of the mediation committee;
+
+\4. Stipulation and revision of operating regulations;
+
+\5. Establishment and administration of internal organization;
+
+\6. Development and promotion of work plans;
+
+\7. Review of annual budget and final accounting accounts
+
+\8. Proposal of amendments to the charter for endowment;
+
+\9. Proposal of property purchases and disposal or creation of encumbrance;
+
+10.Proposal for the amount of advance payments for major cases, and the maximum amount of payments on behalf of participants for litigation costs and attorney's fees;
+
+\11. Resolutions on advance payments for each major case;
+
+12.Other matters, as required, by relevant charters and business regulations to be proposed, or resolved, by the board of directors
+
+### Article 11
+
+The board of directors meetings shall be convened and chaired by the Chairperson of the Board. In the event that the Chairperson of the Board of directors is unable to convene andpreside over a meeting for any reason, the Chairperson shall designate a Director to act on his or her behalf. If the Chairperson does not designate, or is unable to designate a proxy, the Directors shall elect one of their own to convene and preside over that meeting.
+
+The board meeting shall be held at least once every three months, and interim board meetings may be convened, as necessary.
+
+Directors shall attend board meetings in person or, if they are unable to attend, they may delegate their attendance to other directors by proxy, with the scope of such authority specified in writing. However, the number of proxy directors shall be limited to one per director, and that number shall not exceed one-third of the total number of directors.
+
+The board meetings may be held via video conference, with the directors who participate in such video meetings considered as being present in a in-person meeting.
+
+If the Chairperson of the Board fails to convene a meeting as required by the regulation, and then, if at least one-third of the total current directors submit in writing a request for the convening of a board meeting, including the purpose of the meeting and the reason for the convening of such a meeting, the Chairperson of the Board shall then convene a meeting within ten days of the date that such a request is made. If within the said time limit no convening notice is given, the requesting directors may, with the approval of the FTC, convene a meeting themselves.
+
+### Article 12
+
+Decisions of board meetings shall require the attendance of a quorum of over 1/2 of the directors as well as a majority vote at a meeting.
+
+### Article 13
+
+Proposals made by the EPPI on the following matters require the attendance of a
+
+quorum of two-thirds of the directors, and the consent of at least two-thirds of the
+
+attending directors::
+
+\1. The revision of charter of endowment.;
+
+\2. Stipulation and revision of organizational regulations;
+
+\3. Dissolution or revision of objectives of the EPPI;
+
+\4. Property purchases and disposal or creation of encumbrance;
+
+\5. Application for loans;
+
+\6. Revision of fund custody and management.
+
+If the revision made to the charter as specified in subparagraph 1 of the preceding paragraph involves any of the circumstances described in Article 62 or 63 of the Civil Code, the FTC may apply to the court for necessary disposition.
+
+Matters as stipulated in every subparagraph of the first paragraph shall be submitted to the FTC for approval, before they are implemented.
+
+The agenda for discussion regarding the matters stated in paragraph 1 shall be provided to all the directors as well as filed with the FTC for future reference ten days before the meeting takes place and the FTC may also send staff members to attend the meeting as observers.
+
+### Article 14
+
+The EPPI shall have 1 to 3 supervisors to be selected by the FTC from scholars, specialists and impartial persons.
+
+Each supervisor shall serve a 3-year term and may be reselected. The number of reselected supervisors serving for a new term may not exceed 2/3 of the total number of supervisors.
+
+The supervisors may, at any time, investigate the business operations and financial status of the EPPI; audit the financial books, documents and asset information; and may request a report from the board of directors
+
+The supervisor may exercise his or her supervision power individually. Once discovering that the board of directors is acting in violation of the laws, charter for endowment, or operating regulations during execution of its duties, the supervisor shall immediately notify the board to cease its conduct while at the same time inform the FTC, and provide the FTC with a written statement of the finding facts within three days.
+
+### Article 15
+
+In order to resolve disputes, the EPPI establishes the MLM Rights Protection and Dispute Mediation Committee（hereinafter referred to as the Mediation Committee）. There are 13 to 21 members on the Committee, one of whom shall be the Chairperson. All members are selected by the board of directors from available scholars, experts, impartial persons, representatives of MLM organizations, or consumer protection groups, with relevant professional qualifications and/or practical experience, who are then appointed after being ratified by the FTC.
+
+Each mediation committee member shall serve a 3-year term and may be reselected upon expiration of each term.
+
+Decisions made by the mediation committee shall require the attendance of a quorum of over 1/2 the members as well as a majority vote of the attending members.
+
+The members of the mediation committee shall exercise their duties independently in an impartial manner.
+
+### Article 16
+
+The person falls within any of the following categories shall not serve as EPPI’s director, supervisor or mediation committee member. He or she already serving in any of these capacities shall be ipso facto discharged:
+
+\1. The representative of an MLM enterprise who have been placed on the FTC watch list;
+
+\2. Any person who has engaged in inappropriate MLM activities and indicted by a prosecuting agency or transferred to a prosecuting agency by the FTC;
+
+\3. Any person who has committed and has been convicted of a crime, as stipulated in the Organized Crime Prevention Act;
+
+\4. Any person who has committed and has been convicted of fraud, breach of trust, embezzlement or corruption;
+
+5.Any person who has been dishonored for unlawful use of credit instruments, and the term of such sanction has not expired yet;
+
+6.Any person who has been declared bankrupt or adjudicated of the commencement of liquidation process in accordance with the Statute for Consumer Debt Clearance, and having not been reinstated to his rights and privileges;
+
+\7. Any person who has been pronounced by the court of an assistantship, and such declaration has not been withdrawn;
+
+\8. Any MLM enterprise representative or participant who has not paid endowment for the protection fund or annual fee.
+
+### Article 17
+
+The directors, supervisors, mediation committee members and staff members of the EPPI shall recuse themselves when conflict of interests occurs in the execution of duties, but election of the chairperson of board directors is excluded.
+
+The conflict of interests stated in the preceding paragraph refers to situations when directors, supervisors, mediation committee members or staff members of the EPPI gain profits or reduce loss either directly or indirectly through any act or omission in execution of their duties.（經檢視不用英譯修正）
+
+### Article 18
+
+The directors, supervisors, mediation committee members and staff members of the EPPI shall not engage in the following conduct:
+
+\1. Making inquiries that transgress the laws or disclosing confidential information accessed through work;
+
+\2. Taken advantage of the power, opportunity, or means of one's position in order to benefit oneself, or one's related parties.
+
+The "related parties", as described in Subparagraph 2 of the preceding paragraph and Paragraph 2 of the preceding Article, refers to spouses, or relatives within the second degree of kinship.
+
+### Article 19
+
+The directors, supervisors and mediators of the EPPI are unpaid, but may receive part-time remuneration, or attendance fees and travel expenses. However, the Chairperson of the Board is a full-time position, who may be paid upon the board of directors’ resolution.
+
+The criteria for the payment of the fees and compensation to the Chairperson of the Board, as mentioned in the preceding paragraph, shall be determined by the EPPI and then implemented upon approval of the FTC
+
+The staff members of the EPPI may receive salaries. The standards for payment shall be established by the EPPI and implemented after reported to the FTC for approval.
+
+## Chapter IV Finance
+
+### Article 20
+
+The sources of the EPPI’s revenue are as follows:
+
+\1. Endowed property;
+
+\2. Protection fund contributions or annual fees collected from the MLM enterprises and participants;
+
+\3. Interest accrued from the property and management earnings;
+
+\4. Other donations.
+
+### Article 21
+
+he amounts of the protection funds and annual fees, as well as the timing,
+
+payable by the MLM enterprises, are as follows:
+
+\1. Protection Funds:
+
+（1）The determinations for the following eleven tiers of payments are based on the total MLM revenue from the previous fiscal year.
+
+A. For those with a total revenue of NT$（the same unit below）2 billion or more: NT$4 million;
+
+B. For those with a total revenue over $1.5 billion and less than $2 billion: $3 million;
+
+C. For those with a total revenue over $1 billion and less than $1.5 billion: $2.5 million;
+
+D. For those with a total revenue over $600 million and less than $1 billion: $2 million;
+
+E. For those with a total revenue over $300 million and less than $600 million: $1.5 million;
+
+F.  For those with a total revenue over $200 million and less than $300 million: $1 million;
+
+G. For those with a total revenue over $100 million and less than $200 million: $600,000;
+
+H. For those with a total revenue over $30 million and less than $100 million: $300,000;
+
+I.   For those with a total revenue over $10 million and less than $300 million: $100,000;
+
+J.  For those with a total revenue less than $10 million: $80,000;
+
+K. Newly registered businesses: $50,000.
+
+（2）For those MLM enterprises who previously paid their protection funds, and whose scale of business has now advanced, shall make up the difference in funds between the tiers. For those whose scale of business is stable, no additional payments are required. For those whose scale of business is downgraded, or the tier amounts have been adjusted downward, no refunds will be made.
+
+（3）Newly registered MLM enterprises should pay the EPPI in the same quarter as when their registration is completed. For MLM enterprises that are required to make up the difference, due to their tier advancement, should pay the EPPI before the end of March each year.
+
+\2. Annual fees:
+
+（1）The determinations for the following ten tiers of payments are based on the total MLM revenue from the previous fiscal year:
+
+A. For those with a total revenue over $700 million: $100,000;
+
+B. For those with a total revenue over $600 million and less than $700 million: $90,000;
+
+C. For those with a total revenue over $500 million and less than $600 million: $80,000;
+
+D. For those with a total revenue over $400 million and less than $500 million: $70,000;
+
+E. For those with a total revenue over $300 million and less than $400 million: $60,000;
+
+F. For those with a total revenue over $200 million and less than $300 million: $50,000;
+
+G. For those with a total revenue over $100 million and less than $200 million: $40,000;
+
+H. For those with a total revenue over $50 million and less than $100 million: $30,000;
+
+I. For those with a total revenue over $5 million and less than $50 million: $20,000;
+
+J. For newly registered businesses and those with a total revenue less than $5 million: $10,000.
+
+（2）Newly registered MLM enterprises shall pay the EPPI in the same quarter as when their registration is completed. Existing MLM enterprises shall pay the EPPI before the end of March each year.
+
+（3）If the annual fees paid by the MLM business reach a certain value within a certain number of years, the FTC may announce the cessation of payments, depending on the overall size of the fund.
+
+### Article 22
+
+The amounts of protection funds and annual fees, as well as the timing, payable by the MLM enterprises, shall be announced by the FTC.
+
+Participants joining the operations of two or more MLM enterprises may pay their protection fund contributions and annual fees through one of the MLM enterprises.
+
+MLM enterprises shall collect the protection fund contributions and annual fees from their participants and pay the EPPI, unless the ways for payment are otherwise provided in the operating regulations of the EPPI.
+
+Participants who have not paid their protection funds and/or annual fees, in accordance with the regulations, cannot request the EPPI to perform its missions, as described in Subparagraphs 2 and 3 of Article 3
+
+### Article 23
+
+The protection funds and annual fees, as paid by the MLM businesses and other participants, are non-refundable.
+
+The EPPI shall produce and update the registers for payers of protection fund contributions and annual fees, and present them to the FTC for reference on a quarterly basis.
+
+### Article 24
+
+For the management of accounting matters of the EPPI, the accrual principle shall be adopted as the accounting basis, and the fiscal year shall be based on a calendar year. The accounting system shall be formulated according to the nature of accounting items, actual business operations as well as the needs in development management, and filed to the FTC for reference.
+
+The accounting system mentioned in the preceding paragraph shall include the following item:
+
+\1. A general description of the accounting system;
+
+\2. Accounting journals and ledgers;
+
+\3. The description and usage of the accounting items, accounting documents, accounting books and accounting reports;
+
+\4. Standards and procedures of general accounting;
+
+\5. Regulations regarding collections, payments, and property management.
+
+### Article 25
+
+The EPPI shall open a special account for deposit with the financial institution designated by the FTC to facilitate the control and management of income and expenditure.
+
+### Article 26
+
+The endowed assets for the establishment of the EPPI shall be no less than 10 million in cash; the principal under the amount of 10 million shall not be used.
+
+The income of the EPPI shall not be spent, except for the purposes of implementing its missions and operations, as stated in Article 3
+
+### Article 27
+
+The EPPI shall annually compile a work plan and budget for the following year, and then submit it, upon the approval of board of directors, to the FTC for recording before the end of October.
+
+Within five months after the end of each year, the EPPI shall submit its operations reports and financial statements of the previous year to the board of directors for review, and to all supervisors for their respective audits. The said reports, together with the CPA audit reports and supervisors' reports of the previous year, shall be submitted to the FTC for recording.
+
+The information stated in the preceding 2 paragraphs shall be made public in a proper way.
+
+## Chapter V Operations of the Institute
+
+### Article 28
+
+The EPPI shall stipulate operating regulations for conducting operations in accordance with the Regulations and file it with the FTC for approval. The same procedure shall apply for revisions.
+
+The operating regulations stated in the preceding paragraph shall include the items specified in Article 3 of the Regulations.
+
+### Article 29
+
+Upon receipt of a request for mediation from an MLM enterprise or other participant, the EPPI shall assign a dedicated person to investigate the case. The three members of the mediation committee on duty will then conduct the mediation. The assigned mediation committee members shall select one person to preside over the mediation proceedings. However, a full mediation committee meeting may be convened for major cases.
+
+The mediation committee members are required to hold the meeting within 15 working days after the EPPI receiving a request. The meeting may be postponed for 7 working days if necessary or with the consent of both parties to the dispute.
+
+Depending on the parties involved, the mediation may be performed at the nearest place of domicile, residence or place of business.
+
+The requirements, procedures, and the advance amounts for the major cases, as described in the first paragraph, shall be proposed by the EPPI, and then submitted to the FTC for its approval before implementation.
+
+The mediation committee members（or the committee）shall carefully review related facts and evidence in mediation of disputes and may request MLM enterprises and participants to provide assistance or present related documents and information if it is reasonable and necessary.
+
+### Article 30
+
+Either party to a dispute may not disclose any information with regard to the request, statement or concession proposed by the other party during the mediation process, unless such information is already made public or the disclosure is conducted according to law or with the consent of the other party. The EPPI and its staff members and mediation committee members shall keep confidentiality in mediation process and corresponding information, unless it is otherwise stipulated in related regulations or with the consent of both parties to the dispute.
+
+The directors（or the board）and supervisors shall not intervene in the mediation of individual disputes.
+
+### Article 31
+
+A successful mediation is accomplished when all parties concerned have reached an agreement. If the MLM enterprise is liable for compensation, or should pay a certain amount according to the investigation results, as made by the mediation committee, and fails to fulfill the payment obligation by the end of the contract, the EPPI shall order the said enterprise to pay within 30 days. The EPPI shall make an advance payment on behalf of the enterprise, if the payment is overdue.
+
+The amount of an advance payment made by the EPPI, as referred to in the preceding paragraph, shall be determined by the Mediators（Mediation Committee）, based on such factors as the circumstances of the case, the imputability of the MLM business and the extent of damage suffered by the distributor, and the income of the EPPI and the risk to the EPPI for advancing such a payment. However, the board of directors should approve the advance payment for major cases.
+
+After the EPPI makes an advance payment, the participant shall assign its rights of claim to the EPPI. The EPPI assumes the rights of claim of the participant starting from the date of the claims assignment, and then seeks recovery from the said enterprise.
+
+After deducting the amount of the advanced payment, litigation costs and attorney's fees, the remaining amount recovered by the EPPI, as referred to in the preceding paragraph, shall be delivered to the participant, who signed over the rights of claim.
+
+No application may be filed for mediation of the same dispute that has already settled.
+
+### Article 32
+
+Under one of the following circumstances, a dispute is considered unsettled:
+
+\1. One of the parties to the dispute fails to attend mediation meetings held by mediation committee members in 2 consecutive times.
+
+\2. A mediation proposal shall be reached after three mediation meetings are held. However, this rule does not apply if both parties agree to continue the mediation.
+
+### Article 33
+
+In the event that the mediation is not successful and, the Mediation Committee determines that the participant's request is justified, the participant may ask the EPPI to advance the litigation costs and attorney's fees up to a certain amount, file a lawsuit in court, and then return the aforementioned costs after the conclusion of the lawsuit. However, this does not apply if the participant is indigent and the EPPI agrees to waive the repayment.
+
+The criteria for the maximum amount of an advance payment for litigation costs and attorney's fees, and the standards for repayment waiver due to indigence, shall be prescribed by the EPPI and then implemented after approval by the FTC, and the same shall apply to any amendments.
+
+### Article 34
+
+In the event that the mediation is not successful, if the mediators（committee）determine that the MLM enterprise is liable for compensation, the participant may also assign all of its claims to the EPPI and then ask the EPPI for an advance payment.
+
+The provisions of Paragraphs 2 through 4 of Article 31 shall apply mutatis mutandis to a case, as described in the preceding paragraph.
+
+A participant, who has asked the EPPI for advance payment in accordance with the provisions of the first paragraph, shall not apply again, in accordance with provisions of the first paragraph of the preceding Article.
+
+### Article 35
+
+The meeting minutes of the board of directors and mediation committee of the EPPI shall be provided to the FTC for reference on a quarterly basis.
+
+### Article 36
+
+If directors（or the board）, supervisors and mediation committee members（or the committee）violate related regulations during execution of their duties, neglect their duties, fail to execute their duties out in a diligent manner or make serious mistakes, the FTC may revoke their decisions, dismiss them or impose other proper sanctions.
+
+### Article 37
+
+In order to understand its operations, the FTC may notify the EPPI to provide operation and financial reports at any time, or send staff members or appoint CPAs for auditing whenever necessary.
+
+The EPPI shall be responsible for the fees required for the CPAs’ auditing services stated in the preceding paragraph.
+
+### Article 38
+
+The EPPI shall keep the following documents for inspections by the FTC’s staff members:
+
+\1. The charter for endowment;
+
+\2. Rosters of directors, supervisors and mediation committee members;
+
+\3. The certificate for registration of legal person issued by the court;
+
+\4. Board of directors meeting minutes for the past 5 years;
+
+\5. Dispute resolutions and information related to mediation cases processed for the past 5 years;
+
+\6. The inventory of property, budgetary statements, final accounting statements, and CPA-audited financial statements for the past 10 years;
+
+\7. Accounting books for the past 10 years and related certificates for the past 5 years;
+
+8.Registers for MLM enterprises and participants which have paid protection fund contributions and annual fees for the past 5 years.
+
+### Article 39
+
+These Regulations shall come into effect on the date of promulgation, except for Article 21, which shall come into effect on January 1, 2024.
+
+## History
+
+1.Promulgated by Order Kung Jing Tzu No. 1031460543 on May 19, 2014
+
+2.Amended and Promulgated Articles 3, 16, 29 and 30&nbsp;by Order Kung Jing Tzu No. 10814602481 on March 29, 2019
+
+3.Amended and Promulgated Articles 3, 16, 28 and 29&nbsp;by Order Kung Jing Tzu No. 10814609441 on October 31, 2019
+
+4.The full text of the amendment is promulgated by Order of Gong-Jing-Zi No. 1121460344 on April 7, 2023

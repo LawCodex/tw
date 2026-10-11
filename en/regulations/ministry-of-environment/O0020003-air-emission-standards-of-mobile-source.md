@@ -1,0 +1,160 @@
+---
+title: "Air Emission Standards of Mobile Source"
+title_zh: "移動污染源空氣污染物排放標準"
+identifier: "O0020003"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1980-06-05
+last_amended: 2023-06-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020003"
+retrieved: 2026-10-12
+---
+
+# Air Emission Standards of Mobile Source
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020003-air-emission-standards-of-mobile-source.md](../../../zh/regulations/ministry-of-environment/O0020003-air-emission-standards-of-mobile-source.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Paragraph 2 of Article 36 of the Air Pollution Control Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+Terms used in these Standards are defined as follows:
+
+I. “Drive cycle testing” means use of a chassis dynamometer to simulate specific forms of driving cycle and measurement of air pollutants emitted from a vehicle’s exhaust   pipe during the simulated driving cycle.
+
+II. “Idle testing” means measurement of the concentration of emitted pollutants from the exhaust pipe when a vehicle is idle.
+
+III. “Judgment by visual determination” means the use of visual methods to determine the concentration of particulate matter in air pollutants emitted by a transportation   vehicle. This work shall be performed by personnel who have completed the central competent authority’s training for transportation vehicles and public or private premise   exhaust smoke visual judgment personnel and hold a qualification certificate.
+
+IV. “New vehicle model certification” means the air pollutant emission review and testing performed after the manufacture or import of each vehicle model, and prior to sales   or use.
+
+V. “New vehicle testing” means air pollutant emission testing performed after a vehicle has passed new vehicle model certification and following a certain period of time or   after a designated quantity has been manufactured or imported.
+
+VI. “In-use vehicle testing” includes regular testing and non-regular testing. Regular testing means air pollutant emission testing performed during regular testing in   accordance with Article 44 of this Act. Non-regular testing means provisional air pollutant emission testing performed when vehicles are in motion or at a stopping place in   accordance with Article 45 of this Act.
+
+VII. “Mass production” means that a product is being formally manufactured for the purpose of sales or use in a production line in accordance with production drawings after   completion of design and commercial realization.
+
+VIII. “Prototype vehicle” means a vehicle that is manufactured by hand or other non-production line method during the model design and development stage and after the   determination of detailed specifications.
+
+IX. “Mass production vehicle” means a vehicle that is being formally manufactured for the purpose of sales or use in a production line in accordance with production drawings   after completion of design and commercial realization.
+
+X. “Reference mass” means the curb weight of a motor vehicle plus a specific weight. The curb weight of a motor vehicle means the weight of the motor vehicle prior to loading   with persons or cargo. The engine shall contain the designated lubricating oil, the radiator shall contain the designated coolant, the fuel tank shall contain the designated   fuel, and the motor vehicle shall contain accessories (spare tire and tools) designated by the original manufacturer. The specific weight means 136 kg, in the case of the urban   driving cycle (hereinafter referred to as FTP-75) in the test types under the US Federal Test Procedures, and 100 kg, in the case of the New European Driving Cycle (hereinafter   referred to as NEDC) or the Worldwide Harmonized Light Vehicles Test Cycle (hereinafter referred to as WLTC).
+
+XI. “Model year” means the calendar year in which a vehicle manufacturer began producing the model in mass production.
+
+XII. “Alternative clean fuel” means a new formulation of gasoline, new formulation of diesel fuel, natural gas, LPG, hydrogen, methanol, ethanol or other fuel containing at   least 85% alcohol.
+
+## Article 3
+
+Gasoline and clean alternative fuel engine exhaust emissions standards for Carbon monoxide (CO),Hydrocarbons (HC), Nitrogen oxides (NOx), Particulate matter (PM), and Particulate number (PN) derived from driving cycle testing and idle testing stipulated as the following:
+
+## Article 4
+
+Crankcase, fuel tank and carburetor hydrocarbon (HC) emission standards for gasoline and alternative clean fuel engine motor vehicles are stipulated in the following table:
+
+## Article 5
+
+The exhaust emissions standards of carbon monoxide (CO), hydrocarbons (HC), non-methane hydrocarbon (NMHC), nitrogen oxides (NOx), formaldehyde (HCHO), particulate matter (PM), particulate number (PN) and smoke for diesel and alternative clean-fuel engine motor vehicles measured by driving cycle testing, visual determination and instrumentation measurement are specified in the following table:
+
+## Article 6
+
+The exhaust emissions standards of carbon monoxide (CO), hydrocarbon (HC), nitrogen oxides (NOx) and particulate matter (PM) emitted by motorcycles measured by the driving cycle test, idle test, visual determination and instrumentation measurement are stipulated in the following table:
+
+## Article 7
+
+The emission standards for hydrocarbon (HC) from crankcase, fuel tank, and fuel supply system of motorcycles are stipulated in the following table:
+
+## Article 8
+
+The exhaust emission standards of carbon monoxide (CO), hydrocarbons (HC), nitrogen oxides (NOx), and particulate matter (PM) for trains and exhaust emission standards of particulate matter (PM) emitted by ships are stipulated in the following table:
+
+## Article 9
+
+The central competent authority in conjunction with the relevant agencies shall determine testing methods not designated in these Standards.
+
+## Article 10
+
+These Standards shall be enforced as of July 1, 2023, unless otherwise agreed upon separately.
+
+## Attachments
+
+- [Article 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008111)
+- [Article 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008112)
+- [Article 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008113)
+- [Article 6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008114)
+- [Article 7.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008115)
+- [Article 8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008116)
+
+## History
+
+1.Promulgated by DOH Order Wei-Shu-Huan-Tzu No. 281151 on June 5, 1980
+
+\2. Revisions promulgated by DOH Order Wei-Shu-Huan-Tzu No. 415344 on March 10, 1983
+
+\3. Revisions promulgated by DOH Order Wei-Shu-Huan-Tzu No. 48097 on May 8, 1984
+
+\4. Revisions to original 4 articles promulgated by DOH Order Wei-Shu-Huan-Tzu No. 663088 on May 15, 1987
+
+\5. Revisions to Articles 2 and 9 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 02255 on March 9, 1988
+
+\6. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 11666 on April 15, 1991
+
+\7. Revisions to Articles 1 and 2 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 13471 on April 10, 1992
+
+\8. Revisions to Articles 2 through 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 34226 on July 27, 1992
+
+\9. Revisions to Articles 2, 3, 4 and 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 44168 on September 1, 1994
+
+\10. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 61110 on December 15, 1994
+
+\11. Revisions to Article 6 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 21993 on May 22, 1995
+
+\12. Revisions to Articles 3 and 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 135186 on March 20, 1996
+
+\13. Amended on August 5, 1998
+
+\14. Revisions to Articles 1 and 2 promulgated by EPA Order (88) Huan-Shu-Kong-Tzu No. 000938 on February 24, 1999
+
+\15. Revisions to Article 6 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0082090 on December 26, 2001
+
+\16. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0910009395 on February 20, 2002
+
+\17. Revisions to Article 1 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0910065972 on October 2, 2002
+
+\18. Revisions to Article 2 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0910082101 on November 27, 2002
+
+\19. Revisions to Articles 3, 5 and 6 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0920087607 on December 10, 2003
+
+\20. Revisions to Article 6 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0940055895 on July 22, 2005
+
+\21. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0950050901 on June 30, 2006
+
+\22. Revisions to Article 6 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0960047525 on June 28, 2007
+
+\23. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0980097793 on October 29, 2009
+
+\24. Revisions to Article 3 and 4 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 0990026508 on March 31, 2010
+
+\25. Revisions to Article 2, 6 and 7 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1020091280 on October 28, 2013
+
+\26. Revisions to Articles 8 through 11 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1020107176 on December 13, 2013
+
+\27. Revisions to Article 5 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1030022417A on March 21, 2014
+
+\28. Revisions to Articles 3, 5 and 9 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1050105276 on December 27, 2016
+
+\29. Revisions to Articles 8 promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1060030141 on April 27, 2016
+
+\30. Revisions to Article 1, 5, and title of the law is revised to Air Emission Standards of Mobile Source, promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1080041095 on June 12, 2019
+
+\31. Revisions to Article 3, 5, and title of the law is revised to Air Emission Standards of Mobile Source, promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1090055378 on July 27, 2020
+
+\32. Revisions to Full text including 10 articles, is revised to Air Emission Standards of Mobile Source, promulgated by EPA Order Huan-Shu-Kong-Tzu No. 1121074384 on June 30, 2023

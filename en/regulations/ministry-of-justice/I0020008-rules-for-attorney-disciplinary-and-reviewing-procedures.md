@@ -1,0 +1,107 @@
+---
+title: "Rules for Attorney Disciplinary and Reviewing Procedures"
+title_zh: "律師懲戒及審議細則"
+identifier: "I0020008"
+type: regulation
+law_level: "命令"
+category: "行政＞法務部＞檢察目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1941-09-13
+last_amended: 2025-02-04
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0020008"
+retrieved: 2026-10-12
+---
+
+# Rules for Attorney Disciplinary and Reviewing Procedures
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-justice/I0020008-rules-for-attorney-disciplinary-and-reviewing-procedures.md](../../../zh/regulations/ministry-of-justice/I0020008-rules-for-attorney-disciplinary-and-reviewing-procedures.md)) is authoritative.
+
+## Article 1
+
+These Rules are established in accordance with Article 84 and Paragraph 2 of Article 113 of the Attorney Regulation Act (the “Act”).
+
+## Article 2
+
+Among the members of the Attorney Ethics and Disciplinary Committee and the Attorney Disciplinary Re-Consideration Committee, three judges shall be appointed by the Taiwan High Court, three public prosecutors shall be appointed by the Taiwan High Prosecutors Office, seven attorneys shall be recommended by the National Bar Association, and two scholars or impartial persons in society shall be selected by the Taiwan High Court from a list of three persons nominated by the Taiwan High Prosecutors Office and the National Bar Association; the chairpersons of the above committees shall be elected by the members thereof from among themselves.
+
+Among the members of the Attorney Disciplinary Re-Examination Committee and the Attorney Disciplinary Re-Examination Re-Consideration Committee, three judges shall be appointed by the Supreme Court, three public prosecutors shall be appointed by the Supreme Prosecutors Office, seven attorneys shall be recommended by the National Bar Association, and two scholars or impartial persons in society shall be selected by the Supreme Court from a list of three persons nominated by the Supreme Prosecutors Office and the National Bar Association; the chairpersons of the above committees shall be elected by the members thereof from among themselves.
+
+The members referred to in the preceding two Paragraphs are gratuitous positions with a two -year term of office.
+
+The chairpersons and the list of members of Paragraphs 1 and 2 hereof shall be reported to the Judicial Yuan by letter and submitted to the Ministry of Justice.
+
+## Article 3
+
+If the chairperson of any of the above committees is unable to perform his or her duties for any reason, one of the members of such committee shall be elected from among themselves to act as the chairperson.
+
+## Article 4
+
+Both of the Taiwan High Court and the Supreme Court shall appoint personnel to handle the administrative matters of the Attorney Ethics and Disciplinary Committee, the Attorney Disciplinary Re-Consideration Committee, the Attorney Disciplinary Re-Examination Committee, and the Attorney Disciplinary Re-Examination Re-Consideration Committee; provided, however, that the chairpersons of the above committees may assign appropriate personnel outside the court's staff to assist with such matters.
+
+The funds required for the handling of such matters of the committees mentioned in the preceding Paragraph shall be covered by the funding budgeted by both of the Taiwan High Court and the Supreme Court.
+
+## Article 5
+
+In accepting disciplinary complaints, the Attorney Ethics and Disciplinary Committee shall assign them to each member thereof for review on a rotating basis.
+
+## Article 6
+
+The reviewing member shall send his or her opinion on his or her review result to the chairperson of the committee within two months after a disciplinary compliant is assigned to him or her; the chairperson of the committee shall convene a review meeting within one month after receipt of such opinion.
+
+## Article 7
+
+The Attorney Ethics and Disciplinary Committee shall resolve to cease reviewing the attorney referred to disciplinary proceedings who incapable of presenting his or her case in the review meeting due to certain physical or mental issues judging from objective circumstances before he or she replies.
+
+The Attorney Ethics and Disciplinary Committee shall resolve to cease reviewing the attorney referred to disciplinary proceedings who incapable of attending the review meeting in person due to certain illness before he or she is able to do so.
+
+The provisions of the preceding two Paragraphs shall not apply where it is obvious that a resolution shall be passed that the attorney referred to disciplinary proceedings should not be subject to any discipline, should be exempted from review, or should not be accepted for review.
+
+## Article 8
+
+If the chairperson or a member of the committee is unable to attend the review meeting for a disciplinary complaint for any reason and the attendees at such meeting does not constitute a quorum, the chairperson or the acting chairperson of the committee shall convene another meeting within twenty days. If the aforementioned circumstances still exist at the review meeting convened again, the chairperson or the acting chairperson of the committee shall consult with and request the authorities or organizations designating, recommending or selecting the absent members to appoint persons with the same qualifications as such members to attend the review meeting by proxy.
+
+## Article 9
+
+The chairperson and members of the committee shall present their respective opinions when examining a disciplinary complaint.
+
+## Article 10
+
+The original reviewing member shall make a written resolution within seven days after the review meeting for a disciplinary complaint passed the resolution.
+
+## Article 11
+
+The Attorney Ethics and Disciplinary Committee shall serve the original copy of the resolution stipulated in the preceding Article on the authority or organization referring the complained attorney to disciplinary proceedings and such attorney so referred within seven days after the written resolution is made.
+
+## Article 12
+
+The provisions of Articles 5 to 11 hereof shall apply mutatis mutandis to the attorney disciplinary re-consideration, re-examination, and re-examination re-consideration procedures.
+
+## Article 13
+
+These Rules shall come into force on January 1, 2021.
+
+These Rules amended on February 4, 2025, shall come into force on January 1, 2025.
+
+## History
+
+1.Promulgated on September 13, 1941
+
+2.Amended on April 30, 1973
+
+3.Amended on November 3, 1982
+
+4.Amended on May 12, 1993
+
+5.Amended on December 20, 2004
+
+6.Amended on June 29, 2006
+
+7.Amended on January 29, 2019
+
+8.Amended on January 19, 2021 by the Order No.10904543640 of Ministry of Justice.
+
+9.Amended on February 4, 2025 by the Order No.11404502180 of Ministry of Justice.

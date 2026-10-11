@@ -1,0 +1,237 @@
+---
+title: "Amendments to the Regulations for Establishing Measures on Prevention of Sexual Harassment in the Workplace"
+title_zh: "工作場所性騷擾防治措施準則"
+identifier: "N0030019"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動條件及就業平等目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-03-06
+last_amended: 2024-01-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030019"
+retrieved: 2026-10-12
+---
+
+# Amendments to the Regulations for Establishing Measures on Prevention of Sexual Harassment in the Workplace
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0030019-amendments-to-the-regulations-for-establishing-measures-on-prevention-of-sexual.md](../../../zh/regulations/ministry-of-labor/N0030019-amendments-to-the-regulations-for-establishing-measures-on-prevention-of-sexual.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted pursuant to Paragraph 6 of Article 13 of the Gender Equality in Employment Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+An employer who hires more than 10 but less than 30 employees shall set up a hotline, fax, mailbox, email or any other designated complaint channels dedicated to processing sexual harassment incidents.
+
+The complaint channels referred to in the preceding paragraph shall be made accessible to employees at a noticeable location, and announced in writing from time to time, via email, online notice or in any other manner accessible to employees.
+
+## Article 3
+
+An employer who hires over 30 employees shall apply the requirements referred to in the preceding article and also establish measures for the prevention, complaint and punishment of sexual harassment in accordance with the Regulations, which shall also be made accessible to the employees.
+
+The requirements referred to in the preceding paragraph shall include the following items:
+
+1.Implement educational programs to prevent and resolve issues of sexual harassment.
+
+2.Promulgate the procedures for complaint and investigation pertaining to processing of sexual harassment incidents, and designate specific personnel or a specific organization to be in charge of these procedures.
+
+3.Handle sexual harassment complaints in confidentiality and protect the complainant from any retaliation or other adverse treatment.
+
+4.Establish measures for punishing or responding to those who are proven to be perpetrators after a formal investigation.
+
+5.Make it clear that when an accused person or employer is found to be ultimately responsible, the employee or job applicant may proceed to file a complaint with the local competent authority in accordance with subparagraph 1, Paragraph 1 of Article 32-1 of the Act.
+
+An employer who employs less than 30 employees may follow the requirements referred to in the preceding two paragraphs.
+
+## Article 4
+
+The regulations governing prevention, complaint and punishment of sexual harassment established by a government agency (institution), school, military organization, troop, administrative corporate entity, or state-owned enterprise organization pursuant to the preceding article shall expressly state that when the complainant is a public servant, educator, or military personnel, the complaint and processing procedures applicable to them shall be handled in accordance with Paragraph 3 of Article 2, and Article 32-3, of the Act.
+
+## Article 5
+
+The investigation into sexual harassment claims shall apply the requirements referred to in Paragraphs 1 to 4 of Article 12 of the Act, and also take the following circumstances into consideration as examples of sexual harassment:
+
+1.Gazing, touching, hugging, kissing or smelling another person's body inappropriately, or coercing others to do so.
+
+2.Sending, retaining, displaying or broadcasting the text, pictures, sounds, videos or materials that refer to or demonstrate any sexual request, sexual activity or gender discrimination.
+
+3.Repeatedly harassing or continuing to follow or pursue any person against their will.
+
+## Article 6
+
+An employer shall provide a work environment free of sexual harassment for their employees and applicants. They shall adopt appropriate measures to prevent, correct, punish and handle such conduct and protect the privacy of the parties involved.
+
+When an employer becomes aware of a situation involving sexual harassment, the employer shall take the following immediate and effective corrective and remedial measures:
+
+1.When an employer becomes aware of sexual harassment due to a complaint from the victim:
+
+(1)If desired by the complainant, take adequate to seperate the complant from the accusect measures to prevent the recurrence of harassment against the complainant, and no unfavorable changes shall be made to the complainant’s employment conditions, such as salary, thereafter.
+
+(2)Provide or refer the complainant to medical or psychological counseling, social welfare resources, and other services as necessary.
+
+(3)Initiate an investigation to interview the personnel involved in the sexual harassment incident or proceed with appropriate investigation procedures.
+
+(4)If the accused holds a position of authority, and the circumstances are severe, and it is deemed necessary to temporarily suspend or adjust the duties of the accused during the investigation, the employer may temporarily suspend or adjust the duties of the accused. If, after the investigation, it is determined that the accusation does not sexual harassment, the salary for the period of the accused’s suspension shall be retroactively paid.
+
+(5)If the report of sexual harassment is proven to be true, adequate disciplinary action or punishment shall be imposed on the perpetrator. If the incident is considered a serious offense, the employer may terminate the employment contract without prior notice in accordance with to Paragraph 2 of Article 13-1 of the Act.
+
+(6)If the report of sexual harassment is proven to be fabricated intentionally, adequate disciplinary action or punishment shall also be imposed on the complainant.
+
+2.When an employer becomes aware of a sexual harassment incident not resulting from a complaint as outlined by the preceding Subparagraph:
+
+(1)Interview related personnel and clarify and investigate the relevant facts as necessary.
+
+(2)Advise the victim of their interests and rights and the various remedies available to them, and assist them in filing a complaint if desired by the victim.
+
+(3)Make reasonable adjustments to work content or the workplace of the related personnel.
+
+(4)Provide or refer the victim, if they desire, to medical or psychological counseling, social welfare resources, and other services as necessary.
+
+If the employer receives the victim’s report on the sexual harassment incident, but the victim is unwilling to file a complaint, the employer shall take immediate and effective corrective and remedial measures pursuant to subparagraph 2 of the preceding paragraph.
+
+An employer who hires over 500 employees shall assist in providing psychological counseling at least twice, upon request by the complainant or victim.
+
+## Article 7
+
+If the victim and perpetrator belong to different employing entities but have collaborative work or business relations, the employer of either party shall take the immediate and effective correction and remedial measures referred to in the preceding article pursuant to the following requirements, upon becoming aware of the sexual harassment:
+
+1.The employer of either party shall notify the other party, in writing, via fax, verbally or in any other electronic data transmission form, to negotiate for the resolution or remedy together, upon becoming aware of any sexual harassment incident.
+
+2.Protect the privacy and personal reputation of the concerned parties.
+
+## Article 8
+
+An employer shall identify the risks of sexual harassment in the work environment and provide necessary prevention measures for employees working at workplaces that can not be directed and managed by said employer, and shall thoroughly inform employees of such information beforehand.
+
+## Article 9
+
+An employer who hires over 30 employees shall implement the sexual harassment prevention education and training measures with respect to the following personnel, in accordance with subparagraph 1, Paragraph 2 of Article 3 herein:
+
+1.With respect to the employees, the employer shall have them undergo sexual harassment prevention education and training at the workplace.
+
+2.With respect to the personnel holding managerial positions and involved in processing, investigating and resolving complaints of sexual harassment incidents, the employer shall organize related education and training regularly each year.
+
+The education and training referred to in the preceding paragraph shall be prioritized and implemented with respect to the following targets:
+
+1.The personnel or unit members designated by the employer in accordance with subparagraph 2, Paragraph 2 of Article 3 herein.
+
+2.Directors, supervisors, managers and personnel holding managerial positions of any business entity.
+
+3.The management of any government agency (institution), school, military organization, troop, administrative corporate entity, or state-owned enterprise organization.
+
+## Article 10
+
+The employer and the personnel involved in processing, investigating and resolving the complaint of any sexual harassment incident shall comply with the following requirements:
+
+1.Protect the privacy of concerned parties and individuals invited to assist in the investigation, and the personal reputation of other involved; keep their names or any data sufficient to identify them in confidence, unless the requirements of an investigation constitute a matter of public security.
+
+2.Never falsify, fabricate, destroy or conceal any evidence related to sexual harassment in the workplace.
+
+## Article 11
+
+The complainant in a sexual harassment incident may file the complaint verbally, via email or in writing. If the complainant does so verbally or via email, the personnel or unit accepting the complaint shall make documentation of the verbal complaint and read it out to the complainant or ask the complainant to read it in order to confirm its accuracy.
+
+The documentation of the complaint filed in writing, verbally or via email, referred to in the preceding paragraph shall be signed or sealed by the complainant and specify the following matters:
+
+1.Name, service unit and position title, address or residence, contact telephone number of the complainant and the date of filing the complaint.
+
+2.Name, address or residence and contact telephone number of the legal representative or agent of the complainant, if any, attached with document certifying the power of attorney in the case of an appointed agent.
+
+3.Facts and pertinent evidence related to the complaint.
+
+Upon receipt of the complaint referred to in Paragraph 1, the employer shall notify the local competent authority, in the substance and manner required by the central competent authority, according to Paragraph 4 of Article 13 of the Act.
+
+## Article 12
+
+An employer who deals with a complaint concerning sexual harassment shall handle the matters in secret.
+
+An employer who employs over 30 employees shall set up the complaint processing unit. The complaint processing unit shall include professionals with gender awareness. Further, female members should constitute no less than haif of the members.
+
+For the purpose of dealing with the complaint against sexual harassment, an employer who employs less than 30 employees and representatives of their employees shall organize a complaint processing unit, and ensure attention to an appropriate proportion of the members’ gender.
+
+If the employer is a school, the complaint concerning sexual harassment may be handled by the Gender Equity Education Committee of the school in accordance with the Regulations.
+
+## Article 13
+
+Upon receipt of a complaint, the employer shall uphold the principles of objectivity, fairness and professionalism when conducting the investigation. The investigation procedure shall protect the privacy of concerned parties and the personal reputation of those involved.
+
+An employer who hires more than 100 employees shall, in addition to setting up the complaint processing unit pursuant to the preceding article when dealing with a complaint against sexual harassment, form a complaint investigation taskforce to conduct the investigation. The taskforce shall include members from outside the organization who are professionals with gender awareness.
+
+The employer shall select the professionals referred to in Paragraph 2 of the preceding article and the preceding paragraph from the workplace sexual harassment investigation professionals database established by the central competent authority.
+
+## Article 14
+
+The result of an investigation by the complaint into a sexual harassment incident shall include the following matters:
+
+1.Causes of the complaint for the sexual harassment incident, including any concerned party’s statement.
+
+2.Investigation and interview records, including dates and interviewees.
+
+3.Determination of facts and reasons.
+
+4.Suggestions for the resolution.
+
+If the investigation of a complaint against sexual harassment is conducted by the complaint investigation taskforce, the investigation result referred to in the preceding paragraph shall be transferred to the complaint processing unit for review and resolution upon completion of the investigation.
+
+## Article 15
+
+Any person involved in processing, investigating and resolving a complaint against sexual harassment who is the complainant or accused per se, or the spouse or ex-spouse, a relative by blood within the fourth degree of kinship, or relative by marriage within the third degree of kinship of the complainant or accused shall recuse himself or herself voluntarily.
+
+If the person referred to in the preceding paragraph who shall recuse himself or herself voluntarily fails to do so, or is believed based on any other specific facts that they have acted in a partisan manner during the processing, investigation or resolution of the incident, although without the relationship referred to in the preceding paragraph in the same subject matter, the complainant or accused may report the causes and facts in writing and apply with the employer, who may request the person to recuse himself or herself. The person requested to recuse himself or herself may submit his or her personal written opinion in response to the request.
+
+The person requested to rescue himself or herself shall suspend the processing, investigation or resolution of a sexual harassment incident before the request is permitted or rejected, provided that, in the case of emergency, it is still necessary to take administrate actions.
+
+If the person referred to in Paragraph 1 who shall recuse himself or herself fails to do and report is filed by the complainant or accused to request the person’s recusal, the employer shall order the person to recuse himself or herself to be recused.
+
+## Article 16
+
+When convening a meeting, the complaint processing unit or investigation taskforce may notify the concerned parties and related parties to provide an explanation in person and provide the concerned parties with sufficient opportunity for them to state their opinions and defend themselves. Unless it is necessary to question the concerned parties, repeated questioning shall be avoided, and persons with related knowledge and experience may be invited to provide assistance.
+
+## Article 17
+
+Where the investigation of a complaint against sexual harassment is conducted by the complaint investigation taskforce, the complaint processing unit shall take the investigation result into account when resolving the incident.
+
+The complaint processing unit shall render its decision with appropriate reasoning. It may also suggest punishment or other proposals for resolving the complaint.
+
+The complainant and accused shall be informed in writing of the resolution referred to in the preceding paragraph by the employer.
+
+## Article 18
+
+The employer shall close the case within 2 months as of the date following receipt of a complaint of sexual harassment. If necessary, an extension for no more than one month may be granted, and the concerned parties shall be notified.
+
+If the employer fails to resolve the incident or disagrees with the investigation or disciplinary results provided by the employer of the accused, the complainant may file a complaint against the local competent authority in accordance with Article 32-1 of the Act.
+
+If the employer fails to take immediate and effective correction and remedial measures upon awareness of a sexual harassment incident, the employee or job applicant may file a complaint with the local competent authority in accordance with Paragraph 1 of Article 34 of the Act.
+
+Once the complaint is resolved, neither party may file a complaint for the same incident.
+
+## Article 19
+
+If the report sexual harassment is proven to be true, the employer shall impose adequate disciplinary action or punishment on the perpetrator,  and shall notify the local competent authority, in the substance and manner, as required by the central competent authority, according to Paragraph 4 of Article 13 of the Act.
+
+## Article 20
+
+An employer shall adopt follow-up monitoring, evaluation and supervision measures to ensure the effectiveness of the implementation of a punishment and other related corrective measures and prevent the recurrence of similar incidents or the occurrence of retaliatory activities.
+
+## Article 21
+
+The Regulations shall be enforced as of March 8, 2024.
+
+## History
+
+1.Enacted and promulgated a total fifteen articles of the Regulations by the Order of Council of Labor Affairs, Executive Yuan No. 0910010443 on March 6, 2002
+
+2.Amended and promulgated Article 1 of the Regulations by the Order of Council of Labor Affairs, Executive Yuan No. 0970130472 on July 8, 2008
+
+3.Amended on August 2, 2012
+
+4.Amended on May 14, 2015
+
+5.Amended on April 6,2020,shall take effect from November 1,2020.
+
+6.The Regulations shall be enforced as of January 17, 2024.

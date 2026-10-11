@@ -1,0 +1,635 @@
+---
+title: "Regulations for the Cooperation between National Defense Technology Institutions and Private Entities for Research, Development, Production, Manufacture and Maintenance"
+title_zh: "國防部科技工業機構與法人團體從事研發產製維修辦法"
+identifier: "F0090019"
+type: regulation
+law_level: "命令"
+category: "行政＞國防部＞軍備後勤目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-28
+last_amended: 2023-05-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0090019"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Cooperation between National Defense Technology Institutions and Private Entities for Research, Development, Production, Manufacture and Maintenance
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-national-defense/F0090019-regulations-for-the-cooperation-between-national-defense-technology.md](../../../zh/regulations/ministry-of-national-defense/F0090019-regulations-for-the-cooperation-between-national-defense-technology.md)) is authoritative.
+
+## Chapter (1) General Provisions
+
+### Article 1
+
+The regulations (hereinafter "these Rules") are prescribed in accordance with the Paragraph 4 of Article 22 of the National Defense Law .
+
+### Article 2
+
+Paragraph (1)
+
+Unless otherwise provided by treaties , agreements or national defense policies , priority shall be given to self-research and -development , self-production and -manufacture , self-maintenance and -repair of military weapons and equipment within the Republic of China (hereinafter "our country" , "ROC" or "Taiwan" , where appropriate) to meet national defense requirements by integrating the strength of the private sector .  Where domestic supply is not possible and it is necessary to procure from abroad , technology transfer and certification shall be enforced with a view to developing the national defense technology industry .
+
+Paragraph (2)
+
+When integrating the strength of the private sector to engage in self-research and -development, self-production and -manufacture, self-maintenance and -repair, or technology transfer in accordance with the provision of the preceding paragraph, the cooperation or commissioning method shall be effectively used in the conduct thereof.
+
+### Article 3
+
+Paragraph (1)
+
+The term "competent authority" as referred to in these Rules means the Ministry of National Defense.
+
+Paragraph (2)
+
+The term "Agencies-in-charge" as referred to in these Rules means the various authorities under the direct supervision of the Ministry of National Defense.
+
+### Article 4
+
+The term "National Defense Technology Institutions" as referred to in these Rules means organizations of various levels under the supervision of Ministry of National Defense conducting the activities with respect to the research and development, manufacturing or maintenance and repair relating to the national defense technology. industry.
+
+### Article 5
+
+The term "Private Entity" as referred to in these Rules means any corporation, partnership or sole proprietorship incorporated or established under the laws of the Republic of China (Taiwan, hereinafter "our country") or any foreign country, or any other domestic and foreign legal entity, organization or government authority, that may conduct the research and development, production and manufacture, or maintenance and repair activities related to the national defense technology industry.
+
+### Article 6
+
+The term "cooperation" as referred to in these Rules means the act of National Defense Technology Institutions and Private Entities in integrating the research and development, production and manufacture, or maintenance and repair resources owned respectively by one another, bearing the risks jointly, and sharing the benefits of integration.
+
+### Article 7
+
+The term "commissioning" as referred to in these Rules means the provision by the commissioning party of the research and development, production and manufacture, or maintenance and repair standards or other requirements to the commissioned party according to which the commissioned party will engage in actual research and development, production and manufacture, or maintenance and repair work at the budgeted expense of the commissioning party or at its own expense, and the commissioning party will, according to the result of the commission achieved or the volume of work completed, conduct a work completion inspection or make a remuneration payment to the commissioned party.
+
+### Article 8
+
+When a National Defense Technology Institution cooperates with a Private Entity, gives a commission to, or accepts a commission from a Private Entity, it shall abide by the following principles:
+
+Subparagraph (1)
+
+relevance to the national defense technology industry.
+
+Subparagraph (2)
+
+integration of the special resources of the private sector so as to attain the expected benefit.
+
+Subparagraph (3)
+
+positive implementation of the objective of transferring technology to domestic Private Entities.
+
+Subparagraph (4)
+
+the priority objective of the technology transfer relating to the military weapons or equipments procured abroad shall be the establishment of a domestic, independent maintenance and repair system.
+
+Subparagraph (5)
+
+items which are not urgently required for national defense shall be capable of promoting the upgrade or transformation of the relevant industry.
+
+Subparagraph (6)
+
+shall not affect the National Defense Technology Institutions' duties or the national security.
+
+Subparagraph (7)
+
+A Private Entity in the domestic manufacturing or processing industry which engages in production and manufacturing activities related to the national defense technology industry shall be a qualified factory; it is the same in the case of a foreign Private Entity.
+
+Subparagraph (8)
+
+Repeated investment shall be avoided.
+
+Subparagraph (9)
+
+In the case of items for which the National Defense Technology Institutions already possesses capability, priority may be given to the cooperation or mutual commissioning between institutions for such items after being reported to and approved by the competent authority, and there shall be no sub-contracting after the acceptance of a contract.
+
+Subparagraph (10)
+
+Private Entities in an unfriendly country or territory as determined by the government of our country shall not be the targets of cooperation or commission activities hereof.
+
+### Article 9
+
+The competence and responsibilities of the competent authority are as follows:
+
+Subparagraph (1)
+
+Prescribing the policies, systems and medium-  to long- term objectives for the cooperation or mutual commissioning between National Defense Technology Institutions and Private Entities to engage in research and development, production and manufacture, or maintenance and repair work.
+
+Subparagraph (2)
+
+Approving the medium- to long- term plans submitted by the Agencies-in-charge.
+
+Subparagraph (3)
+
+Overall management of the control and assessment of the performance of the cooperation or mutual commissioning between the National Defense Technology Institutions and Private Entities to engage in research and development, production and manufacture, and maintenance and repair work.
+
+Subparagraph (4)
+
+Management of information related to the cooperation or mutual commissioning between the National Defense Technology Institutions and Private Entities to engage in research and development, production and manufacture, or maintenance and repair work.
+
+Subparagraph (5)
+
+Approving the cooperation or mutual commissioning items which are controlled.
+
+Subparagraph (6)
+
+Interpreting, or making written requests for the interpretation of, the relevant laws and decrees.
+
+### Article 10
+
+The authority and responsibility of the Authority -in-charge are as follows:
+
+Subparagraph (1)
+
+Making recommendations on medium- to long-term objectives to the competent authority.
+
+Subparagraph (2)
+
+Submitting medium- to long-term plans for cooperation or mutual commissioning.
+
+Subparagraph (3)
+
+Approving work plans.
+
+Subparagraph (4)
+
+Reviewing and reporting control items for cooperation or mutual commissioning.
+
+Subparagraph (5)
+
+Approving cooperation or mutual commissioning items and the qualifications of Private Entities.
+
+Subparagraph (6)
+
+Establishing a list of the qualified commissioned Private Entities, and conducting periodic reviews to amend the same.
+
+Subparagraph (7)
+
+Issuing and canceling certificates of qualification, and reporting the same.
+
+Subparagraph (8)
+
+Directing, examining and approving research and development, production and manufacture, and maintenance related plans of agencies or units under them.
+
+Subparagraph (9)
+
+Supervising and controlling the relevant operations of agencies or units under them.
+
+Subparagraph (10)
+
+Drafting operating procedures.
+
+Subparagraph (11)
+
+Training professional personnel.
+
+### Article 11
+
+The authority and responsibility of National Defense Technology Institutions are as follows:
+
+Subparagraph (1)
+
+Making recommendations on medium- to long-term plans for cooperation or mutual commissioning.
+
+Subparagraph (2)
+
+Reviewing and submitting work plans.
+
+Subparagraph (3)
+
+Conducting preliminary review of cooperation or mutual commissioning items and the qualifications of Private Entities, and forwarding the cases for approval.
+
+Subparagraph (4)
+
+Collecting and analyzing cost data on research and development, production and manufacture, or maintenance items and forwarding the item data for approval.
+
+Subparagraph (5)
+
+Reviewing and reporting control items for cooperation or mutual commissioning.
+
+Subparagraph (6)
+
+Signing cooperation or mutual commissioning agreements.
+
+Subparagraph (7)
+
+Preparing relevant documents and materials.
+
+Subparagraph (8)
+
+Participating in, advising and controlling throughout the research and development, production and manufacture, or maintenance operations.
+
+Subparagraph (9)
+
+Assisting Private Entities in building domestic,independent research and development,production and manufacture, or maintenance systems through such methods as acquisition of technology transfer or certification.
+
+### Article 12
+
+With the view to effectively integrating the forces of various circles to jointly promote the works set out in these Regulations, bringing about the development of national defense technology industry, and accelerating the efforts to achieve the objective of independent national defense, the competent authority may, in coordination with the Ministry of Economic Affairs and National Science and Technology Council, undertake the following tasks:
+
+Subparagraph (1)
+
+Studying and planning cooperation or mutual commissioning projects relating to the development of national defense technology industry.
+
+Subparagraph (2)
+
+Investigating and creating database on research and development, production and manufacture, or maintenance capabilities of national defense technology industry products.
+
+Subparagraph (3)
+
+In charge of the assessment and certification affairs of national defense technology industry.
+
+Subparagraph (4)
+
+Handling industrial cooperation matters relating to procurement of military supplies from abroad.
+
+Subparagraph (5)
+
+Coordinating academic cooperation matters relating to national defense technology industry.
+
+Subparagraph (6)
+
+Other coordination and support matters relating to national defense technology industry.
+
+### Article 13
+
+The National Defense Technology Institutions may, for the purpose of engaging in the research and development work through cooperation or mutual commissioning as prescribed by these Rules, establish a Research Park.
+
+### Article 14
+
+Paragraph (1)
+
+The ownerships of intellectual property rights arising from the research and development, production and manufacture, or maintenance works done through cooperation or mutual commissioning between a National Defense Technology Institution and a Private Entity in accordance with these Regulations shall be expressly stipulated in the agreement.
+
+Paragraph (2)
+
+If the intellectual property rights under the preceding paragraph belong to the Private Entity, the agreement shall expressly stipulate that the National Defense Technology Institution shall have gratuitous, global, non-exclusive and non-assignable rights to the intellectual property; provided, however, that this requirement does not apply if the rights are assigned to a National Defense Technology Institution under the competent authority which has no cooperation or mutual commissioning arrangement with the Private Entity.
+
+## Chapter (2) Cooperation to Engage in Research and Development, Production and Manufacture, or Mai
+
+### Article 15
+
+Paragraph (1)
+
+The cooperation may be effected in the following manners:
+
+Subparagraph (1)
+
+Licensing, which includes the following four arrangements:
+
+Item (1)
+
+Where the intellectual property rights or proprietary technology is owned by the National Defense Technology Institution, the Private Entity is authorized to use the property or technology within a specific period of time in an exclusive or non-exclusive agreement.
+
+Item (2)
+
+Where the intellectual property rights or proprietary technology is owned by the Private Entity, the National Defense Technology Institution is authorized to use the property or technology within a specific period of time in an exclusive or non-exclusive agreement.
+
+Item (3)
+
+Where the intellectual property rights or proprietary technology is jointly owned by the National Defense Technology Institution and the Private Entity, other National Defense Technology Institutions or Private Entities are authorized to use the property or technology within a specific period of time in an exclusive or non-exclusive agreement.
+
+Item (4)
+
+The National Defense Technology Institution and the Private Entity mutually authorize each other to use each other's patents, copyrights, proprietary technologies or other intellectual property rights within a specific period of time in an exclusive or non-exclusive agreement.
+
+Subparagraph (2)
+
+Joint Use: With the specific objective of developing national defense technology industry, the National Defense Technology Institution and the Private Entity agree to the joint use of the personnel, equipment or other resources of either party or both parties within a specific period of time to engage in joint research and development, production and manufacture, or maintenance activities.
+
+Subparagraph (3)
+
+Joint Venture: The National Defense Technology Institution and the Private Entity may jointly contribute to an investment in the form of technology or cash to set up a company which engages in research and development, production and manufacture, or maintenance activities relating to national defense technology industry. The shareholding of the National Defense Technology Institution shall be less than thirty-five percent (35%) of the company’s paid-up capital. Where the investment of the National Defense Technology Institution is in the form of cash, its shareholding shall be less than twenty percent (20%) of the company’s paid-up capital.
+
+Subparagraph (4)
+
+Share subscription: Where a company that engages in research and development, production and manufacture, or maintenance activities relating to the national defense technology industry issues new shares, the National Defense Technology Institution may participate in the subscription of such shares with technology or cash, and the restriction on its shareholding shall be the same as that in the preceding subparagraph.
+
+Subparagraph (5)
+
+Subsidy: With the specific objective of promoting the development of national defense technology industry, the National Defense Technology Institution and the Private Entity may jointly contribute to an investment in the form of cash, and the Private Entity will execute the project. There shall be a specific limit on the amount of investment contributed by the National Defense Technology Institution, and such amount shall be determined by the competent authority.
+
+Subparagraph (6)
+
+Joint contracting: The National Defense Technology Institution and the Private Entity may, based on the personnel, equipment, technology, cash or other resources owned by each other, agree to jointly contract the research and development, production and manufacture, or maintenance works relating to the national defense technology industry within or outside the country.
+
+Subparagraph (7)
+
+Industrial cooperation: When the procurement of military supplies requires certain percentage of domestic content, cooperation takes place in the form of technology transfer, investment, export assistance or other similar conditions.
+
+Subparagraph (8)
+
+Other cooperation arrangements approved by the competent authority.
+
+Paragraph (2)
+
+The amount of royalty for licensing as referred to in Subparagraph (1) of the preceding paragraph shall be determined based on the value of the rights or technology utilized.
+
+Paragraph (3)
+
+The term "other resources" as referred to in Subparagraph (2) of Paragraph (1) may include capital contribution in the form of technology or cash. However, when the National Defense Technology Institution makes cash contribution for the specific objective of joint production and manufacture or joint maintenance, the joint activity shall be limited specifically to military use.
+
+### Article 16
+
+Unless otherwise provided by the national defense policies, the cooperation items shall be selected according to one of the following principles:
+
+Subparagraph (1)
+
+Military weapons and equipments the need for which cannot be fulfilled by the National Defense Technology Institutions alone.
+
+Subparagraph (2)
+
+Items for which the National Defense Technology Institutions already possesses partial capability.
+
+Subparagraph (3)
+
+Items for which the National Defense Technology Institutions plans to build up capability, and for which there is a similar or complementary need.
+
+Subparagraph (4)
+
+Items related to the national defense technology industry which the Private Entities intend to engage in, and which have been found to conform to national defense requirements upon evaluation.
+
+Subparagraph (5)
+
+Technology, equipment or special resources which the National Defense Technology Institutions or the Private Entity already possesses or plans to establish, and which it may provide to its target of cooperation for the latter's use.
+
+Subparagraph (6)
+
+Items for which the research and development, production and manufacture, or maintenance and repair capability is increased and may produce an economies-of-scale effect after the cooperation; provided, however, that this provision shall not apply to a simple fitting, assembling and production situation.
+
+Subparagraph (7)
+
+Items which are needed for purposes of improving the performance or quality of the current produrcts for military use or common military and civilian use, renewing the current technology, reducing costs, or enhancing the added value.
+
+Subparagraph (8)
+
+Common military and civilian technological items which can induce the National Defense Technology Institutions, or assist the essential goods industry, to upgrade and develop.
+
+Subparagraph (9)
+
+Policy items which have been approved by the competent authority.
+
+### Article 17
+
+Paragraph (1)
+
+When a National Defense Technology Institutions cooperates with a Private Entity to engage in research and development, production and manufacture, or maintenance and repair activities related to the national defense technology industry, it shall select the target which is most beneficial to it according to the following principles:
+
+Subparagraph (1)
+
+The Private Entity possesses special technology, capability or resources which conform to the relevant development requirements of the national defense technology industry.
+
+Subparagraph (2)
+
+The National Defense Technology Institutions possesses special technology, capability or resources which may be used by the Private Entity for the development of common military and civilian technology.
+
+Subparagraph (3)
+
+The Private Entity has strong technological capability which suffices to accept the authorization or certification of the original manufacturer so as to establish an independent research and development, production and manufacture, or maintenance and repair system for military supplies procured from abroad.
+
+Paragraph (2)
+
+The term "technological capability" as referrng to in the preceding paragraph involves  special technology, certification qualification, research and development and innovation, quality control, cost control, brand name management, operation flexibility, sales channels, materials supply management, special project planning and management, etc.
+
+Paragraph (3)
+
+The term "resources" as referring to in the first paragraph covers manpower, financial strength, material assets, knowledge and information.
+
+### Article 18
+
+Paragraph (1)
+
+A National Defense Technology Institutions shall review and submit a proposal of all items for which cooperation engagement is possible, of concrete information such as the order of priority for the execution of such items, and of suggested medium- and long-term plans, for presehting to the authority-in-charge for the latter examination and compilation of medium- and long-term plans.
+
+Paragraph (2)
+
+The National Defense Technology Institutions shall, in accordance with the requirements of the medium- to long-term plans or special projects, prepare and submit a work plan to the competent authority for the record purposes.  When the National Defense Technology Institutions and the authority-in-charge are the same agency, the working  plan shall be approved by the competent authority.
+
+Paragraph (3)
+
+When the National Defense Technology Institutions has selected its target of cooperation in accordance with the work plan, it shall act according to the following procedure:
+
+Subparagraph (1)
+
+Public Display: Including a planning display and a special project display.  The display notice shall be published in a government gazette or newspaper, and publicized on internet..
+
+Subparagraph (2)
+
+Cooperation Plan: The cooperation plan shall be delievered in writing  by the Private Entity, and shall set out  the special technology, in details capability and resources, the suggested cooperation items, concrete facts of compliance with the provisions of these Rules, and other coordination matters as required by the authority-in-charge.
+
+Subparagraph (3)
+
+Formation of Evaluation Committee: There shall be at least seven members on the evaluation committee, composed of personnel dispatched by the authority-in-charge and the National Defense Technology Institutions.  The number of participants from the National Defense Technology Institutions shall not be more than half, and, if necessary, the competent authority may dispatch personnel to participate.  The meeting method shall be used to make resolutions of the evaluation committee, and a resolution may be passed by a majority vote of the members present at a meeting attended by a majority of the committee members.  The evaluation committee may retain attorneys, accountants, or other specialists to serve as its advisors.
+
+Subparagraph (4)
+
+Mutual Visits: The authority-in-charge or the National Defense Technology Institutions and the Private Entity shall dispatch personnel to visit each other, and, if necessary, the competent authority may dispatch personnel to participate in such visits.
+
+Subparagraph (5)
+
+Review Meeting: The evaluation committee shall, according to the content of the cooperation plan submitted by the Private Entity and the results of the mutual visits, summon an review meeting in order to resolve whether the National Defense Technology Institutions shall proceed with the cooperation [project].
+
+Subparagraph (6)
+
+Approval: The resolution of the review meeting shall be submitted to the authority-in-charge to obtain the latter's approval, and, after the approval, it shall be reported to the competent authority for record purposes.  Where the evaluation committee is formed by the authority-in-charge, its resolution shall be submitted to the competent authority to obtain the latter's approval.
+
+Subparagraph (7)
+
+Execution of Agreement: The National Defense Technology Institutions shall execute a cooperation agreement with its cooperation target.
+
+Paragraph (2)
+
+Where the cooperation [project] is classified as "confidential" or above, the provision of item 1 of the preceding paragraph shall not apply.
+
+## Chapter (3) Mutual Commission to Engage in Research and Development, Production and Manufacture,
+
+### Article 19
+
+Paragraph (1)
+
+Where the research and development work related to the national defense industry on   which a National Defense Technology Institutions commissions Private Entities to do is pertaining to an original model, or an object which is manufactured or supplied for the first time, it shall be handled in the manner for research and development , experiment or development and, where the budget for such work exceeds the published amount as prescribed by the Government Procurement Law, It may be handled by adopting the restricted invitation for bids measuring under the Government Procurement Law.  The same rule shall apply where the volume production after the research and development work involves  exclusive rights, the Private Entities have rights for exclusively manufacture or supply,  or in the cases where there are no other appropriate substitutes.
+
+Paragraph (2)
+
+When the commission as referred to in the preceding paragraph pertains to a confidential or highly confidential procurement as prescribed by the Government Procurement Law, the National Defense Technology Institutions may combine the first-time research and manufacture or development and volume production [of the new products] into one case and attend to the procurement of the same.  However, the procurement shall comply with the provisions of the "Applicable Scope for Special Military Procurement and Treatment Rules".
+
+Paragraph (3)
+
+Where the commissioned first-time research and manufacture or development of new products as referred to in the second paragraph is done at the entire expense of the Private Entity itself, the volume production quantity shall be estimated and the cap on the unit price [of the products] on volume production shall be agreed upon in advance.
+
+### Article 20
+
+Where the production and manufacture, or maintenance and repair work related to the national defense industry which a National Defense Technology Institution commissions a Private Entity to do conforms to a procurement under the Government Procurement Law which may be handled by adopting the selective invitation for bids measure, priority shall be given to the selective invitation for bids measure; provided, however, that this restriction shall not apply to a  procurement which may be handled by adopting the restricted invitation for bids measure.
+
+### Article 21
+
+Paragraph (1)
+
+When a National Defense Technology Institution adopts selective tendering procedures from Private Entities for commissioning in accordance with the provision of the preceding article, it shall carry out selective tendering procedures according to the following procedures:
+
+Subparagraph (1)
+
+Public display: Including plan display and project display. The display notice shall be published in a government procurement gazette and publicized on information network.
+
+Subparagraph (2)
+
+Registration of intent: Private Entities shall register in writing their intents to accept the assessment or accept the commission to conduct research and development, trial manufacture, or maintenance projects at their own expense.
+
+Subparagraph (3)
+
+Assessment or commissioned research and development, trial manufacture or maintenance at own expense:
+
+Item (1)
+
+The National Defense Technology Institution shall draw up assessment criteria and procedures and conduct assessment by itself or by commissioning a professional organization to ascertain the capability of Private Entities.
+
+Item (2)
+
+After a Private Entity has registered in writing its intent to accept commission to conduct research and development, trial manufacture or maintenance activities at own expense, the National Defense Technology Institutions will sign a research and development, trial production or maintenance agreement with the Private Entity, which shall specify expressly the acceptance criteria, conditions and procedures.
+
+Subparagraph (4)
+
+Establishing a list of qualified Private Entities:
+
+The Authority-in-charge shall, based on the results of assessment or commissioned research and development, trial manufacture or maintenance at own expense, establish a list of qualified Private Entities, and shall provide the list to the National Defense Technology Institution for it to carry out selective tendering procedures.
+
+Paragraph (2)
+
+Private Entities that have passed the assessment or commissioned research and development, trial manufacture or maintenance at own expense will be issued a certificate of qualification.
+
+### Article 22
+
+Paragraph (1)
+
+A National Defense Technology Institutions shall periodically make a compilation of all the items for which commissioning is possible and the expected benefits, and submit the same to the authority-in-charge to obtain the latter's approval. The authority-in-charge shall submit its approval to the competent authority for record purposes.
+
+Paragraph (2)
+
+The selection by the National Defense Technology Institutions of a research and development, production and manufacture, or maintenance and repair item which it intends to commission a Private Entity to engage in shall be made in accordance with one of the following provisions:
+
+Subparagraph (1)
+
+The assembly, subassembly, spare parts and accessories of military weapons and equipment require a steady source of supply of such items.
+
+Subparagraph (2)
+
+Large quantities of such item are required within the current year, but the National Defense Technology Institutions does not intend to build up capability itself to supply them.
+
+Subparagraph (3)
+
+Such item can effectively enhance mission capable military weapons and equipment.
+
+Subparagraph (4)
+
+Such item is beyond the National Defense Technology Institution's current production capability, the scope supported by its current conceptual design, or the scope of technical supports available at the stages of research, development and certification, and it is necessary to commission the Private Entity to supply with the same.
+
+Subparagraph (5)
+
+The Private Entity is willing to conduct research and test- manufacture of such item at its own expense, and such item conforms to the national defense requirements.
+
+Subparagraph (6)
+
+Such item relates to a processing treatment or special technology used in the manufacturing process related to the National Defense Technology Institutions' production and manufacture of military products, and there is an actual need for establishing a satellite factory system [for the same].
+
+Subparagraph (7)
+
+Such item relates to the acceptance of the transfer of technology of military weapons and equipment procured from abroad.
+
+Subparagraph (8)
+
+Such item is needed for purposes of improving the performance or quality of the software or hardware of the current products specifically for military use, or products for common military and civilian use; renewing the current production technology, or reducing the production costs.
+
+Subparagraph (9)
+
+Such item relates to technology which has been brought in through such methods as domestic or international technical cooperation, technology transfer and reciprocal exchange; it has passed certification and has a certificate, and an evaluation has ascertained that it may be used for purposes of research, manufacture, or improvement of military products.
+
+Subparagraph (10)
+
+Such item is a high-tech and precision military weapon and equipment system and an important item for the development of the National Defense Technology Institutions at the present stage, and it is necessary to establish a domestic satellite system [for the same].
+
+Subparagraph (11)
+
+Such item is a product produced inside our country under a technical cooperation scheme by reason of an industrial cooperation acquired through a government procurement from abroad, and it is needed for national defense purposes.
+
+Subparagraph (12)
+
+Such item relates to technology, equipment or special resources for which the Private Entity already has plans to build up, and also the intent to accept the commission.
+
+Subparagraph (13)
+
+Such item is a policy-commissioning item which has been approved by the competent authority.
+
+### Article 23
+
+When a National Defense Technology Institutions accepts a commission from a Private Entity to engage in research and development, production and manufacture, or maintenance and repair items, it shall select such items according to the following principles:
+
+Subparagraph (1)
+
+The first Priority shall be the research and development, production and manufacture, or maintenance and repair items for which the National Defense Technology Institutions possesses special technology, capability, or resources to engage in.
+
+Subparagraph (2)
+
+The first Priority shall be those production items whose original place of manufacture and production is not inside our country.
+
+Subparagraph (3)
+
+Items which can promote the development of the national defense technology industry's products specifically for military use, or common military and civilian use.
+
+Subparagraph (4)
+
+Items which can reasonably and effectively make use of current resources, and which are beneficial to the property revenue [of the National Defense Technology Institutions].
+
+Subparagraph (5)
+
+Items which shall not affect the National Defense Technology Institutions' duty to provide military supplies.
+
+Subparagraph (6)
+
+The National Defense Technology Institutions shall not select items for which the domestic private sector already possesses total capability and can effectively supply the same to meet the national defense requirements.
+
+### Article 24
+
+Paragraph (1)
+
+When a National Defense Technology Institutions accepts a commission from a Private Entity, it shall, unless otherwise provided by the national defense policies, select the target which is the most beneficial to it in accordance with the principle of fairness, with due consideration to the reasonableness of the commercial terms.
+
+Paragraph (2)
+
+When  The National Defense Technology Institutions accepts a commission from a government agency and needs to get service or goods in order to achieve  the  objective of the commission, it shall act according to the provisions of the Government Procurement Law.
+
+### Article 25
+
+A National Defense Technology Institutions shall select the target from which it will accept a commission in accordance with the following procedure:
+
+Subparagraph (1)
+
+Commissioning Requests: The Private Entity shall furnish the commissioning requests in writing.
+
+Subparagraph (2)
+
+Formation of Evaluation Committee: There shall be at least seven members on the evaluation committee, composed of personnels dispatched by the authority-in-charge and the National Defense Technology Institutions.  If necessary, the competent authority may dispatch personnels to participate.  The meeting method shall be used to make resolutions of the evaluation committee, and a resolution may be passed by a majority vote of the members and presented at a meeting attended by a majority of the committee members.  The evaluation committee may retain attorneys, accountants, or other specialists to serve as its advisors.
+
+Subparagraph (3)
+
+Review and Approval: The resolutions of an review meeting of the evaluation committee shall be submitted to the authority-in-charge to obtain the latter's approval, the resolutions and the approval shall be then submitted to the competent authority for record purposes.  Where the evaluation committee is formed by the authority-in-charge, its resolutions shall be submitted to the competent authority to obtain the latter's approval.
+
+Subparagraph (4)
+
+Execution of Agreement: The National Defense Technology Institutions shall execute a commissioning agreement with the commissioning party.
+
+## Chapter (4) Supplementary Provisions
+
+### Article 26
+
+Paragraph (1)
+
+These Regulations shall enter into force on the date of implementation of the National Defense Act.
+
+Paragraph (2)
+
+The amended articles shall be put into force form the promulgation date.
+
+## History
+
+\1. Full text of 26 articles was promulgated on December 28, 2001 by Ministry of National Defense per Order No. (90) Dwao-Gue-Zi-#001500.
+
+\2. Amendment of Articles 10~12, 14, 15,21 and 26 was promulgated on May 8,2023 by Ministry of National Defense per Order Guo-Gui-Wei-Hui-Zi-#1120121933 and implemented on the date of promulgation.

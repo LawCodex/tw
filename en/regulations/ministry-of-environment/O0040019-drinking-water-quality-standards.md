@@ -1,0 +1,126 @@
+---
+title: "Drinking Water Quality Standards"
+title_zh: "飲用水水質標準"
+identifier: "O0040019"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞水質保護目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-02-04
+last_amended: 2024-11-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040019"
+retrieved: 2026-10-12
+---
+
+# Drinking Water Quality Standards
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0040019-drinking-water-quality-standards.md](../../../zh/regulations/ministry-of-environment/O0040019-drinking-water-quality-standards.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Article 11, Paragraph 2 of the Drinking Water Management Act (herein referred to as "this Act").
+
+## Article 2
+
+These standards shall apply to drinking water supplied from drinking water equipment designated in Article 4 of this Act and other drinking water designated by the central competent authority.
+
+## Article 3
+
+Regulations of these standards are set forth herein.
+
+I. Bacterial standards: (Samples for total bacterial count must be collected from the finished water distribution networks that receive water from water treatment utilities with disinfection regime)
+
+II. Physical standards:
+
+III. Chemical standards:
+
+A. Substances that impact health:
+
+B. Substances with potential health impact:
+
+C. Contaminants that cause aesthetic, cosmetic, and technical effects:
+
+D. Limit range of residual chlorine (Limited to water supply systems using chlorine as disinfectant):
+
+E. Range for pH index (water treated by stationary continuous water supply equipment on public or private premises are not be subjected to this limitation):
+
+## Article 3-1
+
+The standards for Per- and Polyfluoroalkyl Substances (PFAS) are as follows:
+
+The water supply entities or management entities of water purification equipment shall, from January 1, 2025, until the effective date mentioned in the preceding paragraph, conduct water quality testing as follows: for equipment with a water supply exceeding 20,000 cubic meters per day, testing shall be performed at least twice, with a minimum interval of 360 days between tests. For equipment with daily water supply below 20,000 cubic meters, at least one test shall be conducted. If any water quality parameter exceeds the maximum limit, the water supply or management entities of the water purification equipment must, within seven days of the issuance of the test report, notify the central competent authority, the central competent authority under the Water Supply Act, and the competent authority of the municipality or county (city) where the equipment is located. Additionally, within 30 days, they must submit a drinking water quality management plan to the central competent authority for record-keeping and send a copy to the central competent authority under the Water Supply Act and the competent authority of the municipality or county (city) where the equipment is located.
+
+If, before the effective date mentioned in the preceding paragraph, the competent authority conducts random water quality inspections and finds that the drinking water quality test values exceed the maximum limit, the competent authority shall notify the water supply or management entities of the water purification equipment to make improvements. The water supply or management entities must, within 30 days after receiving the notification, submit a drinking water quality management plan to the central competent authority for record-keeping and send a copy to the central competent authority under the Water Supply Act and the competent authority of the municipality or county (city) where the equipment is located.
+
+For the drinking water quality management plan outlined in the previous two paragraphs, if no additional equipment purchases or construction work are involved, the implementation must be completed within three months from the submission date of the plan to the central competent authority for record-keeping. If additional equipment purchases or construction work are required, which must be completed within a maximum of two years from the submission date of the drinking water quality management plan. If the plan cannot be completed within the stipulated timeframe due to natural disasters or other force majeure events, the relevant supporting documents and materials must be submitted to the central competent authority at least 30 days before the deadline to apply for an extension or modification of the management plan for re-approval. Copies of the request should also be sent to the central competent authority under the Water Supply Act, as well as to the competent authority of the municipality or county (city) where the water purification equipment is located.
+
+The implementation deadlines for the previous three drinking water quality management plans shall not exceed the effective date specified in paragraph 1.
+
+## Article 4
+
+For tap water, simple water supply and treatment facilities, and community-installed public water supply systems, when source water turbidity value exceeds 1,500 NTU caused by torrential rains or other natural disasters, the maximum turbidity limit for drinking water may apply to 4 NTU.
+
+Drinking water source turbidity testing data in the foregoing paragraph shall be provided by tap water enterprises, simple water supply and treatment units or community-installed public water supply units.
+
+## Article 5
+
+For tap water, simple water supply and treatment facilities, and community-installed public water supply systems, when source water turbidity value exceeds 1,500 NTU caused by torrential rains or other natural disasters, the limit range of free residual chlorine may apply to the following values (shall apply only to water supply systems that add chlorine disinfectants).
+
+## Article 5-1
+
+For tap water that needs to be supplied by zones due to the natural disasters described in the preceding article, during the natural disaster response actions period, the drinking water quality standards in the supply districts are as follows.
+
+I. Limit range of free residual chlorine (shall apply only to water supply systems that add chlorine disinfectants).
+
+II. Physical standards:
+
+III. Contaminants that cause aesthetic, cosmetic, and technical effects:
+
+The natural disaster response actions period described in the first paragraph referred to the period which Central Emergency Operation Center is established to deal with natural disasters, in accordance with Article 13, Paragraph 1 of the Disaster Prevention and Protection Act.
+
+## Article 6
+
+(Deleted)
+
+## Article 7
+
+Testing methods for each water quality item designated in these Standards shall be designated and officially announced by the central competent authority.
+
+## Article 8
+
+A competent authority that conducts water quality analysis in accordance with these Standards may commission an approved analysis laboratory to assist with analysis.
+
+## Article 9
+
+Unless an implementation date is separately designated, the regulation items in these standards shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Article 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008809)
+- [Article 3-1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008810)
+- [Article 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008811)
+- [Article 5-1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008812)
+
+## History
+
+1.Nine Articles drafted and promulgated by Environmental Protection Administration Order (87) Huan-Shu-Tu-Tzu No. 004428 on February 4, 1998
+
+2.Revisions to Article 3 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0920028896 on May 7, 2003
+
+3.Revisions to Articles 3, 4, 5 and 6 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0940039894 on May 30, 2005
+
+4.Revisions to Article 3 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0960100652 on January 2, 2008
+
+5.Revisions to Article 3 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No.0980106331E on November 26, 2009.
+
+6.Revisions to Article 3 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No.1030001229 on January 9, 2014.
+
+7.Revisions to Article 3, 4, 5 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No.1060000881 on January 10, 2017.
+
+8.Revisions to Article 5 and addition of Articles 5-1 promulgated by Environmental Protection Administration Order Huan-Shu-Shui-Tzu No. 1111059186A on May 23, 2022.
+
+9.Addition of Articles 3-1 promulgated by Ministry of Environment Order Huan-Bu-Shui-Tzu No. 1131072826 on November 25, 2024.

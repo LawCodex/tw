@@ -1,0 +1,359 @@
+---
+title: "Regulations Governing the Administrative Affairs of the Ministry of Foreign Affairs"
+title_zh: "外交部處務規程"
+identifier: "E0010001"
+type: regulation
+law_level: "命令"
+category: "行政＞外交部＞組織目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1939-10-13
+last_amended: 2023-05-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=E0010001"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Administrative Affairs of the Ministry of Foreign Affairs
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-foreign-affairs/E0010001-regulations-governing-the-administrative-affairs-of-the-ministry-of-foreign.md](../../../zh/regulations/ministry-of-foreign-affairs/E0010001-regulations-governing-the-administrative-affairs-of-the-ministry-of-foreign.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Foreign Affairs (hereinafter “MOFA”) has formulated these Regulations to specify the functions of its internal departments.
+
+## Article 2
+
+The minister shall manage the affairs of MOFA and shall direct and supervise subordinate agencies and personnel; deputy and vice ministers shall assist the minister in carrying out these responsibilities.
+
+## Article 3
+
+The general secretary shall have the following responsibilities:
+
+\1. Overall review and approval of documents
+
+\2. Handle confidential and important documents
+
+\3. Coordinate departments and handle questions concerning authority among them
+
+\4. Arrange key meetings
+
+\5. Handle other matters as assigned
+
+## Article 4
+
+Counselors shall have the following responsibilities:
+
+\1. Conduct research on laws and regulations, and policies and provide suggestions on important projects
+
+\2. Attend all manner of important meetings
+
+\3. Handle other matters as assigned
+
+## Article 5
+
+MOFA shall consist of the following Departments:
+
+\1. Department of East Asian and Pacific Affairs, consisting of eight sections
+
+\2. Department of West Asian and African Affairs, consisting of seven sections
+
+\3. Department of European Affairs, consisting of six sections
+
+\4. Department of North American Affairs, consisting of five sections
+
+\5. Department of Latin American and Caribbean Affairs, consisting of five sections
+
+\6. Department of Treaty and Legal Affairs, consisting of four sections
+
+\7. Department of International Organizations, consisting of five sections
+
+\8. Department of International Cooperation and Economic Affairs, consisting of four sections
+
+\9. Department of International Information Services, consisting of eight sections
+
+\10. Department of Policy Planning, consisting of four sections
+
+\11. Department of Protocol, consisting of three sections
+
+\12. Department of General Affairs, consisting of six sections
+
+\13. Department of Personnel, consisting of three sections. Depending on actual needs, two extra sections may be allocated to the Department of Personnel under the quota of sections assigned to MOFA so as to provide support.
+
+\14. Department of Civil Service Ethics. Depending on actual needs, two extra sections may be allocated to the Department of Civil Service Ethics under the quota of sections assigned to MOFA so as to provide support.
+
+\15. Department of Budget, Accounting, and Statistics, consisting of five sections
+
+\16. Department of Archives, Information Management, and Telecommunications, consisting of five sections
+
+## Article 6
+
+The Department of East Asian and Pacific Affairs shall be responsible for the following:
+
+\1. Handle affairs concerning the countries of Japan, South Korea, and North Korea
+
+\2. Handle affairs concerning the countries of Thailand, Singapore, Malaysia, the Philippines, Indonesia, Brunei, Vietnam, Laos, Cambodia, Myanmar, and East Timor
+
+\3. Handle affairs concerning the countries of Australia, New Zealand, Fiji, Tonga, Nauru, Tuvalu, Papua New Guinea, Solomon Islands, Western Samoa, Vanuatu, Kiribati, Marshall Islands, and Palau, as well as other Pacific island nations
+
+\4. Handle affairs concerning the countries of Bangladesh, Bhutan, Nepal, Sri Lanka, India, and Maldives as well as the regions of Hong Kong and Macau
+
+\5. Handle affairs concerning Asia-Pacific regional organizations, economic and technical cooperation, and fishing vessel incidents
+
+\6. Handle other affairs concerning the Asia-Pacific region
+
+## Article 7
+
+The Department of West Asian and African Affairs shall be responsible for the following:
+
+\1. Handle affairs concerning member countries of the Commonwealth of Independent States—Russia, Belarus, Moldova, Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Armenia, and Azerbaijan—as well as Georgia, Turkmenistan, and Mongolia
+
+\2. Handle affairs concerning the countries of Saudi Arabia, Jordan, Bahrain, United Arab Emirates, Oman, Kuwait, Afghanistan, Iraq, Iran, Israel, Lebanon, Pakistan, Qatar, Syria, Turkey, and Yemen, as well as Palestine
+
+\3. Handle affairs concerning the countries of Algeria, Benin, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Republic of the Congo, Djibouti, Equatorial Guinea, Gabon, Guinea, Guinea-Bissau, Ivory Coast, Madagascar, Mali, Mauritania, Mauritius, Niger, Rwanda, Senegal, Sao Tome and Principe, Seychelles, Togo, and Democratic Republic of the Congo, as well as Western Sahara
+
+\4. Handle affairs concerning the countries of Egypt, Sudan, South Sudan, Libya, Tunisia, and Morocco
+
+\5. Handling affairs concerning the countries of Angola, Botswana, Eritrea, Ethiopia, Gambia, Ghana, Kenya, Lesotho, Liberia, Malawi, Mozambique, Namibia, Nigeria, Sierra Leone, Somalia, Somaliland, South Africa, Eswatini, Tanzania, Uganda, Zambia, and Zimbabwe, as well as other as-yet not independent areas of Africa
+
+\6. Handle affairs concerning West Asian and African regional organizations, economic and technical cooperation, and fishing vessel incidents
+
+\7. Other affairs concerning the West Asian and African regions
+
+## Article 8
+
+The Department of European Affairs shall be responsible for the following:
+
+\1. Handle affairs concerning the European Union, Belgium, Luxembourg, and overall relations with Europe, and pan-European international cooperation and exchanges
+
+\2. Handle affairs concerning the United Kingdom, Ireland, Spain, Portugal, the Netherlands, and the overseas territories and possessions of these countries
+
+\3. Handle affairs concerning Germany, Austria, Switzerland, Liechtenstein, Denmark, Finland, Sweden, Norway, Iceland, and the overseas territories and possessions of these countries
+
+\4. Handle affairs concerning the countries of France, the Holy See, Italy, Greece, Cyprus, Monaco, Andorra, Malta, San Marino, and the overseas territories and possessions of these countries, as well as the Sovereign Military Order of Malta
+
+\5. Handle affairs concerning the countries of Poland, Ukraine, Czech Republic, Hungary, Slovakia, Latvia, Slovenia, Bosnia and Herzegovina, Croatia, Serbia, Montenegro, North Macedonia, Romania, Bulgaria, Estonia, Lithuania, Albania, and Kosovo
+
+\6. Handle affairs concerning European regional organizations, economic and technical cooperation, and fishing vessel incidents
+
+\7. Other affairs concerning Europe
+
+## Article 9
+
+The Department of North American Affairs shall be responsible for the following:
+
+\1. Handle observation and research of US political affairs, academic affairs, diplomatic immunities and privileges, military affairs (including military technology), and US-China relations
+
+\2. Handle local US political affairs, visits, cultural exchanges, business affairs, and general overseas compatriot affairs
+
+\3. Handle US economic affairs, finance, mutual legal assistance, agriculture and fishery affairs, health, environmental protection, labor, energy, and general science affairs
+
+\4. Handle Canadian political affairs, educational and cultural affairs, business affairs, visits, and general overseas compatriot affairs
+
+\5. Handle affairs concerning North American regional organizations, economic and technical cooperation, and fishing vessel incidents
+
+\6. Other affairs concerning North America
+
+## Article 10
+
+The Department of Latin American and Caribbean Affairs shall be responsible for the following:
+
+\1. Handle affairs concerning the countries of Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Dominican Republic, and Cuba
+
+\2. Handle affairs concerning the countries of Panama, Colombia, Venezuela, Brazil, Ecuador, Peru, Bolivia, Chile, Argentina, Paraguay, and Uruguay
+
+\3. Handle affairs concerning the countries of the Bahamas, Belize, Grenada, Dominica, Saint Christopher and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Haiti, Antigua, Jamaica, Barbados, Trinidad and Tobago, Guyana, and Suriname, French Guiana, and as-yet not independent islands of the Caribbean
+
+\4. Handle affairs concerning Latin American and Caribbean regional organizations, economic and technical cooperation, and fishing vessel incidents
+
+\5. Other affairs concerning Latin America and the Caribbean
+
+## Article 11
+
+The Department of Treaty and Legal Affairs shall be responsible for the following:
+
+\1. Plan, negotiate, draft, sign, and interpret treaties and agreements; provide consultations on international legal questions; and store and manage treaties
+
+\2. Research cases involving territorial sovereignty, ocean affairs, freedoms of the air, fisheries, human rights, and diplomatic immunity, as well as handle the planning of other legal projects
+
+\3. Handle treaties on extradition and mutual legal assistance; domestic and foreign mutual legal assistance; evidence gathering; dispatch of documentation abroad; provision of legal opinions; legal proceedings concerning international affairs; land rights issues abroad; and nationality cases
+
+\4. Handle affairs concerning national compensation, appeals, and domestic lawsuits; as well as draft, interpret, and conduct research on laws and regulations
+
+\5. Promote participation in meetings on environmental sustainability conventions, as well as research, promote, and implement related policies and plans
+
+\6. Other treaty and legal affairs
+
+## Article 12
+
+The Department of International Organizations shall be responsible for the following:
+
+\1. Observe and analyze the work of United Nations organizations; conduct planning; coordination and execution of efforts to promote participation in these organizations
+
+\2. Handle participation, observation, and analysis of other international intergovernmental organizations, and multilateral cooperation mechanisms
+
+\3. Maintain the nation’s right to participate in and interests concerning international intergovernmental organizations and multilateral mechanisms
+
+\4. Other affairs concerning international intergovernmental organizations
+
+## Article 13
+
+The Department of International Cooperation and Economic Affairs shall be responsible for the following:
+
+\1. Handle affairs concerning the World Trade Organization and related organizations
+
+\2. Plan, evaluate, coordinate, oversee, and assess the development of international cooperation affairs
+
+\3. Coordinate and communicate about international cooperation financing
+
+\4. Coordinate and communicate about foreign economic and trade affairs
+
+\5. Other international cooperation and economic affairs
+
+## Article 14
+
+The Department of International Information Services shall be responsible for the following:
+
+\1. Promote, supervise, and evaluate foreign media affairs
+
+\2. Promote foreign media exchanges and cooperation
+
+\3. Compile and analyze data on international public opinion
+
+\4. Produce, distribute, and utilize audiovisual and textual information for international consumption
+
+\5. Provide services to foreign media stationed in Taiwan and visiting journalists
+
+\6. Other affairs pertaining to international information services
+
+## Article 15
+
+The Department of Policy Planning shall be responsible for the following:
+
+\1. Plan overall foreign policy development
+
+\2. Draft, plan, coordinate, and evaluate annual policy directions, midterm and annual policy direction plans, advance planning, and medium and long-term projects
+
+\3. Coordinate international strategic security dialogue, defense, military, and China-related affairs; coordinate policies concerning international antiterrorism affairs and related cross-border issues
+
+\4. Draft, coordinate, and evaluate cross-unit and multi-area project issues
+
+\5. Review organizational structure; propose and coordinate innovative reform
+
+\6. Plan, supervise, and evaluate efforts to improve administrative efficiency and public service
+
+\7. Collate, plan, and promote public opinion surveys and evaluate related publications
+
+\8. Other affairs pertaining to diplomatic policy planning
+
+## Article 16
+
+The Department of Protocol shall be responsible for the following:
+
+\1. Plan, supervise, coordinate, and implement the reception of foreign dignitaries, functions attended by ministers and vice/deputy ministers, high-ranking government officials’ foreign travel, and protocol-related affairs
+
+\2. Plan, supervise, coordinate, and implement ceremonies, letters of credence, honorary consulships in Taiwan, decorations, and celebrations and solemn occasions
+
+\3. Plan, coordinate, promote, and implement privileges, immunities, and courtesies extended to personnel of foreign institutions in Taiwan
+
+\4. Coordinate and communicate where domestic natural disaster prevention and response has an international component
+
+\5. Other protocol-related affairs
+
+## Article 17
+
+The Department of General Affairs shall be responsible for the following:
+
+\1. Handle official seals, document distribution, and diplomatic mail
+
+\2. Expend and keep custody of funds, distribute salaries, handle purchasing, and manage other affairs
+
+\3. Obtain, manage, and allocate MOFA offices, land, and other property; repair offices and dormitories; inspect and approve construction projects; dispatch, replace, and manage official vehicles; and manage and maintain the Taipei Guest House
+
+\4. Manage the national property of diplomatic missions; purchase, rent, and repair their facilities and living quarters; and supervise and evaluate the replacement and management of their official vehicles
+
+\5. Review, approve, transfer, and review acceptance of purchases; manage property; and inspect construction for items submitted to MOFA in accordance with the law by subordinate agencies
+
+\6. Manage support personnel including technicians, drivers, and security
+
+\7. Approve purchase of airplane tickets and travel insurance for personnel transfers, foreign business trips, and training
+
+\8. Communicate about MOFA disaster prevention efforts and safety measures
+
+\9. Other affairs that are not the responsibility of any other department
+
+## Article 18
+
+The Department of Personnel shall be responsible for handling MOFA personnel affairs.
+
+## Article 19
+
+The Department of Civil Service Ethics shall be responsible for handling MOFA civil service ethics affairs.
+
+## Article 20
+
+The Department of Budget, Accounting, and Statistics shall be responsible for handling the annual budget, accounting, and statistics.
+
+## Article 21
+
+The Department of Archives, Information Management, and Telecommunications shall be responsible for the following:
+
+\1. Manage MOFA archives; edit, print, and distribute diplomatic records; plan, promote, and supervise archive management for all MOFA subordinate agencies and diplomatic missions
+
+\2. Plan, coordinate, promote, and manage strategies for information services for MOFA, its subordinate agencies, and diplomatic missions
+
+\3. Plan, promote, and supervise information security for MOFA, its subordinate agencies, and diplomatic missions
+
+\4. Handle, manage, and review cables between MOFA and diplomatic missions
+
+\5. Plan, establish, conduct security for, and supervise the administration of telecommunications and secure communications equipment
+
+\6. Other affairs concerning archives, information, and telecommunications
+
+## Article 22
+
+Standing task forces may be established by MOFA to meet operational needs. These shall be defined in separate organizational guidelines:
+
+\1. Public Diplomacy Coordination Council: handle cross-regional public diplomacy affairs, plan and coordinate soft-power integration and deployment; release press releases; communicate with media organizations; produce and promote diplomatic informational materials and internet promotional materials; and handle translation and interpreting matters; the Council shall be headed by one director general and one deputy director general, positions to be filled by suitable personnel
+
+\2. Department of NGO International Affairs: Assist NGOs participation in international activities and exchanges; plan and promote international humanitarian aid; and conduct personnel training for international affairs; the Department shall be headed by one director general and one deputy director general, positions to be filled by suitable personnel
+
+\3. Office of Parliamentarian Affairs: Handle communications between MOFA and the Legislative Yuan and Control Yuan and assist with the promotion of parliamentary diplomacy; the Office shall be headed by one director general and one deputy director general, positions to be filled by suitable personnel
+
+## Article 23
+
+A detailed decision-making responsibility table shall govern MOFA operations and hierarchical responsibilities and powers.
+
+## Article 24
+
+These Regulations shall come into force on September 1, 2012.
+
+Revisions to these Regulations shall come into force as of the date of their promulgation.
+
+## History
+
+1.Promulgated by MOFA on October 13, 1939
+
+2.Revisions promulgated by MOFA on March 16, 1967
+
+3.Revisions promulgated via MOFA Order Wai Ren Yi Zi No. 0515 on December 31, 1968
+
+4.Revisions promulgated via MOFA Order Wai Ren Yi Zi No. 17279 on August 12, 1980
+
+Revisions promulgated via Executive Yuan (69) Letter Tai Wai Zi No. 12261 on December 23, 1980
+
+5.Revisions promulgated via MOFA Order Tai Ren Zi No. 258 on June 7, 1985
+
+Revisions promulgated via Executive Yuan Letter Tai Qi Shi Si Wai Zi No. 9590 on May 24, 1985
+
+6.Revisions promulgated via MOFA Order Wai Yi Zi No. 82315308 on June 23, 1993
+
+7.Revisions to Articles 6, 8-17, 19, 20, 22, 23, 31, and 34 promulgated via MOFA Order Wai Ren Yi Zi No. 09340036360 on June 1, 2004
+
+8.Revisions to Article 16 promulgated via MOFA Order Wai Ren Yi Zi No. 09340078610 on December 15, 2004
+
+9.Revisions to Article 24 promulgated via MOFA Order Wai Yan Zong Zi No. 10147505860 on August 23, 2012, taking effect September 1, 2012
+
+10.Revisions to Articles 5, 20, and 24 promulgated via MOFA Order Wai Ren Xie Zi No. 10641568660 on December 5, 2017

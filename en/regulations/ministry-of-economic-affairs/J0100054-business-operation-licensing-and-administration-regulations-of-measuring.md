@@ -1,0 +1,145 @@
+---
+title: "Business Operation Licensing and Administration Regulations of Measuring Instrument Enterprises"
+title_zh: "度量衡業營業許可及管理規則"
+identifier: "J0100054"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞標準檢驗目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-08-28
+last_amended: 2023-12-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100054"
+retrieved: 2026-10-12
+---
+
+# Business Operation Licensing and Administration Regulations of Measuring Instrument Enterprises
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0100054-business-operation-licensing-and-administration-regulations-of-measuring.md](../../../zh/regulations/ministry-of-economic-affairs/J0100054-business-operation-licensing-and-administration-regulations-of-measuring.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph Four, Article 34 of the Weights and Measures Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+"Measuring instrument enterprises" mentioned in these Regulations refers to the enterprises engaged in the manufacturing, repair, or importation of legal measuring instrument in accordance with Paragraph One, Article 34 of the Act.
+
+## Article 3
+
+To apply for business operation of licensing of measuring instrument enterprise, an application form for establishment of business operation of licensing of measuring instrument enterprise and a statement shall be prepared and submitted together with the photocopy of the principal's ID card to the dedicated weights and measures authority. If it is confirmed through examination that the application meets relevant provisions, a business operation establishment licensing document of measuring instrument enterprise shall be issued.
+
+The applicant may apply for a business license only after having finished the registration of company or commercial weights and measures business operation items with the establishment licensing document presented. However, if the measuring instrument manufacturer is a factory as called in the Factory Management and Guidance Act, the manufacturer may apply for a business license only after having finished the factory registration in addition to the aforesaid registration items.
+
+## Article 4
+
+To apply for a business license, the applicant shall prepare an application form, and submit it together with the permit fee and license fee as well as the following documents in addition to the photocopy of company or firm registration to the dedicated weights and measures authority:
+
+1.Manufacturer:
+
+(1)A photocopy of factory registration; where the manufacturer is exempted from factory registration, it shall be exempted from submission of the documents related to factory registration.
+
+(2)A photocopy of reports for calibration of the measurement standards.
+
+2.Repairer: a photocopy of reports for calibration of the measurement standards.
+
+"Reports for calibration" mentioned in the preceding Paragraph refers to the records of calibration conducted in accordance with Article 38 of the Act.
+
+For repairers designated by the dedicated weights and measures authority, the seal pattern shall be submitted as well.
+
+If the relevant requirements are not satisfied in Paragraphs 1 and preceding Paragraph, a time limit may be set for correction; in case correction is not made within the specified time limit or the equipments are deemed as incompliant, the application shall be rejected.
+
+The correction referred to in the preceding Paragraph shall be finished by the applicant within fourteen days; where necessary, this term may be prolonged by the dedicated weights and measures authority.
+
+## Article 5
+
+After having received and qualified in writing an application for business license of measuring instrument manufacturer or repairer, the dedicated weights and measures authority shall inspect the measurement standards and on-site operation of the applicant.
+
+When the dedicated weights and measures authority carries out the on-site inspection, the applicant shall have articles, measurement standards, related equipment and its operating instructions ready.
+
+If the relevant requirements for the on-site inspection are not satisfied, the correction shall be finished by the applicant within fourteen days for the re-inspection of the dedicated weights and measures authority; in case correction is not made within the specified time limit or the re-inspection is deemed to be incompliant, the application shall be rejected.
+
+## Article 6
+
+If it is confirmed after examination that an application for business license meets the relevant provisions, the dedicated weights and measures authority shall issue a business license.
+
+## Article 7
+
+An enterprise that holds a business license of measuring instrument manufacturer may concurrently conduct the repair of measuring instrument within the scope of manufacturing.
+
+An enterprise that holds a business license of measuring instrument manufacturer or repairer and is registered at the International Trade Administration, Ministry of Economic Affairs as an import & export company may concurrently conduct the importation of measuring instrument.
+
+## Article 8
+
+To establish a branch, a manufacturer, repairer, or importer of measuring instrument which actual operates business shall apply for a business license separately for the branch or business in accordance with Article 4; the validity period and the category of business shall be the same as those of the original business license of measuring instrument.
+
+Where the category of business applied for under the preceding Paragraph is different from that of the original, application for licensing shall be filed in accordance with Article 3.
+
+Where a manufacturer of measuring instrument establishes factories in different places which actual operate business, it shall apply for business licenses separately in accordance with Article 4.
+
+## Article 9
+
+A measuring instrument enterprise may, six months before expiration of the validity period of business license, prepare an application form in accordance with Article 4 and submit it together with the permit fee and license fee to the dedicated weights and measures authority to apply for prolongation, and the dedicated weights and measures authority may carry out the on-site inspection. A measuring instrument enterprise shall reapply a business license which validity period expires, and the prolonged application shall be rejected in accordance with Article 4.
+
+The validity period of the qualified replacement license referred to in the preceding Paragraph is ten years commencing from the day following expiration of the validity period of the original business license. However, if an application for prolongation is not filed six months before expiration and the replacement is not finished within the validity period of the original business license due to causes not attributed to the dedicated weights and measures authority, or if an application for prolongation is filed eight months before expiration, the validity period of the replacement shall be ten years commencing from the day of issuance.
+
+If the relevant requirements are not satisfied in the preceding Paragraph, a time limit may be set for correction. The correction referred to in the preceding Paragraph shall be finished within fourteen days; in case correction is not made within the specified time limit, the application shall be rejected.
+
+## Article 10
+
+In case of alteration of items in the business license, a measuring instrument enterprise shall prepare an application form, pay the license fee, and submit the application form together with the original business license and a photocopy of the company or firm registration certificate to the dedicated weights and measures authority, to apply for replacement of the business license. The dedicated weights and measures authority may carry out the on-site inspection whenever necessary; if the enterprise is a manufacturer, a photocopy of the factory registration certificate or relevant certificates on exemption from factory registration shall be submitted in addition.
+
+In case of alteration of the category class of business of the measuring instrument enterprise, the provisions of Article 3 shall apply.
+
+In case of addition of the categories of measuring instruments of the measuring instrument enterprise, the provisions of Article 4 shall apply.
+
+## Article 11
+
+In case of loss or damage of a business license, the measuring instrument enterprise may prepare an application form and submit it together with the license fee to the dedicated weights and measures authority, to apply for re-issuance or replacement.
+
+A new license as re-issued or replaced under the preceding Paragraph shall use the original business license No., and mark the date of re-issuance or replacement and the text of "Re-issued" or "Replaced".
+
+## Article 12
+
+Where an application for business license is rejected or withdrawn, the license fee shall be handed back.
+
+## Article 13
+
+(Delete)
+
+## Article 14
+
+Businesses obtaining the business license of measuring instrument repairer with the scope of service covering legal measuring instruments shall repair or align the measuring instruments in accordance with the technical documents provided by the manufacturers or importers and the technical specifications of licensed measuring instruments.
+
+## Article 15
+
+Businesses obtaining the business license of measuring instrument manufacturer or repairer with taximeters shall retain the records of repair, including trademark, model, serial number, license plates, summary of repair, and the name of the component replaced.
+
+The records of repair referred to in the preceding Paragraph shall be kept for the last two years or more within the validity period of business license for the review of the dedicated weights and measures authority. If the records are not kept, a time limit may be set for correction.
+
+## Article 16
+
+These Regulations shall come into force as of the date of promulgation.
+
+## History
+
+1.31 Articles adopted and promulgated in full by Order (76) Ching-Chung-Piao-Tzu No.43405 of the Ministry of Economic Affairs on 28 August 1987
+
+2.Articles 3, 4, 6, 10, 23 and 25 amended and promulgated; and Articles 21 and 22 deleted by Order (86) Ching-Chung-Piao-Tzu No.86460483 of the Ministry of Economic Affairs on 9 April 1997
+
+3.29 Articles amended and promulgated in full by Order (88) Ching-Piao-Chien-Tzu No.88461003 of the Ministry of Economic Affairs on 2 June 1999
+
+4.Article 17 amended and promulgated by Order Ching (90)-Piao-Chien-Tzu No.09004603610 of the Ministry of Economic Affairs on 28 March 2001
+
+5.The Business Operation Licensing and Administration Regulations of Measuring Instruments renamed (the Business Operation Licensing and Administration Regulations of Measuring Instrument Enterprise) and 13 Articles amended and promulgated by Order Ching-Piao-Tzu No.09204607930 of the Ministry of Economic Affairs on 25 June 2003
+
+6.Articles 4, 5, 8, and 9 amended and promulgated by Order Ching-Piao-Tzu No.10004602870 of the Ministry of Economic Affairs on 25 May 2011
+
+7.16 Articles amended and promulgated in full by Order Ching-Piao-Tzu No.10604604190 of the Ministry of Economic Affairs on 28 September 2017
+
+8.Articles 4 and 10 amended and promulgated; and Articles 13 deleted by Order Ching-Piao-Tzu No.10704607020 of the Ministry of Economic Affairs on 11 December 2018
+
+9.Articles 7 amended and promulgated by Order Ching-Piao-Tzu No.11253500590 of the Ministry of Economic Affairs on 18 December 2023

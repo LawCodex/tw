@@ -1,0 +1,165 @@
+---
+title: "Regulations Governing Subsidy of Interest on Debt Extension of Disaster-affected Residents"
+title_zh: "金融機構辦理受災居民債務展延利息補貼辦法"
+identifier: "G0380249"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-07-08
+last_amended: 2024-07-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380249"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Subsidy of Interest on Debt Extension of Disaster-affected Residents
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0380249-regulations-governing-subsidy-of-interest-on-debt-extension-of-disaster.md](../../../zh/regulations/financial-supervisory-commission/G0380249-regulations-governing-subsidy-of-interest-on-debt-extension-of-disaster.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 1, Article 43 of the Disaster Prevention and Protection Act (referred to as the "Act" hereunder).
+
+## Article 2
+
+The subsidy program under these Regulations applies to interest on various debts of disaster-affected residents (referred to as "affected residents" hereunder) to financial institutions incurred prior to the day of the disaster and with repayment period extended by the financial institutions. The interest subsidy only covers the debt extension period.
+
+The term "financial institutions" referred to in the preceding paragraph include banks, credit cooperatives, institutions engaging in credit card business, insurance companies, ChungHwa Post Co., Ltd., Agricultural Bank of Taiwan and credit departments of farmers' and fishermen's associations.
+
+The term "various debts" referred to in the first paragraph hereof include the following:
+
+\1. Mortgage loans of self-use residence and non-self-use residence in disaster affected areas other than those mentioned under Paragraph 1, Article 42 of the Act.
+
+\2. Other loans secured by a house in a disaster affected area.
+
+\3. Insurance policy loans.
+
+\4. Auto loans.
+
+\5. Credit card and cash card payables.
+
+\6. Other secured loans.
+
+\7. Other unsecured loans.
+
+\8. Consumer finance cases handled by members of the Bankers Association of the Republic of China through unsecured debt negotiation mechanism and debt cases handled by financial institutions through out-of-court debt workout mechanism or mediated debt workout program in accordance with the Consumer Debt Clearance Act (collectively referred to as "negotiated debts" hereunder).
+
+Loans already reported as non-performing loans or loans against which recourse actions have been taken are not eligible for subsidy under these Regulations. However the preceding provision does not apply to negotiated debts.
+
+To apply to financial institutions for extension of debt repayment, affected residents should present proof of damage issued by the special municipality, county (city) government, or township (town, city, district) office, mountain indigenous district office of special municipalities, or tax authority. Notwithstanding the foregoing, an affected resident may also requests investigation of damage by its financial institution, and if the investigation finds the existence of damage, the investigation and assessment form prepared by the financial institution may be used in lieu of the proof of damage.
+
+## Article 3
+
+The extension periods for debt repayment that should be granted by financial institutions to affected residents are as follows:
+
+\1. Mortgage loans of self-use residence in disaster affected areas other than those mentioned under Paragraph 1, Article 42 of the Act:
+
+(1) If the house is damaged beyond use, the repayment period is extended for five (5) years.
+
+(2) If the house is partially damaged but still usable, the repayment period is extended for two (2) years.
+
+\2. For mortgage loans of non-self-use residence in disaster affected areas where the house is damaged beyond use, or partially damaged but still usable, the repayment period is extended for two (2) years.
+
+\3. For other loans secured by a house in a disaster-affected area and other secured loans, the repayment period is extended for one (1) year.
+
+\4. For auto loans, the repayment period is extended for one (1) year.
+
+\5. For insurance policy loans, credit card and cash card payables and other unsecured loans, the repayment period is extended for six (6) months.
+
+\6. For negotiated debts, the repayment period for is extended for one (1) year.
+
+The duration of subsidy for each debt will be decided by the extension period provided in the preceding paragraph, starting from the date the financial institution grants extension to the affected resident after the disaster has occurred. If an affected resident already has late payment on his/her debt after the date of disaster due to the impact of disaster, the extension period may start retroactively from the date of disaster, subject to the mutual consent of the financial institution and the affected resident.
+
+## Article 4
+
+When a financial institution applies for subsidy of interest on extended debt, the subsidy will be provided based on the outstanding balance of debt on the date of disaster and the actual lending rate. However the maximum subsidy shall not exceed the upper limits of interest rate subsidy for various debts specified below:
+
+\1. Loans set out in Subparagraphs 1 ~ 3, Paragraph 1 of the preceding article: 3%.
+
+\2. Insurance policy loans: 3%.
+
+\3. Auto loans: 5%.
+
+4.credit card and cash card payable and other unsecured loans: 12%.
+
+\5. Negotiated debts: 5%.
+
+For the subsidy of interest on extended government project loans, the subsidy will be provided based on the outstanding balance of loan principal and the actual interest rate, which is lending rate deducted by project subsidy rate, up to the upper limits of interest rate subsidy for various debts specified in the preceding article.
+
+## Article 5
+
+For undertaking the subsidy program under these Regulations, the Financial
+
+Supervisory Commission (hereafter FSC) and the Ministry of Agriculture (hereafter MOA) may respectively appoint or designate a managing bank to manage the subsidy program.
+
+## Article 6
+
+Financial institutions that apply for interest subsidy on extended debt of affected residents shall prepare the following documents and apply to the managing bank:
+
+\1. An application form or a copy of the debt extension agreement;
+
+\2. A copy of the proof of damage presented by the affected resident or the financial institution's investigation and assessment form; and
+
+\3. Information on the interest rate, duration, guarantee and outstanding balance of the affected resident's loan before the date of disaster.
+
+## Article 7
+
+The period during which an affected resident may apply to his/her financial institution for extension of debt repayment shall last one year starting from the date of disaster.
+
+## Article 8
+
+The head offices of financial institutions shall compile the subsidy request data of their branch offices, produce a subsidy request list, and submit the list to the managing bank for disbursement of subsidies in January, April, July and October each year before the 15th of the month.
+
+When an affected resident repays part of his/her debt, subsidy will be provided based on the outstanding balance of the debt; subsidy will cease when an affected resident pays off his/her debt ahead of time.
+
+A financial institution shall stop applying for interest subsidy on the debt of an affected resident when the financial institutions transfer the debt to the account of non-performing/non-accrual loans and forthwith inform the managing bank of the same in writing.
+
+## Article 9
+
+If an affected resident passes away during the debt extension period and the legal relationship of the extension of debt is inherited by the heir(s) of the affected resident, the financial institution may continue to apply for interest subsidy under these Regulations.
+
+## Article 10
+
+For subsidy application cases submitted by banks, credit cooperatives, institutions engaging in credit card business, insurance companies, and ChungHwa Post Co., Ltd., the managing bank will be in charge of disbursement of subsidies under the supervision of the FSC; for subsidy application cases involving policy-oriented agricultural project loan submitted by Agricultural Bank of Taiwan and credit departments of farmers' and fishermen's associations, the managing bank will be in charge of disbursement of subsidies under the supervision of the MOA.
+
+Subsidy applying financial institutions may not refuse to provide application related information when so requested by the FSC, MOA or managing bank.
+
+Subsidy applying financial institutions shall preserve complete application related information. Where a subsidy applying financial institution is found to violate the provisions of these Regulations, the financial institution shall return the related subsidy plus interest thereon at a rate for one-year time deposit offered by ChungHwa Post Co., Ltd. for a period from the date of disbursement of subsidies to the date of return.
+
+## Article 11
+
+The funding for subsidies under these Regulation will come from:
+
+\1. Private donations to the Central Government Disaster Relief Account; and
+
+\2. If deemed necessary, budget prepared in accordance with the government budget process.
+
+## Article 12
+
+If a financial institution causes loss in undertaking debt extension in accordance with these Regulations but the loss is not attributed to an intentional act or gross negligence of the financial institution, the financial institution and its personnel involved are relieved of administrative responsibility thereof.
+
+## Article 13
+
+The provisions of the MOA for policy-oriented agricultural project loans shall supersede Paragraph 4 of Article 2, Paragraph 1 of Article 3, Article 4, Article 7 and Article 8 herein if those provisions provide otherwise.
+
+## Article 14
+
+Matters not specified in these Regulations shall be undertaken in accordance with credit related rules and regulations of the FSC, MOA and respective financial institutions.
+
+## Article 15
+
+The Regulations came into force on August 6, 2015.
+
+The amendment of these Regulations shall come into force on the date of promulgation, except for Article 4 amended and promulgated on July 31, 2024, which shall come into force on April 3, 2024.
+
+## History
+
+1.Promulgated by Financial Supervisory Commission Order Jin-Kuan-Yin-Guo-10520002300 on July 8, 2016; for implementation from August 6 , 2015.
+
+2.Articles 1 to 3 and 15 amended and promulgated on December 8, 2022 per Order Ref. Jin-Guan-Yin-Guo No. 11102736421 of the Financial Supervisory Commission.
+
+3.Article 4, 5, 10, and 13 to 15 amended and promulgated on July 31, 2024 per Order Ref. Jin-Guan-Yin-Guo No. 11302723261 of the Financial Supervisory Commission. The amendment of these Regulations shall come into force on the date of promulgation, except for Article 4, which shall come into force on April 3, 2024.

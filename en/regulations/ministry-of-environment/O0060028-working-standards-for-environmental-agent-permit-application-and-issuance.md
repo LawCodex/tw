@@ -1,0 +1,285 @@
+---
+title: "Working Standards for Environmental Agent Permit Application and Issuance"
+title_zh: "環境用藥許可證申請核發作業準則"
+identifier: "O0060028"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-07-21
+last_amended: 2024-03-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060028"
+retrieved: 2026-10-12
+---
+
+# Working Standards for Environmental Agent Permit Application and Issuance
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060028-working-standards-for-environmental-agent-permit-application-and-issuance.md](../../../zh/regulations/ministry-of-environment/O0060028-working-standards-for-environmental-agent-permit-application-and-issuance.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Article 10, Paragraph 1 of the Environmental Agents Control Act (herein referred to as this Act).
+
+## Article 2
+
+Applications for environmental agent licenses, including manufacture, process, and importation should be made to the central competent authority and should include application forms and supporting documentation for Attachment 1 and materials for the application of environmental agent permit (hereinafter referred to as “the permit”).
+
+## Article 3
+
+The permit should be able to be completed through online application. This restriction shall not apply, however, if the central competent authority agrees to allow written applications.
+
+## Article 4
+
+If the documentation and materials referred to in Article 2, Article 16 and Article 17 are in a language other than Chinese, the following regulations shall be met:
+
+I.The Chinese translation of said documentation must be attached. However, if the aforementioned documents are in English, a Chinese translation is not required.
+
+II.Applications shall be filled out in Chinese, and information about the original manufacturer shall be attached.
+
+## Article 5
+
+Applications for permit handled by the central competent authority shall be reviewed according to the following rules. The scope of review shall not extend beyond the content of applications, and shall not impose any form of disposition to increase obligations not stipulated by regulations:
+
+I. If the submitted verifying documents or information are incomplete or do not comply with regulations, the applicant will be notified to make corrections within a prescribed period. If the applicant fails to do so or if the corrections are made more than three times, the application shall be rejected and returned to the applicant. The prescribed period for making each corrections shall be limited to 90 days.
+
+II. Applicants who have not paid the prescribed review fee shall see their applications rejected and returned.
+
+The central competent authority shall, within 14 days after completing the review, notify the applicant if the application meets the requirements as specified in the preceding paragraph.
+
+## Article 6
+
+Environmental agents that meet any of the following criteria shall be considered special environmental agents:
+
+I.Agents requiring specialized safety precautions for their use.
+
+II.Agents that require sprayer, fumigators, foggers, sterilizers, ultra-low volume (ULV) sprayers, or other application equipment for their use.
+
+III.Environmental germicides with active ingredient concentrations exceeding the limits listed in Attachment 2.
+
+IV.Application types of germicides used for environmental sanitation not listed in Attachment 2 and that have active ingredient concentrations above 5%.
+
+## Article 7
+
+Environmental agents with special qualities may be limited with respect to category, product type, name, volume of content, type of application, components and component content, performance, scope, and method of use. General use rodenticides shall use a bitterant additive. However, specialized rodenticides are not subject to this restriction.
+
+## Article 8
+
+The first time an active component of an environmental agent or microbial preparation used as an environmental agent is registered as an environmental agent in Taiwan, licensing or registration materials from the competent authority of any developed country shall be provided. Chemical agents developed in Taiwan are not subject to this restriction.
+
+## Article 9
+
+Applicants seeking to import environmental agents shall submit signed documentation from the Republic of China representative authority stationed overseas:
+
+I.Proof of permission to manufacture and sell said environmental agent from the competent authority in the country of origin.
+
+II.Authorization to act as a sales agent.
+
+If the competent authority in the country of origin has issued manufacture documents for export only in Subparagraph 1 of the foregoing paragraph, production registration or permit issued by any developed country shall be provided. If there is no system for such permits in the country of origin as required, the proof of permission to manufacture may be used instead as proof that said environmental agent is not listed for control by the competent authority in the country of origin.
+
+When there is no system for such permits in the country of origin nor any verification documents provided by the relevant competent authority, applicants shall provide verification documents for the manufacture and sale of said environmental agent from the relevant product management agency or institution, or verification documents that the product is already being sold and used as a commercial environmental agent in the country of origin or in countries outside the country of origin. Said documents need not be submitted to Republic of China overseas representative offices for signed verification.
+
+## Article 10
+
+The following documents from Mainland China region should first be notarized by Mainland China notary authorities, and then authenticated by the organization or civic group established or designated by the Mainland Affairs Council, Executive Yuan:
+
+I.Proof of permission to manufacture and sell said environmental agent from the competent authority in the Mainland China region.
+
+II.Authorization to act as a sales agent.
+
+III.Photocopy of formal registration document issued by Mainland China region competent authority.
+
+IV.Toxicity testing report.
+
+V.Efficacy (potency) testing report.
+
+VI.For environmental agents not regulated in the Mainland China region, verification documents from the relevant product management agency or institution, or verification documents that the product is already being sold and used as a commercial environmental agent in the Mainland China region or in other countries.
+
+## Article 11
+
+The permit shall register the following items:
+
+I. Permit number
+
+II. Name, address and statutory responsible person of the company
+
+III. Name and address of the manufacturer
+
+IV. Type and category of the environmental agent
+
+V. Product name
+
+VI. Product expiration date
+
+VII. Performance data
+
+VIII. Dosage form and volume
+
+IX. Composition and content
+
+X. Permit issuance date and expiration date
+
+XI. Other items designated by the central competent authority
+
+When finding any written errors or obvious errors that do not comply with the Regulations and relevant provisions on the permit, the central competent authority may make corrections at any time and inform the party to apply for a permit replacement within a prescribed period.
+
+## Article 12
+
+A permit is not required for the following substances used as environmental agents:
+
+I.Single component solutions of hypochlorous acid and its salts, sodium chlorite with concentrations of less than 6%.
+
+II.Bleaching agents with chlorine concentrations of 40% or less.
+
+III.Technical grade agents of hypochlorous acid and its salts, Sodium chlorite, chlorine dioxide, sodium borate (boric acid) raw materials.
+
+## Article 13
+
+Natural substance products used as environmental pest repellants, rodent repellants or attracting purposes, and not as pesticides, provided with certification of biological effects and components. The applicant should check the documents and data of Attachment 3 for examination and approval by the central competent authority and be exempted from applying for a permit. However, natural substances with natural pyrethrum extracts require application for a permit according to Article 2.
+
+## Article 14
+
+Pursuant to Article 10, Paragraph 1 of this Act regarding environmental agent permit applications, a permit shall not be issued when any one of the following circumstances applies:
+
+I.The toxicity of the environmental agent is categorized as highly toxic or extremely toxic according to the WHO Pesticide Oral and Dermal Toxicity Classification (Attachment 4). However, rodenticides and pollution control agents are not subject to this restriction.
+
+II.The applicant already has a permit covering the same components and said components are sourced from the same manufacturer.
+
+III.The environmental agent includes two or more components with the same efficacy. However, germicides and components that are proven to add functionality are not subject to this restriction.
+
+IV.The environmental agent product name already exists or the Chinese name of the active component in the environmental agent is the product name. However, those manufacturing or importing technical grade agents using the Chinese name of the active ingredient as the product name are not subject to this restriction.
+
+V. The competent authority has determined that there is cause for concern that an environmental agent may be hazardous to humans or to the environment.
+
+## Article 15
+
+The period of validity of a permit is five years, and each extension cannot exceed five years. If it is necessary to continue manufacturing, processing or importing after the expiry of the period, the extension shall be applied for from the central competent authority within three months to six months prior to the expiration date.
+
+When applying for extension according to the provisions of the preceding paragraph, if the renewal is delayed beyond the license expiry date due to the review process by the Central Competent Authority, the original license shall remain temporarily in effect.
+
+If the application for extension is not applied for during the period specified in the first item, and the central competent authority has not yet made a decision, the original permit will lose its effect from the date of expiry of the term.
+
+## Article 16
+
+If a permit extension is granted, the application documents, the supporting documents, and data in Attachment 5 shall be examined and submitted to the central competent authority.
+
+## Article 17
+
+Any person who alters, reissues, or renews a permit shall complete the application, the supporting documents and materials listed in Attachment 6, and then apply to the central competent authority.
+
+Any change of company name, company address, domestic manufacturer’s name, or address occupant for the above permit shall be made within 90 days after the relevant certification authority receives the final supporting documents from the target business agency.
+
+## Article 18
+
+The application method for the extension or change of the permit shall be handled according to the provisions of Article 3.
+
+The procedures for reviewing the extension or change of permit shall be handled in accordance with the provisions of Article 5.
+
+## Article 19
+
+The physical and chemical properties of environmental agent testing in the foregoing article shall be conducted by the following testing organizations (institutions):
+
+I. The permit for the Environmental Testing and analysis organizations are authorized under Article 36 of this Law by the central competent authority.
+
+II.Testing and analysis organizations designated by the central competent authority testing and analysis organizations, or public or private academic and research institutions.
+
+III.An inspection and test organization that conforms to principles of Good Laboratory Practices (GLP) of the OECD, and related documents of proof shall be provided.
+
+The composition analysis and testing of environmental agents should be performed as prescribed in the first subparagraph and the second subparagraph of the foregoing paragraph.
+
+The environmental agent efficacy (effectiveness) test shall be handled in accordance with the subparagraph 2 of Paragraph 1. However, those who conduct tests abroad are not subject to this restriction.
+
+## Article 20
+
+An environmental agent toxicity testing organization must be a professional toxicological testing organization, and must comply with superior laboratory operating regulations or testing regulations of Taiwan, the United States, European Union, Japan, or the Organization for Economic Cooperation and Development (OECD).
+
+## Article 21
+
+Environmental agent toxicity testing items are as follows:
+
+I.For first-time applications to register an active component as an environmental agent, see Attachment 7.
+
+II.For technical grade environmental agents and general and special environmental agents, see Attachment 8.
+
+III.For microbial preparations used as environmental agents and pollution control agents, see Attachment 9.
+
+IV.The toxicity test of human chemical repellents, see Attachment 10 and Attachment 11.
+
+For the general and special environmental agents in the foregoing second item, synergists representing less than 1% of the total volume shall not be deemed active components.
+
+## Article 22
+
+Testing methodologies adopted for the environmental agent efficacy (potency) testing, active component content analysis or physical and chemical properties reports shall be conducted in accordance with Chinese National Standards or central competent authority testing methodologies; if standard testing methodologies for certain items have not been officially announced, then the applicant shall provide the testing methodology.
+
+For the foregoing paragraph standard tests or methods that are not promulgated in Taiwan,test standards approved by the Organization for Economic Cooperation and Development (OECD) and organizations validated by it or the competent authority of any country such as the U.S. or Japan shall be adopted or the applicant shall provide the test method.
+
+## Article 23
+
+Environmental agent efficacy (potency) testing reports shall comply with the following rules:
+
+I.For the biological species and conditions to be used in environmental agent efficacy testing, see Attachment 12.
+
+II.Control performance data included in the registration application must include an efficacy (potency) testing report; however, for agents that control centipedes, millipedes, spiders, and chiggers, the examiner may indicate recommended application amount and method of application based on documentation, which can then be submitted by the applicant.
+
+III.Efficacy (potency) testing reports for special environmental agents and microbial preparations used as environmental agents shall include the dilution factor of its control performance (including the highest dilution factor to achieve control results that meet efficacy auditing standards).
+
+IV.Applications related to mosquito repellent incense, electrically-activated mosquito repellent incense, and electrically-activated liquid mosquito repellent incense indicating usage period of over 8 hours must submit a time-correlated testing and analysis evidence report.
+
+V.For dichlorobenzenes, naphthalene, or synthetic camphor products with the same active component as the technical grade agent, the enterprise shall carry out efficacy testing on either the technical grade agent or the product.
+
+## Article 24
+
+The performance data of environmental agents in Article 9, Paragraph 1 of this Act shall be determined pursuant to efficacy testing results standards (Attachment 13).
+
+## Article 25
+
+Applications for approval or modification of general and special environmental agents or environmental medicine microbiological preparations with validity periods of more than two years shall submit products with the same manufacture date and batch number, along with efficacy (potency) testing reports and active component analysis reports conducted at the time of manufacturing and when conducted two years or more following manufacturing. However, the effective period of environmental agent products is up to five years.
+
+The effective period of the product for technical grade environmental agent is up to five years.
+
+## Article 26
+
+The central competent authority has the right to revoke and repeal the Environmental Agents Permit in any of the following cases:
+
+I.False contents of documents or information.
+
+II.False items that are recorded on the record form for environmental agents on the basis of the obligation recorded in Paragraph 1, Article 24 of the Act.
+
+If environmental technical grade agents import permit acquired for the manufacture and processing of environmental agents for export is not used on the manufacture and processing of the abovementioned agents, the central competent authority shall withdraw the import permit.
+
+## Article 27
+
+The standards shall take effect from the date of promulgation.
+
+## Attachments
+
+- [Attachment 1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007796)
+- [Attachment 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007797)
+- [Attachment 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007798)
+- [Attachment 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007799)
+- [Attachment 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007800)
+- [Attachment 6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007801)
+- [Attachment 7.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007802)
+- [Attachment 8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007803)
+- [Attachment 9.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007804)
+- [Attachment 10.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007805)
+- [Attachment 11.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007806)
+- [Attachment 12.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007807)
+- [Attachment 13.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007808)
+
+## History
+
+1.Twenty articles promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tze No. 0950057292 on July 21, 2006, effective as of November 10, 2006.
+
+2.Revisions to Articles 4, 6, 11, 12, 18, 20, revisions to Attached Table 6 in Article 14 and Attached Table 7 in Article 15, and deletion of Article 19 promulgated in Environmental Protection Administration Order Huan-Shu-Tu-Tze No. 0980109222A on December 4,2009.
+
+3.Twenty articles promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tze No.1020048402 E on June 13, 2013.
+
+4.Twenty seven articles promulgated by Environmental Protection Administration Order Huan-Shu-Wha-Tze No. 1078000112 on March 7, 2018.
+
+5.Revisions to Articles 4 by Environmental Protection Administration Order Huan-Shu-Wha-Tze No. 1118124972 on December 16, 2022.
+
+6.Revisions to Articles 5 and 11 by the Ministry of Environment Order Huan-Pu-Hua-Tzu No. 1138104493 on March 8, 2024.

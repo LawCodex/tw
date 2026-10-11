@@ -1,0 +1,235 @@
+---
+title: "Regulations Governing Immigration Inspection and Data Collection and Utilization"
+title_zh: "入出國查驗及資料蒐集利用辦法"
+identifier: "D0080140"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-07-15
+last_amended: 2023-12-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080140"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Immigration Inspection and Data Collection and Utilization
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080140-regulations-governing-immigration-inspection-and-data-collection-and-utilization.md](../../../zh/regulations/ministry-of-the-interior/D0080140-regulations-governing-immigration-inspection-and-data-collection-and-utilization.md)) is authoritative.
+
+## Article 1
+
+The Regulations are based on Paragraph 3 of Article 4 of the Immigration Act (hereafter the “Act”).
+
+## Article 2
+
+Nationals with household registration in the Taiwan Area (hereinafter referred to as the “NWHR”) shall present valid passports  for immigration clearance while departing R.O.C. (Taiwan). After the National Immigration Agency of the Ministry of the Interior (hereinafter referred to as the “NIA”) has performed passport inspection, and find no conditions that the NWHR who are personnel who involve in national security that  have not been approved by authorities they hold office for before departure as described in Paragraph 1, Article 5 of the Act, or the NWHR do not meet any circumstances that shall be banned from exit as described in Paragraph 1, Article 6 of the Act, the NIA shall issue inked endorsement stamps on their passports and grant them exit admissions.
+
+Those who were born in the Taiwan area with dual nationalities, if departing from the Taiwan area for the first time, shall present their R.O.C. (Taiwan) passports for immigration clearance.
+
+NWHR with dual nationalities and enter the State with foreign passports shall exit the State with the same foreign passports; and those who enter the State with R.O.C. (Taiwan) passports or entry permits shall exit the State with R.O.C. (Taiwan) passports.
+
+People of the Mainland Area and residents of Hong Kong or Macau who have registered permanent residence shall present R.O.C. (Taiwan) passports when exit the State for the first time.
+
+## Article 3
+
+When a NWHR enters the State, he/she shall carry a valid passport for inspection. After the inspection is completed, the NIA shall imprint an entry stamp on his/her passport page and allow his/her entry
+
+If a NWHR’s passport is lost or expired, he/she may enter the State with a Certificate of Entry Document(s).
+
+## Article 4
+
+Nationals without household registration in Taiwan (hereinafter referred to as the “NWOHR”) shall present the following documents for inspection by the NIA. If they do not meet any circumstances that shall not be granted entry permits or banned from entry as described in Article 7 of the Act, or shall be restricted for their reentry permits as described in Paragraph 1, Article 15 of the Act, the NIA shall issue inked endorsement stamps on their travel documents and grant them entry admissions:
+
+\1. Valid passport;
+
+\2. Entry permit; those who are exempted from applying for entry permits are not required to submit entry permits;
+
+\3. Completed Arrival card; those who hold R.O.C. (Taiwan) residence certificates are exempted from submitting arrival  cards.
+
+NWOHR who reside overseas, in the Mainland Area, Hong Kong or Macau and are approved by the NIA for residence or registered permanent residence in the Taiwan area, may enter the State with valid entry permits which shall be inspected by the NIA. After the inspection, the NIA shall issue inked endorsement stamps on their travel documents and grant them entry admissions.
+
+## Article 5
+
+NWOHR shall present valid passports and entry permits for inspection by the NIA. If they do not meet any circumstances that shall be banned from entry as described in Paragraph 1, Article 6 of the Act, the NIA shall issue inked endorsement stamps on their travel documents and grant them exit admissions.  Those who are exempted from applying for entry permits are not required to submit entry permits.
+
+NWOHR with dual nationalities and enter the State with foreign passports shall exit the State with the same foreign passports; and those who enter the State with R.O.C. (Taiwan) passports or entry permits shall exit the State with R.O.C. (Taiwan) passports.
+
+NWOHR who have registered permanent residence shall present R.O.C. (Taiwan) passports printed with their National Identification Number when exit the State for the first time.
+
+Foreign nationals or stateless persons who have acquired R.O.C. (Taiwan) nationality through naturalization should present R.O.C. (Taiwan) passports for the first time departure.
+
+## Article 6
+
+A resident of Macau or Hong Kong shall carry valid documents listed below for inspection when entering the State, and the NIA shall imprint an entry stamp on his/her travel document(s) after the inspection is completed:
+
+\1. A valid entry and exit permit;
+
+\2. A Hong Kong or Macau passport that is valid for at least three months. ARC and Residency Entry and Exit Permit holders shall carry valid passports.
+
+\3. A return aircraft /vessel ticket or ticket to next destination if required by the law;
+
+\4. A completed arrival card (not required for the ARC holders and others promulgated by the NIA).
+
+## Article 7
+
+Resident of Macau or Hong Kong shall carry a valid passport with an entry and exit permit for inspection when exiting the State. After the inspection is completed, the NIA shall imprint an exit stamp on his/her Entry and Exit Permit.
+
+## Article 8
+
+People of the Mainland Area shall carry valid documents listed below for inspection when entering the State. After the inspection is completed, the NIA shall imprint an entry stamp on his/her Entry and Exit Permit:
+
+\1. A valid entry and exit permit;
+
+\2. A passport, Mainland Residents to Taiwan Pass, travel document(s), or non-permanent residency issued by Hong Kong or Macau government that is valid for at least six months. However, traveler (non-tourist group) under Article 3-1 of the Regulation of Mainlander Entering Taiwan for Tourism, shall obtain a Mainland Residents to Taiwan Pass with at least six months of validity.
+
+\3. A return aircraft /vessel ticket or ticket to next destination; except for traveler permitted to stay over 6 months.
+
+\4. A valid visa or resident certificate of the country of the next destination for traveler who enters from foreign places other than mainland China.
+
+\5. A completed arrival card does not need to be filled out by holders of alien resident certificate, single entry & exit permit, or others approved by the NIA;
+
+\6. Identification documents(s).
+
+For an individual approved for residency or household registration permission in Taiwan, he/she shall carry valid entry document(s) listed below, receive inspection and an entry stamp from the NIA upon entering the State:
+
+\1. Entry & exit permit and an alien resident certificate, or a Household Registration Permit.
+
+\2. A valid passport, Mainland Residents to Taiwan Pass, travel document, or non-permanent residency document(s) issued by Hong Kong of Macau government.
+
+## Article 9
+
+People of the Mainland Area shall carry valid entry and exit permits (with an authorized entry period) for inspection when exiting the State. After the inspection is completed, the NIA shall imprint exit stamps on the document(s).
+
+## Article 10
+
+A foreign national shall carry the following documents for inspection when entering the State. After the inspection is completed and the national has not been banned from entry in accordance to Paragraph 1, 2 Article 18 of the Act, the NIA shall imprint an entry stamp on his/her travel document(s) and grant his/her entry:
+
+\1. A valid passport or travel document. In order to apply for a landing visa, the passport must be valid for at least 6 months, with the exception of individuals who fall under a treaty/agreement or approved by the Ministry of Foreign Affairs;
+
+\2. A valid visa, an entry permit, or an alien permanent resident certificate. This does not apply to those entering with a landing visa;
+
+\3. A return air/boat ticket or next destination air/boat ticket if applying for a landing visa. This does not apply to individuals providing exemption documents;
+
+\4. A valid visa for the country of next destination. This does not apply to countries with no visa requirement for entry;
+
+\5. A completed arrival card. This does not apply to R.O.C. alien resident certificate holders or those promulgated by the NIA.
+
+## Article 11
+
+A foreigner who wishes to exit the State shall carry his/her passport for inspection and must meet one of the following conditions. After the inspection is completed, with the exceptional circumstances of those banned from exiting in accordance to Paragraph 1 or Paragraph 2 of Article 21 of the Act, NIA shall imprint an entry stamp on his/her travel document and grant his/her exit:
+
+\1. Has not overstayed his/her visa;
+
+\2. If entering with a resident visa or changed from a visitor visa to a resident visa, his/her alien resident certificate must not have expired or been canceled; If entering with alien permanent resident card), his/her card must not have been canceled;
+
+\3. If entering with a temporary visiting/resident permit, the permit must not have expired;
+
+\4. A foreigner born in the State and has obtained an alien resident certificate;
+
+\5. A foreigner who lost his/her passport in the State and upon recovering the lost passport or being issued a new passport/travel document, he/she has completed filing procedures for exiting the State at a local NIA service center;
+
+\6. Has completed the administrative procedures for overstay, incomplete alien resident certificate application, or other special circumstance.
+
+## Article 12
+
+For an individual who has already completed the customs inspection and has to cancel his/her trip, he/she shall submit an application to the NIA with the representatives of the transportation sector to void the exit record and the exit stamp on the passport.
+
+## Article 13
+
+For travelers who enter or exit the State through e-gate or those promulgated by the NIA, the exit stamp may be omitted.
+
+## Article 14
+
+Upon immigration inspection, the NIA is entitled to examine a passenger’s boarding certificate or other certificate(s)/ document(s) related with entering the country.
+
+## Article 15
+
+An aircraft/vessel crew member who is a NWHR serving on an aircraft/vessel and registered to the State shall carry the following documents for inspection by the NIA when entering/exiting the State:
+
+\1. A valid passport or seamen service book;
+
+\2. Duty Certificate;
+
+For a crew member entering the State with an aircraft registered to the State or foreign countries regardless of his/her nationality, the same clearance procedures apply.
+
+## Article 16
+
+A NWHR crew member of a deep sea fishing vessel shall carry the following documents for inspection by the NIA when entering or exiting the State:
+
+\1. A valid passport or vessel crew book;
+
+\2. The crew list of entry into and exit from the state.
+
+## Article 16-1
+
+With the vessel berthing the State, the NIA may board such vessel to inspect crew members who need to enter. Other means of inspection shall be performed, once any difficulties are caused by rough weather, by rough sea, or by any other causes.
+
+## Article 17
+
+In order to facilitate the visitor(s) who visit Taiwan by seafaring vessel, the shipping company or the related company shall prepare required documents and the visitor/crew list when applying for entry permission to the NIA seven days before the vessel enters the port of Taiwan. After the permission is granted, the staff of the NIA will visit the vessel to complete an investigation at the previous berthing port.
+
+## Article 18
+
+Visitor(s) who carry entry/exit permits other than a valid passport, travel documents, multiple entry permit or renewable entry permit, shall provide an entry/exit permit application receipt when NIA does an entry or exit inspection.
+
+## Article 19
+
+Visitors who enter or exit the State via the local airport or seaport which has not been designated by the Executive Yuan as an international airport or seaport, shall apply for entry/exit permission to the NIA by special permission.
+
+## Article 20
+
+Based on the purpose of entry/exit control management, the NIA may collect, use and store personal data permanently.
+
+The NIA shall assign designated personnel to be responsible for security management and protection when personal data are being processed and transferred.
+
+## Article 21
+
+Foreigners, nationals without household registration in the Taiwan area, people of the mainland China area, and Hong Kong and Macau residents shall accepted biometric identification upon entry and exit immigration inspection by the National Immigration Agency of the Ministry of the Interior
+
+The preceding paragraph shall not apply to circumstances mentioned in Article 91, paragraph 2 of Immigration Act.
+
+## Article 22
+
+When any organization (in the public or private sector) applies for personal entry/exit data from the NIA, such application shall be prepared according to related laws and regulations, with purpose and content in written form. If a public sector organization needs to regularly access personal entry/exit data, it may obtain such data from the official NIA website system with special permission from the NIA.
+
+Public and private sector organizations shall assign designated personnel to be responsible for the use and management of the data.
+
+## Article 23
+
+The party, concerned party, or the guardian of the party may apply for the personal entry/exit certificate or make inquiries for personal entry/exit record(s) to NIA.
+
+## Article 24
+
+In accordance with Article 22 and 23 of the Regulation governing immigration inspection and data collection and utilization, the personnel who apply, provide, use or manage the personal entry/exit data shall abide by the Personal Information Protection Act and others related laws and regulations.
+
+## Article 25
+
+The NIA may exchange the personal data of entry/exit passenger(s) with other states or areas. The categorization, scope, retention periods and use of the data shall abide by the laws and regulations of bilateral or multilateral agreements.
+
+## Article 26
+
+The Regulations shall come into effect as of the day of promulgation, except for provisions revised and promulgated on December 28, 2023, which shall become effective on January 1, 2024.
+
+## History
+
+1.A Total of 17 articles were promulgated by the Decree of Ministry of the interior Tai-Nei-Yi-Tzu No. 8981447 on July 15, 2000.
+
+2.A Total of 23 articles were amended and promulgated by the Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 0970900411 on July 14, 2008; effective date to be announced.
+
+The Regulation was put in effect by the Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 0971035715 on August 1, 2008.
+
+3.A Total of 5 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1000939554 on February 1, 2011.
+
+4.A Total of 4 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 1020958413 on December 19, 2013.
+
+5.A Total of 26 articles were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 10609539122 on October 23, 2017.
+
+6.Article 16-1 was promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 10909325202 on September 8, 2020.
+
+7.Article 2, 3, 4, 5, 6, 7, 8, 9 and 26 were amended and promulgated by Decree of Ministry of the Interior Tai-Nei-Yi-Tzu No. 11209134101
+
+on December 28, 2023 and shall come into effect on January 1, 2024.

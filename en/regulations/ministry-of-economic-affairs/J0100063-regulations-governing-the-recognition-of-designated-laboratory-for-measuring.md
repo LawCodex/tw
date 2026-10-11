@@ -1,0 +1,239 @@
+---
+title: "Regulations Governing the Recognition of Designated Laboratory for Measuring Instrument"
+title_zh: "度量衡器指定實驗室認可管理辦法"
+identifier: "J0100063"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞標準檢驗目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-08-13
+last_amended: 2024-04-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100063"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Recognition of Designated Laboratory for Measuring Instrument
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0100063-regulations-governing-the-recognition-of-designated-laboratory-for-measuring.md](../../../zh/regulations/ministry-of-economic-affairs/J0100063-regulations-governing-the-recognition-of-designated-laboratory-for-measuring.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 2, Article 26 of the Weights and Measures Act.
+
+## Article 2
+
+The terms used in these Regulations are defined as follows
+
+1.Laboratory: laboratory to conduct testing
+
+2.Designated laboratory: laboratory recognized by the dedicated weights and measures authority under these Regulations to conduct testing for type approval of measuring instrument.
+
+## Article 3
+
+To apply for recognition, a laboratory or the institution it affiliates to shall be one of the following:
+
+1.Government agencies (institutions) of the Republic of China;
+
+2.Domestic public or registered private colleges or higher educational institutions;
+
+3.Domestic public-interest juridical persons; or
+
+4.Other juridical persons entitled to apply for recognition and made known to the public by the dedicated weights and measures authority in reference to the international practice based on their regions, testing fields, test items, categories of measuring instrument or other requirements.
+
+## Article 4
+
+A laboratory applying for recognition shall satisfy the following requirements:
+
+1.Conforming to the following requirements:
+
+(1) General requirement: CNS 17025 or ISO/IEC 17025
+
+(2) Specific requirement: specific technical and quality management requirement for various categories of measuring instrument, which are different from the general requirement listed above.
+
+2.Having necessary testing equipment, premise, personnel and management system, and being sufficiently acquainted with the type approval technical specifications of the specific kind of measuring instruments; and
+
+3.Designating laboratory and quality management directors with the following qualifications respectively:
+
+(1) Laboratory director: graduated from science or engineering department of college or higher educational institution, having participated in relevant professional training, and having work experiences in related testing fields for two years or more;
+
+(2) Quality management director: graduated from college or higher educational institution, having participated in quality management related professional training, and having work experiences of quality management in related testing fields for two years or more.
+
+4.Designating report signatory: a report signatory shall not concurrently hold the position of quality director.
+
+The specific requirement for each kind of measuring instruments referred to in Subparagraph 1 of the preceding Paragraph shall be prescribed by the dedicated weights and measures authority.
+
+## Article 5
+
+A laboratory satisfying the qualifications and requirements set forth in the preceding two Articles may fill in an application form, and submit it enclosed with the following documents together with the assessment fee and certification fee to the dedicated weights and measures authority to apply for recognition:
+
+1.Document authentication for the qualifications set forth in Article 3;
+
+2.Quality Manual of the laboratory;
+
+3.Framework and list of quality management system documentation;
+
+4.Calibration tracing system diagram and list of the testing equipment;
+
+5.Organization chart and laboratory layout map;
+
+6.Geographic location map of the laboratory;
+
+7.Document authentication for laboratory director and quality director met conditions set forth in Subparagraph 3, Paragraph 1 of the preceding Paragraph; and
+
+8.Other documents specified by the dedicated weights and measures authority.
+
+In case the applicant referred to in the preceding Paragraph is not in the Republic of China, a representative who has any dwelling or business office in the Republic of China shall be commissioned to apply for recognition.
+
+## Article 6
+
+A laboratory that has passed the document review and on-site assessment conducted by the dedicated weights and measures authority shall be recognized in respect to the examined category and scope of measuring instrument, and granted a recognition certificate of designated laboratory.
+
+## Article 7
+
+Where any non-conformity is found in the assessment of a laboratory, the dedicated weights and measures authority should notify the laboratory to develop and submit an improvement plan within a specified time limit and apply for reexamination; in case no improvement plan is made after the time limit expires or any non-conformity is found in the reexamination, the laboratory shall not be recognized, and the certification fee shall be handed back.
+
+## Article 8
+
+The validity period of a recognition certificate of a designated laboratory is three years commencing from the date of issuance. Within six to two months prior to the expiration date of the original certificate, a designated laboratory should fill out an application form, and submit it enclosed with relevant documents, the assessment fee and certification fee to the dedicated weights and measures authority to apply for renewal. If the laboratory passes the reassessment, a renewed recognition certificate shall be issued.
+
+The validity period of a renewed recognition certificate as referred to in the preceding Paragraph is three years commencing from the day after the expiration date of the original certificate. Nonetheless, if application for renewal is filed within two months before the expiration date of the original certificate and reassessment is finished after the expiration date, the validity period of the renewed certificate is three years commencing from the date of issuance.
+
+## Article 9
+
+A designated laboratory shall perform testing work in the recognized testing field by itself. However, with the consent of the dedicated weights and measures authority, it may commission other laboratories to conduct a part of the testing work.
+
+## Article 10
+
+The dedicated weights and measures authority shall, periodically or aperiodically, assign personnel to the designated laboratories to implement surveillance activities.
+
+## Article 11
+
+Where any non-conformity is found in surveillance activities, the dedicated weights and measures authority should notify the designated laboratory to correct within thirty days and then apply for reexamination.
+
+## Article 12
+
+Under any of the following circumstances, the designated laboratory shall submit relevant documents to the dedicated weights and measures authority for reference within fifteen days commencing from the occurrence of the matter:
+
+1.Alteration of the name of the laboratory or the institution it affiliates to;
+
+2.Personnel change of quality management director; or
+
+3.Consecutive suspension of business for thirty days or longer.
+
+## Article 13
+
+Under any of the following circumstances, the designated laboratory shall submit relevant documents to the dedicated weights and measures authority to apply for reexamination within fifteen days commencing from the occurrence:
+
+1.Alteration of the institution the laboratory affiliates to;
+
+2.Alteration of the organization or management of the laboratory;
+
+3.Personnel change of laboratory director or report signatory;
+
+4.Alteration of laboratory address, environment or equipment;
+
+5.Alteration of the quality manual of the laboratory;
+
+6.Alteration of the scope of recognition; or
+
+7.Any other alteration likely to affect the capacity of the laboratory.
+
+## Article 14
+
+During the testing for type evaluation of measuring instrument, the designated laboratory shall record the test records and related technical documents in detail.
+
+The test records and related technical documents referred to in the preceding Paragraph shall be kept for ten years at least. Nonetheless, if it is otherwise prescribed in respective specification of any specific measuring instrument, such prescription shall be applied accordingly.
+
+## Article 15
+
+The dedicated weights and measures authority may request to view and examine the relevant documents of any designated laboratory, and may dispatch personnel to the designated laboratory for investigation. The designated laboratory may not evade, hinder or refuse the investigation without justifiable reasons.
+
+## Article 16
+
+Where the laboratory applying for recognition has been demonstrated compliance with the requirements set out in Paragraph 1 of Article 4 and hereby granted accreditation by the domestic accreditation body who is the signatory of the International Laboratory Accreditation Cooperation Mutual Recognition Arrangement (ILAC MRA) (hereinafter referred to as "the domestic accreditation body"), the application for recognition and management procedures may be simplified as follows:
+
+\1. Exemption from submission of the documents listed in Subparagraph 2 to Subparagraph 4, Paragraph 1 of Article 5;
+
+\2. Exemption from the on-site assessment set forth in Article 6;
+
+\3. Exemption from re-assessment for extension of recognition certificate in accordance with the provision of Article 8; and
+
+\4. Exemption from the surveillance activities set forth in Article 10.
+
+Where recognition of the designated laboratory is granted in accordance with the preceding Paragraph, the validity period of recognition is the same as the validity period of accreditation mentioned in the preceding Paragraph. For extension and renewal of certificate in accordance with Article 8, the validity period of recognition is also the same.
+
+Where the designated laboratories that have been granted recognition by the dedicated weights and measures authority separately apply for demonstrating compliance with the requirements set out in Paragraph 1 of Article 4 and are hereby granted accreditation by the domestic accreditation body, the simplified procedures set out in Subparagraph 3 and Subparagraph 4 of the first Paragraph may be applicable. The validity period set out in the preceding Paragraph may also be applicable.
+
+## Article 17
+
+Under any of the following circumstances, the dedicated weights and measures authority may temporarily deprive a designated laboratory of the right to sign test report in the name of designated laboratory in the recognized category of measuring instrument; and recover the right after it is confirmed through reexamination that improvement has been made within the specified time limit:
+
+1.Where the designated laboratory does not apply for reexamination in accordance with the provision of Article 11;
+
+2.Where any non-conformity that is not likely to cause test failure or only happens by chance is found in the reexamination conducted under Article 11;
+
+3.Where the designated laboratory does not submit the relevant documents to the dedicated weights and measures authority for reference as prescribed in Article 12;
+
+4.Where the designated laboratory does not apply for reexamination in accordance with the provision of Article 13;
+
+5.Where the designated laboratory refuses or fails to provide requested data without justifiable reasons shown or within a given time limit;
+
+6.Where the designated laboratory does not cooperate to take necessary measures and arrangements for the dedicated weights and measures authority to conduct surveillance activities, appeals, complaints or disputes after the authority has given a notice to the laboratory; or
+
+7.Where the recognition is terminated by the domestic accreditation body.
+
+Where a designated laboratory violates the provision set forth in Article 15 to evading, hindering or refusal of investigation, the dedicated weights and measures authority may temporarily deprive the laboratory of the right to sign test reports in the name of a designated laboratory in its recognized category of measuring instrument within a certain period.
+
+## Article 18
+
+Where it is found that a designated laboratory acquires its recognition by ways of fraud, the dedicated weights and measures authority shall revoke the recognition, and notify the original applicant or his/her successor to hand back the recognition certificate within a specified time limit; in case that the certificate is not handed back in the specified time limit, the dedicated weights and measures authority shall directly issue a public notice to write it off.
+
+## Article 19
+
+Under any of the following circumstances, the dedicated weights and measures authority should abolish the recognition of a designated laboratory:
+
+1.Where the laboratory applies for abolishment on its own initiative;
+
+2.Where any non-conformity that is likely to cause test failure or significantly reduce performance is found in the reexamination conducted under Article 11;
+
+3.Where any false statement is found in test records or related technical documents;
+
+4.Where the laboratory loses the ability to operate or can not justly and effectively conduct testing activities;
+
+5.Where the laboratory signs a test report in the name of designated laboratory beyond the scope of recognition or after it is deprived of this right under Article 17.
+
+6.Where the laboratory does not finish improvement and pass the reexamination conducted by the dedicated weights and measures authority within the time limit specified in Paragraph 1 of Article 17;
+
+7.Where the laboratory does not pay the fees according to the relevant provisions within a given time limit after notified by the dedicated weights and measures authority;
+
+8.Where the accreditation is abolished or canceled by the domestic accreditation body; or
+
+9.Other violations of the provisions set forth in these Regulations, which are deemed serious by the dedicated weights and measures authority.
+
+## Article 20
+
+After the recognition of a laboratory is revoked or abolished, no application shall be filed by the same or a similar laboratory to apply for recognition of designated laboratory for the same measuring instrument within three years, unless in a circumstance as prescribed in Subparagraph 1 of the preceding Article or other special circumstances approved by the dedicated weights and measures authority.
+
+## Article 21
+
+A laboratory that has been recognized by the dedicated weights and measures authority through an international cooperation or a mutual recognition agreement shall be deemed as a designated laboratory.
+
+## Article 22
+
+(Deleted)
+
+## Article 23
+
+These Regulations shall come into force from the date of promulgation.
+
+## History
+
+1.23 Articles adopted and promulgated by Ministerial Order on 13 August 2003.
+
+2.Articles 16, 17, 19 amended and promulgated and Article 22 deleted by Ministerial Order on 18 November 2021.
+
+3.Articles 16, 20 amended and promulgated by Ministerial Order on 25 April 2024.

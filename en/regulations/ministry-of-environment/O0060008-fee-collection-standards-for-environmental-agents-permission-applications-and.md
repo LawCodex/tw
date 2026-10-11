@@ -1,0 +1,85 @@
+---
+title: "Fee Collection Standards for Environmental Agents Permission Applications and Testing"
+title_zh: "環境用藥各項許可申請及檢驗收費標準"
+identifier: "O0060008"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞化學物質管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-01-17
+last_amended: 2026-02-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060008"
+retrieved: 2026-10-12
+---
+
+# Fee Collection Standards for Environmental Agents Permission Applications and Testing
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0060008-fee-collection-standards-for-environmental-agents-permission-applications-and.md](../../../zh/regulations/ministry-of-environment/O0060008-fee-collection-standards-for-environmental-agents-permission-applications-and.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Article 56 of the Environmental Agents Control Act (herein referred to as this Act).
+
+## Article 2
+
+For the acceptance of applications based on the Standards, the competent authority shall collect review fees and testing fees in accordance with the following regulations.
+
+I.NT$8,000 shall be charged for each new application for an environmental agent import or manufacturing permit. NT$3,300 shall be charged for each application for amendment, extension, replacement, or reissuance.
+
+II.NT$3,300 shall be charged for each application for contract formulation, repackaging, or compounding of environmental agents.
+
+III.NT$2,600 shall be charged for each application for approval or extension of natural substance products for environmental pest repellents, rodent repellents, or luring purposes.
+
+IV.NT$500 shall be charged for each application for approval of samples for registration.
+
+V.NT$3,300 shall be charged for each new application for an environmental agent vendor license or pest control operator license. NT$1,500 shall be charged for each application for amendment, replacement, or reissuance.
+
+VI.NT$8,000 shall be charged for each test of inorganic environmental sanitation agents.
+
+VII.NT$9,600 shall be charged for each test of organic environmental sanitation agents. An additional NT$2,000 shall be charged for each additional test item.
+
+VIII.NT$32,400 shall be charged for each test of dioxin in mosquito coils used as environmental sanitation agents.
+
+A review fee of NT$500 shall be charged for any amendment to the operator name, address, or person-in-charge of a permit or license. However, if an application for permit extension, amendment, or contract formulation, repackaging, or compounding is submitted simultaneously, the highest applicable review fee among those submitted shall be charged.
+
+A review fee of NT$500 shall be charged for any amendment to the approved contents of a natural substance product approval document. However, if an application for extension of the approval document and amendment of the approved contents is submitted simultaneously, only the extension review fee shall be charged.
+
+The review fee due to amendments solely to official address renumbering as described in the preceding two paragraphs shall be exempt.
+
+## Article 3
+
+The competent authority shall collect a license fee of NT$1,000 when issuing,reissuing, or renewing environmental agent import or manufacturing permits, environmental agent vendor licenses, pest control operator licenses, and environmental agent professional technician qualification certificates in accordance with this Act.
+
+## Article 4
+
+Where the competent authority accepts the application of Customs Import Tariff reduction for technical grade environmental agents, NT$600 shall be collected for each case as review fees.
+
+The competent authority shall collect certificate fees of NT$200 for the issuance of each environmental agent certificate.
+
+## Article 5
+
+For those circumstances in which permits, licenses or certificates are renewed due to the modification of the format of competent authority certificates, permit, license or certificate fees are not required to be collected.
+
+## Article 6
+
+With the exception of those circumstances in which there is a mistaken payment or overpayment that is to be handled pursuant to the Charges and Fees Act, applications for refunds may not be accepted for any reason after the payment of fees designated in these Standards.
+
+## Article 7
+
+These Standards shall take effect on the date of promulgation.The amendments to these Standards promulgated on February 3, 2026 shall enter into force on March 1, 2026, except for Subparagraph 3 of Paragraph 1 and Paragraph 3 of Article 2, which shall enter into force on January 1, 2027.
+
+## History
+
+1.Promulgated by Environmental Protection Administration order on January 17, 2005.
+
+2.Revisions to Articles 1 and 2 promulgated by Environmental Protection Administration order on June 29, 2006.
+
+3.Revisions to Articles 2 and 3 promulgated by Environmental Protection Administration order on September 17, 2010.
+
+4.Revisions to Articles 2 and 4 promulgated by Environmental Protection Administration order on October 17, 2018.
+
+5.Revisions to Articles 2 and 7 promulgated by the Ministry of Environment order on February 3, 2026.

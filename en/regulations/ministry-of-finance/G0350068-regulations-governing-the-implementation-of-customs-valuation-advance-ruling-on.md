@@ -1,0 +1,105 @@
+---
+title: "Regulations Governing the Implementation of Customs Valuation Advance Ruling on Imported Goods"
+title_zh: "進口貨物估價預先審核實施辦法"
+identifier: "G0350068"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2010-09-01
+last_amended: 2026-01-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350068"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Implementation of Customs Valuation Advance Ruling on Imported Goods
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350068-regulations-governing-the-implementation-of-customs-valuation-advance-ruling-on.md](../../../zh/regulations/ministry-of-finance/G0350068-regulations-governing-the-implementation-of-customs-valuation-advance-ruling-on.md)) is authoritative.
+
+## Article 1
+
+The Regulations herein are prescribed pursuant to Paragraph 4 of Article 36-1 of the Customs Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+An advance ruling on customs valuation on imported goods referred in these Regulations shall mean that the duty-payer or the duty-payer’s agent (hereinafter “the Applicant”) may apply to Customs Administration, Ministry of Finance (hereinafter “Customs Administration”), prior to importation, for an advance ruling on customs valuation related to whether the expenses paid or payable for the imported goods under Paragraph 3 of Article 29 of the Act or other expenses should be added into the calculation of customs value.
+
+## Article 3
+
+Customs Administration may appoint its field offices to conduct the advance ruling on customs valuation.
+
+## Article 4
+
+Upon application for an advance ruling on customs valuation, an application form shall be filled out, and submitted along with contracts of sale, commercial invoice, letter of credit, proof of payment, and other required documents to Customs Administration.
+
+## Article 5
+
+An applicant submitting incomplete documents for an advance ruling on customs valuation shall supplement such document(s) within thirty days from the day following the date of receiving the written notice issued by Customs Administration.
+
+## Article 6
+
+Customs Administration shall not accept the application for an advance ruling on customs valuation and will notify the Applicant in written form if any of the following occurs:
+
+\1. The Applicant fails to supplement the documents within the time limit as stipulated above;
+
+\2. The trade is hypothetical or will not be materialized within one year;
+
+\3. Goods of concern in the advance ruling application are identical or similar to the goods in dispute and are undergoing administrative remedy procedure;
+
+\4. Critical information provided by the Applicant has been proven to be incorrect or falsified; or
+
+\5. The Application is determined unqualified for an advance ruling on customs valuation by Customs Administration.
+
+## Article 7
+
+Customs Administration shall reply in writing to the Applicant within forty-five days from the day following the date of receiving the application for an advance ruling on customs valuation or the supplemental documents mentioned in Article 5 submitted by the Applicant. When necessary, such period may be extended to no more than ninety days if Customs needs to consult the opinions of international or domestic institutes or experts; Customs shall inform the Applicant in writing of the reasons for its extension before the original deadline.
+
+## Article 8
+
+The Applicant may apply to Customs Administration for a review prior to the importation of the goods, if he or she is dissatisfied with the advance ruling issued according to the above Article.
+
+Customs Administration shall reply to the Applicant regarding the result of the review within twenty days from the day following the date of receiving the said application for the review.
+
+If the Applicant is dissatisfied with the result of the review, the Applicant may follow administrative remedy procedure in accordance with the Act after the goods in question have been imported and the customs value has been determined by Customs.
+
+## Article 9
+
+The result of an advance ruling shall be valid for three years, starting from the issuance date of the notice of the said result to the Applicant, unless otherwise modified by Customs Administration.
+
+## Article 10
+
+Customs Administration may modify the result of advance ruling and notify the concerned Applicant with explanation in written form if any of the following occurs:
+
+\1. The Applicant has provided incorrect or incomplete information to the extent that it has altered the result of advance ruling;
+
+\2. Regulations concerning the customs value have changed to the extent the result of advance ruling becomes invalid;
+
+\3. Conditions or facts used as the basis for the arriving at the result of advance ruling have changed; or
+
+\4. Any other significant error that Customs Administration deems necessary to modify the said result.
+
+After receiving the decision related to the change in the ruling, the Applicant may apply to Customs Administration for an extension of the period of the validity of the ruling, provided the Applicant is able to prove that a contract has been entered into, the transaction has been conducted according to the contract, and the change in the ruling will cause loss. However, such an extension shall not exceed ninety days following the date of receiving the written decision.
+
+The modified result of advance ruling shall be valid for three years starting from the issuance date of the written decision of the said result, unless otherwise further modified by Customs Administration.
+
+## Article 11
+
+Importers whose goods have been reviewed for an advance ruling on customs valuation shall specify that such goods have been processed for custom clearance by documents review or goods inspection, and present a photocopy of the reply letter when the goods in question arrive at the competent Customs Office for inspection by Customs at destination. The competent Customs Office may demand the said reply letter if necessary even if the goods in question do not require examination or inspection.
+
+The competent Customs Office shall determine the customs valuation of the goods in question according to the result of the advance ruling if the terms and conditions of trade, facts, and content of the goods that have arrived at Customs are identical to the goods that have been reviewed in their respective advance ruling. However, this is not applicable if the Applicant has provided incorrect or false information that has affected the result of the advance ruling.
+
+## Article 12
+
+These Regulations shall take effect from the date of promulgation.
+
+## History
+
+\1. Promulgated on September 1, 2010.
+
+\2. Amended on June 1, 2017.
+
+\3. Amended on January 23, 2026.

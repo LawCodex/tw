@@ -1,0 +1,265 @@
+---
+title: "Enforcement Rules of the Act Governing Food Safety and Sanitation"
+title_zh: "食品安全衛生管理法施行細則"
+identifier: "L0040003"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1981-11-20
+last_amended: 2017-07-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040003"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Act Governing Food Safety and Sanitation
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0040003-enforcement-rules-of-the-act-governing-food-safety-and-sanitation.md](../../../zh/regulations/ministry-of-health-and-welfare/L0040003-enforcement-rules-of-the-act-governing-food-safety-and-sanitation.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are prescribed in accordance with the provisions of Article 59 of the Act Governing Food Safety and Sanitation (hereinafter referred to as “this Act”).
+
+## Article 2
+
+The term “infant and follow-up formula” prescribed in Subparagraph 2 of Article 3 of this Act shall include infant formula, follow-up infant formula and infant formula for special medical purposes.
+
+## Article 3
+
+The term “approval number granted by the central competent authority” referred to in Subparagraph 3 of Article 3 of this Act shall mean one of the following circumstances:
+
+\1. The registration number and product registration code obtained from the completion of registration under Paragraph 3 of Article 8 of this Act.
+
+\2. The code prescribed in the Standards for Scope, Application and Limitation of Food Additives of the Appendix 1 of the Standards for Specification, Scope, Application and Limitation of Food Additives under Article 18 of this Act.
+
+\3. The registration approval number obtained in accordance with Paragraph 1 of Article 21 of this Act.
+
+## Article 4
+
+The term “sanitation and safety management systems” referred to in Paragraph 5 of Article 8 of this Act shall mean Regulations on Good Hygiene Practice for Food or the Regulations on Food Safety Control System as stated in Paragraph 1 or 2 of Article 8 of this Act.
+
+## Article 5
+
+The term “toxic” referred to in Subparagraph 3 of Paragraph 1 of Article 15 of this Act shall mean foods or food additives which contain natural toxins or chemicals and the ingredients or contents of which are harmful to human health or may pose a risk of harm to human health.
+
+## Article 6
+
+The term “contaminated by pathogenic organisms” referred to in Subparagraph 4 of Paragraph 1 of Article 15 of this Act shall mean foods or food additives contaminated by pathogenic organisms, or toxins derived from said pathogenic organisms,which are harmful to human health or may pose a risk of harm to human health.
+
+## Article 7
+
+The labeling for the product names prescribed in Subparagraph 1 of Paragraph 1 of Article 22 and Paragraph 1 of Article 25 of this Act shall be handled in accordance with the following provisions:
+
+1.The product names shall conform to the nature thereof.
+
+2.Where names are prescribed by the central competent authority, such names shall be used. Where no such names are prescribed, names may be designated in accordance with the National Standards of the Republic of China (CNS) or may be self-designated.
+
+## Article 8
+
+The net weight and volume prescribed in Subparagraph 3 of Paragraph 1 of Article 22 of this Act shall be labeled using the legal units of measurement or their symbols and shall be handled in accordance with the following provisions:
+
+1.Those ingredients that are a mixture of liquid and solid materials shall indicate their respective contents; whereas those ingredients which are a homogeneous mixture that are hard to separate may merely indicate the net weight thereof.
+
+2.Depending on the nature of the foods, the contents may be indicated as minimum quantity, maximum quantity, or both the minimum and maximum quantities.
+
+## Article 9
+
+The name of food additives prescribed in Subparagraph 4 of Paragraph 1 of Article 22 of this Act shall be labeled in accordance with the food additive items prescribed in the Standards for Scope,Application and Limitation of Food Additives of the Appendix 1 of the Standards for Specification, Scope, Application and Limitation of Food Additives or the names commonly known by society, and shall be handled in accordance with the following provisions:
+
+\1. Sweeteners, preservatives, and antioxidants shall be labeled in conjunction with their functional class names.
+
+\2. Food additive combinations shall indicate the name of each material.
+
+Food additives present in food due to the legal use of ingredients, are present at levels significantly lower than those required for direct addition, and serve no function in the final product, may be exempt from labeling.
+
+## Article 10
+
+The term “manufacturer” referred to in Subparagraph 5 of Paragraph 1 of Article 22 and Subparagraph 5 of Paragraph 1 of Article 24 of this Act shall mean one of the following circumstances:
+
+\1. Those businesses that manufacture, process or prepare the final products.
+
+\2. Those businesses that are entrusted to manufacture, process or prepare products.
+
+\3. For those products made through the repacking process such as sub packaging, cutting, assembling or combining, and that are sufficient to affect the sanitation and safety of the product, the repacking factory or businesses referred to in the two previous subparagraphs.
+
+The labeling of the manufacturers referred to in the preceding paragraphs shall be handled in accordance with the following provisions:
+
+\1. Name and address of the manufacturer of imported foods or food additives shall be labeled in Chinese. For those names that are hard to recognize in Chinese, they may be labeled in commonly known characters or symbols.
+
+\2. Where the foods or food additives are manufactured by the factory belonging to the same company and registered under the same country, the labeling of the manufacturer can be either the head company or the manufacturing factory. The name, address and telephone number shall be labeled as of the head company or factory; when the registered place of the factory is different from that of the company’s, the manufacturing factory that engaged in the actual manufacturing process shall be on the label.
+
+\3. The repacking factory referred to in the preceding Subparagraph 3 shall be labeled as “repacking manufacturer.”
+
+## Article 11
+
+The term “responsible domestic company” referred to in Subparagraph 5 of Paragraph 1 of Article 22, Subparagraph 5 of Paragraph 1 of Article 24, Subparagraph 4 of Article 26 and Subparagraph 4 of Article 27 of this Act shall mean food business operators that bear direct legal responsibility for the products within the domestic market.
+
+The name, telephone number and address of the manufacturer or that of the responsible domestic company of the imported foods or food additives referred to in Subparagraph 5 of Paragraph 1 of Article 22 and Subparagraph 5 of Paragraph 1 of Article 24 shall mean the labeling of the name, telephone number and address of the responsible domestic company and the names, telephone number and address of the foreign manufacturer may also be labeled in addition. For those foods or food additives manufactured domestically, the labeling thereof shall be either the name, telephone number and address of the manufacturer or that of the responsible domestic company or both.
+
+## Article 12
+
+The term “country of origin” referred to in Subparagraph 6 of Paragraph 1 of Article 22 of this Act shall mean the country or region where the final products are manufactured, processed or prepared.
+
+The labeling of the country of origin referred to in the preceding paragraph shall be handled in accordance with the following provisions:
+
+\1. The country of origin of imported food shall be determined in accordance with the Regulations Governing the Determination of Country of Origin of Imported Goods.
+
+\2. Where the food product is not an assorted product of substantial transformation based on the Regulations Governing the Determination of Country of Origin of Imported Goods, the labeling of which shall be the respective country of origin based on the volume of contents it possesses.
+
+\3. Where the address of the manufacturer in Chinese can obviously represent the country of origin, the labeling may be exempted.
+
+## Article 13
+
+The labeling of the expiry date prescribed in Subparagraph 7 of Paragraph 1 of Article 22 of this Act shall be printed on the container or external packaging and the year, month and day shall be clearly indicated in a customary and legible manner. However,for products with a shelf life of more than three months, the expiry date may be indicated by year and month only, with the last day of that month deemed as the expiry date.
+
+## Article 14
+
+Where the product names prescribed in Subparagraph 1 of Paragraph 1 of Article 24 of this Act is for a single food additive, it shall be labeled in accordance with the food additive items prescribed in the Standards for Scope, Application and Limitation of Food additives of the Appendix 1 of the Standards for Specification, Scope, Application and Limitation of Food Additives or the names commonly known prescribed by the central competent authority in a public announcement; whereas when the product name is for food additive combinations, the names may be self-designated.
+
+A product name that is self-designated in accordance with the preceding paragraph shall adequately reflect the nature or function of the product.
+
+A food additive that was reviewed and registered with the central competent authority and received a permit document prior to the amendment of these Enforcement Rules on July 13, 2017,and whose product name does not comply with the two preceding paragraphs, shall apply for a change of product name in accordance with Paragraph 1 of Article 21 of this Act before July 1, 2018. The changed product name shall be labeled on the container or external packaging for products manufactured on or after January 1, 2019.
+
+## Article 15
+
+The food additive names prescribed in Subparagraph 3 of Paragraph 1 of Article 24 shall be labeled in accordance with the food additive items prescribed in the Standards for Scope,Application and Limitation of Food Additives of the Appendix 1 of the Standards for Specification, Scope, Application and Limitation of Food Additives or the names commonly known prescribed by the central competent authority in a public announcement.
+
+## Article 16
+
+The net weight and volume prescribed in Subparagraph 4 of Paragraph 1 of Article 24 of this Act shall be labeled using the legal units of measurement or their symbols.
+
+## Article 17
+
+The labeling of the expiry date prescribed in Subparagraph 6 of Paragraph 1 of Article 24 of this Act shall be printed on the container or external packaging and the year, month and day shall be clearly indicated in a customary and legible manner. However,for products with a shelf life of more than three months, the expiry date may be indicated by year and month only, with the last day of that month deemed as the expiry date.
+
+## Article 18
+
+The term “country of origin” referred to in Subparagraph 8 of Paragraph 1 of Article 24 of this Act shall mean the country or region where the final products are manufactured, processed or prepared.
+
+The labeling of the country of origin referred to in the preceding paragraph shall be handled in accordance with the following provisions:
+
+1.The country of origin of imported food additives shall be determined in accordance with the Regulations Governing the Determination of Country of Origin of Imported Goods.If the products undergo classification, grading,sub-packaging, packaging, marking, or relabeling in our country, such operations shall not be determined as substantial transformation, and the country or region where the final products are actually manufactured, processed or prepared shall still be indicated.
+
+2.Where the address of the manufacturer in Chinese can obviously represent the country of origin, the labeling may be exempted.
+
+## Article 19
+
+The labeling of pre-packaged foods, food raw materials, food additives and their raw materials shall be handled in accordance with the following provisions:
+
+1.The length and width of the characters on the label shall not be less than two millimeters. However, where the area of the largest surface of a package is less than 80 square centimeters, characters for items other than the product name, company name, and expiry date, may be less than two millimeters.
+
+2.For domestically manufactured products, where labeling includes foreign languages, Chinese shall be the primary language, and any foreign language shall be supplementary.
+
+3.For imported products, a Chinese label shall be added in accordance with the provisions of Articles 22 and 24 of this Act before they may be imported. However, for products that require repackaging, sub-packaging, or other processing procedures, such products shall label the product name,company name, and date, or have other labels or information for proof of the authenticity of the items at the time of importation, and the labeling in Chinese shall be completed prior to sale.
+
+## Article 20
+
+The term “bulk foods” referred to in Paragraph 1 of Article 25 of this Act shall mean products sold without packaging, or with packaging but meet one of the following circumstances:
+
+1.Do not have unpackaged identifiability.
+
+2.Do not extend the shelf life.
+
+3.Are not sealed.
+
+4.Are not packaged for the purpose of expanding the scope of distribution.
+
+## Article 21
+
+The food utensils, food containers or packages prescribed in Article 26 of this Act shall be labeled in accordance with the following provisions:
+
+1.The position of labels: labels shall be printed, typed,embossed, or affixed on the package or object of the smallest unit of the vending products. The labeled content shall be clearly visible at the time of distribution and marketing. For those products prescribed by the central competent authority,the name of materials and thermal resistance temperature of its major part shall be printed, typed, or embossed on the object.
+
+2.The method of labeling: if the labeling is made by way of printing or typing, the ink shall be resistant to fading and shall not peel off.
+
+3.Labeling of date: the labeling of the date shall consist of the year, month, and day, or the year and month, and shall be clearly indicated in a customary and legible manner. Where the date is indicated by the year and month only, the last day of that month shall be deemed as the expiry date or the end of the shelf life.
+
+\4. Font of labelling: the length and width of the characters marked on the labels shall not be less than two millimeters.
+
+## Article 22
+
+The labeling of food cleansers shall be handled in accordance with the following provisions:
+
+1.The position of labels: labels shall be printed, typed,embossed, or affixed on the package of the smallest unit of the vending products. The labeled content shall be clearly visible at the time of distribution and marketing.
+
+2.The method of labeling: if the labeling is made by way of printing or typing, the ink shall be resistant to fading and shall not peel off.
+
+3.Labeling of date: the labeling of the date shall consist of the year, month, and day, or the year and month, and shall be clearly indicated in a customary and legible manner. Where the date is indicated by the year and month only, the last day of that month shall be deemed as the expiry date or the end of the shelf life.
+
+4.Font of labelling: the length and width of the characters marked on the labels shall not be less than two millimeters.
+
+5.For imported products, a Chinese label shall be added in accordance with the provisions of Articles 27 of this Act before they may be imported. However, for products that require repackaging, sub-packaging, or other processing procedures, such products shall label the product name,company name, and date, or have other labels or information for proof of the authenticity of the items at the time of importation, and the labeling in Chinese shall be completed prior to sale.
+
+## Article 23
+
+The product name prescribed in Subparagraph 1 of Article 26 and Subparagraph 1 of Article 27 of this Act shall conform to the nature thereof.
+
+## Article 24
+
+The net weight and volume prescribed in Subparagraph 3 of Article 26 and Subparagraph 3 of Article 27 of this Act shall be labeled using the legal units of measurement or their symbols.
+
+## Article 25
+
+The term “country of origin” referred to in Subparagraph 5 of Article 26 and Subparagraph 5 of Article 27 of this Act shall mean the country or region where the final products are manufactured,processed or prepared.
+
+The labeling of the country of origin referred to in the preceding paragraph shall be handled in accordance with the following provisions:
+
+1.The country of origin of imported goods shall be determined in accordance with the Regulations Governing the Determination of Country of Origin of Imported Goods. If the products undergo classification, grading, sub-packaging, packaging,marking, or relabeling in our country, such operations shall not be determined as substantial transformation, and the country or region where the final products are actually manufactured,processed or prepared shall still be indicated.
+
+2.Where the address of the manufacturer in Chinese can obviously represent the country of origin, the labeling may be exempted.
+
+## Article 26
+
+The terms “main ingredients” or “ingredients” referred to in Subparagraph 2 of Article 27 of this Act shall mean the ingredients in food cleansers that serve the purposes of disinfection or cleaning.
+
+## Article 27
+
+Where foods, food additives, food utensils, food containers,packaging, or food cleansers are exclusively for export, the labeling requirements under Articles 22, 24, 26, and 27 of this Act may be exempted.
+
+## Article 28
+
+The method of test, testing unit and the evidence used in interpreting the results prescribed in Article 40 of this Act, with the content as follows:
+
+1.Method of test: including the basis of the method adopted,experiment procedure, instruments and equipment for the test and standard materials.
+
+2.Testing unit: including the name, address, contact information and responsible person of the laboratory.
+
+3.Evidence used in interpreting the results: including the sampling method of the specimens, product names, source,packaging, batch number or manufacturing date or expiry date, final experimental data, interpretation standards and their source or scientific basis thereof.
+
+## Article 29
+
+Where foods, food additives, food utensils, food containers,food packages or food cleansers are confiscated and destroyed, or are ordered to undergo disinfection, reconditioning, or other safety measures within a prescribed period in accordance with Subparagraphs 1 to 3 of Paragraph 1 of Article 52 of this Act, the scope of such actions shall extend to products with the same expiry date or batch number. For products without marked expiry dates or batch numbers that cannot be identified, the scope shall extend to all such products. Products of unknown origin that cannot be subjected to disinfection, reconditioning, or other safety measures due to lack of traceability shall be confiscated and destroyed.
+
+## Article 30
+
+To fulfill documentary proof requirements, persons engaged in exporting foods, food additives, food utensils or food containers may apply to the competent authority for analysis or inspection.
+
+Upon compliance with regulations, they shall be issued an export proof document, such as a sanitary certificate, test report, or certificate of free sales and manufacture.
+
+## Article 31
+
+Other than Article 22 is implemented one year after promulgation, these Enforcement Rules shall be implemented as of its being promulgated.
+
+## History
+
+1.Promulgated on November 20, 1981.
+
+2.Amended and Promulgated on December 20, 1985.
+
+3.Amended and Promulgated on September 7, 1994.
+
+4.Amended and Promulgated on May 15, 2000.
+
+5.Amended and Promulgated on May 3, 2001.
+
+6.Amended and Promulgated on June 12, 2002.
+
+7.Amended and Promulgated on April 1, 2009.
+
+8.Amended and Promulgated on August 13, 2014.
+
+9.Amended and Promulgated on July 13, 2017.

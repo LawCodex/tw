@@ -1,0 +1,113 @@
+---
+title: "Standards for Co-firing Ratios, Components, and Control Facilities for Fuel Used in Stationary Pollution Sources"
+title_zh: "公私場所固定污染源燃料混燒比例成分及防制設施管制標準"
+identifier: "O0020124"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-03-23
+last_amended: 2025-01-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020124"
+retrieved: 2026-10-12
+---
+
+# Standards for Co-firing Ratios, Components, and Control Facilities for Fuel Used in Stationary Pollution Sources
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020124-standards-for-co-firing-ratios-components-and-control-facilities-for-fuel-used.md](../../../zh/regulations/ministry-of-environment/O0020124-standards-for-co-firing-ratios-components-and-control-facilities-for-fuel-used.md)) is authoritative.
+
+## Article 1
+
+The Standards are established pursuant to Article 23, Paragraph 2 and Article 28, Paragraph 2 of the Air Pollution Control Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The Standards shall be applicable to the use of bituminous coal and other fuels and auxiliary fuels designated and announced by the central competent authority pursuant to Article 28 paragraph 1 of the Act, for stationary pollution sources in public or private premises.
+
+## Article 3
+
+The terms and definitions used in the Standards:
+
+I. “Bituminous coal” refers to coal not refined with fixed carbon and a volatile content with a ratio of less than 4.
+
+II. “Fuels” include bituminous coal and fuels designated and announced by the central competent authority pursuant to Article 28, Paragraph 1 of the Act for the purpose of providing energy.
+
+III. “Auxiliary fuels” refer to fuels reclaimed from solid waste or materials from direct reuse of solid and liquid waste, which are designated, approved or reused by the central competent authority or the competent authority of the relevant industry, co-fired for the purpose of providing energy.
+
+IV. “Fuel oil” refers to petroleum products that comply with national standards and processed oil made from animal or plant oil, waste edible oil, waste, or other oil products that have been recycled and reused in accordance with environmental protection laws and regulations, for the purpose of providing energy.
+
+V. “Petroleum coke” refers to the heavy oil produced in petroleum refining, which has been coked with or without calcining.
+
+VI. “Solid Biofuels” refers to agricultural and forestry plants, bagasse, wood, and their residues without chemical treatment, bonding, or surface coating processes that are used as fuel, auxiliary fuel, or fuel raw materials.
+
+VII. Solid recovered fuel (SRF): Refers to fuels that comply with the SRF guidelines for reviewing industrial waste management plans set by the central competent authority, including the attached SRF manufacturing technical guidelines and quality specifications and other relevant regulations regarding using combustible waste, auxiliary fuel, or raw (material) as fuel. The waste is categorized into Type 1 SRF and Type 2 SRF based on its composition.
+
+VIII. Waste derived fuels: Refers to fuels that comply with the industrial waste reuse regulations announced by the central competent authority or the central competent authority of the relevant industry, approved by the municipal or county (city) competent authority, or reused in-plant. They can be used as fuel, auxiliary fuel, or raw (material) fuel and do not include solid biofuels or SRF.
+
+IX. Total heat value: Also known as the higher heating value, it refers to the amount of heat produced by burning a specified quantity of solid or liquid fuel in a constant volume chamber, with the moisture in the fuel remaining in a liquid state during combustion.
+
+X. Net heat value: Also known as the lower heating value, it refers to the amount of heat produced by burning a specified quantity of solid or liquid fuel under constant pressure in one atmosphere, with the moisture generated during combustion remaining in a vapor state. The calculation shall be made by subtracting the heat value associated with the vaporization of water from the higher heating value.
+
+XI. “Dried basis” refers to the test specimen based on the anhydrous state to arrive at an analysis result.
+
+XII. “Air-dried basis” refers to the test specimen based on measurement after it is air dried to arrive at an analysis result.
+
+XIII. As derived: Refers to the expression of the sample analysis results based on the moisture condition present at the time the sample was received, also known as the as-received moisture basis.
+
+XIV. “Co-firing” refers to the situation of burning solid biomass fuel, SRF, waste-derived fuels, or burning more than two kinds of fuel simultaneously, which include one or more solid biomass fuel, SRF, or waste derived fuel.
+
+XV. Newly installed stationary pollution sources: Pollution sources installed after January 4, 2025.
+
+XVI. Refers to pollution sources that have been completed, are under construction, have completed the engineering bidding process, or have signed engineering construction contracts without the bidding process before January 3, 2025. Among these, those identified as stationary pollution sources in Article 24, Paragraph 1 of the Act shall be limited to sources that have obtained an operating permit for stationary pollution sources issued by the reviewing authority. However, existing pollution sources that meet the modification conditions specified in Article 4 of the Stationary Pollution Source Installation, Operating, and Fuel Use Permit Management Regulations Amended Clauses will be considered new pollution sources.
+
+## Article 4
+
+The use of bituminous coal, fuel oil, petroleum coke, solid biofuels, SRF, and waste-derived fuel on public and private premises shall conform to the standards specified in the attached table.
+
+## Article 5
+
+The co-firing ratio calculation formula for public or private premises using co-firing with solid biofuels, SRF, or waste-derived fuel for stationary pollution sources is as follows:
+
+Xi: The co-firing ratio of solid biofuels, SRF, or waste-derived fuel (wt%).
+
+Wi: The weight of solid biofuels, SRF, or waste-derived fuel per unit time.
+
+W: The total weight of fuel per unit time.
+
+## Article 6
+
+Public or private premises with stationary pollution sources from using SRF or waste-derived fuel must have facilities that comply with the provisions of Table 2 and implement control measures based on the types of air pollutants emitted.
+
+For existing pollution sources that do not meet the preceding requirements, the operator shall submit an air pollution control plan to the municipal or county (city) competent authority by April 1, 2025. The plan shall include the types of fuel systems, types of air pollution control facilities, structure, performance, process, design drawings, installation costs, and schedule. The operator shall apply for and obtain approval for an improvement deadline and complete the improvements prior to the deadline.
+
+For existing pollution sources that fail to complete improvements within the improvement deadline, the public or private premises may submit proof and related documents to the municipal or county (city) competent authority to apply for an extension of the improvement deadline or to modify the improvement plan within one to three months prior to the deadline.
+
+The improvement deadlines specified in the preceding two paragraphs shall not extend beyond January 1, 2030.
+
+For public or private premises that seek approval for the improvement deadline as specified in Paragraph 2, if the review by the municipal or county (city) authority results in a delay beyond the effective date of the Standards, the existing pollution source shall not be subject to the provisions outlined in Table 2 until a decision of approval or rejection is made.
+
+## Article 7
+
+Fuels are to be sampled and tested in accordance with the regulations of the central competent authority.
+
+Detailed records are to be made of the actual operation of each fuel used in public or private premises, and they are to be kept for six years for future reference.
+
+## Article 8
+
+The Standards shall enter into effect on the date of promulgation, unless otherwise specified.
+
+## Attachments
+
+- [Table 1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008952)
+- [Table 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008953)
+- [Article 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008954)
+
+## History
+
+1.Full text promulgated by the Environmental Protection Administration Order Huan-Shu-Kong-Tzu No.1090020262 on March 23, 2020.
+
+2.Amended full text determined and promulgated in 8 articles by Minstry of Environment Order Huan-Shu-Kong-Zi No. 1131084890 on January 1, 2025.

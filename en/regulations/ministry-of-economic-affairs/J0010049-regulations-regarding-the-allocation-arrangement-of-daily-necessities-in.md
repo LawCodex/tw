@@ -1,0 +1,195 @@
+---
+title: "Regulations Regarding the Allocation Arrangement of Daily Necessities in Shortage Period"
+title_zh: "民生必需品短缺時期配給配售辦法"
+identifier: "J0010049"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞國營事業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-08-21
+last_amended: 2024-08-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0010049"
+retrieved: 2026-10-12
+---
+
+# Regulations Regarding the Allocation Arrangement of Daily Necessities in Shortage Period
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0010049-regulations-regarding-the-allocation-arrangement-of-daily-necessities-in.md](../../../zh/regulations/ministry-of-economic-affairs/J0010049-regulations-regarding-the-allocation-arrangement-of-daily-necessities-in.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Paragraph 3, Article 16 of General Defense Mobilization And Preparation Act (hereinafter referred to as “The Act”).
+
+## Article 2
+
+Periods referred to in these regulations shall mean the Mobilization Implementation Phase set forth in Subparagraph 2, Article 2 of the Act and the Blockade set forth in Paragraph 2, Article 11 of Enforcement Rules for the Act.
+
+Gratuitous rationing referred to in these regulations shall mean rations in kind for servicemen and personnel engaged in military activities, while non-gratuitous rationing shall mean rationing of daily necessities with prices to nationals in general and specific personnel.
+
+Specific personnel set forth in preceding paragraph shall mean foreign diplomatic personnel, commercial representatives aliens and dependents thereof in the Republic of China.
+
+## Article 3
+
+Operation of rationing in kind for servicemen and personnel engaged in military activities shall be performed by Ministry of National Defense pursuant to statutory duties and powers and applicable laws.
+
+## Article 4
+
+Districts, items and standards of non-gratuitous rationing shall be as follows:
+
+\1. Districts: Include Taiwan, Penhu, Kinmen and Matsu
+
+\2. Items: Include rice (mainly brown rice), edible oils, culinary salt, liquefied petroleum gas and other daily necessities specified by the competent authority in charge of preparatory planning of gratuitous and non-gratuitous rationing during daily necessity shortage periods (hereinafter referred to as Competent Authority).
+
+\3. Standards set forth in Schedule 1.
+
+\4. For natural gas users, in the event of gas supply interruption, each municipal and county (city) government shall draft practical non-gratuitous rationing measures and include such in the non-gratuitous rationing implementation plan during daily necessity shortage (hereinafter referred to as Implementation Plan).
+
+## Article 5
+
+Security stockpile for each non-gratuitous rationing item:
+
+\1. Rice: 3 month supply.
+
+\2. Edible oils
+
+(1) Finished products: 1 month supply
+
+(2) Material: 2 month supply
+
+\3. Culinary salt
+
+(1) Finished products: 1 month supply
+
+(2) Material: 2 month supply
+
+\4. Liquefied petroleum gas: the average sales volume in the past twelve months and no less than twenty-five days of supply.
+
+The security stockpile of non-gratuitous rationing items in preceding subparagraphs shall be prepared and included in annual plan respectively by Agriculture and Food Agency, Ministry of Agriculture, the competent authority of mobilization and preparation for classification of foods; Industrial Development Administration, Ministry of Economic Affairs, the competent authority of mobilization and preparation for classification of Important Daily Necessities and Industrial Material Resources and Energy Administration, Ministry of Economic Affairs, the competent authority of mobilization and preparation for classification of petroleum and gas.
+
+## Article 6
+
+Authority of government agencies in charge of preparing non-gratuitous rationing items:
+
+\1. Agriculture and Food Agency, Ministry of Agriculture: Responsible for supervision of all branches and local offices to establish supply stations by regions to provide rice.
+
+\2. Industrial Development Administration, Ministry of Economic Affairs: Responsible for supervision of public and private manufacturers to establish supply stations by regions to provide edible oils and culinary salt.
+
+\3. Energy Administration, Ministry of Economic Affairs: Responsible for supervision of oil refineries and importers and liquefied petroleum gas packing business entities to establish supply stations by regions to provide liquefied petroleum gas.
+
+## Article 7
+
+Authority of local government agencies conducting non-gratuitous rationing:
+
+\1. Municipal and county (city) governments shall, as per planning of competent authorities, be responsible for the following preparatory work and include such in the Implementation Plan.
+
+(1) To plan application, collection, transportation, distribution, receiving, storage, issuance and safeguard of non-gratuitous rationing items.
+
+(2) To complete Annual Estimates of Quantity and Amount of Non-gratuitous Rationing Items (Schedule 2), Household Non-gratuitous Rationing Record Sheet (Schedule 3), Invoice/Consignment Note of Non-gratuitous Rationing Items (Schedule 4) and Estimates of Recipients (Schedule 5)
+
+(3) To establish and manage non-gratuitous rationing stations and personnel thereof and check reasonableness between operation capacities and staff disposition in a rolling manner.
+
+(4) To conduct drills of area of expertise.
+
+\2. District, town, township and city offices shall, as per planning of respective municipal and county (city) government, be responsible for the following preparatory work:
+
+(1) To perform application, receiving, storage, and safeguard of non-gratuitous rationing items.
+
+(2) To select locations of non-gratuitous rationing stations and staff the personnel thereof.
+
+(3) To prepare a recipients’ roster (Schedule 6).
+
+(4) To conduct drills of area of expertise.
+
+## Article 8
+
+As detailed in Schedule 7, the implementation system for non-gratuitous rationing is as follows:
+
+\1. Central competent authorities of ministries, councils and commissions shall constitute Gratuitous and Non-gratuitous Rationing Of Daily Necessities Guidance Board (hereinafter referred to as Guidance Board) with the organization detailed in Schedule 8. Tasks to be carried out are as follows:
+
+(1) To supervise Non-gratuitous Rationing Of Daily Necessities Executive Committees of municipal, county (city) governments to implement non-gratuitous rationing.
+
+(2) To appraise, decide and announce prices of non-gratuitous rationing items.
+
+(3) To check for hoarding and profiteering and illegal transactions of non-gratuitous rationing items.
+
+(4) To announce reduction in supply or temporary expropriation of substitutes with compensation pursuant to law, in the event of undersupply of non-gratuitous rationing items.
+
+\2. Municipal and county (city) governments shall constitute Non-gratuitous Rationing Of Daily Necessities Executive Committees with the organization detailed in Schedule 9. Tasks to be carried out are as follows:
+
+(1) To supervise Non-gratuitous Rationing Of Daily Necessities Executive Task Force of district, town, township and city offices to implement non-gratuitous rationing.
+
+(2) To comply and check for hoarding and profiteering and illegal transactions of non-gratuitous rationing items.
+
+(3) To carry out relevant work as per announcements made by Guidance Board.
+
+\3. District, town, township and city offices shall constitute Non-gratuitous Rationing Of Daily Necessities Executive Task Force with the organization detailed in Schedule 10. Tasks to be carried out are as follows:
+
+(1) To dispatch Household Non-gratuitous Rationing Record Sheet.
+
+(2) To establish non-gratuitous rationing stations with the organization detailed in Schedule 11 and implement non-gratuitous rationing.
+
+## Article 9
+
+Planning and preparation of non-gratuitous rationing stations shall be completed in times of peace and requirements for selection are as follows:
+
+\1. Locations with heavy population and convenient transportation.
+
+\2. Loci with spacious storage and multiple exits and entrances.
+
+\3. Equipped with complete functions of fire resistance, air defense, ventilation, water and electricity supply and parking.
+
+\4. Being away from disaster victim shelters.
+
+The number of stations to be established shall be in principle one station per urban or rural village in the main island and per town or township or city in offshore islands and islets. Such numbers are subject to change after taking into consideration of actual situations of terrain, population, transportation and facilities.
+
+## Article 10
+
+Implementation of non-gratuitous rationing shall be in accordance with the following regulations:
+
+\1. Timing of implementation: To be implemented after submission to the Executive Yuan for approval by competent authorities depending on the situation, and to dissolve is likewise.
+
+\2. Implementation of non-gratuitous rationing:
+
+(1) Each municipal and county (city) government shall, on its own, prepare conveyance to collect the non-gratuitous rationing items and transship such to non-gratuitous rationing stations for receiving, storage and issuance.
+
+(2) Collection of the non-gratuitous rationing items reapplied for purchasing can only be made after all outstanding payments have been settled.
+
+(3) The supply and sale of liquefied petroleum gas shall be conducted in such ways as in times of peace, and liquefied petroleum gas shall never be placed in non-gratuitous rationing stations.
+
+(4) Each household shall, at the time and place as announced, go to the designated non-gratuitous rationing station with the household certificate (or relevant certificates for specific personnel) and Household Non-gratuitous Rationing Record Sheet, and purchase the items at the quantities as prescribed. Each household shall in principle conducts such purchasing one to three times a month, with exception of liquefied petroleum gas, which shall be once a month. No remedial rationing will be available for the ones fail to apply within the prescribed time limit.
+
+\3. During the allocation period, any matters not specified in these regulations shall be handled in accordance with other relevant laws and regulations.
+
+## Article 11
+
+Government agencies and institutions concerned shall provide funds needed for preparatory work of non-gratuitous rationing from annual budgets compiled for that purpose.
+
+## Article 12
+
+These Regulations shall come into force as of the date of promulgation.
+
+## Attachments
+
+- [Schedule 1：Non-gratuitous Rationing Standards During Daily Necessity Shortage Periods.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006222)
+- [Schedule 2：Government Annual Estimates of Quantity and Amount of Non-gratuitous Rationing Items for the year.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006223)
+- [Schedule 3：Government Household Non-gratuitous Rationing Record Sheet During Daily Necessity Shortage Periods.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008725)
+- [Schedule 4：Government Invoice Consignment Note of Non-gratuitous Rationing Items During Daily Necessity Shortage Periods.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006225)
+- [Schedule 5：Government Estimates of Recipients In Year  During Daily Necessity Shortage Periods.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006226)
+- [Schedule 6：Government Recipients’ Roster During Daily Necessity Shortage Periods.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006227)
+- [Schedule 7：Diagram showing the implementation system for non-gratuitous rationing of daily necessities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008726)
+- [Schedule 8：Organization of Gratuitous and Non-gratuitous Rationing of Daily Necessities Guidance Board.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008727)
+- [Schedule 9：Organization of  Government Non-gratuitous Rationing of Daily Necessities Executive Committee.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006230)
+- [Schedule 10：Organization of  Non-gratuitous Rationing of Daily Necessities Executive Task Force.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006231)
+- [Schedule 11：Organization of  Non-gratuitous Rationing Stations for Daily Necessities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006232)
+
+## History
+
+1.21 Articles adopted and promulgated in full by Ministerial Order on August 21, 2002
+
+2.12 Articles amended and promulgated in full by Ministerial Order on May 19, 2020
+
+3.Articles 5, 6 and Schedule 7 and 8 referred to in Article 8 amended and promulgated by Ministerial Order on August 5, 2024

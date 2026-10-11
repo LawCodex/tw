@@ -1,0 +1,183 @@
+---
+title: "Regulations for Management, Utilization, and Supervision of the National Pension Insurance Fund"
+title_zh: "國民年金保險基金管理運用及監督辦法"
+identifier: "D0050164"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-08-25
+last_amended: 2018-11-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050164"
+retrieved: 2026-10-12
+---
+
+# Regulations for Management, Utilization, and Supervision of the National Pension Insurance Fund
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050164-regulations-for-management-utilization-and-supervision-of-the-national-pension.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050164-regulations-for-management-utilization-and-supervision-of-the-national-pension.md)) is authoritative.
+
+## Article 1
+
+The Regulations for Management, Utilization, and Supervision of the National Pension Insurance Fund (hereinafter referred to as “the Regulations”) are enacted in accordance with Paragraph 1 of Article 48 of the National Pension Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The National Pension Insurance Fund (hereinafter referred to as “the Fund”) refers to the Special Fund defined in Paragraph 1(2) of Article 4 of the Budget Act, compiled into the subordinate unit budget. The Ministry of Health and Welfare shall be the competent authority in charge of the Fund.
+
+## Article 3
+
+The income and expenditure of the Fund are managed by the Bureau of Labor Insurance of the Ministry of Labor (hereinafter referred to as “BLI”), which is entrusted by the Ministry of Health and Welfare. The utilization of the Fund is managed by the Bureau of Labor Funds of the Ministry of Labor (hereinafter referred to as “BLF”),which is entrusted by the Ministry of Health and Welfare. When necessary, upon approval of the Ministry of Health and Welfare, the BLF is entitled to entrust part of the utilization of the Fund to financial institutions.
+
+The supervision of the Fund is carried out by the National Pension Supervisory Commission of the Ministry of Health and Welfare (hereinafter referred to as “the Supervisory Commission”).
+
+## Article 4
+
+The sources of the Fund are:
+
+\1. Lump sum appropriation from the central government when the Fund was incorporated;
+
+\2. Income from insurance premiums;
+
+\3. Shares assumed by the central competent authority according to the laws and the
+
+responsibility reserve from the central government;
+
+\4. Income from interest and fines;
+
+\5. Revenue from the interest and utilization of the Fund;
+
+\6. Other incomes.
+
+## Article 5
+
+The Fund shall serve the following purposes:
+
+\1. Old age pension payment, maternity payment, mentally/physically disability pension payment, funeral payment, and surviving family pension payment.
+
+\2. Re-examination expenses as defined in Paragraph 1 of Article 37 and Article 38 of the Act.
+
+\3. Related expenses to be assumed pursuant to the laws as defined in Paragraph 4 of Article 30, Paragraph 4 of Article 34, Paragraph 4 of Article 42, and Article 46 of the Act.
+
+\4. Management expenses required for utilization of investment.
+
+\5. Other statutory expenses.
+
+## Article 6
+
+The utilization of the Fund may be extended to:
+
+\1. Deposits kept at domestic/foreign financial institutions;
+
+\2. Investment in domestic/foreign bonds/security;
+
+\3. Investment in domestic/foreign equity security traded or underwritten in stock exchange markets or over-the-counter markets (hereinafter referred to as the “equity security”);
+
+\4. Investment in security investment trust fund or futures trust fund beneficiary certificates issued or managed by domestic fund management institutions (hereinafter referred to as domestic funds);
+
+\5. Investment in beneficiary certificates, fund shares, or investment units issued or managed by foreign fund management institutions (hereinafter referred to as the “offshore funds”);
+
+\6. Investment in domestic/foreign asset securitization products;
+
+\7. Investment in financial derivatives referred to in subparagraphs 1-3 and the preceding subparagraph, and other financial derivatives;
+
+\8. Engagement in lending and trading marketable security;
+
+\9. Loans to governments at various levels for undertaking economic constructions or investment expenditures with compensation or repayable by budgeting on a year-by-year basis;
+
+\10. Other utilization activities beneficial to the return of the Fund examined by the Supervisory Commission, and reported to and approved by the Ministry of Health and Welfare.
+
+Where the utilization of the Fund referred to in the subparagraphs of the preceding paragraph is involved in the territories of Mainland China, Hong Kong, or Macao,compliance with the relevant laws and regulations formulated by competent financial authorities or other relevant authorities shall be required.
+
+## Article 7
+
+When investing domestically, the Fund shall follow the following investment restrictions:
+
+\1. The total cost of investment in any single equity security, debt security, fund, or asset securitization product shall be no more than 5% of the total value utilized from the Fund at the time of investment;
+
+\2. The accumulated total amount for the investment in any single debt security for corporate bonds shall be no more than 10% of the net value of the issuing company at the time of investment; the accumulated total amount for the investment in financial debentures shall be no more than 20% of the net value of the issuing financial institutions at the time of investment;
+
+\3. Investment in domestic asset securitization products issued by any single entrusted institution or special purpose company shall be no more than 10% of the total amount of each issuing security at the time of investment;
+
+\4. The total amount for the investment in any single equity security shall be no more than 10% of the total amount of each issuing security at the time of investment;
+
+\5. The total amount for the investment in any single fund shall be no more than 10% of the units of beneficiary certificates issued by the fund. The total investment in a single exchange-traded fund (ETF) shall be no more than 20% of the units of the issuing beneficiary certificates.
+
+The issuing companies, guarantee institutions, or entrusted institutions referred to in Subparagraphs 2 and 3 of the preceding paragraph shall have no less than the specific ratings awarded by credit rating institutions that are internationally recognized or approved by the competent authority in charge of finance.
+
+## Article 8
+
+The Fund shall comply with the following investment restrictions for foreign investment:
+
+\1. The total cost of investment in any single equity security, debt security, offshore fund, or asset securitization product shall be no more than 5% of the total value utilized from the Fund at the time of investment;;
+
+\2. The total amount for the investment in any equity security, or debt security shall be no more than 10% of the total amount of each issuing security at the time of investment;;
+
+\3. The issuer of foreign debt security and foreign asset securitization products or bonds shall have no less than the specific ratings awarded by credit rating institutions, which are internationally recognized or approved by the competent authority in charge of finance;
+
+\4. In addition to the local bank’s domestic and overseas branches, the deposits denominated in foreign currency may also be deposited in any foreign banks that have no less than the specific ratings awarded by credit rating institutions, which are internationally recognized or approved by the competent authority in charge of finance;
+
+\5. The deposits denominated in foreign currency deposited in the same bank shall be no more than 3% of the total amount utilized from the Fund unless the deposits refer to the funds deposited in the custodian bank to be reserved for entrusted investment.
+
+The specific ratings referred to in Paragraph 2 of the preceding Article and Subparagraphs 3 and 4 of the preceding paragraph shall be determined by the BLF.
+
+## Article 9
+
+The ratios of foreign investments by the Fund referred to in subparagraphs 1-3,subparagraphs 5-7, and subparagraph 10 of Paragraph 1 of Article 6 herein shall be no more than 60% of the total amount utilized from the Fund.
+
+## Article 10
+
+For engaging in financial derivatives transactions, the Fund shall trade via a financial institution approved by the competent financial, security, or futures authorities of the countries concerned and shall be processed in accordance with the following rules:
+
+\1. Except for principal-guaranteed-typed products, investment shall, in principle, not increase the financial leverage of the Fund;
+
+\2. To accommodate the need for the exchange hedge between New Taiwan Dollars and foreign currencies in relation to foreign investment, the Fund may engage in foreign exchange derivatives transactions within the amount limits and product scopes under the relevant regulations stipulated by the Central Bank;
+
+\3. When engaging in non-foreign exchange derivatives, transactions may be conducted within the scope of trading contracts approved, published, or listed by the competent authority, exchanges, or over-the-counter markets of the countries concerned.
+
+The BLF shall draft measures regarding trading limits, trading counterparts, and risk management for engaging in financial derivatives transactions by the Fund. These measures shall be submitted to the Supervisory Commission for review and then sent to the Ministry of Health and Welfare for approval.
+
+## Article 11
+
+The BLF shall formulate an investment policy for the Fund and draft the Fund’s utilization plan prior to the commencement of each year. The plan shall include the estimates of the Fund’s income and expenditure provided by the BLI. It shall be submitted to the Supervisory Commission for examination and then to the Ministry of Health and Welfare for approval.
+
+## Article 12
+
+The BLF shall submit a report about the utilization of the Fund to the BLI on a monthly basis.
+
+The BLI shall submit a report about the income, expenditure, and utilization of the Fund and the accumulated amount thereof to the Supervisory Committee for examination on a monthly basis and then to the Ministry of Health and Welfare for review and record. The Ministry of Health and Welfare shall also announce the same on a yearly basis.
+
+## Article 13
+
+The accounting of the Fund shall be processed independently. For the compilation of the accounting report, annual budget, and final accounts related to the Fund, the BLF shall submit the Fund’s utilization data to the BLI for arrangement.
+
+The compiling of the annual budget and final accounts referred to in the preceding paragraph shall be submitted to the Supervisory Commission for examination.
+
+The compiling and execution of the budget, as well as the compiling of final accounts related to the Fund, shall be executed in accordance with the Budget Act, the Accounting Act, the Financial Statement Act, the Audit Act, and other relevant laws.
+
+## Article 14
+
+In order to process matters concerning the accounting of the Fund, an accounting system shall be established.
+
+## Article 15
+
+The Fund shall be settled upon termination, and the balance thereof, if any, shall be allocated to the national treasury.
+
+## Article 16
+
+The Regulations shall be enforced from the date of promulgation.
+
+## History
+
+1.Enacted and Promulgated by the Order under Tai-Nei-She-Tze No. 0970135465 dated August 25, 2008.
+
+2.Article 5 and Article 16 Amended and Promulgated by the Order under Tai-Nei-She-Tze No. 1000220262 dated November 22, 2011.
+
+3.All 16 Articles Amended and Promulgated under the Order of Wei-Bu-Bau-Tze No. 1040106654 dated March 23, 2015.
+
+4.Articles 6-10 Amended and Promulgated by the Order of Wei-Bu-Bau-Tze No. 1050117734 dated June 30, 2016.
+
+5.Articles 9 Amended and Promulgated by the Order of Wei-Bu-Bau-Tze No. 1070134127 dated November 2, 2018.

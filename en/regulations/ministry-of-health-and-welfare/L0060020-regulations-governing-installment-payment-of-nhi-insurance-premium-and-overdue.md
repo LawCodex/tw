@@ -1,0 +1,153 @@
+---
+title: "Regulations Governing Installment Payment of NHI Insurance Premium and Overdue Fine"
+title_zh: "全民健康保險保險費及滯納金分期繳納辦法"
+identifier: "L0060020"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-09-10
+last_amended: 2017-10-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060020"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Installment Payment of NHI Insurance Premium and Overdue Fine
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0060020-regulations-governing-installment-payment-of-nhi-insurance-premium-and-overdue.md](../../../zh/regulations/ministry-of-health-and-welfare/L0060020-regulations-governing-installment-payment-of-nhi-insurance-premium-and-overdue.md)) is authoritative.
+
+## Article 1
+
+The Regulations Governing Installment Payment of NHI Insurance Premium and Overdue Fine (hereinafter referred to as the “Regulations”) are duly enacted pursuant to Paragraph 2 of Article 36 of the National Health Insurance Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+Group insurance applicants or beneficiaries who apply to the insurer for payment in installments because of being unable to pay off all the outstanding NHI insurance premiums and overdue fines (hereinafter referred to as “arrearage”) in a lump sum shall abide by the Regulations. Any matter not covered by the Regulations shall be governed by other relevant laws and regulations.
+
+## Article 3
+
+Group insurance applicants or beneficiaries applying for payment in installments shall include all the arrearages (unpaid premium and overdue fine) in the application file.
+
+## Article 4
+
+All applications for the arrearage in installments shall meet one of the following conditions:
+
+\1. The total arrearage of a group insurance applicant is more than NT$30,000.
+
+\2. The total arrearage of a beneficiary is more than NT$2,000.
+
+## Article 5
+
+The number of installments for arrearage shall meet the following criteria and the payment of each installment for the group insurance applicant shall not be less than NT$ 3,000, and that for the beneficiary shall not be less than sixty percent (60%) of the average premium of all the beneficiaries as proclaimed by the insurer:
+
+\1. Arrearage for group insurance applicant:
+
+(1) If the total is less than NT$ 200,000, the payment can be made in 2 to 12 installments.
+
+(2) If the total is more than NT$ 200,000 and less than NT$ 500,000, the payment can be made in 2 to 24 installments.
+
+(3) If the total is more than NT$ 500,000 and less than NT$ 5,000,000, the payment can be made in 2 to 36 installments.
+
+(4) If the total is more than NT$ 5,000,000, the payment can be made in 2 to 48 installments.
+
+\2. Arrearage for beneficiary:
+
+(1) If the total is less than NT$ 50,000, the payment can be made in 2 to 12 installments.
+
+(2) If the total is more than NT$ 50,000 and less than NT$ 100,000, the payment can be made in 2 to 24 installments.
+
+(3) If the total is more than NT$ 100,000 and less than NT$ 200,000, the payment can be made in 2 to 36 installments.
+
+(4) If the total is more than NT$ 200,000, the payment can be made in 2 to 48 installments.
+
+The duration of each installment provided in the previous paragraph shall not exceed one month.
+
+## Article 6
+
+If the insurer has handed the case of arrearage over to an administrative execution agency, the application for payment in installments of the arrearage shall be approved by the agency first.
+
+## Article 7
+
+The due date of the payment in installments of arrearage shall not exceed the statutory time of limitations provided in Article 131 of the Administrative Procedure Act.
+
+## Article 8
+
+A group insurance applicant applying for payment in installments of arrearage shall fill in an application form and submit it along with the following documents to the insurer:
+
+\1. The stamp or seal of the organization.
+
+\2. The seal and identity document of the supervisor of the organization. If it is not handled personally by the supervisor, then the seal and identity document of the authorized person shall also be submitted while applying.
+
+The applying organization shall pay off the first installment in cash or by sight check at the time of application and issue checks in advance as per the dates and amounts of the payments, one check for one payment. Anyone who wishes to pay the installment in cash instead of by check shall sign an affidavit for installment payment.
+
+If the group insurance applicant requests the replacement of the drawn check due to certain reasons, the insurer shall allow the organization to do it at the most twice during each installment according to the following principles: one old check shall be replaced with a new check, and the due date of the new check shall be within 30 days of that of the old check.
+
+## Article 9
+
+A beneficiary applying for payment in installments of arrearage shall fill in an application form, affix the seal and identity document, and submit it along with a letter of authorization and the seal and identity document of the authorized person (if not handled personally by the applicant) to the insurer.
+
+The applicant shall pay off the first installment at the time of application and pay the remaining amount according to a schedule as specified in the bills issued by the insurer.
+
+## Article 10
+
+If the insurer temporarily suspends benefits or issuance of NHI Cards to the beneficiaries due to arrearage of the group insurance applicants or the beneficiaries according to Paragraph 1 of Article 37 of the Act, it shall resume the rights of the latter once they complete the application for payment in installments.
+
+## Article 11
+
+Failure to pay any installment on time by the group insurance applicants or the beneficiaries will result in the whole payment being due, and the insurer shall resort to administrative execution and have the right to handle the matter according to the following:
+
+\1. Suspend payment of insurance benefits;
+
+\2. Suspend the issuance of the NHI Card;
+
+\3. Suspend the update of the credits for medical treatments embedded in the integrated chip of the NHI Card.
+
+When any aforementioned group insurance applicant or the beneficiary who violated the regulations governing installment payment re-applies for payment in installments, all over arrearages of such group insurance applicant or the insured shall be included in the application, and the reapplication shall be limited to one time only. In addition, the amount of each installment may not be lower than the average payment of the previous installment arrangement.
+
+## Article 12
+
+As long as the group insurance applicant or the beneficiaries who applied to pay the payment in installments conform to any of the following conditions, the total amount of their delinquent arrearage, the limit of terms and the number of installments could be exempted from the regulations of Articles 4 and 5 as well as Paragraph 2 of Article 11; provided, however, the number of terms for the installment shall not exceed 48:
+
+\1. The beneficiary is approved to be subsidized for his/her payable premium by the relevant authority.
+
+\2. Delinquent arrearage has been referred to administrative execution proceedings by the insurer according to laws and regulations, and administrative execution agencies have agreed to the installment plan.
+
+\3. A group insurance applicant that has the specific condition can submit the certificates of business suspension, closeout, dismissal, bankruptcy, or profit-seeking enterprise income tax return approved by the relevant authority to explain its reasons. Then, it needs to be approved by the insurer with special projects.
+
+\4. For any beneficiary that has special conditions, the insurer may grant the exemption on a case-by-case basis after finding out that the total amount of the beneficiary’s annual income for the year inquired upon does not exceed the aggregate amount of the beneficiary’s exemption, standard deduction, and special deduction for employment income for the most recent year.
+
+## Article 13
+
+The payment installment applied by the group insurance applicants or the beneficiaries shall be paid off in the following sequence:
+
+\1. Delinquent arrearage that has already been removed to the administrative execution agency.
+
+\2. Premium that has not yet been removed to the administrative execution agency.
+
+\3. Overdue fine that has not yet been removed to the administrative execution agency.
+
+The insurer shall have the right to deduct the above-mentioned arrearage from the money payable from the insurer to the delinquent group insurance applicants or the beneficiaries.
+
+## Article 14
+
+The Regulations shall come into force from the date of promulgation.
+
+## History
+
+\1. Promulgated on September 10, 2003, in accordance with Bureau of National Health Insurance Order Chien-Pao-Cheng-0920010969
+
+\2. Amended and Promulgated on May 4, 2007, in accordance with Bureau of National Health Insurance Order Chien-Pao-Cheng-0960050215
+
+\3. Amended and Promulgated Articles 8 and 9 on November 30, 2009, in accordance with Bureau of National Health Insurance Order Chien-Pao-Cheng-0980090288
+
+\4. Amended and Promulgated Articles 4 and 5 on August 2, 2010, in accordance with Bureau of National Health Insurance, Department of Health, Executive Yuan Order Chien-Pao-Cheng-Tze No. 0990070370
+
+\5. Amended and Promulgated Articles 1, 10, 11, and 14 on October 30, 2012, in accordance with the Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-Tzu No. 1012600167
+
+\6. Amended and Promulgated on November 13, 2015, in accordance with Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1041260788
+
+\7. Amended Article 12 and Promulgated on October 5, 2017, in accordance with Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1060128703

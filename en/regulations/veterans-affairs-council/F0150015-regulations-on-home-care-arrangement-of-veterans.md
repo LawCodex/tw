@@ -1,0 +1,292 @@
+---
+title: "Regulations on Home-care Arrangement of Veterans"
+title_zh: "國軍退除役官兵就養安置辦法"
+identifier: "F0150015"
+type: regulation
+law_level: "命令"
+category: "行政＞國軍退除役官兵輔導委員會＞就養目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-11-01
+last_amended: 2025-12-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0150015"
+retrieved: 2026-10-12
+---
+
+# Regulations on Home-care Arrangement of Veterans
+
+> Translation. The Chinese text ([zh/regulations/veterans-affairs-council/F0150015-regulations-on-home-care-arrangement-of-veterans.md](../../../zh/regulations/veterans-affairs-council/F0150015-regulations-on-home-care-arrangement-of-veterans.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 1, Article 16, and Paragraph 2, Article 33 of the Veterans Assistance Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+These regulations are applied to the first category of veterans (hereinafter referred to as “Veterans”) mentioned in Subparagraph 1, Article 2-1 of the Enforcement Rules of the Act. The home-care  of veterans shall be classified as follows:
+
+\1. Fully government-paid home-care: Veterans are given the monthly home-care allowances and may willingly choose to apply to live in the Veterans’ Home (hereinafter referred to as “VH”) at the government’s expense. When deceased, these veterans shall be provided with an appropriate funeral subsidies.
+
+\2. Partly government-paid home-care : Veterans may apply to live in VH at their own expense for services.
+
+The service items and the amount of monthly home-care allowance rendered to the home-cared veterans fully covered by government expense shall be proposed and promulgated by the Veterans Affairs Council (hereinafter referred to as “VAC”) after being approved by the Executive Yuan.
+
+The home-cared veterans under the first paragraph who reside in VH shall pay for the water or electricity bills that excess the given amount.
+
+## Article 3
+
+After veterans applying for home-care, VAC shall grant the request according to the accommodation capacity and status of VH. The priority order for home-care is described in Appendixes 1 and 2.
+
+## Article 4
+
+A veteran who meets any one of the following requirements may apply for the fully government-paid home-care :
+
+1.The veteran's physical or mental disabilities caused by war or public service during active-duty service.
+
+2.The veteran's physical or mental disabilities caused by war or public service during active-duty service, and deteriorated after being discharged.
+
+3.One who is in either physical or mental disorder out of the conditions listed in the above-mentioned two paragraphs.
+
+4.One who is over 61 years of age.
+
+A veteran with physical or mental disabilities as defined under subparagraphs 1-3 of the preceding paragraph shall meet the criteria of physical and mental disabilities for home-care (Cf. Appendix III)。
+
+Veterans who already qualify for home-care  and approved for full government-paid home-care  before the implementation of the amendment to these Regulations on 29 January 2021 shall be governed by the criteria before the implementation of the amendment.
+
+## Article 5
+
+An applicant as defined under Subparagraphs 1, 2 of Paragraph 1 of the preceding Article is not eligible for the fully government paid home-care if any of the situations below exists:
+
+I. One who has no household registration in Taiwan Area or whose household registration is removed by the household authority in accordance with the Household Registration Act.
+
+II. One who is of any situations defined in Article 32 of the Act.
+
+III. One who is drawing a monthly pension from the military, the public service, the school, the police or the state-owned enterprises.
+
+## Article 6
+
+An applicant described in Article 4, Paragraph 1, Subparagraphs 3 and 4 is not eligible for fully government paid home-care if any of the situations below exist:
+
+1.One who has no household registration in the Taiwan or whose household registration is removed by the household authority in accordance with the Household Registration Law.
+
+2.One who meets any situations as defined under Article 32 of the Act.
+
+3.One who is employed.
+
+4.One and whose spouse have a total per capita monthly income exceeding the average amount of the monthly limit per capita under the total income of a mid-to-low income family stipulated by the municipalities, the Taiwan Province and the Fujian Province for the current year, and whose children have grown up into adulthood with working ability.
+
+5.One whose entire family has a yearly income that averagely exceeds the average amount of the monthly limit per capita of a mid-to-low income family level of the year stipulated by the municipalities, the Taiwan Province and the Fujian Province.
+
+6.One or whose spouse owns a business or shop with hired employees.
+
+7.One and whose spouse own real estate worth more than NT$6.5 million calculated based on the promulgated official property price and as listed in the property verification report. Such land reserved for the indigenous, but producing no economic value; land reserved for public facilities; land used as an existing public road, and land provided for government corporate public use or public benefit purposes whereby the owner receives no income, shall not be included in the calculation.
+
+8.One who is accommodated at government expense by either a public or private welfare institution through the recommendation of the government.
+
+If the amount of the monthly limit per capita of a mid-to-low income family level stipulated by the place where the applicant has their household registered, exceeds the average amount of the monthly limit per capita of a mid-to-low income family level of the year stipulated by the municipalities, the Taiwan Province and the Fujian Province, the application shall be governed by the amount of the monthly limit stipulated by the place where the applicant has their household registered.
+
+## Article 7
+
+The term "members of the entire family" mentioned herein refers to the following members, in addition to the applicant:
+
+1.Spouse.
+
+2.Lineal relatives by blood.
+
+3.The taxpayer whose integrated income taxis covered exemption for the supporting the family members.
+
+The members defined in the preceding paragraphs do not count, if any one of the following situations exists:
+
+1.The spouse of the applicant from Hong Kong, Macao, Chinese Mainland Area, or a country other than the Republic of China, who does not live in Taiwan and has no household registration in Taiwan.
+
+2.A missing member who has not been found after being reported to the police for help.
+
+3.A member who is imprisoned, arrested, or legally detained.
+
+4.Because of other special circumstances, members of the family failed to fulfill maintenance obligations, which resulted in the applicant's livelihood hardship. This truth has been verified by local Veterans Service Office or VH .staff's on site visits evaluation.
+
+Then Veterans Service Office or VH may assist the applicant to request payment of maintenance fees from those who failed to fulfill maintenance obligations as mentioned in the preceding paragraph 5.
+
+## Article 8
+
+The total family income described in Article 6 refers to the total amount of work income, interest income, real estate gains, unemployment allowance and other income, excluding those of the nature of social aid.
+
+The methods of calculation of the work income of the adult members with working ability in a family are as follows and in the following order:
+
+\1. Those with a wage higher than the basic wage level promulgated by the central labor authority, the higher work income submitted shall be the base of the calculation.
+
+\2. Those with an unknown work income or less than the basic wage promulgated by the central labor authority, the amount of the wage accredited for labor insurance shall be the base of the calculation.
+
+\3. If the applicant is not insured under Labor Insurance, the work income shall be calculated in accordance with the results adjudicated by the Veterans Service Office (hereinafter referred to as “VSO”) personnel after their on-site evaluation.
+
+## Article 9
+
+A veteran who applies for the fully government-paid home-care shall fill in the application forms at VSO closest to where his or her household is registered, along with supporting documents, such as those related to household registration of the entire family, income, real estate, Labor Insurance and National Health Insurance ID. When reviewing the application,VSO shall assign personnel for an on-site evaluation, complete the evaluation records and request relevant institutions (organizations), schools, corporations or groups to provide necessary relevant proof documents.
+
+For VSO that has connected to the household registration information system, Ministry of the Interior, the proof documents of registration in the preceding paragraph are not required.
+
+If the applicant suffers from a disaster or emergency and is unable to provide VSO with the documents mentioned in the preceding first paragraph, VSO may join with the social affairs unit of the local government to conduct an on-site evaluation on the actual loss of the applicant in the disaster or emergency and complete the evaluation records.
+
+The term “disaster” mentioned above refers to either natural disasters or man-made disasters that destroy the veteran’s living necessities such as his or her house, equipment, furniture, belongings and so forth, making the veteran unable to make a living.
+
+Except for one of the situations mentioned in Paragraph 3, an applicant for the fully government-paid home-care who fails to provide the required supporting certificate(s) in full within the specified time limit should make up the inadequacy within the time limit specified in the reminding notice, if the makeup of such supporting certificate(s) proves possible. The application shall be directly rejected otherwise. Right after the review, if the application proves free of any of the situations set forth in Article 5 and Paragraph 1, Article 6, the application will most likely be approved. The application shall be directly rejected if it proves to have any of the situations set forth in Article 5 and Paragraph 1, Article 6.
+
+## Article 10
+
+Those approved for the fully government- paid home-care should report to the designated VSO, or the veterans home within one month starting from the day next to receiving the notice of approval; otherwise his approval will be waived.
+
+## Article 11
+
+VAC shall make annual verification on the veterans approved for the fully government- paid home-care.
+
+## Article 12
+
+To those fully government-paid home-cared veterans with physical or mental disabilitied, VAC shall render the physical or mental rehabilitation in accordance with VH Rehabilitation Table for Veterans with Physical or Mental Disabilities (Cf. Appendix 4).
+
+## Article 13
+
+Those approved for the fully government-paid home-care shall be suspended from the placement if any of the situations below exist:
+
+1.One who has lost his or her status as a veteran.
+
+\2. Whose disability identification is expired or cancelled by the competent authority of the municipal and county (city), or their category of disability is changed after re-evaluation, therefore does not meet the criteria of physical and mental disabilities for home-care under the second paragraph, Article 4.
+
+3.One who is of any of the disqualification situations described in Article 5 or Paragraph 1, Article 6.
+
+Those approved for the fully government-paid home-care and permitted to settle down on the Chinese mainland on a long-term basis shall be exempt from the disqualification binding described in Article 5, Sub-paragraph 1 and Article 6, Paragraph 1, Sub-paragraph 1. This same provision is equally applicable to those settled down on the Chinese mainland on a long-term basis before Article 27 of the Regulations for the Act Governing Relations between the People of the Taiwan Area and the Mainland Area was amended and put into enforcement on March 1, 2004.
+
+Those approved for the fully government-paid home-care and settled down abroad on a long-term basis shall be exempt from the disqualification binding described in Article 5, Subparagraph 1 and Article 6, Paragraph 1, Sub-paragraph 1, if they register with VSO/VH and file a verification, approved by the embassies/consulates or other overseas representative offices of the Republic of China, or an institution established or designated by the Executive Yuan or a private organization engaged by the Executive Yuan in Hong Kong or Macau every year. After the amendment to these Regulations are implemented on 30 December 2013, if those approved for the fully government-paid home-care, including their spouses, do not have new land or housing, and if the local government promulgates an increase of the official property price level, the restriction of NT$6.5 million under Article 6, Paragraph 1, Subparagraph 7 shall not be applicable..
+
+Those approved for the fully government-paid home-care shall not be restricted by the suspension from the placement stipulated in Article 6, Paragraph 1, Subparagraphs 4, 5, and 7 if any of the situations below exists:
+
+1.Born on or before December 31, 1934 and discharged from military service legally.
+
+2.Having participated in 823 Battle and major battles related to national security and approved by Ministry of National Defense.
+
+## Article 14
+
+In the event that those approved of the fully government-paid home-care, are of the disqualification situations prescribed in Paragraph 1 of the preceding Article, their home-care allowance shall be discontinued starting the 1st day of the next month to VSO/VH finds out and verifies the situation. The sum of the allowance the veterans received after the disqualification date shall be returned to VAC. In any of the situations below exists, the home-care allowance shall be discontinued starting 1st day of the next month the situation happens. The sum the veterans received after the date the disqualification happens shall be returned to VAC:
+
+I. One who has lost his status as a veteran.
+
+II. One who has no household registration in Taiwan or whose has household registration is removed by the household authority in accordance with the Household Registration Act.
+
+III. One who is of any situations defined in Article 32 of the Act.
+
+In case a veteran approved of the fully government-paid home-care passes away, his heir(s) shall keep the related VSO/VH informed within 15 days from the date of the veteran’s death. The home-care allowance is to be discontinued starting the 1st day of the month next to the death. The sum of the allowance issued to the veteran shall be returned to VAC.
+
+## Article 15
+
+Those not provided with the fully government paid home-care, having no regular occupation, and are of one of the following situations, are eligible to apply for the partly government-paid home-care :
+
+I. Due to illness, injury, physical or mental disabilities.
+
+II. Over 61 years of age.
+
+## Article 16
+
+Those veterans, defined under the preceding Article shall not be granted partly government-paid home-care, if any of the situations below exists:
+
+I. One who has no household registration in Taiwan or whose household registration is removed by the household authority in accordance with the Household Registration Act.
+
+II. One who is of any situations defined in Article 32 of the Act.
+
+## Article 17
+
+Those applying for the partly government-paid home-care shall fill out the application form , the physical check-up certificate, and the proof documents of household registration to VH which offer such home-care  facilities.
+
+For VH that has connected to the household registration information system, Ministry of the Interior, the proof documents of registration in the preceding paragraph are not required.
+
+Those failing to provide the proof documents within the specified date according to preceding Paragraph 1 should be notified to make up the inadequacy within the time limit specified, if possible. If not, the application shall be rejected. An application proves in the review free of any situations set forth in the preceding Article shall be approved, and shall be rejected if found that any situations described in the preceding Article exists.
+
+A veteran who is approved for this kind of home-care shall go to the designated VH to sign the contract, either in person or through a parent, relative, family member or legal representative, within one month of receipt of the written approval. The approval shall be nullified once the related party fails to sign the contract before the expiration.
+
+## Article 18
+
+Those approved for the partly government-paid home-care shall be disqualified from the home-care if one of the situations below exists:
+
+\1. One who has lost his status as a veteran.
+
+\2. One who is of any one of the disqualification situations described in Article 16.
+
+## Article 19
+
+(deleted)
+
+## Article 20
+
+(deleted)
+
+## Article 20-1
+
+A veteran placed at VH shall be disqualified for placement or moved to another VH if any of the situations below exist:
+
+\1. Material or repeated violation of VH rules and the contract.
+
+\2. Not staying at the VH for over three months.
+
+Veterans who move out of a VH under Subparagraph 1 of the preceding paragraph may not apply, within two years from the date of moving out of the VH, for readmission to a VH neither fully nor partly government-paid home-care. However, this restriction shall not apply in cases when  the applicant has no caregiver and consequently faces risks to life or physical safety, or falls into serious living difficulties, and when, after an on-site visit and assessment by the Veterans Service Office confirming the necessity of placement, and them approved by VAC.
+
+## Article 21
+
+Those being cancelled from the home-care in accordance with Paragraph 1, Article 13 or Article 18 may reapply for home-care , if the cause leading to the cancellation ceases.
+
+## Article 22
+
+These Regulations shall come into effect on the date of promulgation whereas the articles amended and announced on April 20, 2016 shall become effective on March 1, 2016 .
+
+## Attachments
+
+- [Attachment 2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004625)
+- [Attachment 2.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002269)
+
+## History
+
+1.Promulgated on November 1, 1968
+
+2.Amended on July 1, 1978
+
+3.Amended on November 24, 1981
+
+4.Amended on March 10, 1986
+
+5.Amended on June 28, 1990
+
+6.Amended on July 15 ,1992
+
+7.Amended on April 1, 1995
+
+8.Amended on September 23 ,1996
+
+9.Amended on December 12, 1997
+
+10.Amended on September 1, 1998
+
+11.Amended on August 30, 1999
+
+12.Amended on August 28, 2001
+
+13.Amended on February 15, 2002
+
+14.Amended on December 30, 2005
+
+15.Amended on June 8, 2009
+
+16.Amended on December 08, 2009
+
+17.Amended on December 30, 2013
+
+18.Amended on August 28, 2015
+
+19.Amended on April 20, 2016
+
+20.Amended on May 7, 2018
+
+21.Amended on January 29, 2021
+
+22.Amended on September 26, 2023
+
+23.Amended on December 19, 2025

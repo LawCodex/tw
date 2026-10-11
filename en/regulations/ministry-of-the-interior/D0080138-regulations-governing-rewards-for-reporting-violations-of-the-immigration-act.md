@@ -1,0 +1,161 @@
+---
+title: "Regulations Governing Rewards for Reporting Violations of the Immigration Act"
+title_zh: "舉發違反入出國及移民法事件獎勵辦法"
+identifier: "D0080138"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-05-24
+last_amended: 2024-02-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080138"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Rewards for Reporting Violations of the Immigration Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080138-regulations-governing-rewards-for-reporting-violations-of-the-immigration-act.md](../../../zh/regulations/ministry-of-the-interior/D0080138-regulations-governing-rewards-for-reporting-violations-of-the-immigration-act.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted in accordance with Article 92 of the Immigration Act (hereafter‘the Act’).
+
+## Article 2
+
+The term ‘reports’” used in Article 92 of the Act refers to the reporter providing substantive evidence of a violation of the provisions of the Act, which has not yet been discovered or found by the National Immigration Agency, Ministry of the Interior  (hereafter‘the NIA’).
+
+## Article 3
+
+Once the report for one of the following matters has been checked and confirmed as factual, the NIA shall issue a reward to the reporter:
+
+\1. A violation of Paragraph 1 of Article 4 of the Act, namely  entering or exit the State without inspection..
+
+\2. Circumstances  whereby nationals  shall be prohibited from exiting the State, as stipulated in Subparagraphs 4 or 8 of Paragraph 1 of Article 6 of the Act.
+
+\3. A violation of Subparagraph 1 or 2 of Article 7-1 of the Act, or Paragraph 1 or Paragraph 2 of Article 21-1 of the Act, in which Subparagraph 2 of Paragraph 1 thereof applies mutatis mutandis to it. That is, facilitating, aiding, or abetting any person who is subject to prohibition from exiting the State to exit the State, or facilitating, aiding, or abetting any national without household registration in Taiwan Area (hereinafter referred to as national without household registration) or any foreigner to enter the State without permission.
+
+\4. A violation of Subparagraph 3 of Article 7-1 of the Act, or Paragraph 2 of Article 29 of the Act. That is, facilitating, aiding or abetting any national without household registration or foreigner to engage in unpermitted activities.
+
+\5. Circumstances whereby an application by a national without household registration may be denied, as stipulated in Subparagraphs 1, 2, or 4 to 7 of Paragraph 1 of Article 11 of the Act.
+
+\6. Circumstances whereby a national without household registration may be deported, as stipulated in Paragraph 1 of Article 15 of the Act.
+
+\7. Circumstances whereby an alien may be prohibited from entering the State, as stipulated in Subparagraphs 2, 3, 5 to 9,   or 13 to 15 of Paragraph 1 of Article 18 of the Act. .
+
+\8. Circumstances requiring the revocation or termination of an alien'sresidence permit and cancellation of the Alien Resident Certificate thereof, as stipulated in Subparagraphs 1 or 2 of Article 32 of the Act.
+
+\9. Circumstances requiring the revocation or termination of an alien's permanent residence and the cancellation of the Alien Permanent Resident Certificate thereof, as stipulated in  Subparagraphs 1 or 2 of Article 33  of the Act.
+
+\10. A violation of Paragraph 3 of Article 58 of the Act. That is, commissioning, being commissioned for, or self-conducting the dissemination, broadcasting or publication of advertisements for transnational marriage matching. .
+
+\11. Circumstances in which persons exchange or hand over documents, or utilize other illegal means at an airport or a seaport to use an aircraft, a vessel or other means of transportation to carry a person who should not be carried under a contract of carriage to the State or another country, or attempt to do so, as stipulated in Article 73 of the Act.
+
+\12. Circumstances whereby a person enters the State without permission or exits the State during a period in which the departure prohibition order remains in force, as prescribed in Paragraph 1 of Article 74  of the Act.
+
+\13. Circumstances of overstaying the admission, as stipulated in Paragraph 2 of Article 74-1 of the Act.
+
+\14. A person has intent to facilitate a national without household registration or an alien who overstays the admission to engage in illegal activities, and thus to harbor or conceal him/her, as stipulated in Paragraph 3 of Article 74-1 of the Act.
+
+\15. A company or firm engages in transnational marriage matching, as referred to in Subparagraph 1 of Article 76 of the Act, or a person engages in transnational marriage matching with demands for remuneration or contractual remunerations, as referred to in Subparagraph 2 of Article 76 of the Act.
+
+## Article 4
+
+To facilitate the reporting of violations of the Act, the NIA shall set up dedicated phone, fax, mailbox and email.
+
+## Article 5
+
+When reporting a violation of the Act to the NIA, the following items shall be recorded in writing with the reporter’s signature, stamp or fingerprint on it. However, when the situation is urgent or there are other reasons, the abovementioned matter may be made orally:
+
+1.The reporter’s name, gender, date of birth, address, phone number, and national ID number or other identity certification number.
+
+2.The reported person’s name, gender, date of birth and address.
+
+3.The substantive facts of the reported person’s violation.
+
+When the reported person’s name is unknown, or when there are any other necessary circumstances, the features sufficient to  identify them shall be recorded; however, their date of birth and address are no need to be recorded while unknown.
+
+When a report is made orally or by email, the NIA shall make a written record regarding the receipt of the report.
+
+## Article 6
+
+When a reported case has been followed up by the NIA and found to meet the conditions of Article 7 for the issuance of a reward, the NIA shall write down the amount of the reward and notify the reporter to claim it.
+
+The reporter shall submit the following documents to the NIA  case by case to claim the reward, and may do so in writing:
+
+1.The letter of notification referred to in the preceding paragraph.
+
+2.The original of a receipt bearing the name of the reporter.
+
+3.A copy of the reporter’s passbook of a domestic financial institution or post office.
+
+Where the reward applicant fails to submit the passbook copy as referred to in Subparagraph 3 of the preceding paragraph, the NIA shall have the reward issued in the form of mailing a treasury check.
+
+## Article 7
+
+Reporting items and the amount of rewards are as shown in the Appendix.
+
+Where the facts of a violation of  the Act involve a criminal case, the reward shall be issued after the prosecutor has initiated prosecution, deferred prosecution, or issued a disposition of dismissal in accordance with Article 253 of the Code of Criminal Procedure; where the reported person is adjudged not guilty, the reward shall not be claimed back unless the reporter is adjudged guilty of malicious accusation.
+
+For reports of administrative penalty matters listed in Subparagraphs 1, 10 and 15 of Article 3, the reward shall be issued after the penalty has been made; for other items of report not involving criminal cases, the reward shall be issued after the NIA verifies the facts to be true.
+
+When a reported matter simultaneously matches more than one of the reporting items listed in the Appendix, the amount of the reward shall be issued according to the provision of the reported item with the highest amount of reward.
+
+## Article 8
+
+When a report is made jointly by more than one person, the reward shall be apportioned to them equally.
+
+When a report is made successively by more than one person, the reward shall be issued to the first reporter; when a report is made separately by more than one person and the sequence of reporting cannot be discerned, the reward shall be apportioned to them equally.
+
+## Article 9
+
+No reward shall be given when one of the following circumstances occurs:
+
+1.The report is made anonymously or without the true name of the reporter.
+
+2.Without sufficient substantive evidence.
+
+3.The reporter has already collected a reward under the provisions of another law or regulation.
+
+4.The reporter is a national without household registration, an alien, a person of the Mainland Area, or a resident of Hong Kong or Macau, who has overstayed the admission or entered the State without permission. However, this limitation shall not apply to those who have been investigated and dealt with by the NIA.
+
+5.The reporter is an individual or an employee of a private employment service institutions  that illegally employed, accommodated or introduced the reported person to engage in work or to work for others.
+
+6.The reporter and the reported person jointly perpetrated, or in other ways participated in, facilitated or caused the violation of the Act.
+
+## Article 10
+
+The provisions of the Regulations do not apply to personnel bearing authority and responsibility to report or investigate the facts of violations of the Act.
+
+## Article 11
+
+The agency or personnel receiving a report shall keep the information specified in Subparagraph 1 of Paragraph 1of Article 5 strictly confidential.. Unless absolutely necessary, the report, record in writing, and other information about the reporter shall be kept separately and shall not be included in the investigation or detection files.
+
+Violations of the preceding paragraph shall be subject to punishment or penalty in accordance with the Criminal Code of the Republic of China or other laws.
+
+## Article 12
+
+When a reporter may be threatened, intimidated, or harmed in consequence of reporting the facts of a violation of the Act , the NIA shall notify the local police authorities to provide protection and implement other measures  based on law.
+
+## Article 13
+
+The Regulations shall come into effect on the date of promulgation except for articles amended and promulgated on February 20, 2024, which shall come into effect on March 1, 2024, .
+
+## Attachments
+
+- [Appendix：Reporting Items and Amount of Awards.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006565)
+
+## History
+
+1.The enacted act with all 15 articles was promulgated and set to be effective by the Ministry of Interior No.8981383 on May 24, 2000.
+
+2.The amended act with all 14 articles was promulgated by the Ministry of Interior No.0970004292 on Aug 1, 2009 and set to be effective on Aug 1, 2009.
+
+The announcement was made on December 26, 2014 by the Executive Yuan Order tai-gui-zi No. 1030158355. The relevant matters set out in Article 2, Paragraphs 1 of Article 3, Article 4, Paragraphs 1, 3 of Article 5, Article 13 pertaining to “The Border Control and Immigration Agency” shall be handled by “The Immigration Agency” as governing body, effective January 2, 2015.
+
+3.The amended act with all 13 articles was promulgated by the Ministry of Interior No.10909320082 on Jun 23, 2020 and set to be effective on Jun 23, 2020.
+
+4.The amended Articles 3, 7, 13 and the appendix of Article 7 were amended and promulgated by the Ministry of the interior Order Tai-Nei-Yi-Tzu No.11309324101 on February 20, 2024 and were set to be effective on March 1, 2024.

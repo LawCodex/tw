@@ -1,0 +1,169 @@
+---
+title: "Enforcement Rules of Professional Engineers Act"
+title_zh: "技師法施行細則"
+identifier: "J0030023"
+type: regulation
+law_level: "命令"
+category: "行政＞行政院公共工程委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1975-03-12
+last_amended: 2012-11-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030023"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Professional Engineers Act
+
+> Translation. The Chinese text ([zh/regulations/public-construction-commission/J0030023-enforcement-rules-of-professional-engineers-act.md](../../../zh/regulations/public-construction-commission/J0030023-enforcement-rules-of-professional-engineers-act.md)) is authoritative.
+
+## Article 1
+
+The enforcement rules are duly enacted in accordance with Article 58 of the Professional Engineers Act (hereinafter referred to as the Act).
+
+## Article 2
+
+One who applies for professional engineer certificate pursuant to Article 5 of the Act shall fill out one application form and apply to the central competent authority with the following documents and certificate fee:
+
+\1. The certificate verifying successful pass in professional engineer examination and one photocopy thereof.
+
+\2. The applicant’s two photos of 2 inches frontal half-body taken within the last 6 months.
+
+As to the application prescribed in the preceding Paragraph, the applicant who satisfactorily passes the review process according to provisions will be issued the professional engineer certificate and will have the certificate verifying successful pass in professional engineer examination returned, and if it is not in accordance with the provisions, the application will be dismissed, with the certificate verifying successful pass in professional engineer examination as well as the certificate fee returned. Where the procedures are found incomplete, the applicant will be informed to make up the insufficiency, and the application shall be dismissed if the insufficiency is not made up by a specified date.
+
+## Article 3
+
+The term “having gained at least two years of service ” prescribed in Article 8, Paragraph 1 of the Act refers to one of the following circumstances:
+
+\1. Those who have practiced practical technical work of the specified engineering branch in a government agency, a public (military) or an officially registered private business institution for at least two years in accumulation.
+
+\2. Those who have served as professors, associate professors, assistant professors, or instructors at junior colleges and institutions of higher education and have lectured two major courses related to the specified engineering branch for at least two years in accumulation respectively.
+
+\3. Those who have practiced practical technical work of the specified engineering branch in agriculture, forestry, fishery, and animal husbandry on their own for at least two years in accumulation, and have obtained verified documents from the township (town, city, district) office.
+
+The years of service prescribed in the preceding Paragraph shall be full-time practice.
+
+## Article 4
+
+One who applies for professional engineer license pursuant to Article 8, Paragraph 3 of the Act shall fill out one application form and apply to the central competent authority with the following documents and license fee:
+
+1.The professional Engineer Certificate and one photocopy thereof.
+
+\2. Verified documents of years of service and one photocopy thereof.
+
+\3. The applicant’s two photos of 2 inches frontal half-body taken within the last 6 months.
+
+\4. An applicant who will be in the professional practice in the manner under Article 7, Paragraph 1, Subparagraph 1 of the Act shall submit the certificate verifying that the professional engineer office can be used for the office; an applicant who will be in the professional practice in the manner under Article 7, Paragraph 1, Subparagraph 2 or 3 of the Act shall submit the registry certificate of the professional engineering consulting firm or the profit-seeking enterprise or institution in one photocopy and one employment certificate.
+
+The verified documents of years of srevice prescribed in the preceding Paragraph, Subparagraph 2 shall specify full-time employment, the serviec period of involving cases, and their specific facts. For those with domestic years of service, one photocopy of the Labor Insurance record corresponding to the stated period shall be attached; for those not required by laws and regulations to participate in the Labor Insurance, the National Health Insurance record shall be attached.
+
+For those whose verified documents of years of service prescribed in Paragraph 1, Subparagraph 2 are produced abroad, the documents shall be authenticated by Republic of China's foreign embassies and consulates, representative offices, field offices, or other institutions authorized by the Ministry of Foreign Affairs (hereinafter referred to as the Overseas Missions). For those that are produced in Mainland China, Hong Kong, or Macau, the documents shall be authenticated by institutions established or designated or non-government organizations entrusted by the Executive Yuan.
+
+For those whose verified documents of years of service prescribed in the preceding Paragraph are in a foreign language, the Chinese translation authenticated by the Overseas Missions or attested by the domestic notary public shall be attached.
+
+The provisions of Article 2, Paragraph 2, apply mutatis mutandis to the application in Paragraph 1.
+
+## Article 5
+
+The term “location of the business entity” prescribed in Article 9, Paragraph 1, Subparagraph 4 and Article 10, Paragraph 1, Subparagraph 4 refers to the address of the business entity.
+
+The term “scope of professional practice” prescribed in Article 9, Paragraph 1, Subparagraph 5 of the Act shall not exceed the “scope of professional practice of various engineering branches” prescribed in Article 13, Paragraph 2 of the Act.
+
+According to Article 9, Paragraph 2 of the Act, those applying to change the registered particulars in the professional engineer license shall fill out an application form, attach the professional engineer license, supporting documents for the changes, and license fee, and submit the application to the central competent authority.
+
+## Article 6
+
+A Professional Engineer who loses the professional engineer certificate or professional engineer license shall apply for reissue pursuant to Article 2 or 4 with a written statement of the lost details and shall surrender the original one immediately for nullification if it is found later on.
+
+A professional engineer who has damaged the professional engineer certificate or professional engineer license shall apply for reissue pursuant to Article 2 or 4 with the damaged professional engineer certificate or professional engineer license.
+
+## Article 7
+
+Where a professional engineer has possessed certificate verifying successful pass in professional engineer examination or professional engineer certificate, the engineering branch of which changes, the scope of professional practice, and renewal of the professional engineer certificate and professional engineer license shall be announced by the central competent authority after consultation with the competent authority of examination.
+
+## Article 8
+
+If a professional engineer is subject to the irrevocable punishment of revocation or abolishment of the professional engineer certificate, professional engineer license, or suspension of the professional practice, the certificate or license shall be surrendered to the central competent authority for nullification or storage by the specified date notified by the authority. Failure to surrender will result in the authority announcing the nullification and notifying the professional engineer association and the central authorities of the relevant industries. If a professional engineer is employed to practice the profession, their business entity shall be notified.
+
+## Article 9
+
+If a professional engineer voluntarily suspends the professional practice or is subject to a practice suspension penalty, and the central competent authority nullifies the professional engineer license, the applicant for resumption of practice and issuance of a new license shall, if the original license has not yet expired, submit the documents and license fee in accordance with the provisions of Article 4 and apply to the central competent authority. However, if the application for the license does not involve adding new engineering branches, the verified documents of years of service as prescribed in Article 4, Paragraph 1, Subparagraph 2 may be exempted. Upon successful review, the new license will be issued for the remaining validity period of the original license.
+
+For the professional engineer whose professional engineer license validity period has expired, the application in the preceding Paragraph for the renewal of the professional engineer license shall be in accordance with Regulations for Renewal of Professional Engineer Licenses.
+
+## Article 10
+
+The professional practice seal of a professional engineer shall bear the professional engineer’s name, engineering branch, professional engineer license number and name of business entity.
+
+## Article 11
+
+The competent authority may charge fees from the professional engineers for professional training conducted in accordance with Article 22 of the Act.
+
+The competent authority may authorize its subordinate agencies or entrust other government agencies or non-government organizations to conduct professional training prescribed in the preceding Paragraph.
+
+## Article 12
+
+The competent authority and central competent authorities of the relevant industries may authorize its subordinate agencies or entrust other government agencies to conduct a practice audit under Article 23 of the Act.
+
+## Article 13
+
+According to Article 23, Paragraph 3 of the Act, the annual practice report submitted by practicing professional engineers shall have the following:
+
+\1. Basic information of the business entity: including the name, location, number of employees and roster, and practicing professional engineers and their branches.
+
+\2. Statistical table for the annual handled service cases: including the names of service cases, the names of clients or entities commissioning the service, the service contract fee amounts, and this year’s completed amounts, the main participating practicing professional engineers, and the service summaries.
+
+\3. Allocation and expenditure of funds for research and development, and talent cultivation.
+
+\4. Production date.
+
+\5. Other matters as prescribed by the competent authority.
+
+## Article 14
+
+The term 'the professional engineer association of the corresponding engineering branch' as referred to in Article 24, Paragraph 1 of the Act, refers to the professional engineer association recognized by the central competent authority for the engineering branch where no professional engineer association has been established.
+
+## Article 15
+
+Members of the professional engineer association are limited to professional engineers who possess professional engineer licenses, unless otherwise stipulated by other laws and regulations.
+
+## Article 16
+
+A professional engineer association and a national federation of professional engineer association convene a general meeting of members (representatives), and the minutes of the meeting shall be distributed to each member (representative) within seven days after the meeting.
+
+## Article 17
+
+The competent authority of civil associations or the competent authority of the professional engineers shall notify each other of punishment imposed in accordance with Article 36 of the Act, and shall separately report to the central competent authority of civil associations and the central competent authority of the professional engineers.
+
+## Article 18
+
+A professional engineer who is subject to the disciplinary action of abolishment of the professional engineer license as stipulated in Article 40, Paragraph 1, Subparagraph 4 of the Act shall not again practice the profession of their engineering branch as defined by the Act.
+
+## Article 19
+
+Foreigners practicing the profession under the Act shall use Chinese.
+
+## Article 20
+
+The formats of the professional engineer certificate, professional engineer license, professional practice seal and various application forms shall be determined by the central competent authority.
+
+## Article 21
+
+These enforcement rules shall take effect upon the date of promulgation.
+
+## History
+
+1.Formulated and promulgated on March 12, 1975
+
+2.Amended and promulgated on March 8, 1978
+
+3.Amended and promulgated on November 10, 1986
+
+4.Amended and promulgated on July 21, 1999
+
+5.Amended and promulgated on July 11, 2001
+
+6.Amended and promulgated on November 14, 2012

@@ -1,0 +1,217 @@
+---
+title: "Regulations on Management of Medicament Samples and Gifts"
+title_zh: "藥物樣品贈品管理辦法"
+identifier: "L0030005"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1973-03-30
+last_amended: 2022-11-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030005"
+retrieved: 2026-10-12
+---
+
+# Regulations on Management of Medicament Samples and Gifts
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0030005-regulations-on-management-of-medicament-samples-and-gifts.md](../../../zh/regulations/ministry-of-health-and-welfare/L0030005-regulations-on-management-of-medicament-samples-and-gifts.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with the stipulations of the Pharmaceutical Affairs Act (hereafter referred as the Act), Article 55, Paragraph 2.
+
+## Article 2
+
+For a medicament that meets one of the requirements of the following subparagraphs, an application may be made to have it declared a medicament sample:
+
+I. The pharmaceutical firm is applying for registration or improvement of manufacturing technology purposes.
+
+II. Due to business needs, the pharmaceutical firm, academic research or trial institute, contract research organization, medical academic group or teaching hospital is applying for solely research or trial purposes.
+
+III. A specialized teaching hospital or teaching hospital at or above the regional level is applying for purposes of diagnosis and treatment of patients with critical or catastrophic illness.
+
+IV. A patient applying for personal uses, certified by a medical institution. However, medical devices that should be operated by a physician or professional are excluded.
+
+V. A medical device company applying for specific exhibitions or demonstration purposes.
+
+VI. A pharmaceutical firm applying for educational promotion purposes, given that the medicament has been issued a license in accordance with the stipulations of the Act.
+
+VII. An application for purposes of public safety or public health or due to major disasters.
+
+## Article 3
+
+A medicament gift as referred to in these Regulations refers to a medicament that has been licensed in accordance with the stipulations of the Act, and for which an application has been made to the central health competent authority for the medicament to be a gift for health or medical institutions, hospitals or clinics, or relief agencies for charity purposes.
+
+## Article 4
+
+To import or manufacture a medicament sample or gift as defined in Article 55,paragraph 1, shall fill out the application form; detail the product name, manufacturer name, place of origin, specification, package form and quantity; state the reason and purpose for application; and use and submit a photocopy of the applicant's qualification document and the materials prescribed in the stipulations of Articles 7 to 15 to the central health competent authority. However, the applications of importing laboratory consumables, which are used for collecting specimens in clinical trial, are eligible for the facilitated customs procedure, which the central health competent authority announced.
+
+The medicament can only be manufactured, imported or collected after approval. The qualification document mentioned in the preceding paragraph refers to the patient's ID card or passport, alien resident certificate or alien permanent resident certificate, pharmaceutical license, or agency, institution or corporate body registration certificate. However, this qualification document is waived if the applicant applies via an official letter affixed with the government (agency), public or private hospital's seal.
+
+## Article 5
+
+For sample medicaments where the application is being made for purposes of use in major disasters, the stipulations of the preceding article are not applicable. The central health competent authority may approve the samples based on circumstances.
+
+## Article 6
+
+The quantity of medicament samples applied for is limited to the actual amount required. However, for medical device samples for which application is made for purposes of technical improvement, specific exhibitions or demonstration, then except in special circumstances, the quantity is limited to one device (piece) of one model.
+
+For applications made in accordance with Article 2, Subparagraph 4, in addition to the stipulations of the preceding paragraph, they shall also comply with the following stipulations:
+
+I. Prescription drugs may not exceed a reasonable prescription amount.
+
+II. Over-the-counter drugs may not be re-applied for within six months. Except for special needs, which should be applied to the central health competent authority for approval, the quantity each time may not exceed 12 bottles, 12 cream tubes or a total quantity of 1,200 pills.
+
+III. Medical devices or instruments are limited to one device per model; and the quantity of consumables or sanitary materials may not exceed six months' usage.
+
+## Article 7
+
+For applications for samples of drugs or medical devices for the improvement of manufacturing technology made in accordance with the stipulations of Article 2, Subparagraph 1, the following materials shall be submitted:
+
+I. A photocopy of the certificate issued by the academic research agency implementing the improvement of manufacturing technology, or a photocopy of the pharmaceutical license of the drug manufacturer or medical device manufacturer.
+
+II. An affidavit stating that the approved drug sample or medical device sample will absolutely not be resold or used for other purpose and clinical purpose.
+
+III. Information related to technical improvement.
+
+## Article 8
+
+For applications for medicament samples for non-clinical study or in vitro study use made in accordance with the stipulations of Article 2, Subparagraph 2, the following materials shall be submitted:
+
+I. Study protocol.
+
+II. Materials related to the medicament.
+
+## Article 9
+
+For applications for samples of an investigational drug made in accordance with the stipulations of Article 2, Subparagraph 2, for which sale has not yet been approved by the country of origin, and which application is made for clinical trial purposes, the following materials shall be submitted:
+
+I. A written consent from the Institutional Review Board of the teaching hospital at provisional medical center level or above that is conducting the trial, or a written consent from the Institutional Review Board of a specialized teaching hospital that is conducting the trial for a special drug.
+
+II. A human trial protocol that is compliant with the stipulations of Article 50 of the Enforcement Rules of the Medical Care Act.
+
+III. The Informed Consent Form.
+
+If the drug mentioned in the preceding paragraph is a biological drug, the flow of the samples previously applied for shall be attached. However, this is not applicable to initial applications.
+
+## Article 10
+
+For applications made in accordance with the stipulations of Article 2, Subparagraph 2 for samples of an investigational drug that has been approved for sale by the country of origin, where the application is made for purposes of a clinical trial; the following materials shall be submitted:
+
+I. A written consent from the Institutional Review Board of the teaching hospital at regional level or above that is conducting the trial, or a written consent from the Institutional Review Board of a specialized teaching hospital that is conducting the trial for a special drug.
+
+II. A human trial protocol that is compliant with the stipulations of Article 50 of the Enforcement Rules of the Medical Care Act.
+
+III. The Informed Consent Form.
+
+IV. The drug's Certificate for Foreign Government issued by the country of origin.
+
+V. If the drug mentioned in the preceding paragraph is a biological drug, the stipulations of Article 9, Paragraph 2 apply.
+
+## Article 11
+
+For applications made in accordance with the stipulations of Article 2, Subparagraph 2 for an investigational medical device that has not yet been approved for sale by the country of origin, where the application is made for purposes of clinical trial, the following materials shall be submitted:
+
+I. A written consent from the Institutional Review Board of the teaching hospital at provisional medical center level or above that is conducting the trial.
+
+II. Structure, specifications, performance, purpose, drawings and other technical data for the trial medical device.
+
+III. Trial data on safety and efficacy of the investigational trial medical device.
+
+IV. A human trial protocol that is compliant with the stipulations of Article 50 of the Enforcement Rules of the Medical Care Act.
+
+V. The Informed Consent Form.
+
+## Article 12
+
+For applications made in accordance with the stipulations of Article 2, Subparagraph 2 for a medical device that has been approved for sale by the country of origin, where the application is made for purposes of clinical trial, the following materials shall be submitted:
+
+I. A written consent from the Institutional Review Board of the teaching hospital at regional level or above that is conducting the trial.
+
+II. The medical device's Certificate for Foreign Government issued by the country of origin.
+
+III. A human trial protocol that is compliant with the stipulations of Article 50 of the Enforcement Rules of the Medical Care Act.
+
+IV. The Informed Consent Form.
+
+## Article 13
+
+For applications for medicament samples in accordance with the stipulations of Article 2, Subparagraph 3, the following materials shall be submitted:
+
+I. A written consent from the Institutional Review Board of the hospital applying.
+
+II. Complete treatment method, course of treatment and related literature.
+
+III. The patient Informed Consent Form.
+
+IV. A photocopy of the medicament's Certificate for Foreign Government issued by the country of origin, package insert, or portfolio of drugs from various countries.
+
+Where the indications, methods of use and quantities of use for the medicament sample applied for are inconsistent with those originally approved, then in addition to the materials stipulated in the subparagraphs of the preceding paragraph, the central health competent authority may order the applicant to attach relevant clinical literature.
+
+If the sample mentioned in Paragraph 1 is a biological drug, the stipulations of Article 9, Paragraph 2 apply.
+
+## Article 14
+
+For applications for medicament samples for personal use in accordance with the stipulations of Article 2, Subparagraph 4, the following materials shall be submitted:
+
+I. An international parcel claim or customs bill of lading where the recipient is the patient.
+
+II. Outer box, instructions, package insert or catalog for the medicament.
+
+III. An affidavit stating that the approved medicament sample will absolutely not be sold, transferred or re-supplied to other patients.
+
+Where the sample applied for is a prescription drug or medical device, the diagnosis certificate and prescription issued by a domestic medical institution or the diagnosis certificate and prescription issued by the original foreign medical institution recognized by the central health competent authority shall also be submitted.
+
+In addition to the material prescribed in the stipulations of the preceding two paragraphs, when necessary, the central health competent authority may order the applicant to attach the Certificate for Foreign Government for the medicament issued by the country of origin.
+
+## Article 15
+
+For applications for medical device samples for specific exhibitions or demonstrations in accordance with the stipulations of Article 2, Subparagraph 5, the following materials shall be attached:
+
+I. Medical device package insert, instructions, catalog and their Chinese translations.
+
+II. The letter of consent for exhibition issued by the medical association, academic institution or medical institution.
+
+III. An affidavit stating that the approved medical device sample will absolutely not be sold, transferred, used for other purposes or used in clinical treatment, and that the sample will be returned on time in accordance with the stipulations of Article 17.
+
+For medical devices having radiation, a written consent from the Atomic Energy Council of the Executive Yuan shall be attached.
+
+## Article 16
+
+For a medical device sample approved as meeting the stipulations of Article 2, Subparagraph 5, the exhibition or demonstration period may not exceed six months.
+
+The applicant shall return the following medical devices to the manufacturer within one month after the exhibition, demonstration period, treatment or clinical trial ends, and the applicant shall submit the customs return export certificate to the central health competent authority for processing:
+
+I. Medical device samples approved as meeting the stipulations of Article 2, Subparagraph 5.
+
+II. Medical device instrument samples approved as meeting the stipulations of Article 2, Subparagraph 2 or 3.
+
+## Article 17
+
+Medicament samples or gifts that have been approved may not be sold, transferred or used for other purposes. Medicament samples for technical improvement purposes may not be used for clinical purposes.
+
+## Article 18
+
+For approved medicament gifts and medicament samples for educational promotion purposes, their package inserts, labels and packaging styles shall be consistent with those registered in the original permit license. The package volume for medicament samples for educational promotion purposes may not exceed the minimum registered packaging volume.
+
+## Article 19
+
+For medicaments approved as samples or gifts, the outer packaging shall be clearly marked with text stating "Sample" or "Gift". On samples for clinical trial purposes, text stating "For clinical trial" shall be marked.
+
+## Article 19-1
+
+When necessary, the central health competent authority may delegate a subordinate agency (or institution) or commission a relevant agency (or institution), legal entity, or group to conduct all or part of the review of applications for drug samples or gifts submitted in accordance with these regulations.
+
+## Article 20
+
+These Regulations take effect from the date of announcement.
+
+## History
+
+5.Promulgared by Ministry of Health and Welfare Order Bu-Shou-Shi Zi No. 1081401536, on April 11,2019
+
+6.Text of Article 19-1 added by Ministry of Health and Welfare Order Wei-Shou-Shi Zi No. 1111410275, on November 3,2022.

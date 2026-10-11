@@ -1,0 +1,279 @@
+---
+title: "Enforcement Rules for the Domestic Violence Prevention Act"
+title_zh: "家庭暴力防治法施行細則"
+identifier: "D0050072"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-06-22
+last_amended: 2024-07-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050072"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules for the Domestic Violence Prevention Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050072-enforcement-rules-for-the-domestic-violence-prevention-act.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050072-enforcement-rules-for-the-domestic-violence-prevention-act.md)) is authoritative.
+
+## Article 1
+
+The enforcement rules are stipulated according to Article 65 of Domestic Violence Prevention Act (thereinafter called the Act).
+
+## Article 2
+
+The economic harassment, control, and coercion, or other acts of illegal infringement, as set forth in Subparagraph 1 of Article 2 of the Act, shall include actions or behaviors that are sufficient to frighten a victim or make him/her suffer, as follows:
+
+1.Means such as excessively controlling the financial affairs of the family, not allowing the victim to work, or preventing the victim from working;
+
+2.Means such as forcing the victim to loan, serve as a guarantor, hand over, transfer ownership, create encumbrance, and limit the use of profits of cash, securities, personal property and other real property;
+
+3.Other types of economic harassment, control, and coercion, or other acts of illegal infringement.
+
+## Article 3
+
+Domestic violence prevention centers under municipal and county (city) governments shall, every six months, invite local authorities in charge of police administration, education, health, social affairs, civil affairs, household registration, judicial affairs, labor, news and immigration to a service coordination meeting to discuss and handle matters related to the measures mentioned in all of the subparagraphs of Paragraph 1 of Article 8 of the Act. Extraordinary meetings may be held if necessary.
+
+## Article 4
+
+When petitioning for emergency protection orders in accordance with the proviso of Paragraph 1 of Article 12 of the Act, prosecutors, police departments, or municipal and county (city) competent authorities shall take into account whether victims are in immediate danger of abuse, intimidation, harm, or other types of physically, mentally, or economically illegal infringement committed by opposite parties, or whether irreparable harm will be caused if no emergency protection orders are issued.
+
+## Article 5
+
+In the event that a written petition for a protection order is filed in accordance with the provisions of the first part of Paragraph 1 of Article 12 of the Act, the following shall be indicated:
+
+1.The name, sex, date of birth and ID document number as well as the domicile, residence or mailing address of the petitioner. If the petitioner is a juridical person, institution or any other organization, its name and principal office, administrative office or business office are required.
+
+2.If the petitioner is not the victim, the petitioner's name, sex and date of birth; domicile, residence or mailing address; and relationship with the victim.
+
+3.The name, sex, date of birth and domicile, residence, or mailing address of the opposite party, as well as his/her relationship with the victim.
+
+4.The name, sex, date of birth and domicile, residence, administrative office, or business office of the agent, if any.
+
+5.The purport of the petition and the reasons and facts involved;
+
+6.Evidence for proof or clarification purposes;
+
+7.Appendices and number of the appendices;
+
+8.The court;
+
+9.The date including the year, month and day.
+
+If the petitioner knows the ID document numbers of the victim, opposite party and agent, he/she may indicate their ID document numbers on the petition form.
+
+## Article 6
+
+While petitioning the emergency protection order verbally, by facsimile or by transmission through other technical equipment according to the proviso of Paragraph 1 of Article 12 of the Act, the prosecutors, police departments, or municipal and county (city) competent authorities shall state all items listed in the preceding article. Unless otherwise a special case happened, the hotline of the court must be applied.
+
+## Article 7
+
+The term “nighttime” mentioned in the proviso of Paragraph 1 of Article 12 of the Act means the period before sunrise and after sunset. The term “non-working day” means weekends, national holidays and other holidays that have been regulated by the central authority concerning personnel affairs.
+
+## Article 8
+
+When processing petitions for emergency protection orders as prescribed in the proviso of Paragraph 1 of Article 12 of the Act, the court may request the assistance of police officers and other relevant personnel to conduct investigations if it deems it is unable to determine whether victims are in danger of domestic violence based on the existing information.
+
+## Article 9
+
+Upon accepting the petition for the emergency protection order according to the proviso of Paragraph 1 of Article 12 of the Act, the petitioner and assistant investigators stated in the preceding article should state the whole case in person or by telephone. Refusals are not taken.
+
+## Article 9-1
+
+The definition of “sexual images” in Articles 14, 50-2, and 61 of this Act shall be subject to the provisions of Article 10, Paragraph 8 of the Criminal Code.
+
+## Article 9-2
+
+When issuing protection orders under Article 14, Paragraph 1, Sub-paragraph 14 of the Act, the court shall clearly state the scope of sexual images that the opposite party shall deliver or delete, as well as the method, location and deadline for execution if such actions can be attributed to the opposite party and are enforceable.
+
+If the sexual images ordered to be delivered by the opposite party under the preceding paragraph are electronic records, the opposite party shall provide them to the victim in the form of a USB drive, hard drive or other medium. If necessary, the opposite party may also be ordered to delete the sexual images in their possession.
+
+The USB drive, hard drive or other medium referred to in the preceding paragraph need not be returned to the opposite party.
+
+## Article 9-3
+
+When issuing protection orders under Article 14, Paragraph 1, Sub-paragraph 15 of the Act, the court shall clearly specify the names of the Internet platform providers, Internet application service providers, or Internet access service providers from which the opposite party must delete or apply for removal of the victim’s sexual images as well as the URLs where the victim’s sexual images are stored with respect to the parts attributable to the opposite party and are executable, and set an appropriate deadline for deletion or application for removal.
+
+## Article 10
+
+The environment and measures provided for the safe appearance of victims or witnesses in court as stipulated in Article 19, Paragraph 1 of the Act shall include all or part of the following:
+
+1.Provide video conferencing or one-way mirror trial space.
+
+2.Plan or arrange different routes and waiting areas to enter and leave the court than those used by the offender.
+
+3.Accessibility and other related measures.
+
+If victims or witnesses need the court to offer the measures set forth in the preceding paragraph when appearing before the court, they shall submit a statement to the court prior to or during court sessions.
+
+## Article 11
+
+The victim, when requests the compulsory enforcement to the local court where the target locates, according to Subparagraph 1 of Paragraph 1 of Article 21 of the Act, both of the original copy of the protection order and a written petition with the following items must be held:
+
+\1. The litigant or the agent.
+
+\2. The rights asking.
+
+The target and the enforcing actions or matters ruled in the Law of Compulsory Enforcement may be stated in the written petition.
+
+The court of enforcement may deduct the enforcement fees that be temporarily exempted according to Paragraph 1 of Article 21 of the Act from the amount granted from compulsory enforcement earnings.
+
+Shall the fees mentioned in the preceding paragraph not be deducted, the court may serve the original copy of the ruling to the creditor and debtor after the enforcement is completed. The party who should bear such fees and the amount will be mentioned on the ruling.
+
+## Article 12
+
+Shall the victim apply for the enforcement of protection order prohibiting access to information stated in Sub-paragraph 12 of Paragraph 1 of Article 14 of the Act according to Sub-paragraph 4 of Paragraph 1 of Article 21 of the Act, the application must be submitted to the following agencies:
+
+1.Relevant household registration information: Any household registration office.
+
+2.Relevant school enrollment information: School enrolled.
+
+3.Relevant income source information: Any national tax administration.
+
+If the victim is a minor, has physical or mental disabilities or is unable to appoint an agent for some reason, the protection order petitioner may submit the petition set forth in the preceding paragraph.
+
+In case of a change in the validity period of a protection order, the victim, applicant or opposite party shall present the protection order, petition for extension of ordinary protection order or relevant proof documents to the agencies and schools set forth in all of the sub-paragraphs of Paragraph 1 to apply for alteration or an annulment.
+
+## Article 13
+
+The obligee mentioned in Article 24 of the Act is defined as the party who temporarily exercise the rights and assume duties of minors, assigned by the court under Subparagraph 6 of Paragraph 1 of Article 14 of the Act. The obligor is defined as the party who must deliver the minors to obligee under Subparagraph 6 of Paragraph 1 of Article 14 of the Act.
+
+## Article 14
+
+The definitions of obligee and obligor, as set forth in Article 25 of the Act, are as follows:
+
+1.Before every child visitation:
+
+(1) Obligee: A person who applies for a child visitation in accordance with Subparagraph 7 of Paragraph 1 of Article 14 of the Act.
+
+(2) Obligor: The party designated by the court in accordance with Subparagraph 6 of Paragraph 1 of Article 14 of the Act to temporarily exercise the rights and assume duties of his/her or their minor(s).
+
+2.After every child visitation:
+
+(1) Obligee: The party designated by the court in accordance with Subparagraph 6 of Paragraph 1 of Article 14 of the Act to temporarily exercise the rights and assume duties of his/her or their minor(s).
+
+(2) Obligor: A person who applies for a child visitation in accordance with Subparagraph 7 of Paragraph 1 of Article 14 of the Act.
+
+## Article 15
+
+When filing a compulsory enforcement petition with the court that shall enforce the orders in accordance with Article 24 or 25 of the Act, the oblige shall comply with the provisions of Article 11, and shall submit, along with the petition, the documents that prove nonfulfillment within the period specified by the police department or municipal or county (city) competent authority receiving his/her pervious petition.
+
+## Article 16
+
+If the demurrer is brought up to the enforcement agency by the litigant or interested person under Paragraph 1 of Article 27 of the Act, a written form or speech must be presented. If it is made by a speech, the staff member or the office that accepts it will have to make a record, and read to the applicant or have he/she read it. Once the content is confirmed by the applicant, please have the applicant sign the record.
+
+Either the written form or the record of the speech must have the litigant’s name and the reasons on it. Shall the interested person be the applicant, please record the relationship between the litigant and the interested person.
+
+## Article 17
+
+The term “the time of completion of criminal proceedings” mentioned in Paragraph 2 of Article 31 of the Act is defined as follows:
+
+1.The cases that are put into non-prosecution or deferred prosecution by the prosecutor, by the time the disposition is determined.
+
+2.The cases that are put into public prosecution or being petitioned for a summary judgment, by the time the judgment is determined.
+
+## Article 18
+
+A written document with evidence and all other information must be presented to the prosecutor and the court by the police officers, according to Article 35 of the Act. However, speech, facsimile or other technical means may be applied, if the cases are considered urgent.
+
+## Article 19
+
+(Deleted)
+
+## Article 20
+
+When police officers discover that the probationer has violated the instructions stated in Paragraph 2 of Article 38 of the Act during probation period, they shall gather all evidence and report to the prosecutor in the district prosecutor’s office where the probationer has registered his/her household or where he/she currently resides. The same shall apply to those applicable under Article 39 of the Act.
+
+## Article 21
+
+The reporting methods set forth in Paragraph 2 of Article 50 of the Act shall be via facsimile transmissions or other technological devices. In case of emergency, a report may be given in oral form or over the telephone first, and a supplementary report shall be submitted within twenty-four hours after the initial report.
+
+The aforesaid report shall contain basic information about the reporter, victim, and opposite party, concrete facts of any acts of violence, relevant assistance, and other matters.
+
+## Article 22
+
+The information that is sufficient to identity a victim and his/her minors, as specified in Article 50-1 of the Act, shall include the following:
+
+1.Photos, videos or audios.
+
+2.Domicile or residence.
+
+3.School or class enrolled.
+
+4.Work site.
+
+5.Names of relatives or family members.
+
+6.Other information that can be used to identify an individual.
+
+## Article 23
+
+The municipal and county (city) competent authorities stated in Article 58 of the Act shall be the authorities in which the victim registered his/her household.
+
+## Article 23-1
+
+The competent authorities under Article 58-2, Paragraph 1, Sub-paragraph 6 of the Act are the municipal and county (city) competent authorities of the victim’s domicile or residence.
+
+The municipal and county (city) competent authorities that provide the physical and mental treatment, counseling, social and psychological evaluation, and disposition stipulated in Article 58-2, Paragraph 2 of the Act shall be the municipal and county (city) competent authorities where the victim resides.
+
+## Article 23-2
+
+A victim who applies for registration with the Department of Household Registration under Article 58-2, Paragraph 1 of the Act shall submit the supporting documents specified in Sub-paragraphs 1 to 6 of Article 58-2, Paragraph 1 of the Act to any household registration office.
+
+If a victim has difficulty obtaining the supporting documents specified in the preceding paragraph, the victim may request assistance from the municipal and county (city) competent authorities of the victim’s residence. The requested authority shall provide such assistance.
+
+A victim who has registered with the Department of Household Registration under Article 58-2, Paragraph 1 of the Act may apply to cancel their registration by presenting their identification document to any household registration office.
+
+When a household registration office is processing a victim’s registration application, it may inquire with the jurisdictional municipal and county (city) competent authorities about any questions regarding the victim’s subject or content of the registration. The requested authority shall provide such assistance.
+
+## Article 23-3
+
+The industry competent authorities for the purposes of Article 61-1 of the Act are as follows:
+
+1.Radio and television broadcasting: National Communication Commission.
+
+2.Promotional materials, publications, the Internet, or other media: The competent authority in the special municipality or county (city) where the victim is located.
+
+The industry competent authorities referred to in Article 61-2 of the Act are defined as follows:
+
+1.Internet access service provider registered as a telecommunications business: National Communication Commission.
+
+2.Internet access service provider, Internet platform provider, or Internet application service provider not registered as a telecommunications business:
+
+(1)For companies, businesses, or limited partnerships registered in Taiwan: the municipal and county (city) competent authorities of the places where such companies, businesses or limited partnerships are registered.
+
+(2)For companies, businesses or limited partnerships not registered in Taiwan: the municipal and county (city) competent authorities where the victim is located.
+
+## Article 24
+
+The intimate partners specified in Paragraph 2 of Article 63-1 of the Act may be determined with reference to the following factors:
+
+1.The nature of the relationship;
+
+2.The duration of the relationship;
+
+3.The frequency of interactions;
+
+4.The occurrence and frequency of sexual behavior;
+
+5.Other facts that are sufficient to determine intimacy.
+
+## Article 25
+
+The enforcement rules shall come into force on and from the date of announcement.
+
+## History
+
+1.Announced under Tai(88)-Nei-Jia-Zi No. 8881024 on June 22nd, 1999.
+
+2.Amended and announced under Tai-Nei-Fan-Zi No. 0960151161 on October 2nd, 2007.
+
+3.Full text of 25 articles amended and promulgated under the Ministry of Health and Welfare Order Wei-Bu-Hu-Tzu No. 1041460838 on July 29, 2015; the articles mentioned herein shall come into effect on the date of promulgation.
+
+4.Amended Article 20 and announced by the Ministry of Health and Welfare on May 27, 2021, under Wei-Bu-Hu-Chi Order No. 1101460511.
+
+5.Amending and promulgating 12 articles under the Ministry of Health and Welfare Order Wei-Bu-Hu-Tzu No.1131460664 on July 3, 2024; the articles mentioned herein shall come into effect on the date of promulgation.

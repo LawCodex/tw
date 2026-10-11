@@ -1,0 +1,165 @@
+---
+title: "Regulations for Levying the Management Fees at Science Parks"
+title_zh: "科學園區管理費收取辦法"
+identifier: "H0160032"
+type: regulation
+law_level: "命令"
+category: "行政＞國家科學及技術委員會＞園區目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-28
+last_amended: 2024-09-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0160032"
+retrieved: 2026-10-12
+---
+
+# Regulations for Levying the Management Fees at Science Parks
+
+> Translation. The Chinese text ([zh/regulations/national-science-and-technology-council/H0160032-regulations-for-levying-the-management-fees-at-science-parks.md](../../../zh/regulations/national-science-and-technology-council/H0160032-regulations-for-levying-the-management-fees-at-science-parks.md)) is authoritative.
+
+## Article 1
+
+The Regulation is promulgated in accordance with the provision of Paragraph 2, Article 29 of the Act for Establishment and Administration of Science Parks (hereinafter referred to as “the Act”).
+
+## Article 2
+
+Pursuant to the Regulation, the Bureau is authorized to receive the management fees from park enterprises, financial institutions and other institutions; provided, however, that non-profit government institutions and public utilities providing water and electricity infrastructure in the Park are exempted from such fees.
+
+## Article 3
+
+The management fees that shall be paid by park enterprises not located in urban parks are calculated according to the size of either the rented land or the factory buildings in use. The rate for fee calculation is set forth in Attachment I. In the event that park enterprises rent both the land and factory buildings, the fee amount, calculated based on the area of land or factory buildings, whichever is higher, shall apply.
+
+The provision of the preceding paragraph shall apply mutatis mutandis where the land is self-owned by park enterprises.
+
+In the event that a park enterprise, which pays the management fees in accordance with the first paragraph of this Article, thereafter obtains approval from the Bureau to establish new factory buildings, such park enterprise shall pay the management fees for the newly increased area of factory buildings upon completion of amendment to the factory registration.
+
+The management fees that shall be paid by park enterprises located in urban parks are calculated according to the size of the rented factory buildings in use. The rate for fee calculation is set forth in Attachment II.
+
+The term “urban parks” as used in this Regulation shall mean the parks, of which the land has the living and public service functions of urban area and is conducive to the exchange and cooperation between the industry and the academic research institutions, for which planning proposal for urban parks are prepared by the Bureau, and which have been approved by the Executive Yuan upon submission thereof by National Science and Technology Council.
+
+## Article 4
+
+Park enterprises shall pay one point nine thousandth (1.9/1000) of the sales revenue as the management fee if the amount calculated based on the sales revenue exceeds the management fees prescribed in the preceding paragraph.
+
+In the event that the park enterprises set up the headquarter within the Park, and branches outside the Park, or vice versa, the headquarter and branches shall respectively report their sales amount and pay the business tax thereof to the competent tax authority where each is located.
+
+The term "sales revenue" as used in this Regulation shall mean the aggregated amount of the sales amounts noted on the Business Operator's Sales Amount and Tax Return, receipts and the allocation or transfer of services and goods between headquarter and branches or other basis that is sufficient to objectively calculate the value of output, after deducting the amount of the items specified in Article 10 hereof.
+
+## Article 5
+
+For park enterprises that are partly located in urban parks, the management fees prescribed in Article 3 and Paragraph 1 of the preceding article shall be calculated separately.
+
+## Article 6
+
+The park enterprises or the financial institutions established in parks shall pay the management fees, commencing from the first day of the subsequent month following the approval date of business registration approval granted by the competent tax authority; those park enterprises who have not obtained approval of the business registration from the competent tax authority shall pay the management fees commencing from the first day of the subsequent month following the first anniversary of registration of corporation, branch or limited partnership.
+
+For those park enterprises as mentioned in the preceding paragraph and have set up factories in other parks but have not yet completed the factory registration, the management fees shall be paid commencing from the first day of the subsequent month following the first anniversary of land or factory lease contract; for those factories located in other parks which have completed the factory registration, the management fees thereof shall be paid commencing from the first day of the subsequent month following the completion of factory registration.
+
+For park enterprises other than those mentioned in the preceding two paragraphs, the management fees shall be paid commencing from the first day of the subsequent month following the effective date of the lease contract with the Bureau or other self-builder of the rented land.
+
+## Article 7
+
+Financial institutions shall pay the management fees based upon two ten thousandth (2/10000) of the sales amount and not be bound by the payment of management fees as set forth under paragraph 1 of Article 3..
+
+## Article 8
+
+Except for the park enterprises and financial institutions, other institutions shall pay the management fees in accordance with the list of collection fees as shown in Attachment III.
+
+The classification of other institutions shall be determined by the Park Bureau according to the actual nature of the institutions.
+
+Fees computed according to the rental area in Attachment III, if found to be apparently unfair, can be adjusted to the computation based upon the actual area in use under the approval of the Bureau.
+
+## Article 9
+
+For park enterprises and financial institutions reporting their management fees, the procedure, deadline of payment and relevant supporting documents are as follows:
+
+\1. The management fees shall be paid every two months. The payment shall be voluntarily reported and paid to the bank designated by Bureau by the twentieth day of each odd month.
+
+\2. When paying the management fees, the park enterprises having obtained the approval of business registration from the competent tax authority shall provide the detailed list of self-reported management fees, a photocopy of the "Business Operator's Sales Amount and Tax Return" affixed with the receipt seal of the competent tax authority, certificates for deduction items and the "Detailed lists for exemption from the use of uniform invoice receipt by Science Park Enterprises," and the park enterprises shall have the aggregated amount of the receipts filled in the related columns of "Business Operator's Sales Amount and Tax Return." In the event that a park enterprise sets up its headquarter within the Park and branches outside the Park, or vice versa, and that the headquarter reports its sales amount together with the sales amount of its branches and pays the business tax thereof to the competent tax authority where the headquarter is located, such a park enterprise shall additionally submit its "Business Operator's Sales Amount and Tax Return" affixed with the receipt seal of the competent tax authority. The Bureau may request such a park enterprise to provide import/export declarations, delivery certificates, sales orders or other supporting documents which are sufficient to prove its sales revenues and satisfactory to the Bureau.
+
+\3. Those park enterprises failed to obtain the approval of the business registration from the competent tax authority shall provide the detailed list of self-reported management fees when paying the management fees.
+
+\4. The financial institutions shall provide a photocopy of the "Business Operator's Sales Amount and Tax Return" affixed with the receipt seal of the competent tax authority.
+
+The detailed list of self-reported management fees provided pursuant to the second and third subparagraph of the preceding paragraph shall be reported online in accordance with the management fee reporting system established by the Bureau.
+
+If the Bureau finds any underpayment made by the park enterprises and the financial institutions, the park enterprises and the financial institutions shall fill up the shortage thereof when paying the next management fees. If there is any correction in the reported sales amount previously filed with the competent tax authority, the management fees of the previous period shall be adjusted by including the adjusted sales amount in the management fees report for the month in which correction is made.
+
+## Article 10
+
+If the park enterprises can provide sufficient evidence or documentation, such as: sales return and allowances, collect and payment for others, sales of fixed assets or waste material, sample giveaway, interest income and financial lease, or those items in compliance with the relevant tax regulations and approved by the National Science and Technology Council, no management fees shall be paid.
+
+## Article 11
+
+Except for the park enterprises and financial institutions located within the Science Park, other institutions, after signing an agreement with the Bureau or self-construction factory tenants on rented land, shall on the twentieth (20th) day of each month, on the first month of every quarter or on or before the twentieth (20th) day of January of every year take the payment notice issued by the Bureau and pay the management fees of that month, quarter or current year to the designated banks.
+
+Other institutions, if are allowed to self-construction on rented land, not only shall sign an agreement with the Bureau but shall also pay the management fees in accordance with the provision of the preceding paragraph following the date of obtaining the usage license.
+
+## Article 12
+
+In the event that park enterprises, financial institutions and other institutions fail to pay management fees within the deadline for the payment, the provision of Article 33 of the Act shall apply.
+
+## Article 13
+
+The Bureau may investigate the status of filing and payment of management fees by the Park enterprises and the financial institutions and can request the competent tax authority where they are located to provide the information of sales amount including the "Business Operator's Sales Amount and Tax Return" filed by the headquarter and/or branches of park enterprises and the financial institutions. If inconsistency is found, the reasons shall be investigated and actions shall be taken according to the result of investigation.
+
+## Article 14
+
+The park enterprises, who have been revoked or whose investment projects have been annulled by the Bureau, or the financial institutions, whose revocations or annulments of company registrations have been approved by the competent authorities, or other institutions, who have properly finished the procedures of rescinding the agreements, shall not be liable to pay the management fees of that payment term; provided, however, if the park enterprises and the institutions have any of the following circumstances, the management fees of that payment term shall be paid by the surviving or the newly established park enterprises and institutions:
+
+\1. The merger, acquisition or demerger of the Park enterprises and the institutions.
+
+\2. The change of a head office in the Park as a branch office established, or the change of a branch office in the Park as a head office established.
+
+## Article 15
+
+To estimate the value of output, operation, sales and other similar numerical quantity of each industry in the Park, the Bureau can request the park enterprises to provide information regarding the projection of sales revenue as a reference to forecast the future management fees to be charged.
+
+## Article 16
+
+In response to natural disaster, epidemic, and significant change in domestic and foreign finance, economy and society, in avoidance of the difficulties occurred to or the significant impacts on the operations of relevant enterprises and institutions in the Park, and in order to assist in the sustainable development of high-tech industries in the Park and to promote the technical competitiveness of our country, the Bureau may, upon approval of the National Science and Technology Council, announce and implement the bailout measures, granting the favorite scheme for the management fee within a certain period.
+
+## Article 17
+
+These Regulations shall become enforceable from the date of promulgation.
+
+## Attachments
+
+- [Attachment I：Table of Floating Rates of the Management Fees for the Park Enterprises not Located in Urban Parks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008776)
+- [Attachment II：Table of Rates of the Management Fees for the Park Enterprises Located in Urban Parks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008777)
+- [Attachment III：List of Management Fees for Other Institutions within the Science Park (Excluding Park Enterprises and Financial Institutions in the Park).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008778)
+
+## History
+
+\1. Promulgated by the National Science Council per Order (2001) Tai-Hui-Yuan-Tou-Zi No. 033593 on December 28, 2001
+
+\2. Amended and promulgated by the National Science Council per Order Tai-Hui-Gui-Zi No. 0910068529-1 on December 31, 2002
+
+\3. Amended and promulgated by the National Science Council per Order Hui-Shou-Yuan-Tou-Zi No. 0950034299D on December 26, 2006
+
+\4. Article 13-1 enacted and promulgated by the National Science Council per Order Hui-Shou-Yuan-Tou-Zi No. 0980003573 on February 6, 2009
+
+\5. Article 14 amended and promulgated by the National Science Council per Order Hui-Shou-Yuan-Tou-Zi No. 0980006869 on March 10, 2009
+
+\6. Articles 3, 4, 7, 11, and 14 amended and promulgated by the National ScienceCouncil per Order (2009) Tai-Hui-Xie-Zi No. 0980025536A on April 10, 2009
+
+\7. Articles 13-1 amended and promulgated by the National Science Council per Order (2009) Tai-Hui-Xie-Zi No. 0990019470A on March 18, 2010
+
+\8. Articles 11 and 14 amended and promulgated by the National Science Council per Order (2010) Tai-Hui-Xie-Zi No. 0990089895A on December 22, 2010
+
+\9. Article 8 amended and promulgated by the Ministry of Science and Technology per Order Ke-Bu-Tsang-Zi No. 1030050147A on July 14, 2014
+
+\10. Articles 3, 4, 7, 11, and 13 as well as the Attachments of Articles 3 and 6 amended and promulgated by the Ministry of Science and Technology per Oder Ke-Bu-Tsang-Zi No. 1040083259A on November 24, 2015)
+
+\11. Amended and promulgated by the Ministry of Science and Technology per Order Bu-So-Chu-Shang-Zi No. 1070035713A on December 6, 2018 and enforced on January 1, 2019, with 14 articles.
+
+\12. Article 13-1,14 amended and promulgated by the Ministry of Science and Technology per Order Bu-So-Nan-Shang-Zi No. 1090014512A on June 3, 2020
+
+\13. Article 2 amended and promulgated by the Ministry of Science and Technology per Order Bu-So-Nan-Shang-Zi No. 1110008773B on March 24 , 2022
+
+\14. Article 8,13-1 amended and promulgated by the National Science and Technology Council per Order (2022) Ke-Hui-Tsang-Zi No. 1110072036B on November 22, 2022
+
+\15. Full texts of 17 articles were amended and promulgated by the National Science and Technology Council per Order Hui-So-Zhu-Shang-Zi No.1130030661B on September 19, 2024, and shall become enforceable from the date of promulgation.

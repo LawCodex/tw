@@ -1,0 +1,313 @@
+---
+title: "Regulations on Election and Recall in Civil Associations"
+title_zh: "人民團體選舉罷免辦法"
+identifier: "D0050093"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞合作及人民團體目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-08-16
+last_amended: 2023-12-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050093"
+retrieved: 2026-10-12
+---
+
+# Regulations on Election and Recall in Civil Associations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0050093-regulations-on-election-and-recall-in-civil-associations.md](../../../zh/regulations/ministry-of-the-interior/D0050093-regulations-on-election-and-recall-in-civil-associations.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Article 66 of the Civil Associations Act.
+
+## Article 2
+
+The election or recall in civil associations referred to in these Regulations is the election or recall of directors, supervisors, standing directors, standing supervisors, chairperson or member representatives of civil associations at all levels established according to law.
+
+The member representatives referred to in the preceding paragraph are the representatives elected according to law or pursuant to the constitutions of civil associations to attend the member representative’s congress.
+
+## Article 3
+
+Except for the provisions of Articles 23 and 24, the election or recall in civil associations shall be organized by assembly at the same place.
+
+The election or recall in civil associations shall not be organized in foreign countries, mainland China, Hong Kong or Macau.
+
+## Article 4
+
+When the number of people to be elected in a civil association is one (1), the election shall be implemented by way of secret single vote; when the number of people to be elected in a civil association with two or more (2), the election shall be implemented by way of secret block vote; however, in case of an election by assembly, the election may be implemented by way of secret limited vote with the consent of one third or more people attending the meeting.
+
+The allotment of secret limited vote referred to in the preceding paragraph shall be limited to a half of the number of people to be elected, and no more claim for limit shall be made.
+
+## Article 5
+
+The board of directors shall, fifteen (15) days prior to the meeting where the election or recall of civil associations’ directors, supervisors, and member representatives is organized, review the eligibility of members (member representatives) and make a list of members (member representatives) specifying their names and contact information (i.e., telephone and address)
+
+If the members (member representatives) in the list referred to in the preceding paragraph have no right to vote, to be elected or to recall, it shall be indicated at the bottom of their names.
+
+## Article 6
+
+Either paper or electronic ballots shall be used in the election in civil associations and shall specify the name of the association, election session, position title, and date of election. The board of directors of an association (a preparatory office for an association under establishment) shall choose one of the following three methods for preparing the ballots:
+
+\1. List  the names of all persons elected on a ballot for electors to choose from.
+
+\2. Mark out blank spaces according to the number of people to be elected for electors to fill in.
+
+\3. List the candidate reference on a ballot for electors to choose from and leave blank spaces equal to the number of people to be elected for electors to fill in.
+
+The candidates in the reference list referred to in the third subparagraph of the preceding paragraph may be proposed by the board of directors, according to the constitutions of civil associations or determined by the member’s (member representative’s) congress and taking gender equality into account; or registered with their civil associations by the members (member representatives), the number of people should be the same or more than the number of people to be elected. If the registration is less than the number of people to be elected, the board of directors (a preparatory office for an association under establishment) shall resolve to nominate members (member representatives) to make up for the difference; however, people to be elected are not limited to the candidates in the reference list.
+
+Ballots used for recall in civil associations shall be either paper or electronic and shall specify the name of the association, position title, and date of recall. The names of people to be recalled shall be printed on a ballot for the recall elector to choose from.
+
+## Article 7
+
+When the members (member representatives) of civil associations are unable to attend the member’s (member representative’s) congress for election or recall, they may entrust other members (member representatives) of the associations in writing to attend and exercise their rights provided that one person can only be entrusted by one member (member representative). In occupational associations, the number of members (member representatives) entrusted to attend shall not exceed one-third of the number of attendees in person unless otherwise provided by law. If there is restriction on the type of members (member representatives), members (member representatives) of the same type shall be entrusted to attend.
+
+The number of attendees entrusted and the number of attendees in person referred to in the preceding paragraph shall be calculated based on the sign-in book.
+
+If members (member representatives) attend a meeting in person after entrusting other members (member representatives) to attend, they shall terminate the entrustment in writing and exercise their rights after signing in.
+
+When member representatives are elected in different districts, entrustment shall be handled in accordance with the regulations in the first paragraph. In occupational associations, however, entrustment is limited to the election of member representatives in different districts by assembly.
+
+## Article 8
+
+Except as otherwise provided in Article 23 herein or other laws and regulations, civil associations shall implement the following in the course of an election or recall:
+
+\1. Explain or announce voting procedures and instructions upon arrival at the scene.
+
+\2. Decide on the election personnel, such as scrutineers, ballot distributors, ballot announcers, and tellers.
+
+\3. Set up and examine the voting boxes. However, this does not apply if the election use electronic ballots.
+
+\4. Check the identity of electors or recall electors and help sign in or report for duty.
+
+\5. Distribute ballots, vote, and count ballots.
+
+\6. Determine the validity of votes in dispute or recall votes in dispute.
+
+\7. Announce the election results.
+
+When an elector or recall elector is unable to mark the ballot or recall ballot in person due to illiteracy or physical or mental disability, they may request the presumptive or designated election personnel to mark the ballot on behalf of the elector or recall elector.
+
+## Article 9
+
+People who have one of the following circumstances when attending the election or recall in civil associations shall be warned by scrutineers; those who disobey the warning shall be reported to the chairperson, who shall announce on the spot the cancellation of their right to vote, to be elected, to recall or to attend the meeting with the consent of two thirds or more of the attendees. Such announcement shall be recorded in the minutes:
+
+\1. Obstruct the order or proceeding of the meeting.
+
+\2. Carry weapons or dangerous goods.
+
+\3. Oversee, persuade, or interfere with other electors or electors marking ballots or recall ballots.
+
+\4. Mark ballots or recall ballots collectively or show the marked ballots to others.
+
+## Article 10
+
+In the event of one of the following circumstances, a ballot or recall ballot shall be deemed invalid:
+
+\1. A ballot or recall ballot is not provided by civil associations.
+
+\2. The total number of people being elected marked (including altered) exceeds the prescribed quota or number by way of block vote, or both “Consent to recall” and “Dissent to recall” are marked on a recall ballot.
+
+\3. Other characters or symbols are marked; however, if there are two or more persons of the same name to be elected or recalled, an elector or an elector may explain clearly under their names.
+
+\4. The marked names of people to be elected or recalled do not match the list of members (member representatives).
+
+\5. The mark cannot identify the person or“Consent to recall” or “Dissent to recall.”
+
+\6. A ballot or recall ballot is altered after being marked.
+
+\7. Handwriting is illegible.
+
+\8. A ballot or recall ballot is marked with a pencil, except for the computerized vote counting of paper ballots or recall ballots.
+
+\9. Something is attached to a ballot or recall ballot that is apparently a secret sign.
+
+\10. A ballot or recall ballot is so contaminated that it becomes unidentifiable.
+
+\11. A signature, seal or fingerprint is affixed to a ballot or recall ballot.
+
+\12. A ballot or recall ballot is torn, resulting in its incompleteness.
+
+\13. A ballot or recall ballot is left completely blank.
+
+If circumstances specified in subparagraphs 4 to 7 of the preceding paragraph occur in part, the chairperson and all scrutineers shall determine on the spot that the part is invalid. Any dispute shall be put to a vote by the chairperson and all scrutineers. If the number of affirmative votes is the same as that of negative votes, the ballots shall be deemed valid.
+
+## Article 11
+
+If elections in civil associations are printed on the same ballot, if the name of the same people elected are written twice or more shall be counted as once.
+
+## Article 12
+
+After the directors and supervisors of civil associations are elected, the meetings of the board of directors and the board of supervisors shall be convened separately by the former chairperson and the convener of the board of supervisors (standing supervisors), or a convener of a preparatory office of an association under establishment, within seven (7) to fifteen (15) days from the adjournment of the member’s (member representative’s) congress. If the said meetings are not convened within the time limit, they shall be convened by the director or supervisor with the most votes or the director or supervisor designated by the regulating authority. If the meetings cannot be convened within the given time, they may be prolonged upon approval of the regulating authority.
+
+If the meetings of the board of directors and the board of supervisors are held on the same day of the member’s (member representative’s) congress, a notice of the member’s (member representative’s) congress, coupled with such meetings, shall be given.
+
+According to laws or regulations or the constitutions of civil associations, the election of directors and supervisors is not limited to members (member representatives) present. Unless otherwise approved by all elect directors and supervisors, meetings of the board of directors and the board of supervisors shall not be held on the day of the member’s (member representative’s) congress.
+
+## Article 13
+
+Where a civil association has provisions that restrict re-elections, if incumbent directors and supervisors are dismissed due to the disqualification of members (member representatives) and at the same time join the association as other qualified members (member representatives), they shall still be restricted by such provisions in re-elections or by-elections.
+
+Directors or supervisors subject to re-election restrictions shall not be elected as alternate directors or alternate supervisors.
+
+## Article 14
+
+When the member’s (member representative’s) congress of civil associations amend the constitutions of civil associations to increase the statutory number of directors and supervisors, the increased number of directors and supervisors shall first be filled by alternate directors and alternate supervisors in due order. If there are any vacancies, a by-election shall be held to fill the vacancies.
+
+## Article 15
+
+In the election of civil associations, elect and alternate electee shall be ranked in order of votes based on the number of people to be elected. In case of the same votes, the ranking shall be determined by drawing lots. If the elect person is not present or does not draw lots after three roll-calls despites being present, the chairperson or host shall draw lots on their behalf.
+
+The elect person referred to in the preceding paragraph may waive election on the spot or before assuming office by submitting a written statement.
+
+## Article 16
+
+If a member (member representative) of a civil association is elected as a director and a supervisor or an alternate director and an alternate supervisor at the same time, the elect person shall choose one on the spot; if the elect person is not present or unable to make a choice, they shall be elected as the position with more votes. In case of the same votes, the ranking shall be determined by drawing lots. If a person is a formal electee and an alternate at the same time, they shall be deemed the formal electee.
+
+## Article 17
+
+When there are vacancies for directors and supervisors of civil associations, alternate directors and alternate supervisors shall fill the vacancies in due order. If the number of directors and supervisors still does not reach two-thirds of the number specified in the constitutions of civil associations, a by-election shall be held. When there are vacancies for the chairperson, standing directors or convener of the board of supervisors (standing supervisors) of civil associations, they shall be re-elected within one (1) month from the date of vacancy; however, if the term of office of the chairperson is about to expire within six (6) months, within one (1) month from the date of vacancy, the chairperson may be represented pursuant to the provisions of the constitutions of civil associations or one shall be elected by and from the elect directors, or directors if there no standing directors are set.
+
+## Article 18
+
+If a member (member representative) of a civil association is qualified for two or more members (member representatives) at the same time, they shall have two or more rights to vote or to recall but shall have only one right to be elected.
+
+## Article 19
+
+Where laws and regulations or the constitutions of civil associations limit the number of people to be elected in civil associations according to the percentage, the number of candidates to be elected shall be calculated separately in accordance with the provisions of Article 15. In case of vacancies, alternates of the same category shall fill the vacancies in due order.
+
+## Article 20
+
+The election or recall meetings of a civil association require the attendance of more than one half of the attendees, and the calculation of the number of attendees shall be subject to the number of persons signed in or reported.
+
+If the attendees propose a motion to check the number of persons present, the chairperson shall put the vote for the motion on-site and check the number of persons present with the consent of the greater number of votes for the motion. If the checked result of the number of persons present does not meet the requirement for convening the meeting, the chairperson shall declare the meeting closed immediately.
+
+## Article 21
+
+The directors and supervisors of civil associations shall be re-elected within one (1) month before the expiration of their term of office. If it is difficult to hold the reelection within the said time limit, civil associations may apply to the regulating authority for an extension of no more than three (3) months.
+
+In the event of natural disasters, incidents, or other force majeure events, the regulating authority may announce that civil associations may postpone the reelection for a certain period of time.
+
+## Article 22
+
+If the directors and supervisors of higher-level civil associations are elected only from among member representatives appointed by lower-level civil associations, their elect positions shall be forfeited with the disqualification of members (member representatives) of lower-level civil associations.
+
+## Article 23
+
+The election of directors and supervisors of civil associations may be held by way of postal voting, as stipulated in the constitutions of civil associations. The board of directors shall convene a meeting forty-five (45) days before the scheduled vote-counting date to review the qualifications of members (member representatives) and create a list for members to read. The paper postal voting ballots should be printed and mailed based on the list of members (member representatives) thirty (30) days before the vote-counting date.
+
+The items to be contained and noted in the list of members (member representatives) in the preceding paragraph shall be handled in accordance with Article 5.
+
+Regarding the postal voting referred to in the first paragraph, civil associations shall draw up relevant regulations specifying the notice of election, election personnel, voting rules and determination, vote-counting, disputes over the election, notice of candidates elect, announcements, and other matters, submit the same to the board of directors for adoption and implementation, and then report to the regulating authority for reference.
+
+## Article 24
+
+If there are members (member representatives) of civil associations to the number of 300 or more, it may be divided by region or member attributes and elected in proportion to the number of members (member representatives) to attend the member’s congress.
+
+Civil associations shall draw up relevant regulations governing the elections referred to in the preceding paragraph, submit the same to the board of directors for adoption, and then report to the regulating authority for reference.
+
+## Article 25
+
+After voting ends in the election or recall in civil associations, votes shall be counted on the spot, and the chairperson or a person designated by the chairperson shall announce the result of the election or recall.
+
+When members (member representatives) of civil associations attending the election or recall find that the election or recall violates the laws and regulations or the constitutions of civil associations or the election and recall regulations formulated by their associations, they shall propose to the chairperson or host on the spot or lodge a written objection with the associations within fifteen (15) days from the date of announcement of the result of the election or recall.
+
+After accepting the complaint referred to in the preceding paragraph, civil associations shall investigate within fifteen (15) days and reply the result of the investigation in writing to the members (member representatives). If the disputes remain unsettled, the members (member representatives) may bring a lawsuit to the court.
+
+## Article 26
+
+After the result of an election or recall in civil associations, which is conducted in paper ballots, is announced, all election or recall votes shall be enclosed, with the name and term of the association, position title, number of election or recall votes, and date of election or recall marked on the cover. The chairperson and scrutineers shall check the election or recall votes together and sign and hand them over to the associations for safekeeping. If the election or recall is conducted electronically, the electronic data of the election or recall process and results shall be properly stored, including remote backups in addition to the original data.
+
+For the election or recall in the preceding paragraph, if no litigation is involved, the votes shall be destroyed after the completion of a reelection held upon expiration of the term of office.
+
+## Article 27
+
+Written resignations of the chairperson, standing directors, standing supervisors, directors and supervisors of civil associations shall be turned in to the board of directors or the board of supervisors respectively for approval and reported in the member’s (member representative’s) congress.
+
+After resigning, the chairperson, standing directors, standing supervisors, directors and supervisors shall not be re-elected to the same positions during their original term of office; directors and supervisors who have resigned shall not serve as alternate directors or alternate supervisors; for alternate directors or alternate supervisors who waive their right to fill vacancies in writing, their alternate status shall be forfeited.
+
+## Article 28
+
+Unless otherwise stipulated in the constitutions of civil associations of international social associations and approved by the regulating authority, the term of office of the directors or supervisors of civil associations shall be calculated from the date of the first meeting of the board of directors.
+
+## Article 29
+
+The electors of civil associations shall not propose to recall the elected chairperson, standing directors, standing supervisors, directors, supervisors or member representatives who have been in office for less than six (6) months.
+
+## Article 30
+
+A motion to recall, with the reason specified, shall be submitted to a civil association in writing with signatures of one third or more of the total electors, submitted to the association. A copy shall also be sent to the regulating authority for reference.
+
+## Article 31
+
+If civil associations identify any false signatures on the recall letter or the recall letter is withdrawn within three (3) days from the date of submission, the signatures shall be deleted. If the quorum is not met due to such deletion, the recall letter shall be returned within five (5) days from the date of receipt, with a notice sent to the regulating authority for reference.
+
+## Article 32
+
+A civil association shall, within fifteen (15) days from the date of receipt of a recall letter, sent the photocopy of the recall letter with verified signatures and the number of persons required to the person to be recalled, notice them to submit a reply to the association within fifteen (15) days from the date of receipt of the photocopy. Failure to submit a reply within the said time limit shall be deemed to have waived the right to reply.
+
+A photocopy of the reply shall be sent to the regulating authority by the person to be recalled.
+
+## Article 33
+
+A photocopy of the recall letter shall be sent to the person to be recalled with the post office receipt or delivery receipt as proof.
+
+If a photocopy of the recall letter cannot be served on the person to be recalled because of an unknown address or it is difficult to serve the recall letter in a foreign country, mainland China, Hong Kong or Macau by the means referred to in the preceding paragraph, civil associations may publish the recall letter in a newspaper, and the recall letter shall be deemed to have been served on the person to be recalled on the day following the last publication date.
+
+## Article 34
+
+The chairperson or the convener of the board of supervisors or standing supervisors of a civil association shall, within fifteen (15) days after the deadline for the person to be recalled to submit a reply, convene a meeting of the board of directors or the board of supervisors to which the person to be recalled originally elected or the member’s (member representative’s) congress. The recall shall be carried by two thirds or more of the attendees in the said meeting or congress attended by more than one half of the attendees, or it shall be deemed overruled.
+
+Where the chairperson or the convener of the board of supervisors or a standing supervisors does not convene the meeting in accordance with the provisions of the preceding paragraph or is the person to be recalled, they shall apply to the regulating authority for designating another director or supervisor to convene the meeting.
+
+## Article 35
+
+If a meeting of civil associations is convened for a motion to recall but the quorum is not met, the recall shall be deemed overruled.
+
+## Article 36
+
+When holding a meeting for a motion to recall, civil associations shall distribute the recall letter and a reply to all attendees and make an announcement on the spot.
+
+## Article 37
+
+If a motion to recall is overruled, no further motion to recall for the same position held by the same person for the same reason shall be submitted during their term of office.
+
+## Article 38
+
+A motion to recall in civil associations may be withdrawn with the consent of all signers before being submitted in a meeting. After being submitted in a meeting, a motion to recall may be withdrawn by the chairperson after obtaining consent from two thirds or more of the attendees in addition to the consent of all signers.
+
+When attending the meeting, the person to be recalled shall not serve as the chairperson.
+
+## Article 39
+
+These Regulations shall become effective as of the date of promulgation.
+
+## History
+
+1.Formulated and promulgated on Aug. 16th, 1968 by Ministry of the Interior Order No. Tai (57) Nei She Tzu 283613.
+
+2.Amended and promulgated on Nov. 16th, 1970 by Ministry of the Interior Order No. Tai (59) Nei She Tzu 3903550.
+
+3.The entire 56 articles were amended and promulgated on Jun. 29th, 1990 by Ministry of the Interior Order No. Tai (79) Nei She Tzu 811415.
+
+4.Article 1 was amended on Jul. 30th, 1992 by Ministry of the Interior Order No. Tai (81) Nei She Tzu 8185396.
+
+5.Article 3, Article 4, Article 6, Article 7, Article 8, Article 9, Article 12, Article 17, Article 18, Article 20, Article 26, Article 30, Article 33, Article 41 and Article 44 were amended and Article 32 was deleted on Feb. 14th, 1996 by Ministry of the Interior
+
+Order No. Tai (85) Nei She Tzu 8578415.
+
+6.Article 1, Article 3, Article 4, Article 7, Article 8, Article 15, Article 16, Article 18, Article 20, Article 27, Article 31, Article 33, and Article 45 were amended on Nov. 23th, 2005 by Ministry of the Interior Order Nei-Shou-Chung-She-Tzu No. 0940702329.
+
+7.Articles 3, 8, 49 and 50 amended by Order Nei-Shou-Zhong-She-Tzu No. 0970703100 of the Ministry of the Interior on August 4, 2008
+
+8.Article 35 amended by Order Nei-Shou-Zhong-Tuan-Tzu No. 1035930236 of the Ministry of the Interior on April 23, 2014
+
+9.Article 7 amended by Order Tai-Nei-Tuan-Tzu No. 1080281161 of the Ministry of the Interior on May 28, 2019
+
+10.The whole enacted text of 39 articles amended by Order Tai-Nei-Tuan-Tzu No. 1090282703 of the Ministry of the Interior on December 29, 2020
+
+11.Articles 6, 8, 10 , 20, 23, 24, 26 and 37 amended by Order Tai-Nei-Tuan-Tzu No. 1120283065 of the Ministry of the Interior on December 19, 2023

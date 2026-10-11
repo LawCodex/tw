@@ -1,0 +1,205 @@
+---
+title: "Regulations on Permission for the Export of Fishing Vessels"
+title_zh: "漁船輸出許可準則"
+identifier: "M0050023"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-06-29
+last_amended: 2026-04-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050023"
+retrieved: 2026-10-12
+---
+
+# Regulations on Permission for the Export of Fishing Vessels
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050023-regulations-on-permission-for-the-export-of-fishing-vessels.md](../../../zh/regulations/ministry-of-agriculture/M0050023-regulations-on-permission-for-the-export-of-fishing-vessels.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established pursuant to Article 8, paragraph 3 of the Fisheries Act.
+
+## Article 2
+
+Where a fishing vessel owner intends to export a fishing vessel flying the flag of the Republic of China (hereinafter referred to as “ROC fishing vessel”), the owner shall complete and submit an application form (format as shown in Appendix 1), together with the following documents, to the competent authority of the municipality or county (city) in which the vessel is registered. The export may only be conducted after such application has been reviewed and forwarded to the central competent authority for approval and an export certificate has been issued therefor:
+
+(1) The original and a copy of the fishing license of the fishing vessel, and the original of the fuel allocation handbook.
+
+(2) Two copies of the nationality certificate of the fishing vessel or the fishing license of small craft.
+
+(3) Two copies of the contract for the sale and purchase of the vessel.
+
+(4) The original and a copy of the documentary proof, authenticated (or certified) by the relevant embassy, consulate, representative office, or mission of the Republic of China, or any other institution authorized by the Ministry of Foreign Affairs of the Republic of China (hereinafter referred to as the “ROC overseas mission(s)”), evidencing that the country to which the fishing vessel is proposed to be exported (hereinafter referred to as the “proposed exporting country”) agrees to register such vessel under its flag.
+
+(5) The original and a copy of a document issued by the competent fisheries authority of the proposed exporting country, stating its consent to take over responsibility for managing the fishing vessel and to comply with the management measures adopted by relevant international fisheries organization(s), which shall be authenticated (or certified) by the relevant ROC overseas mission.
+
+(6) For the application for the export of a tuna purse seiner, the original of a document certified by the relevant international fisheries organization(s) or the proposed exporting country proving that another tuna purse seiner has been replaced in advance. Such document shall contain the information on the nationality, gross tonnage, regional registration number ,and other required information.
+
+In the event that a fish carrier vessel is exported to be used as a cargo vessel, the submission of the documents as referred to in subparagraph (5) of the preceding paragraph is exempted.
+
+In case that a tuna purse seine fishing vessel is to be exported to a small island developing State (hereinafter referred to as “SIDS”) in the western and central Pacific, and such SIDS meets the following conditions, the submission of the documents as referred to in subparagraph (6) of paragraph 1 is exempted:
+
+(1) Where skipjack tuna fishery resources are abundant;
+
+(2) The Vessel Days Scheme(hereinafter referred to as “VDS”) has been implemented within the Exclusive Economic Zone (hereinafter referred to as “EEZ”) of such SIDS;
+
+(3) Related commercial cooperation with the Republic of China is in place with respect to the VDS within the EEZ of such SIDS; and
+
+(4) Such SIDS cooperates with the Republic of China to combat illegal, unreported, and unregulated fishing activities.
+
+## Article 3
+
+Where a fishing vessel owner applies, pursuant to Article 2, for the export of a ROC fishing vessel, the following requirements shall be met:
+
+(1) The export of the ROC fishing vessel does not contravene any relevant conservation and management measure adopted by international fisheries organization(s).
+
+(2) The ROC fishing vessel is not exported to a country subject to sanctions imposed by any international fisheries organization.
+
+(3) Any ROC fishing vessel engaging in full-time gillnet fishing shall, prior to export, have all equipment related to gillnet operations removed.
+
+## Article 4
+
+Prior to undertaking an order for the construction and exportation of a foreign flagged fishing vessel, a shipyard shall complete and submit an application form (format as shown in Appendix 2), together with the following documents, to the central competent authority for a construction permit. The construction may commence only after such permit has been issued:
+
+(1) Two copies of the fishing vessel plan (including the general arrangement plan, midship section plan, and lines plan) and the construction specifications.
+
+(2) One copy of the relevant documentary proof evidencing the purchaser’s order for the construction of the vessel.
+
+(3) Documents evidencing the proposed exporting country’s consent to the vessel construction and setting forth relevant information concerning the fishing vessel. Such documents shall also specify the following matters, which shall be subject to consultation between the central competent authority and the fisheries competent authority of the proposed exporting country:
+
+i. The number of fishing vessel(s), and the gross tonnage and length overall of each fishing vessel.
+
+ii. The fishery type of the fishing vessel(s).
+
+iii. The operating area(s) of the fishing vessel(s).
+
+iv. The fisheries management regime of the proposed exporting country, including its organizational structure, staffing arrangements, budget, legislations, quota allocation, and controls over fishing capacity.
+
+v. The capital contribution arrangements of the fishing vessel operator(s) of and related investor(s).
+
+(4) An applicant applying for the construction of a new tuna purse seiner or tuna longliner shall additionally submit the following documents:
+
+i. The original documentary proof, certified by the relevant international fisheries organization(s) or the proposed exporting country, proving the prior replacement of a tuna purse seiner or tuna longliner.
+
+ii. Where the proposed exporting country agrees that the tonnage of accommodation spaces complying with the requirements of the International Labour Organization Convention No. 188 concerning Work in Fishing Convention, 2007 (hereinafter referred to as “ILO C-188”) may be excluded from the gross tonnage of the fishing vessel, the original documentary proof evidencing such consent shall also be submitted.
+
+Where an application is made for the construction of a new tuna purse seiner for export to a SIDS in the western and central Pacific Ocean, and the circumstances set forth in paragraph 3, Article 2 are satisfied, the submission of the documents as referred to in subparagraph (4) of the preceding paragraph is exempted.
+
+## Article 5
+
+Where a shipyard applies for a construction permit pursuant to Article 4, paragraph 1, the following requirements shall be met:
+
+(1) Consultation between the proposed exporting country and the Republic of China shall have been completed.
+
+(2) Following the consultation conducted pursuant to subparagraph (3) of Article 4, paragraph 1, the information provided by the proposed exporting country shall be consistent with the information submitted by the shipyard.
+
+(3) The fishing vessels constructed for export shall not contravene any measure adopted by the relevant international fisheries organization(s).
+
+(4) The proposed exporting country shall have adequate capability to control fishing vessel operations, or shall have in place robust legislation and fisheries management system.
+
+(5) Where the operator of the fishing vessel after export is a national of the Republic of China, the proposed exporting country shall, during the consultation process, undertake to provide the Republic of China with information regarding the future operations of such fishing vessel.
+
+(6) The proposed exporting country shall not be subject to any prohibition or restriction, imposed pursuant to resolutions of international fisheries organizations, on the importation of fishing vessels.
+
+(7) The proposed exporting country shall not be in violation of any international agreement or the principle of fairness and reciprocity.
+
+(8) The proposed exporting country shall be either a member or a cooperating non-member of the relevant international fisheries organization(s).
+
+(9) Any tuna purse seiner or tuna longliner constructed for export shall replace a fishing vessel of equivalent fishing capacity; provided, however, that this requirement shall not apply where the relevant international fisheries organization has adopted a fleet development plan permitting additional vessels, or where the circumstances as referred to in Article 2, paragraph 3 are satisfied.
+
+(10) Any tuna purse seiner or tuna longliner constructed for export shall replace a fishing vessel lost within the preceding five years.
+
+For the purpose of subparagraph (9) of the preceding paragraph, fishing capacity shall be measured by the gross tonnage of the fishing vessel; provided, however, that the tonnage of accommodation spaces complying with the requirements of ILO C-188 and agreed by the proposed exporting country are excluded from the gross tonnage of the fishing vessel.
+
+## Article 6
+
+Where a shipyard has obtained, pursuant to Article 4, paragraph 1, a construction permit for a foreign flagged fishing vessel, it shall, prior to the exportation, complete and submit an application form (formant as showin in Appendix 3), together with the following documents, to the central competent authority. The exportation may be conducted only after an export certificate has been issued by the central competent authority:
+
+(1) Two 5-by-7-inch photographs each of the full side view of the fishing vessel and of the partial fishing facilities, together with the corresponding electronic files.
+
+(2) The original and a copy of the documentary proof, authenticated (or certified) by the relevant ROC overseas mission, evidencing that the proposed exporting country agrees to register the vessel under its flag, or the vessel nationality certificate.
+
+(3) The original and a copy of the fishing license issued by the proposed exporting country, authenticated (or certified) by the relevant ROC overseas missions.
+
+(4) A copy of the construction permit issued by the central competent authority.
+
+Where a shipyard, in applying for the export certificate as referred to in the preceding paragraph, fails to submit the documents specified in subparagraph (3) of the preceding paragraph, it shall submit a letter of guarantee and apply to the central competent authority for approval to issue the export certificate in advance. The shipyard shall, within one year after the fishing vessel has been exported, submit the documents specified in subparagraph (3) of the preceding paragraph to the central competent authority for recordation. Where the shipyard fails to complete such recordation within the required timeframe, any subsequent application shall be processed only in accordance with the provisions of the preceding paragraph, and the provisions of this paragraph shall not apply.
+
+## Article 7
+
+Where any of the document as referred to in Article 2, Article 4, and Article 6 is not written in Chinese or English, a Chinese translation duly certified by a court or notary public shall also be submitted together with such documents.
+
+## Article 8
+
+For the purpose of verifying the authenticity of the documents submitted by an applicant, the competent authority may request the relevant ROC overseas missions, countries, or international fisheries organizations for assistance in verification.
+
+## Article 9
+
+Where an application for the export of a ROC fishing vessel, or for the construction and export of a foreign flagged fishing vessel, filed pursuant to Article 2, Article 4, or Article 6, is accompanied by incomplete required documents, the central competent authority shall notify the applicant to make corrections within a prescribed period of six months. In case that the corrections are not completed within the prescribed period, provisions as stipulated in subparagraph (3) of Article 11 or subparagraph (4) of Article 13, paragraph 1 shall apply.
+
+## Article 10
+
+In reviewing an application filed pursuant to Article 6, the central competent authority may dispatch personnel, or commission the competent authority of the municipality or county (city) to dispatch personnel, to board and inspect the vessel.
+
+## Article 11
+
+The construction permit shall not be issued under any of the following circumstances:
+
+(1) The application is filed with false document(s).
+
+(2) The application for the construction permit does not meet the requirements as prescribed in Article 5, paragraph 1.
+
+(3) The applicant fails to complete the required corrections within the prescribed period after being notified by the central competent authority pursuant to Article 9.
+
+## Article 12
+
+For any fishing vessel that has obtained the construction permit pursuant to Article 4, paragraph 1, it shall, within two years from the date of obtaining such permit, complete the construction and apply for the export certificate.
+
+Where construction has commenced after the construction permit is obtained but cannot be completed within the period as prescribed in the preceding paragraph, the shipyard may, prior to the expiration of such period, apply for an extension by submitting documentary proof of construction progress. Upon approval, the period may be extended for up to one year per extension, with a maximum of three extensions. However, if construction has not commenced before the expiration of the prescribed period, the original construction permit shall become void, and a new application shall be filed.
+
+## Article 13
+
+The export certificate shall not be issued under any of the following circumstances:
+
+(1) The application is filed with false document(s).
+
+(2) The exportation of a ROC fishing vessel does not meet the requirements as prescribed in Article 3.
+
+(3) A foreign flagged fishing vessel is constructed without approval, or such fishing vessel is approved for construction for export but not constructed in accordance with the conditions as approved.
+
+(4) The applicant fails to complete the required corrections within the prescribed period after being notified by the central competent authority pursuant to Article 9.
+
+After the issuance of the export certificate, in case that any of the circumstances as referred to in any of the preceding subparagraph is found before the exporation of the fishing vessel, the central competent authority may revoke or withdraw the export certificate.
+
+## Article 14
+
+The export certificate issued pursuant to these Regulations is valid for thirty (30) days from the date of its issuance. In case of failure to export the fishing vessel within the validity period, re-application shall be made with the enclosure of the original export certificate.
+
+In the event that the export certificate is lost or damaged prior to customs clearance, an application for voidance and reissuance shall be made.
+
+## Article 15
+
+These Regulations shall enter into force on the date of promulgation.
+
+## Attachments
+
+- [Appendix1  Application Form for the Export of a ROC Fishing Vessel.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009825)
+- [Appendix2  Application Form for Constructing a Foreign Flagged Fishing Vessel.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009826)
+- [Appendix3  APPLICATION FOR EXPORT CERTIFICATE.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009827)
+
+## History
+
+1.The full text of 12 Articles promulgated on 29 June 2005 by the Council of Agriculture, Executive Yuan under Order No. Nung-Sou-Yu-Tzu 0941331400.
+
+2.Article 2-1, Article 3 and Article 8 amended on 17 May 2007 by the Council of Agriculture, Executive Yuan under Order. No. Nung-Yu-Tzu 0961331258.
+
+3.Article 8 and Article 11 amended on 6 December 2012 by the Council of Agriculture, Executive Yuan under Order. No. Nung-Yu-Tzu 1011332174.
+
+4.Article 2 and Article 8 amended on 13 January 2016 by the Council of Agriculture, Executive Yuan under Order. No. Nung-Yu-Tzu 1041338511A.
+
+5.The full text of 15 Articles amended and promulgated on 2 April 2026 by the Ministry of Agriculture under Order No. Nung-Yu-Tzu 1151532207.

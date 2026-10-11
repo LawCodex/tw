@@ -1,0 +1,281 @@
+---
+title: "Amendments to the Regulations on Selection and Training of Professional Workers Providing Welfare Services for People with Disabilities"
+title_zh: "身心障礙者服務人員資格訓練及管理辦法"
+identifier: "D0050061"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-08-11
+last_amended: 2017-05-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050061"
+retrieved: 2026-10-12
+---
+
+# Amendments to the Regulations on Selection and Training of Professional Workers Providing Welfare Services for People with Disabilities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050061-amendments-to-the-regulations-on-selection-and-training-of-professional-workers.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050061-amendments-to-the-regulations-on-selection-and-training-of-professional-workers.md)) is authoritative.
+
+## Article 1
+
+These Regulations have been formulated pursuant to Article 51, Paragraph 2 of the People with Disabilities Rights Protection Act (hereinafter referred to as “the Act.”)
+
+## Article 2
+
+Professional workers providing welfare services for people with disabilities referred to in these Regulations mean the following persons:
+
+\1.	Social worker.
+
+\2.	Educare giver and trainer.
+
+\3.	Life caregiver.
+
+\4.	Caregiver.
+
+\5.	Home care supervisor.
+
+\6.	Family care service staff.
+
+\7.	 Temporary/respite and short-term caregiver.
+
+\8.	 Personal assistant.
+
+\9.	Peer supporter.
+
+\10.	Orientation and mobility trainer.
+
+\11.	Life skill trainer for the visually impaired.
+
+\12.	 Assistive device assessors.
+
+\13.	Assistive device maintenance technicians.
+
+\14.	Dean (director) and vice dean (vice director) of welfare service institutions for people with disabilities.
+
+\15.	Other related professional workers employed according to the Standard for Configuring Facilities and Personnel in the Welfare Service Institutions for People with Disabilities.
+
+## Article 3
+
+A social worker shall meet one of the following qualifications:
+
+\1.	Having passed the social worker certification exam.
+
+\2.	Graduated from a social work department, institute, or degree program of a junior college or institution of higher education, or holds a degree with a minor in social work.
+
+\3.	Being a qualified candidate for the Senior Professional and Technical Examination for Social Workers.
+
+\4.	Having passed the required Civil Service Senior or Junior Examination or a Civil Service Special Examination that is equivalent to said Civil Service Senior or Junior Examination and for a position in the social administration series, and having at least one year of work experience in social work.
+
+## Article 4
+
+An educare giver or a trainer shall meet one of the following qualifications:
+
+\1. Graduated from a department or specialty related to medical treatment and nursing, rehabilitation, occupational therapy, physical therapy, education, special education, sociology, social work, social welfare, counseling, psychology, juvenile and children welfare, early childhood education, early intervention, audiology and speech-language pathology, elderly care, or long-term care in a college or a university.
+
+\2. Graduated from a senior high school, and hold an educare giver or a trainer certificate.
+
+## Article 5
+
+A life caregiver shall meet one of the following qualifications:
+
+\1.	Holds a certificate of completion for training in personal life caring.
+
+\2.	Holds the necessary qualifications for educare givers, trainers, or caregivers.
+
+\3.	Holds a technician certificate for caregiver or childcare service provider.
+
+\4.	Graduated from a nursing or care service department, division, institute, or degree program of a senior or vocational high school or an institution of higher education.
+
+## Article 6
+
+A caregiver shall meet one of the following qualifications:
+
+\1.	Holds a certificate of completion for training in caregiving service.
+
+\2.	Holds a technician certificate for caregiver.
+
+\3.	Graduated from a nursing or care service department, division, institute, or degree program of a senior or vocational high school or an institution of higher education.
+
+## Article 7
+
+A home care supervisor shall meet one of the following qualifications:
+
+\1.	Having passed the social worker certification exam.
+
+\2.	Graduated from a department or specialty related to social work, medical treatment and nursing, occupational therapy, physical therapy, nutrition, pharmacy, public health, or elderly care in a college or a university.
+
+\3.	Hold the qualifications of the social worker examination and have at least one year experience in welfare service or care for the elderly and people with disabilities (if not graduating from a department or specialty listed in the preceding paragraph).
+
+\4.	Graduated from a department or specialty related to nursing and elderly care in a senior high school, and have at least three years of experience in care for the elderly and people with disabilities.
+
+\5.	Have worked as a full-time caregiver for at least five years.
+
+\6.	Hold a home care supervisor certificate of orientation training.
+
+## Article 8
+
+A family care service staff shall meet one of the following qualifications:
+
+\1.	Holds a certificate of completion for family care service training.
+
+\2.	Holds the necessary qualifications for education and care service workers, trainers, life caregivers, or caregivers.
+
+## Article 9
+
+A temporary/respite and short-term caregiver shall meet one of the following qualifications:
+
+\1.	Holds a certificate of completion for training in temporary/respite and short-term care service.
+
+\2.	Holds the necessary qualifications for educare givers, trainers, caregivers, life caregivers, or family care service staff.
+
+## Article 10
+
+A personal assistant shall meet one of the following qualifications:
+
+\1.	Holds the necessary qualifications for educare givers, trainers, life caregivers, caregivers, family care service staff, or temporary/respite and short-term caregivers.
+
+\2.	Holds a certificate of completion for training in personal assistance.
+
+## Article 11
+
+A peer supporter shall meet one of the following qualifications:
+
+\1.	A person with physical or mental disabilities who has lived independently for over three years and is currently not under the care of any institution.
+
+\2.	Holds a certificate of completion for training in peer support work.
+
+## Article 12
+
+An orientation and mobility trainer shall meet one of the following qualifications:
+
+\1.	Holds a technician certificate for orientation and mobility trainers.
+
+\2.	Holds a certificate of completion for training in orientation and mobility instruction.
+
+\3.	Work experience of five years or more in orientation and mobility instruction in an institution, organization, or special education school that provides services related to support for the visually impaired(experience accumulated prior to the enforcement of the amendment of these Regulations on July 11, 2012).
+
+\4.	Graduation from a junior college or institution of higher education and work experience of two years or more in orientation and mobility instruction in an institution, organization, or special education school that provides services related to support for the visually impaired(experience accumulated prior to the enforcement of the amendment of these Regulations on July 11, 2012).
+
+## Article 13
+
+A life skill trainer for the visually impaired shall meet one of the following qualifications:
+
+\1.	Holds a certificate of completion for training in life skills instruction for the visually impaired.
+
+\2.	Work experience of three years or more in life skills instruction for the visually impaired in a unit that provides services related to support for the visually impaired(experience accumulated prior to the enforcement of the amendment of these Regulations on July 11, 2012).
+
+## Article 14
+
+An assistive device assessor shall hold an assistive device assessor certificate and meet one of the following qualifications:
+
+\1.	Class A assistive device assessor: Hold a physical therapist or occupational therapist certification.
+
+\2.	Class B assistive device assessor: Hold a speech-language pathologist certification.
+
+\3.	Class C assistive device assessor: Hold an audiologist certificate.
+
+\4.	Class D assistive device assessor: Graduated from a department or specialty related to medical treatment and nursing, rehabilitation consultancy, physical therapy, occupational therapy, special education, audiology, medical engineering, or assistive technology in a college or a university, and have at least two years of work experience in assistive technology.
+
+\5.	Class E assistive device assessor:
+
+(1)	Hold an optometrist certificate.
+
+(2)	Graduated from a department of optometry in a college or a university, and have at least two years of work experience in optometry.
+
+(3)	Have at least two years of work experience in orientation and mobility training, life skill training for the visually impaired, or assistive device training for visual impairment in visual impairment service providers or medical institutions.
+
+(4)	Have at least two years of work experience in visual impairment for special education or vocational rehabilitation service providers organized, entrusted or subsidized by the government.
+
+Those serving in assistive device centers organized or approved by the municipal or county (city) competent authorities and holding no assistive device assessor certificate shall have at least two years of work experience in assistive device services under the supervision of qualified assistive device assessors and shall obtain the assistive device assessor certificate within one year after employment; the employment of those failing to obtain the assistive device assessor certificate will not be renewed.
+
+The training of Class D assistive device assessors will terminate as of the date of promulgation of these Regulations on May 2, 2017; those having obtained the assistive device assessor certificate before such termination may continue to provide assistive device assessment services.
+
+The regulation specified in Item 2, Subparagraph 5 of Paragraph 1 will terminate from January 1, 2022; those having obtained the Class E assistive device assessor certificate before such termination may continue to provide assistive device assessment services.
+
+## Article 15
+
+An assistive device maintenance technician shall meet one of the following qualifications:
+
+\1.	Have at least one-half year of work experience in maintenance.
+
+\2.	Hold a technician certificate in the specialty of carpentry, door and window carpentry, decorating carpentry, construction management, interior decoration management, agricultural machinery maintenance, lift installation and maintenance, motorcycle maintenance, automobile maintenance, mechanical processing, mechanical and electrical integration, industrial electronics, digital electronics, instrument electronics, computer software applications, electrical appliance maintenance, communications technology (telecommunications wires), business machine maintenance, computer hardware installation and maintenance, or industrial equipment.
+
+\3.	Have at least two years of work experience in furniture carpentry, door and window carpentry, decorating carpentry, construction management, interior decoration management, agricultural machinery maintenance, lift installation and maintenance, motorcycle maintenance, automobile maintenance, mechanical processing, mechanical and electrical integration, industrial electronics, digital electronics, instrument electronics , computer software applications, electrical appliance maintenance, communications technology (telecommunications wires), business machine maintenance, computer hardware installation and maintenance, or industrial equipment.
+
+## Article 15-1
+
+A dean (director) or a vice dean (vice director) of welfare service institutions for people with disabilities shall meet one of the following qualifications:
+
+\1.	Hold a social worker certificate in the specialty of disability.
+
+\2.	Graduated from a department or specialty related to medical treatment and nursing, rehabilitation, occupational therapy, physical therapy, education, special education, sociology, social work, social welfare, counseling, psychology, juvenile and children welfare, early childhood education, early intervention, audiology and speech-language pathology, elderly care, or long-term care in a college or a university, and have at least two years of work experience in social welfare agencies (institutions) or community services for people with disabilities.
+
+\3.	Graduated from a college or a university, hold a certificate in the training of professional workers providing welfare service for people with disabilities stipulated in these Regulations, and have at least two years of work experience in social welfare agencies (institutions) or community services for people with disabilities (or at least four years of work experience in social welfare agencies (institutions) if serving in an accommodation institution).
+
+\4.	Graduated from a senior high school, holds a certificate in the training of professional workers providing welfare service for people with disabilities stipulated in these Regulations, and have at least four years of work experience in social welfare agencies (institutions) (or at least six years of work experience as a social worker, nursing personnel, educare giver, or trainer if serving in an accommodation institution).
+
+## Article 15-2
+
+The personnel stipulated in Article 6, Paragraph 1 of the Standards for the Arrangement of Infrastructure and Personnel of the Welfare Facilities for the Disabled shall hold the qualifications set forth in Articles 3 to 5 of these Regulations and meet the following criteria:
+
+\1.	Nursing personnel: Requires passage of the national examination for nursing personnel and the holding of a professional registered nurse or registered nurse certificate issued by the central competent health authority.
+
+\2.	Administrative personnel: Requires graduation from a senior or vocational high school and work experience in a related field.
+
+\3.	Relevant professional personnel: Requires the relevant professional qualifications.
+
+## Article 16
+
+The relevant departments, divisions, institutes, and degree programs mentioned in Articles 3 to 7 and Articles 14 and 15-1 shall be affirmed by the central competent authority.
+
+## Article 17
+
+Regulations on course contents, qualifications, and hours of training of the professional workers are prescribed by the central competent authorities.
+
+The above training of the professional workers is organized by the competent authorities or institutions or organizations entrusted or approved by the competent authorities.
+
+Those who have passed the training held in accordance with these Regulations will be granted a winding-up certificate by the training organizer.
+
+## Article 18
+
+Professional workers providing welfare service for people with disabilities shall take at least 20 hours of on-the-job training related to welfare service for people with disabilities every year.
+
+The above training shall be organized based on the needs of practice and shall include contents prescribed in People with Disabilities Rights Protection Act or related to services for people with disabilities.
+
+The on-the-job training specified in the first paragraph shall be organized by:
+
+\1. Competent authorities or institutions or organizations entrusted or subsidized by the competent authorities.
+
+\2. Institutions or organizations.
+
+## Article 19
+
+Personnel who hold the qualifications required for professional workers providing welfare services for persons with disabilities in compliance with the applicable laws and regulations prior to the enforcement of the amendment of these Regulations on July 11, 2012 may continue their service in their original position until resignation, transfer, or reassignment.
+
+Social workers as mentioned in Article 3 who served in welfare care organizations, agencies, or institutions for persons with disabilities in compliance with the qualifications listed in Article 3, Subparagraph 3 prior to the enforcement of the amendment of these Regulations on December 31, 2016, and who no longer qualify for candidacy in the Examination for Social Workers from January 1, 2017 onward, may continue their service until resignation, transfer, or reassignment.
+
+## Article 20
+
+The training programs held by the competent authorities in accordance with these Regulations shall be funded with the budget allocated by each respective competent authority.
+
+## Article 21
+
+These Regulations took effect on July 11, 2012.
+
+These amendments will take effect as of the date of promulgation.
+
+## History
+
+1.Promulgated by Order Tai (88)-Nei-She-Tzu No.8893447 of the Ministry of the Interior on August 11, 1999
+
+2.Amended and promulgated by Order Tai-Nei-Chung-She-Tzu No.0910077839-3 of the Ministry of the Interior on December 2, 2002
+
+\3. Amended the title and total of 21 Articles and promulgated by Nei- Shou-Chung-She-Tzu No.1015933677 of the Ministry of the Interior on July 9, 2012.
+
+\4. Amended to Article 3, 16, 19, 21  ; addition of Article 15-1, 15-2 and promulgated by Wei- Shou-Chia-Tzu No.1050700220 of the Ministry of Health and Welfare on March 30, 2016.
+
+\5. Amended to Article 2, 4, 7, 14, 15, 15-1,17, 18, 21 and promulgated by Wei- Shou-Chia-Tzu No.1060700516 of the Ministry of Health and Welfare on May 2, 2017.

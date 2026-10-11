@@ -1,0 +1,253 @@
+---
+title: "Regulations for Drug Recall"
+title_zh: "藥品回收處理辦法"
+identifier: "L0030079"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-08-05
+last_amended: 2023-10-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030079"
+retrieved: 2026-10-12
+---
+
+# Regulations for Drug Recall
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0030079-regulations-for-drug-recall.md](../../../zh/regulations/ministry-of-health-and-welfare/L0030079-regulations-for-drug-recall.md)) is authoritative.
+
+## Article 1
+
+The Regulations are promulgated pursuant to Paragraph 3 of Article 80 of the Pharmaceutical Affairs Act (the “Act”).
+
+## Article 2
+
+The drugs to be recalled under Subparagraphs 1, 2 and 4 to 6 of Paragraph 1 of Article 80 of the Act shall be classified into the following 3 classes:
+
+\1. Class I:
+
+(1) The counterfeit drugs or prohibited drugs in accordance with Subparagraph 2 of Paragraph 1 of Article 80 of the Act.
+
+(2) The drugs damaging the life, body or health of users in accordance with Subparagraph 4 of Paragraph 1 of Article 80 of the Act.
+
+(3) The drugs referred to in Subparagraph 1, misbranded drugs referred to in Subparagraph 2 and drugs referred to in Subparagraph 4 of Paragraph 1 of Article 80 of the Act, which are have been deemed by the central competent health authority likely to cause damage to the life, body or health of users.
+
+\2. Class II: The drugs referred to in Subparagraph 1, misbranded drugs referred to in Subparagraph 2, and drugs referred to in Subparagraph 4 of Paragraph 1 of Article 80 of the Act, other than those referred to in Item 2 and Item 3 in the preceding Subparagraph.
+
+\3. Class III: The drugs referred to in Subparagraphs 5 and 6 of Paragraph 1 of Article 80 of the Act.
+
+The drugs of which the recall has been publicly announced by the central competent health authority in accordance with Subparagraph 7 of Paragraph 1 of Article 80 of the Act may cover the classes referred to in the preceding paragraph.
+
+## Article 3
+
+The drug manufacturers or importers shall finish their recall procedure within the time period as following:
+
+\1. Class I: Within one month since the day following publicly announcement or the date of recall has been deemed duly.
+
+\2. Class II: within two months since the day following publicly announcement or the date of recall has been deemed duly.
+
+\3. Class III: within six months since the day following the expiration date of the drug permit license or approval to change the package, label, or use instruction.
+
+For the drugs of which the recall has been publicly announced by the central competent health authority in accordance with Subparagraph 7 of Paragraph 1 of Article 80 of the Act, the central competent health authority shall define the time periods for recall of those not classified through the public notice under Paragraph 2 of the preceding article.
+
+After the counterfeit drugs, prohibited drugs and misbranded drugs are recalled, the municipal or city (county) competent health authority shall treat the same in accordance with Article 78 and Article 79 of the Act.
+
+## Article 4
+
+The subjects of the drug recall procedure of the drug manufacturers and importers are stated as following:
+
+\1. The drugs under Class I and Class II, and the drugs of which the recall has been publicly announced by the central competent health authority under Subparagraph 7 of Paragraph 1 of Article 80 of the Act: Medical care institutions, pharmacies and pharmaceutical firms.
+
+\2. Class III: Pharmacies and pharmaceutical firms.
+
+## Article 5
+
+The medical care institutions, pharmacies and pharmaceutical firms concerned shall immediately cease the importation, manufacturing, wholesaling, display, preparation and retailing of the drugs referred to in Subparagraphs 1, 2 and 4 of Paragraph 1 of Article 80 of the Act from the date of public announcement by the central competent health authority or from a date determined in accordance with the law.
+
+The drugs recalled according to the Regulations along with the stock thereof shall be disposed of in the following manners:
+
+\1. Counterfeit drugs and prohibited drugs defined under Subparagraph 2 of Paragraph 1 of Article 80 of the Act shall be confiscated and destroyed.
+
+\2. For the drugs referred to in Subparagraphs 1 and 4 and misbranded drugs referred to Subparagraph 2 of Paragraph 1 of Article 80 of the Act:
+
+(1) Where they are drugs made domestically and considered, after testing, to be still usable through re-modification, the municipal or city (county) competent health authority shall direct and assign an official to supervise the original manufacturers to re-modify the drugs within specific time limit. Those that cannot be re-modified or have not been re-modified after expiry of the given time limit shall be confiscated and destroyed.
+
+(2) Where they are imported from any foreign country, they shall be placed in confinement immediately and the municipal or county (city) competent health authority shall direct the original importer to return such drugs to the foreign supplier(s) within specific time limit. Those have not been returned beyond the given time limit shall be confiscated and destroyed.
+
+\3. The drugs referred to in Subparagraphs 5 and 6 of Paragraph 1 of Article 80 of the Act: The drugs still can be sold before their expiry dates or within their shelf life, after to be examined by and receive the seal of the municipal or city (county) competent health authority. Notwithstanding, in the case of changes in the use instructions referred to in Subparagraph 6, the manufacturers or importers may be exempted from the application for examination and seal after notifying the direct sales targets.
+
+\4. The drugs to be recalled under Subparagraph 7 of Paragraph 1 of Article 80 of the Act: To be recalled in the manner designated through public notice.
+
+## Article 6
+
+Whenever the municipal or county (city) competent health authority orders the manufacturers or importers within their jurisdiction to launch the Class I or II drug recall, it shall inform the central and other municipal or county (city) competent health authorities.
+
+## Article 7
+
+The competent health authority at each level may disclose the following information about the recalled drugs via the website of the authority or some mass media:
+
+\1. Name and permit license number of the drugs;
+
+\2. Specifications, batch number, serial number or any other identification information or number;
+
+\3. The name and address of the manufacturer or importer;
+
+\4. The reason for the recall.
+
+## Article 8
+
+The drug manufacturers or importers shall establish a complete distribution record, and urge their dealers to keep the related distribution record. Both records shall include the product name, contents, dosage, batch number, name and address of the recipient, shipping date and quantity of distributions.
+
+## Article 9
+
+The drug manufacturers or importers shall set forth the operating procedure for the drug recall and implement the same, which shall define the following:
+
+\1. Organization of the recall operation.
+
+\2. Personnel and tasks in recall.
+
+\3. Template recall plan.
+
+\4. Notification methods of recall.
+
+\5. Recall and disposition.
+
+\6. Outcome report on recall
+
+## Article 10
+
+The subjects to be notified under Subparagraph 4 of the preceding article refer to the medical care institutions, pharmacies and pharmaceutical firms to whom the drug manufacturers or importers sell products directly.
+
+The content of the preceding paragraph shall include the following:
+
+\1. Name, address, and phone number of the drug manufacturer or importer.
+
+\2. Name, specifications, and permit license number of the drug.
+
+\3. Batch number, serial number or any other identification information or number of the drugs;
+
+\4. The reason of recall and the hazard it may cause.
+
+\5. Recall methods, time and location for recall delivery.
+
+\6. Compliance requirements to be fulfilled by the notified parties.
+
+The drug manufacturers or importers shall complete the notification referred to in Paragraph 1 within the time period as following:
+
+\1. Class I and Class II: Within 24 hours since the date following the public notice or since the date determined pursuant to laws.
+
+\2. Class III: Within one week from the date following the expiry date of the permit of the drugs or from the date following the date of recall determined pursuant to laws.
+
+\3. The drugs to be recalled under Subparagraph 7 of Paragraph 1 of Article 80 of the Act: To be recalled in the manner designated through public notice.
+
+The drug manufacturers or importers shall keep the written record of the medical care institutions, pharmacies and pharmaceutical firms notified by them, and receiving personnel thereof, the time and the methods for notifications, and the responsible person in charge of the notifications.
+
+The notification records referred to in the preceding paragraph shall be documented and be kept for at least 5 years.
+
+## Article 11
+
+The drug manufacturers or importers, with respect to the recall procedure under Class I and Class II, shall produce a proposal of recall operation based on the template referred to in Subparagraph 3 of Article 9 herein and submit to the municipal or county(city) competent health authority and central competent health authority within 3 days since the date of the public notice or since the date determined pursuant to laws, and the competent health authority may request for correction.
+
+The proposal referred to in the preceding paragraph shall include the following:
+
+\1. Name, address, and phone number of the drug manufacturer or importer.
+
+\2. Name, specifications, and permit license number of the drug.
+
+\3. Batch number, serial number or any other identification information or number of the drugs;
+
+\4. The total quantity, sales quantity, and inventory quantity of the drugs manufactured domestically or imported.
+
+\5. Name, address, and their individual sales quantity of the medical care institutions, pharmacies, and pharmaceutical firms which are domestic distributors.
+
+\6. Name of the export country, name, address and individual sales quantity of the target distributor from the domestic drug manufacturer for export.
+
+\7. The reason of recall and the hazard it may cause.
+
+\8. The scheduled date for recall completion.
+
+\9. The methods, contents, and other related measures proposed to be adopted as indicated in the notification to the medical care institutions, pharmacies, and pharmaceutical firms which are the direct distributors.
+
+## Article 12
+
+The drug manufacturers or importers, with respect to the recall procedure under Class III, shall produce a proposal of recall operation based on the template referred to in Subparagraph 3 of Article 9 herein and retain the same for future inspection. The content shall include the following:
+
+\1. Name, address, and phone number of the drug manufacturer or importer.
+
+\2. Name, specifications, and permit license number of the drug.
+
+\3. Batch number, serial number or any other identification information or number of the drugs;
+
+\4. The total quantity, sales quantity, and inventory quantity of the drugs manufactured domestically or imported.
+
+\5. Name, address, and their individual sales quantity of the pharmacies and pharmaceutical firms which are the domestic direct distributors.
+
+\6. The reason of recall.
+
+\7. The scheduled date for recall completion.
+
+\8. The methods, contents, and other related measures proposed to be adopted as indicated in the notification to the pharmacies and pharmaceutical firms which are the direct distributors.
+
+## Article 13
+
+The municipal or county (city) competent health authorities shall supervise the medical care institutions, pharmacies, and pharmaceutical firms with their jurisdictions to process the recall procedures in accordance with Article 80 of the Act.
+
+The municipal and county (city) competent health authorities shall initiate an inspection or conduct an inspection in response to the notification of Class I recall procedure from other health competent authorities within 10 days, to the medical institutions, pharmacies, and pharmaceutical firms with their jurisdictions. The recall drugs shall be off-the-shelf and other recall procedure shall be acknowledged.
+
+## Article 14
+
+The drug manufacturers or importers shall identify and label both the recalled drugs and their stocked products and shall store them separately.
+
+## Article 15
+
+The drug manufacturers or importers, with respect to the recall procedure under Class I and Class II, shall produce an outcome report as referred to in Subparagraph 6 of Article 9 and submit it to the municipal or county(city) competent health authority and central competent health authority within 3 days since the date of completion of the recall. The competent authority may request for supplements or correction.
+
+The outcome report referred to in the preceding paragraph shall include the following contents:
+
+\1. Name, address, and phone number of the drug manufacturer or importer.
+
+\2. Name, specifications, and permit license number of the drug.
+
+\3. Batch number, serial number or any other identification information or number of the drugs;
+
+\4. The total quantity, sales quantity, and inventory quantity of the drugs manufactured domestically or imported, and product descriptions and quantity of the drugs which are recalled and yet recalled to be specified separately.
+
+\5. The recall items and quantity lists from each recall targets.
+
+\6. Recall completion date, storage location for recalled products, and the follow-up handling method and date.
+
+\7. Follow-up corrective and preventive actions for the reason to recall.
+
+## Article 16
+
+The drug manufacturers or importers, with respect to the application for examination and seal of the drug recall under Class III, shall complete the written application form and submit the same to the municipal or county (city) competent health authority for approval.
+
+The written application form referred to in the preceding paragraph shall include the following:
+
+\1. Name, address, and phone number of the drug manufacturer or importer.
+
+\2. Name, specifications, and permit license number of the drug.
+
+\3. Batch number, serial number or any other identification information or number of the drugs;
+
+\4. The total quantity, sales quantity, and inventory quantity of the drugs manufactured domestically or imported.
+
+\5. The reason and accordance to apply for examination and seal.
+
+## Article 17
+
+The municipal or county (city) competent health authority shall conduct an inspection on the follow-up handling method and scheduled date of the drug recalls under Class I and Class II, by their manufacturers or importers within their jurisdictions and report the result of inspection to the central competent health authority for future reference.
+
+## Article 18
+
+The Regulations shall be enforced as of the date of promulgation.
+
+## History
+
+1.Promulgated by the Ministry of Health and Welfare Order Bu-Shou-Shi-Zi No.1041404701, on August 5th, 2015
+
+\2. Full text including 18 articles amended and issued by the Ministry of Health and Welfare Order Wei-Shou-Shi-Zi No.1121410884, on October 20th, 2023

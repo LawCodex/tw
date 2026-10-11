@@ -1,0 +1,199 @@
+---
+title: "Enforcement Rules of Plant Protection and Quarantine Act"
+title_zh: "植物防疫檢疫法施行細則"
+identifier: "M0140002"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞動植物防檢疫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-09-17
+last_amended: 2024-08-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0140002"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Plant Protection and Quarantine Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0140002-enforcement-rules-of-plant-protection-and-quarantine-act.md](../../../zh/regulations/ministry-of-agriculture/M0140002-enforcement-rules-of-plant-protection-and-quarantine-act.md)) is authoritative.
+
+## Article 1
+
+The enforcement rules are established pursuant to Article 27, Plant Protection and Quarantine Act (hereinafter called “the Act”).
+
+## Article 2
+
+The term “useful fungi” under subparagraph 1 of Article 3 of the Act, denotes agriculturally or industrially useful fungi, yeast, or mushrooms.
+
+## Article 3
+
+The scope of the terms “relevant data” and “relevant party” under Article 5 of the Act is specified as follows:
+
+1.“Relevant data” denote the phytosanitary certificates, bills of lading and delivery orders, packing lists or other related documents.
+
+2.“Relevant party” denotes the customs declaration or examination agents, the captains of vehicles, vessels or aircrafts, business representatives or other managing personnel.
+
+## Article 4
+
+The term “Government authorities concerned” under Article 6 of the Act denotes the agencies responsible for transportation, customs, environmental protection, or judicial police, or other relevant agencies.
+
+## Article 5
+
+Each of the following items may be conducted by relevant agency representatives, private organizations, or individuals authorized by the competent authority when it is deemed necessary:
+
+1.The monitoring and surveying regulated in the second paragraph of Article 8 of the Act.
+
+2.The implementation of the regional control plan regulated in the fourth paragraph of Article 8 of the Act.
+
+3.The control measures regulated in the subparagraphs 1 to 4 of the first paragraph of Article 11 of the Act.
+
+Each of the following items may be conducted by relevant agency representatives, private organizations, or individuals authorized by the plant quarantine authority when it is deemed necessary:
+
+1.The inspection, examination or inquiry regulated in the second paragraph of Article 5 of the Act.
+
+2.The quarantine treatment, re-shipment, destruction or other necessary measures regulated in the second paragraph of Article 13-1 of the Act.
+
+3.The measures regulated in the subparagraphs 2 to 4 of the second paragraph of Article 16 of the Act.
+
+4.The quarantine regulated in Article 18 of the Act.
+
+5.The direct disposal regulated in Article 19-1 of the Act.
+
+6.The appropriate quarantine or other safety measures regulated in Article 19-1 of the Act.
+
+7.The implementation of quarantine regulated in Article 20 of the Act.
+
+## Article 6
+
+Within the area of infestation designated pursuant to the first paragraph of Article 10 of the Act by the central competent authority, the municipal or county (city) competent authority shall conduct periodic inspection of designated plant diseases and/or pests. The scope of inspection shall be as follows:
+
+1.Cultivated plants, plants for propagation, or plant products;
+
+2.Soils or cultivating media;
+
+3.Packages or containers;
+
+4.Agricultural machines or tools;
+
+5.The species of plant diseases and pests; and
+
+6.Other matters related to plant diseases and pests.
+
+## Article 7
+
+The municipal or county (city) competent authority shall implement appropriate control measures when a plant disease or pest from a foreign area is found and report such a finding to the central competent authority pursuant to Article 8 and paragraph 1 of Article 11 of the Act.
+
+## Article 8
+
+When the central competent authority implements necessary protection measures pursuant to the first paragraph of Article 11 of the Act , the municipal or county (city) competent authority shall implement and act in coordination with and report the implementation process to the central competent authority.
+
+The central competent authority shall inform the adjacent municipal or county (city) competent authorities while the preceding protection measures are implemented.
+
+## Article 9
+
+When conducting joint control measures in designated region pursuant to subparagraph 4 of the first paragraph of Article 11 of the Act, the municipal or county (city) competent authority shall promptly organize a joint control team or mobilize personnel from township (town, city, or district) governments within its authority or civil organizations to assist farmers in implementing such measures.
+
+## Article 10
+
+(Deleted)
+
+## Article 11
+
+(Deleted)
+
+## Article 12
+
+(Deleted)
+
+## Article 13
+
+(Deleted)
+
+## Article 14
+
+(Deleted)
+
+## Article 15
+
+In order to carry out the plant quarantine inspection of imported regulated articles as specified under Article 17 of the Act, the central competent authority may designate a specific harbor, airport, or station to conduct such inspection.
+
+The inspection shall be conducted in the centralized inspection area of port, warehouses, or other safe areas recognized by the plant quarantine authority.
+
+If the plant quarantine authority conducts the inspection in the centralized inspection area of port, warehouses or other safe areas recognized by the plant quarantine authority in preceding paragraph, container terminals and warehouses may provide a site with inspection tables, rain-proof facilities, lighting fixtures, and power supply for lighting for quarantine operations.
+
+## Article 16
+
+“The ports of entry” under the first paragraph of Article 17 of the Act denotes the harbor, airport or station where the regulated articles are unloaded upon their arrival, or ports approved by the plant quarantine authority.
+
+## Article 17
+
+When the plant quarantine authority performs import quarantine in accordance with the Act, the quarantine inspection shall be implemented for every batch or by sample batch inspection based on the risk level of the goods.
+
+The quarantine result shall be determined based on the entire batch when conducting the quarantine operation described in the preceding paragraph. However, if there are other quarantine requirements which are published under the first paragraph of Article 14 of the Act by the central competent authority, then the quarantine result must comply with such requirements.
+
+## Article 18
+
+When applying for import quarantine inspection pursuant to Article 17 of the Act, the importers or their agents must submit to the plant quarantine authority a completed application form and inspection fees along with supporting documents listed below:
+
+1.Phytosanitary certificate; exemptions are published by the plant quarantine authority pursuant to the first paragraph of Article 16;
+
+2.Bill of lading or Sea waybill／Air waybill;
+
+3.Proof of values; and
+
+4.Other relevant documents required by the plant quarantine authority.
+
+## Article 19
+
+In order to carry out the plant quarantine inspection of the regulated articles and to ensure that they are performed in accordance with Article 17 of the Act, the plant quarantine authority may act in coordination with the competent authority of maritine navigation to review ship logs or other related documents.
+
+## Article 20
+
+(Deleted)
+
+## Article 21
+
+When applying for export quarantine inspection pursuant to Article 20 of the Act, the exporters or their agents shall submit to the plant quarantine authority a completed application form and inspection fees along with supporting documents listed below:
+
+1.Proof of values; and
+
+2.Other relevant documents required by the plant quarantine authority.
+
+## Article 22
+
+If requested by the importing country, quarantine labels for plants or plant products that are approved for export and have received phytosanitary certificates pursuant to Article 20 of the Act, may be issued by the plant quarantine authority. Quarantine tags for plants or plant products thereof, within are of limited quantity and hand-carried by passengers or by mail may also be issued by the plant quarantine authority.
+
+## Article 23
+
+If plants or plant products to be exported pursuant to Article 20 of the Act are deemed to fail to meet the requirements of the importing country, the applicant shall retrieve the plants or plant products thereof upon receipt of the notification by the plant quarantine authority. If the applicant fails to retrieve the said plant or plant products within a time limit, the plants or plant products shall be disposed of by the plant quarantine authority.
+
+## Article 24
+
+The plant quarantine authority shall not be held liable for any financial claim against the consequence of the death of plants in isolation, plants or plant products being ordered for destruction pursuant to the Act, or other unavoidable damage or losses in plants or plant products resulting from the necessary quarantine actions taken.
+
+## Article 25
+
+These enforcement rules shall become effective on the date of promulgation.
+
+The articles amended and promulgated on January 22, 2019 shall come into effect on March 1, 2019.
+
+## History
+
+1.Promulgated on September 17, 1997
+
+2.Amendment to all Articles promulgated on October 31, 2003
+
+3.Amendment to Article 3, and 10~12, deletion to Article 28 promulgated on May 10, 2010
+
+4.Amendment to all Articles promulgated on May 25, 2015
+
+5.Amendment to Article 5 promulgated on December 3, 2015
+
+6.Amendment to Article 15、17 and 25 promulgated on January 22, 2019,and come into effect on March 1, 2019
+
+7.Amendment to Article 5, deletion to Article 10~14, and 20 promulgated on May 11, 2020
+
+8.Amendment to Article 18 promulgated on August 22, 2024

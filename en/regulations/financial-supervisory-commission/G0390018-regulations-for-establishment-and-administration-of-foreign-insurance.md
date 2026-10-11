@@ -1,0 +1,409 @@
+---
+title: "Regulations for Establishment and Administration of Foreign Insurance Enterprises"
+title_zh: "外國保險業設立許可及管理辦法"
+identifier: "G0390018"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1994-06-28
+last_amended: 2025-07-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390018"
+retrieved: 2026-10-12
+---
+
+# Regulations for Establishment and Administration of Foreign Insurance Enterprises
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390018-regulations-for-establishment-and-administration-of-foreign-insurance.md](../../../zh/regulations/financial-supervisory-commission/G0390018-regulations-for-establishment-and-administration-of-foreign-insurance.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are adopted pursuant to Article 137, paragraph 5 of the Insurance Act.
+
+### Article 2
+
+The issuance of establishment permits to and regulation of foreign insurance enterprises operating within the territory of the Republic of China (ROC) are governed by these Regulations. Matters not provided for herein shall be governed by the Insurance Act and any directive issued upon authorization granted under the Insurance Act.
+
+Exercise of the powers accorded under the Insurance Act, or under any directive issued upon authorization granted under the Insurance Act, to a board of directors or shareholders meeting of a foreign insurance enterprise, may be carried out, to the extent that the company in the home country has given lawful authorization, by the enterprise's "responsible person in the ROC" ("Responsible Person").
+
+### Article 3
+
+The term "home country" in these Regulations means the country or territory that has enacted the laws under which a foreign insurance enterprise has registered its incorporation or commenced business operations.
+
+The term "responsible person" in these Regulations means the managerial officer who represents a foreign insurance enterprise within the territory of the ROC.
+
+### Article 4
+
+Litigation related to an insurance contract involving a foreign insurance enterprise shall be subject to the jurisdiction of the courts of the ROC unless otherwise stipulated in the insurance contract.
+
+### Article 5
+
+The scope of the business operations of a foreign insurance enterprise in the ROC is subject to the restrictions set out by law in the ROC and the enterprise's home country.
+
+## Chapter 2 Establishment Permits
+
+### Article 6
+
+A foreign insurance institution applying for permission to establish a branch within the territory of the ROC to conduct insurance business shall at least meet the following criteria:
+
+\1. Having had sound business performance and shown financial soundness in the last three years; and
+
+\2. Free of any record of penalty against it for material regulatory violation in the last three years as proven by a certificate issued by the competent authority in the applicant’s home country. Where the applicant has been established for less than three years, the applicant must be free of any record of penalty against it for material regulatory violation since its establishment.
+
+Where a foreign insurance institution referred to in subparagraph 1 of the preceding paragraph has been established for less than three years, the institution must have a representative office set up within the territory of the ROC for at least one year and meet one of the following criteria:
+
+\1. Having a paid-in capital of more than NT$2 billion.
+
+\2. Having a credit rating of at least A- from Standard & Poor’s Corp., at least A3 from Moody’s Investor Service, at least A from Fitch Ratings Ltd., at least twA+ from Taiwan Ratings Corporation, or an equivalent rating or better from any other credit rating agency recognized by the competent authority.
+
+### Article 6-1
+
+A foreign insurance institution applying for permission to establish a digital insurance branch within the territory of the ROC to conduct insurance business shall at least meet the following criteria:
+
+\1. Having obtained a business license as a digital or virtual insurance company, or possessing the capability to operate innovative insurance products or services, or having a business model primarily based on the use of financial technology or digital technology to provide insurance products or services; and
+
+\2. Meeting the criteria set forth under Subparagraph 1 or 2, Paragraph 2 of the preceding Article; and
+
+\3. Having had sound business performance and shown financial soundness in the last five years; and
+
+\4. Free of any record of penalty against it for material regulatory violation in the last five years as proven by a certificate issued by the competent authority in the applicant’s home country.
+
+### Article 7
+
+The head office of a foreign insurance enterprise shall set aside minimum working capital for each branch in accordance with its business plan, amounting to not less than NT$50 million, and post bond with the national treasury in an amount equal to 15 percent of its working capital.
+
+### Article 8
+
+Unless special approval has been granted by the competent authority, a foreign insurance enterprise that has received an establishment permit shall, prior to commencing business operations, have its principal computer systems in operation and ensure that they have passed inspection by the competent authority or an organization designated thereby.
+
+### Article 9
+
+A foreign insurance institution applying for permission to establish a branch within the territory of the ROC to conduct insurance business shall submit each of the following documents in duplicate to the competent authority for review:
+
+\1. Application for Establishment Permit by Foreign Insurance Enterprise (format as in Attachment 1).
+
+\2. Certificate of incorporation and business license.
+
+\3. A document evidencing the applicant’s approved scope of business, certified by the competent authority in the home country.
+
+\4. Documents evidencing that the competent authority in the applicant’s home country and the applicant’s board of directors have granted approval to the establishment of a branch in the ROC by the applicant.
+
+\5. The company’s articles of incorporation.
+
+\6. Business plan, specifying the business scope, business principles and policies, and specific implementation methods, including premises and facilities, internal organization and segregation of duties, personnel recruitment and training, business development plan, financial projections for the coming five years, and policy on reinsurance.
+
+\7. Documentation showing the name, nationality, job title, and domicile or residence of the person at the head office who is in charge of the financial and operational decisions for the company.
+
+\8. The name of the designated responsible person for the branch and document evidencing his or her qualifications.
+
+\9. The company’s balance sheets and income statements for the last three fiscal years, audited and certified by a certified public accountant recognized in the applicant’s home country. Where the application is filed on a date six months after the beginning of the current fiscal year, the balance sheet and the income statement for the first half of current year must also be submitted.
+
+\10. The full text of insurance laws and regulations of the applicant’s home country as designated by the competent authority.
+
+\11. A rating report prepared by an insurance rating agency recognized by the competent authority.
+
+\12. A document issued by the competent authority in the applicant’s home country certifying that no penalty has been recorded against the applicant for material regulatory violation in the last three years. Where the applicant has been established for less than three years, the applicant must submit a document certifying that no penalty has been recorded against it for material regulatory violation since its establishment.
+
+\13. Documentation issued by the competent authority in the applicant’s home country certifying that no material deficiency in anti-money laundering and countering terrorism financing that has not been remedied in the last five years.
+
+\14. Other documents as required by the competent authority.
+
+If any of the documents in the preceding paragraph cannot be furnished due to law of the home country, the applicant shall submit an equivalent document for reference.
+
+Where the documentation under the preceding two paragraphs cannot be furnished or presented in Chinese due to special circumstances, such documents shall be accompanied by Chinese translations. With the exception of documents referred to in subparagraphs 1 and 6 hereof, all other documents shall be notarized by an embassy, consulate or other overseas representative office of the ROC.
+
+Where the information provided in the documents under paragraph 1 or information provided elsewhere is incomplete, the application will be rejected. Where an application is returned for rectification but the applicant fails to make rectification within the time period prescribed by the competent authority, the application shall also be rejected.
+
+### Article 9-1
+
+A foreign insurance institution applying for permission to establish a digital insurance branch within the territory of the ROC to conduct insurance business shall submit each of the following documents in duplicate to the competent authority for review. The provisions of Paragraphs 2 to 4 of the preceding Article shall apply mutatis mutandis:
+
+\1. Supporting documents evidencing compliance with the qualification requirements set forth in Subparagraph 1, Article 6-1.
+
+\2. The documents listed under Subparagraph 1 through 8, Subparagraph 10, Subparagraph 11, Subparagraph 13, and Subparagraph 14 of Paragraph 1 of the preceding Article (the application form format is provided in Attachment 2); among them, the business plan shall include the matters required to be specified under Article 29-6 of the Regulations for Establishment and Administration of Insurance Enterprises.
+
+\3. The company’s balance sheets and income statements for the last five fiscal years, audited and certified by a certified public accountant recognized in the applicant’s home country. Where the application is filed on a date six months after the beginning of the current fiscal year, the balance sheet and the income statement for the first half of current year must also be submitted.
+
+\4. A document issued by the competent authority in the applicant’s home country certifying that no penalty has been recorded against the applicant for material regulatory violation in the last five years.
+
+### Article 10
+
+Within three months of the day of the issuance of an establishment permit, the head office of a foreign insurance enterprise shall remit the funds to be used as working capital pursuant to Article 7, and duly apply to the Ministry of Economic Affairs for issuance of an incorporation registration of its branch.
+
+Where the enterprise fails to file with the Ministry of Economic Affairs within the time period set out in the preceding paragraph, or the Ministry of Economic Affairs does not grant approval, the competent authority may revoke its establishment permit. Notwithstanding the foregoing, before expiration of the time limit set forth in the preceding paragraph, an application may be filed with the competent authority for an extension if there is a legitimate reason; the period of extension shall be no longer than one month, and shall be limited to one time.
+
+### Article 11
+
+Within three months after the head office of a foreign insurance enterprise obtains recognition from the ROC authorities and registers the incorporation of its branch, it shall pay a registration fee and license fee and furnish the following documents in duplicate in applying to the competent authority for issuance of a business license:
+
+\1. Business license application form (format as in Attachment 3).
+
+\2. Photocopy of the branch's certificate of incorporation.
+
+\3. Capital verification certificate.
+
+\4. Documentary proof that the bond required under Article 7 has been furnished.
+
+\5. Certified copy of the document granting power of attorney to the responsible person's representative.
+
+\6. A list of managerial officers, actuaries, underwriters, claims adjusters, and other key personnel, and documentary proof of their qualifications.
+
+\7. Branch operating rules and operating procedures.
+
+\8. Other documents as required by the competent authority.
+
+If the application documents in the preceding paragraph are in a foreign language, a Chinese translation shall be attached for each.
+
+Where there is legitimate reason, an application for extension of a deadline specified in paragraph 1 may be filed prior to the deadline; an extension may not be longer than three months, and shall be limited to one time. Where an extension has not been approved, the competent authority may revoke its establishment permit.
+
+The operating rules of paragraph 1, subparagraph 7 shall cover the following matters:
+
+\1. Organizational structure and department functions.
+
+\2. Staffing, management, and training of personnel.
+
+\3. Internal control system.
+
+\4. Business principles and policies.
+
+\5. Operations manual and segregation of powers and duties.
+
+\6. Other matters.
+
+### Article 12
+
+Where a foreign insurance enterprise fails to commence business operations within six months of issuance of a business license, the competent authority shall revoke its establishment permit, order the enterprise to surrender its license for cancellation, and notify the Ministry of Economic Affairs. Notwithstanding the foregoing, where there is legitimate reason and the competent authority has granted approval, an extension may be granted; the period of extension shall be no longer than six months, and shall be limited to one time.
+
+### Article 13
+
+The provisions of Articles 6 to 12 shall apply mutatis mutandis to the establishment of an additional branch by the head office of a foreign insurance enterprise.
+
+### Article 14
+
+Where the head office of a foreign insurance enterprise already has one or more branches in the ROC and applies to establish an additional branch here, the competent authority shall either deny the application or require that the applicant close a branch elsewhere if any of the following applies to an existing branch:
+
+\1. Has been sanctioned in the past year for a material violation of an insurance act or regulation.
+
+\2. The competent authority has issued an official reprimand for a deficiency but the situation has not shown concrete improvement.
+
+\3. The responsible person has received a final and unappealable conviction in the past year for willful commission of an occupational crime.
+
+\4. Has violated Article 21 by failing to increase capital within a prescribed period of time.
+
+\5. The business plan of the branch to be additionally established is clearly inadequate or unsound, or the qualifications of the intended responsible person do not meet the requirements set out in the Regulations Governing Qualification Requirement and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Insurance Enterprises.
+
+\6. Other facts indicate a likelihood that establishing an additional branch would impede sound business management, or would not be in keeping with the requirements of policy on insurance.
+
+## Chapter 3 Regulation
+
+### Article 15
+
+A foreign insurance enterprise may not change the kinds of policies it sells or lines of business it conducts within the territory of the ROC, or add new types, without approval from the competent authority.
+
+### Article 16
+
+Where any of the following applies to the head office of a foreign insurance enterprise, its responsible person shall, within 30 days of occurrence of the fact, voluntarily submit to the competent authority an explanation of the matter and supporting documentation.
+
+\1. There is a change in the amount of its capital or equity contribution.
+
+\2. There is a change in the name, location, directors, or managerial officers of the head office, or any other person holding an equivalent position.
+
+\3. There is a material change in its operating policies.
+
+\4. There is an assignment of 10 percent of more of the shares in the company, or a change in equity ownership structure.
+
+\5. The enterprise is involved in a merger, or transfers all or a material part of its assets or business, or acquires all or a material part of the assets or business of another party.
+
+\6. The enterprise is dissolved, or suspends operations.
+
+\7. Its business permit is revoked by the competent authority in its home country.
+
+\8. Reorganization, liquidation, or bankruptcy occurs.
+
+\9. Any other matter that would significantly affect its finances or solvency occurs.
+
+\10. Material litigation occurs.
+
+\11. Another matter of material significance occurs for which disclosure is required under the law of its home country.
+
+### Article 17
+
+Where any of the following applies to the responsible person of a foreign insurance enterprise, the competent authority may order that the person be replaced within a prescribed period of time:
+
+\1. He or she does not meet the requirements of the Regulations Governing Qualification Requirement and Concurrent Serving Restrictions and Matters for Compliance by the Responsible Persons of Insurance Enterprises.
+
+\2. He or she has violated ROC insurance law.
+
+\3. He or she has violated the preceding Article by failing to make a required filing with the competent authority.
+
+\4. There are other facts which show that he or she is unfit for the position.
+
+When a foreign insurance enterprise replaces its responsible person in accordance with the provisions of the preceding paragraph, or it replaces the person of its own accord, the newly appointed person may not assume the position until he/she has submitted to the competent authority the documents required under the Regulations Governing Required Qualifications for Responsible Persons of Insurance Enterprises and the competent authority has reviewed and approved the appointment.
+
+### Article 18
+
+Within one month after its head office submits an audit report and financial statements certified by a CPA in accordance with the law of its home country, a foreign insurance enterprise shall submit those same documents to the competent authority together with a Chinese translation of the CPA audit report.
+
+Where any matter arises at the head office of a foreign insurance enterprise that the head office is required under the law of its home country to publicly announce, or when any of the situations contemplated in Article 25, subparagraph 3 obtain with respect to the head office, the foreign insurance enterprise shall promptly report the matter to the competent authority.
+
+### Article 19
+
+The competent authority may at any time order a foreign insurance enterprise to explain an examination opinion issued by the competent authority in the enterprise's home country regarding its head office.
+
+### Article 20
+
+If the head office of a foreign insurance enterprise receives a material sanction from a competent authority in its home country for violation of law, within one month of receipt of the sanction the enterprise shall report the matter to the competent authority in Taiwan for recordation.
+
+### Article 21
+
+A foreign insurance enterprise's ratio of regulatory capital to risk capital shall be maintained in accordance with Article 143-4 of the Insurance Act.
+
+When the head office of a foreign insurance enterprise is not in compliance with the solvency standards of its home country, the enterprise's responsible person shall submit a written report to the competent authority.
+
+If the situation contemplated in the preceding paragraph arises, the competent authority may, as the circumstances merit, take action as prescribed in Article 149 of the Insurance Act.
+
+### Article 22
+
+Foreign insurance enterprises shall utilize their funds in accordance with the provisions of the Insurance Act.
+
+### Article 23
+
+When the head office of a foreign insurance enterprise intends to establish a second or subsequent branch within the territory of the ROC, the branch established when it first applied for registration shall be treated as its main place of business, and the provisions of the Insurance Act and of other laws and regulations related to insurance enterprises shall apply mutatis mutandis.
+
+## Chapter 4 Business suspension
+
+### Article 24
+
+A foreign insurance enterprise shall suspend business operations if the registration of its branch within the territory of the ROC is revoked by the Ministry of Economic Affairs or its business permit is revoked by the competent authority.
+
+Before applying to nullify the registration of its branch pursuant to Article 378 of the Company Act, a foreign insurance enterprise shall first file with the competent authority for prior approval.
+
+### Article 25
+
+Where a foreign insurance enterprise has any of the following situations, the competent authority may revoke or void its establishment permit and order the foreign insurance enterprise to surrender its business license within a prescribed time period:
+
+\1. It is discovered that the information provided or documents furnished by the enterprise at the time of permit application contains misrepresentation or false paper.
+
+\2. The enterprise has failed to replenish its operating capital as required according to Article 21 herein.
+
+\3. The enterprise’s head office has a situation provided in subparagraphs 6 to 8 of Article 16 herein.
+
+### Article 26
+
+When a foreign insurance enterprise suspends business, it shall publish an announcement of the circumstances of the suspension in local newspapers for three or more days unless it is required to handle the matter in accordance with Article 148-2, paragraph 2 of the Insurance Act.
+
+When a foreign insurance enterprise suspends business operations in the ROC, any liquidation proceedings shall be governed by ROC law.
+
+### Article 27
+
+With prior approval from the competent authority, a foreign insurance enterprise may transfer all or part of the insurance contracts it has entered into in the ROC to other insurance enterprises or foreign insurance enterprises.
+
+When a foreign insurance enterprise transfers all of the insurance contracts that it has entered into in the ROC, it shall be deemed to have suspended business operations.
+
+## Chapter 4-1 Representative Office of Foreign Insurance Institution
+
+### Article 27-1
+
+A foreign insurance institution applying for permission to set up a representative office within the territory of the ROC shall at least meet the following criteria:
+
+\1. Having a credit rating of at least A- from Standard & Poor’s Corp., at least A3 from Moody’s Investor Service, at least A from Fitch Ratings Ltd., at least twA+ from Taiwan Ratings Corporation, or an equivalent rating or better from any other credit rating agency recognized by the competent authority; and
+
+\2. Free of any record of penalty against it for material regulatory violation in the last three years as proven by a certificate issued by the competent authority in the applicant’s home country. Where the applicant has been established for less than three years, the applicant must be free of any record of penalty against it for material regulatory violation since its establishment.
+
+A foreign insurance institution may set up only one representative office in the ROC.
+
+### Article 27-2
+
+A foreign insurance institution applying for permission to set up a representative office within the territory of the ROC shall submit the following documents to the competent authority for approval:
+
+\1. Application for the Setup of Representative Office.
+
+\2. Certificate of incorporation and business license.
+
+\3. Documents evidencing that the competent authority in the applicant’s home country and the applicant’s board of directors have granted approval to the setup of a representative office in the ROC by the applicant.
+
+\4. A letter of authorization authorizing the representative designated to head the representative office.
+
+\5. The curriculum vitae of the representative designated to head the representative office and relevant proof documents.
+
+\6. A rating report prepared by an insurance rating agency recognized by the competent authority.
+
+\7. The representative office setup plan, specifying at least staff allocation, job descriptions, and benefit analysis for the setup.
+
+\8. A document issued by the competent authority in the applicant’s home country certifying that no penalty has been recorded against the applicant for material regulatory violation in the last three years. Where the applicant has been established for less than three years, the applicant must submit a document certifying that no penalty has been recorded against it for material regulatory violation since its establishment.
+
+\9. Other documents as required by the competent authority.
+
+Provisions in paragraphs 2 and 3 of Article 9 herein shall apply mutatis mutandis to the application for the setup of a representative office by a foreign insurance institution.
+
+### Article 27-3
+
+A foreign insurance institution shall, within six months after obtaining the permission under the preceding article, set up the representative office after filing a registration application with the Ministry of Economic Affairs for establishing a representative office within the territory of the ROC pursuant to Paragraph 1, Article 386 of the Company Act, and submit a copy of the registration document together with a letter stating the date of setup and the address of the representative office to the competent authority for recordation.
+
+Where a foreign insurance institution fails to file such an application with the Ministry of Economic Affairs within the time period prescribed in the preceding paragraph, the competent authority may void its permit. However, if the institution has a justified reason, it may apply to the competent authority before the deadline set forth in the preceding paragraph for an extension. The extension shall not exceed two months and only one extension will be allowed.
+
+### Article 27-4
+
+The representative office of a foreign insurance institution may only conduct market research and survey, information gathering and other business related correspondence, and may not engage in solicitation, underwriting, claim settlement, premium rating or other business activities.
+
+Where the representative office of a foreign insurance institution violates the preceding paragraph, it shall be penalized pursuant to the Insurance Act and the competent authority may void its permit.
+
+### Article 27-5
+
+The representative office of a foreign insurance institution shall, within four months after the end of a fiscal year for the foreign insurance institution, prepare a work report on its work status in the ROC and submit the same to the competent authority.
+
+The format of the work report described in the preceding paragraph shall be prescribed separately by the competent authority.
+
+### Article 27-6
+
+The representative office of a foreign insurance institution shall furnish work report or other relevant information if so requested by the competent authority.
+
+### Article 27-7
+
+The representative office of a foreign insurance institution shall report to the competent authority for permission before it may change its representative or the location of representative office, or withdraw the representative office.
+
+Where the head office of a foreign insurance institution with a representative office in the ROC has a situation provided in subparagraph 2 or subparagraphs 5 to 8 of Article 16 herein, the representative office shall report to the competent authority on its own initiative within thirty (30) days from the date of fact by describing the particulars of the situation and providing related information.
+
+Where it is discovered that the information provided or documents furnished by a foreign insurance institution at the time of applying for permission to set up a representative office contains misrepresentation or false paper, or the head office of the foreign insurance institution has a situation provided in subparagraphs 6 to 8 of Article 16 herein, the competent authority may revoke or void its permit.
+
+## Chapter 4-2 Supplemental Provisions
+
+### Article 28
+
+These Regulations shall be implemented from the date of issuance.
+
+## Attachments
+
+- [Attachment 1 Application by Foreign Insurer for Establishment Permit.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009385)
+- [Attachment 2 Application by Foreign Insurer for Establishment Permit（for Digital Insurance Company）.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009386)
+- [Attachment 3 Application by Foreign Insurer for Business License.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009387)
+
+## History
+
+\1. Promulgated by Ministry of Finance (83-tai-tsai-pao-tzu No. 832054291) in total of 33 articles on 1994.6.28
+
+\2. Revised and promulgated by Ministry of Finance (84-tai-tsai-pao-tzu No. 842030943) on 1995.7.15 regarding Article 3、7、10、12、14、15、21、22、31.
+
+\3. Revised and promulgated by Ministry of Finance (87-tai-tsai-pao-tzu No. 862402685) on 1998.2.9 regarding Article 8、10、12、20、26.
+
+\4. Revised and promulgated by Ministry of Finance (89-tai-tsai-pao-tzu No. 0890751352) on 2000.12.20 regarding Article 11～13、17、29、30; The Revised articles come into force since the promulgate date.
+
+\5. Revised and promulgated by Ministry of Finance (90-tai-tsai-pao-tzu No. 0900750484) on 2001.5.31 regarding Article 10、12.
+
+\6. Revised and promulgated by Ministry of Finance (Tai-tsai-pao-tzu No. 0910751003) on 2002.8.22 regarding Article 2、26～28、31; Canceled Article 25.
+
+\7. Amended on January 15, 2008
+
+\8. Amended on February 23, 2009
+
+\9. Amended on April 20, 2017
+
+10.Amended on May 9, 2019
+
+11.Amended on 30 July 2025 per Order No. Jin-Guan-Bao-Zong-Zi- 11404928771 of the Financial Supervisory Commission

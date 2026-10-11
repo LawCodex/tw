@@ -1,0 +1,269 @@
+---
+title: "Regulations Governing Subsidies From Special Municipalities and County (City) Governments for Assisting Workers Suffering From Occupational Accidents to Return to Work"
+title_zh: "直轄市及縣市政府辦理協助職業災害勞工重返職場補助辦法"
+identifier: "N0060079"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業安全衛生目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-03-31
+last_amended: 2026-06-29
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060079"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Subsidies From Special Municipalities and County (City) Governments for Assisting Workers Suffering From Occupational Accidents to Return to Work
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0060079-regulations-governing-subsidies-from-special-municipalities-and-county-city.md](../../../zh/regulations/ministry-of-labor/N0060079-regulations-governing-subsidies-from-special-municipalities-and-county-city.md)) is authoritative.
+
+## Chapter 1 General Regulations
+
+### Article 1
+
+This Regulation is established in accordance with Article 69, Paragraph 2 of the Labor Occupational Accident Insurance and Protection Act (hereinafter referred to as the Act).
+
+### Article 2
+
+The subsidized items of this Act are as follows:
+
+1.Assistive facilities aids.
+
+2.Occupational rehabilitation allowance.
+
+3.Occupational accident worker employment incentive subsidy.
+
+## Chapter 2 Assistive Facilities Aids
+
+### Article 3
+
+Employers who provide necessary assistive facilities for occupational accident workers in accordance with Article 67 of this Act may apply to the municipal government or county (city) government (hereinafter referred to as the local competent authority) for subsidies.
+
+For the application specified in the preceding paragraph, the employer shall provide the following documents within 90 days after providing the assistive facilities for occupational accident workers:
+
+\1. Application form.
+
+\2. Certificate of hiring occupational accident worker.
+
+\3. Work reinstatement plan or evaluation report issued by an approved functional rehabilitation professional institution specified in Article 66 of this Act.
+
+\4. On-site visit consent form.
+
+\5. Before and after photos for the assistive facilities improvement, provided that if the application is filed before they are purchased shall include photos showing the current conditions at the time of application.
+
+\6. Invoice or receipt for the assistive facilities expense, unless the application is filed before they are purchased.
+
+\7. The statement that no subsidy has been collected in accordance with “People with Disabilities Rights Protection Act.”
+
+\8. Other documents stipulated by the local competent authority.
+
+### Article 4
+
+The local competent authority shall complete the review within 60 days after receiving the application documents in the preceding article; when deemed necessary, it may conduct on-site inspections and may convene a review meeting for deliberation.
+
+After completing the review in the preceding paragraph, the local competent authority shall determine the subsidy facilities and amount; for those who do not meet the qualifications or fail to pass the review shall notify the applicant in writing and specify the reasons for the ineligibility or failure.
+
+### Article 4-1
+
+Employers who apply for subsidies before purchasing assistive facilities shall complete the purchase within 180 days as of the date of service of the approval notification from the local competent authority, and then submit the proof of expenses, such as invoices or receipts, to the local competent authority to claim the subsidies.
+
+### Article 5
+
+The subsidy for assistive facilities stipulated in this Regulation shall be limited to the total amount of subsidy of NT$200,000 for the same occupational accident for each worker suffering from occupational accident.
+
+### Article 6
+
+Employers shall continue to employ workers suffering from occupational accidents within six months from the date of receiving subsidies for assistive facilities. However, if there are no reasons imputable, with the consent of the local competent authority, this limitation shall not be applicable.
+
+### Article 7
+
+All or part of the subsidies for assistive facilities will not be granted under any of the following circumstances:
+
+\1. False claims.
+
+\2. Matters related to work obstacles not caused by occupational accidents, injuries or diseases.
+
+\3. Items for which subsidies have been claimed in accordance with Article 79 of the Act.
+
+\4. The assistive facilities applied for belonging to the matters stipulated in Article 57 of the Act on the Protection of the Rights and Interests of Persons with Disabilities that should be improved in public buildings and places of activity.
+
+\5. The assistive facilities applied for are the necessary safety and health equipment stipulated by the Occupational Safety and Health Act or its authorized regulations.
+
+\6. Improvement of assistive devices, equipment, machinery and working environment for workers not involved in occupational accidents.
+
+\7. For the same reason, they have already received subsidies of the same nature from government agencies.
+
+\8. Avoiding, hindering or refusing tracking, visiting or checking by central or local competent authorities.
+
+\9. Other violations of the provisions of the Act or this Regulation.
+
+## Chapter 3 Occupational Rehabilitation Allowance
+
+### Article 8
+
+The subsidy recipients of the occupational rehabilitation allowance stipulated in these Regulation are the insured persons who receive occupational rehabilitation services from the following institutions:
+
+\1. Medical institutions with occupational injury and illness clinics authorized in accordance with Article 73 of this Law (hereinafter referred to as accredited medical institutions).
+
+\2. Professional rehabilitation institutions authorized and established in accordance with Paragraph 3 of Article 66 of this Act.The occupational rehabilitation services specified in the preceding paragraph include return to work plan formulation, job analysis, work simulation assessment, functional ability assessment, work hardening training assessment, and physiological and psychological work hardening training.
+
+### Article 9
+
+If the insured meets the application conditions in the preceding article, after completing the occupational rehabilitation services in the preceding article, he or she shall submit the following documents to the local competent authority to apply for occupational rehabilitation subsidy:
+
+\1. Application form.
+
+\2. Certificate of completion of occupational rehabilitation services issued by an accredited medical institution or an accredited occupational rehabilitation professional institution.
+
+\3. A copy of the bankbook cover of the applicant’s domestic financial institution.
+
+\4. Other documents designated by the local competent authority.
+
+### Article 10
+
+The local competent authority shall complete the review within 30 days after receiving the application documents in the preceding article and notify the review results in writing.
+
+### Article 11
+
+The amount of occupational rehabilitation allowance shall be based on the number of service days stated in the certificate of completion of occupational rehabilitation services in Paragraph 2 of Article 9. The allowance is set at 60% of the insured salary for the first grade in the salary classification table, divided by a daily standard of 30, and is limited to 180 days of payment.
+
+### Article 12
+
+Occupational rehabilitation allowance will not be granted under any of the following circumstances:
+
+1.False claims.
+
+2.Avoiding, hindering or refusing tracking, visiting or checking by the central or local competent authorities.
+
+3.Other violations of the provisions of the Act or this Regulation.
+
+## Chapter 4 Occupational accident worker employment incentive subsidies
+
+### Article 13
+
+Business units shall assist workers suffering from occupational accident whose degree of disability conforms to Article 43 of the Act and are able to return to their original jobs, adjust their positions or be placed in suitable jobs and continue to employ them for six months, may apply to the local competent authority for subsidies of employment incentive.
+
+The assistance specified in the preceding paragraph shall be used by the public institution to take various measures such as reasonably adjusting the working hours and methods of workers suffering from occupational accident or providing education and training courses to facilitate occupational accident workers to return their original jobs, adjust their positions or place them in suitable jobs.
+
+### Article 14
+
+A business unit that employs workers suffering from occupational accidents that meet the level of disability in Article 43 of the Act and has the ability to work and who continues to employ them for six months, may apply with the local competent authority for employment incentive subsidies for workers with occupational accidents.
+
+### Article 15
+
+The determination of the employment period referred to in the preceding two articles shall be calculated according to the number of days that the worker suffering from occupational accident has been insured for occupational accident insurance.
+
+### Article 16
+
+Business entities that meet the requirements for application under Articles 13 and 14 may apply to the local competent authority with the following documents starting from the day after every six months that they continue to employ workers with occupational accidents. Employment incentive for six months:
+
+\1. Application form.
+
+\2. Employment rolls, payrolls showing the hours worked by the employees and attendance records.
+
+\3. Proof of reinstatement of occupational accident workers' original jobs, job adjustment, or placement of suitable jobs, etc.
+
+\4. Photocopies of the employee's national identity card or other identification documents.
+
+\5. The certificate of payment of labor and occupational accident disability payment is issued.
+
+\6. Proof of labor occupational accident insurance.
+
+\7. A statement that the employed worker is not the spouse or third-degree kinship of the person in charge of the business entity.
+
+\8. Other documents stipulated by the local competent authority.
+
+The subsidy period applicable to the business entity referred to in the preceding paragraph which continue to employ occupational accident workers for more than six months begins on the date the workers simultaneously meet the following conditions:
+
+\1. Date of the return to work or employment at the business entity.
+
+\2. Date authorized by the Bureau of Labor Insurance as the date of permanent disability.
+
+### Article 17
+
+The local competent authority shall complete the review within 30 days after receiving the application documents in the preceding article and notify the review results in writing.
+
+### Article 18
+
+For business entities that apply for employment incentive for workers suffering from occupational accident in accordance with Article 13, the subsidy standards are as follows:
+
+\1. For business entities who employ occupational accident workers whose degree of disability conforms to the 10th to 15th levels of the disability level, subsidize 30% of the average monthly insured salary within six months from the date of return-to-work for each occupational accident worker.
+
+\2. For business entities who employ occupational accident workers whose degree of disability conforms to the 1st to 9th levels of the disability level, subsidize 50% of the average monthly insured salary within six months from the date of return-to-work for each occupational accident worker.
+
+If the business entity employs part-time workers who have sustained occupational accidents, and their average monthly salary during the subsidy period is lower than the Level 1 monthly insured wage under the Labor Occupational Accident Insurance, the subsidy amount will be calculated and paid based on the average monthly salary, using the rates specified in the subparagraph 1 or 2 of the preceding paragraph.
+
+### Article 19
+
+For business entities that apply for employment subsidies for occupational accident workers in accordance with Article 14, the subsidy standards are as follows:
+
+\1. For business entities who employ occupational accident workers whose degree of disability conforms to the 10th to 15th levels of the disability level, subsidize 50% of the average monthly insured salary within six months from the date of hiring for each occupational accident worker.
+
+\2. For business entities who employ occupational accident workers whose degree of disability conforms to the 1st to 9th levels of the disability level, subsidize 70% of the average monthly insured salary within six months from the date of hiring for each occupational accident worker.
+
+If the business entity employs part-time workers who have sustained occupational accidents, and their average monthly salary during the subsidy period is lower than the Level 1 monthly insured wage under the Labor Occupational Accident Insurance, the subsidy amount will be calculated and paid based on the average monthly salary, using the rates specified in the subparagraph 1 or 2 of the preceding paragraph.
+
+### Article 20
+
+Article 13 and 14 of the employment incentive for workers suffering from occupational accident, the subsidy period shall be limited to 12 months.
+
+### Article 21
+
+Employment incentive subsidy for workers suffering from occupational accident will not be granted under any of the following circumstances:
+
+1.False claims.
+
+2.Continue to employ workers suffering from occupational accident without reporting for occupational accident insurance.
+
+3.The employed worker suffering from occupational accident is not the spouse or third-degree relative of the person in charge of the business unit.
+
+4.Sheltered workshops employ people with disabilities in sheltered employment.
+
+5.For the same reason, they have already received subsidies of the same nature from government agencies.
+
+6.Avoiding, hindering or refusing tracking, visiting or checking by a central or local competent authorities.
+
+7.Other violations of the provisions of the Act or this Regulation.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 22
+
+In order to check the execution of the applicant, the central and local competent authorities may check the relevant documents and materials, or conduct on-site visit and inspection, and the applicant and business unit shall not evade, hinder or refuse.
+
+The local competent authority shall compile the subsidy materials, annual implementation results and audit records within 20 days after the end of the year, and report it to the central competent authority for reference; and within two years after the subsidy is approved, track the application status of the applicant and the follow-up working status of occupational accident workers. The tracking results shall be completed for reference before the end of June and December each year in accordance with the method designated by the central competent authority.
+
+### Article 23
+
+If the applicant's application documents for subsidy or allowance has not been completed, it shall be corrected within the time limit notified by the local competent authority; those who do not make corrections within the time limit will not be accepted.
+
+### Article 24
+
+The review period specified in Paragraph 1 of Article 4, Article 10 and Article 17 shall be counted from the time when all the application documents are prepared.
+
+### Article 25
+
+The local competent authority shall withdraw or annul all or part of the approved grants for those who do not meet the application requirements of this Regulation and receive subsidies for assistive facilities, occupational rehabilitation allowances, or employment incentive for workers suffering from occupational accident, and order them to return within a time limit by written administrative sanctions.
+
+### Article 26
+
+The forms and document formats prescribed in this Regulation shall be prescribed by the central competent authority.
+
+### Article 27
+
+The funds required for these measures shall be covered by the budget of the Labor Occupational Accident Insurance Fund.
+
+### Article 28
+
+This Regulation shall go into effect on May 1, 2022.
+
+## History
+
+1.All 28 articles enacted and promulgated per Ministry of Labor Order No. Lao-Zhi-Shou-Tze-1110201330 on Mar. 31, 2022, to take effect on May 1, 2022.
+
+2.Articles 5, 8, 9, 11, and 28 amended and promulgated per Ministry of Labor Order No. Lao-Zhi-Shou-Tze-1120205536 on Dec. 7, 2023, to take effect on the date of promulgation.
+
+3.Articles 3, 7, 16, 18, and 19 amended, and Article 4-1 added, per Ministry of Labor Order No. Lao-Zhi-Shou-Tze-1150252155 on Jun. 29, 2026, to take effect on the date of promulgation.

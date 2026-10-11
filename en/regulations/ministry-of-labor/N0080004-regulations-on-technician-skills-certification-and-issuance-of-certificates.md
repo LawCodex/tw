@@ -1,0 +1,753 @@
+---
+title: "Regulations on Technician Skills Certification and Issuance of Certificates"
+title_zh: "技術士技能檢定及發證辦法"
+identifier: "N0080004"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業訓練目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1985-09-06
+last_amended: 2023-11-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0080004"
+retrieved: 2026-10-12
+---
+
+# Regulations on Technician Skills Certification and Issuance of Certificates
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0080004-regulations-on-technician-skills-certification-and-issuance-of-certificates.md](../../../zh/regulations/ministry-of-labor/N0080004-regulations-on-technician-skills-certification-and-issuance-of-certificates.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+The Regulations are prescribed in accordance with Paragraph 2 to Article 33 of Vocational Training Act.
+
+### Article 2
+
+The Central Competent Authority oversees the following matters:
+
+\1. The enactment, amendment, and interpretation of the statutes.
+
+\2. Establishment of written and field tests’ questions bank for skills certification.
+
+\3. Regulations concerning the reviewing and decision on criteria of application fees for written and field tests and expenditures.
+
+\4. Qualifications examination, training and evaluation of invigilators and markers, and issuance of certificates.
+
+\5. Evaluation on field test sites, machines, and equipment for skills certification, and issuance of certificates.
+
+\6. Formulation, announcement, and implementation of National Skills Certification plan.
+
+\7. Implementation of skills certification plan and commissioning to implement.
+
+\8. Issuance and administration of technician certificates and diplomas.
+
+\9. Coordination and promotion of the effectiveness of the technician's license.
+
+\10. Rewards for excellent units and personnel in skills testing.
+
+\11. Promoting, handling, supervising, coordinating, auditing, and evaluating other skill certification matters.
+
+With respect to the matters in subparagraphs 2, 4 to 8, and 11 of the preceding paragraph, the Central Competent Authority may commission its subordinate agencies (organizations) to handle them.
+
+Regarding subparagraph 6 of the first paragraph concerning the operation of the National Skills Certification Program and subparagraph 7, the Central Competent Authority may authorize the operation of the program to other agencies (institutions), schools or corporate bodies, or delegate to the competent authorities of the municipalities or counties directly under the Central Government.
+
+### Article 3
+
+（Deleted）
+
+### Article 4
+
+（Deleted）
+
+## Chapter II Qualifications of Skills Certification Application
+
+### Article 5
+
+The rank for job categories of skills certification may be divided into Class A, Class B, and Class C; job categories unsuitable to be divided into three classes may have single class.
+
+### Article 6
+
+Persons with 15 years of age or educational attainment of junior high school may apply for skills certification of Class C or single-class certified technician.
+
+The age referred to in the preceding paragraph is calculated on the basis of the first day of the same stage for written test provided by units of skills certification.
+
+### Article 7
+
+Persons with one of the following qualifications may apply for skills certification of Class B certified technician:
+
+1.Obtaining a technical certificate of Class C or above for the job category related to the skills certification applied for, and also having received vocational training in a related job category for an accumulation of no less than 800 hours, or, being engaged in work related to the job category of skills certification applied for, for no less than two years;
+
+2.Obtaining a technical certificate of Class C or above for the job category related to the skills certification applied for, and also holding a senior high school diploma or a certificate of an equivalent level of education compared to the foresaid, or is a senior student currently attending a senior high school;
+
+3.Obtaining a technical certificate of Class C or above for the job category related to the skills certification applied for, and is a third year student currently attending a five-year junior college, or, a student of a two-year or three-year junior college, technical college, or technical university.
+
+4.Having received vocational training in a related job category for an accumulation of 400 hours, and having engaged in work related to the job category of the skills certification applied for, for no less than three years.
+
+5.Having received vocational training in a related job category for an accumulation of 800 hours, and having engaged in work related to the job category of skills certification applied for, for no less than two years.
+
+6.Having received vocational training in a related job category for an accumulation of no less than 1,600 hours;
+
+7.Having received vocational training in a related job category for an accumulation of no less than 800 hours, and also holding a senior high school diploma or a certificate of an equivalent level of education compared to the foresaid;
+
+8.Having received vocational training in a related job category for an accumulation of 400 hours, and having engaged in work related to the job category of skills certification applied for, for no less than one year, and also holding a senior high school diploma or a certificate of an equivalent level of education compared to the foresaid;
+
+9.Having received apprenticeship training in the related job category for two years, and having engaged in work related to the job category of skills certification applied for, for no less than two years;
+
+10.Holding a senior high school diploma or a certificate of an equivalent level of education compared to the foresaid, and having engaged in work related to the job category of skills certification applied for, for no less than two years;
+
+11.Holding a university degree or above, or, a certificate of an equivalent level of education compared to the foresaid, or, is a senior student currently in a university or college.
+
+12.Having engaged in work related to the job category of skills certification applied for, for no less than six years.
+
+The technical certificate of Class C or above referred to in the preceding Paragraph shall be reviewed, determined, and publicly announced by the Central Regulatory Authority.
+
+The vocational training and apprenticeship training in related job categories referred to in the first Paragraph shall be reviewed and determined by the Central Regulatory Authority. Only the participants of foresaid training provided by vocational training agencies (organizations) or government-commissioned units can be accepted.
+
+The number of hours spent training with the national team for the WorldSkills Competition (WSC) or the Vocational Skills Competition of International Abilympic (IA) may be included in the hours required in Paragraph 1 for vocational training in a related job category, after such hours have been reviewed and determined by the Central Regulatory Authority.
+
+### Article 8
+
+Persons with one of the following qualifications may apply for skills certification for Class A certified technician:
+
+1.Obtaining a technical certificate of Class B or above for the job category of skills certification applied for, and having engaged in work related to the job category of skills certification applied for, for no less than two years;
+
+2.Obtaining a technical certificate of Class B or above for the job category of skills certification applied for, and also having received vocational training in a related job category for an accumulation of no less than 800 hours;
+
+3.Obtaining a technical certificate of Class B or above for the job category of skills certification applied for, having received vocational training in a related job category for an accumulation of no less than 800 hours, and also having engaged in work related to the job category of skills certification applied for, for no less than one year;
+
+4.Obtaining a technical certificate of Class B or above for the job category of skills certification applied for, holding a technical university or technical college degree or a certificate of an equivalent level of education compared to the foresaid, and also having engaged in work related to the job category of skills certification applied for, for no less than one year;
+
+5.Holding a junior college degree or a certificate of an equivalent level of education compared to the foresaid, and also having engaged in work related to the job category of skills certification applied for, for no less than four years;
+
+6.Holding a technical college or technical university degree or a certificate of an equivalent level of education compared to the foresaid, and also having engaged in work related to the job category of skills certification applied for, for no less than three years.
+
+The technical certificate of Class B or above referred to in the preceding Paragraph shall be reviewed, determined, and publicly announced by the Central Regulatory Authority.
+
+The vocational training and apprenticeship training in related job categories referred to in the first Paragraph shall be reviewed and determined by the Central Regulatory Authority. Only the participants of foresaid training provided by vocational training agencies (organizations) or government-commissioned units can be accepted.
+
+The vocational training in related job categories referred to in the first Paragraph shall be reviewed and determined by the Central Regulatory Authority. Only the participants of foresaid training provided by vocational training agencies (organizations) or government-commissioned units can be accepted.
+
+The number of hours spent training with the national team for the WSC or the IA may be included in the hours required in Paragraph 1 for vocational training in a related job category, after such hours have been reviewed and determined by the Central Regulatory Authority.
+
+### Article 9
+
+The qualifications for application of certification referred to in the preceding three articles shall apply, unless there are other statutes and regulations prescribed by the relevant central competent authority.
+
+The qualifications for application of certification for special job categories shall be publicly announced by the Central Competent Authority, and if necessary, the announcement can be made after discussions are held with the relevant central competent authority.
+
+### Article 9-1
+
+Calculation of proof of education, training hours or years of work for recognition according to the preceding four articles shall be accepted until the day application for certification.
+
+### Article 10
+
+When applicants for skills certification passing both the written test and the field test of the same class of job category of skills certification shall be deemed as passing the certification.
+
+When an applicant passes the field test referred to in the preceding paragraph, the result of the test may be retained for 3 years from the second year of the year that the test in taken.
+
+The Central Competent Authority shall publicly announce the way of passing certification for job categories of skills certification not applicable to the two preceding paragraphs.
+
+The years of retention referred to in Paragraph 2 shall not include the number of years that skills certification is suspended, or shall be reduced if the skills certification for job category applied is terminated.
+
+### Article 10-1
+
+(Deleted)
+
+### Article 11
+
+The following persons of participating in skills competition can apply to the Central Competent Authority for waiving the field test:
+
+\1. Those ranking in the top three places or awarded a prize in an WorldSkills competition held by WorldSkills International or vocational skills competition of International Abilympic held by International Abilympic Federation have attended for any class of skills certification for related job categories within five years since the date of winning the foresaid competition.
+
+\2. Those passing the National Skills Competition or National Skills Competition for the Physically and Mentally Challenged held by the Central Competent Authority have attended for Class B, Class C, or single class skills certification for related job categories within three years since the date of passing the foresaid competition.
+
+\3. Those ranking in the top three places in Regional Skills competitions held by the Central Competent Authority, or skills and crafts competition held by government-approved agencies (institutions), schools, or organizations of juristic person have attended for Class C or single class skills certification for related job categories within three years since the date of winning the foresaid competition.
+
+Persons excused from the field test referred to in the preceding paragraph shall apply for the job categories applicable since the date of awarding or winning. The years of waiving the field test are calculated in accordance with Paragraph 4 Article 10.
+
+The Central Competent Authority shall publicly announce the related job categories, classes and items waived of field test referred to in the preceding paragraph.
+
+The Central Competent Authority shall publicly announce the qualifications and documents required to submit for units applying for government approval referred to in Subparagraph 3 of Paragraph 1.
+
+## Chapter III Process of Written and Field Tests
+
+### Article 12
+
+The Central Competent Authority shall, before the beginning of a calendar year, publicly announce matters concerning stages, classes of job category, registration, and tests of National Skills Certification, and hold national skills certification for non-specific persons.
+
+The Central Competent Authority may, if necessary, hold special skills certification for specific persons or purposes.
+
+### Article 13
+
+When units are commissioned, authorized or delegated to process field test for skills certification, taking other than non-choice-question written tests, their sites, machines and equipment shall be evaluated and authorized by the Central Competent Authority.
+
+### Article 14
+
+When a unit is commissioned, authorized, or delegated to process skills certification that includes any of the following situations, the Central Competent Authority may cease to commission, authorize, or delegate these assignments if:
+
+\1. It has found evidence that the unit has been intentionally neglectful or made serious mistakes in reviewing the qualifications of examinees for skills certification.
+
+\2. The unit has been notified to improve within a given period, but fails to improve by the end of the given period when processing certification administration that is not in accordance with related regulations.
+
+\3. It is found beyond doubt that the unit has collected fees more than that of prescribed criteria, or, obtained illegal gains when processing vocational training or skills certifications.
+
+\4. The unit commissioned, authorized and delegated certification administration to other units without approval.
+
+\5. The unit has seriously violated the Regulations and provisions of related statutes and regulations.
+
+### Article 15
+
+The Central Competent Authority may commission, authorize and delegate the following units to handle certification administration of written and field tests for skills certification for specific persons:
+
+\1. Vocational training agencies (institutions) established by the government: Provide skills certification for the trainees of their own training programs.
+
+\2. Correction agencies of the Ministry of Justice: Provide skills certification for the inmates.
+
+\3. Business entities: Provide skills certification for their employees.
+
+\4. Subordinated agencies (institutions) of the Ministry of National Defense: Provide skills certification for military personnel.
+
+\5. The Ministry of Education: Provide skills certification for students currently enrolled.
+
+\6. Legally established trade associations: Provide skills certification for employees of their member business entities.
+
+\7. Legally established labor unions: Provide skills certification for their members.
+
+\8. Other agencies (institutions) that are approved in accordance with statutes or under special programs: Provide skills certification.
+
+### Article 16
+
+Units commissioned, authorized, or delegated to provide special skills certification shall meet the following qualifications:
+
+\1. For Vocational training agencies (institutions) established by the government, and correction agencies of the Ministry of Justice, the job categories provided shall be related to their training courses and the training hours of the stage shall at least meet one of the following conditions:
+
+(1) For Class A and Class B skills certification, completing training courses of rudimentary training publicly announced or approved by the vocational training Competent authority.
+
+(2) For Class C skills certification, completing no less than 80 hours.
+
+\2. For a business entity:
+
+(1) It obtains registration documents in accordance with related statutes, and whose business items are related to job categories of the skills certification provided.
+
+(2) Its internal rule prescribes that a certain job must be undertaken by certified technicians, and employees passing skills certification will be awarded with a position or remuneration adjustment.
+
+(3) It obtains the approval by the Competent authority and provides short-term training to employees, and also pays for or subsidizes the fees for skills certification.
+
+\3. For subordinated agencies (institutions) of the Ministry of National Defense, they obtain the approval by the Ministry of National Defense and provide short-term training for military personnel.
+
+\4. For the Central Education Competent authority, matters concerning the procedures of providing skills certification and units undertaking skills certification shall be described in the annual plan, and jointly discussed and determined by the Central Competent Authority and the Central Education Competent authority.
+
+\5. For a legally established trade association or labor union:
+
+(1) The applied job categories of skills certification shall be related to the tasks specified in its charter.
+
+(2) It has obtained the legal registration document of establishment approval issued by the competent authority for more than three years.
+
+(3) It obtains the document issued by the competent authority as a proof that it is operating as normal.
+
+(4) It has planned a promotion proposal of skills certification, and the proposal is passed and recorded at the member (representative) meeting, then further submitted to the competent authority for approval.
+
+(5) It has a site reserved for the administration of the written test, and it can accommodate at least 10 persons for testing each time.
+
+(6) It provides short-term training for its member business entities or members, and submits details to the competent authority for approval.
+
+### Article 17
+
+Applicants for special skills certification shall also meet one of the following conditions, in addition to the qualifications prescribed in Chapter II:
+
+\1. Trainees shall be currently receiving training at vocational training agencies (institutions) and shall apply for skills certification in job categories related to the training.
+
+\2. For inmates, they are currently receiving training at the correction agency under the Ministry of Justice and shall apply for job categories of skills certification related to the training.
+
+\3. For in-service employees, they have completed a short-term skill training program and are insured by Civil Servant Insurance or Labor Insurance.
+
+\4. For military personnel, they are military officers or soldiers, students of a military academy, or contracted employees in military units, and have completed short-term skill training programs.
+
+\5. For students, they are currently enrolled at schools.
+
+\6. For employees in member business entities of trade associations, they have completed short-term training programs and are now insured by Labor Insurance.
+
+\7. For labor union members, they have completed short-term training programs and are now insured by Labor Insurance.
+
+Applicants for skills certification referred to in the preceding paragraph can only apply for one job category in each stage.
+
+### Article 18
+
+The job categories and classes of special skills certification shall be limited to those job categories and classes of publicly announced National Skills Certification, but the job categories and classes that the field test questions prior to the field test being taken has been classified as confidential shall be approved by the Central Competent Authority
+
+### Article 19
+
+Unless obtaining approval from the Central Competent Authority due to exceptional circumstances, units providing special skills certification shall meet the following conditions:
+
+\1. The number of participants in skills certification of the same job category and class in each stage shall be no less than 10 persons.
+
+\2. When the method of written questions is adopted for the written test for Class A and Class B, the test shall be taken together with National Skills Certification; but, if necessary, the Central Competent Authority may prepare different written test questions for each job category and class, and reschedule the same date for testing thereof.
+
+## Chapter IV Evaluation and Subsidization on Sites, Machines and Equipments of Field Test
+
+### Article 20
+
+For field test of skills certification taking other than non-choice-question written test, the sites, machines and equipment employed shall be first evaluated by the Central Competent Authority. The evaluation may be waived, if the skill test sites are located at sea, undersea, or in the air.
+
+### Article 21
+
+Units applying for evaluation on sites, machines and equipments of field tests shall meet one of the following qualifications, except those have been specially approved by the Central Competent Authority
+
+\1. Vocational training institutions: they register or are admitted to establish in accordance with the Regulations on the Establishment and Administration of Vocational Training Institutions, obtain establishment certificates of vocational training institution, and provide training job categories carried in their establishment certificates are related to job categories applied for evaluation.
+
+\2. Schools: they are public and private high schools or above established with the approval by the education competent authority, and have fields (departments) related to job categories which are applied for evaluation.
+
+\3. Business entities: they register in accordance with the Company Act or the Business Registration Act, obtain company or business registration certificates, operate in businesses related to job categories which are applied for evaluation, and have registered capital no less than N.T. $15,000,000 or more than 100 employees.
+
+\4. Organizations:
+
+(1) They are labor unions or trade associations which have established for no less than three years and obtain registration certificates, and the businesses of their members are related to job categories applied for evaluation.
+
+(2) They are national non-profit corporates which have established for no less than three years and obtain registration certificates, and the tasks prescribed in their charters are related to job categories applied for evaluation.
+
+\5. Government agencies (institutions) or government-subsidized corporates: they are agencies (institutions) established in accordance with government organization statutes or corporates established with governmental subsidization.
+
+### Article 22
+
+The Central Competent Authority shall publicly announce the matters concerning the yearly evaluation on sites, machines, and equipment of field tests for each class of job category by the end of January each year.
+
+The Central Competent Authority shall publicly announce each month the matters concerning the date of evaluation and the evaluation result on sites, machines, and equipment of field test for skills certification of certified technicians.
+
+The time of public announcement can be different due to special circumstances referred to in the preceding two paragraphs.
+
+### Article 23
+
+After evaluating in accordance with the Self-evaluation List of each class of job category and passing the requirements of self-evaluation units applying for the evaluation on sites, machines and equipments of field test shall submit the following documents and two photocopies of the Self-evaluation List to the Central Competent Authority for evaluation application:
+
+\1. The photocopy of the establishment certificate; but government agencies and public schools are not required.
+
+\2. The photocopy of the property ownership certificate or land registration transcript, the photocopy of building ownership certificate or building registration transcript for the test site; but government agencies, public schools and any units that may confirm through land administration information e-service system are not required.
+
+\3. For schools, curricula of department(s) related to the classes of job category of evaluation application for school.
+
+\4. For organizations, operation-related proof recorded by the competent authority.
+
+If a test site referred to in Subparagraph 2 of the preceding paragraph is rented, a leasing contract or consent in writing of usage with effective period of no less than two years shall be submitted.
+
+The same site, machines and equipments shall not be used by two or more units for evaluation.
+
+The Central Competent Authority may specially approve the field test site of the classes of job category applied for evaluation if the site is unique, the only one available, meeting the demand of labor market, with the utility of statutes and regulations for operational management, or due to special circumstances.
+
+### Article 24
+
+Evaluation on the sites, machines and equipments of field test for skills certification shall be processed in accordance with the following reviewing procedures:
+
+\1. For preliminary evaluation, it shall be reviewed in writing by the Central Competent Authority.
+
+\2. For on-site evaluation, the Central Competent Authority shall appoint two to three persons among those of composing test questions bank or with the qualification of invigilators or markers to make on-site evaluation on the units passing the preliminary evaluation, the evaluation result shall be written in the list of evaluation result.
+
+### Article 25
+
+The Central Competent Authority shall issue a qualified certificate of evaluation on site, machines, and equipment of field tests for skills certification to units passing the on-site evaluation, and the certificate shall list the following items:
+
+\1. The name of unit passing the evaluation.
+
+\2. The name of job category and class for skills certification.
+
+\3. The number of persons that can be accommodated in the field test site each time.
+
+\4. The address of the field test site.
+
+\5. The effective period.
+
+If there is change in items referred to in Subparagraphs 1 to 4 of the preceding paragraph, or machines, it shall be reported to the Central Competent Authority for approval and record within 3 months before the test.
+
+The effective period referred to in Subparagraph 5 of Paragraph1 shall be 5 years from the date of issuing the qualified certificate. If the rental period of a site is less than 5 years, the effective period of foresaid certificate is terminated on the date that the leasing contract or consent, in writing, of usage is terminated. However, if situations referred to in Article 27 occur, the foresaid article shall apply.
+
+Units passing the evaluation shall fill in and submit the Self-evaluation List to the Central Competent Authority for approval and record, within three months before the end of the effective period. If necessary, the Central Competent Authority may, from time to time, make an on-site evaluation.
+
+### Article 26
+
+The Central Competent Authority may depending on its budget subsidize administration units of field tests machines and equipments required for skills certification.
+
+### Article 27
+
+When the Central Competent Authority makes significant revision on the tests' questions of the classes of job categories for skills certification and modifies the Self-evaluation List, it shall publicly announce the new Self-evaluation List three months before the new tests' questions are adopted.
+
+Units passing the evaluation shall again make self-evaluation in accordance with the new Self-evaluation List referred to in the preceding paragraph, and file the evaluation application or fill in the situations of adjustment within the period prescribed by the Central Competent Authority.
+
+### Article 28
+
+When units on offshore islands, remote districts, or pursuant to the qualifications of Subparagraph 2 of Article 15 file the application for evaluation and obtain the approval of the Central Competent Authority, they can be exempted from the restriction that the minimal number of persons that can be accommodated in the field test site each time as prescribed in the Self-evaluation List.
+
+When units pursuant to the qualifications of Subparagraph 2 of Article 15 in need of correction and administration, are allowed to file the application to the Central Competent Authority to be exempt of the partial common equipments as described in the Self-evaluation List.
+
+### Article 29
+
+When a unit passing the evaluation is discovered with one of the following situations, the Central Competent Authority shall withdraw its status of qualification for the site of classes of job categories, and cancel its certificate of qualification:
+
+\1. Skill tests can no longer be taken because the site, machines, and equipment are seriously damaged, or have been used for other purposes.
+
+\2. The site, after the examination by building and construction administration, environmental protection, fire control, safety and health, or relevant agencies, is in contravention of related statutes and regulations and it has been ordered by these competent authorities to improve within a given period, but fails to improve.
+
+\3. After passing the evaluation, the space of the site, number of machines, or equipment has been reduced and it has been ordered by the Central Competent Authority to improve within a given period, but fails to improve.
+
+\4. The unit refuses to be authorized or delegated by the Central Competent Authority to process field testing more than three consecutive times, or has accumulated over five refusals within five years.
+
+\5. The organization is in violation of Paragraph 3 to Article 23.
+
+\6. The organization is in violation of Paragraph 2 to Article 25.
+
+\7. Matters not handled in accordance with the provisions of Paragraph 2 to Article 27.
+
+\8. The organization is found to have engaged in malpractice for personal gains, when providing skills certification.
+
+\9. Other serious circumstances in violation of the Regulations and related statutes regulations.
+
+When a unit passing the evaluation is covered by the situation prescribed in Subparagraph 1 or Subparagraph 2 of the preceding paragraph, it shall immediately cease to provide skills certification and notify the Central Competent Authority. If it does not notify the Central Competent Authority and is found to be continuing to provide skills certification, its certificate of qualification for evaluation will be nullified, and it’s application for evaluation on the site of the same class of job category will not be accepted.
+
+### Article 30
+
+When a unit passing the evaluation is found to be counterfeit, forged, or false and fictitious in its information or documents submitted for the application of evaluation, the Central Competent Authority may revoke its qualified certificate of evaluation.
+
+## Chapter V Selection and Review, Training, and Evaluation of Invigilator and Marker Qualification
+
+### Article 31
+
+The Central Competent Authority shall publicly announce the training for invigilator and marker qualification, if there is one of the following situations:
+
+\1. Classes of Job categories newly developed.
+
+\2. Number of persons with invigilator and marker qualification inadequate for the classes of job categories after evaluation.
+
+\3. Other classes of job categories required for skills certification.
+
+### Article 32
+
+The following units may assign persons to the Central Competent Authority for participating in the training for invigilator and marker qualification:
+
+\1. Field test providing units related to the trained job categories.
+
+\2. Service units of personnel in establishing guideline and composing written and field tests’ questions bank for skills certification related to the trained job categories.
+
+\3. Units passing the evaluation on site, machines and equipments of field test for or skills certification related to the trained job categories.
+
+\4. Vocational training agencies (institutions) or schools with fields (departments) same as or similar to the trained job categories.
+
+\5. Business entities with technologies or equipments same as or similar to the trained job categories.
+
+\6. Professional unions, trade associations and professional organizations related to the trained job categories.
+
+\7. The competent authorities of related business.
+
+\8. Other units designated by the Central Competent Authority.
+
+### Article 33
+
+Persons with one of the following qualifications may be assigned by units referred to in the preceding article or recommend themselves to participating in the training for invigilator and marker qualification:
+
+1.Those who have the degree of junior college or higher, are now or were technicians at institutions related to the trained job categories and with registration document in accordance with related statutes, teachers at senior (vocational) high schools or higher, instructors or technicians at military academies, or trainers at vocational training agencies (institutions) and have engaged in work related to the trained job categories for more than eight years.
+
+2.Those who are currently or have been invited by the Central Competent Authority to establish guideline or compose written and field tests’ questions bank for skills certification related to the trained job categories.
+
+3.Those who are experts with qualified academic background and work experiences or responsible officers (staffs) and assigned or recommended by the competent authorities of related business or the Central Competent Authority.
+
+4.Those who obtain Class B or higher level technician certificate related to the trained job categories and engaged in work related to the trained job categories for more than ten years.
+
+5.Those who have the degree of senior (vocational) high school or higher, have technician certificate of the class of the job category provided, engage in work related to the trained job categories for more than thirteen years, and Class B skills certification has not yet been provided for the trained job categories.
+
+6.Those who have won an excellence award or above in an international skills competition or a vocational skills competition at the International Abilympics, as well as have been engaged in relevant work for more than three years, providing the contest categories are related to the job training categories.
+
+7.Those who have won a top three award in a National Skills Competition as well as have been engaged in relevant work for more than eight years, providing the contest categories are related to the job training categories.
+
+The Central Competent Authority shall openly select the persons assigned by the units referred to in the preceding paragraph or self-recommended.
+
+Among those meeting the qualifications referred to in the Paragraph 1, persons with the degree of fields related to trained job categories, or having the teaching experience in courses related to trained job categories and technician certificates related to trained job categories shall have the first priority to be selected to participate in the training for invigilator and marker qualification.
+
+Persons referred to in the preceding paragraph can only participate in the training for invigilator and marker qualification of one job category, unless it is publicly announced by the Central Competent Authority.
+
+Persons who are working as the responsible person, staffs or tutors at such profit units as tutoring schools related to job categories for skills certification are not allowed to participate in the training thereof.
+
+The qualifications for job categories with special conditions may be specially approved by the Central Competent Authority.
+
+### Article 34
+
+Persons participating in the training for invigilator and marker qualification shall participate in the entire course of training. After passing the examination and obtaining a qualification for an invigilator and marker, the certificate of invigilator and marker qualification shall be issued by the Central Regulatory Authority.
+
+The effective period of the certificate referred to in the preceding Paragraph shall be five years from the date of issue of the certificate.
+
+Within the effective period, persons obtaining the certificate for invigilator and marker qualification mentioned in the first Paragraph may apply for the cancellation of the certificate with the Central Regulatory Authority.
+
+### Article 35
+
+The Central Competent Authority shall provide workshops for invigilators and markers with invigilator and marker qualification if there is one of the following situations:
+
+\1. classes of Job categories with major revision on field test questions or invigilating and marking criteria for skills certification.
+
+\2. classes of Job categories with no invigilating and marking workshops within five years.
+
+\3. Other classes of job categories for which workshops are necessary.
+
+### Article 36
+
+Persons participating in the training for invigilator and marker qualification shall participate in the entire course of training, and pass the examination, in order to undertake invigilating and marking duty of the specified class.
+
+Persons with certified invigilator and marker qualification, who are working as the responsible person, staff, or instructor in invigilator and marker qualification education providers or units of similar characteristics, are not allowed to participate in the workshop referred to in the preceding Article.
+
+Persons who do not participate in a workshop referred to in Paragraph 1, persons who do not participate fully in the entire course of the workshop, or persons who fail to score a passing mark in the workshop will be suspended from undertaking invigilating and marking duty.
+
+If the certificate of invigilator and marker qualification owned by the person who participated in the workshop referred to in Paragraph 1 had an effective period, a new certificate shall be issued. The effective period shall be five years from the date of issue of the new certificate.
+
+Where the workshop mentioned in Paragraph 1 above cannot be conducted by the Central Regulatory Authority within the effective period due to natural disasters, incidents, or emergencies, the effective period of the certificate may be approved for a six-month extension as special case. If necessary, the effective period may be extended further with each extension for a period up to six months.
+
+### Article 36-1
+
+When persons with invigilator and marker qualification apply for field test of skills certification for the job categories of which they are undertaking invigilating and marking duty, they shall not be invited to undertake invigilating and marking duty for all sessions of foresaid job categories of the stage.
+
+### Article 36-2
+
+（Deleted）
+
+### Article 37
+
+Invigilators and markers shall keep confidential about the results of field test and secrets learned or possessed from their duties.
+
+### Article 38
+
+Persons with invigilator and marker qualification shall not refuse without justifiable reasons to perform invigilation or marking duties at designated field test sites.
+
+Persons in violation of the provision referred to the preceding paragraph shall not be selected and invited to perform invigilation and marking duties for two years.
+
+### Article 39
+
+When individuals with Invigilator and Marker qualifications are found without doubt of being involved one of the following situations, the Central Competent Authority shall revoke or withdraw their Invigilator and Marker qualification certificates:
+
+1.Leaking or stealing classified test questions, evaluation criteria, evaluation sheets, referential answers, test results, or classified information and materials learned or possessed from their duties or business.
+
+2.Having qualification proof documents that are counterfeit, forged, or false and fictitious.
+
+3.Receiving the final verdict of more than one year of imprisonment; However, negligent crimes are not subject to the above limitation.
+
+4.Participating in Invigilator and Marker training or seminars by fraudulent, impersonation or other improper means.
+
+5.Behaving in an intentional or neglectful manner leading to negative effects on the rights and interests of examinees in the tests or the test-related matters.
+
+Persons whose Invigilator and Marker qualification certificates have been revoked or withdrawn referred to the preceding paragraph can no longer participate in the training for Invigilator and Marker qualification for any class of job category.
+
+### Article 39-1
+
+When persons with Invigilator and Marker qualifications are found without doubt having been involved in the following situations, the Central Competent Authority shall revoke or abolish their Invigilator and Marker qualification certificates of the relevant class of job category:
+
+1.Working as the responsible person, member of staff or tutor at private for profit organizations such as tutoring schools related to job categories for skills certification.
+
+2.Refusing to recuse conflict of interest when their spouses, former spouses, blood relatives within the top four degrees of kinship, or marital relations within the top three degrees of kinship are examinees in the tests for skills certification.
+
+3.Refusing to recuse conflict of interest when a person who has worked as an inspector of the examinees now or had undertaken such task two years prior to the first day of registration.
+
+4.Refusing to recuse conflict of interest when a person who has worked as heads (responsible persons) or directly officers of units (agencies), groups, schools, or institution (unit), are engaging examinees.
+
+5.Refusing to recuse conflict of interest as a full-time or part-time lecturer of the certification administration agency and teaching assistant industrial expert, or when the target of invigilation is a trainee or student of the agency.
+
+6.Refusing to recuse conflict of interest when other specific facts sufficiently prove a biased performance of their duties.
+
+When persons with Invigilator and Marker qualification are covered by the situation referred to in Subparagraph 1 of the preceding paragraph during the period of their invigilation or marking duties being suspended or terminated, their invigilator and marker qualification certificates shall not be revoked or abolished.
+
+Persons whose Invigilator and Marker qualification certificates have been revoked or abolished referred to Paragraph 1 can no longer participate in the training for Invigilator and Marker qualification for the class of job category concerned.
+
+## Chapter VI Establishment and Administration of Test Questions Bank
+
+### Article 40
+
+The Central Competent Authority shall establish test questions bank and designate personnel in charge of test questions administration for exclusively administering test questions for skills certification.
+
+Personnel referred to in the preceding paragraph shall keep confidential.
+
+### Article 41
+
+Persons selected and appointed to compose test questions bank of each job category shall meet one of the following conditions:
+
+1.Those who are or were working as assistant professors or above at universities and have had more than five years of teaching experience in related field.
+
+2.Those who have a university or higher degree and have had more than ten years of teaching experience in related job categories.
+
+3.Those who have the degree of junior college or higher, are now or were in a managerial position for more than five years or non-managerial position for more than eight years of technical department or training department at government agencies or institutions related to job categories for skills certification and with registration document in accordance with related statutes.
+
+4.Those who have the degree of senior (vocational) high school or higher, have technician certificate of the highest class provided in relation to job categories for skills certification, have engaged in on-site or training work related to the job categories for more than ten years.
+
+5.Those who are recommended by the competent authority or the competent authority of related business at any level.
+
+When persons of composing test questions bank for special job categories cannot be selected or appointed in accordance with the preceding paragraph, the preceding paragraph shall not apply.
+
+The number of persons to compose test questions bank for each job category shall be 6 to 12 persons. Each person can be appointed to compose test questions bank for each job category only, unless those who are granted from the Central Competent Authority.
+
+### Article 42
+
+The Central Competent Authority may request the competent authorities of related business, schools, institutions and organizations to make recommendations when selecting and appointing persons referred to in the preceding article; persons who are selected and appointed shall be issued an appointment letter of composing test questions bank.
+
+The effective period of the appointment letter referred to in the preceding paragraph is from the date of appointment to December 31 of the year.
+
+### Article 43
+
+Persons of composing test questions bank shall keep confidential about undisclosed test questions and related information and materials possessed and learned from their participation in the composing process, and shall also not leak or use the foresaid information and materials for publishing books or printing out handouts.
+
+### Article 44
+
+When persons having one of the following situations shall not selected and appointed to compose test questions bank, and those already selected and appointed shall be dismissed:
+
+\1. Investing in or running such profit units as tutoring schools related to job categories.
+
+\2. Working as staffs or tutors at such profit units as tutoring schools related to job categories for skills certification.
+
+\3. Violating the preceding article.
+
+### Article 45
+
+Persons composing test questions in the question data bank shall not apply for the skills certification of related job categories during the period of composition of test questions in the question data bank and test questions in use. However, the foresaid provision shall not apply if the period of test questions being used has been over two years.
+
+During the period of composing test questions for the question data bank and test questions in use referred to in the preceding paragraph, persons composing test questions in the question data bank shall recuse themselves in any of the following cases:
+
+1.Examinees as spouses, ex-spouses, blood relatives within the top four degrees of kinship, or marital relatives within the top three degrees of kinship of the persons of composing test questions in the question data bank.
+
+2.There is concrete evidence showing that they are likely to be partial when executing their duties.
+
+The preceding article shall apply to those in violation of the two preceding paragraphs.
+
+### Article 46
+
+The written or field test questions shall be sealed by the personnel in charge of test questions bank and signed by the collector of each written or field test administration unit after confirming the exact quantity or handed secretly over to the head of each administration unit.
+
+Persons involved of written or field test administration unit shall keep confidential in the process of test questions collection, printing and delivery.
+
+### Article 46-1
+
+The Central Competent Authority shall publicly announce the job categories and classes of which the written or field tests shall be kept confidential.
+
+## Chapter VII Issuance and Administration of Technician Certificates
+
+### Article 47
+
+The Central Competent Authority shall issue technician certificates to persons who passed the skills certification examination, and may issue technician diplomas upon request. Those who damage or lose their technician certificates or diplomas may apply for renewal or reissuance.
+
+Upon request from the responsible central enterprise authorities, and to the extent necessary to perform its statutory duties, the Central Competent Authority may provide a list of the technicians and other related information.
+
+### Article 48
+
+The contents and recorded items of technician certificates are as follows:
+
+\1. Name, date of birth, and national identification number;
+
+\2. Photograph;
+
+\3. Job category and class;
+
+\4. Serial number of technician certificate;
+
+\5. Agency of issuing the certificate;
+
+\6. Date of being effective;
+
+\7. Date of issuance; and
+
+\8. Other items to be recorded as identified by the central competent authority.
+
+The technician diploma shall record the name and items referred to in Subparagraphs 2 to 7 of the preceding paragraph.
+
+### Article 49
+
+Technician certificates and diplomas shall not be lent to others for use. The Central Competent Authority shall abolish the technician certificates and cancel the technician diplomas of those in violation of the foresaid provision.
+
+Where persons participating in the skills certification are found to have any of the following situations, their application qualification or the result of their written or field test shall be revoked and no certificate shall then be issued; those are already issued technician certificates and diplomas, their technician certificates shall also be revoked and diplomas cancelled.
+
+\1. The application qualifications of any person participating in skills competitions does not meet the requirements;
+
+2 Any person who violates the regulations for written and field tests;
+
+\3. Any person who uses a false or assumed name;
+
+\4. Any person who counterfeits or alters examinee ID documents;
+
+\5. Any person who disrupts the inside or outside order of the test site by disobeying test field supervisors trying to persuade them to listen to;
+
+\6. Any person who, whether through fraud or other malpractice, causes an inaccurate result of the examination; or
+
+\7. Other acts of cheating discovered during an examination.
+
+When persons of applying for or participating in the skills certification are involved in the cheating referred to in the preceding paragraph, the competent authority shall notify their schools or agencies to investigate and deal with; if they are involved in criminal responsibility, the central competent authority shall transfer them to the prosecuting agency.
+
+When the Central Competent Authority revokes technician certificates or cancels technician diplomas, it shall notify the same to the central competent authority of related business.
+
+### Article 50
+
+（Deleted）
+
+## Chapter VIII Supplementary Provisions
+
+### Article 51
+
+The Central Competent Authority shall openly reward individuals, business entities, schools, vocational training agencies (institutions) and employment services institutions with outstanding performance in promoting skills certification.
+
+### Article 52
+
+（Deleted）
+
+### Article 53
+
+（Deleted）
+
+### Article 54
+
+The Central Competent Authority shall determine the formats of diplomas and certificates prescribed in the Regulations.
+
+### Article 55
+
+The Regulations shall become effective on the date of promulgation.
+
+## History
+
+\1. Promulgated and enforced by the Ministry of the Interior Order No. 351676 on November 11, 1985
+
+\2. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 01532 on January 27, 1988
+
+\3. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 06785 on March 30, 1990
+
+\4. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 102034 on January 27, 1995
+
+\5. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 144865 on December 4, 1996
+
+\6. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 051212 on December 2, 1998
+
+\7. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 0700019 on June 29, 1999
+
+\8. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 0700108 on August 25, 1999
+
+\9. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 0200474 on December 20, 2000
+
+\10. Amended and promulgated by the Council of Labor Affairs, Executive Yuan Order No. 0920100394 on December 31, 2003
+
+\11. Amended and promulgated Articles 11, 18, 21, 22, 27, 29, 31, 32, 33, 36, 39, 41, and 45 by the Council of Labor Affairs, Executive Yuan Order No. 0940100600 on December 30, 2005
+
+\12. Amended and promulgated Articles 3, 7, 8, 11, 15, 17, 21, 23, 30, 33, 34, 35, 36, 39, 41, 42, 44, 45, 52, and 53 by the Council of Labor Affairs, Executive Yuan Order No. 0970100421 on December 26, 2008
+
+\13. Amended and promulgated Articles 36-1, 36-2, and 39 by the Council of Labor Affairs, Executive Yuan Order No. 0980100370 on October 19, 2009
+
+\14. Amended and promulgated Articles 6, 7, 8, 11 and 24, Chapter V title, and Articles 31, 32, 33, 34, 35, 36, 36-1, 39, 41, 42, 44, 45 and 49, and deleted Article 36-2 by the Council of Labor Affairs, Executive Yuan Order No. 0990100432 on November 24, 2010
+
+\15. Amended and promulgated Articles 2, 4, 7, 8, 9, 10, 10-1, 12, 15, 16, 19, 23, 25, 28, 39, 42, 46, and 46-1 and deleted Articles 3 and 50 by the Council of Labor Affairs, Executive Yuan Order No. 1000100316 on November 18, 2011
+
+\16. Amended and promulgated Articles 7,8,11,14,15,16,17,18,21,28,29,32,33,36,36-1,39,41,48,49, and 51 by the Council of Labor Affairs, Executive Yuan Order No. 1020200141 on January 23, 2013
+
+17.Amended and promulgated Articles21,22,23,27,29,31,34,35,36,38,39, and added 39-1 by the Council of Labor Affairs, Executive Yuan Order No. 1020204873 on January 10, 2014
+
+18.Amended & promulgated Article 28 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1039800313 on December 19, 2014
+
+19.Amended & promulgated Article 7,8,15,16,17,23,33 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1040514970 on December 7, 2015
+
+20.Amended & promulgated Article 11、16、39-1、48、49 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1060518077 on October 3, 2017
+
+21.Amended and promulgated Article 9、13、14、20、29、39、39-1、45 and added 9-1 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1080511018 on August 27, 2019
+
+22.Amended and promulgated Article 10、15~17、33、36、41 and deleted 10-1 by MOL with Lao-Dong-Fa-Neng-Tzu No. 1100500010 on January 20, 2021
+
+23.Amended and promulgated Article 7、8、34、36、47 by MOL with Lao-Dong-Fa-Neng-Tzu No.1110527195 on January 11, 2023
+
+24.Amended and promulgated Article 2、12~17、22、25、29、47、Chapter III title and deleted Article 4 by MOL with Lao-Dong-Fa-Neng-Tzu No.1120516875 on November 2, 2024

@@ -1,0 +1,161 @@
+---
+title: "Regulations Governing the Organization of Procurement Evaluation Committee"
+title_zh: "採購評選委員會組織準則"
+identifier: "A0030103"
+type: regulation
+law_level: "命令"
+category: "行政＞行政院公共工程委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-05-21
+last_amended: 2026-05-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030103"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Organization of Procurement Evaluation Committee
+
+> Translation. The Chinese text ([zh/regulations/public-construction-commission/A0030103-regulations-governing-the-organization-of-procurement-evaluation-committee.md](../../../zh/regulations/public-construction-commission/A0030103-regulations-governing-the-organization-of-procurement-evaluation-committee.md)) is authoritative.
+
+## Article 1
+
+This Regulations is prescribed pursuant to Paragraph 3 of Article 94 of the Government Procurement Act (hereinafter referred to as the "Act").
+
+## Article 2
+
+The entity shall establish a procurement evaluation committee (hereinafter referred to as the "Committee") for respective procurement to handle the following matters:
+
+\1. Selecting a winner pursuant to subparagraphs 9 or 10 of paragraph 1 of Article 22 of the Act.
+
+\2. Selecting the most advantageous tender or recommending the most advantageous tender to the head of the entity pursuant to Article 56 of the Act.
+
+## Article 3
+
+The Committee shall be established prior to invitation to tender and shall be dissolved once the evaluation work is completed and no pending matters to be resolved. The Committee's duties are:
+
+\1. Setting or approving the evaluation items, the evaluation criteria, and the evaluation method set forth in the tender documentation.
+
+\2. Conducting the evaluation of suppliers.
+
+\3. Assisting the entity in explaining matters in relation to the evaluation criteria, the evaluation process, or the result of evaluation.
+
+The evaluation items, the evaluation criteria, and the evaluation method referred to in the subparagraph 1 of the proceeding paragraph may be set or approved by the entity without having to establish the Committee prior to invitation to tender if there exists any precedent or that the conditions are relatively simple. However, the Committee shall nevertheless be established prior to the opening of tender.
+
+## Article 4
+
+The Committee shall be not less than 5 members with relevant professional knowledge on procurement matter, who shall be appointed within or outside the entity. Among them, at least one third of the total number shall be experts or scholars.
+
+The experts and scholars referred to in the preceding paragraph shall not be incumbent staff members of any government agencies. Except for the aforementioned experts and scholars, other Committee members may be incumbent staff members of the entity, and may include those from other enties.
+
+The members referred to in paragraph 1 shall be acting without pay, provided that members who are overseas experts or scholars may be paid in accordance with relevant regulations.
+
+The experts and scholars referred to in paragraph 1 shall be first proposed by the requesting or procuring unit of an entity from a recommended list complied by the responsible entity acting together with the Ministry of Education, the Ministry of Examination and other relevant entities, or other persons not in the recommended list but with relevant professional knowledge on procurement matter, and then approved by the head of the entity or any person authorized by the head.
+
+The recommended list referred to in the preceding paragraph shall be made public on the Information network by the responsible entity for the entities’reference.
+
+The Committee member appointed outside the entity shall be subject to his/her consent.
+
+## Article 4-1
+
+The entity shall not select a Committee member in any of the following circumstances：
+
+\1. accepting entreating or lobbying.
+
+\2. accepting a self-recommendation.
+
+\3. selecting a member for interests of a specific supplier.
+
+\4. selecting a member not having relevant professional knowledge of the procurement.
+
+\5. selecting a member who has integrity problems.
+
+\6. selecting any incumbent representative of a legislative body at all levels, unless the procuring entity itself is a legislative body.
+
+\7. other circumstances as prescribed by the responsible entity.
+
+The term “representative of a legislative body at all levels,” as referred to in subparagraph 6 of the preceding paragraph, means legislators of the Legislative Yuan, councilors of Special Municipalities, county (city) councilors, township (city) representatives, and representatives of Special Municipality mountain indigenous districts.
+
+## Article 5
+
+A person shall not be selected as, or serve as, a Committee member if one of the following circumstances exists:
+
+\1. If he/she has been convicted of corruption, malfeasance, or an unlawful act committed in the conduct of government procurement, except where a judgment of acquittal has become final.
+
+\2. If he/she has violated laws or regulations in the conduct of government procurement, or has committed any of the acts prescribed in Article 7 of the Ethics Regulations for Procurement Personnel, and has been subject to removal from the functionary duties, dismissal from office, deprivation or reduction of pension (i.e., Retirement Allowance, Maintenance Payment to Military officials), suspension, demotion, reduction of salary, a fine, or a disciplinary demerit, except where the original judgment has been revoked and a subsequent judgment has become final, resulting in none of the foregoing circumstances.
+
+\3. If he/she has been deprived of civil rights and the resumption of rights has not been granted.
+
+\4. If he/she is a licensed professional and his/her right to practice has been suspended, or his/her practice license has been revoked or abolished.
+
+\5. If he/she, or a supplier for which he/she serves as the responsible person, has been published on the Government Procurement Gazette pursuant to Paragraph 3 of Article 102 of the Government Procurement Act, during the period of such publication.
+
+\6. If he/she is under guardianship or assistance and such declaration has not been revoked.
+
+\7. If he/she has been adjudicated bankrupt, or has been subject to liquidation proceedings under the Consumer Debt Clearance Act, and the resumption of rights has not been granted.
+
+## Article 6
+
+After the establishment of the Committee, the name list of the Committee members shall be published immediately on the website designated by the responsible entity. The same shall also apply as to amendments and supplements thereto. However, this should not apply when there is a necessity not to disclose the list at the entities’ discretion upon taking into consideration of the characteristics of the case and the actual needs.
+
+If the entity publishes the name list of the Committee members, it shall be kept confidential before public disclosure. For the unpublished, it shall be kept confidential prior to the commencement of the evaluation.
+
+## Article 7
+
+The Committee shall have a chairperson, served by the head of the entity, or by a supervisor at or above the first level, appointed by the head of the entity or the personnel authorized by the head of the entity. Where the chairperson is not served by the head of the entity, the head of the entity shall still be responsible for the evaluation result.
+
+The Committee shall have a deputy chairperson, appointed by the head of the entity or the personnel authorized by the head of the entity among internal personnel.
+
+The chairperson manages all evaluation matters, and the deputy chairperson assists the chairperson to handle evaluation matters, and both of them are Committee members.
+
+Committee meetings will be called by the chairperson who will serve as the chairman. If the chairperson is unable to attend meetings or the position is vacated for cause, the deputy chairperson shall act in his stead. If both the chairperson and the deputy chairperson are unable to attend, the meeting shall be rescheduled.
+
+## Article 8
+
+The entity shall establish a working group consisting at least 3 members to assist the Committee in handling matters in relation to evaluation at the time when the Committee is established. Members of the working group shall be appointed by the head of the entity or any person authorized by the head from personnel of the entity or outside professionals, and at least one of them shall be a professional procurement personnel.
+
+When the Committee convenes, the personnel of the entity engaging in handling the evaluation matters shall be present during the whole process, and personnel from other related entities, scholars or experts may be invited to attend the meeting to assist in evaluation.
+
+The assisting personnel referred to in the proceeding two paragraphs shall be acting without pay provided that personnel who are not personnel of the entity may be paid for attendance or transportation reimbursement in accordance with relevant regulations.
+
+The provision of Article 14 of the “Regulations for Review by Procurement Evaluation Committee” shall apply mutatis mutandis to the withdrawal of the assisting personnel referred to in paragraphs 1 and 2.
+
+## Article 9
+
+If the Committee needs to send official documents externally, they shall be sent in the name of the establishing entity.
+
+## Article 10
+
+This Regulations shall take effect May 27, 1999.
+
+The amendment to this Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Promulgated on May 21, 1999
+
+\2. Amended on September 28, 1999
+
+\3. Amended on June 20, 2001
+
+\4. Amended on June 25, 2003
+
+\5. Amended on October 27, 2004
+
+\6. Amended on July 13, 2005
+
+\7. Amended on July 20, 2007
+
+\8. Amended on May 12, 2010
+
+\9. Amended on August 8, 2018
+
+\10. Amended on November 6, 2019
+
+\11. Amended on November 11, 2021
+
+\12. Last Amended on January 9, 2025
+
+\13. Last Amended on May 8, 2026

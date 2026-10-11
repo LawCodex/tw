@@ -1,0 +1,475 @@
+---
+title: "Regulations Governing the Establishment and Management of Customs Brokers"
+title_zh: "報關業設置管理辦法"
+identifier: "G0350007"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1969-03-25
+last_amended: 2026-02-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350007"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Establishment and Management of Customs Brokers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350007-regulations-governing-the-establishment-and-management-of-customs-brokers.md](../../../zh/regulations/ministry-of-finance/G0350007-regulations-governing-the-establishment-and-management-of-customs-brokers.md)) is authoritative.
+
+## Chapter I General Principle
+
+### Article 1
+
+This Regulations Governing the Establishment and Management of Customs Brokers is defined and enacted under the provisions of Article 22 paragraph 3 of the Customs Act.
+
+### Article 2
+
+The term customs broker herein refers to a profit-making establishment engaging in the import and export cargo customs clearance and tariff payment processing agency operations.
+
+The term customs broker employee herein referred also includes the responsible person of the customs broker.
+
+## Chapter II Establishment
+
+### Article 3
+
+For establishment of a customs broker firm, applicant is obliged to submit the name, address, telephone number , type of organization, and capitalization of the firm; the full name and ID. number of the responsible person the full name , ID. number and special qualification examination or qualifying test certificate number of the customs clearance agent to the competent district customs authority or its branch office for evaluation and approval before fil l ing an application for company registration or business registration. The condition shall apply to an application filled by a registered company or business for adding a customs broker to its category of business.
+
+A customs broker is required to have a minimum capitalization of Five Million NT Dollars; moreover, broker should employ at least one duly licensed customs clearance agent.
+
+The responsible person of the customs broker should have at least three years of customs clearance processing experience; however, broker may forego this requirement upon the employment of a duly authorized manager to handle its customs brokerage operations. Manager should possess at least three years of experience in customs brokerage operations.
+
+A customs broker located at an outer island and conducting customs brokerage operations in said outer island area is required to have a minimum capitalization of One Million NT Dollars and should employ at least one duly licensed customs clearance agent. The responsible person or authorized customers brokerage manager should also meet the requirements provided in the foregoing paragraph.
+
+The customs broker should be equipped with computer and related online link facilities to process customs brokerage matters. Customs brokers located in special zones or districts may ignore this requirement upon the special authorization of the customs authority.
+
+### Article 4
+
+For establishment of a customs broker firm, applicant should present the following documents to the competent district customs authority or its branch office for applying for a customs broker business permit:
+
+\1. Application form: Form should contain the name, business administration numbers, address, capitalization, and type of organization of the customs broker; the full name, date of birth, address, profession, and citizen's ID no. of the responsible person and authorized customs brokerage manager; as well as other required supporting documents.
+
+\2. Where the customs broker is a partnership, the roster of business partners should be attached; where customs broker is a company, a roster of the company shareholders (but in the case of a limited-liability company, a roster of the Board of Directors and Supervisors) should be submitted.
+
+\3. A roster of the customs clearance agents, their respective special qualification examination or qualifying test certificates.
+
+\4. Membership identification card of the local customs brokers association: Where the county or city where the customs broker is located has no organized customs brokers association, customs broker may submit a sponsor membership card from the customs brokers association of another city or county under which customs broker is a member.
+
+A customs broker applying for the issuance of a new customs broker's permit or replacement certificate pursuant to the provisions of Article 9 paragraph 2 or Article 11 paragraph 1 is obliged to submit the membership identification card stated in paragraph 1, subparagraph 4.
+
+### Article 5
+
+Customs brokers operating within one same customs district should present the customs broker operating license issued by the competent district customs authority or its branch office and apply for registration, as well as designate a customs clearance personnel as its liaison person with the government authorities.
+
+A customs broker granted approval for establishment may only establish one business office within a county or city jurisdiction area. Should additional offices be required, the customs broker should apply for proper customs authorities approval before a branch may be set up. Each branch office should have its own designated liaison person with the government authorities.
+
+A customs broker granted approval for establishment should lease a declaration form holding mailbox from the competent district customs authority or its branch office. Guidelines for the lease and management of the declaration form holding mailbox are subject to the discretion of the Customs Administration.
+
+A customs broker granted approval for establishment should lease a declaration form holding mailbox from the customs office or its branch office. Guidelines for the lease and management of the declaration form holding mailbox are subject to the discretion of the Directorate General of Customs (DGC).
+
+### Article 6
+
+A customs broker granted approval for establishment planning to establish operations in another customs district should separately apply for customs broker operating license issuance at the competent district customs authority or its branch office. The customs broker may use a customs broker operating license issued by any customs office to apply for a cross-jurisdiction area online declaration processing and appointed a liaison person with the government authorities.
+
+The procedure for the implementation of the cross-jurisdiction area online declaration processing mentioned in paragraph 1 is subject to the instruction of the Customs Administration after Cargo Clearance Automation conditions are determined.
+
+### Article 7
+
+The responsible person of the customs broker or his/her authorized customs brokerage manager is prohibited from taking part-time positions in other customs brokers.
+
+### Article 8
+
+Under one of the following circumstances, a customs broker establishment application from the responsible person of the customs broker or his/her authorized customs brokerage manager (hereinafter referred to as "the person") should be denied; where establishment is approved, no customs broker operating license should be issued; where a customs broker operating license is issued, license should be amended within ten days, otherwise, said customs broker operating license should be cancelled.
+
+\1. The person is a subject of a bankruptcy declaration and rights have not been restored;
+
+\2. The person is a subject of a tax evasion penalty and case is still unresolved;
+
+\3. The person has a prior record of major customs tariff related law violation, thereby making party an untrustworthy candidate for customs brokerage operations;
+
+\4. The person has been removed from the public functionary post that he/she served, and the term of such removal has not yet exceeded five years, or the person has been suspended from the public functionary post that he/she served, and the term of such suspension has not yet expired;
+
+\5. The person lacks capacity, possesses limited capacity, or is subject to the order of commencement of assistance that has not yet been revoked;
+
+\6. A customs broker previously under the person’s responsibility committed a violation against the customs regulations serious enough to cause a cancellation of its customs broker operating license, and the prohibition period of five years has not yet elapsed;
+
+\7. Has previously been convicted to final and unappealable judgment of a crime of forgery, fraud, breach of faith, embezzlement, or a violation of legislation related to business management, and that he/she has not served sentence, completely served sentence, or his/her conviction is made within two years have not elapsed since completion of the sentence, expiration of the suspended sentence, or being pardoned.
+
+\8. Has a serious loss of financial credibility, and matter is still unresolved or although matter is resolved, the two-year period has not yet elapsed.
+
+\9. Has previously been convicted by a final and unappealable judgment of a crime under Controlling Guns, Ammunition and Knives Act, Punishment of Smuggling Act, Narcotics Hazard Prevention Act or Organized Crime Prevention Act, and that he/she has not served the sentence, or completely served the sentence, or his/her conviction is made within five years have not elapsed since completion of the sentence, expiration of the suspended sentence, or being pardon.
+
+The customs broker set up before the implementation of the amended provisions effective on November 2, 2018 shall be subject to the provision of the preceding paragraph after this amendment has been implemented for six months.
+
+The customs broker, whose operating license has been issued by the customs authorities before the implementation of the amended provision of Subparagraph 6, Paragraph 1 effective on May 26 th , 2023 and who previously under the person’s responsibility committed a violation against the customs regulations serious enough to cause a cancellation of its customs broker operating license and the prohibition period of two years has elapsed , however, five years not y et elapsed at the time the amended subparagraph was implemented, shall be subject to the provision of the subparagraph after this amendment has been implemented for six months.
+
+### Article 9
+
+The customs authority issues a customs broker operating license to all approved customs broker establishment applications; moreover, the customs authority shall conduct a calibration procedure every five years. The presentation of a calibration stamp or documents from the local customs brokers association is required during the calibration procedure.
+
+In the event that a customs broker should lose its operating license, broker is required to apply for a replacement license.
+
+### Article 9-1
+
+The Customs shall ma ke the name, business administration numbers, address, telephone number, the full name of the responsible person and manager , as well as other registrations of a customs broker which has been issued a customs broker business permit by the Customs publicly available on its website or in other proper manners.
+
+### Article 10
+
+A customs broker whose customs broker operating license is cancelled by the customs authority is prohibited from applying for the custom broker establishment under the same name within a period of five years from date of cancellation.
+
+The meaning of the sa me name mentioned in paragraph 1 includes the name of the same companyor business as well as its branch unit that a customs broker belongs to.
+
+## Chapter III Management
+
+### Article 11
+
+Prior to the event of any of the following circumstances, a customs broker granted approval for establishment is required to submit a notification letter to the customs authorities to its effect. A change of registration applications should be processed with the related government authorities; within thirty days following the official date of said change of registration, custom broker should process its change registration and license replacement applications with the customs authorities:
+
+\1. Change of responsible person;
+
+\2. Change of organization structure or business partners;
+
+\3. Change of address,
+
+\4. Capital increment or reduction, and
+
+\5. Change of business name.
+
+Under one of the following circumstances, the customs broker is required to send a notification letter to the customs authorities within thirty days following the date of its event:
+
+\1. Change of authorized customs brokerage manager;
+
+\2. The demise of the responsible person or the authorized customs brokerage manager of the customs broker.
+
+### Article 12
+
+A customs broker receiving a customs clearance processing assignment from an importer or exporter is required to present a power of attorney establishing such appointment. Where a customs broker has a long-standing authorization arrangement with the importer or exporter, the customs broker should first present its power of attorney for the registration of Customs authorities; thereafter, the customs broker needs only state the official customs registration number in its future customs declaration or transshipment application form; the registration number shall have the same effect as the power of attorney.
+
+The aforementioned power of attorney should be executed under the standard format of  Customs authorities. The customs broker should fill out the form truthfully and accurately, as well as properly file such document in its records. During the official file preservation period,  Customs authorities may at any time demand for the presentation or examination of such document. In the event that the customs broker is unable to present a power of attorney within the period prescribed by Customs or does not possess a power of attorney, or that power of attorney contains inaccurate or false statements, the customs broker shall be subject to the provisions of related regulations.
+
+The customs declaration authorization mentioned in Paragraph 1 may be executed in the following online methods:
+
+1.Online case-processing or long-term authorization through the Customs-Port-Trade (CPT) Single Window system;
+
+2.Online case-processing authorization through the express delivery real-name authentication platform established by the enterprise operating network for customs clearance pursuant to Regulations Governing Customs Clearance Procedures for Air Express Consignments and Regulations Governing Customs Clearance Procedures for Maritime Express Consignments.
+
+### Article 13
+
+In the case where a customs broker has been entrusted to make an online declaration, such a declaration shall be submitted according to the commercial invoices, bills of lading, and other relevant documents provided by the importer or exporter concerned, with accurate commodity descriptions, tariff codes, and other information as required by customs regulations. Consistency of the electronic data declared with the documents related to such declaration shall be ensured.
+
+In the case where the online customs declaration authorization has been executed in accordance with Subparagraph 2, Paragraph 3 of the preceding Article, the act of an importer pre-confirming cargo information on the express delivery real-name authentication platform should be regarded as providing aforementioned customs declaration documents.
+
+The content of the declaration mentioned in  Paragraph 1, before its transmission, shall be reviewed and confirmed by a customs clearance agent, then digitally signed using the identification code and password allocated by Customs, or by other means approved by Customs.
+
+A customs broker commissioned to process customs clearance matter should strictly conform to the provisions of the Customs Act, Enforcement Rules of the Customs Act, Regulations for Export Cargo Clearance, Inspection and Release and other related customs laws and regulations. Moreover, the customs broker should factually fill out and present all customs declaration related forms and supporting documents, as well as attend to all cargo clearance related matters.
+
+As provided in related customs related laws and regulations, Customs authorities advise the customs broker of the matters requiring its attention and processing, and the customs broker should carefully attend to such duties.
+
+### Article 14
+
+The customs broker should process import cargo clearance matter pursuant to the provisions of the Regulations Governing the Prior Release of Cargo.
+
+### Article 15
+
+In the matter of cargo subject for cargo inspection or document examination before release, the customs broker should retain the duplicateand other related documents or the electronic file of the Import and Export Declaration it has submitted to the customs authorities, as well as keep such duplicate or electronic file on file during the required record preservation period. The customs authorities are entitled to check or peruse the Import/Export Declaration duplicate or its electronic file at any time.
+
+In case of the cargoes eligible to be released through C1(bypassed) customs clearance mode, or in case where the customs authorities have informed the customs broker of duty payment or cargo release instead of requesting it to submit the verifying documents through online notice or electronic data transmission prior to C1 cargo release, the hard copy of the Customs Declaration and its supporting documents or electronic files should be properly filed in the customs broker's records within the required record preservation period provided in the related customs tariff regulations. The customs authorities may demand the submission or verify such documents at the broker's premises whenever such shall be deemed necessary :
+
+\1. Commissioned and handled the line of cargo imported / exported and declared and based on it to declare relevant document of the customs: goods since release their one year from next day.
+
+\2. Written declaration form and declare file or their computer file at the customs in accordance with the time limit of the tariff law stipulates.
+
+Where the foregoing Customs Declaration procedures are processed offline, documents should be stamped with the official customs broker seal and the chop of the responsible person or authorized customs brokerage manager.
+
+### Article 16
+
+The customs clearance agent is required to pass the Qualification Examination for Professional and Technical Personnel in the category of Customs Clearance Agent. The customs clearance agent passing the Customs Clearance Agent Qualification Examination held by the customs authorities may continue to practice his/her profession.
+
+### Article 17
+
+The customs clearance agent may only practice in a customs broker within the same customs district. However, where customs broker has applied for cross-jurisdiction area online declaration processing under the proviso to paragraph 1 of Article 6 of the Regulations, the customs clearance agent may also attend to cross-jurisdiction operations.
+
+The customs broker employer of the customs clearance agent should submit the special qualification examination or qualifying test certificates of the customs clearance agent to the customs office, thereby facilitating the registration of the customs clearance agent and the application of his/her customs broker identification card. The application form should clearly state the following information:
+
+\1. Full name, date of birth, citizen's ID no. and address of the customs clearance agent;
+
+\2. Customs clearance agent special qualification examination or qualifying test certificate number;
+
+\3. Name and address of the customs broker employer;
+
+\4. An oath expressing the customs clearance agent's commitment to comply with the provisions of the Regulations; and
+
+\5. A declaration stating the absence of the circumstances presented in paragraph 1 of Article 18.
+
+Upon the resignation of a customs clearance agent, his/her customs broker employer is required to process his/her customs registration cancellation with the local customs office and thereafter cancel his/her customs broker identification card. In addition, the customs clearance agent may process his/her cancellation by providing relevant supporting documents to the Customs.
+
+### Article 18
+
+Under any of the following circumstances, the customs clearance agent is not allowed to practice; in the case that the agent is registered to practice, such registration should be cancelled. Moreover, a notification letter should be issued to the customs broker employer who is required to conduct an amendment of registration within forty-five days:
+
+\1. The presence of one of the circumstances provided in Paragraph 1 of Article 8;
+
+\2. Customs registration status is cancelled by the customs authorities under penalty conditions and the three-year period has not elapsed;
+
+\3. The agent is a civil service employee or an employee in a state-owned enterprise;
+
+\4. The agent is a part-time employee of another customs broker; and
+
+\5. the agent acquired his/her practice registration using forged, fabricated, or other false documents and the customs authorities have duly established fact of such violation.
+
+6.In matters related to customsfunctions,the agent uses means of violence, threats, intimidation, public insult, or other illegal means and thereby endangers the personal and property safety of customs personnel, and the customs authorities have duty established fact of such violation and the five-year period has not elapsed.
+
+The aforementioned five-year period of Subparagraph 6 would commence on the date following the day of said behaviors if the agent is not registered; or on the date following the date which the registration is cancelled by the customs authority if the agent is registered to practice.
+
+In the case that the registration of the customs clearance agent is cancelled in accordance with Paragraph 1, Customs shall order the customs broker to return his/her customs broker identification card for invalidation within 3 days; C ustoms shalldirectly announce the cancellation of the identification card in case of failure to return for invalidation before the given period.
+
+### Article 19
+
+In event of a change of customs district of service or customs broker employer, the customs clearance agent is required to apply for a new registration and customs broker identification card with the local customs office.
+
+### Article 20
+
+The responsibilities of the customs clearance agent are as follow:
+
+\1. Evaluate all the customs declaration, cargo release and other related documents of the customs broker for presentation to the customs authorities;
+
+\2. Evaluate and sign the Import and Export Declaration processed by the customs broker;
+
+\3. Evaluate all the application forms executed by the customs broker for submission to the customs authorities; and
+
+\4. See to the submission of signed Import and Export Declarations and their related supporting documents to the customs authorities.
+
+The customs clearance agent processing the foregoing procedure should observe the governing customs duty and tariff regulations, properly evaluate the Import and Export Declaration and other related documents, and at the same time, execute the online declaration procedure. During declaration, the customs clearance agent should make sure that the data contained in the "online customs declaration" are consistent with the data stated in the related customs declaration documents. while commercial invoices, packing lists, and other related documents that are reguired for making import declaration ,may be uploaded by an employee of the customs broker as authorized by the customs clearance agent.
+
+The customs clearance agent processing the evaluation and approval matters provided in paragraph 1 is required to declare his/her full name and customs broker identification card number on the related documents, and at the same time affix his/her signature. This requirement is not applicable to the Import and Export Declaration documents of online customs declarations.
+
+Where customs authorities should have doubts or questions regarding the customs clearance agent signed Customs Declaration Form and/or online customs declaration or other related documents, the customs authorities may issue a notice requiring the presence and explanation of the customs clearance agent at the customs office.
+
+A customs clearance agent receiving a notification letter from the customs authorities to attend the further education seminars organized for customs clearance agent by the customs office or its authorized independent establishment, is required to comply with such request unless otherwise excused for valid reasons.
+
+### Article 21
+
+The customs clearance agent should desist from the following behavior:
+
+\1. Lending his/her name or lending his/her clearance certificate or password to the use of another party for processing customs related matters;
+
+\2. Using his/her status as a customs clearance agent to execute fraudulent approvals;
+
+\3. Demanding compensatory arrangements or accepting illegal commission payments;
+
+\4. Soliciting business through illegal or wrongful means;
+
+\5. Failing to require or institute corrections despite full awareness of inaccuracies or errors contained in the Declaration Form filed;
+
+\6. Affixing his/her signature and chop on blank Declaration Forms, or other acts similar in nature;
+
+\7. Disclosing contents of trading documents or business secrets of the customers to other parties; and
+
+\8. Other actions in violation of customs and tariff related laws and regulations.
+
+### Article 22
+
+Under one of the following circumstances, the customs clearance agent should refuse to approve import/export declaration forms, as well as should report matter to the customs authorities:
+
+\1. The customer or the customs broker employer demands that the agent sign a fraudulent or false declaration form.
+
+\2. The customer or the customs broker employer intentionally refused to provide factual or the necessary information or documents.
+
+\3. Other acts of suppression or deception of the customer or the customs broker employer making it impossible to accurately evaluate and sign a declaration form.
+
+### Article 23
+
+The customs broker should prepare enough manpower and temporary workers to attend to the cargo moving, unpacking, crate removal, packaging restoration and other procedures necessary to facilitate the cargo inspection procedure of the customs authorities.
+
+### Article 24
+
+With the exception of the customs clearance agent who is required to first acquire a customs broker identification card under Article 17 and Article 19 of these Regulations, the customs broker should ensure that the employees hired to attend to its customs brokerage operations should be duly registered with the customs authorities for customs broker identification card issuance. Customs authorities may investigate criminal records of the customs clearance agent or other employees when necessary ; thereafter, upon the resignation of said employee, the customs broker is required to report the matter to the customs authorities in writing or online within 1 working day commencing from the date following the employee’s resignation and return the employee's identi fication card for invalidation within 7 days; C ustoms shall directly announce the cancellation of the identification card in case of failure to return for invalidation before the given period.
+
+Customs may investigate criminal records of special customs officers or employees when necessary.
+
+The procedures for the aforementioned identification card application and return for invalidation may be submitted to the customs brokers association, which shall then forward such case to the customs authorities for processing. With the exception of the employees of duty licensed customs clearance agent for whom Article 18 of these Regulations applies to, the custom broker employee’s application for his/her identification card should be denied under one of the following circumstances; where the identification card is issued, Customs shall order the customs broker to return his/her customs broker identification card for invalidation within 3 days; C ustoms shall directly announce the cancellation of the identification card in case of fail ure to return for invalidation before the given period.
+
+\1. The presence of one of the circumstances provided in Subparagraph 9, Paragraph 1 of Article 8;
+
+\2. In matters related to customs functions, the employee uses means of violence, threats, intimidation, public insult, or other illegal means and thereby endangers the personal and property safety of customs personnel, and the customs authorities have duty es tablished fact of such violation and the five year period has not elapsed.
+
+The customs broker employee, whose identification card has been issued by the customs authorities in the presence of one of the circumstances provided in Subparagraph 9, Paragraph 1 of Article 8 with the exception of being convicted of a crime under Punishment of Smuggling Act before the implementation of the amended provision of preceding paragraph , s ubparagraph 1 effective on May 26 th , 2023, shall be subject to the provision of the subparagraph after this amendment has been implemented for six months.
+
+### Article 24-1
+
+A customs broker employee processing customs related matters inside the Customs area of jurisdiction should carry his/her customs broker identification card and strictly observe and accept the legitimate instructions of Customs officials. When processing customs declaration or duty payment matters with Customs, said employee serves as a representative of the customs broker, as such, the represented customs broker shall be held liable for whatever actions said employee may take. However, where the customs broker has taken all the necessary measures and caution during the employment of such employee or during the supervision of the employee's action, the custom broker shall be indemnified from the aforementioned liability.
+
+### Article 25
+
+The customs broker should desist from the following behaviors:
+
+\1. Disclosure of the customer trade documents or business secrets acquired from the customer;
+
+\2. Collaborate with their customers to commit corruption;
+
+\3. Demand, make compensatory arrangements, bribe or provide other illegal benefits affecting the behaviors of customs personnel or functions of customs offices;
+
+\4. Pad customs fees charged to customers, commit fraud or embezzlement, or intentionally delay the declaration, duty payment, or clearance of import or export cargoes;
+
+\5. In matters related to customs functions,the agent uses means of violence, threats, intimidation, public insult, or other illegal means and thereby endangers the personal and property safety of customs personnel.
+
+\6. Other actions in violation of customs and tariff related laws and regulations.
+
+### Article 26
+
+The customs broker fees and charges to be collected for customs brokerage services rendered should be pursuant to the approved fee schedule of the local customs brokers association under which broker belongs. A copy of the fee schedule should be forwarded to the customs authorities. The condition shall apply to future fee schedule amendments.
+
+### Article 27
+
+The customs broker should post the fee schedule at a visible and obvious position within its business premises, or disclose the fee schedule in other proper manners. Fees and chargers should be collected as stated in the fee schedule. Customs broker is not authorized to alter fee rates arbitrarily or on account of extra expenses. An official invoice or official receipt should be issued for fee payments received; said invoice or receipt should state in detail, the fees and charges collected.
+
+### Article 28
+
+The customs broker should have an annual journal that contains a log of the Import and Export Declaration form numbers. The customs authorities may, after notifying customs brokers association, request to audit the related accounts journal invoices, receipts, or other computer files, whenever such is deemed necessary.
+
+The aforementioned journal may be recorded by computer and stored into a floppy disk, magnetic tape, CD or other storage medium. Moreover, the customs broker is required to cooperate with the audit requirements of the customs authorities and submit a hard copy of such records.
+
+### Article 29
+
+A customs broker discovering an error or miscalculation in the customs duty payable amount stated in the payment form should immediately report such error to the customs authorities for amendment. In the event that discovery is made after payment, but within the deadline provided in Article 65 paragraph 2 of the Customs Act, the customs broker should notify the customs authorities of the payable shortfall amount and advise the duty-payer to pay for the shortfall. In the event of a payment surplus, the customs broker should notify the duty-payer, thus enabling the duty-payer to request for a refund payment from the customs authorities.
+
+### Article 30
+
+The customs broker is prohibited from lending its name to the use of another party for the operation of import and export cargo customs clearance related agency operations; moreover customs broker is prohibited from using the name of another customs broker in the processing of its import and export cargo customs clearance related agency operations.
+
+### Article 31
+
+Where the customs broker has dissolved or voluntarily closed operations, an official notification letter should be submitted to the customs authorities; license of said customs broker shall be cancelled within five days from the incidence date of the fact. In the event of a custom broker closure due to the cancellation of its customs broker operating license, broker is required to return the customs broker operating license issued by the customs authorities within five days following its license cancellation.
+
+A customs broker under operation suspension is required to notify the customs authorities of such suspension in writing; the same will be true upon the resumption of operations. A broker that processes customs clearance and customs duty payment matters during the period of suspension shall be regarded as having resumed operations.
+
+The aforementioned operation suspension period or a continuous period of no business activity record should not exceed six months. A one-time extension may be granted to customs brokers under special circumstances; maximum period of such extension is six months.
+
+### Article 32
+
+The customs authorities shall issue certificate of appreciation or commendation to a customs clearance agent that has complete at least three years of customs brokerage work and complies with the conditions of the related regulations.
+
+The regulations for the foregoing matter are subject to the discretion of the Customs Administration, Ministry of Finance.
+
+### Article 33
+
+Where a customs broker meets the regulated conditions, the customs authorities may reduce the random inspection ratio of the cargo which customs clearance is processed by said broker.
+
+Conditions to be met in the foregoing shall be determined at the discretion of the Customs Administration, Ministry of Finance.
+
+## Chapter IV Fine and Penalty
+
+### Article 34
+
+Where a customs broker violates the provisions of Paragraph 2 of Article 5, Article 9, Article 11, Article 12, Paragraph 5 of Article 13, Article 15, Article 18, Article 23, Article 28, or Article 31, Customs are entitled to issue a warning under the provisions of Paragraph 1 of Article 84 of the Customs Act and the customs broker may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in the case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, the license may either be suspended for a maximum period of six months or cancelled.
+
+### Article 35
+
+Where a customs broker violates the provisions of Paragraph 1,3, or 4 of Article 13, Article 25, or Article 30, Customs may give a warning or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Paragraph 1 of Article 84 of the Customs Act and the customs broker may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in the case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, the license may either be suspended for a maximum period of six months or cancelled. Where the responsible person or authorized customs brokerage manager is sentenced to an imprisonment for not less than one year, his/her customs broker business license will be cancelled without being limited by the consecutive imposition of fines for three times.
+
+### Article 36
+
+Where a customs broker violates the provisions Paragraph 2 、3 of Article 17, Article 19, Paragraph 1 、3 of Article 24, Article 24 1 or Article 27, Customs may give a warning or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 84 paragraph 1 of the Customs Act and the customs broker may be ordered to improve before a certai n period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, license may either be suspended for a maximum period of six months or cancelled. Where the responsible person or authorized customs brokerage manager is sentenced to an imprisonment for not less than one year, his/her customs broker business license will be cancelled without being limited by the consecutive imposition of fines for three times.
+
+### Article 37
+
+Where a customs clearance agent violates the provisions of Article 17 paragraph 1, Article 20 paragraph 5, Article 21, and Article 22, Customs may give a warning or impose a fine of not less than NT$ 2 ,000 and not more than 5 ,000 under the provisions of Article 84 paragraph 3 of the Customs Act and the agent may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties, his/her broker evaluation and approv al license may be suspended for a maximum period of six months or his/her registration may be repealed.
+
+### Article 38
+
+Where a customs clearance agent violates the provisions of Article 20 paragraphs 3 and 4, or within one particular month, committed evaluation and approval errors on at least six forms during the execution of procedures or matters provided in Article 20 pa ragraphs 1 and 2, and the ratio of such errors comprises 1% of the total forms issued by the customs broker, Customs may give a warning or impose a fine of not less than NT$2,000 and not more than NT$5,000 under the provisions of Article 84 paragraph 3 of the Customs Act and the agent may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties, his/her broker ev aluation and approval license may be suspended for a maximum period of six months.
+
+### Article 39
+
+Where the customs authorities shall discover and factually establish that a customs broker has acquired its customs broker operating license through forged, fabricated or other false document(s), the customs authority are entitled to cancel said broker's customs broker operating license under the provisions of Article 84 paragraph 1 of the Customs Act immediately.
+
+Where the customs broker falsely declaring the name of the importer or exporter in its customs clearance application, or presenting a forge or falsified power of attorney, or commit ting a fraud or other illegal acts, Customs may give a warning or impose a fine of not less than NT$ 10,000 and not more than NT$30,000 under the provisions of Article 84 paragraph 1 of the Customs Act and the customs broker may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, license may either be suspended for a maximum period of six months or cancelled.
+
+Where it is found that a customs broker employee has engaged in illegal activities mentioned in the proceding paragraph by using opportunities of carrying out business, the customs broker concerned shall be fully responsible for its actions pursuant the provision Article 24-1, and shall be penalized pursuant to the provision of the preceding paragraph. However, the customs broker may be exempted from penalties if he/she has taken all necessary measures and during the process of reasonable care recruiting such employee or in supervising the employee's work.
+
+## Chapter V Addenda
+
+### Article 40
+
+Upon the approval or rejection of the customs broker establishment application or the cancellation of the customs broker operating license of a customs broker, the customs authority is obliged to notify the customs broker concerned and business registration authority; moreover a copy of the notice should be furnished to the local custom brokers association for information purposes.
+
+### Article 41
+
+Processing fees for the issuance, re-issuance, or replacement of the customs broker operating license applied pursuant to the Regulations are as provided in the Regulations Governing the Collection of Customs Service Fees.
+
+### Article 42
+
+These Regulations take effect immediately upon its enactment; however, Paragraph 1, Article 24, which was amended and promulgated on May 26, 2023, shall come into effect one month after its enactment. Paragraph 2, Article 13, which was amended and promulgated on February 23, 2026, shall come into effect on March 1, 2026.
+
+## History
+
+\1. Promulgated by the Ministry of Finance Order No.3251 on May 25, 1969
+
+\2. Amended and promulgated by the Ministry of Finance Order No. 19663 on November 18, 1971
+
+\3. All 45 Articles amended and promulgated by the Ministry of Finance Order No. 17529 on July 30, 1975
+
+\4. Articles 13 and 14 amended and promulgated by the Ministry of Finance Order No. 10285 on January 8, 1976
+
+\5. All 55 Articles amended and promulgated by the Ministry of Finance Order No. 19144 on September 6, 1977
+
+\6. Articles 6, 17, 33, 34, 53 amended and Article 37-1 added and promulgated by the Ministry of Finance Order No. 20965 on October 12, 1978
+
+\7. All 54 Articles amended and promulgated by the Ministry of Finance Order No. 22149 on October 6, 1981
+
+\8. Articles 4, 15, and 29 amended and promulgated by the Ministry of Finance Order No. 20220 on August 7, 1982
+
+\9. Articles 21, 24-1, 44, 45, and 51 amended and promulgated by the Ministry of Finance Order No. 25002 on October 6, 1983
+
+\10. Amended and promulgated by the Ministry of Finance Order No. 7544678 on July 22, 1986
+
+\11. Article 7 amended and promulgated by the Ministry of Finance Order No. 7572774 on November 4, 1986
+
+\12. Amended and promulgated by the Ministry of Finance Order No. 780044561 on March 17, 1989
+
+\13. Amended and promulgated by the Ministry of Finance Order No. 811719481 on June 29, 1992
+
+\14. Articles 3 to 7, 14, 16, 17, 17-1, 18, 18-1, 18-2, 19, 24 to 26, 41, 43, 44, 49, 50, and 50-1 amended and promulgated by the Ministry of Finance Order No. 841727312 on September 25, 1995
+
+\15. Articles 3, 4, 6-1, 8, and 37 amended and promulgated by the Ministry of Finance Order No. 852015039 on July 11, 1996
+
+\16. Title and all 42 Articles amended and promulgated by the Ministry of Finance Order No. 0900550935 on December 30, 2001
+
+\17. Articles 5, 12, 30, 33, 34, 35, 36, 39, and 40 amended and promulgated by the Ministry of Finance Order No. 0930550081 on February 10, 2004
+
+\18. Articles 1, 29, and 34 to 39 amended and promulgated by the Ministry of Finance Order No. 09305503900 on July 16, 2004
+
+\19. Article 6 amended and promulgated by the Ministry of Finance Order No. 09400639400 on January 19, 2006
+
+\20. Article 15 amended and promulgated by the Ministry of Finance Order No. 09505505630 on October 31, 2006
+
+\21. Articles 4, 11, 17, and 34 amended and promulgated by the Ministry of Finance Order No. 09705503000 on June 13, 2008
+
+\22. Articles 4 and 11 amended and promulgated by the Ministry of Finance Order No. 09805900900 on October 5, 2009
+
+\23. Article 36 amended and promulgated by the Ministry of Finance Order No. 09905906560 on August 12, 2010
+
+\24. Article 39 amended and promulgated by the Ministry of Finance Order No. 10005904870 on June 14, 2011
+
+\25. Articles 3 to 6, 11, 15, 17, 24, 25, 32, 33, 35, and 37 amended and promulgated by the Ministry of Finance Order No. 1021018415 on August 16, 2013
+
+\26. Articles 9 and 28 amended and promulgated by the Ministry of Finance Order No. 1041007558 on April 13, 2015
+
+\27. Articles 34 to 39 amended and promulgated by the Ministry of Finance Order No. 1061004727 on March 10, 2017
+
+\28. Articles 12, 13, 15, 20, 29, 34, 35, and 39 amended and promulgated by the Ministry of Finance Order No. 10710185102 on August 21, 2018
+
+\29. Articles 8 and 24 amended and promulgated by the Ministry of Finance Order No. 10710156264 on November 2, 2018
+
+\30. Articles 37, 38, and 39 amended and promulgated by the Ministry of Finance Order No. 10810092903 on May 8, 2019
+
+\31. Articles 8, 21, and 41 amended and promulgated by the Ministry of Finance Order No. 10910254243 on March 29, 2021
+
+\32. Articles 18, 24, 25, 35, and 36 amended and promulgated by the Ministry of Finance Order No. 1101027108 on October 19, 2021
+
+\33. Articles 3, 8, 10, 12, 17 to 19, 24, 27, 34 to 39, 42 amended and Articles 9-1, 24-1 added and promulgated by the Ministry of Finance Order No. 1121012476 on May 26, 2023; implementation from the date of promulgation, except for Paragraph 1 of Article 24,which shall be implemented one month after the date of promulgation
+
+\34. Articles 12, 13, 34, 35, and 42 amended and promulgated by the Ministry of Finance Order No. 1151004666 on February 23, 2026; implementation from the date of promulgation, except for Paragraph 2 of Article 13, which shall be implemented on March 1, 2026

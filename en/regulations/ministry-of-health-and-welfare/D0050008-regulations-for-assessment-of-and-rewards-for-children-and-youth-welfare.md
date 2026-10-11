@@ -1,0 +1,133 @@
+---
+title: "Regulations for Assessment of and Rewards for Children and Youth Welfare Institutes by Ministry of Health and Welfare"
+title_zh: "衛生福利部兒童及少年福利機構評鑑及獎勵辦法"
+identifier: "D0050008"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-02-26
+last_amended: 2026-04-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050008"
+retrieved: 2026-10-12
+---
+
+# Regulations for Assessment of and Rewards for Children and Youth Welfare Institutes by Ministry of Health and Welfare
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050008-regulations-for-assessment-of-and-rewards-for-children-and-youth-welfare.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050008-regulations-for-assessment-of-and-rewards-for-children-and-youth-welfare.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with paragraph 3, article 84 of the Protection of Children and Youths Welfare and Rights Act ("the Law").
+
+## Article 2
+
+The institutes to be assessed shall be the central or national children and youth welfare institutes.
+
+## Article 3
+
+The Ministry of Health and Welfare ("MOHW") shall form the Assessment Committee in charge of coordination, planning and conducting assessment and other assessment related to children and youth welfare institutes.
+
+The conducting of the assessment in previous paragraph may be commissioned to private institutes or schools.
+
+## Article 4
+
+The Assessment Committee is composed of seven (7) to eleven (11) members, one of which shall be the chairman who will be appointed by the MOHW. The members will be recruited by the MOHW with following conditions:
+
+\1. Representatives of the Social and Family Affairs Administration of the MOHW and the competent authorities
+
+\2. Professionals and scholars in the discipline
+
+\3. Representatives of children and youth welfare entities.
+
+The term of Assessment Committee membership will be valid till the completion of assessment.
+
+The Assessment Committee members shall observe the principles of interest avoidance in order to protect the fairness and objectivity of the assessment.
+
+## Article 5
+
+The meeting of Assessment Committee shall be presided over by the chairman of the Committee. The chairman may appoint a member to act on his/her behalf should the chairman be unavailable to attend the meeting.
+
+## Article 6
+
+The items to be assessed on the children and youth welfare institutes are including:
+
+\1. Administrative organization and operational management
+
+\2. The surrounding and facilities of the premises
+
+\3. Professional services
+
+\4. Protection of rights
+
+\5. Special items or measures
+
+\6. Any items that the Assessment Committee determines to conduct assessment.
+
+The items to be assessed mentioned in previous paragraph will be published by the MOI six (6) months prior to the implementation of the assessment.
+
+## Article 7
+
+The result of assessment will be classified into followings:
+
+\1. Extraordinary
+
+\2. Grade A
+
+\3. Grade B
+
+\4. Grade C
+
+\5. Grade D.
+
+## Article 8
+
+Barring the following circumstances, children and youth welfare institutes shall undergo regular assessments by the MOHW once every four years:
+
+\1. Newly established institutes shall undergo an assessment within one year after completing their first year operation.
+
+\2. Institutes that have previously been suspended shall undergo an assessment between one year and two years after they resume operations.
+
+The method, procedures, and benchmarks for the assessment described in the preceding paragraph shall be established by the Assessment Committee.
+
+## Article 9
+
+The MOHW may award a medal or cash prize to children and youth welfare institutes that receive an ‘Extraordinary’ grade or Grade ‘A’ in the assessment. If a public children and youth welfare institute receives the ‘Extraordinary’ grade, the competent authorities at all levels shall award the director (head) of and outstanding personnel at the institute with the appropriate administrative commendation.
+
+The cash prize described in the preceding paragraph shall be allocated to children and youth welfare programs, facility improvements, or employee benefits. Expenditures shall be recorded in detail.
+
+The MOHW may rescind or revoke the previous assessment results of children and youth welfare institutes and require them to undergo further assessments if any of the following conditions apply:
+
+\1. They are found to have unlawfully influenced the assessment results through fraud, coercion, bribery, or provision of falsified, forged, or misrepresented documents.
+
+\2. They are found to have committed gross negligence or a serious violation of the law, or have been subject to disciplinary action by the MOHW for violating Article 107, Paragraph 1 of the Child and Juvenile Welfare and Rights Protection Act, during the period between the announcement of the previous assessment results and the next assessment results.
+
+A children and youth welfare institute whose assessment results are rescinded or revoked under the preceding paragraph, after winning a medal or cash prize from the MOHW under paragraph 1 herein, shall be notified in writing to return the medal or cash prize to the MOHW within 30 days from the date of rescission or revocation. The MOHW shall announce the nullification of any unreturned medals and seek administrative enforcement of unreturned cash prizes in accordance with the applicable regulations.
+
+## Article 10
+
+The MOHW may suspend the subsidy on capital expenditure for one year if the children and youth welfare institutes are classified to Grade C or Grade D after assessment.
+
+Institutes described in the preceding paragraph shall submit an improvement plan to the MOHW within three months of the announcement of results. The MOHW shall designate appropriate professional personnel or another children and youth welfare institute to provide the necessary guidance.
+
+Institutes described in Paragraph 1 may be exempt from the limitations set forth in the same paragraph if they receive a ‘B’ or better grade in the secondary assessment held nine months following the announcement of the original assessment results.
+
+## Article 11
+
+These Regulations are effective from the date of issue.
+
+## History
+
+1.Enacted and promulgated by President Order Tai-Ne-Tong No.0930093705 on February 26, 2004
+
+2.article 1 amended and promulgated by Order Tai-Ne-Tong No.1010840082 on April 3, 2012
+
+3.Title and articles amended and promulgated by Order Bu-Shou-Jia No.1020850129 on January 3, 2014
+
+4.Amended on August 29, 2025
+
+5.Article 10 amended and promulgated by Order Wei-Shou-Jia-Zi No.1150660424 on April 23, 2026

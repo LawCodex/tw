@@ -1,0 +1,93 @@
+---
+title: "Regulations for Early Discharge of Substitutive Services Draftees"
+title_zh: "替代役役男提前退役辦法"
+identifier: "D0040026"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞役政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-07-26
+last_amended: 2024-07-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0040026"
+retrieved: 2026-10-12
+---
+
+# Regulations for Early Discharge of Substitutive Services Draftees
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0040026-regulations-for-early-discharge-of-substitutive-services-draftees.md](../../../zh/regulations/ministry-of-the-interior/D0040026-regulations-for-early-discharge-of-substitutive-services-draftees.md)) is authoritative.
+
+## Article 1
+
+The Regulations are enacted in accordance with Paragraph 2, Article 12 of the Enforcement Act for Substitute Services (hereinafter referred to as 'the Act').
+
+## Article 2
+
+The term 'draftees being the main breadwinner' as stated in Subparagraph 2, Paragraph 1, Article 12 of the Act refers to those in any of the following circumstances:
+
+1.A direct relative by blood, spouse, or sibling of the draftee suffers from severe or higher mental or physical disabilities with no other family members to provide care, or all other family members are aged above 65, below 15, mentally or physically disabled, suffering from major injuries or diseases, or are aged above 15, below 18 and certified by an educational authority-registered school to be attending it.
+
+2.The draftee has two or more children under the age of 12, or has one child under the age of 12 and the spouse is pregnant for more than six months.
+
+3.The draftee's parents or siblings died or suffered third-degree mental and physical disorders or above during their term of military service, with the fact of indemnity established, and the draftee has no other siblings; or, regardless whether the draftee has any other sibling or not, the said parents or siblings died or suffered first-degree mental and physical disorders during their term of military service, with the fact of indemnity established.
+
+With the conditions described in the preceding paragraph or if there are other special circumstances requiring the draftee to provide care due to significant changes in the family, an application for early discharge may be submitted to and approved by the Ministry of the Interior.
+
+For the calculation of the age of the draftee's family members and the scope of dependents as described in Paragraph 1 above, the Regulations for Regular Serviceman Taking Supplementary Service Due to Family Reasons and Physical Condition Qualified for Substitute Services shall apply mutatis mutandis.
+
+The mental or physical disabilities or catastrophic illness defined in the first subparagraph of paragraph1 refers to the diseases that meet the grade provisions of mental and physical disabilities defined by the central health authority, or the announced catastrophic illness coverage of the national health insurance with supporting documents. Death or third-degree mental and physical disorders or above as specified in the third subparagraph refers to those who conform to the examination criteria for relief on death or mental and physical disorders grading standards respectively specified for military personnel and draftee of substitute service by the Ministry of National Defense or the Ministry of the Interior and are with supporting documents.
+
+Draftee’s family member who is diagnosed by a physician to be afflicted with cancer stage III (or terminal) and whose condition is ratified as severe illness may be identified by reference as with severe disability or above.
+
+## Article 3
+
+In the conditions of early discharge as stipulated in the preceding article, while if another brother also in substitute service or regular service, it is the one who shall discharge earlier that apply.
+
+## Article 4
+
+The procedures for applying for early discharge in accordance with these Regulations are as follows:
+
+1.The draftee or a family member with legal capacity authorized by the draftee shall complete the Early Discharge Application and Evaluation Form, attach relevant supporting documents and evidence, and submit the application to the Township (Town, City, District) Office where the draftee's household registration is located.
+
+2.After accepting the application, Township (Town, City, District) Office shall take the preliminary review in fifteen days in accordance with Article 8 of the Regulations for Regular Serviceman or Substitute Serviceman Coming into Supplementary Service due to Family Factors and submit supporting documents and preliminary review materials to municipality and county (city) government to re-examine, with a copy sent to the draftee's service unit.
+
+3.After receiving the case in the previous subparagraph, municipality and county (city) government shall finish the re-examination in seven days and put forward specific review comments, submit identification documents and related data in re-examination to competent authority to ratify.
+
+4.After receive the case in the previous subparagraph, competent authority shall ratify in seven days and inform the responsible agency in writing, service unit and municipality and county (city) government; to the unqualified, shall present reasons.
+
+In basic training period,to the serviceman ratified to discharge earlier, the procedures are to be handled by competent authority.
+
+## Article 5
+
+The competent authority shall make discharge certificate for the serviceman who is ratified to discharge earlier. On thevalid day of discharge, the certificate is issued by responsible agency.
+
+## Article 6
+
+The formats of documents and forms specified in these Regulations shall be prescribed by the competent authority.
+
+## Article 7
+
+The regulations shall be in force on the day of promulgation.
+
+## History
+
+1.Published on July 26, 2000
+
+2.Amended on June 11, 2004
+
+3.Amended on April 24, 2012
+
+4.Amended on July 17, 2013
+
+5.Amended on June 9, 2015
+
+6.Amended on September 30, 2015
+
+7.Amended on October 3, 2018
+
+8.Amended on June 4, 2019
+
+9.Amended on July 22, 2024

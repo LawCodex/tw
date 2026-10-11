@@ -1,0 +1,541 @@
+---
+title: "Regulations Governing Management of Infectious Biological Materials"
+title_zh: "感染性生物材料管理辦法"
+identifier: "L0050029"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞疾病管制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-09-26
+last_amended: 2026-04-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050029"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Management of Infectious Biological Materials
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0050029-regulations-governing-management-of-infectious-biological-materials.md](../../../zh/regulations/ministry-of-health-and-welfare/L0050029-regulations-governing-management-of-infectious-biological-materials.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+These Regulations are enacted pursuant to Paragraph 3, Article 34 of the Communicable Disease Control Act (hereafter referred to as “the Act”).
+
+### Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. “Infectious biological materials” refers to infectious pathogens or derivatives thereof mentioned in Paragraph 4, Article 4 of the Act, and substances confirmed to contain such pathogens or derivatives.
+
+\2. “Entity” refers to an organization, institution, school, legal person or group that possesses, stores, uses, disposes of, or imports and exports infectious biological materials and has set up a laboratory or storage facility therefor.
+
+\3. “Laboratory” refers to a facility that uses infectious biological materials to conduct experimental operations for testing or research purposes.
+
+\4. “Storage facility” refers to a facility that stores or disposes of infectious biological materials.
+
+\5. “Biosafety” refers to safeguard measures implemented to protect personnel from accidental exposure to or prevent leakage of infectious biological materials.
+
+\6. “Biosecurity” refers to protective and management measures implemented to prevent unauthorized access, loss, theft, abuse, transfer or leakage of infectious biological materials.
+
+\7. “Disposition” refers to the act of adding or removing infectious biological materials, or increasing or decreasing their quantities.
+
+\8. “Transfer” refers to the act of a sender transferring infectious biological materials possessed or stored by it to a recipient.
+
+\9. “Pathogen” refers to infectious pathogenic microorganisms and their cultures (culture media) that can cause infections in humans.
+
+\10. “Biotoxin” refers to purified and/or isolated toxic substances produced by pathogens.
+
+\11. “Derivatives” refers to the purified or isolated components of pathogens, including nucleic acids, plasmids, proteins, other components, and biotoxins.
+
+\12. “Positive specimen” refers to a human specimen collected from an infectious disease patient who is not yet cured, or a human specimen that has been tested and confirmed to contain pathogens.
+
+\13. “Incident” refers to an irregular event involving infectious biological materials or occurring in a laboratory or storage facility that poses the risk of infecting or endangering personnel.
+
+### Article 3
+
+Pathogens are classified into four risk groups by the hazardous level of their pathogenicity:
+
+\1. Risk Group 1: such as Escherichia coli K-12, Adeno-associated virus and other pathogens that usually do not affect human health;
+
+\2. Risk Group 2: such as Staphylococcus aureus, Hepatitis B virus, Plasmodium falciparum, and other pathogens that could produce mild effects on human health, and for which preventive or therapeutic interventions are usually available;
+
+\3. Risk Group 3: such as Mycobacterium tuberculosis, Human immunodeficiency virus type 1 and type 2, and other pathogens that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are likely available;
+
+\4. Risk Group 4: such as Ebola virus, Variola (major and minor) virus, and other pathogens that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are usually not available.
+
+### Article 4
+
+Pathogens in Risk Groups 2-4, biotoxins and positive specimens that may pose a severe hazard to public health and safety due to abuse or leakage shall be classified as biological select agents and toxins (hereafter referred to as “BSAT”).
+
+Laboratories and storage facilities that possess, store, use, or dispose of BSAT are classified as controlled premises.
+
+The directions for the subtypes, types, total quantity control, packaging, and other relevant matters governing BSAT, pathogens and biotoxins other than BSAT, as well as positive specimens, shall be prescribed by the central competent authority.
+
+### Article 5
+
+Laboratories that conduct animal experiments are referred to as “animal biosafety laboratories,” while all other laboratories are referred to as “biosafety laboratories.”
+
+### Article 6
+
+Biosafety laboratories, by their operational practices, barriers, and safety equipment and facilities, are classified into four biosafety levels (BSL); the biosafety levels of laboratories and the infectious biological materials the laboratories may work with are as follows:
+
+\1. Level 1 (BSL-1): may work with infectious biological materials that usually do not affect human health.
+
+\2. Level 2 (BSL-2): may work with infectious biological materials that could affect human health, and for which preventive or therapeutic interventions are usually available.
+
+\3. Level 3 (BSL-3): may work with infectious biological materials that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are likely available.
+
+\4. Level 4 (BSL-4): may work with infectious biological materials that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are usually not available.
+
+### Article 7
+
+Animal biosafety laboratories, by their operational practices, barriers, and safety equipment and facilities, are classified into four animal biosafety levels (ABSL); the biosafety levels of laboratories and the infectious biological materials the laboratories may work with for animal experiments are as follows:
+
+\1. Level 1 (ABSL-1): may work with infectious biological materials that usually do not affect human health.
+
+\2. Level 2 (ABSL-2): may work with infectious biological materials that could affect human health, and for which preventive or therapeutic interventions are usually available.
+
+\3. Level 3 (ABSL-3): may work with infectious biological materials that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are likely available.
+
+\4. Level 4 (ABSL-4): may work with infectious biological materials that could produce serious effects on human health or may even be fatal, and for which preventive or therapeutic interventions are usually not available.
+
+### Article 8
+
+Level 3 and Level 4 biosafety laboratories and animal biosafety laboratories are considered high-containment laboratories.
+
+The directions for operational practices, barriers, safety equipment and facilities of laboratories mentioned in the preceding two articles shall be prescribed by the central competent authority.
+
+## Chapter 2 Management of Infectious Biological Materials
+
+### Article 9
+
+An entity shall establish a biosafety and biosecurity management mechanism for infectious biological materials. For infectious biological materials that involve pathogens in Risk Groups 2-4 or biotoxins, the entity shall establish biosafety, biosecurity and emergency response plans in accordance with the items set forth by the central competent authority.
+
+Prior to possessing, storing, using, disposing of or importing and exporting pathogens in Risk Groups 2-4 or biotoxins, an entity shall appoint a biosafety officer (hereinafter referred to as “BSO”) and an alternate; an entity with thirty personnel or more shall also set up an institutional biosafety committee (hereinafter referred to as “IBC”). The BSO appointment and IBC setup must be reported to and approved by the local competent authority before the entity may proceed to possess, store, use, dispose of, or import and export pathogens in Risk Groups 2-4 or biotoxins; the same shall apply to any changes thereafter.
+
+Prior to possessing, storing, using, disposing of or importing and exporting pathogens or biotoxins mentioned in the preceding paragraph that are classified as BSAT, an entity shall additionally appoint a BSAT officer and an alternate. The appointment must be reported to and approved by the central competent authority before the entity may proceed to possess, store, use, dispose of, or import and export the aforementioned pathogens or biotoxins; the same shall apply to any changes thereafter.
+
+The BSAT officer and the BSO shall not be the same person. However, the same person may serve concurrently as both the BSAT officer and the BSO, provided the entity does not possess, store, use, dispose of or import and export non-BSAT.
+
+Only an entity that is required to set up an IBC pursuant to Paragraph 2 hereof is allowed to undertake the following activities:
+
+\1. Possessing, storing, using, disposing of, or importing and exporting pathogens in Risk Groups 3-4 or BSAT.
+
+\2. Setting up controlled premises under Paragraph 2 of Article 4 herein or a high-containment laboratory under Paragraph 1 of the preceding article.
+
+### Article 10
+
+In any of the following circumstances, an entity shall notify the local competent authority and request that the following actions be taken:
+
+\1. When an entity has fewer than thirty personnel, the approval of its IBC shall be rescinded.
+
+\2. When an entity no longer has a need to possess, store, use, dispose of, or import and export pathogens in Risk Groups 2-4 or biotoxins, the approval of its BSO and IBC shall be rescinded.
+
+When an entity no longer has a need to possess, store, use, dispose of, or import and export BSAT, it shall notify the central competent authority and request rescission of the approval of its BSAT officer.
+
+When the competent authority finds that an entity falls under any of the following circumstances, it may revoke or rescind the approval for the entity’s BSO, IBC or BSAT officer:
+
+\1. The documents or information submitted by the entity for approval contain false or misleading representations.
+
+\2. The entity with an IBC set up has less than thirty personnel.
+
+\3. The entity has not possessed, stored, used, disposed of, or imported/exported infectious biological materials in the preceding two paragraphs for more than one year.
+
+\4. The entity has been merged, downsized, dissolved, or ceased business, or its establishment or registration permit has been revoked or rescinded.
+
+### Article 11
+
+An entity’s BSO and BSAT officer shall be served by the entity’s personnel with professional knowledge and competence in biosafety and biosecurity related fields, who may start acting as the BSO or BSAT officer after attending training courses for biosafety management personnel organized by the central competent authority or an accredited training institution and obtaining a qualification certificate.
+
+For entities meeting all the following criteria, their BSOs who have been approved by the local competent authority before the amendments to these Regulations take effect on April 30, 2026 may obtain the qualification required under the preceding paragraph within two years from the effective date of that amendments and, during that period, shall not be subject to the restrictions set out in the preceding paragraph:
+
+\1. The entity does not possess, store, use, dispose of, or import and export pathogens in Risk Groups 3-4, or any BSAT; and
+
+\2. The entity has not set up a high-containment laboratory.
+
+### Article 12
+
+Duties of the BSO are as follows:
+
+\1. Act as the contact person of the entity for external communication of biosafety and biosecurity matters;
+
+\2. Provide consultation on biosafety and biosecurity matters of laboratories and storage facilities;
+
+\3. Review the applications of laboratories and storage facilities for possession, storage, use, disposition, or import and export of pathogens in Risk Groups 2-4 or biotoxins;
+
+\4. Supervise the implementation of biosafety and biosecurity training of personnel by laboratories or storage facilities;
+
+\5. Supervise the internal audits of biosafety and biosecurity of laboratories and storage facilities every year, and report the audit results to the IBC;
+
+\6. Supervise the implementation of personnel competence evaluation by high-containment laboratories or laboratories and storage facilities that store or use pathogens in Risk Groups 3-4;
+
+\7. Supervise the biorisk management system operations of high-containment laboratories or laboratories and storage facilities that store or use pathogens in Risk Groups 3-4;
+
+\8. Supervise the emergency response drills of laboratories and storage facilities, and report the implementation status to the IBC;
+
+\9. Supervise the cleaning, disinfection, decontamination, recovery and correction operations of laboratories and storage facilities after a biosafety or biosecurity incident; and
+
+\10. Investigate biosafety or biosecurity incidents of laboratories and storage facilities, report the findings, and make recommendations to the IBC.
+
+### Article 13
+
+Duties of the BSAT officer are as follows:
+
+\1. Act as the contact person of the entity for external communication of BSAT matters;
+
+\2. Provide consultation and anonymous reporting channels at the controlled premises;
+
+\3. Review the applications of controlled premises for possession, storage, use, disposition, or import and export of BSAT;
+
+\4. Designate personnel to undertake the tasks of possessing, storing, using, disposing of, or importing and exporting BSAT, or terminate such designations, and report to the IBC for consent;
+
+\5. Supervise the pre-employment and ongoing suitability assessment of personnel with access to BSAT;
+
+\6. Supervise the internal audits of biosafety and biosecurity of controlled premises every year, and report the audit results to the IBC;
+
+\7. Supervise the implementation of BSAT, biosafety and biosecurity training as well as competence evaluation of personnel by controlled premises;
+
+\8. Supervise the biorisk management system operations of controlled premises;
+
+\9. Supervise the biosafety and biosecurity emergency response drills of controlled premises, and report the implementation status to the IBC;
+
+\10. Supervise the cleaning, disinfection, decontamination, recovery and correction operations of controlled premises after a biosafety or biosecurity incident; and
+
+\11. Investigate biosafety or biosecurity incidents of controlled premises, and report the findings and make recommendations to the IBC.
+
+### Article 14
+
+The term of the designated personnel mentioned in Subparagraph 4 of the preceding article shall not exceed three years; upon expiration of the term or any change in the designated personnel, a new designation shall be made.
+
+Only the BSAT officer and his/her alternate, and designated personnel mentioned in the preceding paragraph are authorized to possess, store, use, dispose of, and import and export BSAT.
+
+When a person mentioned in the preceding paragraph falls under any of the following circumstances, the entity shall immediately terminate the person’s authorization granted under the preceding paragraph and report the matter to the central competent authority for record:
+
+\1. Has seriously violated biosafety or biosecurity management regulations;
+
+\2. Is suspected of participating in a domestic or foreign bioterrorism activity; or
+
+\3. Has committed other related crimes.
+
+### Article 15
+
+The IBC shall have several members. The head or deputy head of the entity shall act as the chairperson, whereas the BSO and BSAT officer are ex officio members of the committee, and the other members shall include personnel mentioned in the following subparagraphs:
+
+\1. A representative of laboratory or storage facility directors.
+
+\2. A representative of laboratory or storage facility managers.
+
+\3. A representative of biosafety or biosecurity related engineering technicians or other personnel with relevant professional knowledge.
+
+The IBC shall meet at least once every six months, and when necessary, may call special meetings.
+
+The meetings in the preceding paragraph shall be called and chaired by the IBC chairperson; when unable to attend a meeting, the chairperson may designate a member to act on his/her behalf.
+
+### Article 16
+
+Duties of the IBC are as follows:
+
+\1. Establish biosafety and biosecurity management policies of the entity;
+
+\2. Review the biosafety level of laboratories;
+
+\3. Review the applications of laboratories and storage facilities for possession, storage, use, disposition, and import and export of pathogens in Risk Groups 2-4, biotoxins, or BSAT;
+
+\4. Review biosafety, biosecurity and emergency response plans;
+
+\5. Review the plans for construction, alteration, expansion, inauguration, temporary shutdown, downgrade or closure of laboratories and storage facilities;
+
+\6. Review matters concerning disputes over the entity’s biosafety or biosecurity issues;
+
+\7. Review the health monitoring mechanism for laboratory or storage facility personnel;
+
+\8. Conduct pre-employment and ongoing suitability assessment of the BSAT officer and his/her alternate;
+
+\9. Review the biosafety and biosecurity training plans for laboratory and storage facility personnel;
+
+\10. Review the internal audit plan for biosafety and biosecurity of laboratories and storage facilities every year, monitor the audit results, and follow up on the remedial actions taken;
+
+\11. Review the competence evaluation plan for personnel of high-containment laboratories, controlled premises or laboratories or storage facilities that store or use pathogens in Risk Groups 3-4, and monitor the implementation status;
+
+\12. Review the biorisk management system operational plans of high-containment laboratories, controlled premises, or laboratories or storage facilities that use or store pathogens in Risk Groups 3-4, and monitor the implementation status;
+
+\13. Review the biosafety and biosecurity emergency response drill plans of laboratories and storage facilities, and monitor the implementation status;
+
+\14. Review the cleaning, disinfection, decontamination, recovery and correction plans of laboratories and storage facilities in case of a biosafety or biosecurity incident;
+
+\15. Review the biosafety or biosecurity incident investigation reports of laboratories and storage facilities, and follow up on the remedial actions taken; and
+
+\16. Review other relevant biosafety and biosecurity management matters.
+
+IBC’s reviews of biosafety and biosecurity related matters shall be documented with the records saved for at least three years.
+
+For entities exempted from the establishment of an IBC pursuant to these Regulations, their BSO shall take charge of the tasks mentioned in the subparagraphs of Paragraph 1 hereof.
+
+### Article 17
+
+The possession, storage, use, disposition or transfer of pathogens in Risk Groups 2-4 or biotoxins must be reviewed and approved by the BSO, and in addition, reviewed and approved by the IBC if the entity has an IBC set up.
+
+Where the pathogens or biotoxins in the preceding paragraph are BSAT, their possession, storage, use, disposition or transfer must be reviewed and approved by the BSAT officer and the IBC, and those activities can only be performed at controlled premises whose inauguration has been approved by the central competent authority.
+
+The possession, storage, new addition or transfer of pathogens mentioned in Paragraph 1 hereof that are classified in Risk Groups 3 or 4, or BSAT mentioned in the preceding paragraph shall not commence until the entity has reported to and obtained approval from the central competent authority; when the entity removes an above-mentioned infectious biological material from its inventory, it shall report it to the central competent authority for record within thirty days following the removal.
+
+Regarding the transfer mentioned in Paragraph 1 and Paragraph 2 hereof, the recipient must be an entity that has already reported to and obtained approval from the competent authority according to Paragraph 2 or 3 of Article 9 herein, and the transfer has been reviewed and approved by its IBC prior to receipt.
+
+The recipient of transferred BSAT shall, within three days from the day following the receipt of BSAT, report the receipt to the central competent authority for record.
+
+### Article 18
+
+If a laboratory detects pathogens in Risk Groups 2-4 or biotoxins while conducting clinical or research testing or participating in proficiency testing, it shall, within the following time period, destroy, store, or transfer the detected pathogens or biotoxins to an entity that has obtained approval pursuant to Paragraph 2 or Paragraph 3 of Article 9 herein:
+
+\1. Clinical or research testing: Within thirty days from the day following detection.
+
+\2. Proficiency testing: Within ninety days from the day following detection.
+
+If the detected pathogens or biotoxins in the preceding paragraph are BSAT and have not been approved for possession, storage or use according to Paragraph 2 of the preceding article, the laboratory shall report the plan for their destruction, storage or transfer to the central competent authority for record within seven days from the day following detection, and then complete such handling within the time limit specified in the preceding paragraph.
+
+### Article 19
+
+For the import and export of infectious biological materials, an entity shall submit an application and relevant documents to the central competent authority for approval according to Paragraph 2, Article 34 of the Act.
+
+In the event that infectious biological materials to be imported or exported in the preceding paragraph are pathogens in Risk Groups 2-4 or biotoxins, their import and export must be reviewed and approved by the BSO, and in addition, reviewed and approved by the IBC if the entity has an IBC set up.
+
+In the event that infectious biological materials to be imported or exported in Paragraph 1 hereof are BSAT, their import and export must be reviewed and approved by the BSAT officer and the IBC, and consent documents from the IBC of the entity shall be enclosed with the application.
+
+### Article 20
+
+Storage facilities that store pathogens in Risk Groups 2-4 or biotoxins shall carry out the following:
+
+\1. Assign a person to take charge of storage management;
+
+\2. Establish access control and implement proper security mechanisms for storage facilities and equipment;
+
+\3. Post the names and contact numbers of the storage facility director and manager, as well as emergency contact information in a conspicuous place at personnel entrances and exits;
+
+\4. Keep an inventory list and records of storage and retrieval;
+
+\5. Make biosecurity related management manuals available on site; and
+
+\6. Take periodic inventories of items in stock and their quantities or weights.
+
+### Article 21
+
+Level 2 to 4 laboratories shall carry out the following:
+
+\1. Assign a person to take charge of management matters;
+
+\2. Establish access control;
+
+\3. Post the biosafety level, biohazard symbols, names and contact numbers of the laboratory director and manager, as well as emergency contact information in a conspicuous place at personnel entrances and exits;
+
+\4. Keep a list of items handled and related handling records;
+
+\5. Make laboratory biosafety management manuals available on site; and
+
+\6. Take periodic inventories of items handled and their quantities or weights.
+
+For laboratory personnel who work with pathogens in Risk Groups 3 or 4, an entity shall keep their serum specimens for ten years after they have left the job. For laboratory personnel who work with pathogens in Risk Group 2, the necessity of retaining their serum specimens and retention period shall be decided by the entity’s IBC.
+
+### Article 22
+
+High-containment laboratories, controlled premises, or other laboratories and storage facilities that store or use pathogens in Risk Groups 3 or 4 shall establish a biorisk management system.
+
+Implementation guidelines for the establishment of a biorisk management system in the preceding paragraph shall be prescribed by the central competent authority.
+
+### Article 23
+
+A newly established high-containment laboratory or controlled premises may be inaugurated only after being reviewed and approved by the entity’s IBC and obtaining approval from the central competent authority by submitting an application along with relevant documents and information; the same shall apply to change of its location, address or scope of operating area.
+
+When a high-containment laboratory or controlled premises falls under any of the following circumstances, the central competent authority may revoke or rescind its approval:
+
+\1. The document or information submitted for approval contain false or misleading representations.
+
+\2. The high-containment laboratory has ceased operation for more than one year.
+
+\3. The controlled premises have not possessed, stored, used, disposed of, imported or exported BSAT for more than one year.
+
+\4. The approval of the BSO, IBC or BSAT officer of the entity to which the laboratory or controlled premises belongs has been cancelled, revoked, or rescinded.
+
+\5. The entity to which the laboratory or controlled premises belongs has been merged downsized, dissolved, or ceased business, or its establishment or registration permit has been revoked or rescinded.
+
+\6. The laboratory or controlled premises does not store, use or dispose of any infectious biological materials.
+
+### Article 24
+
+The following personnel shall, depending on the nature of their work, receive continuing education on biosafety and biosecurity:
+
+\1. BSO and alternate: At least 8 hours annually.
+
+\2. BSAT officer and alternate: At least 8 hours annually, plus at least 4 additional hours of BSAT-related courses.
+
+\3. IBC members: At least 2 hours annually.
+
+\4. Personnel working at laboratories or storage facilities: For personnel whose work involves pathogens in Risk Groups 2-4 or biotoxins, at least 8 hours annually for new personnel, and at least four hours annually for existing personnel; for personnel whose work does not involve the aforementioned pathogens or biotoxins, their hours of continuing education courses will be decided by the entity.
+
+\5. Personnel working at controlled premises: Personnel working at controlled premises shall receive continuing education in accordance with the hourly requirements set forth in the preceding subparagraph. In addition, they shall complete at least one hour of BSAT-related courses and at least one hour of safety awareness training.
+
+\6. Other personnel designated by the central competent authority: The continuing education courses and hours required shall be determined by the central competent authority.
+
+With regard to the continuing education courses referred to in the preceding paragraph, an entity may conduct such courses itself, commission other institutions, legal persons, or organizations to conduct them, or arrange for its personnel to attend continuing education courses conducted by competent authorities, other entities, institutions, legal persons, or organizations. Courses attended by new personnel at a high-containment laboratory must be reported to the central competent authority for recognition. Any continuing education courses not recognized shall not be credited.
+
+### Article 25
+
+Laboratories and storage facilities shall establish emergency response procedures in accordance with the emergency response plan specified in Paragraph 1 of Article 9 herein.
+
+The laboratories and storage facilities mentioned in the preceding paragraph shall conduct an emergency response drill annually, and a field drill at least once every three years.
+
+### Article 26
+
+Laboratories and storage facilities shall safekeep records on the inventory, disposition, biosafety or biosecurity incidents, personnel training, and other relevant activities in connection with pathogens in Risk Groups 2-4 and biotoxins for at least three years.
+
+Controlled premises shall safekeep records on the inventory, personnel training, and other relevant activities in connection with BSAT for at least three years, and records on disposition, biosafety or biosecurity incidents for at least ten years.
+
+### Article 27
+
+The transport of infectious biological materials shall meet the triple packaging rules set forth by the central competent authority, use appropriate vehicles, and comply with the rules and regulations set forth by the central transportation and communications authority.
+
+In the event of an incident involving infectious biological materials during the course of transport, carrier shall promptly notify the consigning entity and undertake necessary emergency measures. Upon receiving such notice, the consigning entity shall immediately notify the local competent authority where the incident occurs and the central competent authority through the established system or by other appropriate means.
+
+### Article 28
+
+In the event of a biosecurity incident, a laboratory or storage facility shall promptly inform its BSO, and controlled premises shall promptly inform their BSAT officers.
+
+Where the incident in the preceding paragraph involves an inconsistency in the item or quantity of stored or transferred Risk Group 2 pathogens or biotoxins other than BSAT, and involves loss, theft, or unknown cause, the entity shall report to the local competent authority for record within seven days from the day following confirmation of the investigation results.
+
+Where the incident in Paragraph 1 hereof involves pathogens in Risk Groups 3 or 4, or BSAT, the entity shall report to the competent authorities at all levels within the following timeframe:
+
+\1. Pathogens in Risk Groups 3 or 4: Within three days from the day following the receipt of a report by the BSO.
+
+\2. BSAT: Within three days from the day following the receipt of a report by the BSAT officer.
+
+With regard to an incident mentioned in the preceding paragraph, the entity shall, within ten days from the day following the discovery of the incident, submit a preliminary investigation report reviewed by its IBC to the competent authorities at all levels for record. In addition, the entity shall, within thirty days from the day following the discovery of the incident, submit an incident investigation report as well as a correction and recovery plan reviewed by its IBC to the central competent authority for approval, with a copy of the same sent to the local competent authority.
+
+After receiving a report under Paragraph 2 or Paragraph 3 hereof, competent authorities at all levels shall, as appropriate, conduct supervision or investigation and may take appropriate actions.
+
+### Article 29
+
+The biosafety incidents occurring at a laboratory or storage facility are classified into the following hazard levels by the extent of infectious biological material leakage or the status of personnel infection:
+
+\1. High:
+
+(1) A biosafety incident involving personnel at the laboratory or storage facility that leads to the infection of personnel; or
+
+(2) Leakage of infectious biological materials beyond the laboratory or storage facility that poses a risk of infection or harm to persons outside the laboratory or storage facility.
+
+\2. Moderate:
+
+(1) A biosafety incident at the laboratory or storage facility that poses a risk of infection or harm to personnel; or
+
+(2) Leakage of infectious biological materials confined to areas within the laboratory or storage facility that poses a risk of infection or harm to personnel.
+
+\3. Low: Leakage of infectious biological materials confined to the safety equipment within the laboratory or storage facility that poses a risk of infection or harm to personnel.
+
+When an incident in the preceding paragraph has occurred or is likely to occur, the laboratory or storage facility shall inform the BSO immediately, and the controlled premises shall inform the BSAT officer immediately. The laboratory, storage facility, or controlled premises shall also take necessary response measures according to the established emergency response procedures and emergency response plan.
+
+The directions for the reporting and management of incidents mentioned in the preceding two paragraphs shall be prescribed by the central competent authority.
+
+### Article 30
+
+For the needs of disease prevention and control, the central competent authority may order an entity to destroy, place under seal, transfer custody of, or otherwise handle certain infectious biological materials in an appropriate manner within a given period of time.
+
+### Article 31
+
+The competent authority may, for the needs of disease prevention and control, order high-containment laboratories, controlled premises, or laboratories and storage facilities that use and store pathogens in Risk Groups 2-4 or biotoxins, to provide relevant documents and information, and may conduct supervision and inspection thereof.
+
+When deficiencies are found in the supervision or inspection conducted pursuant to the preceding paragraph, the competent authority shall order the entity to take corrective actions within a given period of time; if the entity fails to comply accordingly, the competent authority may order the entity to discontinue the possession, storage, use, or disposition of relevant infectious biological materials, or suspend the operations of the aforementioned premises in part or in whole.
+
+Entities and their personnel may not evade, interfere with, or refuse the supervision, inspection, and actions taken by competent authorities under the preceding two paragraphs.
+
+### Article 32
+
+Where a biosafety or biosecurity incident has occurred at a laboratory or storage facility, or where there is a risk of such an incident occurring, the competent authority may order the entity to discontinue the use or disposition of relevant infectious biological materials, or suspend the operations of the laboratory or storage facility in part or in whole.
+
+When the safety concern mentioned in the preceding paragraph has been resolved, and upon confirmation by the IBC of the entity, the entity may, after obtaining the consent of the competent authority, resume the use or disposition of infectious biological materials, or restore the operations of the laboratory or storage facility.
+
+### Article 33
+
+For positive specimens that are not yet inactivated and to which P620 packing instructions apply for their transport in accordance with the World Health Organization’s Guidance on Regulations for the Transport of Infectious Substances, the provisions governing pathogens in Risk Groups 3-4 under these Regulations shall apply to the management of their possession, storage, use, disposition, or import and export.
+
+The term “not yet inactivated” in the preceding paragraph means the positive specimen has not been treated with solvents, high temperatures, irradiation, or other effectively validated methods, such that it is still capable of causing human infection.
+
+For BSAT that are biotoxins whose quantity are below the control limits set forth by the central competent authority pursuant to Paragraph 3 of Article 4 herein, the provisions governing Risk Group 3 pathogens other than BSAT shall apply to their possession, storage, use, disposition, or import and export.
+
+## Chapter 3 Management of Accredited Training Institutions
+
+### Article 34
+
+An accredited training institution under Paragraph 1 of Article 11 herein must meet one of the following qualification requirements:
+
+\1. A government agency, government institution, or non-departmental public body.
+
+\2. An institution, legal person, or organization established or registered in accordance with applicable laws, whose functions or activities include the promotion of biosafety and biosecurity.
+
+\3. A school at the level of junior college or above that offers biosafety and biosecurity related courses and implements practical teaching on biosafety and biosecurity.
+
+\4. An entity approved by the competent authority pursuant to Paragraph 2 of Article 9 herein.
+
+To apply for accreditation, a training institution shall submit an application along with its training plan and other supporting documents and information to the central competent authority during the period announced by the central competent authority.
+
+After the application in the preceding paragraph has been reviewed and approved, the central competent authority shall issue a permit with a validity period of three years. An accredited training institution whose permit has expired shall resubmit an accreditation application to the central competent authority if it intends to continue the offering of training courses.
+
+### Article 35
+
+Accredited training institutions shall comply with the following rules:
+
+\1. Conduct training courses for biosafety management personnel every year.
+
+\2. Assign or hire appropriate instructors, and provide suitable training venues and equipment.
+
+\3. Compile teaching materials in accordance with the outline set forth by the central competent authority, and form a review panel to review the materials.
+
+\4. Establish standards for fee collection and refunds, as well as service guidelines, and implement them accordingly.
+
+\5. Submit the annual training results to the central competent authority for record every year.
+
+\6. Carry out other matters announced by the central competent authority.
+
+The central competent authority may notify an accredited training institution to provide relevant documents and information, and may conduct supervision and inspection at the institution. The institution may not evade, interfere with, or refuse such request or action.
+
+If the application or accompanying documents and information provided by an accredited training institution contain false or misleading representations, the central competent authority shall revoke its accreditation.
+
+The central competent authority shall notify an accredited training institution to take corrective actions within a given period of time if the institution falls under any of the following circumstances:
+
+\1. Failure to follow its established training plan.
+
+\2. Serious deficiencies identified through accounting audit results.
+
+\3. Violation of the provisions of Paragraph 2 hereof.
+
+\4. Violation of other provisions of the Act, these Regulations, or other relevant rules and regulations.
+
+If the institution fails to take corrective actions within the prescribed period, the central competent authority may rescind its accreditation.
+
+## Chapter 4 Supplemental Provisions
+
+### Article 36
+
+The central competent authority may commission or entrust relevant agencies, institutions, schools, legal persons, or organizations to carry out matters that the central competent authority is required to conduct pursuant to these Regulations.
+
+### Article 37
+
+These Regulations shall enter into force on the date of promulgation.
+
+## History
+
+\1. Formulated and promulgated in 19 articles by the Department of Health, the Executive Yuan, on September 26, 2005, under Shu-Shou-Chi Order No. 0940000614; effective on March 26, 2006.
+
+\2. Amended and promulgated Article 19 and added Article 2-1 by the Department of Health, the Executive Yuan, under Shu-Shou-Chi Order No. 0950000194 on April 11, 2006; effective on the date of promulgation.
+
+\3. Amended and promulgated the title (original title: Regulations Governing Management of Infectious Biological Materials and Collection of Specimens from Patients of Communicable Diseases) and all 21 articles by the Ministry of Health and Welfare on March 11, 2014, under Bu-Shou-Chi Order No. 1030100208; effective on the date of promulgation.
+
+\4. Amended and promulgated in 21 articles by the Ministry of Health and Welfare on December 13, 2016 under Bu-Shou-Chi Order No. 1050101528; effective on the date of promulgation.
+
+\5. Amended and promulgated in 39 articles by the Ministry of Health and Welfare on January 31, 2019 under Bu-Shou-Chi Order No. 1080100040; effective on the date of promulgation.
+
+\6. Amended and promulgated in 44 articles by the Ministry of Health and Welfare on December 15, 2021, under Bu-Shou-Chi Order No. 1100102022; effective on the date of promulgation, except that Article 11 and Paragraph 2 of Article 32 took effect on January 1, 2025, and Article 19 took effect one year after promulgation.
+
+\7. Amended and promulgated in 37 articles by the Ministry of Health and Welfare on April 30, 2026, under Bu-Shou-Chi Order No. 1150100355; effective on the date of promulgation.

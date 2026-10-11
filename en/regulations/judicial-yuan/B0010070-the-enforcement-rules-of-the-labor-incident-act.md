@@ -1,0 +1,65 @@
+---
+title: "The Enforcement Rules of the Labor Incident Act"
+title_zh: "勞動事件法施行細則"
+identifier: "B0010070"
+type: regulation
+law_level: "命令"
+category: "司法＞院本部＞民事目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2019-11-15
+last_amended: 2019-11-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=B0010070"
+retrieved: 2026-10-12
+---
+
+# The Enforcement Rules of the Labor Incident Act
+
+> Translation. The Chinese text ([zh/regulations/judicial-yuan/B0010070-the-enforcement-rules-of-the-labor-incident-act.md](../../../zh/regulations/judicial-yuan/B0010070-the-enforcement-rules-of-the-labor-incident-act.md)) is authoritative.
+
+## Article 1
+
+These rules are stipulated in accordance with the provisions of Article 52 of the Labor Incident Act (hereinafter referred to as this Act).
+
+## Article 2
+
+Labor cases, which are already pending in court and have not concluded before the enactment of this Act, with the exception of circumstances as described in Article 3, shall be handled according to the procedures described below, after the enactment of this Act:
+
+\1. According to the extent of their progress, said cases shall be concluded in accordance with the procedures stipulated in this Act, and the provisions of Article 16, Paragraph 2 of this Act shall not apply.
+
+\2. The jurisdiction of the court shall be determined in accordance with the laws at the time of pending, or the provisions of Article 6, Paragraph 1 of this Act. Workers who file a motion for case transfer, in accordance with the provisions of Article 6, Paragraph 2 and Article 7 of this Act, shall do so before the oral argument of their cases.
+
+\3. The collection of judgment fee shall be determined in accordance with the laws at the time of filing for actions, motions, appeals, or interlocutory appeals.
+
+The provisions of this Act are applicable to cases, as described in the preceding paragraph, which are concluded after the enactment of this Act, after which appeals or interlocutory appeals are filed.
+
+## Article 3
+
+Labor cases that are already pending in court that have not concluded before the enactment of this Act shall, based on the extent of their progress, be concluded in accordance with the procedures as stipulated in the provisions of Article 4, Paragraph 4 of the Labor Case Adjudication Rules, after the enactment of this Act.
+
+The provisions of subparagraphs 2 and 3 of the first paragraph of the preceding Article apply mutatis mutandis to the circumstances described in the preceding paragraph.
+
+## Article 4
+
+Labor cases that are already pending in a higher court and have not concluded before the enactment of this Act, and which are remanded or transferred, shall be handled in labor professional courts or special focus units (hereinafter referred to as labor courts). However, this rule does not apply to cases that are remanded or transferred to an Intellectual Property Court.
+
+## Article 5
+
+In the case of labor cases for which a motion has been filed or those deemed to have filed a motion for mediation before the enactment of this Act, and the mediation procedures have not yet been completed, their mediation process shall still be conducted according to the procedures stipulated in the Taiwan Code of Civil Procedure.
+
+If the mediation, as mentioned in the preceding paragraph, is unsuccessful, and the case parties file a motion for an immediate oral argument of the litigation in accordance with the provisions of Article 419, Paragraph 1 of the Taiwan Code of Civil Procedure, the case shall be assigned to a labor court for appropriate handling, according to the circumstances of the case. The provisions of Article 16, Paragraph 1 of this Act do not apply to cases that are deemed as initiating an action when applying for a mediation, pursuant to the provisions of paragraph 2 and paragraph 3 of the Article 419 of the Taiwan Code of Civil Procedure, nor does they apply to cases where the effect of the legal action occurs at the time of filing the original action or when applying for issuance of a payment order, pursuant to the provisions of paragraph 4 of the same Article.
+
+## Article 6
+
+If labor cases that are already pending before the enactment of this Act are transferred to mediation pursuant to the provisions of Taiwan Code of Civil Procedure, and the mediation procedures have not been concluded, their mediation process shall still be conducted according to the procedures stipulated in the Taiwan Code of Civil Procedure; the same applies to cases which are referred to mediation after the enactment of this Act.
+
+## Article 7
+
+These enforcement rules shall come into effect on January 1, 2020.
+
+## History
+
+\1. The Date of Promulgation: November 15, 2019

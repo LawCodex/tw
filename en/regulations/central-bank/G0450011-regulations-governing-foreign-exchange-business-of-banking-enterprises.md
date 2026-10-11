@@ -1,0 +1,881 @@
+---
+title: "Regulations Governing Foreign Exchange Business of Banking Enterprises"
+title_zh: "銀行業辦理外匯業務管理辦法"
+identifier: "G0450011"
+type: regulation
+law_level: "命令"
+category: "行政＞中央銀行＞外匯目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-07-23
+last_amended: 2025-07-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0450011"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Foreign Exchange Business of Banking Enterprises
+
+> Translation. The Chinese text ([zh/regulations/central-bank/G0450011-regulations-governing-foreign-exchange-business-of-banking-enterprises.md](../../../zh/regulations/central-bank/G0450011-regulations-governing-foreign-exchange-business-of-banking-enterprises.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+(Basis of legislation)
+
+These Regulations are prescribed pursuant to Paragraph 2, Article 35 of the "Central Bank of the Republic of China (Taiwan) Act".
+
+### Article 2
+
+(Application)
+
+The provisions of these Regulations shall govern the foreign exchange business of banking enterprises. Matters not provided herein shall be subject to provisions under other relevant laws and regulations.
+
+### Article 3
+
+(Definitions of Banking Enterprise and Authorized Bank)
+
+The term "banking enterprise" as used in these Regulations shall mean banks, Agricultural Bank of Taiwan Corporation (hereinafter referred to as "Agricultural Bank"), credit cooperatives, credit departments of farmers' or fishermen's associations, and the Chunghwa Post Co., Ltd. (hereinafter referred to as "Chunghwa Post") inside the territory of the Republic of China.
+
+The term "authorized bank" as used in these Regulations shall mean banks or Agricultural Bank approved by the Central Bank of the Republic of China (Taiwan) (hereinafter referred to as the "Bank") to engage in foreign exchange business and issued a certificate of authorization therefor.
+
+### Article 4
+
+(Definition of Foreign Exchange Business)
+
+The term "foreign exchange business" as used in these Regulations includes the following:
+
+1.Export-related foreign exchange business;
+
+2.Import-related foreign exchange business;
+
+3.Outward and inward remittance business (including purchase and sale of foreign currency cash and traveler's checks) ;
+
+4.Foreign currency deposit business;
+
+5.Foreign currency loan business;
+
+6.Foreign currency guarantee business;
+
+7.Foreign exchange derivatives business; and
+
+8.Other foreign exchange businesses.
+
+The term "foreign exchange derivatives" as used in these Regulations shall mean financial derivatives that involve foreign exchange and meet the definition provided in Article 2 of the Regulations Governing Internal Operating Systems and Procedures for Banks Conducting Financial Derivatives Business (hereinafter referred to as the "Regulations Governing Internal Operating Systems and Procedures").
+
+The provisions of Paragraph 2 and Paragraph 3, Article 2 of the Regulations Governing Internal Operating Systems and Procedures shall apply mutatis mutandis respectively to the definitions of the terms "structured product" and "complex high-risk product" as used in these Regulations.
+
+The provisions of Paragraph 1 of Article 3, Subparagraph 1 and Subparagraph 2, Paragraph 1, Article 3 of the Regulations Governing Internal Operating Systems and Procedures shall apply mutatis mutandis to the definitions of the terms "professional customer", "professional institutional investor" and "high net worth corporate investor" as used in these regulations.
+
+The term "foreign exchange bank debentures" as used in these Regulations shall mean debentures that involve foreign exchange and are issued in accordance with the Regulations Governing Issuance of Bank Debentures by Banks.
+
+The term "involving foreign exchange" as used in these Regulations shall mean the product is denominated or settled in a foreign currency or is linked to a foreign exposure.
+
+### Article 5
+
+(Data Protection)
+
+Unless otherwise provided by other laws, the Bank or the competent authorities, banking enterprises shall maintain the confidentiality of customer information gathered from foreign exchange business, and shall adopt proper security measures in compliance with Paragraph 1, Article 27 of the Personal Information Protection Act if personal information is involved.
+
+## Chapter 2 Application for and Commencement of Foreign Exchange Business
+
+### Article 6
+
+(Business Approval and Reporting for Record)
+
+Unless otherwise provided by these Regulations or the Bank, a banking enterprise may engage in foreign exchange business only after it has applied to the Bank and has been issued a certificate of authorization or a letter of approval.
+
+For foreign exchange businesses that a banking enterprise may engage in after reporting to the Bank for record in accordance with these Regulations or other provisions of the Bank, such businesses shall be deemed to have been approved by the Bank after the banking enterprise has completed the reporting for record procedure according to rules.
+
+Unless otherwise provided by these Regulations or the Bank, banking enterprises shall not engage in any foreign exchange business not yet approved by the Bank or reported to the Bank for record.
+
+### Article 7
+
+(Scope of Business)
+
+Banks and Agricultural Bank may apply for approval to engage in all or part of the business categories listed in Paragraph 1 of Article 4 herein.
+
+Chunghwa Post may apply for approval to engage in outward and inward remittances or purchase and sale of foreign currency cash and traveler's checks.
+
+Credit cooperatives and credit departments of farmers' or fishermen's associations may apply for approval to engage in purchase and sale of foreign currency cash and traveler's checks.
+
+### Article 8
+
+(Application Qualifications and Procedures)
+
+Unless otherwise provided by these Regulations or other laws and regulations, banks and Agricultural Bank that apply for approval to become authorized banks shall comply with the following provisions:
+
+1.Maintain the ratio of regulatory capital to risk-weighted assets at a level in compliance with the requirements set forth by the competent authority;
+
+2.Deploy qualified professional foreign exchange personnel to conduct foreign exchange businesses; and
+
+3.Have not had any sanction or correction imposed by the Bank or the competent authority due to violation of financial regulations in the past year or during the period from the date of establishment as approved by the competent authority to the date of application, or have made concrete improvements recognized by the Bank or the competent authority if there has been any violation of financial regulations.
+
+### Article 9
+
+(Application Documents)
+
+A bank or Agricultural Bank intending to apply for approval to become an authorized bank shall submit the following documents:
+
+1.A photocopy of business license issued and business items approved by the competent authority;
+
+2.Intended scope of foreign exchange business;
+
+3.Names and locations of overseas correspondent banks;
+
+4.Name of the responsible person in charge of foreign exchange business and business address within the territory of the Republic of China;
+
+5.Capital and working capital to be remitted to the territory of the Republic of China, as well as sources and amounts of funds for the foreign exchange business;
+
+6.Documents evidencing compliance with the provisions of the preceding article;
+
+7.Business plan; and
+
+8.Other data or documents specified by the Bank.
+
+An authorized bank that subsequently intends to expand the scope of its foreign exchange business shall submit photocopies of approval documents from the competent authority and the curricula vitae of qualified foreign exchange business personnel deployed to apply to the Bank for approval and issue of a new certificate of authorization.
+
+### Article 10
+
+(Application for Branches)
+
+For the branches of an authorized bank to apply for approval to engage in the foreign exchange business listed in Subparagraphs 1 through 6, Paragraph 1, Article 4 herein, the head office of the domestic bank or Agricultural Bank, or the Taipei branch of a foreign bank (hereinafter referred to as "foreign bank") shall submit documentation detailing the intended scope of business, and attach photocopies of the branch's business license and the curricula vitae of operations and auditing personnel.
+
+### Article 11
+
+(Personnel Qualifications)
+
+When an authorized bank engages in foreign exchange business listed in Subparagraphs 1 through 6, Paragraph 1, Article 4 herein, its operations and auditing personnel shall hold foreign exchange business licenses or meet the following qualifications:
+
+1.An operations personnel shall have at least three-month experience in the relevant foreign exchange business.
+
+2.An auditing personnel shall have at least six-month experience in the relevant foreign exchange business.
+
+For branches of an authorized bank that have been approved to engage in only purchase and sale of foreign currency cash and traveler's checks, their operations and auditing personnel shall have at least five business days of working experience in related foreign exchange business.
+
+### Article 12
+
+(Application for Foreign Exchange Derivatives Business)
+
+An authorized bank that has been approved by the Bank to engage in foreign exchange derivatives business may offer the following foreign exchange derivatives without application:
+
+1.Foreign exchange forward (excluding New Taiwan dollar (NTD) non-deliverable forward).
+
+2.Foreign exchange swap.
+
+3.Combinations of foreign exchange derivatives not involving NTD exchange rate that the authorized bank may engage in according to rules and that are linked to the underlying asset with the same risk and combined through the same transaction contract, but excluding complex high-risk products involving foreign exchange that are offered to customers other than professional institutional investors and high net worth corporate investors.
+
+4.Foreign exchange derivatives transactions not involving NTD exchange rate between domestic authorized banks and between a domestic authorized bank and a foreign bank.
+
+5.Domestic and foreign futures contracts not involving NTD exchange rate traded by a futures trader.
+
+An authorized bank that has been approved by the Bank to engage in foreign exchange derivatives business shall apply to the Bank for approval or report to the Bank for record based on the following criteria if it intends to offer the following foreign exchange derivative products:
+
+1.Application for approval before commencing:
+
+(1)Foreign exchange derivatives not yet approved by the Bank or have been approved for less than six months, and foreign exchange derivatives linked thereof.
+
+(2)NTD non-deliverable foreign exchange forwards.
+
+(3)Foreign derivatives involving NTD exchange rate.
+
+(4)Discretionary foreign currency margin trading.
+
+2.Reporting for record before commencing: The service of recommending those foreign exchange derivative products by the designated branch of an authorized bank under the authorization of its head office.
+
+3.Reporting for record after commencing:
+
+(1)Foreign exchange derivative products approved by the Bank for over six months and not involving NTD exchange rate.
+
+(2)Foreign exchange derivative products offered to professional institutional investors and high net worth corporate investors without involving NTD exchange rate and not yet approved by the Bank or approved for less than six months, which comply with the relevant rules of the competent authority.
+
+(3)Information and consulting services on offshore financial derivatives under the approval of the competent authority. The underlying asset shall not involve domestic interest rates, exchange rates, equities, indices, commodities, credit events, fixed-income or other interests.
+
+Where a professional institutional investor accepts trading orders, signs a trust agreement, discretionary services agreement, investment-linked insurance contract or offers privately placed fund, and carries out transactions provided in Items 2 and 3, Subparagraph 3 of the preceding paragraph in its name, the trustors/mandatories, policyholders or subscribers shall also be a professional institutional investor or high net worth corporate investor.
+
+### Article 13
+
+(Required Documentation for Application for Foreign Exchange Derivatives Business)
+
+An authorized bank shall submit the following documents when applying to the Bank for approval to offer products under Subparagraph 1, Paragraph 2 of the preceding article:
+
+1.A statement of regulatory compliance;
+
+2.Minutes with the resolution of the board of directors of the domestic bank or Agricultural Bank to offer such products or letter of authorization from the head office or the regional command center of a foreign bank;
+
+3.Curricula vitae of operations and relevant management personnel;
+
+4.Risk disclosure statement;
+
+5.Product profiles;
+
+6.Operational guidelines; and
+
+7.Risk management related documents.
+
+An authorized bank shall submit the following documents when reporting to the Bank for record to offer services under Subparagraph 2, Paragraph 2 of the preceding article and may commence the businesses only after receiving a letter of acknowledgement from the Bank:
+
+1.A photocopy of letter of approval from the competent authority;
+
+2.Minutes with the resolution of the board of directors of a domestic bank or Agricultural Bank to offer such services or letter of authorization from the head office or the regional command center of a foreign bank; and
+
+3.Authorization guidelines set out according to relevant rules.
+
+Within one week of carrying out the first transaction involving a product under Item 1 or 2, Subparagraph 3, Paragraph 2 of the preceding article, an authorized bank shall report to the Bank for record with the product description (must be a product actually transacted with the date of transaction, date of settlement, expiration date, notional principal amount, exercise price or other relevant indexes and parameters) and documents provided in Subparagraphs 1~5 of Paragraph 1 hereof. The authorized bank may continue to offer the product only after receiving a letter of acknowledgement from the Bank.
+
+When an authorized bank offer services under Item 3, Subparagraph 3, Paragraph 2 of the preceding article, it shall submit a letter of approval from the competent authority and documents provided in Subparagraphs 1~3, Paragraph 1 hereof within one week after commencing the service.
+
+### Article 14
+
+(Qualifications of Personnel Handling Foreign Exchange Derivatives Business)
+
+When engaging in the foreign exchange derivatives business listed in Subparagraph 7, Paragraph 1, Article 4 herein, the operations and management personnel of an authorized bank shall meet at least one of the following qualifications:
+
+1.Having completed at least 60 hours of training on derivatives and risk management held by domestic financial training institutions and received a certificate therefor; the training must cover theories and practices on foreign exchange derivatives transactions, relevant laws and regulations, accounting and risk management;
+
+2.Having one year of internship in the foreign exchange derivatives business at a domestic or foreign financial institution; or
+
+3.Having at least six-month working experience in the foreign exchange derivatives business at domestic or foreign financial institutions.
+
+Operations and management personnel handling the recommendation of foreign exchange derivatives shall meet at least one of the following qualifications:
+
+1.Having one of the qualifications listed in the preceding paragraph;
+
+2.Having passed the qualification exam for structured products salesperson held by domestic financial training institutions and received a certificate therefor ; or
+
+3.Having passed the qualification exam for financial derivatives salesperson held by domestic financial training institutions and received a certificate therefor.
+
+Operations and management personnel handling the trading, marketing, risk management, settlement or accounting, as well as compliance personnel, auditing personnel, and operations and management personnel handling the recommendation of foreign exchange derivatives shall attend at least 6 hours of training courses on derivatives. The training courses on derivatives offered by domestic financial training institutions regarding relevant regulations or non-compliance cases shall comprise no less than one half of the total hours of training received.
+
+Personnel of an authorized bank handling the foreign exchange derivatives business shall possess professional ability, and the authorized bank shall draw up professional qualification requirements and a related training system.
+
+### Article 15
+
+(Application for Establishment of Foreign Currency Settlement Bank)
+
+To engage in foreign currency settlement business through a domestic clearing institution, authorized banks shall apply to the Bank for approval to become a foreign currency settlement bank.
+
+Authorized banks making an application mentioned in the preceding paragraph shall submit the following documents and information to the Bank for review within the designated period set by the Bank. The Bank will select and give approval to one bank to conduct the foreign currency settlement business after reviewing those documents:
+
+1.A business plan to engage in foreign currency settlement business;
+
+2.The latest audited financial report; and
+
+3.Other information that supports the applicant's eligibility.
+
+The designated period referred to in the preceding paragraph will be announced by the Bank.
+
+A foreign currency settlement bank approved by the Bank shall be granted a five-year concession period to engage in the foreign currency settlement business, starting from the date of commencement.
+
+### Article 16
+
+(Application for Engaging in Non-discretionary Money Trust Business)
+
+An authorized bank concurrently conducting the trust business that engages in the NTD or foreign currency non-discretionary money trust business investing in foreign-currency denominated securities shall submit the following documents to the Bank for approval:
+
+1.Approval documents from the competent authority;
+
+2.Minutes with the resolution of the board of directors to engage in the NTD or foreign currency non-discretionary money trust business for a domestic bank and Agricultural Bank or a letter of authorization from the head office or a regional headquarters of a foreign bank;
+
+3.A regulatory compliance statement;
+
+4.Descriptions of the designated currency for receipts and disbursements and foreign exchange settlement procedures; and
+
+5.Other documents specified by the Bank.
+
+### Article 17
+
+(Application for Foreign Currency Denominated Collective Investment Trust Account and Foreign Currency Denominated Collective Trust Fund Business)
+
+An authorized bank concurrently conducting the trust business that engages in the foreign currency denominated collective investment trust account business or offers and issues foreign currency denominated collective trust funds inside the ROC shall submit the following documents to the Bank for approval before establishing or offering such fund for the first time:
+
+1.Approval documents from the competent authority. Exemptions: (1)Banks that establish foreign currency denominated collective investment trust accounts which accept funds from professional investors referred to in the Regulations Governing Offshore Structured Products (it should be stated in the application letter) only; or (2)Banks that offer and issue the foreign currency denominated collective trust fund;
+
+2.A management and utilization plan for the foreign currency denominated collective investment trust account established for the first time or an offering and issuance plan for the collective trust fund offered for the first time;
+
+3.A resolution of the board of directors for a domestic bank and Agricultural Bank to engage in the foreign currency denominated collective investment trust account business or a letter of authorization from the head office or the regional headquarters of a foreign bank;
+
+4.A regulatory compliance statement; and
+
+5.Other documents required by the Bank.
+
+An authorized bank that has obtained approval from the Bank to engage in the business mentioned in the preceding paragraph is not required to apply to the Bank for approval on a case-by-case basis subsequently.
+
+### Article 17-1
+
+(Application for Other Foreign Currency Trust Businesses)
+
+An authorized bank concurrently conducting the trust business that engages in foreign currency trust businesses other than those under the preceding two articles shall submit the following documents to the Bank for approval:
+
+1.Approval documents from the competent authority or relevant supporting documents that meet the requirements under Article 5 of the Regulations Governing the Scope of Business, Restrictions on Transfer of Beneficiary Rights, Risk Disclosure, Marketing, and Conclusion of Contract by Trust Enterprises;
+
+2.Description of operations (exempted for applications for engaging in the foreign currency money trust or foreign currency securities trust), which should include the following particulars:
+
+(1)Name of business (according to the business activities and classification provided in Article 16 of the Trust Enterprise Act and Articles 6~8 of the Enforcement Rules of the Trust Enterprise Act);
+
+(2)Introduction of business;
+
+(3)Operation process; and
+
+(4)Description of receipts and payments of funds;
+
+3.A resolution made by the board of directors of a domestic bank or the Agricultural Bank of Taiwan to engage in the business or a letter of authorization from the head office or the regional headquarters of a foreign bank;
+
+4.A regulatory compliance statement; and
+
+5.Other documents required by the Bank.
+
+### Article 18
+
+(Establishment of Automatic Teller Machines)
+
+To set up automatic teller machines to provide foreign exchange services, an authorized bank shall comply with all regulations set forth by the competent authority regarding the scope of services that may be provided by automatic teller machines and related operation security control and management. It shall also submit a description of operations to the Bank for record prior to offering the foreign exchange services via such equipment. If subsequently there are changes in the description of operations regarding principles for exchange rate application, exchange rate disclosure methods, foreign exchange declaration methods, or reduction in the scope of services offered, the authorized bank shall report to the Bank for record before the change takes place.
+
+An authorized bank itself shall control, manage and maintain the data about the names of the equipment management units, locations, and changes in the number of automatic teller machines, and shall keep the records for inspection.
+
+### Article 19
+
+(Foreign Exchange Businesses through Electronic or Communications Equipment)
+
+When engaging in foreign exchange businesses through electronic or communications equipment, authorized banks and Chunghwa Post shall meet all regulations set forth by the Financial Supervisory Commission (hereinafter referred to as the "FSC") regarding the scope of services that may be provided by banks and apply to the Bank for approval. However, if the scope of service meets the provisions of the Bank, authorized banks or Chunghwa Post may proceed with those businesses without making an application or by reporting to the Bank for record.
+
+Authorized banks and Chunghwa Post that apply to the Bank for approval in accordance with the preceding paragraph shall submit the following documents:
+
+1.The description of operations;
+
+2.The code of remittance classification;
+
+3.The statement signed by the head office chief compliance officer, chief auditor and head of information department; and
+
+4.Controls for preventing customers from dodging reporting obligation as required by law through breaking up a single, large settlement amount into multiple smaller ones (exempted if the operation does not involve the foreign exchange settlement against NTD).
+
+An authorized bank that reports to the Bank for record in accordance with Paragraph 1 hereof shall submit the documents provided in the preceding paragraph and a simulation test report on its foreign exchange operation process of online banking system.
+
+Authorized banks and Chunghwa Post that engage in businesses mentioned in Paragraph 1 hereof shall comply with the following provisions:
+
+1.The system shall have a function of computerized verification of the code of remittance classification and a mechanism to ensure compliance with the provisions governing renminbi exchange or remittance to Mainland China Area.
+
+2.For an authorized bank that allows customers to make the declaration of foreign exchange settlement against NTD through the Internet in accordance with Paragraph 1, Article 11 of the Regulations Governing the Declaration of Foreign Exchange Receipts and Disbursements or Transactions (hereinafter referred to as Regulations for Declaration), its system shall first pass the test of connection with the Bank's Foreign Exchange Data Processing System before applying to the Bank for approval or reporting to the Bank for record.
+
+3.Other provisions set forth by the Bank for proper administration of businesses under Paragraph 1 hereof.
+
+An Internet-only bank that engages in foreign exchange businesses involving the foreign exchange settlement against NTD through electronic or communications equipment with a value equal to or over an equivalent of NTD 500,000 shall allow declarants to make the declaration of foreign exchange settlement against NTD through the Internet in accordance with Paragraph 1, Article 11 of the Regulations for Declaration.
+
+The provisions mentioned in Paragraph 1 hereof that allow for proceeding with businesses by reporting to the Bank for record or without making an application and the other provisions mentioned in Subparagraph 3, Paragraph 4 will be prescribed separately by the Bank.
+
+### Article 20
+
+(Application for Conducting Foreign Exchange Business during Non-standard Business)
+
+To engage in foreign exchange business during non-standard business hours, an authorized bank shall submit a description of the relevant operations (including the cut off time for including the relevant transactions in the same-day or next-day "Daily Transaction Report" and "Daily Foreign Exchange Position Report"; the preceding provision applies when there is a change to the services.
+
+Designated branches of an authorized bank that has been approved by the Bank according to the preceding paragraph are not required to apply for separate approval on a case-by-case basis to conduct the business, provided the branches engage in the foreign exchange business in the preceding paragraph in accordance with the authorized bank's description of operations.
+
+### Article 21
+
+(Application for Establishment of Foreign Exchange Processing Center or Outsource)
+
+Where a banking enterprise has established its own domestic foreign exchange processing center to process relevant foreign exchange operations, it shall submit a description of relevant operations, operating procedures, and the curricula vitae of operations and auditing personnel to the Bank for record within one week after commencing its operation.
+
+A banking enterprise may outsource its back-office operations related to foreign exchange business to a third party at its discretion without prior approval from the Bank, except for those items subject to prior approval as stipulated by the competent authority where the enterprise shall submit the outsourcing plan to the Bank in advance for approval.
+
+A banking enterprise shall keep the outsourcing records on operational items, contents, scope and the names of outsourced service providers for inspection.
+
+### Article 22
+
+(Application for Issuance of Foreign Exchange Bank Debentures)
+
+To issue foreign exchange bank debentures, an authorized bank shall comply with the regulations set forth by the competent authority, and report to the Bank for record after issuance. However, if subsequently the authorized bank reissues bank debentures within the approved scope or quota, it is not required to report to the Bank for record again, unless applying for approval or reporting for record is required by the competent authority.
+
+Where an authorized bank is required to report to the Bank for record pursuant to the preceding paragraph, it shall, within fifteen business days after issuance, submit the letter of approval (letter of acknowledgement) from the competent authority and relevant information (including issuing date, amount, terms and conditions, region or country and the fund utilization plan) to the Bank.
+
+Where an authorized bank plans to issue foreign exchange convertible bank debentures, foreign exchange exchangeable bank debentures or other foreign exchange bank debentures involving equities outside the ROC pursuant to the Regulations Governing the Offering and Issuance of Overseas Securities by Issuers, the procedure for applying for approval to issue such debentures should follow the provisions of the aforementioned regulations, to which the preceding two paragraphs do not apply.
+
+### Article 23
+
+(Application for Conducting Foreign Exchange Business by Non-authorized Banks)
+
+Banking enterprises other than authorized banks that apply to the Bank for approval to engage in purchase and sale of foreign currency cash and traveler's checks shall proceed according to the following rules:
+
+1.For domestic banks and their branches or for foreign banks, their head office or Taipei branch shall submit a written application together with a photocopy of its business license (or a photocopy of establishment approval letter issued by the competent authority) and the curricula vitae of operations and auditing personnel.
+
+2.For credit cooperatives (head office or branches), the head office shall submit a written application together with a photocopy of the credit cooperative's business license, the curricula vitae of the operations and auditing personnel, the balance sheet and statement of comprehensive income of the preceding fiscal year, and documents evidencing whether the credit cooperative has been subject to any sanctions for violation of financial regulations in the past year.
+
+3.For the credit departments of farmers' or fishermen's associations and their branches, the farmers' or fishermen's association shall submit a written application along with a photocopy of the approval certificate and curricula vitae of operations and auditing personnel to be reviewed and approved by the Ministry of Agriculture before the application is forwarded to the Bank for approval.
+
+4.For Chunghwa Post and its post offices, Chunghwa Post's head office shall submit a written application along with a photocopy of the FSC's letter of approval (for post offices established after January 1, 2003), and curricula vitae of operations and auditing personnel to the Bank for approval.
+
+The provisions of Paragraph 2 of Article 11 herein shall apply mutatis mutandis to the qualifications of operations and auditing personnel handling the business mentioned in the preceding paragraph.
+
+The provisions of Subparagraph 4, Paragraph 1 hereof shall apply mutatis mutandis to the approval process for outward and inward remittance business of Chunghwa Post and its post offices, and the provisions of Paragraph 1 of Article 11 herein shall apply to the qualifications of their operations and auditing personnel.
+
+### Article 24
+
+(Relocation, Name Change or Closure)
+
+When a banking enterprise that has been approved to engage in foreign exchange business pursuant to Article 9, Article 10 or Paragraph 1 and Paragraph 3 of the preceding article changes its address or name, the banking enterprise shall, within two weeks before or after the changes take effect, submit the following documents to the Bank to apply for a updated certificate of authorization or report to the Bank for record:
+
+1.Chunghwa Post and its post offices: A photocopy of the letter of approval from the FSC or the letter of approval from its head office; In the event of relocation, the curricula vitae of operations and auditing personnel.
+
+2.Banking enterprises other than those mentioned in the preceding subparagraph:
+
+Approval documents from the competent authority, a photocopy of the updated business license or the approval certificate received; in the event of relocation, the curricula vitae of operations and auditing personnel.
+
+When a banking enterprise that has been approved to engage in foreign exchange business is closed, or terminates part or all of its foreign exchange business, the banking enterprise shall, within one week after the closure or termination, turn in the certificate of authorization to the Bank, or apply to the Bank for a updated certificate, or report to the Bank for record.
+
+### Article 25
+
+(Application for Conducting Foreign Exchange Business during Non-standard Business)
+
+Banking enterprises other than authorized banks that plan to engage in the Bank-approved business of purchase and sale of foreign currency cash and traveler's checks during non-standard business hours are not required to apply to the Bank for approval.
+
+The provisions of Article 20 herein shall apply mutatis mutandis to Chunghwa Post and its post offices conducting Bank-approved outward and inward remittance business during non-standard business hours.
+
+### Article 26
+
+(Supplementary Documentation)
+
+Banking enterprises applying for foreign exchange business or reporting the business for record will be granted a designated period for providing the supplementary documentation or information and making corrections if the documentation or required information submitted were found to be incomplete. The Bank may reject the application or reporting if the supplementary documentation or information and corrections were not submitted during the designated period.
+
+### Article 27
+
+(Rejection of Application)
+
+The Bank may reject a banking enterprise's application for foreign exchange business in the event of any of the following:
+
+1.Qualifications of the applicant do not comply with the regulations or false documents are submitted;
+
+2.The applicant has failed to assist declarants to fill out the Declaration Statement of Foreign Exchange Receipts and Disbursements or Transactions (hereinafter referred to as "Declaration Statement") as required;
+
+3.A high error rate in the certificates, reports and forms prepared by the applicant;
+
+4.The applicant had violated the provisions of these Regulations or relevant rules in the past year and the violation is of a serious nature; the applicant was ordered to rectify the situation by the Bank, but has failed to do so within the period specified by the Bank; or
+
+5.Other facts that are sufficient to indicate that the applicant may hinder sound operations of the business, or that the applicant is unable to meet financial policy requirements.
+
+When a banking enterprise reports to the Bank for record with regard to the foreign exchange business it engages in, if the banking enterprise submits false documents or the business reported does not fall under the types of business that allow reporting for record, the Bank will reject the reporting, and depending on the severity of the situation, impose a warning, demand remedial action, or suspend the specific foreign exchange business for a specified period of time, or withdraw the banking enterprise's privilege of commencing a foreign exchange business that requires reporting for record according to these Regulations by reporting the business to the Bank for record.
+
+### Article 28
+
+(Suspension, Revocation or Cancellation of Approval)
+
+If a banking enterprise has any of the following situations in conducting foreign exchange business, the Bank may, depending on the severity of the situation, order the banking enterprise to suspend the business for a specified period of time, revoke or cancel all or part of the approved businesses, or bar the banking enterprise from applying for new foreign exchange business or add new branches to conduct the foreign exchange business for a specified period of time:
+
+1.The banking enterprise fails to commence operation within six months after being issued a certificate of authorization or letter of approval. The applicant may request for an extension with valid reasons. If agreed by the Bank, the banking enterprise may have an extension of no more than three months. An institution may apply for an extension only once;
+
+2.The banking enterprise has violated the provisions of these Regulations and the violation is of a serious nature; or was ordered to rectify the situation by the Bank, but has failed to do so within the period specified by the Bank;
+
+3.After the banking enterprise has been approved to engage in various foreign exchange businesses, its original documents submitted were found to contain false information or representation of a serious nature;
+
+4.The banking enterprise suspends operations, is dissolved, or declares bankruptcy; or
+
+5.Other facts that are sufficient to indicate that the banking enterprise may hinder sound operations of the business, or that the banking enterprise is unable to meet financial policy requirements.
+
+A banking enterprise whose approval is revoked or cancelled in accordance with the preceding paragraph shall, within seven days from receiving the disposition, turn in its certificate of authorization or letter of approval; should the banking enterprise fails to do so, the Bank will nullify the certificate or the approval.
+
+A banking enterprise that is ordered by the Bank or the relevant competent authority to suspend or stop applying for foreign exchange business for a specified period of time shall not commence any foreign exchange business that requires reporting for record according to these Regulations by reporting the business with the Bank for record if the period of suspension has not expired or if it fails to propose proper, concrete improvement measures during the period of suspension, or if its proposed improvement measures have not been accepted by the Bank or the competent authority.
+
+## Chapter 3 Management of Foreign Exchange Business
+
+### Article 29
+
+(Know Your Customers)
+
+Banking enterprises engaging in foreign exchange business shall verify the identity or basic registration data of the customer according to the regulations set forth by the competent authority, and verify the supporting documents as required by the Bank before providing the service.
+
+### Article 30
+
+(Conducting Business on behalf of OBU)
+
+An authorized bank may, within the scope of foreign exchange business approved by the Bank, accept the designation of the offshore banking unit (OBU) of the same bank to handle its OBU business in accordance with the Offshore Banking Act, the Offshore Banking Act Enforcement Rules, and other relevant provisions.
+
+### Article 31
+
+(Foreign Exchange Derivatives Involving NTD Exchange Rate)
+
+When an authorized bank engages in foreign exchange derivatives business involving NTD exchange rate, the following rules shall apply:
+
+1.NTD deliverable foreign exchange forward (DF):
+
+(1)Based on genuine needs for foreign exchange receipts or disbursements, and the same need shall not be involved in multiple contracts.
+
+(2)When entering into contracts or processing settlements with clients, either the transaction documents supporting genuine needs for foreign exchange receipts or disbursements, or a written approval from the Bank or the competent authorities shall be verified.
+
+(3)The term of contract should be determined according to practical needs for foreign exchange receipts or disbursements.
+
+(4)When the contract is rolled over, the price shall be set based on the current market exchange rate rather than the rate of the original contract.
+
+2.NTD foreign currency swap (FX swap):
+
+(1)FX swap means simultaneously carrying out two foreign exchange transactions in identical amount but in opposite directions and having different value dates.
+
+(2)Counterparties shall be limited to domestic and foreign legal entities, and foreign natural persons.
+
+(3)When entering into a contract, no supporting documents are required for domestic legal entities; for foreign legal entities and foreign natural persons, documents of approval issued by the Bank or the competent authorities shall be verified.
+
+(4)When the contract is rolled over, the price shall be set based on the current market exchange rates rather than the rates of the original contracts.
+
+3.NTD non-deliverable foreign exchange forward (NDF):
+
+(1)Counterparties are limited to other domestic authorized banks and each authorized bank's overseas branches, head office (parent bank) and branches of head office (parent bank).
+
+(2)The format, content, and accounting of contracts shall be segregated from those of delivery forward (DF) business.
+
+(3)Contracts under this item shall not be rolled over or terminated before maturity.
+
+(4)Net cash settlement shall be applied uniformly upon maturity.
+
+(5)Margin trading is not allowed for NDF transactions.
+
+(6)Without the approval of the Bank, contracts shall not be structured to combine with other derivatives products, NTD or foreign currency principals, or other businesses and products.
+
+(7)For NTD non-deliverable forwards of US$5 million or above, the Department of Foreign Exchange of the Bank shall be notified immediately by telephone.
+
+4.NTD exchange rate option:
+
+(1)Counterparties are limited to domestic and foreign legal entities.
+
+(2)An option may be settled by net settlement or gross settlement, but the settlement method shall be specified in the contract.
+
+(3)The currency used for option premium and settlement when the option is exercised may be either in the denominated foreign currency or NTD, but shall be specified in the contract.
+
+(4)Only "plain vanilla" options may be transacted. Without the approval of the Bank, contracts shall not be structured to combine with options or other foreign exchange derivatives products, NTD or foreign currency principals, or other businesses and products.
+
+5.NTD cross currency swap (CCS):
+
+(1)Counterparties are limited to domestic and foreign legal entities.
+
+(2)For NTD CCS involving the exchange of principal both at inception and maturity, documents required of customers when entering into a contract shall be submitted in accordance with the provisions on FX swap under Item (3) of Subparagraph 2 of this paragraph.
+
+(3)For other types of NTD CCS, the bank shall require its customers to submit documents evidencing actual demand at the time of entering a contract.
+
+(4)The exchange of principal or interest for each term in the future is deemed as a foreign exchange forward contract, and shall be reported on the daily foreign exchange forward transaction report when entering into contract.
+
+When engaging in FX swaps under Subparagraph 2 of the preceding paragraph or NTD CCS transactions involving the exchange of principal both at inception and maturity under Subparagraph 5 of the preceding paragraph, neither the principal nor interest involved need to be included in the annual aggregate settlement amount as specified in Subparagraph 3, Paragraph 1, Article 4 of the Regulations for Declaration. However, when engaging in other types of NTD CCS, the inclusion of settlement amounts involved into the annual aggregate settlement amount shall be handled according to the actual nature of remittance and the provisions of Paragraph 4, Article 2 of the Regulations for Declaration.
+
+The settlement of FX swap transactions under Subparagraph 2 of Paragraph 1 hereof and cross currency swap transactions under Subparagraph 5 of Paragraph 1 hereof shall be included in the next-day "Daily Transaction Report".
+
+### Article 32
+
+(Foreign Exchange Derivatives Not Involving NTD Exchange Rate)
+
+Authorized banks shall comply with the following rules when engaging in the foreign exchange derivative transactions not involving NTD exchange rate:
+
+1.Foreign currency margin trading:
+
+(1)Shall not be conducted with foreign currency loans.
+
+(2)Without the approval of the Bank, authorized banks shall not conduct transactions under this subparagraph by the discretionary account service nor "joint account". Regulations governing the discretionary account service will be separately prescribed by the Bank.
+
+(3)Authorized banks shall not accept term deposits or other collaterals under a third party's name as the collateral for foreign currency margin trading.
+
+2.In carrying out foreign exchange forward and swap transactions between foreign currencies, when the contract is rolled over, the price shall be reset based on the current market exchange rate rather than the original contract rate.
+
+3.In carrying out foreign exchange swaps and cross currency swap transactions between foreign currencies, the appropriate "remittance classification and code number" shall be indicated on the other relevant transaction certificates and included in the daily transaction report at the time of settlement.
+
+4.Credit default swap and credit default option:
+
+(1)Counterparties shall be limited to legal entities who are also professional customers.
+
+(2)Where the counterparty is a domestic customer, unless the competent authority agrees it could be a protection seller, the domestic customer should be the protection buyer in a credit derivatives transaction.
+
+(3)Where a domestic customer is the protection seller in a credit derivatives transaction, the reference entity shall meet the requirements set out by its competent authority and shall not be a government or company in Mainland China Area or any company directly or indirectly owned by which with at least 30% shares.
+
+(4)Where the authorized bank itself is the protection seller and the reference entity is an interested party, the terms of the transaction shall not be more favorable than those offered to other counterparties in the same category, and shall comply with the relevant regulations.
+
+(5)Where the products under this subparagraph are combined into a structured product, the counterparties shall be limited to professional institutional investors and foreign legal entities who are also professional customers.
+
+5.Where the contracts under this subparagraph are combined into a structured product, restrictions and rules applicable to individual products and underlyings shall be followed.
+
+6.An authorized bank shall not switch the foreign exchange derivatives business originally offered by itself to providing information and consulting services on offshore financial derivatives.
+
+Unless it is otherwise provided by the Bank, foreign exchange derivative products not involving NTD exchange rate offered by an authorized bank shall not be linked to the following:
+
+1.Asset securitization related securities or products.
+
+2.Unlisted individual stocks, stock indices or exchange-traded funds in Mainland China Area.
+
+3.Securities privately placed domestically or abroad.
+
+4.Certificates of beneficial interest that are issued overseas by domestic securities investment trust enterprises and are not listed for trading on a securities market.
+
+5.Any Taiwan stock index compiled by a domestic or foreign institution and related financial products, but this restriction shall not apply to an index compiled by TPEX or TWSE, either singly or in collaboration with another institution.
+
+### Article 33
+
+(Other Rules for Foreign Exchange Derivatives Business)
+
+For authorized banks that intend to offer a foreign exchange derivative product that is not yet approved by the Bank, the Bank may, if deemed necessary, specify separately in the letter of approval matters of compliance for such product, or authorize the "Taipei Foreign Exchange Market Development Foundation" ("the Foundation") to coordinate with "R.O.C. Bankers Association" ("Bankers Association") to draw up guidelines for the product with respect to the product eligibility criteria, scope of transaction and other related matters, and report those guidelines to the Bank for approval. The same procedure shall be followed for any changes thereto.
+
+An authorized bank shall act in accordance with these Regulations, and in addition, other applicable rules and the guidelines mentioned in the preceding paragraph when conducting the foreign exchange derivatives business.
+
+### Article 34
+
+(Obligation to Disclose Interest Rates)
+
+For foreign currency deposit business, an authorized bank shall follow international business practice in determining and posting its own minimum deposit interest rates. The applicable interest rates for maturities not posted shall be negotiated between the authorized bank and its customer with reference to other posted rates with similar maturities. Interest rates that are subject to negotiation shall be announced publicly.
+
+The announcement in the preceding paragraph shall be displayed in the business hall, and also posted on a publicly accessible website or disclosed to the general public through other means.
+
+### Article 35
+
+(Matters of Compliance for Automatic Teller Machines)
+
+Authorized banks that set up foreign currency automatic teller machines shall limit the accumulated cash withdrawals to an equivalent of USD 10,000 per account per day.
+
+### Article 36
+
+(Issuance of Foreign Currency Negotiable Certificates of Deposits)
+
+Authorized banks shall issue foreign currency Negotiable Certificates of Deposits in book entry form. The Bank will prescribe separately relevant matters of compliance, method of issuance and reporting requirements.
+
+### Article 37
+
+(Obligation to Disclose Exchange Rates)
+
+The exchange rates used for foreign exchange transactions between a banking enterprise and a customer may be solely determined by the banking enterprise.
+
+The NTD exchange rate for a single foreign exchange transaction with a customer for an amount of less than US$10,000 shall be posted at the banking enterprises' business premises before 9:30 AM on each business day.
+
+### Article 38
+
+(Acceptance and Identification of Foreign Currency Cash)
+
+Banking enterprises that engage in the purchase and sale of foreign currency cash shall exchange foreign currency cash according to their quoted prices and shall enhance the ability to identify counterfeit foreign currency notes, and handle counterfeit notes in accordance with the Regulations Governing the Handling of Counterfeit and Altered Foreign Currency Notes and Coins.
+
+### Article 38-1
+
+(Foreign currency loan business)
+
+An authorized bank shall conduct foreign currency loan business in accordance with the Directions Governing Banking Enterprises for Operating Foreign Exchange Business and other provisions of the Bank.
+
+Unless otherwise stipulated by the Bank, foreign currency loans may not be converted into NTD. However, foreign currency loans provided for export purposes are exempt from the above restriction after export of the goods.
+
+### Article 39
+
+(Foreign Currency Settlement Business)
+
+A foreign currency settlement bank authorized by the Bank shall comply with the following provisions when conducting foreign currency settlement business:
+
+1.Unless with permission of the Bank, a foreign currency settlement bank shall not, at its own discretion, suspend the business during the period of operation; it shall forthwith inform the Bank if it is unable to operate normally or it suspends/ terminates the participation of participants in the foreign currency settlement system (hereinafter referred to as participating entities).
+
+2.A foreign currency settlement bank shall readily provide the Bank with relevant information as required by the Bank and deliver statistical reports to the Bank periodically.
+
+3.A foreign currency settlement bank shall set a fee schedule and report it to the Bank for record; the same provision applies when a foreign currency settlement bank changes its fee schedule.
+
+4.A foreign currency settlement bank shall setup operational guidelines for agreements with participating entities and report the same to the Bank for record. For participating entities that violate the terms of the contract with a foreign currency settlement bank and disrupt the smooth operation of the foreign currency settlement system, the foreign currency settlement bank shall take actions pursuant to the terms of the contract and report those violations to the Bank according to the circumstances of violations.
+
+5.A foreign currency settlement bank shall not refuse the Bank's request to examine its businesses or review related data.
+
+6.Where a foreign currency settlement bank provides intraday overdraft pledged by certificates of deposits issued by the Bank, central government bonds or other collateral of participating entities, it shall establish related operating procedures and report them to the Bank for record.
+
+7.A foreign currency settlement bank shall agree with clearing institutions and participant entities not to revoke payment instructions once settled.
+
+### Article 40
+
+(Foreign currency trust business)
+
+When an authorized bank concurrently conducting the trust business engages in the businesses provided in Article 17 and Article 17-1 herein, the authorized bank shall abide by the following provisions, unless it is otherwise stipulated or approved by the Bank:
+
+1.The delivery and return of trust assets and the receipts and payments of other related funds shall be made in foreign currency or foreign currency denominated property.
+
+2.The receipts and payments of trustee related funds shall be effected through a foreign currency trust asset account opened by the trustee at an authorized bank.
+
+3.The utilization of trust assets shall comply with the provisions set forth by the competent authority and be limited to foreign currency denominated products, and in addition, shall not involve or be linked to NTD interest rate or exchange rate index.
+
+4.Reports shall be submitted in accordance with the Bank-prescribed format.
+
+### Article 41
+
+(Issuance of Foreign Exchange Bank Debentures)
+
+When an authorized bank issues foreign exchange bank debentures, the authorized bank shall retain funds raised therefrom in foreign currency, and if necessary, convert the funds into NTD by means of swap or CCS transactions. The authorized bank shall also submit reports to the Bank according to the Bank-prescribed format.
+
+Unless it is otherwise provided by the Bank, foreign exchange bank debentures issued inside the ROC by an authorized bank that has been approved by the Bank to engage in foreign exchange derivatives business may be linked to a derivative or a structured note. However the derivatives that the bank debenture is linked to shall be limited to those already approved by the Bank under Article 12 herein and may not be linked to NTD exchange rate, a credit event, or underlyings provided in Subparagraphs 1~5, Paragraph 2 of Article 32 herein.
+
+The provisions of Paragraph 1 hereof do not apply to an authorized bank that issues foreign exchange convertible bank debentures, foreign exchange exchangeable bank debentures or other foreign exchange bank debentures involving equity outside the ROC shall follow the Regulations Governing Issuance of Bank Debentures by Banks, Regulations Governing the Offering and Issuance of Overseas Securities by Issuers and other provisions of the Bank.
+
+### Article 42
+
+(Operation during Non-standard Business Hours)
+
+To engage in foreign exchange business during non-standard business hours, an authorized bank shall comply with the following rules:
+
+1.The amount of each foreign exchange settlement shall be limited to NTD 500,000 or its equivalent in foreign currency; and
+
+2.Foreign exchange transactions conducted during non-standard business hours shall be included in the same-day or next-day "Daily Transaction Report" and "Daily Foreign Exchange Position Report" in accordance with its description of operations submitted or the Bank’s regulations.
+
+The provisions of Subparagraph 1 of the preceding paragraph shall apply mutatis mutandis to the business of purchase and sale of foreign currency cash and traveler's checks conducted by non-authorized banks during non-standard business hours, and to the outward and inward remittance business conducted by Chunghwa Post during non-standard business hours.
+
+Transactions conducted by non-authorized banks under the business mentioned in the preceding paragraph during non-standard business hours shall be included in the same-day or next-day "Daily Transaction Report."
+
+### Article 43
+
+(Interbank Transactions)
+
+An authorized bank may purchase or sell foreign exchange on the foreign exchange market or with the Bank, and may also hold long or short positions within the limits set by itself.
+
+An authorized bank participating in the interbank foreign exchange market shall comply with the rules formulated by the Foundation with reference to international customs after coordination with Bankers Association and reporting to the Bank.
+
+### Article 44
+
+(Total Transaction Position)
+
+An authorized bank shall set its total position limits for transactions between NTD and foreign currency, which shall be submitted along with the resolution of the board of directors (approval documents issued by the head office or regional headquarters of a foreign bank) to the Department of Foreign Exchange of the Bank for prior consent.
+
+The combined position of NTD non-deliverable forwards and NTD exchange rate options shall not exceed one-fifth of the afore-mentioned total position limit.
+
+### Article 45
+
+(Deleted)
+
+### Article 46
+
+(Reporting of Foreign Exchange Position)
+
+Authorized banks shall fill out "Foreign Exchange Position Daily Reports" for all foreign exchange transactions involving NTD on a daily basis, and submit the reports to the Department of Foreign Exchange of the Bank on the following business day. Foreign exchange positions reported by an authorized bank shall be consistent with those recorded on its internal books.
+
+Authorized banks shall report the estimated foreign exchange positions for the day to the Department of Foreign Exchange of the Bank by telephone at the end of each business day.
+
+### Article 47
+
+(Reporting of Large Transaction Data)
+
+When an authorized bank conducts NTD spot (excluding foreign exchange settlement related to export or import of goods with shipping documents), forward, swap, or cross currency swap transactions with customers, or when Chunghwa Post conducts NTD spot transactions with customers, and the transaction value is equivalent to or exceeds USD 1 million, the transaction data shall be transmitted to the Bank's Foreign Exchange Data Processing System by 12:00 PM on the next business day following the contract date.
+
+When the overseas branches of domestic authorized banks engage in NTD non- deliverable forwards with onshore and offshore legal entities, offshore financial institutions and overseas branches of other authorized banks as approved by the competent authority and the value of transaction is equal to or over an equivalent of USD 1 million, transaction data shall be transmitted to the Bank's Foreign Exchange Data Processing System before 12:00 noon on the next business day following the contract day.
+
+### Article 47-1
+
+(Connection with Foreign Exchange Data Processing System)
+
+A banking enterprise shall connect with the Bank's Foreign Exchange Data Processing System by one of the means below and comply with the Directions concerning Financial Institutions Using the Bank's Foreign Exchange Data Processing System:
+
+1.If the banking enterprise opts to develop its own server for the server-to-server connection, it shall follow the inter-agency specifications for the connection operation of the Foreign Exchange Data Processing System.
+
+2.If the banking enterprise opts to use the Bank's Foreign Exchange Data Reporting System, it shall follow the user manual of the Foreign Exchange Data Reporting System software and comply with the Directions Concerning Financial Institutions Using the Bank's Foreign Exchange Data Reporting System.
+
+### Article 48
+
+(Submission of Reports)
+
+When submitting reports and forms prescribed in these Regulations, banking enterprises shall attach relevant supporting documents and appendices.
+
+The Department of Foreign Exchange of the Bank may request banking enterprises to fill out additional reports and forms if necessary.
+
+The relevant timetable for the banking enterprises to transmit reports to the Department of Foreign Exchange of the Bank is as follows:
+
+1.Authorized banks and Chunghwa Post:
+
+(1)Daily Report: Before 12:00 noon of the following business day.
+
+(2)Monthly Report: Within ten days after the end of each month.
+
+2.Non-authorized banks, credit cooperatives, and credit departments of farmer's or fishermen's associations shall submit daily reports on purchase and sale of foreign currency cash and traveler's checks to the Department of Foreign Exchange of the Bank before 12:00 noon on the following business day.
+
+The formats, contents, filling instructions of the reports prescribed in the preceding three paragraphs and submitting methods of the reports and its attachments shall conform to the Directions Governing Banking Enterprises in Conducting Foreign Exchange Business separately provided by the Bank as well as other relevant regulations.
+
+### Article 49
+
+(Examination)
+
+To examine reports and forms submitted by banking enterprises, the Bank may, if deemed necessary, dispatch personnel to inspect the relevant account books and documents of banking enterprises, or may request banking enterprises to provide truthful financial reports or other relevant information within a prescribed period of time.
+
+## Chapter 4 Management of Renminbi Business
+
+### Article 50
+
+(Application for and Operation of Renminbi Settlement Bank)
+
+An authorized bank that applies to the Bank for approval to become a Renminbi settlement bank in Taiwan area (hereinafter referred to as "RMB settlement bank") and to engage in Renminbi clearing and settlement business in Taiwan area (hereinafter referred to as "RMB settlement business") shall first obtain approval from the regulatory authority in Mainland China Area to engage in RMB clearing and settlement and submit the following documents:
+
+1.Documents evidencing the approval described above; and
+
+2.Documents describing the categories and contents of RMB settlement business and related risk management mechanisms (including its head office’s guarantee to render assistance, assume all payment liabilities and provide liquidity support in the event of liquidity and/or payment crisis).
+
+A RMB settlement bank shall comply with the following rules in addition to the provisions in Article 39 herein:
+
+1.Draw up a template for RMB settlement agreement to be signed with financial institutions, and submit it to the Bank for prior approval.
+
+2.Provide RMB related clearing and settlement services in accordance with the approved contents of the template agreement mentioned in the preceding subparagraph. Provide sufficient supply of RMB bills and properly handle their repatriation.
+
+3.Provide a list of financial institutions that have entered RMB settlement agreements and settlement-related statistical data requested by the Bank.
+
+4.Engage in RMB settlement business during the concession period granted by the Bank with reference to the authorization document mentioned in the first subparagraph of the previous paragraph.
+
+### Article 51
+
+(Signing of Renminbi Settlement Agreement)
+
+Both domestic and foreign financial institutions may enter RMB settlement agreements with the RMB settlement bank; in the case of domestic financial institutions, the financial institution must be a banking enterprise that has been approved by the Bank to engage in foreign exchange or RMB business.
+
+### Article 52
+
+(Matters of Compliance for Renminbi Business)
+
+Banking enterprises conducting RMB business shall comply with the following rules in addition to these Regulations and other rules governing foreign exchange business:
+
+1.Unless otherwise regulated by the Bank, open a RMB settlement account with the RMB settlement bank before engaging in RMB business; the same provision shall apply to a banking enterprise that has opened a RMB nostro account with an agent bank in Mainland China Area (hereinafter referred to as "agent bank") and has submitted the signed settlement agreement to the Bank for approval and record.
+
+2.Cross-border trade in connection with RMB business involving the transfer of funds into and out of Mainland China Area shall be cleared and settled through the RMB settlement bank or an agent bank.
+
+3.A banking enterprise that has already been approved by the Bank to engage in purchase and sale of RMB bills shall carry out this business in accordance with these Regulations.
+
+4.In providing RMB purchase or sale services to natural persons, the amount is limited to RMB 20,000 for cash transaction per person per transaction, and RMB 20,000 for non-cash transaction per person per day.
+
+5.In providing RMB bills withdrawal through a foreign currency ATM, the amount of each withdrawal per person shall not exceed 20,000 RMB.
+
+6.In providing natural persons with the service of RMB remittance to Mainland China Area, the customers shall be limited to individuals with a Republic of China Citizenship ID Card and the transaction must be carried out through the RMB settlement bank or an agent bank; in addition, the remittance purpose shall fall under current account, and the amount of remittance shall not exceed 80,000 RMB per person per day.
+
+7.Other rules set out by the Bank for proper management of RMB business.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 53
+
+(Mutatis Mutandis Application to Branches of Mainland China Banks in Taiwan)
+
+The provisions of these Regulations regarding foreign banks shall apply mutatis mutandis to branches of Mainland China banks established in Taiwan area under the approval of the FSC.
+
+### Article 54
+
+(Administrative Enforcement)
+
+The Bank may take action pursuant to the provisions of the Administrative Enforcement Law against any banking enterprise that fails to operate in accordance with the provisions of these Regulations.
+
+### Article 55
+
+(Date of Implementation)
+
+These Regulations shall come into force on the date of promulgation.
+
+## History
+
+1.Promulgated on July 23, 2003
+
+2.Amended on May 26, 2004
+
+3.Amended on March 9, 2005
+
+4.Amended on June 15, 2009
+
+5.Amended on December 27, 2010; effective from December 27, 2010
+
+6.Amended on January 25, 2013; effective from January 25, 2013
+
+7.Amended on March 7, 2014
+
+8.Amended on May 22,2015
+
+9.Amended on Septemter 9, 2016
+
+10.Amended on January 4, 2018
+
+11.Amended on Fabruary 15, 2019
+
+12.Amended on January 28, 2021
+
+13.Amended on July 15, 2025

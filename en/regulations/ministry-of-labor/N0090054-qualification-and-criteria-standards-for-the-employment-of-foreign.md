@@ -1,0 +1,183 @@
+---
+title: "Qualification and Criteria Standards for the Employment of Foreign Professionals as Teachers by Short-term Supplementary Learning Centers"
+title_zh: "短期補習班聘僱外國專業人才從事教師工作資格及審查標準"
+identifier: "N0090054"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-03-15
+last_amended: 2022-10-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090054"
+retrieved: 2026-10-12
+---
+
+# Qualification and Criteria Standards for the Employment of Foreign Professionals as Teachers by Short-term Supplementary Learning Centers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090054-qualification-and-criteria-standards-for-the-employment-of-foreign.md](../../../zh/regulations/ministry-of-labor/N0090054-qualification-and-criteria-standards-for-the-employment-of-foreign.md)) is authoritative.
+
+## Article 1
+
+The Standards are enacted in accordance with Paragraph 2, Article 5 of the Act for the Recruitment and Employment of Foreign Professionals (hereinafter referred to as the Act).
+
+## Article 2
+
+To protect the right to work of Taiwan nationals based on the principle of equality and reciprocity, the Ministry of Labor (hereinafter referred to as the MOL) approves the number of foreign professionals to be hired by employers in consultation with the Central Competent Authority after considering the domestic employment market, industry and operational scale of employers, staffing plans, business performance, contributions to the national economy and social development.
+
+## Article 3
+
+“Professional work” prescribed in Item 3, Subparagraph 4, Article 4 of the Act refers to the following work engaged in by foreign professionals:
+
+\1. Technical creation or technical teaching in the digital content industry:
+
+(1) Digital gaming industry: Home gaming software, computer gaming software or smart-device gaming software.
+
+(2) Computer graphics and animation industry.
+
+(3) Sensory technology industry: Virtual reality (VR) software/hardware development technologies, augmented reality (AR) software/hardware development technologies, mixed reality (MR) software/hardware development technologies, interactive control applications software/hardware development technologies or optical sensor applications software/hardware development technologies.
+
+(4) Teaching in other digital content industries with substantial contributions to domestic talent education approved by the Central Competent Authority in consultation with the Ministry of Education.
+
+\2. Full-time foreign language teaching work.
+
+\3. Teaching with specialized knowledge or skills approved by the Central Competent Authority in consultation with the Ministry of Education.
+
+## Article 4
+
+When employed to engage in work prescribed in Subparagraph 1 of the preceding Article, foreign professionals shall have the monthly wage or remuneration prescribed in Article 8 of the Qualifications and Criteria Standards for Foreign Nationals Undertaking the Jobs Specified under Subparagraphs 1 to 6, Paragraph 1, Article 46 of the Employment Service Act and meet one of the following qualifications:
+
+\1. Projects in which foreign professionals are involved have won international awards.
+
+\2. Have worked in the foreign digital content industry for four years or more and taught in international teaching institutions for two years or more.
+
+\3. Other world-renowned professionals approved by the MOL in consultation with the Central Competent Authority.
+
+## Article 5
+
+Employers hiring foreign professionals referred to in Subparagraph 2 or Subparagraph 3, Article 3 shall be short-term cram schools registered in accordance with the Supplementary Education Act.
+
+Employers hiring foreign professionals referred to in Subparagraph 1, Article 3 shall conform to the above regulation and meet the following requirements:
+
+\1. Be a corporation.
+
+\2. Have signed a cooperation contract with an international teaching institution. This provision does not apply to those deemed by the MOL, in consultation with the Central Competent Authority, to have made a substantive contribution to the cultivation of domestic talent.
+
+## Article 5-1
+
+When employed to engage in work prescribed in Subparagraph 2, Article 3, the teaching-related weekly working hours of foreign professionals shall be no less than 14 hours and meet one of the following qualifications:
+
+\1. Have attained the age of majority.
+
+\2. Graduated from colleges or above.
+
+\3. The language to be taught by the foreign teacher is the official language used in the country specified in the passport of the teacher.
+
+If the foreign nationals mentioned in the preceding paragraph have not obtained a bachelor‘s degree, they are required to have a qualification certificate for language teaching.
+
+When the foreign nationals mentioned in Paragraph 1 are hired by 2 or more employers within the valid period of their employment permit according to Paragraph 1, Article 53 of the Employment Service Act, their weekly working hours in teaching-related work for each employers shall not be less than 6 hours.
+
+For the foreign nationals mentioned in Paragraph 1 and the preceding paragraph, their total weekly working hours in teaching-related work shall not exceed 32 hours.
+
+## Article 6
+
+Where a foreign professional is engaged in work prescribed in Article 3, none of the following circumstances must not have occurred in the three years prior to the application date:
+
+\1. He or she has engaged in work without obtaining an employment permit;
+
+\2. He or she has worked or is currently working for an employer other than the employer who applied for the permit;
+
+\3. He or she has engaged in work not specified in the employment permit, without being asked to do so by the employer;
+
+\4. He or she was absent from work without leave or a justifiable reason for three consecutive days, during which time they could not be contacted;
+
+\5. He or she has refused to undergo a health examination or provided a false specimen;
+
+\6. He or she has been found in serious violation of Articles 48.2 and 48.3, or 49 of the Employment Service Act;
+
+\7. He or she has refused to submit information as required by law and regulations, or has submitted false information in violation of said law and regulations; or
+
+\8. He or she has been found in serious violation of laws and regulations in the Republic of China.
+
+## Article 7
+
+Unless otherwise specified in the Act, employers shall apply to the MOL for permits to employ foreign professionals to engage in work prescribed in Article 3.
+
+Before approving the permit referred to in the preceding paragraph, the MOL may consult the Central Competent Authority.
+
+## Article 8
+
+When applying for permits to employ foreign professionals to engage in work prescribed in Article 3, employers shall submit the following documents:
+
+\1. Application form.
+
+\2. Copy of the applicant or company representative’s ID, the company registration certificate and permit for specially permitted businesses.
+
+\3. Copy of the employment contract.
+
+\4. List of foreign professionals to be employed and copy of their passports or alien resident certificates.
+
+\5. Original receipt of the review fee.
+
+\6. Other documents required by the MOL.
+
+If the documents referred to in the preceding paragraph are from foreign countries, the MOL may request verification by overseas embassies.
+
+## Article 9
+
+When an employer deems it necessary to continue to employ a foreign professional to engage in work prescribed in Article 3, they shall apply to the MOL for an extension of the employment permit with the required documents prescribed in Subparagraphs 1, 3 through 6, Paragraph 1 of the preceding Article submitted a minimum of four months prior to the expiration of the employment permit. If the duration of the employment permit is less than six months, the employer shall apply after two-thirds of the duration of the employment permit is completed.
+
+When the employer fails to apply within the period of time prescribed in the Standards, he/she may be permitted by the MOL to submit the application within a further 15-day period, on one occasion only.
+
+## Article 10
+
+When an employer applies to hire a foreign professional, the ministry will inform the applicant which items to submit online as part of the application.
+
+In accordance with the previous paragraph, employers applying for a permit to hire foreign professionals should do so online, other than when they have a valid reason for not doing so.
+
+Employers applying in accordance with the previous two paragraphs should retain the original written copy of their application documents for a minimum of five years.
+
+## Article 11
+
+Employers may exclude certificates from the documents submitted as part of an application for a permit to employ foreign professionals when the MOL can obtain such certificates granted by government agencies (bodies) or state-owned businesses via the internet.
+
+The exempted documents referred to in the preceding paragraph will be announced by the MOL.
+
+## Article 12
+
+When an employer applies for a permit to employ a foreign professional and one of the following circumstances pertain, the MOL shall not issue the employment permit or extend all or part of the employment permit:
+
+\1. The employer provides false data.
+
+\2. The foreign professional fails the health examination organized in accordance with the Regulations Governing Management of the Health Examination of Employed Aliens prescribed by the Central Competent Authority in charge of health and welfare.
+
+\3. The employer’s application has not been made in conformity with the relevant requirements and he/she fails to provide necessary supplementary information and/or rectifications thereof within a specified time period.
+
+\4. The foreign professional faces one of the situations prescribed in Article 6.
+
+\5. Other than the above, the employer has violated the Standards.
+
+## Article 13
+
+The formats of documents and forms prescribed in the Standards shall be prescribed by the MOL.
+
+## Article 14
+
+The qualifications, procedures, and other related matters for residents of Hong Kong or Macao employed to engage in work prescribed in Item 3, Subparagraph 4, Article 4 of the Act, shall be governed, mutatis mutandis, by the provisions of Article 2 through Article 12.
+
+## Article 15
+
+The Standards come into effect on the date the Act is implemented
+
+With the exception of articles amended and issued on October 25, 2021, which were implemented on October 25, 2021, other amended articles of the Standards are implemented on the day of issue.
+
+## History
+
+1.Promulgated on March 15,2018
+
+2.Amended on October 25, 2021
+
+3.Amended on October 27, 2022

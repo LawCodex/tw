@@ -1,0 +1,193 @@
+---
+title: "Enforcement Rules of the Name Act"
+title_zh: "姓名條例施行細則"
+identifier: "D0030012"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞戶政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1953-06-20
+last_amended: 2024-11-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0030012"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Name Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0030012-enforcement-rules-of-the-name-act.md](../../../zh/regulations/ministry-of-the-interior/D0030012-enforcement-rules-of-the-name-act.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are formulated in accordance with the regulations in Article 16 of the Name Act (hereinafter referred to as "this Act").
+
+## Article 2
+
+When a national does Birth Registration or Initial Household Registration, it must be verified that his/her real/legal name is lawfully registered.
+
+A foreign national or stateless person applying for naturalization to the Republic of China (below, the “R.O.C.”) or who is to marry an R.O.C. national, shall confirm his or her Chinese name in written form on the Marriage Registration; his or her children’s Chinese names are processed in accordance with related laws.
+
+A Chinese-language name in accordance with the preceding paragraph may be taken in the form of an original Chinese name or a transliteration.
+
+The Chinese name of a foreign national or stateless person who undergoes the naturalization process as the spouse of an R.O.C. national shall be based on the spouse’s name in accordance with the R.O.C. national household registration record.
+
+The Chinese name of a foreign national or stateless person, who undergoes naturalization while married to an R.O.C. national before the permit, shall be based on the name used when the application was made for naturalization.
+
+## Article 3
+
+The real/legal name of a national registered in a household shall be identified by the National Identification Card. In contrast, the real/legal name of a person under the age of fourteen can be identified by the household certificate or the household registration transcript as a substitute.
+
+With a person who applies for naturalization or restoration of nationality, before his/her household registration, his/her real/legal name shall be identified by the permit of naturalization or restoration of nationality. The real/legal name of an R.O.C.（Taiwan） national residing overseas without household registration in the R.O.C. may be identified by one of the following documents:
+
+\1. Passport.
+
+\2. Overseas Compatriot Identity Certificate.
+
+\3. Overseas Compatriot Registry Certificate.
+
+\4. Nationality Certificate.
+
+\5. A credential containing his/her formal Chinese name, and certified by an R.O.C. embassy, consulate, representative office, or office (hereinafter referred to as the “Diplomatic Mission”):
+
+(1) Identity document or any other certificate issued by the R.O.C. government.
+
+(2) Certificate issued by an overseas school (non-military) registered (or filed) with an R.O.C. government agency.
+
+(3) Certificate issued by an overseas compatriot association registered with the competent government authority.
+
+(4) Other documents certified by a Diplomatic Mission.
+
+## Article 4
+
+If a person applies for a surname alteration, adoption of spouse’s surname, restoration to original surname, alteration of given or full name, resumption of traditional Indigenous full name, resumption of Chinese full name, alteration to Chinese full name, additional registration of full traditional name in Indigenous script or Romanized script, or additional registration of Romanized original foreign full name in accordance with the Act, then said person shall complete an application form, attaching the certificate (attachment exempt if the household registration record can be verified), and submit it for approval to the household registration office where the domicile is registered. For registration of a matter announced by the Ministry of the Interior and assigned by the Executive Yuan, the applicant may apply to a household registration office other than where his or her domicile is registered.
+
+Application by an R.O.C.（Taiwan） national residing overseas for the matters outlined in the preceding Paragraph shall be handled as follows:
+
+\1. Where the national currently has or has had household registration in the R.O.C., the application must be approved by the Diplomatic Mission, and then transferred for approval to the household registration office where he/she most recently had such registration.
+
+\2. Where the national has not had a household registration in the R.O.C., the application must be approved by a Diplomatic Mission.
+
+## Article 5
+
+Where the legal name of a citizen of the R.O.C. or the Chinese name of a foreign national or stateless person does not use Chinese characters found in the Ciyuan Chinese etymological dictionary, the Cihai Chinese encyclopedic dictionary, the Kangxi Dictionary, or the Guoyu Cidian compiled by the Ministry of Education, or such Chinese characters found in the Dictionary of Chinese Character Variants compiled by the Ministry of Education, as specified in the Act, then the party concerned may apply for corrections to commonly used characters or traditional Chinese characters found in the aforementioned dictionaries.
+
+## Article 6
+
+The use of a full traditional name by a Taiwan Indigenous person shall be done in accordance with the guidelines specified in Article 1, Paragraph 3 of the Act, and shall be based on that declared by the party concerned him/herself. Where the full traditional name is registered in the Indigenous script, it shall use the script and symbols listed in the Writing System of Taiwan Indigenous Language, as announced by the central competent authority for Indigenous affairs.
+
+The Romanized full name of a member of another ethnic minority shall be based on that declared by the party concerned him/herself.
+
+When a foreign national or stateless person is naturalized as an R.O.C. national, his or her original foreign name in Romanized spelling shall be recognized as declared by the party concerned.
+
+## Article 7
+
+The credentials for applying for alteration of a surname in accordance with the provisions in Article 8, Paragraph 1 of the Act are as follows:
+
+\1. The credentials for acknowledgment of paternity or revocation of such acknowledgment, where the application is made in accordance with Subparagraph 1.
+
+\2. The credentials of a court’s judgment document and the Court’s Final Verdict, where the application is made in accordance with Subparagraph 2; the credentials for an adoption termination agreement where the adoptive child is an adult.
+
+\3. The credentials that can sufficiently prove the correct family name, where the application is made in accordance with Subparagraph 3.
+
+\4. The credentials for surname alteration, where the application is made in accordance with Subparagraph 5.
+
+If the credentials mentioned above can be verified via the household registration record, they shall be approved by the household registration authorities.
+
+## Article 8
+
+The credentials or household registration record (verified by a household registration authority) for applying for a given name alteration in accordance with Article 9, Paragraph 1 of the Act are as follows:
+
+\1. Where the application is made in accordance with Subparagraph 1, certification documents from the public or private sector enterprise, entity (organization), association, or school.
+
+\2. Where the application is made in accordance with Subparagraph 2, the lineal ascendant household registration record shows the same name as verified by the household registration authority.
+
+\3. Where the application is made in accordance with Subparagraph 3, the applicant shall provide information verified by the household registration authorities in the locale (township, city, or district), showing that the applicant has the same surname and a given name as another person who is registered in the said locale.
+
+\4. Where the application is made in accordance with Subparagraph 4, an official document or bulletin carrying the arrest warrant data.
+
+\5. Where the application is made in accordance with Subparagraph 5, an official document proving that the applicant’s paternity has been acknowledged by the natural father or that the acknowledgment thereof has been revoked, or that the applicant has been adopted or his/her adoption has been annulled or terminated.
+
+\6. Where the application is made in accordance with Subparagraph 6, a household registration record is verified by a household registration authority, detailing how many times the name of the party concerned has been changed, and whether said party is an adult.
+
+\7. Where the application is made in accordance with Subparagraph 7, then in addition to meeting the guideline requirements in Article 1, Paragraph 3 of the Act, the party concerned must also submit documents showing that the central competent authority for Indigenous affairs or the Indigenous affairs service department established by the municipality, county, or city confirms that the full traditional name to be used by the party complies with his/her Indigenous culture and customs.
+
+## Article 9
+
+The credentials for applying for a real/legal name alteration in accordance with Article 10 of the Act are as follows:
+
+\1. Where the application is made in accordance with Subparagraph 1, the certificate carrying the real/legal name.
+
+\2. Where the application is made in accordance with Subparagraph 2, the monk or nun identity certificate, or the certificate of restoration to the laity.
+
+\3. Where the application is made in accordance with Subparagraph 3, the certificate issued by the organization where the person works.
+
+## Article 10
+
+Once any person who applies for any matter in Article 4 or Article 5 has registered and has the documents, said person may file with the originally-issued agency or competent authority concerned for registration of his/her full name alteration and alteration of registration.
+
+## Article 11
+
+Where application is being made in accordance with Article 11, Paragraph 1 of the Act for correction of full names on diplomas, work certificates, licenses, property certificates, and other certificates, an application form shall be completed, stating the reason for the difference between the name in such documents and the real/legal name, and attaching the Household Registration Transcript, a Household Certificate with detailed notes, or documents sufficient to prove that the two names belong to the same person, as well as the diplomas, work certificates, licenses, and other certificates upon which the names are to be corrected; such applications shall be submitted to each of the original issuing authorities or competent authorities for correction, re-marking, or replacement.
+
+## Article 12
+
+Where an application is being made in accordance with Article 11, Paragraph 1 of the Act to correct any real/legal name, an application form shall be completed, attaching such documents issued before the Act was enacted, including diplomas, work certificates, licenses, other certificates, or other documents sufficient to act as proof, to apply for correction to the household registration office where the domicile is registered.
+
+## Article 13
+
+(Deleted)
+
+## Article 14
+
+Before the May 20, 2015 amendments to the Act took effect and were promulgated, if a person applied for a surname alteration, adoption of spouse’s surname, restoration to original surname, alteration of given or full name, correction of real/legal name, resumption of traditional Indigenous full name, or resumption of Chinese full name, and no changes (corrections) were made to the names of the person’s spouse or child(ren), the household registration office shall, in accordance with its authority, update the household registration records of the person’s spouse and child(ren).
+
+After the household registration office updates said household registration records in accordance with its authority, it shall notify the person’s spouse and child(ren), if any, and request that they apply for a replacement of their National ID Card and Household Certificate simultaneously.
+
+## Article 15
+
+If an application stipulated in the Act does not comply with the rules, the receiving authority shall notify the applicant once to make corrections or reject the application in writing.
+
+## Article 16
+
+When the household registration office receives an application for a surname alteration, alteration of a given name, or alteration of the full name for a national fourteen years of age or older, said office shall check with the relevant authority to see if any of the circumstances specified in Article 15 of the Act exist.
+
+## Article 17
+
+These Enforcement Rules shall come into force from their date of promulgation.
+
+## History
+
+\1. Promulgated and enacted into force on June 20, 1953, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 32492.
+
+\2. Amended and promulgated on June 28, 1955, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 71748.
+
+\3. Amended and promulgated on May 10, 1958, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 8378.
+
+\4. Articles 5 to 8 amended and promulgated on October 19, 1961, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 67693.
+
+\5. Amended and promulgated on March 11, 1985, by Ministry of the Interior Order (74) Tai-Nei-Hu-Zi No. 298146.
+
+\6. Articles 4 to 7 and 9 to 11 amended and promulgated on February 12, 1992, by Ministry of the Interior Order (81) Tai-Nei-Hu-Zi No. 8174535.
+
+\7. Article 5, 6, 11, and 12 amended and promulgated on February 5, 1997, by Ministry of the Interior Order (86) Tai-Nei-Hu-Zi No. 8678274.
+
+\8. Article 5 amended and promulgated on October 18, 2000, by Ministry of the Interior Order (89) Tai-Nei-Hu-Zi No. 8965863.
+
+\9. Full text of 12 articles amended and promulgated on October 11, 2001, by Ministry of the Interior Order (90) Tai-Hu-Zi No. 9008838.
+
+\10. Full text of 14 articles amended and promulgated on January 29, 2004, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 0930065809; went into force from the day of promulgation.
+
+\11. Articles 4 and 5 amended and promulgated on March 21, 2008, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 0970044904.
+
+\12. Articles 3, 4, and 11 amended and promulgated on January 7, 2010, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 0980240949.
+
+\13. Articles 5, 6, and 10 amended and promulgated on April 11, 2011, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 1000065387.
+
+In accordance with Executive Yuan Announcement Yuan-Tai-Gui-Zi No. 1030128812, dated March 24, 2014, responsibilities belonging to the Executive Yuan Council of Indigenous Peoples as listed in Article 4, Paragraph 2 are, beginning March 26, 2014, the purview of the Council of Indigenous Peoples.
+
+\14. Full text of 17 articles amended and promulgated on November 18, 2015, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 1041204799; went into force from the day of promulgation.
+
+\15. Articles 4, 6, 8, and 13 amended and promulgated on November 28, 2024, by Ministry of the Interior Order Tai-Nei-Hu-Zi No. 1130244737.

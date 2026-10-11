@@ -1,0 +1,301 @@
+---
+title: "Regulations Governing the National Health Insurance Medical Care"
+title_zh: "全民健康保險醫療辦法"
+identifier: "L0060009"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-02-24
+last_amended: 2024-06-20
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060009"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the National Health Insurance Medical Care
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0060009-regulations-governing-the-national-health-insurance-medical-care.md](../../../zh/regulations/ministry-of-health-and-welfare/L0060009-regulations-governing-the-national-health-insurance-medical-care.md)) is authoritative.
+
+## Article 1
+
+The Regulations Governing the National Health Insurance Medical Care ( hereinafter referred to as “the Regulations”) are duly enacted pursuant to Paragraph 2 of Article 40 of the National Health Insurance Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The procedures of medical visits of beneficiaries, medical supervision, methods of provision of the insurance medical services, and other matters necessary for medical services under the National Health Insurance (hereinafter referred to as the “Insurance”) shall be governed by the Regulations.
+
+## Article 3
+
+The following documents shall be provided if a beneficiary receives medical treatment or gives birth at an Insurance-contracted hospital, clinic, or midwifery institution:
+
+\1. The National Health Insurance Card (hereinafter referred to as the “NHI Card”);
+
+\2. The National Identification Card or any other appropriate identification document.
+
+Notwithstanding, the above document may be exempted if the NHI Card is sufficient to establish the beneficiary’s identity.
+
+The document set forth in Subparagraph 2 of the preceding paragraph of a beneficiary under 14 years old may be substituted by a copy of a household registration certificate, any other identification documents, or an affidavit.
+
+A beneficiary shall provide the outpatient prescription prescribed by the contracted hospital or clinic in addition to the documents listed in Paragraph 1 when he or she visits a contracted medical care institution not listed in Paragraph 1 to receive medical service.
+
+Where a beneficiary requires home nursing care service, the beneficiary shall first be evaluated and assessed by a physician of a contracted medical care institution, who should issue a home nursing care instruction order according to which the contracted medical care institution shall directly make an application to a contracted medical care institution which has a home nursing service department.
+
+## Article 4
+
+Where a beneficiary undertakes a medical visit and fails to produce the NHI Card or identification document in a timely manner, the contracted medical care institution shall first provide medical service, charge the Insurance medical expenses, and issue a receipt according to the Enforcement Rules of the Medical Care Act.
+
+If a beneficiary receives medical care service according to the preceding paragraph, he or she shall submit the required document within ten days (excluding weekends and public holidays) from the date when he or she undertakes the medical visit in question or before he or she is discharged from the hospital. The contracted medical care institution shall return the beneficiary for the Insurance medical expenses after deducting the co-payments made by the beneficiary.
+
+## Article 5
+
+Where a beneficiary fails to submit the supplementary supporting document(s) before the deadline set forth in the preceding article, which cannot be attributed to the beneficiary, the beneficiary may apply to the Insurer for reimbursement of self-advanced medical expenses pursuant to Article 56 of the Act by submitting the itemized statement of medical expenses and receipt thereof issued by the contracted medical care institution.
+
+## Article 6
+
+A contracted hospital or clinic shall pass the outpatient prescription to a beneficiary who has the right to decide whether to select the contracted hospital or clinic where he or she receives the current medical service or any other contracted medical care institution in compliance with the law to fill the prescription or conduct laboratory testing, diagnostic examination, or disposal.
+
+Where a contracted hospital or clinic needs to transfer a beneficiary to another contracted medical care institution for dosage dispensation, laboratory testing, diagnostic examination, or disposal due to limited staff, facilities, equipment, or expertise, its physician shall issue an outpatient prescription to the beneficiary for the latter to receive medical service in another contracted medical care institution in compliance with the law or receive a referral for medical service according to the Regulations Governing the National Health Insurance Referral.
+
+A referral form may be issued to a beneficiary for referral of ancillary service of a laboratory testing or diagnostic examination in the preceding paragraph, or an outsourcing medical examination form may alternatively be issued whereby an outsourced examiner will test the collected specimens.
+
+## Article 7
+
+Where a contracted medical care institution provides medical service for a beneficiary, it shall check the required document set forth in Paragraph 1 and Paragraph 2 of Article 3. In the event of any discrepancy, the contracted medical care institution shall refuse to treat a patient in the capacity of a beneficiary. Notwithstanding, a chronic patient who requires long-term medication and is with any of the following special circumstances but cannot physically pay the medical visit may, provided that this is for receiving the same prescription, authorize another person to state his or her medical condition to a physician, who shall only prescribe the same prescription after making sound judgment based on his or her expertise and fully grasping the state of the patient’s condition:
+
+\1. Immobility determined by a physician or supported by an affidavit provided by the trustee;
+
+\2. The beneficiary is at sea for engagement in distant water fisheries operations or services on a vessel on an international route, which is supported by an affidavit submitted by the trustee;
+
+\3. Has been placed under guardianship or assistantship by a court’s order, and the trustee has provided a copy of the court order;
+
+\4. Has been determined by a physician to be a patient with dementia; or
+
+\5. Any other special circumstance determined by the Insurer.
+
+## Article 8
+
+Where a contracted medical care institution provides diagnostic and treatment services, such as outpatient, emergency, inpatient care or re-checks the NHI Card, it shall return the NHI Card to the cardholder after recording the medical record and the medical visit category (hereinafter referred as the “MVC”) of the cumulative medical-visit serial number (hereinafter referred as the “CMVSN”) into the NHI Card.
+
+If the medical service in the preceding paragraph is given during the same course of treatment, it shall be recorded only once for the MVC of CMVSN. In addition, if the same physician simultaneously provides other treatments, the recording should not be duplicated.
+
+The same course in the preceding paragraph refers to continuous treatment that is given within a specific period with the items listed below:
+
+\1. Simple wounds: wound dressing change within 2 days.
+
+\2. The therapeutic course is within 30 days from the first day of treatment: hemodialysis, peritoneal dialysis, community organization rehabilitation therapy for mental illness, psychotherapy for psychiatric illness, psychiatric activity therapy, psychiatric occupational therapy, cancer radiotherapy, hyperbaric oxygen therapy, immunotherapy, home nursing care or any other item designated by the Insurer.
+
+\3. The therapeutic course has no more than six treatments and is within 30 days from the first day of treatment: western medicine rehabilitation therapy, photodynamic therapy, the same injection of non-chemotherapy drugs, removal of tartar of the same tooth treatment, operative dentistry of the same tooth (tooth filling), same tooth extraction, removal of stitches after operation, electrical stimulation treatment for urinary incontinence, pelvic muscle physical therapy, pulmonary rehabilitation traditional Chinese medicine acupuncture, fractures, wounds and restoration of dislocated bone of the same diagnosis that needs continuous treatment, and any other item designated by the Insurer;
+
+\4. The therapeutic course has no more than six treatments and is from the first day of treatment to the end of next month: western medicine rehabilitation for children under 9 years old.
+
+\5. The therapeutic course is within 60 days from the first day of treatment: endodontic therapy in the same location.
+
+Where the last day of treatment of the same therapeutic course is a weekend or public holiday, the last day of treatment should be automatically extended to the next business day.
+
+## Article 9
+
+The contracted medical care institution shall record the medical records in the NHI Card of a beneficiary, which should exclude the MVC of CMVSN if the beneficiary has any of the following circumstances:
+
+\1. The beneficiary is discharged from the hospital;
+
+\2. The beneficiary receives the second or subsequent treatment in the same therapeutic course;
+
+\3. The beneficiary receives the scheduled examination, laboratory testing, treatment, surgery, or referral medical examination; or
+
+\4. The beneficiary receives the medical service set forth in Paragraph 4 of Article 3.
+
+If the related treatment is required during the medical services set forth in Subparagraph 3 of the preceding paragraph due to the need of the beneficiary’s medical condition, such treatment may be deemed as another diagnosis treatment and recorded as the MVC of CMVSN for one time.
+
+## Article 10
+
+The contracted hospital shall check the NHI Card of a beneficiary during the beneficiary’s hospital admission procedures and return the NHI Card to the beneficiary after checking it.
+
+During an inpatient's hospitalization, if the patient has a condition requiring treatment from a different medical specialty that the attending physician determines requires immediate medical care, and the hospital does not have an appropriate specialty department to provide such services, the patient may request leave to seek outpatient care in accordance with the provisions of Article 13. The same shall apply to the case where a physician confirms that a dialysis patient shall immediately undergo dialysis treatment during the patient’s hospitalization in a hospital that is unable to provide dialysis service.
+
+A contracted hospital or an obstetrics and gynecology clinic may not provide its medical service for a beneficiary who is hospitalized in such hospital or clinic by way of the outpatient care of the same hospital or clinic. Notwithstanding, if the hospital or the obstetrics and gynecology clinic is unable to provide a complete laboratory testing (examination) due to limited staff, facilities, or expertise, it may entrust another contracted medical care institution to provide the laboratory testing (examination) by way of referral medical examination or outsourcing medical examination.
+
+## Article 11
+
+Where a beneficiary has any of the following circumstances, a contracted hospital shall not admit or continue to admit such beneficiary as an inpatient:
+
+\1. The beneficiary suffers from an injury or illness that can be treated with outpatient care; or
+
+\2. The beneficiary suffers from an injury or illness that no longer requires hospitalization after proper treatment.
+
+## Article 12
+
+Where a beneficiary is diagnosed by a contracted hospital as fit to be discharged from the hospital, the hospital shall promptly notify such beneficiary. If a beneficiary refuses to be discharged from the hospital, all expenses arising therefrom shall be solely borne by the beneficiary.
+
+## Article 13
+
+A beneficiary who is already hospitalized may not leave the hospital at his or her discretion. Where it is necessary for a beneficiary to leave the hospital due to any special circumstance, he or she shall first obtain permission from the responsible physician, who should record the reason and departure time in the beneficiary’s medical record before the beneficiary is allowed to leave the hospital by leave. The beneficiary is not allowed to stay overnight outside of the hospital. A beneficiary who leaves the hospital without permission shall be automatically deemed as having discharged themselves from the hospital.
+
+## Article 14
+
+In the event that a beneficiary suffers from a chronic illness, has been diagnosed to require the same prescribed drugs for long-term treatment, and has no any of the following circumstances, a physician may issue a refillable prescription slip printed with an identifiable QR code to patients with chronic illnesses:
+
+\1. The prescription drug is a Schedule 1 or Schedule 2 controlled drug defined in the Controlled Drugs Act;
+
+\2. The beneficiary did not bring his or her NHI Card when seeking medical advice.
+
+Each chronic disease is limited to one refillable prescription slip for patients with chronic illnesses only. The scope of chronic illnesses is set forth in the appendix.
+
+After receiving medication, a beneficiary shall keep his medication in good care and follow the physician’s instructions on medication use. The beneficiary shall bear the medical expenses for another medical treatment due to the loss or damage of medication.
+
+## Article 15
+
+Where a beneficiary is given a prescription slip issued by a contracted hospital or clinic, the beneficiary shall have the dosage dispensed in such contracted hospital or clinic or a contracted pharmacy. Notwithstanding, if a beneficiary is unable to have the dosage dispensed from the original prescribing hospital or clinic due to certain reasons and meets one of the following conditions, the beneficiary may obtain medication from another contracted hospital or public health center:
+
+\1. The beneficiary holds a refillable prescription slip for patients with chronic illnesses, and there is no locally contracted pharmacy;
+
+\2. The beneficiary is receiving the Insurance home nursing care service and has a prescription for a Schedule 1 or Schedule 2 controlled drug issued by a physician.
+
+Where the prescription set forth in the preceding paragraph is a combination of both a prescription for common drugs and a refillable prescription for chronic illnesses or a prescription for controlled drugs, the beneficiary shall refill the prescriptions at the same dispensing location.
+
+## Article 16
+
+A contracted medical care institution provide medical care to insured patients involving hospitalization costs that patients must bear themselves under Article 47 of the Act, or non-reimbursable items or circumstances stipulated in Article 51 or Article 53, they shall inform the beneficiary in advance.
+
+## Article 17
+
+Where a beneficiary completes the therapeutic procedure, the contracted medical care institution shall collect the co-payment from the beneficiary according to the Act and issue a receipt required by law. The container or package of drugs handed over to a beneficiary shall be labeled as required by law.
+
+Where a drug container cannot be properly labeled, the contracted medical institution shall issue an itemized list of drugs.
+
+## Article 18
+
+A beneficiary who seeks medical treatment from a contracted medical care institution shall comply with the following requirements:
+
+\1. Abide by all requirements imposed by the Insurance;
+
+\2. Abide by all advice given by medical personnel in relation to medical treatment;
+
+\3. Not arbitrarily demand medical examination (test), drug prescription, disposal, hospitalization, or referral;
+
+\4. Follow the physician’s instructions to receive a referral;
+
+\5. Leave the hospital immediately upon receiving the discharge notice that he or she is no longer required to be hospitalized; and
+
+\6. Pay the co-payment in accordance with the relevant regulations.
+
+## Article 19
+
+A beneficiary who needs blood transfusion and plasma derivatives shall first use the blood and derivatives thereof provided by blood donation institutions.
+
+In the event that a patient with emergent injury or illness needs a blood transfusion and plasma derivatives according to the diagnosis of a physician, but the blood donation institution is in short supply of the blood or derivatives thereof, the contracted hospital or clinic shall first secure blood and derivatives thereof from the blood donation institution of the blood bank of a hospital which has passed the evaluation.
+
+## Article 20
+
+A beneficiary who is hospitalized shall stay in the Insurance ward.Where the grade of the ward in which he or she temporarily stays is lower than that of the Insurance ward, the beneficiarymay not request compensation forthe difference. Where a beneficiary stays in a ward whose grade is higher than that of the Insurance ward, the beneficiary may not request a subsidy for the difference.
+
+A contracted hospital shall first offer the Insurance ward to a beneficiary. Where a contracted hospital is unableto provide the Insurance ward due to the usage of the Insurance ward, it shall obtain consentfrom the beneficiary and inform the beneficiary of the differencefor which he or she has to pay before it arranges the beneficiary to stay in a non-Insurance ward. If there is an availablebed in the Insurance ward subsequently, the contracted hospital shall, without objection, transfer the beneficiary to the Insurance ward upon the beneficiary’s request.
+
+If a beneficiary refuses to pay for the difference of the ward, the contracted hospital shall transfer the beneficiary to another hospital or schedule an Insurance ward and notify the beneficiary to report to the hospital when the Insurance ward is available.
+
+## Article 21
+
+The Insurance ward expenses shall be calculated from the first day of hospitalization (including the first day) till the day of discharge (excluding the day of discharge).
+
+## Article 22
+
+The Insurance regulations for the dosage of prescription drugs are as follows:
+
+\1. Prescription drugs in general: In principle, not more than a seven-day supply shall be given each time;
+
+\2. Drugs that fall within the scope of chronic illnesses as set forth in Paragraph 2 of Article 14.
+
+(1)As required by the beneficiary’s medical condition, the beneficiary may be given a dosage for up to 30 days;
+
+(2)For dialysis fluid used in peritoneal dialysis, as required by the beneficiary’s medical condition, the beneficiary may be given a dosage for up to 31 days;
+
+(3)The two preceding Items apply to the dosage for a single dispensation of a refillable prescription slip for patients with chronic illnesses. The maximum medication that can be prescribed at a single time is 90 days;
+
+(4)For medication prescribed to crew members serving on distant water fishing vessels or ships on international routes that meet the following conditions, up to a 180-day supply may be provided, as required for the number of days scheduled for the given voyage. However, when the Insurer determines that a crew member has special circumstances, the medication supply for that crew member during a given voyage may be provided based on the number of days scheduled for the voyage without being subject to the aforesaid 180-day limit.
+
+\1. The beneficiary’s symptoms are stable, and the beneficiary has been receiving the same prescription for an extended period;
+
+\2. The beneficiary is scheduled, within the next month, to go to sea for more than 90 days of operations at sea, supported by the most recent operation-at-sea relevant documentation submitted by the beneficiary;
+
+\3. The prescription does not contain any antibiotics, pseudoephedrine, or Schedule 1 to 3 controlled drugs as defined by the Controlled Drugs Act.
+
+## Article 23
+
+After receiving a prescription handed over by a contracted medical care institution, a beneficiary shall make an appointment with the contracted medical care institution for scheduling or receiving medical care services within the following period; a contracted medical care institution shall not accept scheduling appointments nor provide medical care services beyond the period allowed:
+
+\1. Scheduling laboratory testing, examination prescriptions: 180 days from the date of issuance;
+
+\2. Scheduling rehabilitation therapy: 30 days from the date of issuance;
+
+\3. A refillable prescription slip for patients with chronic illnesses: the last dispensing day of the last refill;
+
+\4. Any other outpatient prescription and medical prescription: 3 days from the date of issuance.
+
+The expiration day set forth in the preceding paragraph will be postponed to the following working day if it falls on a holiday or weekend.
+
+## Article 24
+
+A refillable prescription slip for patients with chronic illnesses shall be dispensed in different dispensations.
+
+A beneficiary holding a refillable prescription slip for patients with chronic illnesses may request dosage dispensation by presenting the original prescription slip within 10 days before the expiration of the previous dosage dispensation.
+
+## Article 25
+
+A beneficiary holding a valid refillable prescription slip for patients with chronic illnesses has any of the following circumstances may present an affidavit to receive at once the total medication prescribed in the prescription slip:
+
+\1. The beneficiary is scheduled to go abroad or return to an outlying island;
+
+\2. The beneficiary is a crew member scheduled to engage in distant water fisheries operations or services on a vessel on an international route;
+
+\3. The beneficiary is a rare disease patient; or
+
+\4. The beneficiary is a special patient who needs to receive the total medication prescribed at one time as determined by the Insurer.
+
+## Article 26
+
+Where a physician does not specify that the prescribed drug or medical device cannot be substituted in a prescription, a pharmacist (assistant pharmacist) may replace the drug with a drug of another brand with the same ingredients, dosage, and contents at the same or lower price, or replace the medical device with specialty material of another brand of the same functional category, and inform the beneficiary.
+
+## Article 27
+
+Where a beneficiary conducts repetitive medical visits or improperly uses medical resources, the Insurer shall provide supervision for such beneficiary, figure out the reason for the beneficiary’s medical visits, provide adequate medical and health education, arrange medical visits, and offer necessary assistance to the beneficiary. The Insurer may request the beneficiary to receive medical service in a contracted medical care institution designated by the Insurer as his or her medical condition requires.
+
+Where the beneficiary in the preceding paragraph fails to pay a medical visit to the contracted medical care institution designated by the Insurer’s supervision, the beneficiary is not entitled to benefit payment except in the case of emergencies.
+
+The supervision in Paragraph 1 may be conducted by way of a caring letter, telephone interview, home visit, utilization of relevant social resources, or other methods.
+
+## Article 28
+
+Article 7, Article 10, Paragraphs 1 and 3 of Article 14, and Article 23, all of which were amended and promulgated on April 27, 2018, shall enter into force from June 1, 2018. Article 22, which was amended and promulgated on June 20, 2024, shall enter into force from August 1, 2024. All other provisions of the Regulations shall enter into force from their date of promulgation.
+
+## Attachments
+
+- [Appendix Range of Insurance Chronic Diseases.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008596)
+
+## History
+
+1.Promulgated on 24 Feb. 1995 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-84004210
+
+2.Articles 16 and 35 were amended in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-84028174
+
+3.Amended on 30 Dec. 2000 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0890039917
+
+4.Amended on 2 Oct. 2001 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0900060677
+
+5.Articles 11 and 12 were amended in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0910051165
+
+6.Amended and Promulgated on 2 August 2006 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0950031169
+
+7.Articles 5, 10, and 39 were mended and Promulgated on 6 October 2008 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0972600390
+
+8.Amendment to Annex 1 of Article 18 on 22 April 2009 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0980067880
+
+9.Amended and Promulgated on 6 November 2012 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-1012660268
+
+10.Articles 8 and 28 were amended and promulgated on 1 August 2013 in accordance with Ministry of Health and Welfare Order Wei-Pu-Pao-1022660188
+
+11.Full text (28 articles) revised and promulgated by the Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1071260203, on April 27, 2018. Except Article 7, Article 10, Paragraph 1 and Paragraph 3 of Article 14, and Article 23, which shall come into force from June 1, 2018, the remaining provisions shall come into force from the date of promulgation.
+
+12.Articles 22 and 28 were amended and promulgated in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1131260353, dated June 20, 2024. Except for Article 22, which shall come into force from August 1, 2024, the other provisions shall come into force from their date of promulgation.

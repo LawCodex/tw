@@ -1,0 +1,642 @@
+---
+title: "Regulations for Permission and Supervision of Private Employment Services Institution"
+title_zh: "私立就業服務機構許可及管理辦法"
+identifier: "N0090002"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-07-27
+last_amended: 2024-01-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090002"
+retrieved: 2026-10-12
+---
+
+# Regulations for Permission and Supervision of Private Employment Services Institution
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090002-regulations-for-permission-and-supervision-of-private-employment-services.md](../../../zh/regulations/ministry-of-labor/N0090002-regulations-for-permission-and-supervision-of-private-employment-services.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are drawn upon in accordance with Paragraph 3 of Article 34 and Paragraph 2 of Article 40 of the Employment Services Act (hereinafter referred to as the Act).
+
+### Article 2
+
+The private employment services institution prescribed in the Act is classified for the purpose of establishment as the profit employment services institution and the non-profit employment services institution, and which respectively means:
+
+\1. The profit employment services institution: company established under the Company Act or business entity established under the Business Entity Registration Act that are being or intended to be engaged in business activities of employment services.
+
+\2. The non-profit employment services institution: corporate body established under related acts, civilian organization based on the purposes of public interests, or other organization based on purposes excluding for profit that are being or intended to be engaged in business activities of employment services.
+
+### Article 3
+
+Other employment services designated by the central competent authority as stipulated in Article 35.1.4 of The Act:
+
+\1. Employers can commission other parties to undertake work involved in the recruitment, bringing in and employment renewal of foreigners, including applications for recruitment documents, recruitment licenses, employment permits, employment permit extensions, vacancy replacements, change employers, change work, amend employment permits, notify and report when foreign workers miss three consecutive days of work without permission and cannot be contacted for that period of time.
+
+\2. Employers or foreigners can commission other parties to provide life care services for foreign worker who work in the Republic of China, including the arrangement of entry and departure documents for Taiwan, health check ups, reporting the results of said health checks to the competent health authorities, providing consultation, counseling and translation services.
+
+\3. Foreigners employed for work designated in Article 46.1.8 to Article 46.1.11. of The Act can commission other parties to undertake residency related matters on their behalf.
+
+### Article 4
+
+The private employment services institution when collecting fees shall issue receipts and keep counterfoils of the receipts.
+
+The placement fee shall be collected only after the date of employment contract validity.
+
+Any incidents or events attributed to the job seeker occur within forty days since the date of employment contract validity, and lead to the termination of employment contract, the employer concerned may demand the private employment services institution to re-refer once with no charge or refund fifty percent of previously paid placement fee.
+
+Any incidents or events attributed to the employer occur within forty days since the date of employment contract validity, and lead to the termination of employment contract, the job seeker concerned may demand the private employment services institution to re-refer once with no charge or refund fifty percent of previously paid placement fee.
+
+Either a job seeker or an employer who has paid the registration fee may demand the private employment services institution to make referral three times within six months, unless the employment contract is in validity or the period of recruitment is terminated after referral.
+
+### Article 5
+
+The Employment Services Professional Personnel prescribed in Article 36 of the Act shall possess one of the following qualifications：
+
+\1. The person has obtained a test passing evidence issued by the Central Competent Authority and obtained the certificate of Employment Services Professional Personnel.
+
+\2. The person has qualified for Skills Certificate of Employment Services Occupation, obtained a Technician Certificate issued by the Central Competent Authority and obtained the certificate of Employment Services Professional Personnel.
+
+The person who participate the certification of Technician Certificate of Employment Services Occupation shall possess qualifications of being a graduate of domestic or foreign Senior High/Vocational School or above that are registered or recognized by the Department of Education or having the qualification of equivalent intellectual capacity and scholastic achievements.
+
+### Article 5-1
+
+Employment Services Professional Personnel is restricted to obtain one (1) certificate of Employment Services Professional Personnel.
+
+Employment Services Professional Personnel whose certificate has been abolished in accordance with Article 71 of the Act shall not apply for issuing certificate within two years since the date of abolishment.
+
+Those persons who have obtained a valid certificate of Employment Services Professional Personnel after the amendment of these Regulations on Jan. 13, 2004, their certificates shall be replaced by the Central Competent Authority.
+
+### Article 6
+
+The number of Employment Services Professional Personnel prescribed in Article 36 of the Act denotes the following:
+
+\1. The private employment services institution with no more than five employees shall be staffed by at least one (1) Employment Services Professional Personnel.
+
+\2. The private employment services institution with more than six employees but less than ten shall be staffed by at least two (2) Employment Services Professional Personnel.
+
+\3. The private employment services institution with more than ten employees shall be staffed by at least three (3) Employment Services Professional Personnel, and one (1) additional Employment Services Professional Personnel shall be staffed for every ten employees counted from the eleventh person.
+
+The Employment Services Professional Personnel staffed by private employment services institutions or their branches in accordance with the provisions prescribed in the previous Paragraph, who have been counted as Employment Services Professional Personnel of other private employment services institutions or their branches, shall not be counted as the number of Employment Services Professional Personnel denoted in the previous Paragraph, nor shall they conduct the duties prescribed in Subparagraph 4 in Paragraph 1 of Article 7.
+
+### Article 7
+
+Employment Services Professional Personnel shall perform the following duties:
+
+\1. Manage and analyze occupational attitude.
+
+\2. Assist to confirm employment consultation of career development plans.
+
+\3. To examine each application document relating to business activities of employment services undertaken by the private employment services institution at which the person works.
+
+\4. To endorse in accordance with regulations on each employer-related application document or form.
+
+Employment Services Professional Personnel shall duly and sincerely perform the duties prescribed in previous Paragraph.
+
+### Article 8
+
+Documents and information prescribed in Article 39 of the Act include the following:
+
+\1. List of employees: The information on each employee’s name, number of National Identification Card, sex/gender, address, telephone number and arrival and/or resignation date, etc., shall be recorded.
+
+\2. Counterfoil of all kinds of fee’s receipt, including counterfoils of receipts prescribed in Paragraph 1 of Article 4.
+
+\3. Accounting books.
+
+\4. Job-seeking registration and recruitment registration forms: The information on job seeker or employer’s designation, address, telephone number, registration date and job-seeking or recruitment terms and conditions, etc., shall be recorded.
+
+\5. Job-seeking and recruitment situation tables.
+
+\6. Written contracts with employer and job seeker.
+
+\7. When matchmaking (helping? See Article 11) foreign persons to conduct the works referred to in Subparagraphs 8 to 11 in Paragraph 1, Article 46 of the Act, those foreign persons’ report records and those foreign persons’ fee charge of entering the Republic of China to work and wage affidavits.
+
+\8. Other documents and information required by the competent authorities.
+
+Documents and information prescribed in previous Paragraph shall be retained for five years.
+
+### Article 9
+
+When accepting job registrations and making employment recommendations private employment service agencies must not:
+
+\1. Recommend any child laborer 15-16 years old (under 16 years of age) or anyone 16-18 years old (under 18 years of age) for dangerous or hazardous work.
+
+\2. Accept a job registration or recommend employment opportunities to anyone under 15-years of age. However, this does not apply to those who have graduated from junior middle school or positions when the competent authority determines that the nature of the work and work environment will not adversely impact the individual’s mental and physical well being.
+
+\3. Recommend individuals for employment opportunities who are under 18-years of age who do not have written approval from a legal representative or documentary proof of their age.
+
+### Article 10
+
+The private employment services institution unless permitted shall not establish branch(s) in any forms to carry on business activities of employment services.
+
+### Article 10-1
+
+When a private employment services institution or branch organization applies for a permit or employment services professionals apply for certification, the competent authority is required to announce which application items can be sent online.
+
+When a private employment services institution or branch organization applies for a permit or employment services professionals apply for certification, they should send document online based on the items announced in the previous paragraph. However, this does not apply when just cause for not doing so is provided and the competent authority agrees.
+
+## Chapter II Permission and Alteration of Private Employment Services Institution
+
+### Article 11
+
+The for-profit employment services institution engaged in helping recruit domestic persons to work domestically shall have five hundred thousand New Taiwan dollars as minimal amount of net-receipt capital, and add up additional two hundred thousand New Taiwan dollars to the amount of capital when establishing each branch unless its original amount of net-receipt capital is equal to the amount of net-receipt capital required for establishing branch(s).
+
+The for-profit employment services institution engaged in helping recruit foreign persons to work in the Republic of China, or helping in accordance with regulations residents in Hong Kong or Macao or persons from the Mainland China to work in Taiwan area or domestic persons to work outside Taiwan area shall have five million New Taiwan dollars as minimal amount of net-receipt capital, and add up additional two million New Taiwan dollars to the amount of capital when establishing each branch office unless its original amount of net-receipt capital is equal to the amount of net-receipt capital required for establishing branch(s).
+
+The non-profit employment services institution engaged in helping recruit foreign persons to work in the Republic of China, or helping in accordance with regulations residents in Hong Kong or Macao or persons from the Mainland China to work in Taiwan area or domestic persons to work outside Taiwan area shall be limited to the following:
+
+\1. The foundation or the charitable corporation that has been registered with the competent authority for over two years. In case of a charitable corporation, it should be registered as an occupation association or a social association.
+
+\2. A national organization has within two years before the date of application been rewarded by the competent authorities or the competent authorities for business objectives or had concrete accomplishments in a way of promoting public interests of the society, employer-employee harmony, or stabilizing social order, etc.
+
+### Article 12
+
+Prior to establishing a private employment services institution and its branch(s), the applicant concerned shall apply for permission from the competent authorities in which the private employment services institution is intended to be located, but establishing a private employment services institution for helping recruit foreign persons to work in the Republic of China, or helping in accordance with regulations residents in Hong Kong or Macao or persons from the Mainland China to work in Taiwan area or domestic persons to work outside Taiwan area, the applicant concerned shall apply for permission from the central competent authorities.
+
+When applying for the establishment of a employment services institution and its branch(s), the applicant concerned shall prepare the following documents to apply for the preparatory permission:
+
+\1. Application form.
+
+\2. Juristic person’s organization charters or partnership contract.
+
+\3. Business plan or business execution plan.
+
+\4. Schedule of fee-charging items and amounts.
+
+\5. Supporting document of amount of net-receipt capital, unless it is a non-profit employment services institution.
+
+\6. Other documents required by the competent authorities.
+
+The competent authorities may as if necessary demand the applicant concerned to present original copies of documents prescribed in previous Paragraph for the purpose of examination.
+
+Those obtained a preparatory permission issued by the Central Competent Authority engage in helping recruit foreign persons to work in the Republic of China, or helping in accordance with regulations residents in Hong Kong or Macao or persons from the Mainland China to work in Taiwan area or domestic persons to work outside Taiwan area shall notify the local competent authorities to conduct inspection before they apply for establishment permission.
+
+The inspection items referred to in the previous Paragraph shall be publicly announced by the Central Competent Authority.
+
+### Article 13
+
+Upon receiving the preparatory permission to establish a private employment services institution and its branch(s), the applicant concerned shall within three months since the granted date of preparatory permission register the institution under related acts and prepare the following documents to apply for the establishment permission and license from the competent authorities:
+
+\1. Application form.
+
+\2. List of employees.
+
+\3. Photocopies of person with employment services specialty certificate and National Identification Card.
+
+\4. Photocopy of company registration, business registration certificate or organization-accredited certificate.
+
+\5. Original copy of bank-issued guaranty letter of security, unless it is a branch, a non-profit employment services institution or a profit employment services institution engaged in helping recruit domestic persons to work domestically.
+
+\6. Evidence document of genuinely preparatory facts after the local competent authorities have conducted inspection in accordance with regulations referred to in Paragraph 4 of Article 12.
+
+\7. Other documents required by the competent authorities.
+
+The competent authorities may as if necessary demand applicant(s) to present original copies of documents prescribed in previous Paragraph for the purpose of examination.
+
+Applicant(s) unable to apply during the period prescribed in Paragraph 1 shall apply in writing for extension from the competent authorities; the period of extension shall be two months in maximum, and the number of times in application for extension shall not exceed once.
+
+Only when an employment services institution has obtained the license after examination and consideration, the permission prescribed in Paragraph 1 and Paragraph 2 of Article 34 is completed.
+
+The private employment services institution permitted by the central competent authorities may undertake the business activities of employment services in helping recruit domestic persons to work domestically
+
+### Article 13-1
+
+The competent authorities may by themselves or consign to related institutions (institutes) or organization to conduct evaluation of private employment services institutions, the grades of evaluation include three ranks of A, B and C.
+
+The conducting methods, ranks, standards and methods to praise in public for excellent of the evaluation referred in previous Paragraph shall be publicly announced by the competent authorities.
+
+### Article 14
+
+The for-profit private employment services institution engaged in helping recruit foreign persons to work in the Republic of China, or helping in accordance with regulations residents in Hong Kong or Macao or persons from the Mainland China to work in Taiwan area or domestic persons to work outside Taiwan area shall in accordance with Subparagraph 5 of Paragraph 1 of Article 13 submit a bank-issued guaranty letter of security of three million New Taiwan dollars as a guaranty for civil liability.
+
+The for-profit private employment services institution prescribed in previous Paragraph has not been claimed as being liable for any guaranty during the period of license validity and been ranked as grade A in the most recent evaluation, the amount of one million New Taiwan dollars can be deducted form its security each time when a new license is changed and issued; but the amount of security shall not be less than one million New Taiwan dollars after deduction each time.
+
+The for-profit private employment services institution prescribed in Paragraph 1 and Paragraph 2 has been claimed as being liable for any guaranty, and after the security being paid for the guaranty liability if the remaining sum of security is deficient from the legal amount of security, the institution shall make up the deficit within one month since the date of deficiency; the amount of security will be resumed to three million New Taiwan dollars at the date of new license being changed and issued. The central competent authority will abolish the establishment permission of the institution provided that the deficit is not made up.
+
+The guaranty liability of bank-issued guaranty letter of security submitted by the for-profit private employment services institution will be annulled after one year since the date that the institution comes to an end of its business and turn its license, or revoke its license, or its establishment permission has being abolished.
+
+### Article 15
+
+The competent authorities shall have the preliminary permits,establishment permit, and/or re- establishment permit applied for by the private employment service agency denied when it falls in one of the following circumstances:
+
+I. Fails to comply with the application requirements of the Law or the this Act;
+
+II. The institution of the heads, managers, directors (management), or representative of the institution have contravened Article 34 Section 2 or Article 45 of the Act with a punishment of fines or indictment issued by the prosecution; or a guilty verdict delivered by the court;
+
+III. The heads, managers, directors (management), or representative of the institution had once served in a private employment service agency and their conduct resulted in the institution having one of the following circumstances:
+
+(I) in violation of Subparagraphs 4 to 9, Paragraph 1 of Article 40 or Article 45 of the Act;
+
+(II) in violation of Subparagraphs 2 or 14, Paragraph 1 of Article 40 of the Act; also, failed to perform corrective action before deadline;
+
+(III) A nonconformity that was fined three times but wasn’t improved;
+
+(IV) Punished with a fine more than four times in one year;
+
+(V) Punished with a suspension more than two times in one year;
+
+IV. The heads, managers, directors (management), or representative of the institution engaged in employment services business committed a crime by utilizing the business power, opportunity, or method against the job applicants, employers, or foreigners in violation of Criminal Law Article 221~229, Article 231~233, Article 296~297, Article 302, Article 304, Article 305, Article 335, Article 336, Article 339, Article 341, Article 342, or Article 346 and were been indicted by the prosecution or found guilty by the court.
+
+V. The heads, managers, directors (management), or representative of the institution engaged in the employment services business that have committed a crime of human trafficking in violation of Human Trafficking Act and indicted by the prosecution or found guilty by the court.
+
+VI. Nonprofit employment service agencies that have been punished for committing prejudice to public interest with a fine, suspension, or a corrective action before deadline by the governing authorities or competent authorities.
+
+VII. The corporate address or business address for business operation applied for by the profit employment service agency is a private employment service agency already set up.
+
+VIII. The institution address for business operation applied for by the non-profit employment service agency is a private employment service agency already set up.
+
+IX. An agency with an evaluation rating of “C” has failed to perform the corrective actions before deadline or the evaluation rating of the corrective actions performed is below “B”;
+
+X. Agencies that applied for the setup of branches did not receive any evaluation and without any evaluation rating or the most recent evaluation rating was “C”.
+
+XI. Agencies evade, obstruct, or refuse to accept an evaluation.
+
+XII. Commissioned to apply for employment permit; when the number and ratio of foreign workers whose whereabouts become unknown within the following stipulated periods reaches the level stipulated in Schedule 1.
+
+(1) Within 31-90 days of arriving in Taiwan.
+
+(2) Within 30 days of arriving in Taiwan, when the private employment services institution and its branch agencies fail in the tasks assigned them.
+
+The violations against paragraph 2~6 and paragraph 12 are limited to the occurrence within two years from the application date.
+
+The permit issued by the competent municipal or county (city) authorities is not subject to Section 1 Paragraph 9 and 12.
+
+### Article 15-1
+
+The situation where the whereabouts of foreign workers brought into the country becomes unknown within three months of their arrival in Taiwan, and the number and ratio of such workers reach a certain level within a year, as detailed in Subparagraph 17, Paragraph 1, Article 40 of the Act, refers to a situation where the foreign workers whose whereabouts become unknown within the following periods reach the number and ratio stipulated in Schedule 1, Article 15.
+
+(1) Within 31-90 days of arriving in Taiwan.
+
+(2) Within 30 days of arriving in Taiwan, when the private employment services institution and its branch agencies fail in the tasks assigned them.
+
+In accordance with the provisions of Schedule 1, Article 15, the Central Competent Authority is required to conduct regular inspections of private employment services institutions in March, June, September, and December each year.
+
+If on conducting the aforementioned inspection the Central Competent Authority discovers that the number and percentage of foreign workers brought into Taiwan by a private employment services institution whose whereabouts are unknown reaches the level detailed in Schedule 1, Article 15, the case will be handed over to the competent authority at the municipality or county (city) level and a fine imposed.
+
+### Article 16
+
+The foreign employment company engaged in helping recruit persons of its own country or persons of other countries to the Republic of China, or in accordance with regulations residents in Hong Kong or Macao, persons in the Mainland China to Taiwan area to undertake jobs prescribed in Subparagraph 8 to Subparagraph 10 of Paragraph 1 of Article 46 shall apply for approval from the central competent authority.
+
+After the foreign employment company has obtained the approval referred to in the previous Paragraph, it is prohibited to engage in any business activities of employment services in the Republic of China unless it has obtained the permission from the competent authorities in accordance with the regulations referred to in Article 17.
+
+The valid period of approval prescribed in Paragraph 1 is two years and the following documents shall be prepared when filing application:
+
+\1. Application form.
+
+\2. Photocopy of and translation copy in Chinese of license or other relevant supporting documents for business activities of employment services issued by the government of the country in which the company is located.
+
+\3. Evidence documents of and translation in Chinese of no violation of labor laws and regulation in the most recent two years in the country where the company locates.
+
+\4. Other documents required by the competent authorities.
+
+The documents prescribed in previous Paragraph shall be notarized by the government of the country and examined by the embassy of the Republic of China in the country in which the company is located within three months before the date of filing application.
+
+The foreign employment company that applies for consecutive approval shall present the application within thirty days from the expiration date of effective approval period.
+
+The central competent authority for the purpose of approving the foreign employment company prescribed in Paragraph 1 may impose such conditions as country or region, number and types of business activities relating to the institution.
+
+### Article 17
+
+The competent authorities may depending on domestic economic and labor market conditions permit a foreign person or a foreign employment company to establish a private employment services institution in the Republic of China.
+
+The foreign person or foreign employment company shall comply with the provisions of the Act and these Regulations when applying for permission of establishing a private employment services institution in the Republic of China.
+
+### Article 18
+
+Before a private employment service agency and its branch office change information on their permit registration: name, address, registered capital, responsible person, manager, board members or representatives, the following documents must be presented to the permit issuing agency as part of an application to register permit changes:
+
+\1. Application.
+
+\2. Shareholder agreement or meeting resolution record: When the Taiwan branch of a foreign company applies to change its designated responsible person it must include a letter of authorization changing the company’s designated responsible person in the Republic of China.
+
+\3. Photocopy of the permit.
+
+\4. Any other documentation stipulated by the competent authority.
+
+When permission is given to make the aforementioned changes, the firm must legally amend its registration within three months of the permission document being issued. Any application to the competent authority for the issuance of a new permit must include the following documentation:
+
+\1. Application.
+
+\2. Photocopies of company registration, business entity registration or group registration certificates.
+
+\3. Photocopy of the permit.
+
+\4. Any other documentation stipulated by the competent authority.
+
+Applicants unable to provide the necessary documentation within the aforementioned stipulated time must apply to the competent authority for an extension of the application period and explain the reason for such a request. Only one extension can be granted for a maximum of two months.
+
+### Article 19
+
+The competent authorities shall not grant alteration permission to a private employment services institution and its branch(s) in the event of the following situations:
+
+\1. Responsible person, managers, director(s) of the board (members of general council) or representative of the institution after applying for alteration was in violation of Paragraph 2 of Article 34 or Article 45 of the Act, and has been penalized with an administrative fine,indicted by the procuratorial organ, judged juilty by the court.
+
+\2. Responsible person, managers, director(s) of the board (members of general council) or representative of the institution once working at the other private employment services institution has due to his/her act caused the latter violating the Act or these Regulations:
+
+(1) had been in violation of Subparagraphs 4 to 9, Paragraph 1 of Article 40 or Article 45 of the Act;
+
+(2) had been in violation of Subparagraphs 2 or 14, Paragraph 1 of Article 40 of the Act and order improvement within a definite term but fail to do so;
+
+(3) has been penalized with an administrative fine for three times due to the same cause, but still failed to make improvement;
+
+(4) has been penalized with an administrative fine for four times within one year;
+
+(5) has been penalized with a suspension for twice within one year
+
+\3. Responsible person, managers, director(s) of the board (members of general council) or representative of the institution after applying for alteration served in the employment service industry or has manipulated its power, opportunity or methods over employment seekers, employers or foreigners to violate the contents of articles 221 to 229, 231 to 233, 296 to 297, 302, 304, 305, 335, 336, 339, 341, 342 or 346 of Criminal Act and was indicted by the procuratorial organ or judged juilty by the court.
+
+\4. Responsible person, managers, director(s) of the board (members of general council) or representative of the institution once violated human trafficking crime defined in the Human Trafficking Prevention Act and was indicted by the procuratorial organ or judged juilty by the court.
+
+\5. The location for business operation after applying for alteration is being registered and used by the other private employment services institution.
+
+\6. The location of the non-profit employment services institution after applying for alteration is being registered and used by the other private employment services institution.
+
+\7. The institution does not apply for alteration permission in accordance with the regulations referred to in Article 18.
+
+The situations specified in subparagraph 1 to 4 of the Previous Paragraph are limited to the occurrence within two (2) years prior to the date of application.
+
+## Chapter III Management of Private Employment Services Institution
+
+### Article 20
+
+The private employment services institution prior to engaging in such business as permission application, recruitment, bringing-in, resumptive hiring or management for employer who is intended to employ foreign persons or residents in Hong Kong or Macao, persons in the Mainland China to work in Taiwan area shall sign a written contract with the employer concerned. The same conditions apply to either anew recruiting or employing situation. The following items shall be clearly recorded in the written contract prescribed in previous Paragraph:
+
+\1. Items and amounts of fees.
+
+\2. Ways of collecting fees and refund.
+
+\3. Matters relating to damage compensation when foreign persons, residents in Hong Kong or Macao, or persons from the Mainland China fail to report to employer.
+
+\4. Matters relating to taking-over, medical examination arrangement and the results of medical examination reported to the health competent authorities of foreign persons, residents in Hong Kong or Macao, or persons from the Mainland China after arrival.
+
+\5. Matters relating to deportation, replacement, extension and management of foreign persons, residents in Hong Kong or Macao, or persons from the Mainland China.
+
+\6. Matters relating to damage compensation when violating the contract.
+
+\7. Other matters required by the central competent authority.
+
+When hiring the foreign persons to serve as the household assistant or nursing work in accordance with the regulations set out in Subparagraph 9 under paragraph 1 of Article 46, the employer shall personally sign the written contract.
+
+### Article 21
+
+When private employment service agencies provide employment services to foreigners employed for work designated in Article 46.1.8 to Article 46.1.11 in the Republic of China, they should sign a written agreement with said foreigners that clearly stipulates the following:
+
+\1. Service items.
+
+\2. Payable items and total cost.
+
+\3. Methods of payment and refund payments.
+
+\4. Other items stipulated by the central competent authority.
+
+In the case of foreigners employed as home carergivers or home help in accordance with Article 46.1.9 of The Act, the aforementioned written contract should be signed by the foreign worker in person.
+
+The contract stipulated in Paragraph 1 should be translated into a language the foreign worker can understand.
+
+### Article 22
+
+The private employment services institution permitted in accordance with Article 17 by the competent authorities to establish in the Republic of China by a foreign person or foreign employment company shall before the departure of its responsible person designate an agent, and register the agent’s name, nationality, domicile or residence and consent letter of being an agent at the competent authority issuing the license.
+
+### Article 23
+
+When there is turnover of person with employment services specialty in a private employment services institution, the institution shall within thirty days since the date of turnover prepare the following documents and report to the authority issuing the license for reference:
+
+\1. Application form for turnover of person with employment service specialty.
+
+\2. List of employees after turnover.
+
+\3. Certificate and photocopy of National Identification Card of newly hired person with employment services specialty.
+
+\4. Other documents required by the competent authorities.
+
+### Article 24
+
+The license of private employment services institution shall not be leased or transferred.
+
+The license prescribed in previous paragraph or certificate of person with employment services specialty if stained or damaged shall be returned in exchange for new license or certificate; if lost, the institution or the person shall prepare affidavit and application form recorded with the number of original license or certificate to apply for issuance of a lost voucher.
+
+### Article 25
+
+The valid period of license for private employment services institution is two years, the institution shall within thirty days before the date of license expiration prepare the following documents to apply for new establishment permission and license:
+
+\1. Application form.
+
+\2. List of employees.
+
+\3. Photocopy of company registration, business registration certificate or organization-accredited certificate.
+
+\4. Original copy of bank-issued guaranty letter of security, unless it is a branch, a non-profit employment services institution or a profit employment services institution engaged in helping recruit domestic persons to work domestically.
+
+\5. If the institution had violated the regulations of the Act in the previous two years before the date of application, it shall attach a supporting document of paid-up administrative fine issued by the competent authority in which the institution is located.
+
+\6. Original copy of license.
+
+\7. Other documents required by the competent authorities.
+
+The institution incompliant with the previous Paragraph to apply for the permission shall apply for termination of business operation and turn in the license for revocation. The competent authorities shall revoke the license of the institution that fails to apply for the termination or had been denied of permission.
+
+### Article 26
+
+The private employment services institution that is intended to suspend for more than one month shall notify the authority issuing the license for reference within fifteen days since the date of suspension.
+
+The period of the suspension prescribed in previous Paragraph shall be one year in maximum; and the institution concerned shall notify for reference within fifteen days after resuming business.
+
+### Article 27
+
+The private employment services institution when terminating its business operation shall turn in the license to the authority issuing the license for revocation within thirty days after completing dissolution, alteration of business operation items or registration of business closure. The competent authorities shall revoke the license of the institution that fails to apply for the termination.
+
+### Article 28
+
+The private employment services institution shall publicly display its license, schedule of fee-charging items and amounts, certificate(s) of person with employment services specialty at an obvious location of business operation place.
+
+### Article 29
+
+The private employment services institution when carrying on services of job placement, talents’ recruitment and screening shall inform job seekers of content, salary, work hours, fringe benefits and other relevant labor conditions of the referred job.
+
+The private employment services institution when being entrusted to help recruit foreign persons to engage in work prescribed in Subparagraphs 8 to 10 of Paragraph 1 of Article 46 shall inform employers and foreign persons of matters stipulated by the Act or executive orders issued under the Act.
+
+### Article 30
+
+The private employment services institution shall within ten days after the end of each quarter of a year fill in the job seeking and recruitment situation tables and turn in to the municipal or county (city) competent authority.
+
+The municipal and county (city) competent authorities shall within twenty days after the end of each quarter of a year collect and adjust the data prescribed in previous Paragraph and report to the central competent authority for reference.
+
+### Article 31
+
+The recognition of the foreign manpower service agency or its employees engaged in employment services business defined in Article 16 with one of the following circumstances will not be endorsed or will be annulled or revoked by the central competent authorities:
+
+I. Failed to comply with the requirements and make corrections in time.
+
+II. Late in applying for recognition renewal.
+
+III. The business license or service permit is annulled or revoked by the mother nation.
+
+IV. Violated Article 16 Section 2.
+
+V. Stated false information or provided forged document in the application filed.
+
+VI. Commissioned to arrange employment services business in violation of Article 45 of this Act, or providing false information or foreigner’s health check report.
+
+VII. Commissioned to arrange employment service business but failed to exercise due diligence that causes the employer violating Article 44 or Article 57 of this Act.
+
+VIII. Commissioned to arrange citizens or foreigners to work in Taiwan, or, introduce residents of Hong Kong or Macau and Mainland China to work in Taiwan but failed to exercise due diligence that causes foreigner’s whereabouts to be unknown and loss of contact.
+
+IX. Arrange employment services business in violation of the employer's instructions and with the permit and other relevant documents detained.
+
+X. Committed a crime of intimidation, fraud, conversion, or embezzlement in processing employment service business and is found guilty by the courts of the first instance.
+
+XI. Request, contract, or accept fees, wages affidavit, or excessive charges from the foreigners working in Taiwan while process employment service business.
+
+XII. Demand, contract, or deliver illegal profits in processing employment services business.
+
+XIII. Commissions unauthorized individuals or accepts commission to arrange foreigners to work in the R.O.C.
+
+XIV. Received the employment service business related punishment in the mother nation.
+
+XV. Commissioned to arrange for local citizens or foreign nationals to work in Taiwan within the two year period preceding the date of application, where the number and ratio of foreign workers whose whereabouts become unknown within 30 days of arriving in Taiwan reach the level stipulated in Schedule 2.
+
+XVI. Committed other severe illegal act or obstruction to public interest.
+
+The recognition that is not endorsed or is annulled or revoked by the central competent authorities referring to above must be announced.
+
+### Article 31-1
+
+In accordance with the provisions of Schedule 2, Article 31, the Central Competent Authority is required to conduct regular inspections, in March, June, September, and December each year, of foreign private employment services institutions commissioned to arrange for local citizens or foreign nationals to work in Taiwan, where the number and ratio of foreign workers whose whereabouts become unknown within 30 days of arriving in the country reach the level stipulated in Schedule 2.
+
+After conducting inspections in accordance with regulations detailed in the previous paragraph, if the Central Competent Authority discovers that the number and percentage of foreign workers pertaining to foreign manpower service agencies reach the level detailed in Schedule 2, Article 31, it will notify the Ministry of Foreign Affairs, and the overseas missions in question to temporarily refused the processing of visa applications for foreign nationals from designated manpower service agencies for a stipulated number of days:
+
+\1. First time: 7 days pause on issuing of visas.
+
+\2. Second time or more: The length of the temporary pause is increased by 7 days for each occurrence, to a maximum of 28 days.
+
+### Article 32
+
+(Deleted)
+
+### Article 33
+
+The reports, tables or forms prescribed in Subparagraphs 11 ,Paragraph 1 of Article 40 of the Act denote the following:
+
+\1. Job-seeking and recruitment situation tables.
+
+\2. List of employees.
+
+\3. Application form for turnover of person with employment service specialty.
+
+\4. Application from for recruitment permission of foreign person.
+
+\5. Application from for employment permission of foreign person.
+
+\6. Application from for extension of employment permission of foreign person.
+
+\7. Application from for transfer of employer or job of foreign person.
+
+\8. Report of foreign person lost contact and whereabouts unknown.
+
+\9. Other reports, tables or forms required by the competent authorities.
+
+### Article 34
+
+The private employment services institution when being entrusted to engage in the business activities of employment services shall in accordance with regulations affix the seal of the institution to employer or job seeker application letter (form), and which shall also be signed and sealed by the responsible person and also signed by the person of employment services specialty.
+
+### Article 35
+
+The private employment services institution when publishing, broadcasting or distributing advertisements and commercials relating to business activities of employment services shall clearly indicate on advertisements and commercials its designation, number of license, address and telephone number.
+
+### Article 36
+
+The private employment services institution when its employee or person with employment services specialty resign shall properly handle the business activities and notify the person who entrusted the business activities undertaken previously by the employee or person concerned.
+
+### Article 37
+
+The private employment services institution when the person who entrusted terminates the entrustment shall return the safely kept permission document and other relevant documents to the person concerned.
+
+The private employment services institution when terminating its business operation or being revoked of its license, being abolished of its establishment permission shall notify the person who entrusted and return the safely kept permission document and other relevant documents to the person concerned, or after obtaining written consent form the person concerned transfer the permission document and other relevant documents to the other private employment services institution to continuously handle.
+
+### Article 38
+
+The foreign employment company prescribed in Article 16 applies again for the approval within two years after its approval being abolished or revoked, the central competent authority shall not grant its approval.
+
+### Article 39
+
+The competent authorities shall publicly announce the ranks of evaluation it conducts on the private employment services institution, and when it fines, suspends the partial or whole business activities, or revokes or abolishes the establishment permission of the private employment services institution.
+
+### Article 40
+
+The competent authorities may at any time assign certain persons to conduct inspection on the circumstances of business activities and relevant documents and information of the private employment services institution: and shall notify the institution concerned to improve in a definite term the matters required to be improved after inspection.
+
+The competent authorities shall not reveal the content of the information obtained under previous Paragraph, and if the institution is required to turn in original copies of the supporting documents, forms and books, receipts and relevant information the competent authorities shall return them within fifteen days after receiving.
+
+### Article 41
+
+The municipal and county (city) competent authorities shall within twenty days after the end of each quarter of a year sum up situations relating to the establishment, alteration, suspension, resumption, termination of business operation and penalty of regulation violation of the private employment services institution, and report to the central competent authority for reference.
+
+### Article 42
+
+People with Disabilities Rights Protection Act for the Disabled for establishment from the competent authorities shall not be engaged in the following activities:
+
+\1. Failing to carry on the establishment plan permitted by the competent authorities.
+
+\2. Evading, interfering with or refusing the investigation and examination on accounting books.
+
+## Chapter IV Supplementary Provisions
+
+### Article 43
+
+The patterns of documents, forms and tables stipulated in these Regulations are to be prescribed by the central competent authority.
+
+### Article 44
+
+These Regulations shall be take effect on the date of promulgation.
+
+Article 31-1 and Article 31 Schedule 2 of the Regulations for Permission and Supervision of Private Employment Services Institution were amended on September 4, 2023 and implemented on December 16, 2023.
+
+## Attachments
+
+- [Schedule 1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008409)
+- [Schedule 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008410)
+
+## History
+
+1.Promulgated by the Council of Labor Affairs, Executive Yuan on July 27, 1992
+
+2.Amended by the Council of Labor Affairs, Executive Yuan on Dec. 11, 1992
+
+3.Amended by the Council of Labor Affairs, Executive Yuan on Jan. 23, 1995
+
+4.Amended by the Council of Labor Affairs, Executive Yuan on June 26 1996
+
+5.Amended by the Council of Labor Affairs, Executive Yuan on March 5, 1997
+
+6.Amended by the Council of Labor Affairs, Executive Yuan on June 30, 1998
+
+7.Amended by the Council of Labor Affairs, Executive Yuan on Jan. 13, 2004
+
+8.Amended by the Council of Labor Affairs, Executive Yuan on Jan. 3, 2007
+
+9.Amended by the Council of Labor Affairs, Executive Yuan on Jan. 8, 2008
+
+10.Amended and promulgated by Council of Labor Affairs, Executive Yuan on March 2, 2010, by the order of Lao-Zhi-Guang-Tze No. 0990510040.
+
+11.Contents of Article 3,Article1 5,Article 31 Decree amendment release Bureau of Employment and Vocational Training / Council of Labor Affairs No. 1010515401 dated January 4, 2013
+
+12.Amended on October 8, 2014
+
+Amendment of Articles 1, 15, 19, 33, 42, and attachment 2 of Article 31; and the addition of Article 15-1 under the Regulations for Permission and Supervision of Private Employment Services Institution according to ROC Ministry of Labor Directive No. 10318067141.
+
+13.Amended on February 14, 2020
+
+14.Amended on March 23, 2021
+
+15.Amended on June 2, 2021
+
+16.Amended on September 4, 2023
+
+17.Amended on January 30, 2024

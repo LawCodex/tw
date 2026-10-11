@@ -1,0 +1,163 @@
+---
+title: "Regulation on the Income and Expenditure Management and Utilization of the Promoting Transitional Justice Fund"
+title_zh: "促進轉型正義基金收支保管及運用辦法"
+identifier: "A0030334"
+type: regulation
+law_level: "命令"
+category: "行政＞國家發展委員會＞通用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-02-11
+last_amended: 2024-11-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030334"
+retrieved: 2026-10-12
+---
+
+# Regulation on the Income and Expenditure Management and Utilization of the Promoting Transitional Justice Fund
+
+> Translation. The Chinese text ([zh/regulations/national-development-council/A0030334-regulation-on-the-income-and-expenditure-management-and-utilization-of-the.md](../../../zh/regulations/national-development-council/A0030334-regulation-on-the-income-and-expenditure-management-and-utilization-of-the.md)) is authoritative.
+
+## Article 1
+
+The Promoting Transitional Justice Fund (hereinafter referred to as the Fund) is established pursuant to paragraph 1, Article 7 of the Act on Promoting Transitional Justice to promote transitional justice   and implement the liberal and democratic constitutional order; this Regulation is prescribed in accordance with Article 21 of the Budget Act.
+
+## Article 2
+
+The Fund is a special fund defined in subparagraph 2, paragraph 1 of Article 4 of the Budget Act and is compiled as a subordinate unit budget.
+
+The competent authority of the Fund is the Executive Yuan, and the management agency charged with the Fund is the National Development Council (hereinafter referred to as the NDC).
+
+## Article 3
+
+The sources of the Fund include:
+
+\1. Appropriations made by the government in the course of its budgetary procedure.
+
+\2. Properties transferred from or obtained by the Ill-Gotten Party Asset Settlement Committee, via negotiation or other ways as permitted by laws.
+
+\3. Interest on the Fund and revenue from utilization of the Fund, and income derived from outsourced management by other institutions of the properties referred to in the preceding subparagraph prior to transfer to the Fund.
+
+\4. Income from donations.
+
+\5. Other related income.
+
+## Article 4
+
+The Fund shall be utilized as follows:
+
+\1. Expenditures relating to the works for promoting transitional justice for the purpose of fulfilling transitional justice and the liberal democratic constitutional order.
+
+\2. Expenditures relating to the tasks for promoting human rights education and transitional-justice-related cultural matters for the purpose of enhancing citizen participation.
+
+\3. Expenditures relating to long-term care and social welfare policies for the purpose of protecting fundamental rights and interests of the socially disadvantaged.
+
+\4. Expenditures on management and general administrative affairs.
+
+\5. Other related expenditures.
+
+## Article 5
+
+Matters concerning the management, custody, and utilization of the income and expenditure of the Fund shall be decided by the Management Committee of the Promoting Transitional Justice Fund (hereinafter referred to as the Fund Committee), which shall consist of no fewer than fifteen and no more than seventeen members, including one convener, served ex officio by the Minister of the NDC, and one vice convener,  served ex officio by the Deputy Minister of the NDC, and the remaining members to be appointed/ assigned by the NDC from the representatives of the following agencies or personnel:
+
+\1. Ministry of the Interior.
+
+\2. Ministry of Finance.
+
+\3. Ministry of Education.
+
+\4. Ministry of Justice.
+
+\5. Ministry of Health and Welfare.
+
+\6. Ministry of Culture.
+
+\7. Council of Indigenous Peoples.
+
+\8. Directorate General of Budget, Accounting and Statistics (DGBAS) of Executive Yuan.
+
+\9. Ill-gotten Party Asset Settlement Committee.
+
+\10. Department of Human Rights and Transitional Justice, Executive Yuan.
+
+\11. Experts, scholars, or civil group representatives which shall consist of no fewer than three and no more than five members.
+
+Any expert or scholar appointed according to the subparagraph 11 of the preceding paragraph should possess expertise in transitional justice, human rights, laws, or fund property management.
+
+The number of the Fund Committee members of neither gender compromising less than one-third of the total number.
+
+Each member serves without remuneration; the service period of each member is two years, and a member can be reappointed or reassigned when the period expires. The term of any commissioner serving as the representative of a government agency shall begin and end when his or her position at that agency begins and ends. If there are insufficient members of experts, scholars, or civil group representatives, successors shall be appointed/assigned and shall serve until the term of the original member expires.
+
+## Article 6
+
+Meetings of the Fund Committee take place once every six months, and it may convene interim meetings when  necessary. All meetings shall be convened and chaired by the convener. If the convener cannot attend the meeting, the vice convener shall act on behalf of the convener. If the vice convener also cannot attend the meeting, the members attend at the meeting shall elect one among them as an acting convener.
+
+The quorum to hold a meeting shall be more than half of the members attend, and a resolution can be adopted only if it is agreed upon by more than half of the attending members. In the event of a tie vote, the decision shall be subject to the chair. Member of expert, scholar, or civil group representative shall attend the meeting in person and shall not appoint a proxy. If a member representing an agency cannot present a meeting, the member may designate a proxy to attend, speak, and votes on his/her behalf.
+
+Representatives of relevant agencies or personnel may be invited to attend the meeting as outlined in the preceding paragraph.
+
+## Article 7
+
+The tasks of the Fund Committee shall be as follows:
+
+\1. To review the management and utilization of the income and expenditure of the Fund.
+
+\2. To review the annual budget and financial statements of the Fund.
+
+\3. To evaluate the execution of the Fund.
+
+\4. Other relevant matters.
+
+## Article 8
+
+The Fund Committee shall have one executive secretary, who shall be appointed by the convener and be responsible for assisting the convener in handling all matters related to the Fund Committee; and two deputy executive secretaries and several persons as staff members to handle the Fund Committee's general and operational matters.
+
+The deputy executive secretaries and staff members of the preceding paragraph shall be hired and have their work assigned in accordance with the following provisions:
+
+\1. Matters involving the shares and capital of profit-seeking enterprises shall be handled by related NDC personnel, or by personnel dispatched from other appropriate agencies, or secondment of staff of related agencies dispatched by the NDC.
+
+\2. Matters not defined in the preceding subparagraph shall be handled by related personnel dispatched by the NDC or the National Archives Administration, NDC.
+
+## Article 8-1
+
+When the Fund Committee is required to appoint a profit-seeking enterprise's responsible persons, managerial officers, directors or supervisors based on the number of shares or the amount of equity capital of a given profit-seeking enterprise that it manages, the Fund Committee shall appoint persons, scholars, or specialists who have specialized knowledge or experience in business operation of that profit-seeking enterprise or in the Fund management.
+
+Rules governing selection, management, and evaluation of the responsible persons, managerial officers, directors or supervisors referred to in the preceding paragraph shall be prescribed by the NDC.
+
+## Article 9
+
+Profitability and security should be emphasized for the management and utilization of the Fund, and the saving of the Fund shall be governed by the Government Treasury Act and applicable laws and regulations.
+
+## Article 10
+
+The Fund may be used to purchase government bonds, treasury bills, or other short-term papers for the purpose of increasing its income.
+
+## Article 11
+
+The compilation and execution of the budget, and the compilation of the financial statement related to the Fund shall be carried out in accordance with the Budget Act, the Accounting Act, the Financial Statement Act, the Audit Act, and other relevant laws and regulations.
+
+## Article 12
+
+An accounting system should be established for the accounting affairs of the Fund in accordance with relevant regulations.
+
+## Article 13
+
+At the end of each fiscal year, any surplus in the Fund’s final accounts shall be accumulated according to statutory requirements.
+
+## Article 14
+
+Upon termination of the Fund, its accounts shall be settled and its residual funds and rights shall be transferred to the national treasury.
+
+## Article 15
+
+This Regulation shall come into force from the date of promulgation.
+
+## History
+
+\1. Promulgated per the Executive Yuan Decree No. Yuan-Shou-Zhu-Ji-Zuo-Zi 1110200166A dated February 11, 2022; shall come into force from the date of promulgation.
+
+\2. Articles 2, 5, and 8 amended per the Executive Yuan Decree No. Yuan-Shou-Zhu-Ji-Zuo-Zi 1110201518A dated August 30, 2022; shall come into force from the date of promulgation.
+
+\3. Articles 3, and 8 amended, and Article 8-1 added per the Executive Yuan Decree No. Yuan-Shou-Zhu-Ji-Zuo-Zi 1130202211A dated November 25, 2024; shall come into force from the date of promulgation.

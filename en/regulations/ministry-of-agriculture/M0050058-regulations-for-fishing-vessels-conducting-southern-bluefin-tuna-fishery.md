@@ -1,0 +1,476 @@
+---
+title: "Regulations for Fishing Vessels Conducting Southern Bluefin Tuna Fishery"
+title_zh: "南方黑鮪漁撈作業管理辦法"
+identifier: "M0050058"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-01-20
+last_amended: 2026-01-26
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050058"
+retrieved: 2026-10-12
+---
+
+# Regulations for Fishing Vessels Conducting Southern Bluefin Tuna Fishery
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050058-regulations-for-fishing-vessels-conducting-southern-bluefin-tuna-fishery.md](../../../zh/regulations/ministry-of-agriculture/M0050058-regulations-for-fishing-vessels-conducting-southern-bluefin-tuna-fishery.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are established pursuant to Article 6, paragraph 2; Article 10, paragraph 2; and Article 11, paragraph 3 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Terms used in these Regulations are defined as follows:
+
+“Tuna longline fishing vessel” means any fishing vessel targeting highly migratory fish species such as tunas, billfishes, sharks, skipjack, or mahi mahi with longline fishing gears.
+
+“Fishing year” means the period starting February 1 of the current year to 31 January of the following year.
+
+“Independent third party” means any of the following institutions recognized by the competent authority:
+
+For Japan:
+
+Shinken Corporation.
+
+Nippon Kaiji Kentei Kyokai, Incorporated Association.
+
+For areas excluding Japan: the verifying institution which obtains the accreditation for management system certification from the Taiwan Accreditation Foundation (TAF).
+
+### Article 3
+
+Any distant water fisheries operator shall not conduct southern bluefin tuna fishing operation without authorization from the competent authority.
+
+### Article 4
+
+For the purpose of these Regulations, the species with catch limit as referred to in subparagraph (7) of Article 13, paragraph 1 of the Act means southern bluefin tuna.
+
+### Article 5
+
+Tuna longline tuna fishing vessels catching southern bluefin tuna (hereinafter referred to as “southern bluefin tuna fishing vessels”) are categorized into the following groups:
+
+Seasonal targeting group, which targets southern bluefin tuna and can be further categorized into the following four groups:
+
+Southcentral Indian Ocean group;
+
+Southwestern Indian Ocean group;
+
+Pacific Ocean group; and
+
+Domestic sale group: fishing vessels in this group shall ship back to the Republic of China a specific amount of southern bluefin tuna as announced by the competent authority for domestic sale.
+
+Bycatch group, which does not target southern bluefin tuna.
+
+### Article 6
+
+Fishing areas for fishing vessels of the seasonal targeting group are divided as follows and as shown in Appendix 1:
+
+For southcentral Indian Ocean group and domestic sale group: the area of the Indian Ocean south of 28°S, east of 65°E and west of 150°E (hereinafter referred to as “southcentral Indian Ocean fishing area”).
+
+For southwestern Indian Ocean group: the area of the Indian Ocean south of 28°S, and between 20°E and 45°E (hereinafter referred to as “southwestern Indian Ocean fishing area”).
+
+For Pacific Ocean group: the area of the Pacific Ocean west of 130°W, south of 10°S and east of 130°W, south of 15°S of the Pacific Ocean (hereinafter referred to as “Pacific Ocean fishing area”).
+
+Any fishing vessel of the bycatch group shall catch southern bluefin tuna only in the fishing area(s) authorized under its distant water fisheries permit of the Pacific, Atlantic, or Indian Ocean.
+
+### Article 7
+
+The number of vessels in each group shall be announced by the competent authority in accordance with the resolutions of the Commission for the Conservation of Southern Bluefin Tuna (hereinafter referred to as “the CCSBT”).
+
+## Chapter II Application and Issuance of the Permit
+
+### Article 8
+
+For an application of a southern bluefin tuna permit, the following conditions shall be met:
+
+The concerned distant water fisheries operator shall be a member of the Taiwan Deep Sea Tuna Boat-owners and Exporters Association (hereinafter referred to as “Tuna Association”).
+
+The concerned fishing vessel has installed the electronic logbook (E-logbook) system capable of recording data for each individual southern bluefin tuna measures and of recording seabird mitigation measures employed, and can report catch data regularly and normally.
+
+Any of the following distant water fisheries permits issued by the competent authority for the current fishing year has been obtained:
+
+For Southcentral Indian Ocean group, Southwestern Indian Ocean group, and Domestic sale group: the permit for bigeye tuna group or albacore tuna group in the Indian Ocean.
+
+For Pacific Ocean group: the permit for albacore tuna group in the Pacific Ocean.
+
+For bycatch group: the permit for albacore tuna group in the Pacific Ocean, albacore tuna group in the Atlantic Ocean, bigeye tuna group in the Indian Ocean or albacore tuna group in the Indian Ocean.
+
+The member as referred to in subparagraph (1) of the preceding paragraph does not include sponsor members.
+
+### Article 9
+
+Any distant water fisheries operator applying for a southern bluefin tuna permit for the following fishing year shall submit the documents in accordance with Article 8, and register with the Tuna Association by 10 December of the preceding year. The Tuna Association shall compile applications by group, and submit them to the competent authority by 20 December of the preceding year.
+
+### Article 10
+
+Where fishing vessels apply for a group under the seasonal targeting group, the Tuna Association shall decide the priority in accordance with the following provision and submit a list to the competent authority, except that applications for the Pacific group shall be coordinated by the Tuna Association:
+
+First priority: fishing vessels that, within the preceding three fishing years, have been permitted for one fishing year as the seasonal targeting group and have engaged in actual fishing operations.
+
+Second priority: fishing vessels of albacore tuna group in the Indian Ocean.
+
+Third priority: fishing vessels of bigeye tuna group in the Indian Ocean.
+
+In the event that the Tuna Association cannot decide the priority in accordance with the provisions stipulated in the preceding paragraph, the Tuna Association shall draw lots to decide the priority in an equitable and impartial manner.
+
+### Article 11
+
+In the event that the number of fishing vessels obtaining southern bluefin tuna permits does not reach the limit of each group of the current fishing year, in addition to filling vacancies in accordance with the priority prescribed in Article 10, the competent authority may announce in due course to accept applications, notwithstanding the application deadline prescribed in Article 9.
+
+In the event that the number of fishing vessels applied for the domestic sale group does not reach the limit as announced by the competent authority, the Tuna Association shall fill vacancies by drawing lots among fishing vessels applied for southcentral Indian Ocean group of the current fishing year to decide the priority in an equitable and impartial manner.
+
+### Article 12
+
+Any distant water fisheries operator whose fishing vessel(s) is under any of the following circumstances shall not be granted a southern bluefin tuna permit:
+
+For a fishing vessel in the seasonal targeting group: its actual landing amount in a fishing year exceeds 10% of its individual vessel quota of the same fishing year, and the punishment imposed has not been executed completely, or three years have not passed since the completion of execution.
+
+For a fishing vessel in the bycatch group: its actual landing amount of in a fishing year exceeds 30% of its individual vessel quota of the same fishing year, and the punishment imposed has not been executed completely, or three years have not passed since the completion of execution.
+
+For a fishing vessel in the domestic sale group: its southern bluefin tuna catch is not shipped back to the Republic of China for domestic sale in accordance with Article 19, and the punishment imposed has not been executed completely, or three years have not passed since the completion of execution.
+
+For a fishing vessel in the southcentral Indian Ocean group or domestic sale group: the utilization rate of its individual vessel quota is 40% or above but less than 50% and its distant water fisheries operator fails to apply for voluntary quota reduction in accordance with Article 20 and punishment has therefore been imposed but not been executed completely or one year has not passed since the completion of such execution; or, the utilization rate of its individual vessel quota is 30% or above but less than 40% and its distant water fisheries operator fails to apply for voluntary quota reduction in accordance with Article 20 and punishment has therefore been imposed but not been executed completely or two years have not passed since the completion of such execution; or, the utilization rate of its individual vessel quota is less than 30% and its distant water fisheries operator fails to apply for voluntary quota reduction in accordance with Article 20 and punishment has therefore been imposed but not been executed completely or three years have not passed since the completion of such execution.
+
+### Article 13
+
+A certificate of southern bluefin tuna permit will be issued to an application approved by the competent authority. The maximum validity period of a permit shall be one year.
+
+The certificate of southern bluefin tuna permit shall record, both in Chinese and English, the following:
+
+The number of the certificate.
+
+The name, CT number, GT, length overall (LOA) and fisheries type of the fishing vessel.
+
+Name of the distant water fisheries operator.
+
+The authorized fishing Ocean, group, fishing area(s), and fishing period.
+
+The International Radio Call Sign (IRCS).
+
+The IMO ship identification number.
+
+The incidental provisions: in the event that the distant water fisheries permit of the fishing vessel is invalid during the period permitted to catch southern bluefin tuna, the southern bluefin tuna permit shall be invalid simultaneously.
+
+Distant water fisheries operators shall place onboard fishing vessels copies of valid southern bluefin tuna permits for inspection.
+
+### Article 14
+
+Any fishing vessel that has obtained a southern bluefin tuna permit of the southcentral Indian Ocean group or domestic sale group shall enter the southcentral Indian Ocean fishing area by July 31 of the current year.
+
+Any fishing vessel that has obtained a southern bluefin tuna permit of the southwestern Indian Ocean group shall enter the southwestern Indian Ocean fishing area by November 30 of the current year.
+
+For any fishing vessel failing to enter the fishing area it belongs to by the deadline as stipulated in the preceding two paragraphs, its southern bluefin tuna permit shall be revoked.
+
+## Chapter III Catch Limits or Quotas
+
+### Article 15
+
+The total catch quota of southern bluefin tuna in a fishing year (unprocessed round weight, hereinafter the same when referring to “quota” in the following provisions), the individual vessel quota, and the amount of catch for individual vessel to ship back to the Republic of China for domestic sale shall be announced by the competent authority in accordance with the resolutions of the CCSBT.
+
+From the beginning of 2026 fishing year, the period for using the quota as referred in the preceding paragraph shall be from 1 February of the current year to 31 January of the following year.
+
+In case that, for the current fishing year, the number of fishing vessels obtaining southern bluefin tuna permits of each group does not exceed the limit, the total remaining quota shall be arranged by the competent authority.
+
+### Article 16
+
+Southern bluefin tuna quota in the current fishing year shall be allocated to fishing vessels that have obtained southern bluefin tuna permits of the current fishing year.
+
+For any southern bluefin tuna fishing vessel which has not obtained a southern bluefin tuna permit of the entire fishing year, the quota shall be granted in accordance with the percentage which the number of month(s) approved accounts for the whole fishing year. Notwithstanding such provision, in the event that the ownership of any southern bluefin tuna fishing vessel transfers and the quota used by the original distant water fisheries operator exceeds the percentage that the number of month(s) approved accounts for the whole fishing year, the unused quota of such vessel in the current fishing year shall be granted to the new distant water fisheries operator.
+
+In case of any of the following circumstances, the competent authority shall retrieve the unused quota of the southern bluefin tuna fishing vessel concerned in the current fishing year:
+
+Loss of the vessel, or the damage of the vessel that renders the fishing operation impossible for the current fishing year.
+
+Revocation or withdrawal of the fishing license imposed by the competent authority.
+
+Revocation or withdrawal of the distant water fisheries permit imposed by the competent authority.
+
+### Article 17
+
+The catch amount (unprocessed round weight, hereinafter the same when referring to “catch amount” in the following provisions) of southern bluefin tuna caught by any southern bluefin tuna fishing vessel shall not exceed the individual vessel quota allocated for the current fishing year. In case of excess, the quota of such fishing vessel for the following fishing year(s) shall be deducted accordingly until the amount exceeded is fully deducted.
+
+The conversion factor between the weights of fish gilled, gutted, and tailed and round fish is 1.15.
+
+### Article 18
+
+In case that a southern bluefin tuna fishing vessels is under any of the following circumstances, the competent authority shall grant quota of the current fishing year in accordance with the percentage that the number of month(s) the fishing vessel actual fishes accounts for the whole fishing year; shall retrieve the quota on a pro-rata basis from the fishing vessel which has been granted the quota; or shall deduct the quota allocated for the following fishing year in the event that the quota of the current fishing year is unable to be retrieved from the fishing vessel:
+
+The competent authority suspends its fishing license for one month or above.
+
+It is detained in port by any foreign government.
+
+For any fishing vessel approved to engage in fisheries cooperation by means of chartering, quota shall not be granted to such vessel during the period of chartering. In case that quota has been granted, the competent authority shall retrieve the quota of the current fishing year in accordance with the percentage that the number of month(s) for chartering accounts for the whole fishing year. In case that it is unable to retrieve the quota of the current fishing year, the competent authority shall deduct the quota allocated for such vessel in the following fishing year.
+
+### Article 19
+
+For any fishing vessel of the domestic sale group, the amount of its southern bluefin tuna catch shipped back for domestic sale shall not be below the amount as announced pursuant to Article 15, paragraph 1.
+
+### Article 20
+
+For any fishing vessel of the southcentral Indian Ocean group or the domestic sale group that has obtained a southern bluefin tuna permit, in case that its catch amount is less than 50%, its distant water fisheries operator shall report the amount for voluntary quota deduction to the Tuna Association by 15 August of the current year, and the Tuna Association shall forward it to the competent authority.
+
+### Article 21
+
+In the event that the accumulated catch amount of southern bluefin tuna caught by fishing vessels of the Republic of China reaches 95% of the total catch quota of the current fishing year, the competent authority may order fishing vessels to stop catching southern bluefin tuna by a deadline and to leave fishing area(s) by a deadline.
+
+### Article 22
+
+The competent authority may, after 1 June of the current year, accept applications for quota reallocation, depending on the utilization of the total southern bluefin tuna quota.
+
+Applications of the quota as referred to in the preceding paragraph shall meet the following requirements and register with the Tuna Association, which will compile and forward the applications to the competent authority:
+
+The utilization rate of individual vessel quota of southern bluefin tuna has reached 50% or above.
+
+The concerned fishing vessel has not left its fishing area.
+
+### Article 23
+
+The competent authority may grant premium quota to a southern bluefin tuna fishing vessel which cooperates with the competent authority to carry out relevant experiments, researches, or management measures.
+
+## Chapter IV Management of Catch Tagging
+
+### Article 24
+
+Any distant water fisheries operator shall, before the fishing operations, pay the cost of tags to the Tuna Association, and apply to the competent authority, with the submission of a payment receipt, for the issuance of southern bluefin tuna tags (hereinafter referred to as the “tags”).
+
+For any fishing vessel entering a fishing area without applying for a tag in accordance with the preceding paragraph, the competent authority shall revoke its southern bluefin tuna permit.
+
+Any southern bluefin tuna fishing vessel shall apply for the tags in accordance with the first paragraph before the tags are exhausted during operation at sea, and, in such case, the southern bluefin tuna may only be tagged at the time of landing in port after the approval from the competent authority is obtained.
+
+### Article 25
+
+Any southern bluefin tuna shall be tagged at the appropriate position in case of being caught by any fishing vessel, and the length, weight, and the serial number of the tag shall be recorded on the Catch Tagging Form, format of which is as shown in Appendix 2.
+
+### Article 26
+
+Tags affixed to southern bluefin tuna shall be retained on the fish body up to the first point of sale.
+
+Where a tag falls off and cannot be reattached, an unused replacement tag shall be affixed immediately, and the number of both the replacement tag and the fallen tag shall be recorded on the record sheet. Where the number of the fallen tag cannot be ascertained, the recording may be exempted. The format of the record sheet is as shown in Appendix 3.
+
+The record sheet as referred to in the preceding paragraph shall, within three days after a landing, be submitted in writing to the Tuna Association for forwarding to the competent authority for perusal.
+
+## Chapter V Logbook, Catch report, and Mitigation Measures for Incidental Catch
+
+### Article 27
+
+For any southern bluefin tuna fishing vessel that leaves a port, its captain shall daily report the length, weight, number of tags for each southern bluefin tuna through the E-logbook system, and shall completely and accurately fill in the logbook designated by the competent authority, whether there is any catch or not.
+
+In the event that a southern bluefin tuna caught by the fishing vessel as referred to in the preceding paragraph is under any of the following circumstances, such catch shall be discarded immediately and the discard amount shall be recorded in the logbook and the E-logbook system:
+
+The southern bluefin tuna is caught after the exhaustion of the southern bluefin tuna quota. In the case of a fishing vessel of both the seasonal targeting group and the bigeye tuna group in the Indian Ocean, such vessel shall also leave the fishing area.
+
+In the case of a fishing vessel of the seasonal targeting group, the southern bluefin tuna is caught after the vessel leaves the fishing area, regardless of exhausting the southern bluefin tuna quota of the current fishing year or not.
+
+### Article 28
+
+During one fishing trip of any southern bluefin tuna fishing vessel, the discrepancy between the southern bluefin tuna catch amount recorded in the E-logbook and the actual landing amount shall not exceed 10% of the actual landing amount.
+
+In case that the discrepancy exceeds the ratio as referred to in the preceding paragraph, whereas the following provisions are met, the competent authority, at its discretion, may deem that the discrepancy does not exceed 10%:
+
+For seasonal targeting group: the discrepancy is two metric tons or less.
+
+For bycatch group: the discrepancy is 300 kilograms or less.
+
+### Article 29
+
+Any of the following circumstance shall be defined as “seriously misreporting” as referred to subparagraph (12) of Article 13, paragraph 1 of the Act:
+
+For any fishing vessel of the seasonal targeting group, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds two metric tons as well as 20% of the actual landing amount.
+
+For any fishing vessel of the bycatch group, the discrepancy between the catch amount recorded in the E-logbook and the actual landing amount exceeds 300 kilograms as well as 30% of the actual landing amount.
+
+### Article 30
+
+Any southern bluefin tuna fishing vessel proceeds to operate in area south of 25°S shall employ at least two seabird mitigation measures, one of which shall be tori lines, the other shall be either the night setting with minimum deck lights or weighted branch lines. Specifications are as shown in Appendix 4.
+
+The seabird mitigation measures employed during each fishing operation of a fishing vessel shall be recorded in the E-logbook and logbook.
+
+## Chapter VI The Designation and Management of Ports for Transshipment or Landing
+
+### Article 31
+
+Southern bluefin tuna catch of any fishing vessel shall be limited to in-port transshipment or landing. Where a carrier vessel carries a regional observer on board dispatched by the Indian Ocean Tuna Commission (IOTC) or the International Commission for the Conservation of Atlantic Tunas (ICCAT) and the concerned distant water fisheries operator of the fishing vessel has paid the expenses to implement the regional observer program in accordance with the applicable regulations, at-sea transshipment may be conducted.
+
+### Article 32
+
+Transshipment of southern bluefin tuna by any southern bluefin tuna fishing vessel and carrier vessel shall be conducted in accordance with the “Regulations for Tuna Longline Fishing Vessels Proceeding to the Atlantic Ocean for Fishing Operation,” “Regulations for Tuna Longline or Purse Seine Fishing Vessels Proceeding to the Pacific Ocean for Fishing Operation,” or “Regulations for Tuna Longline Fishing Vessels Proceeding to the Indian Ocean for Fishing Operation.”
+
+The carrier vessel as referred to in the preceding paragraph shall be included in the list of carrier vessels of the CCSBT.
+
+Within 24 hours after the completion of transshipment by the carrier vessel as referred to in paragraph 1, an IOTC, Western and Central Pacific Fisheries Commission (WCPFC), Inter-American Tropical Tuna Commission (IATTC), or ICCAT Transshipment Declaration that contains southern bluefin tuna catch shall be submitted to the CCSBT Secretariat and the competent authority.
+
+### Article 32-1
+
+Carrier vessels shall separate and stow catch by fishing vessels transshipped, and shall develop a stowage plan for inspection that indicates name of each fishing vessel as well as the location and amount of southern bluefin tuna catch
+
+### Article 33
+
+Landing or transshipments of southern bluefin tuna in foreign ports shall be limited to port Cape Town of South Africa, port Louis of Mauritius, port Suva of Fiji, or port Majuro of the Marshall Islands.
+
+Any distant water fisheries operator intending to land or transship southern bluefin tuna in the ports as referred to in the preceding paragraph shall, at least seven working days before the estimated date of port entry, notify the competent authority through the Tuna Association, and shall, upon port entry, accept port inspections conducted by personnel dispatched by the competent authority or independent third party for verification of the catch landed or transshipped.
+
+Where southern bluefin tuna catch is sold directly to Japan through at-sea transshipment, the concerned distant water fisheries operator shall, at least seven working days before the estimated date of such catch arriving in Japan, notify the competent authority of the estimated date of arrival, and shall accept port inspections conducted by the independent third party for verification of the catch landed.
+
+The fees incurred from any catch inspection conducted by the independent third party at foreign ports shall be borne by the distant water fisheries operators of the fishing vessels being inspected.
+
+### Article 34
+
+Landing of southern bluefin tuna in domestic port shall be limited to Chienchen Fishing Harbor in Kaohsiung.
+
+Any distant water fisheries operator intending to conduct the landing as referred to in the preceding paragraph shall, at least seven working days before port entry of the fishing vessel, notify the competent authority through the Tuna Association, and shall, upon port entry, accept inspections conducted by personnel dispatched by the competent authority.
+
+### Article 35
+
+Southern bluefin tuna catch that shall be shipped back by fishing vessels of the domestic sale group shall arrive in the Republic of China before 31 March of the following fishing year and shall not be exported.
+
+### Article 36
+
+Where southern bluefin tuna caught by a fishing vessel is transported back to the Republic of China by merchant vessel, aircraft, or carrier vessel, or the vessel itself, its distant water fisheries operator shall declare to the competent authority no later than seven working days prior to the date of pickup or seven working days prior to the arrival of such catch, and shall accept inspection conducted by personnel dispatched by the competent authority upon port entry.
+
+## Chapter VII Observation and Inspection during Fishing Operations
+
+### Article 37
+
+For any fishing vessel that receives an observer assigned by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization, its distant water fisheries operator shall comply with the following:
+
+To notify the competent authority in writing at least seven working days before the date of estimated port entry or departure.
+
+To embark and disembark the observer at the time and place informed by the competent authority.
+
+To provide the observer, while onboard the vessel, with food, accommodation, adequate sanitary amenities, and medical facilities of a reasonable standard equivalent to those normally available to an officer onboard the vessel.
+
+To instruct the captain and crew of the vessel matters related to the cooperation with or assisting the observer in carrying out the duties.
+
+### Article 38
+
+For any fishing vessel that receives an observer assigned by the competent authority, any foreign country with which the fisheries cooperation is engaged, or any international fisheries organization, its captain shall comply with the following:
+
+The captain shall attend the pre-sail training course given by the competent authority.
+
+When the observer is on board the fishing vessel, the captain shall inform the observer of the daily routine, personal safety and vessel equipment.
+
+The captain shall cooperate with and assist the observer in carrying out duties, and shall not evade, obstruct or refuse to answer the inquiry related to the observation mission.
+
+The captain shall not interfere with, assault, intimidate, or bribe the observer.
+
+The captain shall provide the observer with adequate space, facilities, equipment and information on the vessel necessary for his/her daily living and for carrying out his/her duties.
+
+The captain shall request the crew to comply with the provisions stipulated in preceding three subparagraphs.
+
+The captain shall sign on the observation record(s) written by the observer. In case there are different views on such record(s) of the observer, captain’s opinions may be added.
+
+The captain shall ensure the safety of the observer. In case of emergency or distress, special care and refuge shall be provided to the observer.
+
+### Article 39
+
+In the event of boarding and inspection conducted by inspector(s) assigned by the competent authority, captains and crew of inspected vessels shall cooperate with and facilitate the safe boarding and disembarkation of the inspector(s), and provide the inspector(s) with adequate space, facilities and equipment for carrying out duties.
+
+## Chapter VIII Catch Monitoring Form
+
+### Article 40
+
+Applicants of southern bluefin tuna Catch Monitoring Form shall be limited to distant water fisheries operators of fishing vessels that catch southern bluefin tuna. Format of the Catch Monitoring Form is shown as Appendix 5.
+
+### Article 41
+
+For an application of southern bluefin tuna Catch Monitoring Form, applicants shall complete and submit an application form to the competent authority with the enclosure of the following documents:
+
+A Notification Sheet of Southern Bluefin Tuna Catch as certified by the Tuna Association. The format of the Notification Sheet is as shown in Appendix 6.
+
+A certificate showing the detailed amount of southern bluefin tuna transshipped by a carrier vessel.
+
+A certificate issued by the Tuna Association proving the concerned distant water fisheries operator has paid the reimbursement for the vessel reduction program in respect of the amount of catch of frozen tuna and billfish recorded in the transshipment declaration.
+
+The Catch Tagging Form.
+
+Three copies of southern bluefin tuna Catch Monitoring Form with completed information in printing.
+
+For any southern bluefin tuna catch that has been transshipped, the following persons shall confirm and jointly sign the transshipment column in the Catch Monitoring Form:
+
+For at-sea transshipment: the captains of the concerned fishing vessel and carrier vessel as well as the regional observer.
+
+For in-port transshipment: the captains of the concerned fishing vessel and carrier vessel.
+
+### Article 42
+
+Southern bluefin tuna catch retained on board during the current fishing year shall be fully transported no later than 31 October of the following fishing year, and an application for the Catch Monitoring Form shall be submitted.
+
+### Article 43
+
+Where southern bluefin tuna catch is shipped back for domestic sale, the concerned distant water fisheries operator shall declare the flow of such catch to the competent authority when applying for the Catch Monitoring Form.
+
+### Article 44
+
+In case of any of the following circumstances, in addition to the punishments prescribed in Article 36, paragraphs 1 to 4 or Article 41, paragraphs 1 and 2 of the Act and confiscation of the catch pursuant to Article 43 of the Act, applications for southern bluefin tuna Catch Monitoring Form shall be denied:
+
+Southern bluefin tuna is caught by any fishing vessel listed in the list of illegal, unreported, and unregulated fishing vessels as announced in accordance with Article 13, paragraph 2 of the Act.
+
+Any violation of the provisions stipulated in Article 13 of the Act or Article 48, paragraph 1 of the Fisheries Act during fishing operations of fishing vessels.
+
+Catching southern bluefin tuna without authorization from the competent authority.
+
+Failure to apply for transshipment or landing in accordance with the relevant regulations.
+
+### Article 45
+
+A southern bluefin tuna Catch Monitoring Form will be issued for an application made in accordance with Article 41 and approved by the competent authority after examination.
+
+The validity period of the southern bluefin tuna Catch Monitoring Form shall be four years from the date of landing completion.
+
+### Article 46
+
+Any distant water fisheries operator that obtains a southern bluefin tuna Catch Monitoring Form shall, within 60 days after completion of customs clearance for the concerned catch or fisheries products, complete and submit a Write-off Application Form to the competent authority with the enclosure of the following documents:
+
+Customs clearance data/information as issued by the importing country. Where the catch is exported from the Republic of China, a copy of the customs export declaration shall be enclosed. Where the catch is shipped back for domestic sale, such enclosure shall be exempted.
+
+A copy of the sales data/information of the catch.
+
+In the event that the document enclosed as referred to in the preceding paragraph is not written in Chinese or English, a Chinese translation shall be enclosed. For any applicant that fails to enclose the Chinese translation, the competent authority shall notify such applicant to supplement necessary documents within the required timeframe. Failing to supplement within the required timeframe shall be deemed as failing to apply for write-offs.
+
+### Article 47
+
+Provisions in the “Regulations for Issuing Distant Water Fisheries Catch Certificates” shall apply, mutatis mutandis, for the cancellation and re-issuance of southern bluefin tuna Catch Monitoring Forms.
+
+## Chapter IX Supplementary Provisions
+
+### Article 48
+
+In the event that southern bluefin tuna caught in the current fishing year is accidentally damaged such that it is unfit for sale, the concerned distant water fisheries operator shall, within 15 days after the occurrence of the damage, notify the cause of damage in writing through the Tuna Association to the competent authority.
+
+### Article 49
+
+These Regulations shall become effective on January 20, 2017.
+
+Amendments to these Regulations shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1 Fishing Areas.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008374)
+- [Appendix 2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008375)
+- [Appendix 3  Record Sheet of detached and replacement tags of southern bluefin tuna.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008376)
+- [Appendix 4  Measures to Reduce the Incidental Bycatch of Seabirds in Longline Fisheries.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008377)
+- [Appendix 5.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008378)
+- [Appendix 6  Notification Sheet of the Southern Bluefin Tuna Caught by Fishing Vessel.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008379)
+
+## History
+
+1.The full text of 49 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1061332035.
+
+2.Articles 2, 8, 9, 15 to 17, 37, 38, 49 amended and promulgated on 8 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1061388036.
+
+3.Articles 6 and 18 amended and promulgated on 14 January 2019 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1071339388.
+
+4.Articles 3, 8, 13, 15, and 27 to 29 amended and promulgated on 3 September 2020 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1091335565.
+
+5.Part of these Regulations amended and promulgated on 27 June 2022 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1111334652.
+
+6.Article 5, 6, 8, 10, 27, 32-1, and 41 amended and promulgated on 18 January 2024 by the Ministry of Agriculture under Order No. Nung-Yu-Tzu 1131532142.
+
+7.Article 2, 9, 14, 15, 20, 22, 32, 33, 35, and 42 amended and promulgated on 26 January 2026 by the Ministry of Agriculture under Order No. Nung-Yu-Tzu 1151532171.

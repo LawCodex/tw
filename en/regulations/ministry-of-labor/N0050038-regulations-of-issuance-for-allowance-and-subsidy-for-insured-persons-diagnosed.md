@@ -1,0 +1,151 @@
+---
+title: "Regulations of Issuance for Allowance and Subsidy for Insured Persons Diagnosed with Occupational Diseases After Withdrawing from Labor Occupational Accident Insurance"
+title_zh: "勞工職業災害保險被保險人退保後診斷罹患職業病補助及津貼核發辦法"
+identifier: "N0050038"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2022-03-09
+last_amended: 2024-07-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050038"
+retrieved: 2026-10-12
+---
+
+# Regulations of Issuance for Allowance and Subsidy for Insured Persons Diagnosed with Occupational Diseases After Withdrawing from Labor Occupational Accident Insurance
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0050038-regulations-of-issuance-for-allowance-and-subsidy-for-insured-persons-diagnosed.md](../../../zh/regulations/ministry-of-labor/N0050038-regulations-of-issuance-for-allowance-and-subsidy-for-insured-persons-diagnosed.md)) is authoritative.
+
+## Article 1
+
+These Regulations are drawn upon by Paragraph 2 of Article 78 of the Labor Occupational Accident Insurance and Protection Act (hereinafter referred to as the Act).
+
+## Article 2
+
+By the provisions of Paragraph 1 of Article 78 of the Act, the requirements and entities who may apply to the insurer for subsidies or allowances are as follows:
+
+\1. Medical care subsidies: Those who visit NHI hospitals or clinics for outpatient or inpatient treatment due to occupational diseases, and pay their expenses as stipulated by the National Health Insurance Act.
+
+\2. Permanent disability allowance: Those who suffer a permanent disability due to occupational diseases whose degree of disability conforms to the provisions of the disability benefit standard of labor occupational accident insurance.
+
+\3. Death allowance: Surviving family members of those who pass away due to occupational diseases.
+
+The provisions of Articles 52 and 53 of the Act shall apply mutatis mutandis to the receiving surviving family members, priorities, and method of distribution of death allowance to surviving family members specified in the preceding Paragraph.
+
+Insured persons as stipulated in Article 78 of this Act include those insured under labor occupational accident insurance and those who were insured under labor insurance before the implementation of this Act but have since left employment and withdrawn from the insurance.
+
+## Article 3
+
+The distribution criteria of the subsidies and allowances in the preceding Article are as follows:
+
+\1. Medical care subsidies: Distributed for outpatient, emergency, or hospitalization expenses that shall be borne by the National Health Insurance Act.
+
+\2. Permanent disability allowance: Distributed in a lump sum manner according to the average monthly insured salary when the insured is withdrawn from the insurance, and the number of days of the disability level approved according to the permanent disability benefit distribution criteria of labor occupational accident insurance.
+
+\3. Death allowance: Based on the average monthly insured salary when the insured withdraws from the insurance, which will be distributed in a lump-sum amount of 45 months of the salary.
+
+The average monthly insured salary specified in Subparagraphs 2 and 3 of the preceding Paragraph shall be calculated based on the average monthly insured salary of the insured for the six months preceding the month when the insured withdraws from the insurance; if it is less than six months, the average of the actual insurance period shall be calculated. The monthly insured salary is calculated; if it is distributed daily, it shall be calculated by dividing the average monthly insured salary by 30.
+
+If the average monthly insured salary calculated by the provisions of the preceding Paragraph is lower than the amount of Level 1 of the insurance salary scale of the Act at the time of diagnosis of permanent disability or death, it shall be calculated and paid according to the amount of Level 1.
+
+## Article 4
+
+For those who apply for medical care subsidies by Subparagraph 1, Paragraph 1 of Article 2, the subsidized period shall not exceed five years from the date of diagnosis of occupational diseases. However, those who require to continue to receive medical treatment due to the same occupational disease after being diagnosed by a specialist in the occupational medicine of an accredited medical institution may be extended for another five years only once.
+
+## Article 5
+
+Those who apply for permanent disability allowance by Subparagraph 2, Paragraph 2 of Article 2 may only apply once.
+
+After receiving permanent disability allowance by the provisions of the preceding Paragraph, if death is caused by occupational disease, the surviving family members may only claim death allowance deducted by the difference of the amount of disability allowance already received.
+
+An insured person who left employment and withdrew from labor insurance but had already claimed permanent disability benefits under Article 20-1 of the Labor Insurance Act dies due to an occupational disease after the implementation of this Act. In this case, surviving family members may only claim the difference between the death allowance and the already received permanent disability benefits. The calculation shall be in accordance with the following provisions based on the manner in which the permanent disability benefits were claimed:
+
+\1. Permanent disability lump sum benefit: the death allowance minus the permanent disability lump sum benefit already received.
+
+\2. Permanent disability pension: the death allowance minus the amount of the permanent disability pension and occupational injury or disease disability compensation already received.
+
+## Article 6
+
+If the insured has applied for permanent disability allowance before the death of the insured as specified in Paragraph 1 of Article 2, and has been approved by the insurer and has not yet been distributed, the surviving family members who comply with the provisions of Paragraph 2 of Article 2 may receive it.
+
+Surviving family members who receive permanent disability allowances by the preceding Paragraph shall not apply for death allowances; those who choose to apply for death allowances shall not receive permanent disability allowances.
+
+## Article 7
+
+The applicant for medical care subsidies shall submit the following documents:
+
+\1. Occupational disease medical care subsidy application form and receipt of the distribution.
+
+\2. Occupational illness diagnosis certificate.
+
+\3. Receipts of medical expenses and details of the fees collected.
+
+\4. Occupational Disease Records Report for Occupational Accident Insurance.
+
+## Article 8
+
+The applicant for permanent disability allowance shall submit the following documents:
+
+\1. Occupational disease permanent disability allowance application form and receipt of the distribution.
+
+\2. Permanent disability diagnosis certificate. Those who have undergone medical examination shall submit the examination report and relevant images.
+
+\3. Occupational illness diagnosis certificate.
+
+\4. Occupational Disease Records Report for Occupational Accident Insurance.
+
+For the permanent disability diagnosis certificate specified in Subparagraph 2 of the preceding Paragraph, the level of the issuing medical institution shall comply with mutatis mutandis the permanent disability benefit distribution criteria of labor insurance.
+
+## Article 9
+
+The applicant for death allowance shall submit the following documents:
+
+\1. Occupational disease death allowance application form and receipt of the distribution.
+
+\2. Death certificate or public prosecutor's autopsy certificate.
+
+\3. A transcript of the overall household registration with the date of death. If the surviving family member is a foster child, the date of adoption and registration shall be stated; if the surviving family member and the deceased are not in the same household registration, each household registration transcript shall be submitted altogether.
+
+\4. If the surviving family members are grandchildren or siblings, the relevant supporting documents of the insured specified in Paragraph 1 of Article 2 shall be attached to the application to indicate that such members were raised by the insured.
+
+\5. Occupational illness diagnosis certificate.
+
+\6. Occupational Disease Records Report for Occupational Accident Insurance.
+
+## Article 10
+
+The occupational disease diagnosis certificate specified in Articles 7 to 9 shall be issued by a specialist in the occupational medicine of a medical institution approved based on Paragraph 1 of Article 73 of the Act.
+
+If the insured specified in Paragraph 1 of Article 2 seeks medical treatment in Penghu County, Kinmen County, Lienjiang County, and other outlying island areas, the occupational disease diagnosis certificate may be issued by the physician of the NHI hospital or clinic where the treatment was originally given without being subject to the provisions of the preceding Paragraph.
+
+## Article 11
+
+Those who have received subsidies or allowances under these Regulations for the same occupational disease may be exempted from submitting the occupational disease diagnosis certificate and occupational disease record report stipulated in Articles 7 to 9.
+
+If the content of the occupational disease report for occupational accident insurance stipulated in Articles 7 to 9 has been specified in the occupational disease diagnosis certificate, it may be exempted from being submitted.
+
+## Article 12
+
+The insured or the surviving family members that meet the conditions for applying for permanent disability or death allowances in Paragraph 1 of Article 2 and may apply for other benefits or subsidies stipulated in the Act or the Labor Insurance Act due to the same permanent disability or death accident may only select the distribution of either of the allowances, benefits or subsidies.
+
+## Article 13
+
+The review, approval, and distribution of medical care subsidies, permanent disability allowances, and death allowances provided for in Article 78 of the Act by the insurer shall be handled by the relevant provisions of the Act unless otherwise specified in these Regulations.
+
+If the subsidy or allowance is over-distributed or mistakenly claimed because the application conditions stipulated in these Regulations are not met, the insurer shall revoke or cancel all or part of the subsidy and allowance, and shall issue a written administrative sanction to order the subsidy and allowance to be returned within a time limit.
+
+## Article 14
+
+These Regulations shall be enforced on May 1, 2022.
+
+The amended provisions of these regulations shall take effect from the date of promulgation.
+
+## History
+
+1.Promulgated on March 9, 2022
+
+2.Amended on July 15, 2003

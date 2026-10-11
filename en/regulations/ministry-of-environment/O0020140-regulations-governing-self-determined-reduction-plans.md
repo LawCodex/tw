@@ -1,0 +1,207 @@
+---
+title: "Regulations Governing Self-determined Reduction Plans"
+title_zh: "自主減量計畫管理辦法"
+identifier: "O0020140"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞氣候變遷目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2024-08-29
+last_amended: 2026-09-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020140"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Self-determined Reduction Plans
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020140-regulations-governing-self-determined-reduction-plans.md](../../../zh/regulations/ministry-of-environment/O0020140-regulations-governing-self-determined-reduction-plans.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated in accordance with Article 29, Paragraph 3 of the Climate Change Response Act (hereinafter referred to as "this Act").
+
+## Article 2
+
+Entities required to declare and pay carbon fees under Article 28 of this Act (hereinafter referred to as "entities") may apply to the central competent authority for approval of a self-determined reduction plan in accordance with these Regulations.
+
+## Article 3
+
+When entities apply for a self-determined reduction plan, they shall submit an application to the central competent authority based on the boundaries of establishment, registration, or operation as approved by the relevant competent authority. The entities must also upload the following information to the designated information platform in the prescribed format:
+
+\1. Copies of relevant certification documents issued by the competent authority of the target entity, showing approval of its establishment, registration, or operation.
+
+\2. Calculation of the annual GHG emissions of the entire factory (site) for both the base year and the target year, in accordance with the designated targets specified in Article 29, Paragraph 2, of this Act.
+
+\3. The content of the self-determined reduction plan is as follows:
+
+(1) Basic information of the entity.
+
+(2) The implementation period of the self-determined reduction plan, shall be from the application date until the target year. However, the period for recognizing reduction measures may extend from the baseline year to the target year.
+
+(3) Plan boundary setting and explanation.
+
+(4) Factory layout plan, production process flow chart, main product output, and production schedule.
+
+(5) GHG emission sources, raw materials, fuel types, caloric value, usage, and the amount of electricity purchased from external sources.
+
+(6) Estimated GHG emissions of the entire plant for each year up to the target year, along with an explanation of the assessment process to achieve the specified target.
+
+(7) Methods for adopting reduction measures, implementation plans, and explanatory information for calculating and determining reduction effectiveness.
+
+(8) The expected year-by-year progress of various reduction measures, relevant budget allocations, and checkpoints.
+
+\4. Any other documents as designated by the central competent authority.
+
+## Article 4
+
+The reduction measures specified in Paragraph 3, item 7 of the preceding article are as follows:
+
+\1. Conversion to low-carbon fuels: Convert high GHG emission fuels, such as coal or oil used in stationary combustion emission sources, into natural gas, biomass energy, ammonia, hydrogen energy, or other low-carbon fuels.
+
+\2. Improve energy efficiency: Enhance the efficiency of energy-using equipment such as boilers, process power systems, air conditioners, air compressors, pumps, refrigeration, and lighting, or adopt other energy-saving measures such as off-peak ice storage and the installation of energy management information systems.
+
+\3. Use of renewable energy: Utilize renewable energy as specified in Article 3, Paragraph 1, of the Renewable Energy Development Act, which has achieved significant GHG reduction results, or use renewable energy certificates issued by the National Renewable Energy Certification Center.
+
+\4. Process improvement: Implement raw material substitution, equipment replacement or dismantling, recycling or reducing steam use, carbon dioxide capture and storage (CCS), carbon dioxide capture and utilization (CCU), removal of GHGs such as fluorinated gases and nitrous oxide, or other measures that can effectively reduce GHG emissions.
+
+\5. Negative emission technology: Adopt Direct Air Capture with Carbon Storage (DACCS), Bioenergy with Carbon Capture and Storage (BECCS), or other technologies capable of removing greenhouse gases from the atmosphere.
+
+## Article 5
+
+Several entities under the same legal person (hereinafter referred to as "multiple entities") may jointly apply for a self-determined reduction plan. One of the entities shall represent the group in submitting the application in accordance with these regulations.
+
+In addition to submitting application documents for multiple entities in accordance with the provisions in Article 3, the representative entity mentioned in the preceding paragraph shall also submit documents proving that the entities belong to the same legal person and calculate the GHG emissions of the combined entities for both the base year and the target year.
+
+## Article 6
+
+When the central competent authority accepts an application related to these Regulations, it shall form a review team in collaboration with the central competent authority of the relevant industry. If necessary, experts and scholars may be selected to assist in the review. A decision on the review results shall be made within three months, with extensions possible if needed.
+
+If, during the examination of the submitted materials, the central competent authority finds inconsistencies or deficiencies, it will detail the required corrections and notify the entity to make the necessary amendments within a specified time limit. The days allotted for corrections will not be counted as part of the review period, and the total correction period shall not exceed sixty days. If the entity fails to correct the application within the time limit or if the corrections remain inconsistent with the regulations, the application will be rejected.
+
+## Article 7
+
+When the central competent authority examines and approves a self-determined reduction plan, it shall approve the following matters:
+
+\1. Boundaries of the self-determined reduction plan.
+
+\2. Target year designated goals and annual designated goals.
+
+\3. Implementation period of the self-determined reduction plan.
+
+\4. Applicable preferential rate levels.
+
+\5. Approved reduction measures and verification methods.
+
+\6. Other matters designated by the central competent authority.
+
+The central competent authority may regularly disclose the matters approved in the preceding paragraph on a designated website.
+
+## Article 8
+
+The entity shall implement the self-determined reduction plan and the approved matters according to the review and approval. If there are changes to the basic information, the entity shall submit relevant supporting documents and apply for a plan change to the central competent authority within 60 days after the change.
+
+During the implementation of the self-determined reduction plan, if the entity encounters any of the following circumstances, it may submit a plan change application to the central competent authority in accordance with the provisions in Article 3:
+
+\1. The designated target for the target year and the applicable preferential rate level are changed due to an increase in the reduction effect.
+
+\2. Changes in processes, raw materials, fuels, or products due to the replacement of equipment or expansion of production capacity.
+
+\3. Addition or modification of reduction measures.
+
+\4. Differences in the calculation results of annual GHG emissions in the base year due to future changes in relevant regulations on GHG emissions inventory.
+
+\5. Other reasons as determined by the central competent authority.
+
+## Article 9
+
+Entities shall submit the implementation progress report of the self-determined reduction plan for the previous year (hereinafter referred to as the implementation report) to the central competent authority before April 30 of each year.
+
+The implementation report shall include the following contents:
+
+\1. Basic information of the entity.
+
+\2. GHG sources, raw materials, fuel types and amounts, and purchased electricity amounts.
+
+\3. The GHG emissions of the current year, along with a progress description and supporting documents for achieving the designated annual targets.
+
+\4. The implementation progress and supporting documents for various reduction measures.
+
+\5. Other relevant information required by the central competent authority.
+
+## Article 10
+
+The central competent authority shall complete the verification of the previous year's implementation report before the end of December each year. The verification may be conducted in the form of a written review or an on-site inspection.
+
+When reviewing a self-determined reduction plan jointly applied by multiple entities, the central competent authority shall prioritize reviewing the goals of the target year and the total GHG emissions in relation to the annual designated targets of the combined entities. If the total GHG emissions of the audited entities fail to meet the designated target, the central competent authority shall conduct verification of individual entities in accordance with the provisions in the preceding paragraph.
+
+## Article 11
+
+If an entity implements the approved self-determined reduction plan and meets the annual designated target after verification by the central competent authority, preferential rates shall be applied in accordance with the following provisions:
+
+\1. For entities applying for a self-determined reduction plan before June 30: the preferential rate applies for the application year and throughout the implementation period of the self-determined reduction plan.
+
+\2. For entities applying for a self-determined reduction plan after July 1: the preferential rate applies starting from the following year.
+
+## Article 11-1
+
+Where a first-time regulated entity submits a self-determined reduction plan before October 31 of the year in which it completes, as required, the inventory, registration and verification of its greenhouse gas emissions, and the plan is approved by the central competent authority, Subparagraph 1, Paragraph 1 of the preceding article shall apply.
+
+The term “first-time regulated entity” in the preceding paragraph means an entity as defined in Article 3-1, Paragraph 2 of the Regulations Governing the Collection of Carbon Fees.
+
+## Article 12
+
+If, during the central competent authority's inspection of an entity's implementation of its self-determined reduction plan, any of the following circumstances are found, the authority shall order the entity to make improvements within a specified time limit:
+
+\1. The important information in the self-determined reduction plan is inconsistent with the actual situation.
+
+\2. After the self-determined reduction plan is approved, the reduction measures are not implemented in accordance with the planning schedule within one year, without justifiable reasons.
+
+\3. The implementation of the planned reduction measures violates relevant laws and regulations.
+
+## Article 13
+
+If an entity implements a self-determined reduction plan and any of the following circumstances occurs, the central competent authority may cancel the approved self-determined reduction plan:
+
+\1. The entity ceases operations, goes out of business, is dissolved, or is unable to continue implementing its self-determined reduction plan for any reason.
+
+\2. The entity fails to complete the required improvements within the time limit as stipulated in the preceding article.
+
+## Article 14
+
+If an entity fails to meet the target year or annual designated targets upon inspection by the central competent authority, or if the entity abolishes its self-determined reduction plan, the central competent authority shall order the entity to pay the carbon fee at the standard rate. The regulations are as follows:
+
+\1. Failure to meet the designated target of the target year or annual designated target after verification: The standard rate will be applied starting from the year the goal was not met.
+
+\2. Abolition of the voluntary reduction plan: The standard rate will apply from the year of abolition and for subsequent years.
+
+## Article 15
+
+When an entity applies for approval of a self-determined reduction plan, the relevant documents, records, and supporting materials—including the application information, approval content, and implementation results of the self-determined reduction plan—shall be kept for six years for future reference.
+
+## Article 16
+
+If an entity fails to submit an implementation report or implement reduction measures as per the schedule due to natural disasters, epidemics, or other force majeure events, it shall provide a written explanation and submit relevant supporting documents before the expiration of the time limit. The entity may apply to the central competent authority for an extension, and the time limit will be adjusted accordingly upon approval by the central competent authority.
+
+## Article 17
+
+After the expiration of the implementation period of the self-determined reduction plan, if the central competent authority verifies that the target annual reduction performance exceeds the designated target, the entity may submit an application for reduction performance verification to the central competent authority between November 1 and December 31, 2031.
+
+The reduction performance mentioned in the preceding paragraph may be applied as a source of offset for increased GHG emissions. The calculation of the reduction performance shall be based on the calculation provisions of Appendix 6 of Article 5, Paragraph 4, of the Regulations Governing Offset for Increased GHG Emissions.
+
+Where an entity applies for reduction performance verification under Paragraph 1, any reduction performance generated by reduction measures subsidized by the central competent authority, other government agencies, or agencies (institutions) commissioned by them shall not be included in the verification of reduction performance exceeding the designated target. However, this restriction shall not apply where the entity can demonstrate that such reduction performance was not generated by the subsidized reduction measures, or where the reduction performance corresponding to the subsidy has already been deducted in accordance with the requirements of the central competent authority.
+
+Where an entity applies for reduction performance verification under Paragraph 1 and the reduction performance involves the subsidized reduction measures referred to in the preceding paragraph, the entity shall additionally submit information on the subsidizing agency, the subsidized items, the subsidy amount, the subsidy period, the content of the subsidized reduction measures, and an explanation of the calculation of the reduction performance.
+
+## Article 18
+
+These Regulations shall come into effect as of the date of promulgation.
+
+## History
+
+\1. Full text in 18 articles promulgated by the Ministry of Environment Order Huan-Pu-Chi-Tzu No. 1139109483 on August 29, 2024.
+
+\2. Revisions to Article 17 and the addition of Article 11-1 promulgated by the Ministry of Environment Order Huan-Pu-Chi-Tzu No.1159110601 on September 1, 2026.

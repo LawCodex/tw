@@ -1,0 +1,131 @@
+---
+title: "Regulations on Payment of Rewards for Reporting of Illegal Concerted Actions"
+title_zh: "檢舉違法聯合行為獎金發放辦法"
+identifier: "J0150022"
+type: regulation
+law_level: "命令"
+category: "行政＞公平交易委員會＞公平交易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-10-07
+last_amended: 2025-12-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0150022"
+retrieved: 2026-10-12
+---
+
+# Regulations on Payment of Rewards for Reporting of Illegal Concerted Actions
+
+> Translation. The Chinese text ([zh/regulations/fair-trade-commission/J0150022-regulations-on-payment-of-rewards-for-reporting-of-illegal-concerted-actions.md](../../../zh/regulations/fair-trade-commission/J0150022-regulations-on-payment-of-rewards-for-reporting-of-illegal-concerted-actions.md)) is authoritative.
+
+## Article 1
+
+These regulations herein（"the Regulations”）are enacted in accordance with Paragraph 4 of Article 47-1 of the Fair Trade Act（hereinafter referred to as "the Act"）.
+
+## Article 2
+
+Any informer providing the competent authority with evidence of an illegal concerted action, not known yet by the competent authority, shall be given a reporting reward in accordance with the Regulations once the competent authority has confirmed the enterprise’s violating the Paragraph 1 of the Article 15 of the Act after investigation by the competent authority.
+
+## Article 3
+
+Informers referred in the preceding article include natural persons, juristic persons, or unincorporated associations with representatives or administrators.
+
+Informers may report to the competent authority by written or verbal statements, emails, or other means stating clearly the following items:
+
+\1. informers’ names, contact information, and addresses;
+
+\2. content of the reported illegal concerted actions and specific descriptions of violating conducts, relevant data, or clues qualified for investigation etc. which fulfill the criteria set forth in Paragraph 1 of Article 5.
+
+Where a report is made verbally, the competent authority shall produce a written record for the reporting.
+
+## Article 4
+
+The Regulations shall not apply to any informer under any one of the following circumstances:
+
+\1. The informer reports anonymously or conceals the real name, contact information, or address;
+
+\2. The informer is the enterprise involved in the concerted action;
+
+\3. The informer is the enterprise granted immunity or reduction of the fine in accordance with “Regulations on Immunity and Reduction of Fines in Illegal Concerted Action Cases”, or the director, representative, or other authorized person of such enterprise;
+
+\4. The informer coerces other enterprises into participating in or restricts their withdrawal from the concerted action;
+
+\5. The informer belongs to the staff of the competent authority, or is their spouse or relative within the third degree of kinship; or
+
+\6. The informer is the agency that acquires evidence of the illegal concerted action due to exercise of its authority, the staff thereof, or their spouse or relative within the third degree of kinship.
+
+## Article 5
+
+After an imposition of a fine on an illegal concerted action, the competent authority’s criteria for granting any reporting reward based on the value of evidence provided by the informer are as follows:
+
+\1. In case that the informer provides evidence and data helpful to initiation of the investigation proceeding, the reporting reward will be 5% of the sum of the fine with a minimum of one hundred thousand（100,000）New Taiwan Dollars and a maximum of one million（1,000,000）New Taiwan Dollars;
+
+\2. In case that the informer provides evidence and data indirectly proving the agreement of the concerted action, the reporting reward will be 10% of the sum of the fine with a minimum of one hundred thousand（100,000）New Taiwan Dollars and a maximum of ten million（10,000,000）New Taiwan Dollars; and
+
+\3. In case that the informer provides evidence and data directly proving the agreement of the concerted action without any need for further investigation, the reporting reward will be 20% of the sum of the fine with a minimum of one hundred thousand（100,000）New Taiwan Dollars and a maximum of twenty million（20,000,000）New Taiwan Dollars.
+
+In the event that the sum of the fine on an illegal concerted action amounts to 200 million New Taiwan Dollars or more but less than 500 million New Taiwan Dollars, the maximum of the reward referred in the preceding paragraph shall be doubled; and if the sum of the fine on an illegal concerted action amounts to 500 million New Taiwan Dollars or more, the maximum of the reward referred in the preceding paragraph shall be five times the original maximum.
+
+If evidence provided by an informer for the same case meets the conditions set forth in two or more subparagraphs of Paragraph 1 simultaneously, the reporting reward shall be decided according to the subparagraph prescribing a greater amount of the reward. An informer is entitled to receive a reward only once for one case.
+
+The reporting reward shall be distributed evenly among several informers if evidence described in Paragraph 1 is under any one of the following circumstances:
+
+\1. Several informers jointly provide evidence described in same subparagraph or separately provide identical evidence at the same time without discernible sequence; or
+
+\2. Several informers provide evidence described in the same subparagraph and unknown to the competent authority.
+
+## Article 6
+
+In the event that no fine is imposed on the reported illegal concerted action, the competent authority may, at its discretion, grant each informant a reporting reward not less than fifty thousand（50,000）New Taiwan Dollars but not more than one million（1,000,000）New Taiwan Dollars based on the value of evidence provided by each informer.
+
+## Article 7
+
+After imposing an administrative disposition for an illegal concerted action, the competent authority shall grant the reporting reward within thirty（30）days in accordance with the following methods:
+
+\1. For each informer, the portion of the reward below one million（1,000,000）New Taiwan Dollars shall be paid in a lump sum.
+
+\2. For each informer, a quarter of the portion of the reward exceeding one million（1,000,000）New Taiwan Dollars shall be paid in the first installment.
+
+As for the reward descried in Subparagraph 2 of Paragraph 1, the remainder thereof shall be paid after the disposition of the administrative fine is affirmed and becomes final. If a part of the disposition is revoked, or the competent authority remakes the administrative disposition to impose a lesser fine, the remainder of the reward shall be recalculated according to the revised amount of the fine. No additional reward will be paid in the event of no balance after the recalculation.
+
+A right to claim a reward for reporting is extinguished by prescription if it is not exercised within ten years.
+
+## Article 8
+
+Except as otherwise provided in Article 9 of the Regulations, the payment of a reporting reward shall not be revoked.
+
+## Article 9
+
+The competent authority shall grant no reporting reward or revoke the payment thereof in case there is any one of the following events for an informer:
+
+\1. There is any circumstance specified in Article 4;
+
+\2. The informer directly or indirectly discloses any reported facts or content before the competent authority imposes any administrative disposition;
+
+\3. The informer uses counterfeited or altered evidence, which the informer has been convicted in a final and binding judgment.
+
+\4. The report is based on information obtained from the Internet, television, radio, newspapers, magazines, or other publicly available sources.
+
+## Article 10
+
+The identity of an informer and other relevant information shall be kept confidential.
+
+Any conversation records or original documents containing an informer’s real identity information shall be kept in a separate sealed file. Other documents sufficient to reveal an informer’s identity shall be kept in the same way.
+
+Except otherwise provided in laws, the conversation records and documents stated in the preceding paragraph shall not be provided for review or to any agencies, groups, or individuals other than the criminal investigation authorities or the judicial organs.
+
+## Article 11
+
+The Regulations shall enter into force on the day of promulgation.
+
+## History
+
+1.Full Text composed of 11 Articles hereof were promulgated by Order Kung Fa Tzu No. 10415608631 on October 7, 2015
+
+2.Part of the provisions hereof were amended by Order Kung Fa Tzu No. 1051560602191 on April 19, 2016
+
+3.Full Text composed of 11 Articles hereof were amended by Order Kung Fa Tzu No. 1101560525 on November 26, 2021
+
+4.Article 9 was amended by Order Kung Fa Tzu No.1141560658 on December 3, 2025

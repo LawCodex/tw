@@ -1,0 +1,159 @@
+---
+title: "Regulations Governing Approval of Registration and Management of Business Entities Setting up Operation or Liaison Offices within the Technology Industrial Parks"
+title_zh: "在科技產業園區內設有營業或聯絡處所之事業核准登記管理辦法"
+identifier: "J0050014"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞園區管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-11-28
+last_amended: 2023-11-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0050014"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Approval of Registration and Management of Business Entities Setting up Operation or Liaison Offices within the Technology Industrial Parks
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0050014-regulations-governing-approval-of-registration-and-management-of-business.md](../../../zh/regulations/ministry-of-economic-affairs/J0050014-regulations-governing-approval-of-registration-and-management-of-business.md)) is authoritative.
+
+## Article 1
+
+The Regulations are prescribed in accordance with the provisions of Paragraph 6, Article 11 of Act for the Establishment and Administration of Technology Industrial Parks.
+
+## Article 2
+
+Business entities that meet the following conditions may apply to set up operation or liaison offices within the Technology Industrial Parks (hereinafter referred to as “the Parks”):
+
+\1. The applicant is a company, firm, foundation, or juridical association outside the Parks, a specialized technician who has completed the practice registration, or a foreign company that has applied to the central competent authority for recordation pursuant to Article 386 of the Company Act.
+
+\2. The types of business entities in operation are consistent with the types of business entities permitted to set up operation or liaison offices within the Parks.
+
+Except for gasoline stations and freight truck transport businesses, business entities may apply to the Bureau of Industrial Parks, Ministry of Economic Affairs (hereinafter referred to as “the BIP”) or its branches in accordance to where the business is located for company registration without being subject to the limitation concerning companies outside the Parks as mentioned in Subparagraph 1 of the preceding paragraph.
+
+## Article 3
+
+Business entities that apply to set up operation or liaison offices within the Parks shall obtain approval from the BIP or its branches before applying for registration. However, business entities engaged in freight truck transport, customs clearance services, insurance activities, waste collection and materials recovery, legal and accounting activities, postal saving and remittance services, or the self-usage power generation equipment utilizing renewable energy industry may apply for approval and registration at the same time.
+
+Business entities engaged in the self-usage power generation equipment utilizing renewable energy industry, as set forth in the preceding paragraph, may not be required to set up offices within the Parks if approval from the BIP or its branches has been obtained.
+
+## Article 4
+
+Business entities applying for the approval set forth in the preceding article shall fill in an application form and submit the following documents:
+
+\1. Photocopies of certificates or proof of operation, practice, or recordation issued to a company, business, foundation, juridical association, specialized technician, or foreign company’s operation or liaison offices in Taiwan.
+
+\2. Photocopies of identity documents of the responsible person.
+
+\3. A plan.
+
+\4. Other required and relevant documents.
+
+Freight truck transport businesses and express delivery businesses transporting goods out of the Parks or delivering goods from foreign countries into the Parks shall submit the following documents along with the documents listed in the preceding paragraph:
+
+\1. Vehicle registration documents.
+
+\2. Proof of duty payment for the latest quarter.
+
+\3. Photocopies of the driver’s license.
+
+\4. Affidavits sworn and signed by driver s or operators of the company to comply with the traffic regulations and applicable laws and regulations governing the Parks when working inside the Parks.
+
+\5. Photocopies of the membership card issued by a cargo transportation association.
+
+\6. Photocopies of valid bonded truck licenses issued by Customs (for bonded carriers).
+
+Basic information about the company, the location of its liaison office, the types of its operation, and its financial plans shall be included in the plan mentioned in Subparagraph 3 of Paragraph 1.
+
+## Article 5
+
+In the case of freight truck transport businesses or express delivery businesses that have set up operation or liaison offices within each Park, as registered by the BIP or its branches in accordance to where the business is located, a pass shall be issued to each of their vehicles. However, the pass shall be renewed every two years.
+
+## Article 6
+
+Business entities applying to register their operation or liaison offices within the Parks shall submit an application form and the following documents to the BIP or its branches in accordance to where the business is located:
+
+\1. Photocopies of certificates or proof of operation, practice, or recordation issued to a company, business, foundation, juridical association, specialized technician, or foreign company’ operation or liaison offices in Taiwan.
+
+\2. Photocopies of the business license issued by the competent authority in the case of businesses that require permission.
+
+\3. Photocopies of identity documents of the responsible person or the person in charge of the business within the Parks.
+
+\4. Certificates of use of the land or building where the operation or liaison office is located within the Parks, as well as a leased land or building plan in which the leased area is indicated.
+
+\5. Photocopies of the approval documents issued by the BIP or its branches.
+
+## Article 7
+
+The BIP or its branches shall approve or reject applications for approval and registration of business entities setting up operation or liaison offices within the Parks within 30 days (holidays not included) after receiving the applications, except when notices of supplementary documents or corrections are given.
+
+## Article 8
+
+The following particulars shall be recorded by the BIP or its branches while processing the applications for registration of business entities setting up operation or liaison offices within the Parks:
+
+\1. Name of the operation or liaison office.
+
+\2. Person in charge of the business within the Parks.
+
+\3. Address of the operation or liaison office within the Parks.
+
+\4. Type of business entities approved to set up the operation or liaison office.
+
+\5. Area of the land or building used for the operation or liaison office.
+
+\6. Name, address, and responsible person of the head office.
+
+\7. Vehicles used by freight truck transport businesses to transport goods out of the Parks and deliver goods from foreign countries into the Parks.
+
+Those obtaining approval in accordance with Paragraph 2 of Article 3 may be exempt from recordation of the particulars listed in Subparagraphs 3 and 5 of the preceding paragraph.
+
+## Article 9
+
+In case of changes in the registered particulars about the business entities having set up operation or liaison offices within the Parks, the person in charge of the business within the Parks shall, within 15 days from the day when the changes take place, submit an application form for registration of change and relevant documents to the BIP or its branches in accordance to where the business is located to apply for registration of the changes.
+
+## Article 10
+
+The establishment and operations of the business entities having set up operation or liaison offices within the Parks shall conform to the applicable laws and regulations concerning construction management, fire protection, safety and health as well as environmental protection.
+
+## Article 11
+
+The BIP or its branches may assign a specific location based on the industrial classification to the business entity having set up an operation or liaison office within the Parks when it applies for a location for its operations.
+
+## Article 12
+
+Business entities having set up operation or liaison offices within the Parks shall apply to the BIP or its branches in accordance to where the business is located for issuance of passes to their vehicles.
+
+Personnel and vehicles entering and exiting the Parks shall undergo mandatory inspection by the BIP or its branches, the Customs, and security guards. Traffic must be kept unobstructed during business operations.
+
+Trucks, containers, and machines entering the Parks for operations shall exit the Parks prior to 9 p.m. on the same day. If any trucks, containers, or machines must stay in the Parks for operations after the specified time due to justifiable reasons, a report shall be filed with the police brigade.
+
+Each truck or tractor entering the Parks for operations may be equipped with a maximum of two trailers.
+
+## Article 13
+
+When terminating their business operations within the Parks, business entities having set up operation or liaison offices within the Parks shall apply to the BIP or its branches in accordance to where the business is located for cancellation of registration. Companies registered in the Park without operation or liaison offices in the Park and other Parks shall apply for dissolution of the company or removal from the Parks at the same time.
+
+## Article 14
+
+The Regulations shall come into force from the date of promulgation.
+
+## History
+
+1.Promulgated on November 28, 2001
+
+2.Amended on April 7, 2004
+
+3.Amended on May 6, 2008
+
+4.Amended on February 13, 2012
+
+5.Amended on August 9, 2016
+
+6.Amended on September 27, 2018
+
+7.Amended on April 6, 2021
+
+8.Amended on November 6, 2023

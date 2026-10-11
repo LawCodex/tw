@@ -1,0 +1,245 @@
+---
+title: "Administrative Regulations on the Establishment and Operation of the Dedicated Taxi Telecommunications Network"
+title_zh: "計程車專用電信網路設置使用管理辦法"
+identifier: "K0060148"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞通訊目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-22
+last_amended: 2023-11-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060148"
+retrieved: 2026-10-12
+---
+
+# Administrative Regulations on the Establishment and Operation of the Dedicated Taxi Telecommunications Network
+
+> Translation. The Chinese text ([zh/regulations/national-communications-commission/K0060148-administrative-regulations-on-the-establishment-and-operation-of-the-dedicated.md](../../../zh/regulations/national-communications-commission/K0060148-administrative-regulations-on-the-establishment-and-operation-of-the-dedicated.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These regulations are enacted in accordance with Paragraph 7, Article 50 of the Telecommunications Management Act. The matters not provided herein shall be prescribed in accordance with other laws and regulations.
+
+### Article 2
+
+The term “dedicated taxi telecommunications network”（hereinafter referred to as “telecommunications network”）used in the Regulations refers to the following equipment installed for the purpose of taxi dispatch and communications:
+
+\1. Dedicated taxi radio base station (hereinafter referred to as "Base Station");
+
+\2. Dedicated taxi radio car station (hereinafter referred to as "Car Station");
+
+\3. Main control room facilities.
+
+## Chapter 2 Establishment and Use
+
+### Article 3
+
+Those that apply for the establishment of telecommunications network（hereinafter referred to as “Applicant”）shall be limited to legal entities or organizations whose taxi or taxi service business has been approved by the competent authority of highways.
+
+The Applicant under the preceding Paragraph shall possess at least 150 vehicles within the same taxi business operating area where the Base Station is located.
+
+The competent authority of highways may, depending on local characteristics, adjust the number of vehicles upon negotiating with the competent authority. The said adjustment shall not be bound by the restrictions prescribed in the preceding Paragraph.
+
+Where the Applicant is a legal entity or organization established for persons with disabilities in accordance with the laws, the number of Car Stations under the preceding Paragraph shall be set by the competent authority of highways respectively.
+
+### Article 4
+
+（Deleted）
+
+### Article 5
+
+The Applicant shall submit the following documents to the responsible competent authority of highways along with its application:
+
+\1. Application form for the establishment of the dedicated telecommunications network
+
+\2. Operating plan;
+
+\3. Taxi owner’s letter of intent for establishing Car Stations, or an affidavit from the drivers and the list of Car Stations.
+
+The operating plan as described in Subparagraph 2 of the preceding Paragraph shall specify the following:
+
+\1. Organizational structure;
+
+\2. Source of funds;
+
+\3. Business operating model;
+
+\4. Staff;
+
+\5. Development plan;
+
+\6. Service branding development plan.
+
+The responsible competent authority of highways may invite other competent authorities of highways, Ministry of Digital Affairs, local police agencies, other competent authorities, scholars and experts to form a review committee when evaluating the application as per Paragraph 1.
+
+The documentation under Subparagraph 1 of Paragraph 1 shall be reviewed by the Ministry of Digital Affairs and the competent authority. The documentation under Subparagraphs 2 and 3 of Paragraph 1 shall be reviewed by the responsible competent authority of highways. After passing the review, the responsible competent authority of highways shall issue an approval letter accordingly.
+
+Applicants under Paragraph 1 shall, upon receipt of the approval letter issued by the responsible competent authority of highways, apply to the Ministry of Digital Affairs for the assignment of radio frequency. Those that fail to do so within the prescribed period shall state the reasons in writing and apply to the responsible competent authority of highways for an extension prior to the expiry. The extended period shall not exceed one month and such extension shall be granted once only.
+
+### Article 6
+
+（Deleted）
+
+### Article 7
+
+（Deleted）
+
+### Article 8
+
+The Applicant shall submit the following documents to apply for the establishment of Base Station and Car Station（hereinafter referred to as “Station”）:
+
+\1. Copy of the frequency use certificate issued by the Ministry of Digital Affairs;
+
+\2. Application form for the establishment permit of a Radio Station.
+
+Where the application under the preceding Paragraph is approved, the competent authority shall issue a six-month valid establishment permit.
+
+Applicants that fail to complete the establishment within the validity of the establishment permit may, within a month prior to the permit expiry date, apply to the competent authority for an extension with specified reasons. The extended period shall not exceed six months and such extension shall be granted once only.
+
+Applicants that alter the telecommunications network equipment or change the location thereof shall submit an application to the competent authority and notify the responsible competent authority of highways thereof. Upon approval of the application, the competent authority shall issue the establishment approval; otherwise, the application shall be rejected.
+
+Where the Applicant fails to complete the establishment within the validity of establishment approval, the Station equipment thereof shall be disposed in accordance with “Regulations Governing the Manufacture, Import and Declaration of Controlled Telecommunications Radio-frequency Devices”.
+
+### Article 9
+
+Upon completion of the establishment of Station, the Applicant shall submit the inspection application form to the competent authority to apply for station inspection.
+
+During the inspection, the Applicant shall present the establishment approval and a certificate that proves the legal source of the equipment. Where the equipment is imported from overseas, the import permit of the said equipment shall also be presented for inspection.
+
+Where the Applicant passes the inspection, the competent authority shall issue the Base Station and Car Station licenses.
+
+Applicants that fail to pass the inspection shall, within one month upon receipt of the competent authority’s notification, undertake corrective action and apply for re-inspection. If the Applicant fails to do so or pass the re-inspection within the said prescribed period, the application thereof shall be rejected. Applicants may re-apply for inspection within the validity of establishment approval.
+
+### Article 10
+
+Upon completion of the main control room facilities and acquisition of the Base Station and Car Station licenses as prescribed in Paragraph 2, 3 or 4 of Article 3, the Applicant is then eligible to apply to the competent authority for inspection.
+
+When conducting the inspection, the competent authority shall notify the responsible competent authority of highways to join the inspection. After passing the said inspection and receiving a network approval certificate therefrom, the establisher shall then start to use the network.
+
+Applicants that fail to pass the inspection shall, within one month upon receipt of the competent authority’s notification, undertake corrective action and apply for re-inspection. If the Applicant fails to do so or pass the re-inspection within the said prescribed period, the application thereof shall be revoked.
+
+### Article 11
+
+Within the validity of Base Station and Car Station licenses, those that have established a telecommunications network shall maintain the number of Car Stations as prescribed in Paragraphs 2, 3 or 4 of Article 3, except for those having received special permission by the responsible competent authority of highways based on the evaluation of conditions of supply and demand.
+
+Where the establisher fails to maintain the quantity of Car Stations as prescribed in Paragraphs 2, 3 or 4 of Article 3 and does not have the aforesaid permission, the responsible competent authority of highways may order the establisher to undertake corrective action within three months. If no correction has been made within the prescribed period, the responsible competent authority of highways shall notify the Ministry of Digital Affairs to revoke the frequency use certificate and the competent authority to revoke the network approval certificate.
+
+### Article 12
+
+The Car Station shall be installed on the taxi pertaining to the telecommunications network, and the Car Station license shall be carried by the taxi driver while using the vehicle.
+
+After the Car Station is installed on the taxi pertaining to the telecommunications network, the telecommunications network establisher shall fill in the Car Station number and vehicle plate number list. The said list shall be made in three copies: one shall be preserved by the establisher; one shall be submitted to the responsible competent authority of highways for reference; and one shall be carried by the taxi driver while using the vehicle.
+
+If the taxi equipped with the Car Station is altered, the telecommunications network establisher shall review the qualification of the person who uses the Car Station, and update the Car Station number and vehicle plate number list. The list shall be made in two copies: one shall be submitted to the responsible competent authority of highways within three days after the alteration; and one shall be carried by the taxi driver while using the vehicle.
+
+### Article 13
+
+The validity of Base Station and Car Station licenses shall be five years and shall not exceed the validity of the frequency use license.
+
+Should the telecommunications network continue to be operated after the expiry of the Base Station and Car Station licenses, the telecommunications network establisher shall submit an application to the responsible competent authority of highways within the first two months, three months prior to the license expiry. The responsible competent authority of highways shall transfer the approved application to the competent authority for the renewal of the said licenses. The validity of the renewed certificate shall be counted from the following day after the expiry.
+
+Where the applicant follows the preceding Paragraph to apply for license renewal, the competent authority shall only issue the new license once the applicant has the frequency use certificate issued by the Ministry of Digital Affairs.
+
+The Base Station and Car Station licenses shall be revoked in any of the following circumstances:
+
+\1. Application to cease using the base station or car station.
+
+\2. The frequency use certificate is revoked by the Ministry of Digital Affairs.
+
+\3. The network approval certificate is revoked by the competent authority.
+
+Where the base station license or car license expires or is revoked by the competent authority in accordance with the preceding Paragraph, the Station equipment thereof shall be disposed in accordance with “Regulations Governing the Manufacture, Import and Declaration of Controlled Telecommunications Radio-frequency Devices”.
+
+Regarding the application of license renewal as described in Paragraph 2, Base Station and/or Car Station inspections may be required whenever deemed necessary.
+
+### Article 14
+
+The telecommunications network shall not be transferred to other parties without the approval of the responsible competent authority of highways.
+
+The main control room shall be located within the jurisdiction of the responsible competent authority of highways.
+
+### Article 15
+
+In the case where the Base Station and/or Car Station licenses are missing, damaged or altered, the telecommunications network establisher shall immediately report it to the competent authority and apply for license reissuance, replacement or corrections. The validity of the new licenses shall be identical with that of the original licenses.
+
+Establishers that alter the telecommunications network equipment or change the location thereof shall submit an application to the competent authority; and provisions of Article 8 may be applied to the application procedures. Upon completion of the establishment, the establisher shall apply to the competent authority for an inspection; and the provisions of Article 9 may be applied to the inspection procedures.
+
+Those that pass the aforesaid inspection shall be reissued with the Base Station and Car Station licenses. The validity of the reissued licenses shall be identical with that of the original licenses.
+
+In the case of intending to transfer the telecommunications network or change the organization, name, address or person in charge, the telecommunications network establisher shall report to responsible competent authority of highways, which shall transfer the approved application to the competent authority to reissue the Base Station and Car Station licenses, network approval certificate and frequency use certificate reissued by the Ministry of Digital Affairs. The validity of the said license/certificate shall be identical with that of the original license/certificate.
+
+### Article 16
+
+If the telecommunications network is suspended, the person who has established the Stations shall report it to the responsible competent authority of highways for reference. The competent authority of highways shall also accompany the competent authority to seal up the Station equipment of the telecommunications network for safekeeping.
+
+The period of the suspension as described in the preceding Paragraph shall not be more than one year and shall be within the validity of Base Station and Car Station licenses.
+
+If the Station equipment of the telecommunications network resumes operations after the suspension, the establisher shall report it to the responsible competent authority of highways. The responsible competent authority of highways shall notify the competent authority thereof to unseal the equipment and conduct an inspection. When conducting the inspection, the competent authority shall notify the responsible competent authority of highways to jointly undertake the inspection.
+
+Those that fail to apply for resuming the telecommunications network at the end of the suspension period, the Ministry of Digital Affairs shall be notified by the responsible competent authority of highways to revoke the frequency use certificate; the competent authority shall revoke the network approval certificate thereof, and shall cancel the Base Station and Car Station licenses.
+
+Where the telecommunication networks are no longer in operation, the telecommunications network establisher shall report it to the responsible competent authority of highways. The responsible competent authority of highways shall notify the Ministry of Digital Affairs to revoke the establisher’s frequency use certificate and the competent authority to revoke the network approval certificate; and shall cancel the Base Station and Car Station licenses thereof.
+
+### Article 17
+
+Only one Car Station can be installed on each taxi.
+
+If more than one Car Station is found in a taxi, the responsible competent authority of highways shall notify the competent authority to revoke the license of the additional Car Station and the Car Station equipment shall be disposed in accordance with “Administrative Regulations on the Manufacturing, Import and Reporting of Controlled Telecommunications Radio-Frequency Devices”.
+
+## Chapter 3 Equipment and Communication Regulations
+
+### Article 18
+
+The telecommunications network equipment shall comply with technical standards and specifications as prescribed in the attachment.
+
+### Article 19
+
+The telecommunications network establisher shall install a 24-hour automatic recording system to record the conversations and retain the records for one week.
+
+The competent authority of highways shall accompany the competent authority to check records as described in the preceding Paragraph on a regular basis each year. Whenever deemed necessary, the competent authority of highways may conduct irregular inspections.
+
+### Article 20
+
+The telecommunications network shall not interfere and affect the communications among established legal equipment.
+
+## Chapter 4 Supplementary Provisions
+
+### Article 21
+
+Where the Applicant fails to provide all documents or the provided information is deemed to be incomplete, the competent shall notify the Applicant to undertake corrective action within a prescribed period. If the Applicant fails to do so or the provided information remains incomplete, the application shall be rejected.
+
+### Article 22
+
+With respect to the documents, licenses and certificates described in the Regulations, the competent authority shall regulate and announce the contents and format thereof, unless otherwise specified in the Regulations.
+
+### Article 23
+
+Those that have acquired the assignment of dedicated radio frequency in accordance with “Administrative Regulations on the Establishment and Operation of the Dedicated Taxi Radio Station” enacted by the “Telecommunications Management Act” prior to the promulgation of the Regulations shall submit the frequency use certificate to apply to the competent authority for the reissuance of Base Station and Car Station licenses within the first two months, three months prior to the license expiry.
+
+Those that have already acquired the frequency use certificate, as described in the preceding Paragraph, shall not be required to re-apply for the certificate when applying for the renewal of Base Station and Car Station licenses.
+
+### Article 24
+
+Where the telecommunications network establisher applies for returning the radio frequency prior to the expiry of frequency use certificate, the Ministry of Digital Affairs shall revoke the frequency use certificate and the competent authority to revoke the network approval certificate.
+
+### Article 25
+
+These Regulations shall come into effect on July 1, 2020.
+
+The Amendment to the Regulations shall enter into force from the date of promulgation.
+
+## Attachments
+
+- [Attachment Technical Standards and Specifications of Dedicated Taxi Telecommunications Network.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006275)
+
+## History
+
+1.25 Articles promulgated in full by National Communications Commission (NCC) on July 22, 2020 and since the date of implementation of the Telecommunications Management Law (July 1, 2020) implemented,Ref. Tong-Chuan-Tzu-Yuan No.10943017140
+
+2.Amended on Nov. 9, 2023.

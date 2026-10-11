@@ -1,0 +1,123 @@
+---
+title: "Regulations Governing Subrogation Claims under the National Health Insurance for Public Safety Incidents, Major Traffic Accidents, Public Nuisance Events, and Food Poisoning Incidents"
+title_zh: "全民健康保險執行公共安全事故與重大交通事故公害及食品中毒事件代位求償辦法"
+identifier: "L0060021"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2006-05-10
+last_amended: 2019-10-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060021"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Subrogation Claims under the National Health Insurance for Public Safety Incidents, Major Traffic Accidents, Public Nuisance Events, and Food Poisoning Incidents
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0060021-regulations-governing-subrogation-claims-under-the-national-health-insurance.md](../../../zh/regulations/ministry-of-health-and-welfare/L0060021-regulations-governing-subrogation-claims-under-the-national-health-insurance.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 3 of Article 95 of the National Health Insurance Act (hereinafter referred to as “the Act”).
+
+## Article 1-1
+
+The “Public Safety Incident” referred to in Subparagraph 1 of Paragraph 2 of Article 95 of the Act refers to a liability insurance incident that occurs in a place or industry for which compulsory liability insurance is mandated by law or regulation.
+
+## Article 2
+
+The “Major Traffic Accident” referred to in Subparagraph 2 of Paragraph 2 of Article 95 of the Act includes any of the following circumstances:
+
+\1. An accident involving a vehicle not subject to the Compulsory Automobile Liability Insurance Act, occurring on a public road;
+
+\2. An accident involving a railway, high speed railway, or mass rapid transit system while in operation;
+
+\3. An accident involving a vessel while navigating on the sea, surface water, or underwater; or
+
+\4. An accident involving an aircraft during the execution of a flight mission.
+
+## Article 3
+
+The “Public Nuisance Event” referred to in Subparagraph 2 of Paragraph 2 of Article 95 of the Act means harm to public health caused by human-induced environmental destruction.
+
+The scope of public nuisance includes: water pollution, air pollution, soil contamination, noise, vibration, noxious odors, waste, toxic substance pollution, land subsidence, radiation, and any other events designated and announced by the central competent authority as public nuisances.
+
+## Article 4
+
+The “Food Poisoning Incident” referred to in Subparagraph 2 of Paragraph 2 of Article 95 of the Act shall be identified when two or more individuals exhibit similar symptoms after consuming the same food, and the same type of pathogen is isolated from remaining food samples, the patient’s stool, vomit, blood, or other biological or environmental samples.
+
+## Article 5
+
+Where the total amount of medical expenses paid under National Health Insurance
+
+(hereinafter referred to as “the Insurance”) for the same public safety incidents exceeds NT$50,000, the Insurer may pursue subrogation.
+
+Where the total amount of medical expenses paid under the Insurance for the same Major Traffic Accident, Public Nuisance Event, or Food Poisoning Incident exceeds NT$100,000, the Insurer may pursue subrogation.
+
+The amount specified in the preceding two paragraphs shall be calculated based on the total amount of benefits paid within thirty (30) days from the date of the benefit payment commenced under this Insurance.
+
+## Article 6
+
+Where the Insurer exercises subrogation under the Regulations, the scope of shall be limited to the amount of benefits paid within 30 days from the date of the benefit payment commenced under this Insurance.
+
+## Article 7
+
+When handling subrogation matters under the Regulations, the Insurer may verify with the liable third party (hereinafter referred to as the “Third Party”) whether liability insurance has been pursued, the Third Party shall not evade, refuse, obstruct, or make any false statements during inquiry.
+
+## Article 8
+
+When handling subrogation matters under the Regulations, the Insurer may seek assistance the competent authority and liability Insurers such as notifications of major incidents or professional consultation.
+
+## Article 9
+
+When the Insurer becomes aware of a situation that meets the requirements prescribed in Article 5, it shall notify the Third Party and the victim in writing within thirty (30) days from the day following such awareness.
+
+The written notice in the preceding paragraph shall at least contain:
+
+\1. Information collected and preliminary findings by the Insurer;
+
+\2. The obligation of the Third Party to disclose whether insurance has been purchased; and
+
+\3. The deadline for the Insurer to make a formal confirmation.
+
+Upon receiving the notice, the Third Party shall promptly inform the Insurer whether liability insurance has been purchased. Once confirmed, the Insurer shall immediately notify the relevant liability Insurer.
+
+## Article 10
+
+For any situation that meets the requirements prescribed in Article 5, the Insurer shall make a formal decision on whether to pursue subrogation within six (6) months from the date benefits are first provided, and notify the victim and the Third Party or liability Insurer in writing.
+
+## Article 11
+
+Where, pursuant to the confirmation under the preceding article, a Third Party or a liability Insurer is required to pay compensation to the Insurer, the Third Party shall make the payment within thirty (30) days from the date of receipt of the formal confirmation notice; and the liability Insurer shall make the payment within fifteen (15) days from the date when all required documents meeting the claim requirements have been submitted.
+
+## Article 12
+
+If the Third Party or liability Insurer fails to make payment in accordance with the preceding article, the Insurer may issue a written demand requesting payment within a specified period. If the payment is still not made after the deadline, the Insurer may initiate legal proceedings pursuant to applicable laws.
+
+## Article 13
+
+The subrogation right prescribed in Article 95 of the Act shall not be affected by any settlement reached between the Third Party and the Insured under this Insurance.
+
+## Article 14
+
+The amount claimed by the Insurer from the liability Insurer shall be limited to the balance remaining from the insured amount of the liability insurance, after deducting the portion payable to the victim.
+
+The portion payable to the victim under the liability insurance provided in the preceding paragraph does not include the medical benefits under this Insurance.
+
+## Article 15
+
+The Regulations shall take effect upon promulgation. However, the Articles amended on November 2nd, 2012 shall take effect on January 1st, 2013.
+
+## History
+
+\1. A total of 15 articles were promulgated on May 10th, 2006, by Order Wei-Shu-Chien-Pao No. 0952600116 of the Department of Health, Executive Yuan, and took effect on the date of promulgation.
+
+\2. Articles 1 to 5, 13, and 15 were amended and promulgated on November 2nd, 2012, by Order Wei-Shu-Chien-Pao No. 1012660264 of the Department of Health, Executive Yuan, and took effect on January 1st, 2013.
+
+\3. The title and Articles 1, 1-1, 2 to 5, and 15 were amended, and Article 1-1 was added, on May 21th, 2018, by Oder Wei-Pu-Pao-Tzu No.1071260240 of the Ministry of Health and Welfare. The Amendment took effect on the date of promulgation. (Former title: Regulations Governing Subrogation under the National Health Insurance for Major Traffic Accidents, Public Nuisance Incidents, and Food Poisoning Incidents; Revised title: Regulations Governing Subrogation Claims under the National Health Insurance for Public Safety Incidents, Major Traffic Accidents, Public Nuisance Events, and Food Poisoning Incidents.)
+
+\4. Article 6 was amended and promulgated on October 1, 2019, by Oder Wei-Pu-Pao-Tzu No.1081260372 of the Ministry Health and Welfare. The Amendment took effect on the date of promulgation.

@@ -1,0 +1,169 @@
+---
+title: "Regulations Governing Educational Institutions at All levels Applying for Work Permits for Foreign Teachers and Their Administration"
+title_zh: "各級學校申請外國教師聘僱許可及管理辦法"
+identifier: "H0030058"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞高等教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2018-02-08
+last_amended: 2026-06-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0030058"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Educational Institutions at All levels Applying for Work Permits for Foreign Teachers and Their Administration
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0030058-regulations-governing-educational-institutions-at-all-levels-applying-for-work.md](../../../zh/regulations/ministry-of-education/H0030058-regulations-governing-educational-institutions-at-all-levels-applying-for-work.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed in accordance with the provisions of Article 5, Paragraph 3, of the Act for the Recruitment and Employment of Foreign Professionals.
+
+## Article 2
+
+In these Regulations the term “competent authority” refers to the Ministry of Education.
+
+## Article 3
+
+In these Regulations the term “foreign teacher” refers to a foreigner who is employed as a teacher at an educational institution in any of the following categories:
+
+1.A teacher at a public or registered private university or tertiary college.
+
+2.A teacher at an educational institution for international residents.
+
+3.A teacher teaching in any of the following categories at a public or registered private elementary school, junior high school, or senior secondary school:
+
+(1)A teacher who teaches English language arts field subjects or English as a subject.
+
+(2)A teacher who teaches language arts field subjects related to a foreign language other than English or teaches a foreign language other than English as a subject.
+
+(3)A teacher who has recognized professional expertise in arts or activity related fields or subjects who teaches such subjects or subjects in any such field, and who assists with related teaching and teachers’ workshops and training.
+
+4.A teacher in a bilingual department or a bilingual school section of a public or private experimental senior secondary school, or a teacher of courses in programs established with the approval of a competent authority for children of foreign professionals, foreign specialized professionals, and foreign senior professionals.
+
+## Article 4
+
+A foreigner who is employed as a teacher in the category referred to in Subparagraph 1 of the preceding article shall have the qualifications stipulated in the Act Governing the Appointment of Educators or in regulations governing the appointment of such teachers.
+
+A foreigner in the category referred to in the preceding paragraph who is employed as a foreign language teacher at a foreign language center of a public or a registered private university or tertiary college shall have a degree from a domestic or foreign university or independent college recognized by the competent authority, and any language course taught by that person shall be a course on an official language of the country that issued their passport.
+
+If a foreigner is employed as a teacher in the category referred to in Subparagraph 2 of the preceding article, that educational institution for international residents shall appoint a qualified teacher in accordance with the related regulations of the particular foreign country whose citizens the school provides education for.
+
+A foreigner employed as a teacher in the category referred to in Item 1, Subparagraph 3 of the preceding article shall have a degree from a domestic or foreign university or independent college recognized by the competent authority and shall meet one of the following requirements:
+
+1.Be a teacher with a qualification to teach English courses or have a teaching qualification, and the qualification shall be adequate evidence that the person is permitted to teach English language courses in the country where their qualification was obtained to nationals of that country; or
+
+2.Have taught English courses for one year or more in an educational institution overseas recognized by the competent authority, or have been recruited by a competent authority and worked for one year or more as a full-time teaching assistant co-teaching English language arts field subjects or English as a subject in a domestic public school, and meet one of the following requirements:
+
+(1)Have graduated from an undergraduate university department or higher level institute of education, English, or a related field, and have completed at least 120 hours of coursework that includes English language teaching materials and methods, English language teaching assessment, and an introduction to second language learning, and demonstrated teaching; or
+
+(2)Have a TESOL (Teaching English to Speakers of Other Languages) certificate, a TEFL (Teaching English as a Foreign Language) certificate, or a CELTA (Certificate of English Language Teaching to Adults) certificate issued by a domestic or foreign university or independent college recognized by the competent authority.
+
+A foreigner employed as a teacher referred to in Item 2, Subparagraph 3 or in Subparagraph 4 of the preceding article shall have a degree from a domestic or foreign university or independent college recognized by the competent authority and shall have qualifications in or be qualified to teach courses in the field or subject which they plan to teach. The qualifications shall be adequate evidence that the person is permitted to teach the courses that they plan to teach in Taiwan in the country that issued their qualifications to nationals of that country.
+
+A foreigner employed as a teacher referred to in Item 3, Subparagraph 3 of the preceding article shall have a degree from a related department or institute of a domestic or foreign university or independent college recognized by the competent authority and shall have qualifications in or be qualified to teach courses in the field or subject which they plan to teach. These qualifications shall be adequate evidence that the person is permitted to teach the courses that they plan to teach in Taiwan in the country that issued their qualifications to nationals of that country, and they shall meet the requirements stipulated in Paragraph 4.
+
+If a foreigner who is employed as a teacher in the category referred to in Item 1 or Item 3 of Subparagraph 3 of the preceding article, English shall be the official language or a commonly used language of the country that issued their passport. If a foreigner is employed as a teacher in the category referred to in Item 2 of Subparagraph 3, the foreign language other than English shall be an official language of the country that issued that person’s passport. The same applies to a foreigner who teaches courses in the programs referred to in Subparagraph 4 of the preceding article in a foreign language.
+
+The courses offered by a university that issues the certificates referred to Item 2 of Subparagraph 2 of Paragraph 4 shall meet the following requirements:
+
+1.The content of the course includes English language teaching materials and methods, English language teaching assessment, an introduction to second language learning, and demonstrated teaching;
+
+2.The course is at least 120 hours long; and
+
+3.Distance learning courses are not permitted to exceed two thirds of the total course hours.
+
+## Article 5
+
+The number of persons referred to in Article 3, Subparagraph 3 that an educational institution employs to teach foreign languages, or teach arts as subjects or related subjects, or teach subjects in activity-related fields is not permitted to exceed the number obtained by multiplying the total number of classes that the competent authority has authorized for that school by the number of foreign language sessions prescribed in each course outline for each class to have each week, then adding the total number of foreign language sessions that each class in the school has each week that exceeds the number prescribed for each course outline, and then dividing that figure by the maximum number of hours that subject teachers are authorized by the competent authority to teach each week. This restriction does not apply to senior secondary schools which have been given approval to provide second foreign language courses.
+
+## Article 6
+
+An educational institution at any level that plans to appoint a foreign teacher shall submit the following documents to the competent authority and apply for a work permit to be issued:
+
+1.Two copies of the application form;
+
+2.A photocopy of the employment contract that clearly states the position title of the foreign teacher to be employed and related details, and the period of their employment;
+
+3.A photocopy of documentary evidence of the highest level of education of the foreign teacher to be employed;
+
+4.A photocopy of the passport of the foreign teacher to be employed;
+
+5.A person who applies to teach English courses in accordance with the provisions of Subparagraph 2, Paragraph 4, Article 4 shall also provide the following documents: a photocopy of documentary evidence issued by a competent authority of their experience working for one year or more as an English teacher in an educational institution overseas recognized by that competent authority, or a photocopy of documentary evidence issued by a competent authority of their having been recruited by that competent authority and then worked for one year or more as a full-time teaching assistant co-teaching English language arts courses in a domestic public school. A person applying in accordance with the provisions of Item 1 of this subparagraph shall submit photocopies of their academic transcripts and records of having graduated from an undergraduate university department or higher level institute of education, English, or a related field, and photocopies of documentary evidence issued by the educational institution that the person attended that they completed coursework that included English language teaching materials and methods, English language teaching assessment, an introduction to second language learning, and demonstrated teaching. A person applying in accordance with the provisions of Item 2 of this subparagraph shall submit a photocopy of their TESOL, TEFL or CELTA certificate.
+
+6.Any other documentation designated by the competent authority.
+
+## Article 7
+
+The competent authority shall notify the Ministry of Foreign Affairs, the Ministry of Labor, the Ministry of the Interior, and the special municipality or county（city）government where the educational institution is located when it issues or cancels a work permit for a foreign teacher to work at an educational institution.
+
+## Article 8
+
+The maximum period of a work permit issued by the competent authority for a foreign teacher to be employed by any level of educational institution is restricted to three years. An educational institution that needs to continue the person’s employment after this period ends shall submit two copies of the application form, a photocopy of the current work permit documents, and a photocopy of the renewed employment contract and apply to the competent authority for a new work permit within 60 days before the date that that the person’s current work permit expires.
+
+## Article 9
+
+If, within the period that their work permit is valid, a foreign teacher employed at any level of educational institution has to transfer to another educational institution or has to be employed by two or more educational institutions, the educational institution（s）planning to employ the foreign teacher shall apply for a work permit. If a transfer is being made to another educational institution, the educational institution planning to employ the foreign teacher shall submit documentary proof of the termination of that teacher’s previous employment.
+
+If the foreign teacher referred to in the preceding paragraph transfers to another employer that is not an educational institution within the period that their work permit is valid, the educational institution that formerly employed them shall notify the competent authority within seven days of the occurrence of such a fact to revoke the original work permit.
+
+## Article 10
+
+If any of the following circumstances occur when an educational institution applies to employ a foreign teacher, the competent authority shall not issue a work permit or shall cancel all or part of the work permit.
+
+1.False or invalid information has been provided.
+
+2.The application is not made in accordance with the regulations and the educational institution fails to provide additional material and/or make any necessary rectifications within a specified period.
+
+3.The employed foreign teacher does not meet the qualification requirements stipulated in Article 4, or the circumstances stipulated in the Teacher’s Act or the Act Governing the Appointment of Educators occasioning dismissal, non-renewal of employment, or severance with pay exist, or there exist any circumstances requiring termination of the employment contract in accordance with any related ordinance exist.
+
+## Article 11
+
+Matters regarding the management and rights and obligations of the foreign teachers referred to in Article 3, Subparagraph 1, Subparagraph 3, and Subparagraph 4 who are full-time qualified staff members whose position is listed as part of the current staffing complement of the school shall be subject to the provisions of the Act for the Recruitment and Employment of Foreign Professionals, the Teacher’s Act and other related ordinances. For other foreign teachers, unless the provisions of some other ordinance apply, such matters shall be conducted in accordance with their employment contract.
+
+Matters regarding the management and rights and obligations of the teachers at schools for international residents, stipulated in Article 3, Subparagraph 2, shall be conducted in accordance with the related regulations of the particular foreign country whose citizens the school provides education for in accordance with that country’s education system.
+
+## Article 12
+
+If any of the circumstances specified in Paragraph 1, Article 56 of the Employment Service Act pertain to a foreign teacher employed by an educational institution at any level, in addition to notifying the local competent labor authority, the entry and exit administrative authority, and the police in accordance with the provisions of that legislation, the educational institution shall also send a copy of the notification to the competent authority.
+
+The notification referred to in the preceding paragraph shall include the name of the foreign teacher, their gender, age, nationality, date of entry into the Republic of China (abbreviated below to “the ROC”), the duration of their employment or the number of their work permit, and a photocopy of their Alien Resident Certificate.
+
+## Article 13
+
+Before the work permit of any employed foreign teacher expires, educational institutions at each level shall go through the necessary procedures on behalf of each employed foreign teacher and facilitate their departure from the ROC.
+
+If an employed foreign teacher in any of the following circumstances is ordered to depart from the ROC, educational institutions at all levels shall go through the necessary procedures to facilitate the departure of that foreign teacher within the specified period. A person who the entry and exit control agency has ordered to depart from the ROC in accordance with the law is not permitted to extend this period in which they must depart.
+
+1.A foreign teacher whose work permit has been cancelled.
+
+2.A foreign teacher whose educational institution did not apply for a work permit in accordance with regulations or if the application has not been given.
+
+Within 30 days following the departure of an employed foreign teacher referred to in the preceding two paragraphs of this article, educational institutions at each level shall notify the competent authority and submit a name list of the foreign teachers who have departed and documentary proof of their departure.
+
+## Article 14
+
+A foreign teacher who applied for employment and was approved in accordance with related ordinances before the enforcement of these Regulations may continue to be employed until the end of the period that they were engaged for.
+
+## Article 15
+
+The provisions of these Regulations apply, mutatis mutandis, when educational institutions employ residents of Hong Kong or Macao to engage in the work specified in the subparagraphs of Article 3 in the Taiwan Area.
+
+## Article 16
+
+These Regulations shall take effect on the date that the Act for the Recruitment and Employment of Foreign Professionals comes into effect.
+
+The amendments to these Regulations shall take effect on the date of promulgation with the exception of the amendments promulgated on June 30, 2026, which shall take effect on June 30, 2026.
+
+## History
+
+1.Promulgated on February 8, 2018
+
+2.Amended on May 16, 2022
+
+3.Amended on June 30, 2026

@@ -1,0 +1,246 @@
+---
+title: "Standards for Air Pollutant Emission from Stationary Pollution Sources"
+title_zh: "固定污染源空氣污染物排放標準"
+identifier: "O0020006"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-04-10
+last_amended: 2023-06-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020006"
+retrieved: 2026-10-12
+---
+
+# Standards for Air Pollutant Emission from Stationary Pollution Sources
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020006-standards-for-air-pollutant-emission-from-stationary-pollution-sources.md](../../../zh/regulations/ministry-of-environment/O0020006-standards-for-air-pollutant-emission-from-stationary-pollution-sources.md)) is authoritative.
+
+## Article 1
+
+These Standards are determined pursuant to Article 20, Paragraph 2 of the Air Pollution Control Act.
+
+## Article 2
+
+These Standards shall apply to new, modified, and existing stationary pollution sources (herein referred to as new pollution sources and existing pollution sources). The standards are listed in the Table. However, separately established emission standards for specially designated industry categories, areas, or facilities shall take priority over these Standards.
+
+## Article 3
+
+Terms and Symbols used in these Standards are defined as follows:
+
+I. “Peripheral boundary” means the boundary line marking the use or management of public or private premises. II. “mg” means milligram, equivalent to 0.001 grams.
+
+III. “μg” means microgram, equivalent to 0.001 milligrams.
+
+IV. “K” means Kelvin absolute temperature scale, where K=273+°C.
+
+V. “Nm3” means a cubic meter of air at a temperature of 273 degrees Kelvin (273 K) and an atmospheric pressure of 1 bar ; “m3” means a cubic meter of air.
+
+VI. “ppm” means parts per million.
+
+VII. “q” means the “highest permissible emissions per unit time” of each pollutant from each stack unit in a single pollution source, measured in grams per second (g/s).
+
+VIII. “a1” and “a2” mean the conversion constants for each pollutant.
+
+IX. “k” means the diffusion coefficient for pollutant emissions, measured in grams per second per square meter (g/s‧m2).
+
+X. “h” means the actual height of the outlet of the stack, measured in meters (m).
+
+XI. “△h” means the height of smoke plume from the outlet of the stack, measured in meters (m).
+
+XII. “he” means the effective height of outlet of stack he=h+△h, measured in meters (m).
+
+XIII. “Qh” means the heat rate of exhaust from the stack, measured in calories per second (cal/s).
+
+XIV. “Vs” means the outlet exhaust speed of the stack, measured in meters per second (m/s).
+
+XV. “ds” means the internal diameter at the stackoutlet, measured in meters per second (m).
+
+XVI. “ρ” means exhaust density, measured in grams per liter (g/l).
+
+XVII. “Cp” means specific heat at constant pressure from exhaust, measured in calories per gram degree Kelvin (cal/g‧K).
+
+XVIII. “Ts” means exhaust temperature at the stack outlet, measured in Kelvin (K).
+
+XIX. “T” means ambient temperature surrounding the stack outlet, measured in degrees Kelvin (K).
+
+XX. “?” means annual average wind speed at the height of the stack outlet, measured in meters per second (m/s).? = ?0(h/10)0.2
+
+XXI. “?0” means average wind speeds at 10 meters high from the ground surface, measured in meters per second (m/s). These standards are based on an average wind speed of 3.5 meters per second (m/s) as the reference base of calculation.
+
+XXII. “Q” means exhaust volume that has been calibrated or does not need to be calibrated, measured in cubic meters per minute (Nm3/min).
+
+XXIII. “Qs” means the measured exhaust volume base on test method, measured in cubic meters per minute (Nm3/min).
+
+XXIV. “C” means pollutant concentration that has been calibrated or does not need to be calibrated, measured in ppm or mg/Nm3.
+
+XXV. “Cs” means the measured pollutant concentration based on test method, measured in ppm or mg/Nm3.
+
+XXVI. “On” means standard oxygen content in exhaust, measured in %.
+
+XXVII. “Os” means the actual measured oxygen content in exhaust. If value exceeds 20%, then value shall be calculated as 20%.
+
+XXVIII. “Determination the opacity of the plume by digital image“ means that the inspector determinate the opacity of exhaust from the stack outlet of stationary pollution sources by using digital image recording equipment and identification software in accordance with methods designated by the central competent authority.
+
+## Article 4
+
+Unless other regulations apply, the principles for existing pollution sources and new pollution sources referred to in these Standards are as follows:
+
+I.      Pollution sources established before April 11, 1992, shall be considered existing pollution sources.
+
+II.     Pollution sources established after April 12, 1992, shall be considered new pollution sources.
+
+III.    New pollution sources shall also include, after April 12, 1992, increased air pollutant emissions volume due to the renovation of related facilities or alterations in other single physical or chemical properties or operation methods, and newly added pollutants in emissions.
+
+“Established”, as referred to in subparagraphs 1 and 2 in the foregoing paragraph, means a stationary pollution source that has already been completed, is under construction, or has already completed construction project bidding.
+
+## Article 5
+
+Peripheral boundary testing shall be testing that occurs at any location outside of the surrounding environment of a public or private premises, and determines the location of the surrounding environment for pollution emissions tests at a public or private premises. When it is not possible to select a testing location for an area outside the peripheral boundary of a public or private premises (for example, due to the presence of an embankment, river, lake, or valley), then an appropriate testing location can be chosen within three meters inside the surrounding boundaries of the factory. When the owner or representative of a public or private premise pollution source holds objections to the determination of a peripheral boundary, the said person shall, within 30 days from the second day of being reported, submit written information to the local competent authority to apply for the redetermination of a peripheral boundary.
+
+## Article 6
+
+In principle, sampling collection times for peripheral boundary testing shall be one hour for particulate matter pollutants; for gas pollutants, sampling collection shall be one hour for sulfur oxides, and thirty minutes for the remaining listed gas pollutants. However, in those circumstances in which there is already a clearly determined sampling time for a testing method, then testing shall be performed according to the said method.
+
+## Article 7
+
+Gas pollutants that fail to be listed in standards for emissions pipes shall be calculated in accordance with the following methods for standards for emissions pipes:
+
+I.      When a low emissions pipe is h<=6m (meters).
+
+q = a2‧b2
+
+b: the minimum horizontal distance from the emissions pipe outlet of the pollution source to the peripheral boundary of the pollution source, in units of m (meters).
+
+II.     When a taller emissions pipe is h > 6m
+
+A.      b≧5 (h-6)
+
+q=a2‧b2
+
+b': the minimum distance from the emissions pipe outlet of the pollution source to the peripheral boundary line of the pollution source at a vertical height of 6m (meters), in units of m (meters).
+
+B.      b<5 (h-6)
+
+q=a2‧b2
+
+b": The minimum distance from the center of the emission pipe outlet to the building when the conical area of a pollution source measured at a downward 12 degree angle from the center of an emissions pipe outlet intersects with the buildings of other people (with the exception of unoccupied storage warehouse buildings), in units of m (meters).
+
+C.      When b < 5 (h-6) and does not fall under the conditions of subparagraph 2, which means that when the distance from the pollution source to a building is very far or a building is lower than 6 m (meters), the conical area of a pollution source measured at a downward 12 degree angle from the center of an emissions pipe outlet does not intersect with the buildings of other people.
+
+q=a2‧25‧ (h-6) ^2
+
+## Article 8
+
+In emissions standards, the listed emissions pipes standards for air pollutants and emissions pipe height for new pollutions sources shall be officially calculated as follows.
+
+2‧2
+
+q=a1‧k‧he
+
+```text
+┌───┬─────┬────────────────────┐
+│Areas │k value   │Applicable Districts                    │
+├───┼─────┼────────────────────┤
+│1     │2.6×10-3 │Taipei City, New Taipei City, Keelung   │
+│      │          │City, Ilan County                       │
+├───┼─────┼────────────────────┤
+│2     │4.2×10-3 │Taoyuan County, Hsinchu County, Hsinchu │
+│      │          │City                                    │
+├───┼─────┼────────────────────┤
+│3     │1.8×10-3 │Miaoli County, Taichung City, Changhua  │
+│      │          │County, Nantou County, Hualien County   │
+├───┼─────┼────────────────────┤
+│4     │2.2×10-3 │Yunlin County, Chiayi County, Chiayi    │
+│      │          │City, Tainan City                       │
+├───┼─────┼────────────────────┤
+│5     │1.6×10-3 │Kaohsiung City, Pingtung County, Taitung│
+│      │          │County, Penghu County                   │
+└───┴─────┴────────────────────┘
+```
+
+he=h+△h
+
+\-5      __
+
+△h=1.8（1.5Vs‧ds+4 ×10  Qh）／ μ
+
+2
+
+　　 ρ‧Cp‧π‧ds ‧Vs‧（Ts-T）‧1000
+
+```text
+ Qh=───────────────────
+```
+
+4
+
+## Article 9
+
+For those pollutants from new pollution source emissions that have conversion constants listed in this table, emissions pipe height shall be calculated in accordance with the respective calculation methods of Article 7 and Article 8, and the higher emissions pipe height shall be the emissions pipe height.
+
+When the competent authority handles cases involving existing pollution sources, it may order the said existing pollution source to improve emissions concentration or shall apply regulations of the first paragraph to change the emissions pipe height.
+
+## Article 10
+
+Those public and private premises that adopt multiple pollution control measures shall submit written data to the local competent authority, and after receiving approval, may build an emissions pipe lower than the specified height designated in Article 9. For circumstances in the foregoing paragraph, emissions standards shall be calculated based on actual emissions pipe height pursuant to Article 9 or official calculations of the highest permissible emissions quantity authorized by the central competent authority. The highest permissible emissions quantities may not exceed the emissions standards for the emission pipes of these Standards.
+
+## Article 11
+
+The standard for calculating the concentration of all pollutants shall be a temperature of 273 Kelvin and a non-diluted dry exhaust volume of one atmosphere per cubic meter. If no special regulations exist for the anoxic rate for the combustion process of exhaust, then a 6% anoxic rate shall serve as the reference standard. Non-combustion processes shall use non-diluted dry exhaust volume as the calculation standard. However, for those circumstances in which there are separate regulations for specially designated industries, the anoxic rate for an exhaust adopted in the regulations of this paragraph shall serve as the reference standard.
+
+The formulas for correcting and calculating pollution concentration C and exhaust volume Q are as follows:
+
+## Article 12
+
+The central competent authority shall determine the relevant testing methods and quality control items in these Standards.
+
+## Article 13
+
+For those circumstances in which a stationary pollution source establishes facilities for the continuous automatic monitoring of air pollutants in accordance with regulations, the daily measurement values shall comply with the following regulations:
+
+I.      For monitoring data on particulate pollutant opacity, recorded 6-minute values may not exceed the accumulated time in emissions standards values by over four hours.
+
+II.     For monitoring data on gaseous pollutants, recorded one hour values may not exceed the accumulated time in emissions standards values by over two hours.
+
+In those circumstances in which a stationary pollution source in the foregoing paragraph is submitted to the competent authority for authorization to establish a conversion relationship between particulate pollutant emissions concentration and particulate pollutant opacity, the particulate pollutant opacity of the particulate pollutant emissions standard value conversion may be used as the standard opacity value.
+
+## Article 14
+
+These standards shall take effect on the date of promulgation.
+
+## Attachments
+
+- [Table.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008038)
+- [Article 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008006)
+- [Article 7.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004583)
+- [Article 7.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001863)
+- [Article 8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006879)
+- [Article 11.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004585)
+- [Article 11.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001865)
+
+## History
+
+1.Full text including 14 articles published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 013459 dated April 10, 1992
+
+2.Full text including 14 articles amended by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 16668 dated April 20, 1994
+
+3.Article 1 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order (1999) Huan-Shu-Kong-Zi No. 0039205 dated June 30, 1999
+
+4.Table under Article 2 and Article 12 amended and published by Environmental Protection Administration of Executive Yuan by order (2001) Huan-Shu-Kong-Zi No. 0074780 dated December 19, 2001
+
+5.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0910038996 dated July 3, 2002
+
+6.Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0960068131 dated September 11, 2007.
+
+7.Articles 2, 8, 9 and 14 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 0990119639 dated January 5, 2011
+
+8.Articles 2 Table 1 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1020032301 dated April 25, 2012
+
+9.Articles 3, 5, 8 and Table under Article 2 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1101079351 dated Jun 29, 2021
+
+10.Articles 2, 3 amended and published by Environmental Protection Administration of Executive Yuan by order Huan-Shu-Kong-Zi No. 1121064054D dated Jun 14, 2023

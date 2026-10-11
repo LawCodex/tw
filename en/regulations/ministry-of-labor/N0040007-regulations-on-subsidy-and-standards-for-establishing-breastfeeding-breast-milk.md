@@ -1,0 +1,229 @@
+---
+title: "Regulations on Subsidy and Standards for Establishing Breastfeeding (Breast Milk Collection) Rooms, Childcare Facilities and Measures"
+title_zh: "哺集乳室與托兒設施措施設置標準及經費補助辦法"
+identifier: "N0040007"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動福祉退休目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-03-06
+last_amended: 2026-04-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0040007"
+retrieved: 2026-10-12
+---
+
+# Regulations on Subsidy and Standards for Establishing Breastfeeding (Breast Milk Collection) Rooms, Childcare Facilities and Measures
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0040007-regulations-on-subsidy-and-standards-for-establishing-breastfeeding-breast-milk.md](../../../zh/regulations/ministry-of-labor/N0040007-regulations-on-subsidy-and-standards-for-establishing-breastfeeding-breast-milk.md)) is authoritative.
+
+## Article 1
+
+These regulations are enacted pursuant to Paragraph 3, Article 23 of the “Gender Equality in Employment Act” (hereinafter referred to as the “Act”).
+
+## Article 2
+
+1.Breastfeeding (Breast milk collection) rooms set forth in Subparagraph 1, Paragraph 1, Article 23 of the Act are defined as places established by the employers for employees to breastfeed or collect breast milk.
+
+2.Childcare facilities set forth in Subparagraph 2, Paragraph 1, Article 23 of the Act are defined as childcare service institutions established individually or jointly by employers.
+
+3.Childcare measures set forth in Subparagraph 2, Paragraph 1, Article 23 of the Act are defined as follows:
+
+(1)Employers by way of commission, contracting with childcare service institutions to provide childcare services.
+
+(2)Employers employing or entrusting childcare providers at designated locations to provide childcare services for the children of their employees. (hereinafter referred to as “workplace home-based childcare services”).
+
+(3)Providing childcare subsidies to employees.
+
+4.The applicable targets of childcare facilities and measures referred to in the two preceding paragraphs are children of employees under the age of twelve.
+
+5.Childcare service institutions set forth in Paragraph 2 and Subparagraph 1, Paragraph 3 refer to institutions such as baby care centers, preschools, workplace cooperative style education and care service centers, public community infant centers, and after school care centers approved by municipality or county (city) competent authorities (hereinafter referred to as Competent “Authorities”).
+
+## Article 3
+
+Standards for employers establishing breastfeeding (breast milk collection) rooms are as follows:
+
+(1)The location of the breastfeeding (breast milk collection) room shall be easily accessible to the employees, clearly marked, and either be near a sink or has a hand-washing facility.
+
+(2)Breastfeeding (breast milk collection) rooms shall provide privacy and security for users and shall have good lighting and ventilation.
+
+(3)Breastfeeding (breast milk collection) rooms shall be equipped with the following basic facilities:
+
+(a)Armchairs.
+
+(b)Tables.
+
+(c)Electrical outlets.
+
+(d)Refrigerators for storing breast milk.
+
+(e)Garbage bins with lid.
+
+(4)Terms and conditions of use for the breastfeeding (breast milk collection) room.
+
+## Article 4
+
+1.Employers may apply for subsidies in accordance with the following standards and provisions:
+
+(1)Breastfeeding (breast milk collection) rooms: A maximum subsidy of NT$20,000.
+
+(2)Childcare facilities:
+
+(a)For newly constructed facilities: A maximum subsidy of NT$5,000,000.
+
+(b)For existing facilities: A maximum annual subsidy of NT$1,000,000.
+
+(3)Workplace home-based childcare services: A maximum annual subsidy of NT$1,000,000.
+
+(4)Provision of childcare subsidies to employees: A maximum annual subsidy of NT$1,000,000.
+
+2.The subsidy items for the childcare facilities referred to in Subparagraph 2 of the preceding paragraph are as follows:
+
+(1)Expenses for childcare facility equipment: Including the purchase, renewal, or improvement of child play equipment, kitchen and sanitary equipment, health care equipment, safety equipment, educare equipment, internal safety facilities for vehicles specially designated for young children, and breastfeeding (breast milk collection) equipment.
+
+(2)Personnel expenses for preschool educators or childcare providers (hereinafter referred to as “educare or childcare personnel”): A maximum subsidy of NT$5,000 per person per month and NT$60,000 per person per year, for up to five persons.
+
+(3)Operational expenses: Based on the number of employees’ children enrolled, a maximum subsidy of NT$500 per person per month and NT$6,000 per person per year.
+
+(4)Employers’ reduction or exemption of child care fees for employees’ children: Based on the number of employees’ children enrolled, a maximum subsidy of NT$800 per person per month and NT$9,600 per person per year; provided that the total subsidy amount shall not exceed 80% of the reduced or exempted child care fees.
+
+3.The subsidy items for the workplace home-based childcare services referred to in Subparagraph 3, Paragraph 1 are as follows:
+
+(1)Expenses for childcare facility equipment: Including the purchase, renewal, or improvement of play equipment, toys, sleeping and resting facilities, safety protection equipment, washing facilities, and meal preparation and dining equipment.
+
+(2)Personnel expenses for childcare providers providing workplace home-based childcare services: A maximum subsidy of NT$5,000 per person per month and NT$60,000 per person per year, for up to two persons.
+
+## Article 5
+
+1.Subsidy applications shall be accepted and reviewed by competent authorities. Applications that are approved shall be subsided in accordance with the standards listed in Paragraph 1 of the preceding article and may be forwarded to the central competent authority to apply for additional subsidies given its circumstances.
+
+2.Competent authorities may conduct on-site visits if necessary.
+
+## Article 6
+
+1.When deciding the amount of subsidies in accordance with the Regulations, the following items shall be reviewed:
+
+(1)Appropriateness of the planning and establishment of the breastfeeding (breast milk collection) room.
+
+(2)The total number of children at childcare institutions set up by employers and the number of employee children;
+
+(3)The ratio between the number of employee children requiring child care and the actual number of children being sent for care;
+
+(4)The level of childcare fee reduction;
+
+(5)The suitability of arrangement of childcare time with respect to the working hours of employees;
+
+(6)The appropriateness of the planning and arrangement of space and facilities for workplace home-based childcare services provided by employers.
+
+(7)The conditions of child care subsidies provided by employers.
+
+(8)Innovativeness and diversity of the measures adopted.
+
+2.In deciding the amount of the subsidies, the central competent authority may take the following situations into account: Budgets that the local competent authorities allocated for breastfeeding (breast milk collection) rooms, childcare facilities, and childcare measures in accordance with the Regulations for the fiscal year, the number of applications, and the budget of that fiscal year.
+
+## Article 7
+
+1.Employers applying for subsidies for breastfeeding (breast milk collection) rooms under Subparagraph 1, Paragraph 1 of Article 4 shall submit the following documents:
+
+(1)Application form
+
+(2)Implementation plans.
+
+2.Employers applying for subsidies for childcare facilities under Subparagraph 2, Paragraph 1 of Article 4 shall submit the following documents:
+
+(1)Application form
+
+(2)Implementation plans.
+
+(3)Roster of employees' children under care
+
+(4)A photocopy of the establishment permit certificate of the childcare service institution.
+
+(5)Applicants applying for subsidies for personnel expenses for educare or childcare personnel shall additionally submit a roster of educare or childcare personnel and payroll records.
+
+(6)Applicants applying for subsidies for employers’ reduction or exemption of child care fees for employees’ children shall additionally submit supporting documentation for reduced or exempted child care fees.
+
+3.Employers applying for subsidies for workplace home-based childcare services under Subparagraph 3, Paragraph 1 of Article 4 shall submit the following documents:
+
+(1)Application form
+
+(2)Implementation plans.
+
+(3)Roster of employees' children under care
+
+(4)Supporting documentation evidencing the registration of workplace home-based childcare providers.
+
+(5)Supporting documentation evidencing the employer’s registration for workplace home-based childcare services.
+
+(6)Applicants applying for subsidies for personnel expenses for workplace home-based childcare providers shall additionally submit commission or employment contracts.
+
+4.Employers applying for subsidies for the provision of child care subsidies to employees under Subparagraph 4, Paragraph 1 of Article 4 shall submit the following documents:
+
+(1)Application form.
+
+(2)Implementation plans.
+
+(3)Roster of employees’ children.
+
+(4)The employer’s subsidy rules and relevant supporting documentation.
+
+## Article 8
+
+1.Breastfeeding (breast milk collection) rooms, childcare facilities or childcare measures that are setup or promoted by the government in accordance with the Regulations, or those who have received subsidies from other competent authorities in charge of related matters in that fiscal year may not apply for additional subsidies.
+
+2.Childcare facilities commissioned to professional organizations for management, whether through renting the place of operation or setup by the government and operated by private organizations which are responsible for their own profits and losses, are not restricted by the provisions of the preceding Paragraph.
+
+## Article 9
+
+Employers who have accepted the subsidies shall implement their proposed plans with the subsidies provided. The competent authority shall request the return of the subsidies if there are violations of relevant statutes and administrative regulations, if there are discrepancies in designated use, or if there is non-effective implementation according to proposed plans.
+
+## Article 10
+
+Employers who have accepted the subsidies shall process matters concerning application for funds, payments, summary reports and auditing in accordance with the relevant statutes and administrative regulations.
+
+## Article 11
+
+The central competent authority may delegate the relevant matters concerning subsidies prescribed under these Regulations to local competent authorities, or commission related agencies (institutions), legal persons, or organizations to handle such matters.
+
+## Article 12
+
+Expenditure arising from the Regulations shall be earmarked a budget by the competent authorities.
+
+## Article 13
+
+The Regulations shall take effect on May 1, 2026.
+
+## History
+
+1.Promulgated by the Council of Labor Affairs of the Executive Yuan on March 6, 2002 by the Order of Lao-Fu-2-Tzo-No. 0910009211.
+
+2.Amended Articles 2, 3, 5, 7 and promulgated by the Council of Labor Affairs of the Executive Yuan on April 16, 2003 by the Order of Lao-Fu-2-Tzo-No. 0920021230.
+
+3.Amended Articles 3, 5, 7and promulgated by the Council of Labor Affairs of the Executive Yuan on March 31, 2004 by Lao-Fu-Erh-Tzo-No. 0930014476.
+
+4.Amended Articles2-7and promulgated by the Council of Labor Affairs of the Executive Yuan on June 8, 2005 by Lao-Fu-Erh-Tzo-No. 0940029570
+
+5.Amended Articles1 and promulgated by the Council of Labor Affairs of the Executive Yuan on May 30, 2008 by Lao-Fu-Erh-Tzo-No. 0970135450
+
+6.Amended Articles 2, 5 and promulgated by the Council of Labor Affairs of the Executive Yuan on July 18, 2013 by Lao-Fu-Erh-Tzo-No. 1020135877
+
+7.Amended Articles 1-12 and promulgated by the Ministry of Labor of the Executive Yuan on February 10, 2015 by Lao-Fu-1-Tzo-No. 1040135147
+
+8.Amended Articles 4, 7 and promulgated by the Ministry of Labor of the Executive Yuan on June 8, 2015 by Lao-Fu-1-Tzo-No. 1040135819
+
+9.Amended Articles 1-12 and promulgated by the Ministry of Labor of the Executive Yuan on July 28, 2016 by Lao-Fu-1-Tzo-No. 1050135875
+
+10.Amended Articles 4 and promulgated by the Ministry of Labor of the Executive Yuan on July 31, 2018 by Lao-Fu-1-Tzo-No. 1070135662
+
+11.Amended Article 2 and promulgated by the Letter of Lao-Dong-Fu-1- No.1080135908 of the Ministry of Labor. on September 16, 2019.
+
+12.Amended Article 2、Article 4、Article 6、Article 7 and promulgated by the Letter of Lao-Dong-Fu-1- No.1090135371 of the Ministry of Labor on April 23, 2020.
+
+13.Amended Article 1 promulgated by the Letter of Lao-Dong-Fu-1- No.1120153857 of the Ministry of Labor on December 4, 2023.
+
+14.Amended Article 4 promulgated by the Letter of Lao-Dong-Fu-1- No.1130153424A of the Ministry of Labor on August 27, 2024.
+
+15.Amended and promulgated in full with 13 articles by Order Lao-Dong-Fu-1-Zi No. 1150152903A of the Ministry of Labor on April 2, 2026; pursuant to Article 13, these Regulations shall enter into effect on May 1, 2026.

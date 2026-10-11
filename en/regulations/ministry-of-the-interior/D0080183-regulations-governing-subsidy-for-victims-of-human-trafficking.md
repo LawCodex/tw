@@ -1,0 +1,151 @@
+---
+title: "Regulations Governing Subsidy for Victims of Human Trafficking"
+title_zh: "人口販運被害人補助辦法"
+identifier: "D0080183"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞移民目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2009-06-01
+last_amended: 2023-12-28
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080183"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Subsidy for Victims of Human Trafficking
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080183-regulations-governing-subsidy-for-victims-of-human-trafficking.md](../../../zh/regulations/ministry-of-the-interior/D0080183-regulations-governing-subsidy-for-victims-of-human-trafficking.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 2, Article 37 of the Human Trafficking Prevention Act, hereinafter referred to as the “Act.”
+
+## Article 2
+
+The Ministry of the Interior shall establish a fund for human trafficking victim subsidies, hereinafter referred to as the “subsidy fund,” to provide financial assistance to victims of human trafficking, hereinafter referred to as “victims”.
+
+The prosecuting agencies shall promptly deposit (or transfer) the proceeds obtained from crime that are confiscated in accordance with the laws and the recoverable amount into the custody of the subsidy fund.
+
+## Article 3
+
+The types of victim subsidies are outlined as follows:
+
+\1. Condolence payments.
+
+\2. Unemployment benefits.
+
+\3. Re-entry airfare and accommodation expenses.
+
+\4. Transportation costs within the victim’s home country (region)
+
+## Article 4
+
+The eligibility criteria for acquiring condolence payments referred to in subparagraph 1 of the preceding Article, along with the corresponding payment amount, are as follows:
+
+\1. The victim has experienced physical and psychological trauma as a result of human trafficking criminal activities.
+
+\2. NT $3000 per individual.
+
+The application for the condolence payments as mentioned in the preceding paragraph shall be submitted within six months from the date of being identified as the victim, accompanied by the completed application form and the human trafficking victim identification notice.
+
+## Article 5
+
+The eligibility criteria for acquiring unemployment benefits referred in Subparagraph 2 of Article 3, along with the corresponding benefits  amount, are as follows:
+
+\1. The victim is unable to work as a result of human trafficking criminal activities.
+
+\2. NT $14,000 per individual.
+
+The application for the unemployment benefits as mentioned in the preceding paragraph shall be submitted within six months from the date of being identified as the victim, accompanied by the completed application form and the human trafficking victim identification notice.
+
+If no suitable employment is secured after three months of applying for unemployment benefits, the applicant may submit another application for the unemployment benefits with documents proving job-seeking experiences, with this being the final application allowed.
+
+## Article 6
+
+The eligibility criteria for acquiring the payment of re-entry airfare and accommodation expenses as referred to in Subparagraph 3 of Article 3 and the corresponding payment amount are as follows:
+
+\1. Victims notified by judicial authorities of R.O.C. (Taiwan) to return to Taiwan to assist in investigations and testify.
+
+\2. The payment of airfare will be based on the round-trip fare for an economy (standard) seat and the actual expenses incurred.
+
+\3. The payment of accommodation expenses are capped at NT2,000 per person per day, determined based on the reasonable duration of the investigation, and actual expenses incurred. Upon evaluation by the National Immigration Agency of the Ministry of the Interior (referred to as the National Immigration Agency), the payment may be increased to NT2, 500 per day.
+
+The application for payment of re-entry airfare and accommodation expenses as mentioned in the preceding paragraph shall be submitted within three months from the completion of the investigation or testimony, along with the completed application form, notice for investigation or trial, boarding pass, and lodging receipts.
+
+## Article 7
+
+The eligibility criteria for acquiring the payment of transportation expenses in the victim’s country (region) of origin as mentioned in Subparagraph 4 of Article 3 and the corresponding payment amount are as follows:
+
+\1. The victim, at the request of an R.O.C. (Taiwan) judicial authority for the purposes of investigation or trial, travels to an R.O.C. (Taiwan) embassy or representative office.
+
+\2. The subsidized transportation fees shall not exceed NT$10,000 and shall be based on the actual fees incurred.
+
+The application for payment of transportation expenses in the victim’s country (region) of origin as mentioned in the preceding paragraph shall be submitted within three months from the completion of the investigation or testimony, along with the completed application form, notice for investigation or trial, and all kinds of transportation fee slips (receipts).
+
+## Article 8
+
+To apply for subsidies, an completed application form shall be submitted to the National Immigration Agency.
+
+The application form as referred to in the preceding paragraph shall include the following information:
+
+\1. The applicant's name, date of birth, National ID Card number, passport number or visitor (resident) permit number, and correspondence address. If there is an agent involved, the agent’s name, date of birth, National ID Card number, passport number or visitor (resident) permit number, and correspondence address.
+
+\2. The type of subsidy being applied for.
+
+\3. The facts for applying for subsidy.
+
+\4. Manner of claiming subsidy.
+
+If the application mentioned in Paragraph 1 does not follow the prescribed procedure or if the materials are incomplete, the National Immigration Agency shall require the applicant to correct the submission within a specified period. If the applicant fails to make the corrections within the deadline or if the corrections still do not meet the requirements of the procedure, the application shall be rejected.
+
+## Article 9
+
+The victim may authorize another person or the competent authority of the municipality or county (city) to apply for the subsidy on the victim’s behalf.
+
+## Article 10
+
+The Ministry of the Interior, upon reviewing the subsidy application case, may consult with relevant experts and scholars depending on the types of case .If necessary, it may also consult the opinions of the central administrative authority in charge of the business.
+
+## Article 11
+
+The subsidy application shall be denied in any of the following circumstances:
+
+\1. The application does not meet the established criteria for claiming the subsidy.
+
+\2. The application is submitted through fraudulent or other improper actions, or involves the submission of falsified, concealed, or otherwise untruthful application materials.
+
+3, The applicant has already applied for subsidies of the same nature under other laws.
+
+## Article 12
+
+The Ministry of the Interior shall notify the applicant in writing of the decision regarding the subsidy application within three months from the date of receiving the application.
+
+The written decision mentioned in the preceding paragraph shall include the following information:
+
+\1. The applicant’s name, date of birth, National ID Card Number, passport number or visitor (resident) permit number, and correspondence address. If there is an agent involved, the agent’s name, date of birth, National ID Card number, passport number or visitor (resident) permit number, and correspondence address.
+
+\2. For approved applications, details on the type and amount of subsidy granted.
+
+\3. For rejected applications, the reasons for the decision.
+
+\4. The authority deciding the result of approval or disapproval of the application.
+
+\5. Reference number and date of decision.
+
+\6. Remedial methods, time frame, and the authority responsible for handling objections to the decision.
+
+## Article 13
+
+The effective date of the Regulations shall be determined by the Ministry of the Interior.
+
+## History
+
+1.These Regulations with all 16 articles were promulgated per Order of Ministry of Interior No. Tai-Nei-Yi-Zi-0980959975 dated June 1, 2009 in conjunction with Order of the Ministry of Justice No. Fa-Jian-Zi-0980021933 also dated June 1, 2009.
+
+These Regulations were implemented on June 1, 2009 per Order of Ministry of Interior No. Tai-Nei-Yi-Zi-0980960051 dated June 18, 2009 in conjunction with Order of the Ministry of Justice No. Fa-Jian-Zi-0980024226 also dated June 18, 2009.
+
+2.The title and 13 articles text were amended and promulgated under Order Tai-Nei-Yi-Zi No. 11209134071 of the Ministry of the Interior on December 28, 2023, and came into effect on January 1, 2024 (Original title: Regulations Governing the Transfer of Seized Proceeds of Human Trafficking Crime and Compensation of Victims; Amended title: Regulations Governing Subsidy for Victims of Human Trafficking).

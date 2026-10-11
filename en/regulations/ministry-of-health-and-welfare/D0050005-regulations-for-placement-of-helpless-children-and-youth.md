@@ -1,0 +1,89 @@
+---
+title: "Regulations for Placement of Helpless Children and Youth"
+title_zh: "無依兒童及少年安置處理辦法"
+identifier: "D0050005"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-03-12
+last_amended: 2012-04-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050005"
+retrieved: 2026-10-12
+---
+
+# Regulations for Placement of Helpless Children and Youth
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050005-regulations-for-placement-of-helpless-children-and-youth.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050005-regulations-for-placement-of-helpless-children-and-youth.md)) is authoritative.
+
+## Article 1
+
+These Schemes are established in accordance with paragraph 2, article 19 of Children and Youth Welfare Law ("the Law").
+
+## Article 2
+
+When the medical personnel, social workers, educationalists, caretakers and babysitters, policemen, judiciary, and any personnel executing the children and youth welfare learn information on the helpless children and youth, they shall fill up communication report within twenty-four (24) hours and report to the authorities concerned of the municipality and provincial county (city) governments by facsimile or through other technological telecommunications. If case of emergency, they may report orally or by telephone, and fill up the communication report within twenty-four (24) hours and submit to the authorities concerned of the municipality and provincial county (city) governments.
+
+Any party other than those personnel mentioned in previous paragraph may communicate and report to the local authorities concerned of the municipality and provincial county (city) governments through the ways or any other ways mentioned in previous paragraph when learning about the helpless children and youth.
+
+## Article 3
+
+The authorities concerned of the municipality and provincial county (city) governments shall immediately send a social worker to visit and conduct survey when receiving such communication report mentioned in previous article, and take following measures:
+
+To report to the police authorities and help look for his/her parents orguardians if the helpless child and youth are abandoned or lost.
+
+To place the helpless child and youth at fostering family, children and youth welfare institutes or other placement institutions.
+
+To send the helpless child and youth to medical institutions for medical checkup where necessary, they shall cooperate with police authorities to process with such case.
+
+Other necessary assistance.
+
+## Article 4
+
+When the police authorities learn or receive such case that the child and youth are abandoned or lost, the police authorities shall not only communicate with the authorities concerned of the municipality and provincial county (city) governments for placement, but also assist to look for his/her parents or guardian(s). Where necessary, the police authorities shall take photograph and press the finger and food prints of the child and youth, as well as conduct interrogation.
+
+The police authorities shall notify in writing of the authorities concerned in the area where the child and youth live for further action when finding the parents, guardian(s) or domiciliary data of the abandoned or lost helpless child and youth.
+
+## Article 5
+
+Upon receipt of notice of police authorities as mentioned in previous paragraph 2, the authorities concerned of the municipality and provincial county (city) governments shall request the competent authorities of such governments in the area where the parents and guardian(s) of the child and youth to conduct a visit, and fill up the assessment form to assess and judge the appropriateness of his/her family.
+
+The authorities concerned of the municipality and provincial county (city) governments shall notify the parents or guardian(s) to bring the child and youth home if they think that the parents or guardian(s) of the child and youth are capable to take care of them according to the results of survey and assessment.
+
+In case the parents or guardian(s) are found incompetent or refuse to bring the child and youth in question home, the competent authorities of the municipality and provincial county (city) governments shall transfer the child and youth for placement to the authorities concerned of the municipality and provincial county (city) governments where the domiciliary data of the child and youth are registered, and shall process the case in accordance with article 43, paragraph 1 of article 58 and article 65 of the Law. In case of allegedly involving the intentional abandonment or other crimes, they shall be transferred to judicial authorities for further investigation.
+
+## Article 6
+
+The authorities concerned of the municipality and provincial county (city) governments shall consult with the police authorities regarding the outcome of looking for the parents or guardian(s) if fail to find them after six (6) months dated from the day of receiving the information on the helpless child and youth. The process shall be conducted pursuant to article 7 after obtaining written document.
+
+## Article 7
+
+The competent authorities of municipality and provincial county (city) governments shall process the case with following measures by taking into account the best interest of the child and youth in question:
+
+To undertake at its discretion or commission to licensed children and youth welfare institutes to engage in adoption services for the adoption of the child and youth concerned.
+
+To select appropriate fostering family, children and youth welfare institutes and other placement institutions for the child and youth who cannot be adopted, with regularly follow-up assessment conducted and necessary welfare services provided.
+
+## Article 8
+
+After the adoption or at the end of placement of the child and youth to be adopted or placed, the competent authorities of municipality and provincial county (city) governments shall undertake follow-up, guidance and provide assistance for one year.
+
+## Article 9
+
+The format of report and all forms specified in these Schemes will be designed and laid down by the central authorities concerned.
+
+## Article 10
+
+These Schemes are effective from the date of issue.
+
+## History
+
+1.Enacted and promulgated by President Order Tai-Ne-Tong No.0930093710 on May 12, 2004
+
+2.Amended and promulgated by Order Tai-Ne-Tong No.0960840090 on July 12, 2007 (Article 3, 4, 6 are amended)
+
+3.Amended and promulgated by Order Tai-Ne-Tong No.1010840075 on April 3, 2012

@@ -1,0 +1,624 @@
+---
+title: "Regulations Governing Employment Transfer Procedures and Employment Qualifications for Foreigners Engaging in the Jobs Specified in Subparagraph 8 to 11 of Paragraph 1 of Article 46 of the Employment Service Act"
+title_zh: "外國人受聘僱從事就業服務法第四十六條第一項第八款至第十一款規定工作之轉換雇主或工作程序準則"
+identifier: "N0090023"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-09-25
+last_amended: 2026-04-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090023"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Employment Transfer Procedures and Employment Qualifications for Foreigners Engaging in the Jobs Specified in Subparagraph 8 to 11 of Paragraph 1 of Article 46 of the Employment Service Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090023-regulations-governing-employment-transfer-procedures-and-employment.md](../../../zh/regulations/ministry-of-labor/N0090023-regulations-governing-employment-transfer-procedures-and-employment.md)) is authoritative.
+
+## Article 1
+
+This Guideline is set up in accordance with the stipulation of Paragraph 2 to Article 59 of the Employment Service Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Employed foreigners who fit for any condition specified in all items of Paragraph 1 to Article 59 of the Act may apply for changing employers or jobs by the foreigner or original employer with the following documents provided to the Central Competent Authority:
+
+\1. Application Form.
+
+\2. Evidence document of any of the following reasons:
+
+(1) Original employer's or the person under care's Death Certificate or emigration evidence document.
+
+(2) Evidence document of fish boats unable to continue operation because of being detained, sunk or under renovation.
+
+(3) Evidence document of employment contract termination due to original employer's plant closure, shut down or not paying work compensation according to employment contract.
+
+(4) Evidence document of other reasons whose responsibility cannot be ascribed to employed foreigners.
+
+\3. Transferring employer or work certificate for foreign worker.
+
+Foreigners who apply to transfer to another employer or job according to the stipulations referred to in the preceding paragraph but have not provided all the required documents must be cleared after verification by competent authorities.
+
+## Article 3
+
+Employers or foreign workers who apply to transfer employers or work are required to apply online for the following items:
+
+\1. Items listed in Paragraph 1, Article 7, of the Regulations on the Permission and Administration of the Employment of Foreign Workers (hereinafter Employment Permit Regulations).
+
+\2. Items listed in Paragraph 1, Article 42 of the Regulations on the Work Qualifications and Permit Management of Foreign Skilled Workers (hereinafter Foreign Skilled Worker Regulations)
+
+However, with a legitimate reason and the approval of the Central Competent Authority this condition can be waived.
+
+Employers or foreign workers applying to transfer employers or work shall submit all documents required by law, with the exception of certified documentation issued by the central competent authority for the target business, free trade zone administrative authorities, public employment service agencies, special municipal, county (city) governments or state- owned enterprises that the Central Competent Authority can access on the national data network.
+
+The aforementioned documents shall be announced publicly by the Central Competent Authority.
+
+## Article 4
+
+In cases where central competent authorities have rescinded the original employer's employment permits or declined to issue permits, central competent authorities shall order foreign workers who fit the conditions specified in Paragraph 1 of Article 59 to transfer employers or jobs within a designated period of time, and register the required information on the transfer information system.
+
+## Article 5
+
+(Deleted)
+
+## Article 6
+
+Employers who apply to continue the employment of a foreign worker are required to provide the following documents:
+
+\1. Application Form.
+
+\2. Photocopies of the National ID card of the applicant or person in charge of the company, company registration, business registration certificate, factory registration certificate, hotel industry registration certificate, B&B registration certificate or franchise license. However, in accordance with related legal provisions those exempted from applying for a factory registration certificate or franchise license are not required to submit them.
+
+\3. Official list of workers with labor insurance or labor occupational accident insurance over the one-year period calculated backwards from two months before the month of the application. However, this does not apply when an application is to employ a foreign worker to engage in work specified in Subparagraphs 8 to 11, Paragraph 1, Article 46 of the Employment Service Act Work Qualifications and Review Standards (hereinafter the Review Standards) and the Foreign Skilled Worker Regulations and one of the following situations pertains:
+
+(1) Foreign workers are engaged in ocean fishing work or ocean fishing skilled work detailed in the Foreign Skilled Worker Regulations.
+
+(2) Foreign workers are engaged in live-in home help work, live-in care work or live-in skilled care work detailed in the Foreign Skilled Worker Regulations.
+
+(3) Foreign workers are engaged in institutional care work or institutional skilled care work detailed in the Foreign Skilled Worker Regulations.
+
+(4) Foreign workers engaged in diverse companionship and care services work or diverse companionship and care services skilled work detailed in the Foreign Skilled Worker Regulations.
+
+\4. Original copy of certified documents attesting to an employer’s qualification to engage in the continued employment of foreign workers pursuant to the provisions of Article 7.
+
+\5. Original copy of a certificate of recruitment. However, applications for the continued employment of a foreign worker engaging in live-in care work or live-in skilled care work detailed in the Foreign Skilled Worker Regulations are exempted from this provision.
+
+\6. Description of foreign worker’s expected work responsibilities.
+
+\7. Certified documents issued by municipal or county (city) governments pursuant to the provisions of Subparagraph 5, Paragraph 1, Article 22 or Subparagraph 5, Paragraph 1, Article 19 of the Foreign Skilled Worker Regulations.
+
+Employers with a recruitment permit letter who apply for the continued employment of foreign workers are exempted from providing the documents detailed in Subparagraphs 2, 3, 5 and 7, Paragraph 1 of the previous paragraph.
+
+## Article 7
+
+When an employer applies to continue the employment of a foreign worker, a public employment service agency is required to process applications based on work category and in accordance with the following priorities:
+
+\1. An employer with a recruitment permit letter, whose care recipient meets the criteria for severe disability and being care-dependent as detailed in Item 8, Article 18 of the Review Standards, can hire foreign workers for the duration of the permit, as long as the quota has not yet been fully met.
+
+\2. An employer who is eligible to hire foreign workers as stipulated by the Central Competent Authority, where the number of employed foreign workers has not reached the upper limit of the ratio or quota specified in the Review Standards and one of the following situations pertains.
+
+(1) Meets the level of severe disability and caregiving dependency announced in Paragraph 8, Article 18 of the Review Standards.
+
+(2) Meets the level of severe disability and caregiving dependency announced in Paragraph 5, Article 31 of the Foreign Skilled Worker Regulations.
+
+\3. Employers with a recruitment permit letter for foreign workers originally engaged in the same work category, can bring in foreign workers as long as the recruitment permit letter remains valid and they have not reached their full quota.For those who continue the employment of foreign nationals to engage in live-in home help work, the cumulative score calculated in accordance with Table 1, Article 12 of the Review Standards must reach 10 points or more.
+
+\4. Employers who meet the qualifications stipulated by the Central Competent Authority to employ foreign workers, when the workers are engaged in the same type of work, and the number has not reached the ratio or the upper limit of the quota stipulated in the Review Standards or Foreign Skilled Worker Regulations.For those who continue the employment of foreign nationals to engage in live-in home help work, the cumulative score calculated in accordance with Table 1, Article 12 of the Review Standards must reach 10 points or more.
+
+\5. Employers eligible to bring in foreign workers as long as their recruitment permit letter remains valid who have not reached their full quota.For those who continue the employment of foreign nationals to engage in live-in home help work, the cumulative score calculated in accordance with Table 1, Article 12 of the Review Standards must reach 4 points or more.
+
+\6. Employers who meet the qualification to employ foreign workers stipulated by the Central Competent Authority, where the number of foreign workers hired has not reached the ratio or upper limit of the quota stipulated in the Review Standards or Foreign Skilled Worker Regulations.For those who continue the employment of foreign nationals to engage in live-in home help work, the cumulative score calculated in accordance with Table 1, Article 12 of the Review Standards must reach 4 points or more.
+
+\7. Businesses in the manufacturing or construction industries which do not employ foreign workers or where the number of foreign workers hired has not reached the ratio or upper limit of the quota stipulated by the Central Competent Authority, where domestic recruitment has been undertaken pursuant to the provisions of Article 47 of the Act, but failed to meet the applicant’s needs.
+
+When an employer applies to continue the employment of a foreign worker engaged in diverse companion and care work detailed in Subparagraph 7, Article 5 of the Review Standards, a public employment services agency should deal with the application in accordance with the provisions of Subparagraph 3 and Subparagraph 5 in the above paragraph. When an employer applies for the continued employment of a foreign worker to engage in foreign skilled work (hereinafter foreign skilled work) listed in Article 5 of the Foreign Skilled Worker Regulations, a public employment service agency shall prioritize the application pursuant to the provisions in Subparagraphs 2, 4 and 6 in the above paragraph.
+
+An employer in the manufacturing industry who applies for the continued employment of a foreign worker to engage in manufacturing work in accordance with Article 25-1 of the Review Standards should comply with the regulations stipulated in Subparagraph 4, Paragraph 1; Manufacturing industry employers who apply to continue the employment of a foreign worker engaged in manufacturing work in accordance with Article 25-2 of the Review Standards are required to comply with the provisions of Subparagraph 3 or Subparagraph 5, Paragraph 1.
+
+After a public employment service agency determines that applications for continued employment registration referred to in the preceding three paragraphs are consistent with existing regulations, it is required to post necessary information on an information system designated by the Central Competent Authority.
+
+Applications for continued employment registration referred to in Paragraphs 1 to 3 are valid for 60 days from the date of registration. If after the valid period expires continued employment is still necessary, registration must be undertaken again.
+
+## Article 8
+
+Foreigner nationals processing transfer of registration are restricted to the same type of job in their original industry. But any of the following cases is not restricted by this:
+
+\1. Applications for continued employment by employers with qualifications detailed in Subparagraphs 1, 2, 5 or 6, Paragraph 1 of the preceding Article.
+
+\2. Foreigners who are victims of sexual assault, sexual harassment or violence, or are deemed victims of human trafficking.
+
+\3. Approved by the Central Competent Authority.
+
+Live-in care work, live-in home help work, live-in skilled care work, institutional care work, institutional skilled care work, diverse companion and care services work and diverse companion and care services skilled work are considered the same category of work.
+
+## Article 9
+
+Public Employment Service Agency shall follow the priority stipulation as referred to in Paragraph 1 and Paragraph 3 of Article 7, foreigners' expected employment location, type of job, remaining employment period, and other conditions designated by the Central Competent Authority to manage operation of transferring. As priority stipulation cannot be discerned, it shall be determined randomly by the information system designated by the Central Competent Authority.
+
+Public Employment Service Agency managing operation of transferring shall follow the stipulation of preceding Paragraph to select at least ten applicants of consecutively employment, and their number of consecutively employing foreigners shall reach one and half times of transferring foreigners. But when the number to be consecutively employed does not reach the above number or proportion, these restrictions do not apply.
+
+## Article 10
+
+Public Employment Service Agency shall adopt method of public conciliation meeting every week to manage operation of consecutively employing foreigners.
+
+The conciliation meeting of the preceding paragraph shall notify original employer, applicant of consecutively employment and foreigners to participate.
+
+If original employer or applicant of consecutively employment were absent, they may provide power of attorney to authorize representative to present. If applicant of consecutively employment or whose representatives were absent from the meeting, they would be regarded as abandoning consecutively employment registration this time.
+
+Foreigners shall carry passport, Alien Residence Certificate or other related evidence documents to participate the conciliation meeting as referred to in Paragraph 1. But foreigners whose passport and Alien Residence Certificate are detained illegally are not restricted.
+
+Foreigners who are absent without due reasons will be regarded as abandoning transferring employers or jobs.
+
+In the conciliation meeting as referred to in Paragraph 1, applicants of consecutively employment shall describe the contents of scheduled job for foreigners, and determine with the consent of foreigners. If foreigners' number exceeded the number that employers intend to employ consecutively, Public Employment Service Agency shall conciliate.
+
+Within the period specified by the central competent authority, if a foreign national fails to meet the requirement of applicant registered for continued employment in accordance with Subparagraphs 1 to 4, Paragraph 1, Article 7, then the foreign worker can be recruited accordingly in sequence of applicants who meet the requirements of Subparagraphs 5 to 7, Paragraph 1, Article 7, for continued employment agreed by the two parties.
+
+## Article 11
+
+Public employment service agencies are required to complete the transfer of foreign workers in accordance with the transfer process laid out in the two previous articles within 60 days of the Central Competent Authority registering necessary information in accordance with the provisions of Article 4. But for those foreigners possessing special situations that have been approved by the Central Competent Authority, the operation of foreigners' transferring may be extended to sixty days and one time only.
+
+Foreigners who are physically assaulted by employers or other employees, commissioned administrator, persons under care of or relatives of persons under care of, and the Central Competent Authority permits revocation, its application to transfer operation is not subject to restriction on the times in the preceding paragraph.
+
+In the case of foreigners who fail to attend negotiation meetings as stipulated in the preceding article without due reason, in the duration of the transfer process or extended transfer process, after their employment permits are annulled or rejected by central competent authorities and they are notified of approval of a change in employer or job, or foreigners who fail to find a new employer or job within the designated period of transition time as stipulated in the two previous articles, the Public Employment Service Agency shall notify their original employers to facilitate procedures so they can leave the country within fourteen days starting from the day after the negotiation meeting, except for foreigners with appropriate reasons approved by the central competent authorities.
+
+In cases where the original employers’ whereabouts are unknown, Municipality or County/City-level competent authorities shall ask Police or Immigration Competent Authorities with jurisdiction to carry out the departure process.
+
+Foreign nationals who meet one of the following conditions are permitted to extend the work or employer transfer period a maximum of one time.
+
+\1. When an application based on special circumstances detailed in the proviso of Paragraph 1 is submitted to the Central Competent Authority no later than 14 days prior to the expiration of the original transfer period and subsequently approved.
+
+\2. In the event of major socio-economic incidents or for other special reasons, the Central Competent Authority can, on a case-by-case basis, automatically extend the transfer period in the transfer information system from the day after the expiration of the original transfer period.
+
+## Article 12
+
+After completion of foreigners transferring operation, Public Employment Service Agency shall issue a Consecutive Employment Certificate to the employer of consecutive employment and the original employer.
+
+## Article 13
+
+Within fifteen days starting from the second date of obtaining the Consecutive Employment Certificate, employers of consecutive employment shall prepare the following documents to the Central Competent Authority to apply for issuing Employment Permit or extending Employment Permit:
+
+\1. Application Form.
+
+\2. Copy of applicant's National Identification Card or the responsible corporate representative's identification documents, evidence document of corporate registration or commercial registration, Factory Registration Certificate, hotel industry registration certificate, B&B registration certificate and Franchised Business Permit Certificate. Those exempt from Franchised Business Permit Certificate are not restricted.
+
+\3. Certification documents related to Article 20 and issued by local competent authorities when accepting a report.
+
+\4. Other documents as stipulated in Attachment 1.
+
+When an employer applies to continue the employment of graduate foreign and overseas Chinese students to engage in tourism and hospitality related work the application should include documents detailed in the above paragraph, as well as a photocopy of a tourist hotel operator’s license, hotel industry registration certificate or B&B registration certificate.In cases where a foreigner is being hired by a social group, photocopies of the employer’s National Identification Card and the Accreditation Certificate of the organization are required, in addition to the documents specified in Subparagraphs 1, 3, and 4 of the Paragraph 1.
+
+## Article 14
+
+The Employment Permit period for the employer offering consecutive employment is restricted to three years. However, the Employment Permit period for the employer applying for consecutive employment using the Recruitment Permit is restricted to supplementing the foreigners' remaining employment period of the original Employment Permit.
+
+## Article 15
+
+For the employer of consecutive employment, according to the Guideline, the number of foreigners that may be consecutively employed and the following persons shall not in total exceed the upper limit of proportion or number stipulated by the Central Competent Authority:
+
+\1. The foreigners that have been employed;
+
+\2. Those that have obtained Recruitment Permits;
+
+\3. Those for whom re-recruitment permit or recurrence letter of recruitment may be applied for;
+
+\4. Those that have applied for consecutive employment in the first two years and the reasons that Recruitment Permit and Employment Permits are annulled are attributable to employers.
+
+## Article 16
+
+When original employer can not be traced clearly, but foreigners are regarded by the Special Municipality or the County (City) Competent Authority of the location foreigners work as consistent with any situation as referred to in Paragraph 1 to Article 59 of the Act, and situation is emergent such that immediate placement required, then after asking for agreement from foreigners, the Competent Authority shall arbitrarily notify Public Employment Service Agency to process registration for foreigners.
+
+## Article 17
+
+In any of the following situations, applicants can apply directly to the Central Competent Authority for continued employment of foreign workers and the provisions of Article 2 to Article 13 do not apply:
+
+\1. The original employer is unable to continue employing a foreign worker because of death, emigration or other reason, when the applicant and original care recipient are relatives pursuant to the provisions of Paragraph 4, or the applicant is the spouse of the original employer of the live-in home help.
+
+\2. Individual employers engaged in the work specified below who, as a result of a change in ship ownership or responsible person, continue the employment of all the original employer’s domestic workers starting from the six months prior to the month in which the change occurred.
+
+(1) Article 3, Subparagraph 2, Article 4, Subparagraph 1, 4, 6 and 8 Article 5, of the Review Standards.
+
+(2) Subparagraphs 3, 5, 6, 8, 9, and 12, Article 5 of the Foreign Skilled Worker Regulations.
+
+\3. In the event of the purchase or rent of the original manufacturing employer’s machinery, equipment or plant or purchase or rent of the original employer's slaughterhouse, or purchase or rent of the original employer’s waste recycling facility (area) the new owner or responsible person is required to continue the employment of all the domestic workers of the original employer six months before the date of the change.
+
+\4. When an applicant takes over responsibility for a construction project after the original employer closes a plant or shuts-down thereby halting a major construction project.
+
+\5. Any foreign worker whose employment permit has been revoked or denied by the Central Competent Authority and employer who conforms to the application qualifications in Subparagraphs 1 to 4, Paragraph 1, Article 7, is required to sign a certified document attesting that both parties consent to continued employment within the period of time approved for the employer transfer by the Central Competent Authority (hereinafter two- party agreement to continued employment).
+
+\6. Foreign workers, original employers and employers whose application qualifications conform to the provisions of Subparagraphs 1 to 4, Paragraph 1 or Paragraph 3, Article 7, shall sign a three-party certified document of agreement to continued employment (hereinafter referred to as three-party agreement to continued employment).
+
+After a merger of businesses, the surviving, newly established or taken over business will continue the employment or retain all or some of the domestic workers employed by the original employer six months prior to the merger. Applicants can directly apply to the Central Competent Authority to file any change in information and the provisions of Articles 2 to 15 do not apply:
+
+If the business involved is a legal entity, any change in the owner or responsible person of a boat must be reported to the Central Competent Authority as part of an application to file changes in information and the provisions of Articles 2 to 15 do not apply:
+
+The relationships referenced in Subparagraph 1, Paragraph 1 are detailed below:
+
+\1. Spouse.
+
+\2. Direct blood relatives.
+
+\3. Collateral blood relatives to the third degree of kinship.
+
+\4. Step-parents, stepchildren, spouse’s parents or step-parents, spouse of a child or step- child.
+
+\5. Spouse of grandparent and grandchild, step-grandparents and grandchildren, spouse of a step-grandparent and grandchild.
+
+## Article 18
+
+When an employer, pursuant to the provisions of Subparagraph 3, Paragraph 1, Article 17, continues the employment of type B foreign workers in accordance with Article 15, the ratio and total number of workers can be increased in the following situations. However, the total cannot exceed 40 percent of the average number of employees hired by the employer in the year preceding the two months prior to the month in which the application is made:
+
+\1. If the ratio is increased by 5 percent, the employer is required to pay an extra NT$3,000 employment security fee for each foreign worker per month.
+
+\2. If the ratio is increased by more than 5 percent to 10 percent, the employer is required to pay an extra NT$5,000 employment security fee for each foreign worker per month.
+
+\3. If the ratio is increased by more than 10 percent to 15 percent, the employer is required to pay an extra NT$7,000 employment security fee for each foreign worker per month.
+
+\4. If the ratio is increased by more than 15 percent to 20 percent, the employer is required to pay an extra NT$9,000 employment security fee for each foreign worker per month.
+
+If an employer hires continued employment foreign workers, in accordance with the increased ratios in the preceding subparagraphs, he/she cannot change the amount of additional employment security fees to be paid.
+
+## Article 19
+
+The application periods for situations detailed in the subparagraphs of Paragraph 1, Article 17 are as follows:
+
+\1. Subparagraphs 1 to 4: To be presented within 60 days of the event occurring.
+
+\2. Subparagraphs 5 and 6: To be presented within 15 days after two parties or three parties agree to continued employment.
+
+The date on which an event occurs referenced in Subparagraph 1 in the preceding paragraph refers to the following:
+
+\1. Subparagraph 1, Paragraph 1, Article 17: Date on which the original employer died, emigrated, or other reasons for not continuing employment occurred.
+
+\2. Subparagraphs 2 and 3, Paragraph 1, Article 17: Date on which the registration of fishing boats, caged aquaculture businesses, care institutions, factories, slaughterhouses, agricultural, forestry, animal husbandry, aquaculture sites, hotels or B&Bs was amended or cancelled.
+
+\3. Subparagraph 4, Paragraph 1, Article 17: Date on which work on an original construction project is taken over.
+
+For situations detailed in Paragraph 2, Article 17, applicants are required to submit an application within 60 days of the standard date of a merger.
+
+If the situations detailed in Subparagraph 1, Paragraph 1, Article 17 occur after the original employer obtains a recruitment permit but before the foreign worker arrives in the Republic of China, an applicant who is a relative pursuant to Paragraph 4, Article 17 is required to apply to the Central Competent Authority for a continued work permit within 15 days of the foreign workers arriving in the Republic of China.
+
+When an original employer referred to in Subparagraphs 2 and 3, Paragraph 1 and Paragraph 2, Article 17 has obtained a recruitment permit and not applied for or brought in the full quota of foreign workers within the valid period of the permit, the applicant is required to submit an application within the designated period pursuant to Paragraphs 1 and 2.
+
+## Article 20
+
+Employers who undertake the continued employment of type B foreign workers should submit the following documents and notify the local competent authority, which is required to conduct an on-site inspection:
+
+\1. Employer continued employment of foreign workers notification.
+
+\2. Foreign Workers Living Care Service Plan.
+
+\3. List of foreign workers
+
+\4. Foreign worker affidavit on expenses incurred traveling to the Republic of China to work and wage/salary. However, the continued employment of intermediate skilled foreign workers is exempted from this provision.
+
+\5. Other documents required by the Central Competent Authority.
+
+Employers in the preceding paragraph shall notify the local competent authority within the following designated periods:
+
+\1. Applications in accordance with the provisions of Article 7 shall be submitted within three days after a public employment service agency issues a Continued Employment Certificate.
+
+\2. Applicants in accordance with Subparagraph 1, Paragraph 1, Point 1 Subparagraph 2, Subparagraph 3, Subparagraph 4, Paragraph 2 and Paragraph 3, Article 17 are required to submit documents within 60 days of the events occurring detailed in Paragraph 2 and Paragraph 3 of Article 19. However, when the original employer encounters a situation detailed in Subparagraph 1, Paragraph 1, Article 17, after obtaining a recruitment permit but before the arrival of foreign workers in the Republic of China, an applicant who is a relative pursuant to Paragraph 4, Article 17 is required to provide documentation within three days of the foreign workers arriving in the Republic of China.
+
+\3. Applicants in accordance with Subparagraphs 5 and 6, Paragraph 1, Article 17 are required to submit documents within 3 days of two or three parties agreeing to continued employment.
+
+Once an employer notifies the local competent authority in accordance with the two preceding paragraphs, the notification cannot be withdrawn.
+
+When an employer’s application documents meet the provisions of Paragraph 1, the local competent authority is required to issue a Foreign Workers Continued Employment Notification Certificate, and process the application pursuant to the provisions of Articles 33 and 34 of the Employment Permit Regulations. However, where an inspection was passed in the six months preceding the issuance of the certificate the inspection in Paragraph 1 does not have to be conducted.
+
+## Article 21
+
+For the employer of consecutive employment or original employer, according to the Guideline, when consecutively employing or transferring foreigners, the same foreigner cannot simultaneously and successively sign the bilateral or trilateral certification documents, or consecutively employ or transfer the foreigner through public employment institutions.
+
+## Article 22
+
+Employers who apply for continued employment of foreign workers in accordance with Paragraph 1, Article 17 are required to submit the following documents:
+
+\1. Application Form.
+
+\2. Certified documentation.
+
+\3. Certified documents attesting to receipt of notification issued by the local competent authority pursuant to the provisions of the preceding Article.
+
+\4. Other documents listed in Addendum 2.
+
+Certified documentation referred to in Subparagraph 2 includes the following:
+
+\1. Applicants with qualifications pursuant to the provisions of Subparagraph 1, Paragraph 1, Article 17:
+
+(1) Certified documentation relating to the death, emigration or other reasons an original employer cannot undertake continued employment of foreign workers.
+
+(2) Photocopy of Household Certificate for the applicant and care recipients.
+
+\2. Applicants with qualifications pursuant to the provisions of Subparagraph 2, Paragraph 1, Article 17:
+
+(1) Photocopies of certified documents attesting to a change in the ownership of a boat or National ID card of the responsible person pursuant to the provisions on individual employers detailed below:
+
+\1. In Article 3, Subparagraph 2, Article 4, Subparagraph 1, 4, 6 and 8, Article 5, Points 1, 2, 4 and 8, Subparagraph 3, Subparagraph 4, Article 6, of the Review Standards.
+
+\2. In Subparagraphs 3, 5, 6, 8, 9, and 12, Article 5 of the Foreign Skilled Worker Regulations.
+
+(2) Original copy of labor insurance or labor occupational accident insurance materials and list of domestic workers hired by the original employer and given continued employment by the applicant.
+
+\3. Applicants with qualifications pursuant to the provisions of Subparagraph 3, Paragraph 1, Article 17:
+
+(1) Photocopies of factory, slaughterhouse or waste recycling facility (area) purchase invoice or rental contract notarized pursuant to the Notary Act.
+
+(2) Photocopies of certified documents showing the revision or cancellation of factory, slaughterhouse, or waste recycling facility (area) business registration.
+
+(3) Original copy of labor insurance or labor occupational accident insurance materials and list of domestic workers hired by the original employer and given continued employment by the applicant.
+
+\4. Applicants with qualifications pursuant to the provisions of Subparagraph 4, Paragraph 1, Article 17:
+
+(1) Photocopies of certified documents attesting to the original employer's plant closure or business shut-down.
+
+(2) Photocopies of certified documents attesting to the applicant's business registration.
+
+(3) Photocopies of project contracts attesting to the applicant's take over of a construction project.
+
+\5. Applicants with qualifications pursuant to the provisions of Subparagraph 5, Paragraph 1, Article 17: Certified documents on two party agreement to continued employment.
+
+\6. Applicants with qualifications pursuant to the provisions of Subparagraph 6, Paragraph 1, Article 17:
+
+(1) One of the certified documents referred in Subparagraph 2, Paragraph 1, Article 2.
+
+(2) Certified documents on three party continued employment.
+
+Applications for amendments to information pursuant to qualifications in Paragraph 2, Article 17 are required to provide the following documents:
+
+\1. Application Form.
+
+\2. Certified documentation.
+
+\3. National ID card of the responsible person, company registration certificate or business registration certificate of the applicant and original employer.
+
+Applications for amendments to information pursuant to qualifications in Paragraph 3, Article 17 are required to provide the following documents:
+
+\1. Application Form.
+
+\2. Certified documents on the amendment of business registration information in accordance with existing laws.
+
+\3. National ID card of the responsible person.
+
+## Article 23
+
+If an individual is employed as a type B foreign worker or foreign skilled worker and the original employer indicates he/she will not continue employment but is willing to transfer the foreign worker to a new employer for continued employment (hereinafter referred to as a contract completion transfer foreign worker), the original employer is required to provide the following documents to the Central Competent Authority 2-4 months before the work permit expires as part of an application for employer or work transfer. However, if the new employer of a foreign worker applies for a contract completion transfer within the aforementioned period and receives approval, the original employer is not required to apply to the Central Competent Authority for an employer or work transfer:
+
+\1. Application form.
+
+\2. Certified documents attesting to the foreign worker’s agreement to an employer or work transfer.
+
+The Central Competent Authority is required to register necessary information relating to the aforementioned foreign worker’s agreement on a designated information system.
+
+After a public employment service agency registers information pursuant to the preceding paragraph, it should process a contract completion transfer based on the foreign worker’s preferred employment location, type of job and other conditions designated by the Central Competent Authority. The relevant procedures shall follow the provisions of Paragraph 2, Article 9, Article 10 and Article 12.
+
+## Article 24
+
+When an employer applies for the contract completion continued employment of a type B foreign worker he/she should do so while the recruitment permit letter remains valid and the full quota for bringing in foreign workers has not been reached.
+
+When an employer applies for the contract completion transfer of an foreign skilled worker, the application must be in accordance with the Review Standards and the Foreign Skilled Worker Regulations, and the number of foreign workers employed must not exceed the full quota.
+
+## Article 25
+
+When foreign workers undertake a contract completion transfer to change their employer or work, they are not limited to transfers involving the category of work in which they were originally engaged.
+
+However, individuals who transfer to a different category of work are required to have qualifications that comply with those detailed in the Review Standards and the Foreign Skilled Worker Regulations.
+
+## Article 26
+
+Transfer of employers or work for Finish Contract and under Transfer Foreign Workers shall be completed from the day of approval of transfer of employers or work by the Central Competent Authority to 14 days prior to expiry of employment period of employment permit.
+
+No extension of the period of transfer specified in the preceding paragraph is allowed.
+
+If the transfer of employers or work for Finish Contract and under Transfer Foreign Workers, upon approval of Central Competent Authority, is not completed by the the period of transfer mentioned in the preceding first paragraph, the original employer is responsible to facilitate procedures by expiry of period of employment of employment permit so that such foreigners can leave the country.
+
+## Article 27
+
+Employers meeting the qualifications specified in Article 24 and entering into the consecutive employment agreement with Finish Contract and under Transfer Foreign Workers prior to the expiration of the foreign workers’ employment permits shall apply to the Central Competent Authority for directly consecutively employing such foreigners. The stipulations in Article 2 to Article 13 and Article 23 herein do not apply.
+
+## Article 28
+
+Employers applying to undertake the continued employment of contract completion type B foreign workers and intermediate skilled foreign workers are required to notify the local competent authority, which is required to conduct an on-site inspection and submit the documents specified in Paragraph 1, Article 20, within 3 days of the dates below:
+
+\1. The date on which a public employment service agency issues a contract completion transfer continued employment certificate;
+
+\2. The date on which the employer and foreign worker sign a certified document attesting to two-party continued employment agreement;
+
+The aforementioned notification given by employers to the local competent authority cannot be withdrawn, other than for reasons not attributable to the employer.
+
+When the documents submitted by the employer are in accordance with regulations in the first paragraph, the local competent authority is required to issue a Receipt of Contract Completion Transfer Foreign Worker Continued Employment Notification Certificate, to be processed pursuant to the provisions of Article 33 and Article 34 of the Employment Permit Regulations. However, an inspection is not required if one was conducted and passed within the year prior to the issuance of the notification.
+
+## Article 29
+
+When an employer engages in the contract completion continued employment of a Category 2 foreign worker, he/she is required to submit the following documents to the Central Competent Authority as part of an application for a continued employment permit, within 15 days after a certified two-party continued employment agreement is signed:
+
+\1. Application Form.
+
+\2. Photocopies of applicant or company responsible person’s National ID Card, company registration, limited partnership registration certificate, commercial registration, business registration certificate, factory registration certificate, franchise license. However, those exempted from applying for a factory registration certificate or franchise license are not required to submit them.
+
+\3. Certified documents issued by the local competent authority on receiving notification in accordance with the provisions of the previous Article.
+
+\4. Original copy of the recruitment permit letter. However, this does not apply to the continued employment of foreign skilled workers.
+
+\5. Original copy of review fee receipt.
+
+\6. Certified documents provided by foreign nationals when applying to the immigration authorities for residence in Taiwan.
+
+Pursuant to Subparagraph 4 in the above paragraph the recruitment permit letter is insufficient to bring in foreign workers, so employers are also required to also submit the original copy of a visa permit letter and list of foreign workers.
+
+When an employer hires a contract completion transfer foreign skilled worker he/she is required to apply for a continued employment permit from the Competent Central Authority within 15 days of the two parties signing a certified continued employment agreement, submitting the documents listed in Subparagraphs 1 and 5 of Paragraph 1, and the following documentation:
+
+\1. Identification documents of the applicant or the company responsible person; photocopies of the company registration certificate, limited partnership registration certificate, business registration certificate, factory registration certificate, hotel business registration certificate, B&B registration certificate, or franchise permit etc. However, if a factory registration or franchise permit are not required under related laws and regulations, they do not have to be submitted.
+
+\2. Certificate of recruitment. However, those who employ live-in foreign skilled caregivers detailed in the Foreign Skilled Worker Regulations are exempted from providing the certificate.
+
+\3. When an employer recruits locally he/she is required to provide a list of employed domestic workers, with the exception of those who employ live-in foreign skilled care workers detailed in the Foreign Skilled Worker Regulations.
+
+\4. Certified documentation issued by a municipal or county (city) government pursuant to the provisions of Subparagraph 5, Paragraph 1, Article 59 of the Foreign Skilled Worker Regulations.
+
+\5. Photocopies of the passport or ARC of hired foreign workers.
+
+\6. Other required documents as detailed in Addendum 3.
+
+If the employer is a civic organization, in addition to submitting the documents specified in Subparagraph 1, and Subparagraphs 3 to 6, Paragraph 1, and Subparagraphs 2 to 6 of the preceding paragraph, he/she is also required to provide photocopies of the identification documents of the organization’s responsible person and the organization’s registration certificate.
+
+The Central Competent Authority will issue a continued employment permit, valid for a maximum of three years, the day after a contract completion transfer foreign worker’s original employment permit expires. However, applications for continued employment based on a replacement recruitment permit are limited to the remaining employment period on the original employment permit of the foreign workers hired.
+
+## Article 30
+
+Pursuant to the provisions of the Act, employers who hire continued employment foreign workers assume employer responsibilities and are required to pay employment security fees from the following dates:
+
+\1. Applications pursuant to the provisions of Article 7 start from the day the public employment service agency issues a continued employment certificate.
+
+\2. Applications pursuant to the provisions of Subparagraphs 1 to 4, Paragraph 1, Article 17 start from the day on which events detailed in Paragraph 2, Article 19 take place.
+
+\3. Applications pursuant to the provisions of Subparagraphs 5 and 6, Paragraph 1, Article 17 start from the day the agreed two-party or three-party continued employment starts.
+
+\4. Applications pursuant to the provisions of Paragraph 2, Article 17 start from the day on which events detailed in Paragraph 3, Article 19 take place.
+
+\5. Applications pursuant to the provisions of Article 27 and Article 29 start from the day after the original employment permit expires.
+
+When the Central Competent Authority declines to issue an employment permit to employers referred to in the preceding paragraph, the authority will issue the foreign workers with a continued employment permit from the date specified in the preceding paragraph until the date it declined to issue the employment permit.
+
+When a continued employment foreign worker acts in a manner specified in Article 56 of the Act, employers referenced in Paragraph 1 are required to notifying the local competent authority, the immigration authorities, the police and the Central Competent Authority within the time detailed in the aforementioned paragraph. However, when notification is given of employment termination, the local competent authorities shall proceed pursuant to the provisions of Article 68 of the Employment Permit Regulations.
+
+## Article 31
+
+When an employer intends to continue the employment of a foreign worker he/she should seek to re-recruit prior to the expiration of the employment permit pursuant to the provisions of the Review Standards and related regulations.
+
+When undertaking the re-recruitment of foreign workers in the preceding paragraph, the total number of re-recruited foreign workers, employed foreign workers and those with recruitment permits, must not exceed the upper limit of the ratio or maximum number stipulated by the Central Competent Authority.
+
+When an employer in the manufacturing industry referenced in Subparagraph 1, Article 5 of the Review Standards applies for a re-recruitment permit pursuant to the previous paragraph he/she shall be limited to the same number of workers brought in on the previous recruitment permit or continued employment permit with the same labor insurance certificate number.
+
+After an employer completes an application for an employment permit or extension thereof pursuant to the provisions of Article 13 or Article 17, if the re-recruitment period has passed, the employer can undertake re-recruitment within four months of obtaining an employment permit or extension thereof.
+
+Employers who continue the employment of a foreign skilled worker do not have to applying for a re-recruitment permit.
+
+## Article 32
+
+\1. The total number of foreign workers employed by manufacturing employers, including the number of continued employment workers referenced in Subparagraphs 3 to 7, Paragraph 1, Article 7 and Subparagraph 3, Paragraph 1, Article 17, foreign workers brought in pursuant to the provisions in Paragraph 1 of the preceding Article and measures taken by the Central Competent Authority to verify the ratio of foreigners hired by such employers must comply with the provisions of Addendum 4.
+
+\2. Employers in the preceding paragraph who do not employ foreign workers pursuant to the provisions of Article 25 of the Review Standards are required to employ at least one domestic worker for every foreign worker they hire per month.
+
+\3. After an employer has engaged in the continued employment of the first foreign worker referenced in the first paragraph for a period of three months, and every three months thereafter, the Central Competent Authority will, pursuant to the provisions of the preceding two paragraphs, review the ratio or total number of foreign workers and total number of domestic workers employed.
+
+\4. The number of foreign workers employed, number of domestic workers employed and total employees hired referenced in Paragraph 1 and Paragraph 2 are calculated taking the figure two months prior to the inspection conducted by the Central Competent Authority as the base month. The average number of workers who participated in the Labor Insurance program for the three months prior to the base month is then calculated.
+
+\5. When manufacturing industry employers with the qualifications detailed in Article 30 of the Review Standards engage in the continued employment of foreign workers pursuant to the provisions of Subparagraphs 3 to 6, Paragraph 1, Article 7 and Subparagraph 3, Paragraph 1, Article 17, the Central Competent Authority will conduct an inspection in accordance with the provisions of the preceding four paragraphs, but also a further review pursuant to the provisions of Addendum 8, Article 34 of the Review Standards as detailed below:
+
+\1. The total number of foreign workers employed and brought into the Republic of China by employers pursuant to the provisions of Article 24, Article 25, Articles 26 to 28, and Article 31 of the Review Standards.
+
+\2. The number of new domestic workers employers add to the same Labor Insurance Certificate No., labor insurance salary and labor pension wage contributions should comply with the following regulations:
+
+(1) Those in compliance with the provisions of Subparagraph 1, Paragraph 1, Article 30 of the Review Standards: Average of NT$30,300 and above.
+
+(2) Those in compliance with the provisions of Subparagraph 2, Paragraph 1, Article 30 of the Review Standards: Average of NT$36,300 and above.
+
+(3) Those in compliance with the provisions of Subparagraph 2, Paragraph 1, Article 30 of the Review Standards and based on the provisions of Paragraph 3, Article 31 increase the ratio of foreign workers employed: Average of NT$38,200 and above.
+
+(4) Those in compliance with the provisions of Paragraph 2, Article 30 of the Review Standards: Average of NT$33,300 and above.
+
+\6. When an employer employs foreign workers in excess of the ratio or total number detailed in Paragraph 1 and Subparagraph 1 of the previous paragraph and the number of domestic workers employed fails to meet the standard laid down in Paragraph 2, the Central Competent Authority will issue a notification requiring improvements within a set period of time. If no improvements are made within that time frame or an employer violates the provisions of Subparagraph 2 of the previous paragraph, then pursuant to the provisions of Article 72 of the Act, the employer will have his/her recruitment permit and employment permit for worker’s exceeding the stipulated maximum revoked, and they will be included as part of the total number of foreign workers employed in accordance with Article 15 and Addendum 6, Article 25 of the Review Standards.
+
+\7. The total number of foreign workers employed by employers pursuant to the provisions of Paragraphs 1 to 5 does not include foreign skilled workers.
+
+## Article 33
+
+\1. The total number of foreign workers employed by slaughterhouse employers, including the number of continued employment workers referenced in Subparagraphs 3 to 6, Paragraph 1, Article 7 and Subparagraph 3, Paragraph 1, Article 17, foreign workers brought in pursuant to the provisions of Paragraph 1, Article 31 and measures taken by the Central Competent Authority to verify the ratio of foreigners hired by such employers must comply with the provisions of Addendum 5.
+
+\2. After an employer has engaged in the continued employment of the first foreign worker referenced in the previous paragraph for a period of three months, and every three months thereafter, the Central Competent Authority will review the ratio or total number of foreign workers employed.
+
+\3. The total number of foreign workers and employees hired referenced in Paragraph 1 is calculated by taking the month two months prior to the inspection conducted by the Central Competent Authority as the base month. The average number of workers who participated in the Labor Insurance program for the three months prior to the base month is then calculated.
+
+\4. When an employer hires foreign workers in excess of the ratio or total number in Paragraph 1, the Central Competent Authority will issue a notification requiring improvements within a set period of time. If no improvements are made within that time frame then pursuant to the provisions of Article 72 of the Act, the employer will have his/her recruitment permit and employment permit for the workers exceeding the stipulated maximum revoked, and they will be included as part of the total number of foreign workers employed referenced in Article 15 and Addendum 10, Article 49 of the Review Standards.
+
+## Article 33-1
+
+\1. Employers engaged in waste and resource recycling and processing work detailed in Subparagraph 8, Article 5 of the Review Standards are required to ensure that the number of foreign workers they employ, the number of foreign workers they continue to employ in accordance with the provisions of Subparagraphs 3 to 6, Paragraph 1, Article 7, and Subparagraph 3, Paragraph 1, Article 17, the total number of foreign workers brought into Taiwan as detailed in Paragraph 1, Article 31, as well as inspections of the ratio of foreign workers and method of employment conducted by the Central Competent Authority, comply with the provisions outlined in Appendix 6.
+
+\2. Starting three months after the employer continues the employment of the first foreign worker, the Central Competent Authority will conduct inspections every three months, in accordance with the provisions outlined in the above paragraph, to confirm the ratio and total number of foreign workers hired by the employer.
+
+\3. The number of foreign workers employed and employees hired under the provisions of Paragraph 1 is calculated based on the average number of employees enrolled on labor insurance over the three months preceding the base month, which is defined as the two months prior to the month in which the Central Competent Authority conducts its inspection.
+
+\4. If the foreign workers hired exceeds the ratio or number detailed in Paragraph 1, and the employer fails to rectify the situation within a fixed period specified in the notification from the Central Competent Authority, the recruitment and employment permits for foreign workers exceeding the prescribed number will be revoked in accordance with Article 72 of the Act. In addition, the excess number will also be included in the total number of foreign workers employed, as stipulated in Article 15 and Article 56-6 of the Review Standards.
+
+## Article 34
+
+Employers and foreigners who fail to issue notifications or applications on time as stipulated shall re-issue notifications or applications within 15 days of expiration after obtaining approval from central competent authorities.
+
+Only one reissuance of the same notice and application is permitted for employers referred to in the previous paragraph.
+
+## Article 35
+
+Related forms stipulated in the Guideline shall be proclaimed by the Central Competent Authority.
+
+## Article 36
+
+These regulations were implemented on the date of promulgation.
+
+The articles in the regulations amended on July 6, 2017, were implemented on January 1, 2018; Articles amended on April 29, 2022, were implemented on April 30, 2022; Article13 Addendum Table 1, Article 29, Addendum Table 3 implemented on August 17, 2022, were amended on October 12, 2022; Articles amended on January 3, 2024 were implemented on January 4, 2024; The provisions amended and promulgated on December 31, 2025, take effect on January 1, 2026.
+
+## Attachments
+
+- [Addendum 1：Other documents stipulated by the Central Competent Authority in Subparagraph 4,Paragraph 1, Article 13.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009803)
+- [Addendum 2：Other documents stipulated by the Central Competent Authority in Subparagraph 4, Paragraph 1, Article 22.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009756)
+- [Addendum 3：Other documents to be submitted pursuant to Subparagraph 5, Paragraph 3, Article 29.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009757)
+- [Addendum 4：Regulations Governing Regular Inspections of Foreign Workers Engaged in Continued Employment in the Manufacturing Industry in Paragraph 1, Article 32.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009758)
+- [Addendum 5： Regulations Governing Regular Inspections of Foreign Workers Engaged in Continued Employment in the Slaughterhouse Industry in Paragraph 1, Article 33.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009339)
+- [Addendum 6 ：Regular inspection regulations for employers continuing the employment of foreign workers involved in waste and resource recycling and treatment work under Paragraph 1 Article 33-1.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009340)
+
+## History
+
+1.Promulgated by the Bureau of Employment and Vocational Training of the Council of Labor Affairs, the Executive Yuan, on September 25, 2003, by the Order of Lau Chih Wai Tze No.0920207723.
+
+2.Amended on December 30, 2005, by the Order of Lau Chih Wai Tze No.0940506677.
+
+3.Amended on February 27, 2008, by the Order of Lau Chih Shan Tze No. 0970503164.
+
+4.Amended on Sepember 1, 2009, by the Order of Lau Chih Shan Tze No. 0980503224.
+
+5.Amended on June 29, 2011
+
+6.Amended on October 17, 2014
+
+7.Amended on June 29, 2016
+
+8.Amended on November 15, 2016
+
+9.Amended on july 6, 2017
+
+10.Amended on January 30, 2019
+
+11.Amended on July 7, 2020
+
+12.Amended on August 27, 2021
+
+13.Amended on April 29, 2022
+
+14.Amended on October 12, 2022
+
+15.Amended on November 25, 2022
+
+16.Amended on June 15, 2023
+
+17.Amended on October 13, 2023
+
+18.Amended on January 3, 2024
+
+19.Amended on August 26, 2024
+
+20.Amended on November 18, 2024
+
+21.Amended on May 7, 2025
+
+22.Amended on July 30, 2025
+
+23.Amended on November 3, 2025
+
+24.Amended on December 31, 2025
+
+25.Amended on April 11, 2026

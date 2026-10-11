@@ -1,0 +1,463 @@
+---
+title: "Regulations on the Installation of Public Art"
+title_zh: "公共藝術設置辦法"
+identifier: "H0170012"
+type: regulation
+law_level: "命令"
+category: "行政＞文化部＞文化藝術目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-01-26
+last_amended: 2024-08-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0170012"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Installation of Public Art
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-culture/H0170012-regulations-on-the-installation-of-public-art.md](../../../zh/regulations/ministry-of-culture/H0170012-regulations-on-the-installation-of-public-art.md)) is authoritative.
+
+## Chapter I General provisions
+
+### Article 1
+
+These Regulations are drafted in accordance with Paragraph 5 of Article 15 of the Culture and the Arts Reward and Promotion Act (henceforth, “the Act”).
+
+### Article 2
+
+Definitions:
+
+\1. public art installation plans: indicates projects addressing artistic creation, aesthetics cultivation, artistic experiences, art projects, environmental aesthetics, curation, public participation, education/promotion, management and maintenance, and associated matters.
+
+\2. reviewing agency: the public art review committee of a central government agency or of a special municipality, county, or city government.
+
+\3. review committee: the organization established by the reviewing agency to review public art installation plans (obviating the need for applications to install public art) and engage in other affairs.
+
+\4. valuation committee: the committee composed of professionals who render judgments and, with their familiarity with public art, help the implementing agency (organization) establish appropriate valuations of public art pieces;
+
+\5. permanent public art installations: art installations that are not temporary in nature.
+
+### Article 3
+
+The review, implementation, granting of awards, and other matters concerning public art installation plans shall be implemented in accordance with these Regulations.
+
+### Article 4
+
+The implementing agency (organization) shall, when implementing public art installation plans, submit said plans to the following:
+
+\1. special municipality, county, and city governments (for public art installation plans for major construction projects and public buildings within their jurisdiction); or
+
+\2. central government agencies (for public art installation plans at public buildings and major construction projects that straddle the jurisdictions of two or more special municipalities, counties, or cities). These shall invite local governments concerned to send representatives. Where a local government has not established a public art review committee, the Ministry of Culture’s review committee shall perform the review.
+
+The installation of public art shall be conducted in line with these Regulations, with the assent of the review committee and the approval of the reviewing agency.
+
+### Article 5
+
+Where any of the following applies, the implementing agency (organization) shall draft an application form and, with the assent of the reviewing agency and the review committee, transfer all or a portion of budgeted monies to the fund or dedicated account set up by the relevant supervisory agency for use in supporting overall plans for public art installations or for related cultural and arts matters:
+
+\1. where there is a special purpose for a public building or major construction project; or
+
+\2. where the funds allocated for public art have not reached one percent of the budget for the building or public construction.
+
+“Special purpose” as above indicates:
+
+a. construction related to cultural heritage;
+
+b. the nature of the construction makes installing public art unsuitable, such as where the site is not open to the public or where there are security considerations;
+
+c. the construction is of a sensitive nature being related to national defense; or
+
+d. other situations approved of by the review committee.
+
+### Article 6
+
+Where the design of the main structure of a public building or major construction project is in keeping with the spirit of public art, the implementing agency (organization) may submit related engineering drawings, explanatory papers, models, or computer design files used to obtain the review certificate, as well as an explanation of how the public art budget will be used, to the Ministry of Culture’s review committee and request that the special municipality, county, or city where the building/construction project is situated to send a representative the review committee meeting to offer opinions. With the review committee’s approval, the main structure may be deemed to qualify as public art.
+
+Where such approval is granted, the implementing agency (organization) shall be exempted from installing public art. In such cases, the budget for public art prepared in conjunction with the project may be instead used for public participation, extension education, promotional work, environmental beautification, or continuing management and maintenance. Application may also be made to have the budgeted funds remitted to the fund or dedicated account belonging to a supervisory organization at any level. One-fifth of the aforementioned public art funds, to a maximum of NT$5 million, may be used as prize money for engineering technical services.
+
+After a project has been completed, the implementing agency (organization) shall present a final report to the Ministry of Culture and the relevant special municipality, county, or city with jurisdiction over the site.
+
+### Article 7
+
+Where a local supervisory agency has not established a fund or dedicated account for culture and the arts, the implementing agency (organization) shall remit public art funds to the fund or dedicated account established by the central supervisory authority.
+
+### Article 8
+
+Supervisory agencies shall invite public art professionals or others with relevant experience to convene a public art advisory group to assist implementing agencies (organizations) with the installation of public art, extension education, public participation, management and maintenance, and related efforts or to demonstrate how to implement public art installation plans.
+
+## Chapter II Classification of installations by budget, and reports
+
+### Article 9
+
+Except where the review committee has approved of a remittance to a fund or dedicated account, the implementing agency (organization) may directly implement plans with a public art budget of less than NT$500,000. Plans ought mainly to be directed at public art promotion, public participation, cultivation of aesthetics, art/culture experiences, art projects, environmental aesthetics, curation, and related efforts.
+
+The implementing agency (organization) shall prepare and submit a final report to the reviewing agency for its reference.
+
+### Article 10
+
+Where the total public art budget is between NT$500,000 and NT$2 million, the implementing agency (organization) should engage in one of the following:
+
+a. public art promotion, public participation, cultivation of aesthetics, art/culture experiences, art projects, environmental aesthetics, curation, and related efforts, which the implementing agency (organization) may implement itself after submitting a table detailing basic related information to the review committee for approval. The implementing agency (organization) shall also prepare and submit a final report to the reviewing agency for its reference.
+
+b. where the public art is permanent in nature, the stipulations of Article 11, Article 12, and Article 17 as well as related regulations shall apply.
+
+Where the review committee denies approval for the above, the public art budget shall be remitted to the fund or dedicated account established by the relevant supervisory agency.
+
+### Article 11
+
+Where the total public art budget exceeds NT$2 million, the implementing agency (organization) shall submit an installation plan to the review committee. The content of the plan shall include:
+
+a. history and scope;
+
+b. explanation of the natural and human environment of the site;
+
+c. other analysis and textual/pictorial description of the site;
+
+d. the concept behind the public artwork;
+
+e. form of and standards for the competition;
+
+f. plan for public participation;
+
+g. list of names and brief biographies of the executive task force;
+
+h. budget;
+
+i. estimated timetable;
+
+j. executive task force past meeting minutes;
+
+k. draft brochure detailing the public competition or invitational and related information;
+
+l. draft contract for the public art installation plan;
+
+m. where the stipulations of Paragraph 1 of Article 30 concerning the management of commissioned projects apply, vendor’s curriculum vitae/corporate experience and information attesting to the vendor’s management of ongoing projects; and
+
+n. other documents and information pertaining to the installation of public art.
+
+When the aforementioned public art installation plan is approved, changes affecting Subparagraphs 5, 7, or 8 are to be submitted for approval to the review committee. However, where changes affecting Subparagraph 7 involve an agency’s representative, and where changes to Subparagraph 8 involve funds of less than NT$500,000, said changes shall be submitted to the reviewing agency for approval.
+
+### Article 12
+
+For public art plans exceeding NT$2 million in value, the implementing agency (organization) shall draft a final report for the reference of the reviewing agency. The report shall contain the following information:
+
+a. a table detailing the basic information of the public art installation, including textual and pictorial depictions of each element and its related budget;
+
+b. the selection and installation process, addressing the selection, valuation meeting minutes, and review and acceptance record;
+
+c. public participation and extension education record;
+
+d. a plan for management and maintenance covering a minimum of 10 years and the related budget; where the installation plan already includes the post-construction management and maintenance budget, related fees shall be listed in succeeding years’ budgets; and
+
+e. a review and suggestions for improvement.
+
+The implementing agency (organization) shall submit a final report and where the reviewing agency believes there are points of contention or serious defects in the report, it shall submit it to the review committee.
+
+## Chapter III Organization and responsibilities of the review committee
+
+### Article 13
+
+The review committee shall consist of between nine and 15 members. Of these, one member who is concurrently the head, deputy head, or chief of staff at the reviewing agency shall serve as the convener. One member who is concurrently the head of the business unit at the reviewing agency shall serve as the deputy convener. The other members shall be hired (or seconded) from among the following categories, with each category represented by at least one member; individuals from the first and second categories are to have had previous experience with public art:
+
+\1. visual arts: artistic creation, art criticism, applied arts, arts education, or arts administration;
+
+\2. environmental space: urban planning, architectural design, landscape gardening, and ecological environmental planning;
+
+\3. other professions: local culture and history, community building, law, and other professions; and
+
+\4. representatives of relevant organizations.
+
+Members selected in association with the fourth Subparagraph of the preceding Paragraph shall not constitute more than one-fourth the total number of committee members, and shall be drawn from outside the business unit of the reviewing agency.
+
+In forming the review committee, representatives of each sex shall account for at least one-third of seats.
+
+### Article 14
+
+The review committee shall have the following duties:
+
+\1. provide consultations/opinions on the overall public art planning, installation, extension education, and management and maintenance policies;
+
+\2. review tables of basic information on public art installation plans;
+
+\3. review public art installation plans;
+
+\4. review donations of public art;
+
+\5. review the remittance of public art monies to funds or dedicated accounts;
+
+\6. review public art relocation and removal plans; and
+
+\7. handle other matters concerning funding, guidance, awards, and administration.
+
+In addition to the above, the Ministry of Culture’s review committee shall be responsible for reviewing the database of visual arts experts and scholars connected with public art and handling cases covered under Subparagraph 2 of Paragraph 1 of Article 4 and Article 6.
+
+### Article 15
+
+A quorum of one-half of review committee members shall be required to convene a meeting and to pass resolutions, and decisions shall be approved with the vote of more than one-half of members present.
+
+### Article 16
+
+The review committee shall convene at least once per year and may conduct ad-hoc meetings as needed. Committee members shall serve a term of two years and may be rehired.
+
+Where a committee member resigns or dies, or where the duties of a committee member representing an organization change, or where a committee member is unable to perform the duties of office, said committee member may be dismissed from office. The reviewing agency shall then hire a replacement whose term of office shall be the same as that of the original member.
+
+## Chapter IV Organization and duties of the executive task force
+
+### Article 17
+
+When implementing public art projects valued at more than NT$2 million, the implementing agency (organization) shall establish an executive task force before plans for the building or main structure are approved. Where special circumstances apply and after the implementing agency (organization) has received approval from the reviewing agency, it may defer such the task force’s establishment.
+
+The executive task force shall consist of between five and nine members and shall include individuals from the fields of:
+
+\1. visual arts: artistic creation, art criticism, applied arts, arts education, or arts administration;
+
+\2. environmental space: urban planning, architectural design, landscape gardening, and ecological environmental planning;
+
+\3. other professions: local culture and history, community building, and other professions;
+
+\4. the architect or engineer working on the building/construction project; and
+
+\5. a representative of the implementing agency (organization) or managing agency (organization).
+
+Members hired in relation to the first Subparagraph shall be drawn from the database of visual arts scholars and experts of public art created by the Ministry of Culture, and shall account for no less than one-half of all executive task force members. Members hired in relation to the fifth Subparagraph shall account for no more than one-third of all executive task force members.
+
+### Article 18
+
+A quorum of one-half of executive task force members shall be required to convene a meeting and to pass resolutions; decisions shall be approved with the vote of more than one-half of members present. Externally hired experts and scholars shall account for no less than one-half of attending members.
+
+### Article 19
+
+The executive task force shall handle the following:
+
+a. assisting with the management of commissioned projects under Article 30;
+
+b. assisting with drafting public art installation plans;
+
+c. assisting with matters addressed in Article 20 through Article 25;
+
+d. assisting with the drafting of the public art final report; and
+
+e. other related matters.
+
+## Chapter V Forms of competition and the selection meeting
+
+### Article 20
+
+The executive task force shall, depending on such things as the nature of the building/construction project or site and the budget, utilize one or more of the following selection methods and hold the competition after approval by the review committee:
+
+a. public competition: make public solicitations for public art installation plans, hold a selection meeting(s), and choose the most suitable plan;
+
+b. invitational: after an assessment and listing of reasons, invite three or more artistic creators or groups to submit plan proposals. At a selection meeting, choose the most suitable plan;
+
+c. commissioned work: after an assessment and listing of reasons, select an appropriate artistic creator or group to submit two or more plan proposals. At a selection meeting, choose the most suitable plan;
+
+d. targeted purchase or lease: after an assessment and listing of reasons, purchase or lease paintings, handicrafts, sculptures, and other suitable public art.
+
+### Article 21
+
+For public competitions under Subparagraph 1 of the preceding Article, competition documents shall be published on the Ministry of Culture’s Public Art website and an informational meeting shall be held. Except where the review committee otherwise agrees, the following lower limits shall apply to the announcement period:
+
+a. plans with a budget of over NT$10 million: 60 days;
+
+b. plans with a budget of between NT$2 million and NT$10 million: 45 days;
+
+c. plans with a budget of between NT$500,000 and NT$2 million: 30 days.
+
+For invitationals (Subparagraph 2) and commissioned works (Subparagraph 3), the names of the selected artistic creator/group as well as of alternates are to be listed in the plan.
+
+For targeted purchases (Subparagraph 4), valuation meeting minutes shall be included in the plan.
+
+For public competitions, invitationals, and commissioned works, the fixed fee is to be included in the selection documents or the submitted plan.
+
+### Article 22
+
+A quorum of at least one-half the members of the executive task force shall be required to convene a meeting and to pass resolutions, and decisions shall be approved with the vote of more than one-half of members present. Externally hired experts and scholars shall account for no less than one-third of attending members.
+
+The names of executive committee members and vendors for management of commissioned projects shall appear in the overview of the selection process.
+
+## Chapter VI Valuation, negotiation, inspection, and expenditure
+
+### Article 23
+
+After the selection process has been completed, the implementing agency (organization) shall have at least three expert members of the executive task force, of whom at least one is an expert in the visual arts, convene a valuation meeting and invite the winning artistic creator or group to attend.
+
+### Article 24
+
+At the valuation meeting the following will be reviewed: budget, materials, number, size, installation, management and maintenance methodologies, and other related matters. The resolution adopted at this meeting shall serve as reference for negotiating a price floor.
+
+After the resolution has been adopted at the valuation meeting, the implementing agency (organization) shall, in accordance with the provisions governing limited tendering in Subparagraph 2 of Paragraph 1 of Article 22 of the Government Procurement Act, conduct price negotiations and, having reflected the content of the valuation meeting resolution in its draft contract, sign a contract. However, where the provisions of Paragraph 4 of Article 22 concerning a fixed fee are applied, a price floor need not be set; a lower price may be negotiated and, other items may be decided upon via resolution by the valuation meeting.
+
+The aforementioned results of the contract awarding and the list of executive task force members shall be published on the Ministry of Culture’s Public Art website as well as the Government e-Procurement System website.
+
+### Article 25
+
+Before the public art final report is submitted, the implementing agency (organization) shall conduct an examination and inspection assisted by at least one-half of the experts on the executive task force.
+
+### Article 26
+
+Expenditures on public art installation plans shall be in line with actual needs, shall include the following, and shall be executed in stages in accordance with the architectural or engineering schedule:
+
+\1. public art creation fees: including documents and illustrations, models, materials, installation, transportation, contract technicians, on-site construction, purchases, rentals, taxes, insurance, and relevant fees;
+
+\2. artistic creator’s fee: a minimum 15 percent of the expenditures as described in the preceding Subparagraph;
+
+\3. materials subsidy: provided to finalists in the public competition, participants in the invitational, and creators of commissioned works that are not selected;
+
+\4. administrative fees, including:
+
+1). attendance, review, and associated fees for the externally retained members of the executive task force;
+
+2). information collection fees;
+
+3). printing and associated fees;
+
+4). fees for hosting the public competition; and
+
+5). fees for consultants, executive secretaries, and agents;
+
+\5. activity fees for public participation, public art education and promotion, etc.; and
+
+\6. management and maintenance fees: to a maximum of 10 percent of the expenditures as described in Subparagraph 1.
+
+### Article 27
+
+The implementing agency (organization) shall not, in implementing public art installation plans in accordance with these Regulations, include said plans as the items or expenditures in the engineering contracts for public buildings or major construction projects.
+
+## Chapter VII Management and maintenance plans
+
+### Article 28
+
+The implementing agency (organization) shall draft a management and maintenance plan and determine a source of funds for associated expenditures. It shall budget funds to this end every year. In the case of events outside human control or natural disasters, management and maintenance fees shall be drawn from the fund or dedicated account described in Paragraph 1 of Article 5.
+
+The supervisory authority may require that the implementing agency (organization) report regularly or occasionally concerning management and maintenance.
+
+### Article 29
+
+The implementing agency (organization) shall, after the inspection of the permanent public art installation has been completed, list the public art as being among its property to be managed, and may not move or remove it. This limitation shall not apply where repairs for the public art amount to more than one-third of installation costs or where safety concerns or other special circumstances apply.
+
+In the event of the need to move or remove a piece of public art, the implementing agency (organization) shall draft a plan that includes the following:
+
+\1. background and reasons for moving or removal;
+
+\2. basic information about the public art installation;
+
+\3. photographs (videos) detailing the present condition of the piece of public art and the record of its maintenance and management;
+
+\4. an agreement signed by the original creator or the written professional opinions of executive task force members;
+
+\5. a plan detailing the move or removal as well as follow-up measures; and
+
+\6. other relevant information.
+
+## Chapter VIII Project management, and recusal based on conflict of interests
+
+### Article 30
+
+When the implementing agency (organization) is implementing a public art installation plan valued in excess of NT$2 million and where the executive task force has passed a resolution, following a discussion, to engage in commissioned management, the vendor selected for said management shall abide by the following:
+
+a. provide the implementing agency (organization) with advice on laws and regulations concerning public art and implementation procedures;
+
+b. assist the implementing agency (organization) with drafting the installation plan and the final report;
+
+c. provide administrative support to include convening meetings, drafting meeting minutes, drawing up reports, and related matters; and
+
+d. tracking and maintaining oversight of progress.
+
+When tendering, vendors shall present basic information on management cases they are presently involved with.
+
+### Article 31
+
+While in office, review committee members may not participate in public art installation plans being reviewed.
+
+Review committee and executive task force members shall abide by the principle of recusal and act in accordance with Article 32 and Article 33 of the Administrative Procedure Act.
+
+Where the reviewing agency or implementing agency (organization) finds that a member of the review committee or executive task force is in contravention of the provisions of the preceding two Subparagraphs or of Paragraph 1 of Article 32, he/she shall be dismissed from his/her position and removed from the Ministry of Culture database of visual arts experts and scholars connected with public art and a related announcement shall be made on the Ministry of Culture’s Public Art website.
+
+### Article 32
+
+Members of the review committee and the executive task force and employees of commissioned vendors shall not abuse the powers, opportunities, or methods associated with their position to seek their own personal gain or that of related persons. Such persons may also may not make selections from amongst themselves or engage in quid pro quo behavior.
+
+Vendors may not direct the content of public art installation plans, recommend artistic creators, or represent the implementing agency (organization) on the review committee.
+
+Where the implementing agency (organization) obtains proof that a vendor is in contravention of the terms detailed in the previous two Subparagraphs, it shall revoke its decision, cancel or annul any contract, and make a related announcement on the Ministry of Culture’s Public Art website. The vendor shall be responsible for compensation in cases where damage has been incurred. Such steps need not be taken where revoking a decision or cancelling or annulling a contract are not in the public interest.
+
+## Chapter IX Supplementary provisions
+
+### Article 33
+
+Where two or more public buildings or major construction projects are involved, the implementing agency (organization) may implement a joint public art installation plan.
+
+Where the location of a public building or major construction project makes it difficult to implement a public art installation plan, the implementing agency (organization) may seek another, more suitable location after ensuring there are no issues with management, maintenance, or property rights.
+
+### Article 34
+
+Public art installation plans are in principle to be categorized as services procurement.
+
+Permanent public art installations are to be guaranteed for a period of one year. Where necessary, the executive task force may extend this period and, in submitting this to the reviewing agency for its approval and reference, shall list the reasons for so doing.
+
+### Article 35
+
+To spur the creation of better-quality public art installations and to reward those implementing public art in accordance with Article 15 of these regulations, the Ministry of Culture may, in carrying out its selection, present award certificates, awards, or other appropriate recognition of outstanding work.
+
+The implementing agency (organization) receiving such recognition ought to then provide suitable awards to related personnel.
+
+### Article 36
+
+A government agency (organization) receiving a donation of public art shall draw up installation plans and implement them after approval by the review committee.
+
+Such plans shall include the following:
+
+\1. reason for donation;
+
+\2. curriculum vitae of the donor and the creator;
+
+\3. information on the donated work of public art;
+
+\4. analysis and textual and pictorial description of the installation site;
+
+\5. draft of the proposed contract between the government agency (organization) and the donor;
+
+\6. plan for follow-up management and maintenance; and
+
+\7. other relevant information.
+
+### Article 37
+
+The implementing agency (organization) shall inform the Ministry of Culture when it submits to the Executive Yuan for review its plan concerning a large-scale government construction project.
+
+When reviewing the application for a building permit for a public building, special municipalities, counties, and cities and specially established organizations with oversight over construction shall inform the local supervisory authority for cultural affairs with jurisdiction over the public building site to implement public art projects in accordance with Article 15 of the Act and with these Regulations.
+
+### Article 38
+
+For public art installation plans that were approved of by the reviewing agency prior to the revision of these regulations that came into effect on August 1, 2024, the terms of the original regulations shall apply.
+
+Review committee members hired (seconded) prior to the revision of these regulations that came into effect on August 1, 2024, may complete their original terms of office; executive committee members may continue to serve until the plans they are overseeing are completed.
+
+Where an implementing agency (organization) has already prepaid funds to cover public art installation expenditures to the fund or dedicated account established by the central supervisory agency, it must finish withdrawing such funds by no later than December 31, 2026.
+
+### Article 39
+
+These regulations shall take effect from the date of promulgation.
+
+## History
+
+\1. On January 26, 1998, the Council for Cultural Affairs passed and promulgated Directive Wencanzidi No. 00510, consisting of 11 articles.
+
+\2. On December 20, 2002, the Council for Cultural Affairs issued Directive Wencan Zidi No. 0912120618/Ministry of the Interior Tainei Yingzidi No. 0910087423, consisting of 21 amended articles, which took effect on the date of promulgation.
+
+\3. On December 20, 2003, the Council for Cultural Affairs issued Directive Wencan Zidi No. 0922123719/Ministry of the Interior Tainei Yingzidi No. 09200091567, consisting of 12 amended articles.
+
+\4. On May 19, 2008, the Council for Cultural Affairs issued Directive Wencan Zidi No. 0973113763, consisting of 35 amended articles, which took effect on the date of promulgation.
+
+\5. On April 28, 2010, the Council for Cultural Affairs issued Directive Wencan Zidi 09920084991, consisting of 27 amended articles.
+
+On May 15, 2016, the Executive Yuan issued Announcement Taigui Zidi No. 1010131134, which transferred the rights and responsibilities set out in Paragraph 2 of Article 4, Article 6, Paragraph 2 of Article 9, Paragraph 2 of Article 11, Paragraph 1 of Article 18, Paragraph 2 of Article 19, Paragraph 2 of Article 22, Article 31, and Paragraph 1 of Article 33, from the Council for Cultural Affairs to the Ministry of Culture, effective May 20, 2016.
+
+\6. On September 29, 2015, the Ministry of Culture issued Directive Wenyi Zidi No. 10430249462, consisting of amendments to Articles 4, 6, 9, 11, 18, 19, 22, 31, and 33.
+
+\7. On February 8, 2022, the Ministry of Culture issued Directive Wenyi Zidi No. 11130028131, consisting of 39 amended articles, which took effect on the date of promulgation.
+
+8.On August 1, 2024, the Ministry of Culture issued Directive Wenyi Zidi No. 11330209841, consisting of 39 amended articles, which took effect on the date of promulgation.

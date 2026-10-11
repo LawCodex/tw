@@ -1,0 +1,203 @@
+---
+title: "Regulations Governing Mediation of Contract Performance Disputes for Cases Concerning Promotion of Private Participation in Infrastructure Projects"
+title_zh: "促進民間參與公共建設案件履約爭議調解規則"
+identifier: "A0030345"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞推動促參目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2023-05-11
+last_amended: 2025-04-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030345"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Mediation of Contract Performance Disputes for Cases Concerning Promotion of Private Participation in Infrastructure Projects
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/A0030345-regulations-governing-mediation-of-contract-performance-disputes-for-cases.md](../../../zh/regulations/ministry-of-finance/A0030345-regulations-governing-mediation-of-contract-performance-disputes-for-cases.md)) is authoritative.
+
+## Article 1
+
+These Regulations are prescribed pursuant to Paragraph 4 of Article 48-2 of the Act for Promotion of Private Participation in Infrastructure Projects (the “Act”).
+
+## Article 2
+
+In the event of a dispute relating to the performance of a concession agreement for a case concerning promotion of private participation in an infrastructure project, an application may be filed to request mediation of the dispute by a contract performance dispute mediation committee (hereinafter referred to as the “Mediation Committee”) established by the competent authority.
+
+## Article 3
+
+To apply for mediation of a dispute, an application containing the following particulars and bearing the signatures or seals of the applying institution (entity) and its responsible person (or representative) or its agent shall be submitted, and a copy of the application shall be served on the opposing party:
+
+\1. The name of the applying institution (entity), and the names, telephone numbers, and domicile or residence of the office or business office, and the responsible person (or representative).
+
+\2. Where an agent is appointed, the agent’s name, telephone number, and domicile or residence.
+
+\3. The opposing party’s name, office or business office, and the name of its responsible person (or representative).
+
+\4. The subject matters for which mediation is requested, the legal relations concerning the subject of the mediation, and the situation and evidence of the dispute.
+
+\5. Annexed documents and the number of copies of those documents.
+
+\6. The date of application.
+
+A mediation application shall be prepared in Chinese. Where any annexed material is submitted in a foreign language, a Chinese translation of the parts of the material relevant to the mediation shall be provided. If necessary, the Mediation Committee may notify the applicant to submit the Chinese translation of other parts of the annexed material.
+
+## Article 4
+
+An agent may be appointed to apply for mediation. The appointed agent shall submit a power of attorney indicating the agent’s name, telephone number, domicile and residence.
+
+## Article 5
+
+A mediation agent is authorized to conduct all acts with regard to the action for which he/she is retained, except that he/she may not, without special authorization for him/her to do so: (i) abandon the claim; (ii) admit the claim; (iii) voluntarily dismiss the action; (iv) settle the case; or (v) appoint a subagent.
+
+Any restriction of the authorization provided in the preceding paragraph shall be specified in the power of attorney.
+
+## Article 6
+
+For the mediation, the procedural examination shall be conducted first. If no procedural illegitimacy is found, the substantive examination shall be conducted.
+
+If any illegitimacy found during the procedural examination under the preceding paragraph can be corrected, the applying institution (entity) shall be given a reasonable time limit for  correction.
+
+## Article 7
+
+Where an event for which a mediation application is filed is in any of the following circumstances, the Mediation Committee shall resolve against processing the application. However, if the circumstances can be rectified, a reasonable time limit shall be given for rectification:
+
+\1. The applicant lacks standing to apply for mediation.
+
+\2. The case has been submitted to the coordination committee for coordination, and the coordination procedure has not yet been concluded.
+
+\3. The case has been submitted to arbitration, mediation, or a civil lawsuit has been initiated.
+
+\4. The case has been mediated by a lawful agency (institution) with a mediation result..
+
+\5. The case has been submitted for coordination and the coordination has been successful, or a final court judgment or arbitration award has been rendered for the case.
+
+\6. The application for mediation is filed by the agent, but the agent lacks full authority.
+
+\7. The application for mediation is not filed in accordance with the prescribed formality.
+
+\8. The private institution fails to pay the mediation fee in full and fails to make the required supplementary payment within the given time limit.
+
+\9. Service of written notices on the other parties should have been effectuated by constructive notice.
+
+10.Where the concession agreement has been cancelled, terminated, or the term of the concession agreement has expired, and mediation is no longer meaningful, clearly unnecessary, or has no prospect of success.
+
+11.The contract performance dispute arises in connection with a case that is not proceeded under the Act.
+
+12.Other circumstances that make the application unacceptable.
+
+Where, after substantive review, a mediation case is found to fall under any of the grounds for inadmissibility as set forth in the preceding paragraph, it shall still be handled in accordance with the provisions of the preceding paragraph.
+
+## Article 8
+
+The opposing party shall state its response to the mediation application in writing to the Mediation Committee within 20 days of the day after receipt of the duplicate copy of the mediation application; at the same time, a duplicate copy of the written response hall be served on the applying institution (entity).
+
+During the mediation, duplicate copies of all documents submitted by either party to the Mediation Committee shall be served on the opposing party.
+
+## Article 9
+
+Where a mediation application is not rejected, the convener of the Mediation Committee, or a member designated by the convener shall, on the basis of the characteristics of the case to be mediated and the professions involved, organize a panel by selecting one to three committee members from each of the engineering, finance and/or legal professions to conduct the mediation procedure, and shall promptly set the date(s) of the mediation session, notify the parties of the date(s), and inform the parties or their agents to attend the mediation session.
+
+## Article 10
+
+Mediation shall be conducted at a place designated by the competent authority and shall be held in private.
+
+## Article 11
+
+During the mediation, the mediation panel may request any authority, school, or group having the relevant expertise and experience to conduct appraisal, and may also invite experts or scholars to provide consultation, or request the persons concerned to provide explanation, or require the parties to submit relevant documents or data.
+
+The provisions for recusal of mediation committee members from mediation cases under Article 12 of the Regulations Governing the Organization of the Contract Performance Dispute Mediation Committee for Cases Concerning Promotion of Private Participation in Infrastructure Projects shall apply to the recusal of the appraisers, or experts or scholars providing consultation for mediation cases.
+
+## Article 12
+
+The mediation panel may consider informing any third parties who have a legal interest in the case to be mediated to attend the mediation procedure.
+
+## Article 13
+
+During the mediation procedure, for the purpose of clarifying the legal relationship and the issues in dispute, the mediation panel may hear from the parties or from the persons who have the relevant expertise/experience or knowledge of the full history of the subject matter, or from other interested persons. An on-site visit or inspection of the subject of the mediation may be conducted; if necessary, an investigation for the taking of evidence may be conducted.
+
+If a party refuses to make statements or provide materials without a justifiable reason, the mediation panel may accordingly proceed to issue the mediation proposal based on the existing materials.
+
+## Article 14
+
+A mediation procedure shall be conducted peacefully and sincerely. Appropriate mediation/guidance shall be provided to the parties. An appropriate proposal shall be recommended with a view to a fair and amicable resolution and achieving harmony between the parties.
+
+During the mediation, the mediation panel shall review all the materials submitted by the parties before proposing a fair and amicable resolution in accordance with the preceding paragraph.
+
+## Article 15
+
+If both parties or one of the parties fail to attend the mediation session, the mediation panel may, after considering the circumstances, deem the mediation unsuccessful or schedule another mediation session.
+
+Unless the mediation panel considers it necessary, the scheduling of another mediation session in accordance with the preceding paragraph may only be one time.
+
+## Article 16
+
+Minutes shall be taken of the mediation sessions to record the proceedings, outcomes, extension or postponement of the sessions, and side notes.
+
+Where the mediation panel considers the mediation of the dispute impossible, the panel shall issue a certificate of unsuccessful mediation of the dispute.
+
+If the mediation panel considers that mediation of the dispute is possible, it shall issue a mediation proposal for the case, indicating the mediation procedure, and submit the proposal together with the case file and evidence to the Mediation Committee for review.
+
+If a mediation proposal under the preceding paragraph fails to be adopted by a majority vote of the members of the Mediation Committee present at the committee meeting, the mediation proposal shall be returned to the panel for amendment. Where an amended proposal is submitted to the Mediation Committee for further consideration, the Mediation Committee shall not again return the proposal unless the proposal violates any law or regulations.
+
+Any committee member who disagrees with the mediation result may have his/her written opinions attached to the minutes of the mediation session for a record.
+
+## Article 17
+
+The original copy of the mediation proposal provided under Paragraph 3 of the preceding Article shall be served on the parties and the related third parties participating in the mediation within 20 days from the day after the proposal has passed the review of the Mediation Committee.
+
+Either party that disagrees with the mediation proposal under the preceding paragraph shall, within 20 days from the day after its receipt of the proposal, express its disagreement with the proposal in writing to the Mediation Committee and the opposing party. Any party failing to express its disagreement in writing within the time limit shall be deemed to have agreed to the proposal.
+
+Where the subordinate agencies (institutions) authorized by the authority-in-charge pursuant to Paragraph 2, Article 5 of this Act disagrees with the mediation proposal referred to in Paragraph 1 of this Article, it shall first obtain the approval of the authority-in-charge, and shall express its opinion in writing to the Mediation Committee and the other party within the period specified in the preceding paragraph.
+
+The mediation panel shall issue a certificate of successful mediation or a certificate of unsuccessful mediation for the mediated case and file the same with the Mediation Committee for review.
+
+The original copy of the certificate of successful mediation or the certificate of unsuccessful mediation shall be served on the parties and the related third parties participating in the mediation within 20 days from the date on which the Mediation Committee approved the certificate.
+
+## Article 18
+
+The mediation procedure for a mediated case shall be concluded within four months from the day after receipt of the mediation application. However, with the consent of the parties, the time limit may be extended for additional two months, provided that the extension may be granted only once. The mediation panel may further extend the time limit for no more than three months, if the panel considers the extension is necessary for the case.
+
+Where the mediation application is not filed in accordance with the prescribed formality or the mediation fee has not yet been paid in full, the mediation period referred to in the preceding paragraph shall commence on the day after the receipt of the corrected documents or the supplementary payment of the required mediation fee.
+
+During the mediation, the applying institution (entity) may amend the subject matter of the mediation, but only once, unless the amendment is suggested by the mediation panel and is agreed by the parties. If additional payment of the mediation fee is required due to the amendment of the subject matter, such payment shall be made within one month after the amendment. The mediation period under Paragraph 1 of this Article shall commence on the day after the receipt of the last additional mediation fee.
+
+Where the applying institution (entity) files another mediation application with the Mediation Committee for a separate performance dispute under the same concession agreement during the mediation, the competent authority may consolidate the cases. The mediation period under Paragraph 1 of this Article shall commence from the day following the consolidation of the mediation proceedings.
+
+## Article 19
+
+A mediation procedure may be withdrawn by a written statement submitted by the applying institution (entity) to the Mediation Committee. If the applying institution (entity) orally withdraws the mediation procedure on the date of the mediation session, the oral withdrawal shall be recorded in the minutes of the mediation session.
+
+If a mediation application is withdrawn, the application shall be deemed never to have been submitted.
+
+Where a mediation application is withdrawn in accordance with the preceding paragraph, the Mediation Committee shall inform the opposing party thereof.
+
+## Article 20
+
+The members of the Mediation Committee, the executive secretary, staff members, relevant persons, experts or scholars  who are invited to attend a mediation session to give explanation or provide consultation, shall maintain the confidentiality of any occupational or trade secrets or other matters involving personal privacy of other persons which become known to them due to their handling or participation in the mediation case.
+
+## Article 21
+
+Where a certificate of successful mediation, a certificate of unsuccessful mediation, or a mediation proposal is served via post, a postal service certification on service of mediation documents shall be issued.
+
+Except for the circumstances under the preceding paragraph, the provisions for service of process  in the Code of Civil Procedure shall apply mutatis mutandis to service of certificates of successful mediation, certificates of unsuccessful mediation, or mediation suggestions.
+
+## Article 22
+
+The Mediation Committee shall prepare a file containing the documents for each mediation case.
+
+## Article 23
+
+These Regulations shall come into force from the date designated by the Ministry of Finance.
+
+The amended provisions of these Regulations shall enter into force as from the date of promulgation.
+
+## History
+
+1.Promulgated by Decree Tai-Tsai-Cu-Tzi No. 11225512570 issued by the Ministry of Finance on May 11, 2023.
+
+2.Articles 7, 8, 17, 18, and 23 were amended and promulgated by Decree Tai-Tsai-Cu-Tzi No. 11425507470 issued by the Ministry of Finance on April 15, 2025, and shall come into force as from the date of promulgation.

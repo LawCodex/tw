@@ -1,0 +1,79 @@
+---
+title: "Regulations on Medical Care for Veterans"
+title_zh: "國軍退除役官兵就醫辦法"
+identifier: "F0150014"
+type: regulation
+law_level: "命令"
+category: "行政＞國軍退除役官兵輔導委員會＞就醫目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1968-11-01
+last_amended: 2025-08-30
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0150014"
+retrieved: 2026-10-12
+---
+
+# Regulations on Medical Care for Veterans
+
+> Translation. The Chinese text ([zh/regulations/veterans-affairs-council/F0150014-regulations-on-medical-care-for-veterans.md](../../../zh/regulations/veterans-affairs-council/F0150014-regulations-on-medical-care-for-veterans.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Article 14, and Paragraph 2, Article 33 of The Veterans Assistance Act (hereinafter referred to as "the Act").
+
+## Article 2
+
+These regulations shall apply to a person who holds a ROC Veterans ID Card (hereinafter referred to as "Veteran ID"), a certificate of Anti-Communist Martyr or a Household Representative Card for Dependents of Deceased Veterans issued by the Veterans Affairs Council (hereinafter referred to as "VAC").
+
+## Article 3
+
+Where a person as referred to in the above article is an insurant under Item 1, Subparagraph 6, Paragraph 1, Article 10 of the National Health Insurance Act, the following provisions shall apply:
+
+\1. Where they seek medical treatment in a National Health Insurance Medical Care Institutions, which is not affiliated to VAC, VAC shall subsidize their self-bearing expenses  according to the National Health Insurance Act and its Enforcement Rules.  VAC will allocate the aforementioned expenses in advance once every half-year to the National Health Insurance Administration, Ministry of Health and Welfare, for transferring to the related medical institutions, and the medical institutions shall settle the accounts periodically at VAC.
+
+\2. Where they seek medical treatment in a VAC affiliated medical institution, VAC shall subsidize their self-bearing expenses and the expenses not covered in this Insurance, according to the National Health Insurance Act and its Enforcement Rules.
+
+## Article 4
+
+Where a person referred to in Article 2 who have become the beneficiaries of the National Health Insurance, and employed, therefore are not classified into Item 1, Subparagraph 6, Paragraph 1, Article 10 of the National Health Insurance Act, seeks medical treatment in a National Health Insurance Medical Care Institutions, which is not affiliated to VAC, the relevant provisions of the National Health Insurance Act shall apply. Holders of a Veteran ID or Anti-Communist Martyr, when seeking medical treatment at medical institutions affiliated to VAC, shall have the expenses they are required to bear under the National Health Insurance Act and its Enforcement Rules fully subsidized by VAC.
+
+## Article 5
+
+Where a person referred to in Article 2 who seeks medical treatment in a VAC affiliated medical institution, their registration fees shall be waived, except beneficiaries of National Health Insurance who are high users of medical services
+
+The preceding paragraph may apply mutatis mutandis to the second category of veterans who are unemployed within the assistance time period mentioned in Subparagraph 2, Article 2-1 of the Enforcement Rules of the Act.
+
+## Article 6
+
+Where a person referred to in Article 2 who holds a Veteran ID or a certificate of Anti-Communist Martyr, and does not meet the requirements to become the beneficiaries of National Health Insurance, seeks medical treatment in a VAC affiliated medical institution, VAC shall subsidize their expenses.
+
+## Article 7
+
+Where a person referred to in Article 2, their food expenses during hospitalization shall be burdened by themselves. However, the home-care veterans who are hospitalized in a VAC affiliated medical institution, VAC shall subsidize the difference of their food expenses and home-care allowances.
+
+## Article 8
+
+For those who hold a Veteran ID or a certificate of Anti-Communist Martyr, and meet the provisions of Articles 3 and 4, VAC shall prepare the official budget to pay their expenses for the treatment equipment neither required for positive therapy nor covered in the National Health Insurance, and the medical expenses for admission to Nursing Home or Half-Way House of veterans hospital or the Veterans Home.
+
+## Article 9
+
+The service offices and Veterans’ homes of VAC shall assist the person who is applicable to these Regulations to become the beneficiaries of the National Health Insurance, their medical care and other affairs.
+
+## Article 10
+
+These Regulations shall come into effect on the date of promulgation whereas the articles amended and announced on April 20, 2016 shall become effective on March 1, 2016.
+
+## History
+
+1.Promulgated on November 1, 1968
+
+2.Amended on January 29, 1996
+
+3.Amended on June 29, 2015
+
+4.Amended on April 20, 2016
+
+5.Amended on August 30, 2025

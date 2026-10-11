@@ -1,0 +1,293 @@
+---
+title: "The Regulations Governing Permission and Management of Guns, Ammunition, Knives and Weapons"
+title_zh: "槍砲彈藥刀械許可及管理辦法"
+identifier: "D0080056"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-10-02
+last_amended: 2025-03-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080056"
+retrieved: 2026-10-12
+---
+
+# The Regulations Governing Permission and Management of Guns, Ammunition, Knives and Weapons
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080056-the-regulations-governing-permission-and-management-of-guns-ammunition-knives.md](../../../zh/regulations/ministry-of-the-interior/D0080056-the-regulations-governing-permission-and-management-of-guns-ammunition-knives.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with paragraph 1 of Article 6-1 and paragraph 5 of Article 20-3 of the Firearms, Ammunition, and Knives Control Act (hereinafter referred to as the “Act”).
+
+## Article 2
+
+These Regulations do not apply to the hunting guns, their main components, ammunition, and spear guns made by indigenous people or fishermen.
+
+## Article 3
+
+Any agency (organization), school, group, person or business that pursuant to the Act purchases, uses, manufactures, sells, transports, transfers, rents, lends, possesses, stores or displays the firearms and ammunition as prescribed in subparagraphs 1 and 2 of paragraph 1, Article 4 of the Act, shall apply to the central competent authority for permission.
+
+The National Police Agency (hereinafter referred to as the “NPA”) of the Ministry of the Interior may, after being delegated, review applications for the permission as prescribed in the preceding paragraph.
+
+Any person, group, or business that manufactures, sells, transports, transfers, rents, lends, or possesses the knives as prescribed in  subparagraph 3, paragraph 1, Article 4 of the Act pursuant to these Regulations, shall apply to the municipal or county (city) competent authority for permission.
+
+The municipal or county (city) police departments may, after being delegated, review the applications for the permission as prescribed in the preceding paragraph.
+
+## Article 4
+
+Government agencies (organizations) equipped with firearms and ammunition in accordance with the law, may apply to purchase, use, transport, transfer, rent, lend, possess, store or display the firearms and ammunition.
+
+The agencies (organizations) as prescribed in the preceding paragraph, before purchasing, transporting, transferring, renting, lending, possessing, storing, or displaying the firearms and ammunition, shall submit information, such as the models, catalogues, quantities, and uses thereof, to the central competent authority to apply for permission; in case that there is an ownership change, the license shall be taken to the police department of the municipality, or county (city) where the license was originally issued to register the change within 7 days following the day when the change is permitted.
+
+## Article 5
+
+Academic research institutions (organizations), for the need of research and development, may apply to purchase, use, transport, transfer, rent, lend, possess, store or display firearms and ammunition.
+
+The institutions (organizations) as prescribed in the preceding paragraph, before purchasing, transporting, transferring, renting, lending, possessing, storing, or displaying firearms and ammunition, shall submit the approval document issued by the central competent authority in charge of the business, along with information, such as the models, catalogues, quantities and uses of the firearms and ammunition, to the central competent authority to apply for permission; in case that there is an ownership change, the license shall be taken to the police department  of the municipality, or county (city) where the license was originally issued to register the change within 7 days following the day when the change is permitted.
+
+## Article 6
+
+Schools of all levels, for the need of military training, may apply to purchase, use, transport, transfer, rent, lend, possess, store or display firearms and ammunition.
+
+The schools as prescribed in the preceding paragraph, before purchasing, transporting, transferring, renting, lending, possessing, storing or displaying the firearms and ammunition, shall submit the approval document issued by the central competent authority in charge of the business and information, such as  models, catalogues, quantities and uses of the firearms and ammunition to the central competent authority to apply for permission; in casethere is an ownership change, the license shall be taken to the police department of the municipality or county (city) where the license was originally issued to register the change within 7 days following the day when the change is permitted.
+
+## Article 7
+
+Animal conservation agencies (organizations) or groups, out of the need of animal conservation and safety, may apply to purchase, use, transport, transfer, rent, lend, possess, store or display tranquilizer guns.
+
+The agencies (organizations) or groups as prescribed in the preceding paragraph, before purchasing, transporting, transferring, renting, lending, possessing, storing or displaying the guns, shall submit the approval document issued by the central competent authority in charge of the business and information such as the models, catalogues, quantities and uses of the guns, to the central competent authority to apply for permission; in case thereis an ownership change, the license shall be taken to the police department of the municipality, or county (city) where the license was originally issued to register the change within 7 days following the day when the change is permitted.
+
+## Article 8
+
+People may purchase and use harpoon guns, but each person is limited to two only. However, their purchase and use shall be prohibited if any of the following circumstances is met:
+
+\1. Being a minor.
+
+\2. Having finally been sentenced to imprisonment or given a more severe punishment.
+
+\3. Having been declared to be under guardianship or assistance, and the declaration having not yet been revoked.
+
+Whenever going out with a licensed harpoon gun, the owner shall carry the license with him.
+
+When the registered household location is changed, the harpoon gun owner shall, within one month following the day when the change occurs, submit the license, declaration form for domicile change, to the former and current local police stations respectively which will then forward them to the municipal, county (city) police department to register the change.
+
+## Article 9
+
+In accordance with the proviso as prescribed in the second paragraph of Article 20-1 of the Act, the manufacturer, who has been approved to manufacture, sell, transport, transfer, rent, lend, possess, store, or display imitation guns for the exclusive purpose of export, research and development, may apply to purchase, use, transport, possess, or store standard center fire blank ammunition due to the need of imitation gun research and development.
+
+The manufacturer as prescribed in the preceding paragraph, before purchasing, using, transporting, possessing, or storing the standard center fire blank ammunition, shall submit information such as their models, catalogues, calibers, countries of origin, and quantities to the central competent authority to apply for permission.
+
+## Article 10
+
+The manufacturer as prescribed in the preceding paragraph, after firing the standard center fire blank ammunition imported in accordance with the preceding Article, shall check the cartridge cases, place them under collective storage, and report them to the local municipal, county (city) police department for inspection, after which they will be disposed of.
+
+## Article 11
+
+Those, who have been approved to import/ export firearms, ammunition, shall apply for approval documents from the central competent authority before carrying out such import/export. The document shall be taken to the customs offices of the Customs Administration of the Ministry of Finance to apply for inspection and customs clearance. In case that the document is lost or damaged, its replacement must be applied for.
+
+## Article 12
+
+Those, who have been approved to purchase firearms and ammunition, shall apply for inspection, the issuance of certificates, and being catalogued for future management, to the police department of the municipality, county (city), where the agency (organization), school, or principal business office is located or the household registration is done, through agency (organization) representatives, persons in charge or owners within 7 days following the day when such purchase is done.
+
+When the firearms and ammunition as prescribed in the preceding paragraph satisfy one of the circumstances set forth in the subparagraphs of paragraph 1 of Article 5-2 of the Act, the representatives, persons in charge, or owners of agencies (organizations), schools, groups shall submit their firearms and ammunition along with their licenses to the government of the municipality or county (city) where the agencies (organizations), schools or principal business offices are located, or the household registration is done to get them acquired at a price or confiscated within 15 days following the day when the licenses are revoked or cancelled; if there is no one who can make such a submission, the local municipal, county (city) government should confiscate them.
+
+When the firearms and ammunition as prescribed in the preceding paragraph are lost, the representatives, persons in charge, or owners of the agencies (organizations), schools, or groups, shall take their licenses to the police department of the municipality or county (city), where the agencies (organizations), schools, or principal business offices are located or the household registration is done, and hand them over.
+
+## Article 13
+
+Firearms and ammunition purchased by the agency (organization) or group after it has been permitted to make such purchase shall be stored in a metal cabinet set up at a proper place within the agency (organization) or group. The firearms and ammunition shall be separately stored and put under collective custody. The metal cabinet must be secure, with equipment for theft and fire prevention and for good ventilation.
+
+## Article 14
+
+Firearms and ammunition purchased by schools of all levels after they have been permitted to be purchased shall be put under collective custody in storage set up by each school. Its structure criteria shall be as follows:
+
+\1. The storage shall be located in a safe place inside the school or garrison.
+
+\2. The firearms and ammunition shall be stored in separate storage and guarded by dedicated personnel around the clock every day.
+
+\3. The storage shall be built with steel rebar and concrete in principle and shall be reinforced with iron doors, windows, and locks.
+
+\4. The storage shall be equipped with a CCTV and an alarm  system powered by both the alternating current and the direct current.
+
+\5. The storage shall have such fire prevention supplies as fire sand, water, and fire extinguishers.
+
+\6. The firearms storage shall have a firearms cabinet with locks.
+
+\7. The storage shall have a vent hole, thermometer and hygrometer.
+
+## Article 15
+
+A manufacturer, who operates the import/export of firearms and ammunition, manufactures the main firearm components for export, or manufactures harpoon guns for domestic and/or foreign sales and conducts firearm maintenance, shall submit a copy of the application form to the central competent authority to apply for permission; when the application is filed by a company, it is also necessary to provide the original or photocopy of the company name and business scope reservation document approved by the Ministry of Economic Affairs; if the document is a photocopy, it shall be affixed with the company seal and the seal of the person in charge.
+
+When the manufacturer as prescribed in the preceding paragraph is applying for permission, the permission shall not be granted if its person in charge meets any of the following circumstances; if the permission has already been granted, it shall be revoked or cancelled:
+
+\1. Having been convicted of voluntary manslaughter, aggravated assault, robbery, snatching, sexual offenses, kidnapping for ransom, or for violating the Narcotics Hazard Prevention Act, the Human Trafficking Prevention Act, the Organized Crime Prevention Act, the Fraud Crime Hazard Prevention Act or the Act, or having committed an offense other than those prescribed above and having been finally sentenced to imprisonment or given a more severe punishment.
+
+\2. Having been placed under guardianship or assistantship which has not yet been terminated.
+
+\3. Having violated the Social Order Maintenance Act by using illicit drugs or psychedelic drugs other than controlled medications which have at least lead to two final rulings that carry punishments.
+
+The manufacturer with approval, whose person in charge has been prosecuted for violating the Act, shall have its application filed pursuant to the first paragraph of Article 16 temporarily suspended from the day when he is prosecuted; If the person in charge is finally found not guilty, the application shall be allowed to be filed pursuant to paragraph 1 of Article 16.
+
+## Article 16
+
+The manufacturer approved by the first paragraph of the preceding Article may apply to operate firearms and ammunition import/export business, manufacture main firearm components for export, or manufacture harpoon guns for domestic or foreign sales, or conduct firearms maintenance. When it applies to the central competent authority for permission, the following documents shall be submitted for each application:
+
+\1. A copy of the application form.
+
+\2. If the application is for export, the purchase order from a foreign company or any document that is sufficent to prove that the production is for export, along with the Chinese translation thereof shall be submitted; if the application is for import, the contract or power of attorney shall be submitted.
+
+\3. The model, catalogue, scaled 2-dimensional and 3-dimensional designs of the firearms and ammunition insix copies and a bill of quantities.
+
+\4. The original or photocopied registration certificate of the manufacturer or commissioned factory that produces firearms parts; if the certificate is a photocopy, it shall be affixed with the seal of the company or factory and the seal of the person in charge.
+
+\5. The names and addresses of cooperative manufacturers involved in part of the whole production processes.
+
+The manufactured main components of firearms and ammunition produced for export shall not be exported until they have been inspected by the police department where the company or factory is located; a duplicate of the export declaration shall be submitted to the police department that is responsible for inspection for future reference.
+
+After having imported or manufactured harpoon guns, the company or factory shall apply to the police department of the municipality or county (city) where the company or factory is located for an inspection certificate, without which they may not be displayed and sold in any legitimate business, such as a sporting goods store, fishing gear shop and diving equipment store, that offer related products.
+
+## Article 17
+
+A police authority, for the purpose of inspecting firearms and/or ammunition, may send its officers to the place where they are manufactured, stored or sold. If necessary, it may be joined by the competent authority in charge of this business while conducting inspection pursuant to the following rules:
+
+\1. Voluntarily present the document that proves that officers are performing their duty and explain this inspection.
+
+\2. The inspection scope covers firearms, ammunition and their spare parts, finished products, semi-finished products, various related books and files, production, inventory, sales volume, and other necessary items.
+
+\3. The parties concerned may be questioned and asked to provide necessary information related to firearms and ammunition.
+
+\4. The inspection shall not interfere with the regular business of the place inspected.
+
+\5. Any business secrets obtained from this inspection shall be kept confidential.
+
+## Article 18
+
+The license for the firearms and ammunition approved pursuant to these Regulations shall be issued within one month after their inspection has been completed. In the case of temporary applications for license reissuance or replacement, the license shall be valid for the remaining valid period of the original one.
+
+When an agency or group applies for the license, it shall submit the approval document, application form, firearms records, and name list of its personnel responsible for managing the firearms and ammunition, to the municipal or county (city) police department for the review of its license application.
+
+Article 10 of the Self-Defense Guns Control Act applies to the license application fees and the expenses thereof.
+
+## Article 19
+
+Any person or group, for the purpose of commemoration, decoration, fitness performance or exercise or decent recreation, may apply to own knives. However, if the person or the person in charge of the group meets one of the circumstances as prescribed in the subparagraphs of paragraph 1 of Article 8, the application shall not be granted.
+
+## Article 20
+
+Any person or group, that applies to own knives, shall apply for approval to the competent authority of the municipality or county (city) where his household is registered or the principal business office is located by submitting the following documents:
+
+\1. A copy of the application form.
+
+\2. A photocopy of the applicant’s ID card or the group’s registration certificate.
+
+\3. A color illustration of the knives in six copies, detailing their traits, including their quantities, purposes, handle and blade lengths and whether they have been sharpened.
+
+\4. The original or photocopied registration certificate of the company or factory that has handled or manufactured the knives; if it is a photocopy, it has to be affixed with the seal of the company or factory and the seal of the person in charge.
+
+The license application as prescribed in the preceding paragraph, after the police department of the municipality or county (city) where the household is registered has inspected the knives, shall be granted and recorded for management.
+
+## Article 21
+
+Any person or group, before applying to import/export knives, shall submit information such as the model, catalogue, quantity and purpose of the knives to the competent authority of the municipality or county (city) where his household is registered or its principal business office is located for the approval document, which shall be taken to the branch offices of the Customs Administration of the Ministry of Finance to apply for inspection and customs clearance; if the approval document is lost or damaged, its replacement shall be applied for.
+
+Before purchasing the knives in the domestic market, the person or group shall submit information such as their model, catalogue, quantity and purpose to the competent authority of the municipality or county (city) where his household is registered or its principal business office is located to apply for the approval certificate.
+
+The person or group shall apply to the police department of the municipality or county (city) where his household is registered or its principal business office is located for inspection and the issuance of a license in accordance with the preceding Article within 7 days following the day when the knives are purchased as prescribed in the preceding two paragraphs
+
+## Article 22
+
+Whenever the owner of knives goes outdoors with his licensed knives, he shall carry the license with him. When the knives are lost, the owner shall turn in the license to the police department of the municipality or county (city) where his household is registered.
+
+## Article 23
+
+When the place where the knives owner’s household or principal business office is changed, information of the change along with the license and declaration form for address change shall be respectively submitted to the former and current local police stations to be forwarded to the municipal or county (city) police department to register the change within one month following the day when such change takes place.
+
+## Article 24
+
+When any person or group meets any of the circumstances as prescribed in the subparagraphs of paragraph 1 of Article 5-2 of the Act, the owner of or heir to the knives and license, within 15 days following the day when the approval is revoked or cancelled, shall submit the knives and license to the government of the municipality or county (city) where his household is registered to get the knives acquired with a negotiated price; if no one turns in the knives, the government of the municipality or county (city) where the household is registered shall confiscate them.
+
+## Article 25
+
+When any person or group sells, transfers, rents, or lends the knivesin their possession, they shall apply for permission from the competent authority of the municipality or county (city) where their household is registered orthe principal business office is located, but the application shall be rejected ifthey meet one of the circumstances as prescribed in the subparagraphs of paragraph 1 of Article 8; in case that the knives are sold or transferred, the person or group shall take the approval document to the police department of the municipality or county (city) where his household is registered or its principal business office is located to registered the change within 7 days following the day when the permission is granted.
+
+## Article 26
+
+Any manufacturer, that operates the import/export of knives, or manufactures and sells them, shall submit a copy of the application form to the competent authority of the municipality or county (city) where its principal business office is located to apply for permission; when the application is filed by a company, it is also necessary to provide the original or photocopy of the company name and business scope reservation document approved by the Ministry of Economic Affairs; if the document is a photocopy, it shall be affixed with the company seal and the seal of the person in charge.
+
+## Article 27
+
+The manufacturer licensed in accordance with the preceding Article may apply to operate import/export knives, or manufacture and sell them. When such an application is made on a case-by-case basis to the competent authority of the municipality or county (city) for permission, where the principal business office is located, the following documents shall be submitted:
+
+\1. A copy of the application form.
+
+\2. The original or photocopied registration certificate of the company or factory; if it is a photocopy, it has to be affixed with the seal of the company or factory and the seal of the person in charge.
+
+\3. A color illustration of the knives in six copies, detailing their traits, including their quantities, purposes, handle and blade lengths and whether they have been sharpened.
+
+\4. If the application is for export, the purchase order from a foreign company or any document that is sufficient to prove that the production is for export, along with the Chinese translation thereof shall be submitted.
+
+\5. If the knives are to be owned by a local person or group, the approval document granted by the competent authority of the municipality or county (city) where the person registers his household or the principal business office is located shall be submitted.
+
+The knives produced for export shall not be exported until they have been inspected by the police department of the municipality or county (city) where the company or factory is located; a duplicate of the export certificate shall be submitted within 7 days following the day when the export occurs to the police department that is responsible for the inspection for future reference.
+
+## Article 28
+
+The central competent authority shall carry out at least a general inspection each year on all licensed firearms, ammunition, and knives; however, in order to maintain public safety, unscheduled general inspections may be implemented.
+
+## Article 29
+
+Where the license or permit that allows the ownership of firearms, ammunition, and knives in accordance with these Regulations is lost or damaged, the representative of agency (organization), school, or group, person in charge, or owner, shall apply for its replacement with the police department of the municipality or county (city), where the agency (organization), school, or principal business office is located or his household is registered.
+
+## Article 30
+
+Where the owner, for some reason, has brought his licensed firearms, ammunition, and/or knives out of the household he has registered for more than 15 days or has brought them back, he shall submit a report about the model, quantity, residence and duration of stay in writing to the police department of the municipality or county (city) where his household is registered.
+
+The police department of the municipality or county (city) where the owner’s household is registered shall inform the police department of the municipality or county (city) where the owner resides. In case where there are discrepancies in the information or the owner fails to appear, both departments shall coordinate and handle jointly.
+
+## Article 31
+
+The firearms, ammunition, and knives that are acquired or confiscated pursuant to paragraph 1, Article 5-2 of the Act shall be sent to the NPA Police Equipment Maintenance Plant for destruction.  The costs for such destruction shall be included in the budget plan compiled by the NPA year after year.
+
+Where the person or group that owns the knives is deceased, or dissolved, an application for their ownership shall be filed again within 3 months following the day when the death or dissolution occurs.
+
+## Article 32
+
+The licenses for firearms and ammunition and the inspection certificates for harpoon guns shall be printed by the central competent authority; the permits for knives shall be printed by the municipal and county (city) police departments.
+
+The inspection of firearms and ammunition and the issuance of their license shall be implemented once every two years, commencing from January 1 of the first year of ownership. The license is valid for two years and shall be turned in for its destruction and renewal.
+
+## Article 33
+
+The forms required in these Regulations shall be formulated by the central competent authority.
+
+## Article 34
+
+These Regulations, except Articles 9 and 10 that were revised and promulgated on 13 March 2025 and Article 13-1 that was revised and promulgated to be effective on 3 January 2024, shall go into effect as of the date of promulgation.
+
+## History
+
+\1. Enacted and issued by Order Tai-Nei-Ching-Tzu No. 0910076416 of the Ministry of the Interior on Oct. 2, 2002
+
+\2. Amend by Order Tai-Nei-Ching-Tzu No.0930077272 of the Ministry of the Interior on Nov. 30, 2004
+
+\3. Amend by Order Tai-Nei-Ching-Tzu No.0940100463 of the Ministry of the Interior on Apr. 22, 2005
+
+\4. Amend by Order Tai-Nei-Ching-Tzu No.0980872017 of the Ministry of the Interior on Nov. 23, 2009
+
+\5. Amend by Order Tai-Nei-Ching-Tzu No.1000872433 of the Ministry of the Interior on Nov. 7, 2011
+
+\6. Amend by Order Tai-Nei-Ching-Tzu No.10308714563 of the Ministry of the Interior on Jun. 10, 2014
+
+\7. Amend by Order Tai-Nei-Ching-Tzu No.10708724943 of the Ministry of the Interior on Aug. 16, 2018
+
+\8. Amend by Order Tai-Nei-Ching-Tzu No.11008718493 of the Ministry of the Interior on Jul. 23, 2021
+
+\9. Amend by Order Tai-Nei-Ching-Tzu No.11108732942 of the Ministry of the Interior on Nov. 15, 2022
+
+\10. Amend by Order Tai-Nei-Ching-Tzu No.11408709112 of the Ministry of the Interior on Mar. 13, 2025

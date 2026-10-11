@@ -1,0 +1,91 @@
+---
+title: "Regulations for Employment Services for Victims of Domestic Violence"
+title_zh: "家庭暴力被害人就業服務辦法"
+identifier: "N0090047"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2015-12-31
+last_amended: 2015-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090047"
+retrieved: 2026-10-12
+---
+
+# Regulations for Employment Services for Victims of Domestic Violence
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090047-regulations-for-employment-services-for-victims-of-domestic-violence.md](../../../zh/regulations/ministry-of-labor/N0090047-regulations-for-employment-services-for-victims-of-domestic-violence.md)) is authoritative.
+
+## Article 1
+
+The regulations are stipulated according to Paragraph 2 of Article 58-1 of Domestic Violence Prevention Act.
+
+## Article 2
+
+The regulating authorities, whenever appeared in the regulations, refer to Ministry of the Labor in the central administration level; a municipality government in the municipal level; and a city or county government in the city or county level.
+
+## Article 3
+
+The regulating authorities should provide a victim of domestic violence (hereinafter the victim) who is willing to obtain employment but does not have enough vocational capacity with the following employment services:
+
+1.Preliminary Employment Service: Services including temporary relocation, vocational training, and in-service education will be provided to the victim to strengthen confidence and employment competence, in order to transfer the victim to general workplace in the future.
+
+2.Supportive Employment Service: In-depth and continuous services will be provided in order to enable the victim to work in a general workplace, and the services including employment agency, legal service in employment affairs, care and support in workplace, follow-up counseling, security project in workplace, etc.
+
+## Article 4
+
+The regulating authorities should designate specific personnel to a victim transferred from Domestic Violence Prevention centers in a municipality, county, or city government or a victim who seek employment by one’s own, and the personnel should design an individual employment service project under the victim’s consent which includes arrangement of employment service or vocational training.
+
+The process or circumstances of such service should be reported to the original entity when the case of the victim is accepted through transferring.
+
+## Article 5
+
+The employment service project should include pre-employment training, preparation for vocational adaptability, emotional support and counseling, companion in interviews, employment support, tracking and integrating related resources to solve employment obstacles, etc.
+
+## Article 6
+
+The regulating authorities should introduce the victim who finishes a vocational training to employment under consent of the victim.
+
+## Article 7
+
+The regulating authorities may develop employment opportunities in different vocation and provide employment counseling, aptitude test, information of labor market, educational activity of employment promotion, introduction to employment opportunity, preparation for vocational adaptability, follow-up counseling, etc. in accordance with the needs of the victim.
+
+## Article 8
+
+In order to help the victim who has difficulty obtaining employment, the regulating authorities may cooperate with civil institutions to plan program of employment promotion and implement preliminary or supportive employment service; the regulating authorities and the civil institutions should contact regularly and launch case study if necessary to provide assistance in employment of the victim.
+
+## Article 9
+
+As assistance of employment of the victim, the regulating authorities may integrate resources from social authorities or civil institutions to provide daily support and solve employment obstacles.
+
+## Article 10
+
+The regulating authorities may delegate their subordinate institutes of employment service to implement its preliminary and supportive employment services; the regulating authorities may commission related institutions or groups to implement the services when necessary.
+
+Regulations of qualification, performance objectives, and review procedure of the institutions or the groups to be commissioned in the previous Paragraph should be stipulated by the regulating authorities.
+
+## Article 11
+
+When providing employment service to the victim, the regulating authorities or the institutions or the groups delegated or commissioned by the authorities should keep basic information, background, workplace, and related written information of the victim confidential.
+
+The employer or the employment service personnel may request assistance from police or social agencies when learning of the batter harassing the victim at the workplace.
+
+## Article 12
+
+Status and effect of providing employment service to the victim should be regularly and statically analyzed by the regulating authorities.
+
+## Article 13
+
+The expenditure of implementation of the regulations may be provided from budget of the regulating authorities or from the Employment Stability Fund.
+
+## Article 14
+
+The regulations shall come into force on and from the date of announcement.
+
+## History
+
+1.Stipulated by administrative order Lau Dong Fa Te No. 1040516490 on 2015.12.31

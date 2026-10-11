@@ -1,0 +1,307 @@
+---
+title: "Regulations Governing Qualifications and Trainings of Professional Personnel of Children and Youth Welfare Institutes"
+title_zh: "兒童及少年福利機構專業人員資格及訓練辦法"
+identifier: "D0050013"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-12-23
+last_amended: 2026-04-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050013"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Qualifications and Trainings of Professional Personnel of Children and Youth Welfare Institutes
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050013-regulations-governing-qualifications-and-trainings-of-professional-personnel-of.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050013-regulations-governing-qualifications-and-trainings-of-professional-personnel-of.md)) is authoritative.
+
+## Article 1
+
+These regulations are prescribed pursuant to Article 78 of the Child and Juvenile Welfare and Rights Protection Act (hereinafter referred to as the Act).
+
+## Article 2
+
+Professional personnel of children and youth welfare institutes (collectively, “institutes ”) referred to in the Act are defined as follows:
+
+1.Childcare providers: Personnel who provide education and care in a nursery service center or placement and educational institutes;
+
+2.Early intervention specialists and assistant early intervention specialists: Personnel who provide educational and care services for children with a developmental delay at an early intervention institute;
+
+3.Care and guidance personnel and assistant care and guidance personnel: Personnel who provide life care and counseling services for children and youths at placement and educational institutes;
+
+4.Psychological guidance personnel: Personnel who provide children and youths, as well as their family members, with counseling and guidance services at placement and educational institutes, psychological counseling or family consulting institutes, or other children and youth welfare institutes;
+
+5.Social workers: Personnel who provide social work, visitation and assessment, and resource integration services for children and youths entering and leaving early intervention institutes, placement and educational institutes, psychological counseling or family consulting institutes, or other children and youth welfare institutes; and
+
+6.Supervisors: Personnel in charge of the administrative affairs of an institute.
+
+The term “educational and care personnel” and “assistant educational and care personnel” as used herein shall refer to personnel who provide children with educational and care services at nursery schools, nursery service centers, and after-school care service centers prior to the enforcement of these regulations as amended on May 30, 2012.
+
+## Article 3
+
+Childcare providers shall be of the age of majority and meet one of the following criteria:
+
+1.Holding a babysitter certificate or childcare provider certificate issued on or after January 1, 2022; or
+
+2.Having a senior high school or higher degree from a college, department, graduate institute, degree program, or academic division related to early childhood education, early childhood care, home economics, or nursing.
+
+## Article 4
+
+Early intervention specialists shall meet one of the following criteria:
+
+1.Having a junior college or higher degree from a college, graduate institute, department, degree program, or academic division related to medical care, occupational therapy, physical therapy, hearing and speech, education, special education, early intervention, early childhood education, early childhood care, social sciences, social welfare, social work, psychology, guidance counseling, children and youth welfare, or home economics;
+
+2.Graduation from a junior college or above with one of the following course-completion certificates:
+
+(1)Preschool special education courses;
+
+(2)A minor or a credit program at a college, department, graduate institute, degree program, or academic division described in the preceding subparagraph; or
+
+(3)Professional training in early intervention for educational and care personnel;
+
+\3. Graduation from a senior high school or above and having held the position of assistant early intervention specialist for a period of at least three years; or
+
+4.Passing the junior civil service examination or an equivalent examination in one of the categories of social work and social work/labor administration or otherwise being eligible for a position with Elementary Rank 3 in social work and social work/labor administration.
+
+## Article 5
+
+Assistant early intervention specialists shall meet one of the following criteria:
+
+1.Having a minor from or completion of a credit program at a senior high school or higher education institution in a college, department, graduate institute, degree program, or academic division related to early childhood care, home economics, or nursing; or
+
+2.Graduation with a senior high school degree or above with a special training course-completion certificate for early intervention specialists.
+
+## Article 6
+
+Care and guidance personnel shall meet one of the following criteria:
+
+1.Having a junior college or higher degree from a college, graduate institute, department, degree program, or academic division related to early childhood education, early childhood care, home economics, nursing, children and youth welfare, social work, psychology, guidance counseling, education, social sciences, early intervention, special education, physical therapy, occupational therapy, crime prevention, social welfare, or gender studies;
+
+2.Graduation from a junior college or above and with one of the following course-completion certificates:
+
+(1)A teacher education program in any subject;
+
+(2)A minor or a credit program at a college, department, graduate institute, degree program, or academic division described in the preceding subparagraph; or
+
+(3)Professional training for care and guidance personnel;
+
+3.Graduation from a senior high school or above and having held the position of assistant care and guidance personnel for a period of at least three years;
+
+4.Passing the junior civil service examination or an equivalent examination in one of the various categories related to social work and social work/labor administration or otherwise being eligible for a position with Elementary Rank 3 in social work and social work/labor administration; or
+
+5.Passing the social worker examination or being eligible to attend the examination.
+
+## Article 7
+
+Assistant care and guidance personnel shall meet one of the following criteria:
+
+1.Having a senior high school or higher degree from a college, graduate institute, department, degree program, or academic division related to early childhood care, home economics, or nursing;
+
+2.Graduation from a senior high school or above with one of the following course-completion certificates:
+
+(1)A minor or a credit program at a college, department, graduate institute, degree program, or academic division described in Subparagraph 1 of the preceding article; or
+
+(2)Professional training for care and guidance personnel;
+
+3.At least three years of experience working as a care giver at a social welfare institute; or
+
+4.Passing the elementary civil service examination or an equivalent examination in one of the various categories related to social work and social work/labor administration.
+
+## Article 8
+
+Psychological guidance personnel shall meet one of the following criteria:
+
+1.Having a junior college or higher degree (including minors) from a college, graduate institute, department, degree program, or academic division related to psychology, guidance, or counseling; or
+
+2.Having a junior college or higher degree from a college, graduate institute, department, degree program, or academic division related to social work, children and youth welfare, social welfare, education, or gender studies and one of the following course-completion certificates:
+
+(1)A minor or a credit program at a college, department, graduate institute, degree program, or academic division described in the preceding subparagraph; or
+
+(2)Professional training for psychological guidance personnel.
+
+## Article 9
+
+Social workers shall meet one of the following criteria:
+
+1.Passing the social worker examination or being eligible to attend the examination; or
+
+2.Passing the senior civil service examination or an equivalent examination in one of the various categories of social work.
+
+## Article 10
+
+Supervisors of nursery service centers shall meet one of the following criteria:
+
+1.Having a master’s or higher degree from a college, department, graduate institute, or master’s degree program related to early childhood education, early childhood care, home economics, or nursing and at least two years of experience in children’s education, care, and nursing;
+
+2.Having a bachelor’s degree (including minors) from a college, department, or degree program related to early childhood education, early childhood care, home economics, or nursing; at least two years of experience in children’s education, care, and nursing; and the professional training course-completion certificate for supervisors;
+
+3.Having a bachelor’s degree or above in any field or a junior college degree from a college, department, graduate institute, degree program, or academic division related to early childhood education, early childhood care, home economics, or nursing; at least three years of experience in children’s education, care, and nursing; and the professional training course-completion certificate for supervisors;
+
+4.Having a junior college degree in any field; at least four years of experience in children’s education, care, and nursing; and the professional training course-completion certificate for supervisors; or
+
+5.Passing the senior civil service examination or an equivalent examination in one of the various categories of social work and social work/labor administration and having at least two years of work experience at a social welfare agency or institutes.
+
+Experience in children’s education, care, and nursing, as described in Subparagraphs 1 to 4 herein, shall be based on years of service in the following professions, as certified by the competent authority of a municipal or county (city) government or the competent education authorities:
+
+1.Educational and care personnel, assistant educational and care personnel, teachers, care givers, and assistant care givers, or headmasters at a nursery school, kindergarten, or preschool;
+
+2.Childcare providers and supervisors at a nursery service center;
+
+3.Early intervention specialists and assistant early intervention specialists at an early intervention institute; or
+
+4.Childcare providers at a placement and education institute.
+
+## Article 11
+
+Supervisors of early intervention institutes shall meet one of the following criteria:
+
+1.Having a master’s or higher degree from a college, department, graduate institute, or master’s degree program related to child and youth welfare, early childhood education, early childhood care, social welfare, social work, psychology, guidance counseling, special education, or early intervention and at least two years of work experience at a social welfare agency or institute;
+
+2.Having a bachelor’s degree from a college, department, or degree program related to child and youth welfare, early childhood education, early childhood care, social work, psychology, guidance counseling, or special education; at least two years of work experience at a social welfare agency or institute; and the professional training course-completion certificate for supervisors or having at least three years of experience working as supervisor at a disability welfare institute;
+
+3.Holding a bachelor’s degree or above; meeting the professional criteria for educational and care personnel, early intervention specialists, care and guidance personnel, psychological guidance personnel, or social workers; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors or at least five years of experience working as supervisor at a disability welfare institute;
+
+4.Holding a junior college degree or above; meeting the professional criteria for educational and care personnel, early intervention specialists, care and guidance personnel, psychological guidance personnel, or social workers; having at least four years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors or at least seven years of experience working as supervisor at a disability welfare institute;
+
+5.Passing the senior civil service examination or an equivalent examination in one of the various categories of social work and social work/labor administration and having at least two years of work experience at a social welfare agency or institute; or
+
+6.Possessing qualifications as a physician, therapist, psychologist, or special education teacher; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors or at least three years of experience working as supervisor at a disability welfare institute.
+
+## Article 12
+
+Supervisors of placement and educational institutes shall meet one of the following criteria:
+
+1.Having a master’s or higher degree from a college, department, graduate institute, or master’s degree program related to child and youth welfare, social work, psychology, guidance counseling, education, early intervention, special education, crime prevention, home economics, or social welfare and at least two years of work experience at a social welfare agency or institute;
+
+2.Having a bachelor’s degree (including minors) from a college, department, or degree program related to child and youth welfare, social work, psychology, guidance counseling, education, early intervention, special education, crime prevention, home economics, or social welfare; at least two years of work experience at a social welfare agency or institute; and the professional training course-completion certificate for supervisors;
+
+3.Holding a bachelor’s degree or above; meeting the professional criteria for educational and care personnel, early intervention specialist, care and guidance personnel, psychological guidance personnel, or social workers; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors;
+
+4.Holding a junior college degree or above; meeting the professional criteria for educational and care personnel, early intervention specialists, care and guidance personnel, psychological guidance personnel, or social workers; having at least four years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors;
+
+5.Passing the senior civil service examination or an equivalent examination in one of the various categories of social work and social work/labor administration and having at least two years of work experience at a social welfare agency or institute; or
+
+6.Possessing qualifications as a physician, nursing practitioner, physical/occupational therapist, psychologist, or educator; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors.
+
+## Article 13
+
+Supervisors of psychological guidance, family consulting, and other children and youth welfare institutes shall meet one of the following criteria:
+
+1.Having a master’s or higher degree from a college, department, graduate institute, or master’s degree program related to child and youth welfare, social work, psychology, guidance counseling, education, crime prevention, home economics, or social welfare and at least two years of work experience at a social welfare agency or institute;
+
+2.Having a bachelor’s degree (including minors) from a college, department, or degree program related to child and youth welfare, social work, psychology, guidance counseling, education, crime prevention, home economics, or social welfare; at least two years of work experience at a social welfare agency or institute; and the professional training course-completion certificate for supervisors;
+
+3.Holding a bachelor’s degree or above; meeting the professional criteria for educational and care personnel, early intervention specialists and care personnel, care and guidance personnel, psychological guidance personnel, or social workers; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors;
+
+4.Holding a junior college degree or above; meeting the professional criteria for educational and care personnel, early intervention specialists and care personnel, care and guidance personnel, psychological guidance personnel, or social workers; having at least four years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors;
+
+5.Passing the senior civil service examination or an equivalent examination in one of the various categories of social work and social work/labor administration and having at least two years of work experience at a social welfare agency or institute; or
+
+6.Possessing qualifications as a physician, nursing practitioner, psychologist, or educator; having at least three years of work experience at a social welfare agency or institute; and having the professional training course-completion certificate for supervisors.
+
+## Article 14
+
+Those holding credit certificates issued by domestic schools registered with the competent education authority or foreign colleges, departments, graduate institutes, programs, or academic divisions recognized by the Ministry of Education may apply to the central competent authority for exemption from the relevant professional training.
+
+The determination of which colleges, departments, graduate institutes, programs, and academic divisions, as referred to in Article 3 through the preceding article, to recognize shall be made by the central competent authority.
+
+The determination of the crediting of hours and the relevancy of colleges, departments, graduate institutes, programs, and academic divisions described in Paragraph 2 shall be performed jointly by a panel of experts and scholars or by a professional institution or organization commissioned by the central competent authority.
+
+## Article 15
+
+Professional personnel hired under Article 4, Subparagraph 4; Article 6, Subparagraph 4; Article 7, Subparagraph 4; Article 10, Paragraph 1, Subparagraph 5; Article 11, Subparagraph 5; Article 12, Subparagraph 5; and Article 13, Subparagraph 5 must obtain the necessary professional personnel course-completion certificate for the corresponding role.
+
+## Article 16
+
+Professional training courses for childcare, early intervention, care and guidance, and psychological guidance personnel, as well as for supervisors, must include at least the following core courses:
+
+1.Children and youth welfare and rights protection policies and regulations;
+
+2.Physical and mental development in children and youths;
+
+3.Cultural pluralism and parental education; and
+
+4.Professional ethics.
+
+Personnel who have taken the same course under the same title for a different care service role may transfer such course credits to the training program for another role.
+
+## Article 17
+
+The competent authorities shall organize the relevant professional qualifications training either themselves or by commissioning a senior high school or higher education institution that has the relevant colleges, departments, graduate institutes, degree programs, or academic divisions to do so. If necessary, the competent authorities may, with the special approval of the central competent authority, commission child and youth welfare organizations to organize such training.
+
+The competent authorities shall issue a course-completion certificate indicating the course titles and hours to those who pass the training. The format of course-completion certificates shall be decided by the central competent authority.
+
+## Article 18
+
+Professional personnel at children and youth welfare institutes shall be required to undergo pre-service and in-service training.
+
+## Article 19
+
+Pre-service training shall last at least 6 hours and shall include a brief introduction to the institute’s environment, services, and administrative system, as well as in-person observation and an introduction to applicable laws and regulations.
+
+## Article 20
+
+There shall be at least 18 hours of in-service training annually, with equal attention given to theory and practice.
+
+## Article 21
+
+In-service training shall be carried out in the following manner:
+
+1.Organized by the competent authority or by an agency or organization sponsored or commissioned by the competent authority;
+
+2.Organized by the institute or by an agency or organization commissioned by the institute; or
+
+3.Organized by the competent authority of the target enterprise or by an agency or organization sponsored or commissioned by the competent authority of the target enterprise.
+
+## Article 22
+
+Professional personnel shall be granted official leave for participation in in-service training.
+
+## Article 23
+
+Personnel who have completed the necessary training courses and received a course-completion certificate under the Implementation Plan for Children Welfare Professional Personnel Training prior to the enforcement of these regulations shall be deemed as having completed the necessary professional personnel training courses.
+
+## Article 24
+
+Personnel who have obtained the professional personnel qualifications under the Regulations Regarding Qualifications of Children Welfare Professional Personnel prior to the enforcement of these regulations and who continue to hold the position thereafter shall be deemed as qualified under the provisions herein.
+
+Prior to the enforcement of the amendments to these regulations on April 21, 2026, personnel who obtained qualifications as social workers under the former version of these regulations by graduating with a junior college degree or above from a college, department, graduate institute, degree program, or academic division related to social work, child and youth welfare, or social welfare; obtaining a course-completion certificate for a credit program therefrom; or passing the senior civil service examination or an equivalent examination in one of the categories of social administration, and who are serving at a children and youth welfare institute, may continue to serve in their current position until they resign, transfer to another position, or are reassigned.
+
+Personnel described in the preceding two paragraphs must obtain the relevant qualifications under the provisions herein should they transfer to a different position or institute.
+
+Prior to the enforcement of the amendments to these regulations on April 21, 2026, personnel who completed the professional training for childcare providers or care and guidance personnel and thereby obtained qualifications as care givers or daily-life guidance personnel under the former version of these regulations shall be deemed as qualified care and guidance personnel; those who obtained qualifications as assistant care givers or assistant daily-life guidance personnel shall be deemed as qualified assistant care and guidance personnel.
+
+## Article 25
+
+Instituties located in remote areas, offshore islands, and Indigenous communities that shelter youths placed by court orders or rulings as well as children and youths testing positive for HIV (including suspected and confirmed cases) and that have difficulty finding professional personnel meeting the necessary qualifications may request a special exemption review from the competent authority of a municipal or county (city) government. The qualification requirements may be relaxed following approval from the central competent authority.
+
+## Article 26
+
+These regulations shall be implemented on the date of promulgation.
+
+## History
+
+1.Promulgated by Order Tai-Ne-Tong No.0930093916 on December 23rd, 2004
+
+2.Amended and promulgated by Order Tai-Ne-Tong No.0980840004 on February 19th, 2009
+
+3.Amended and promulgated by Order Tai-Ne-Tong No.09908400223 on April 22th, 2010(Amended Article3、Articles 6、Articles 8 to 10 and Articles 13 to 17)
+
+4.Amendments to Article 14 & Article 17 First paragraph by Order Tai-Ne-Tong No.0980840004 on February 19th, 2009
+
+5.Amended according to Tai-Nei-Tung-Tze Order No. 1010840281 dated May 30st, 2012 and will be effective from the date of promulgation.
+
+6.Amended on January 17, 2014
+
+7.Amended on March 31, 2017
+
+8.Amended on December 30, 2022
+
+9.All 26 articles amended and promulgated by Ministry of Health and Welfare Order Wei-Shou-Jia-Zi No. 1150660335 on April 21, 2026; effective from the date of promulgation.
+
+Articles 12, 13, and 24 corrected by Ministry of Health and Welfare Letter Wei-Shou-Jia-Zi No. 1150660517B on May 7, 2026.

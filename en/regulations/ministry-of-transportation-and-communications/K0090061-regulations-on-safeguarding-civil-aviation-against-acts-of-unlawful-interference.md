@@ -1,0 +1,510 @@
+---
+title: "Regulations on Safeguarding Civil Aviation Against Acts of Unlawful Interference"
+title_zh: "民用航空保安管理辦法"
+identifier: "K0090061"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-02-25
+last_amended: 2024-02-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090061"
+retrieved: 2026-10-12
+---
+
+# Regulations on Safeguarding Civil Aviation Against Acts of Unlawful Interference
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090061-regulations-on-safeguarding-civil-aviation-against-acts-of-unlawful-interference.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090061-regulations-on-safeguarding-civil-aviation-against-acts-of-unlawful-interference.md)) is authoritative.
+
+## Article 1
+
+This Regulations are prescribed in accordance with Article 47-5 of the Civil Aviation Act.
+
+## Article 2
+
+The following terms as used in this Regulations are defined as below:
+
+1.Acts of unlawful interference: means acts or attempted acts such as to jeopardize the safety of civil aviation and air transport, i.e.:
+
+(1) unlawful seizure of aircraft;
+
+(2) destruction of an aircraft in service;
+
+(3) hostage-taking on board aircraft or on aerodromes;
+
+(4) forcible intrusion on board an aircraft, at an airport or on the premises of an aeronautical facility;
+
+(5) introduction on board an aircraft or at an airport of a weapon or hazardous device or material intended for criminal purposes;
+
+(6) use of an aircraft in service for the purpose of causing death, serious bodily injury, or serious damage to property or the environment; and
+
+(7) communication of false information such as to jeopardize the safety of an aircraft in flight or on the ground, of passengers, crew, ground personnel or the general public, at an airport or on the premises of a civil aviation facility.
+
+\2. Crew member: means a person assigned by the owner or operator of an aircraft to perform duty in an aircraft during flight.
+
+\3. Catering supplies: means food, beverages, other dry stores and associated equipment used on board an aircraft.
+
+\4. Catering stores: means all items, other than catering supplies, associated with passenger in-flight services, such as newspapers, magazines, headphones, audio and video tapes, pillows, blankets, amenity kits, etc.
+
+\5. Security control: means a means by which the introduction of dangerous goods or prohibited items which may be used to commit an act of unlawful interference can be prevented.
+
+\6. Security restricted area: means those areas designated by the operator of an airport for the purpose of access control.
+
+\7. Prohibited items : means the guns and knives specified in the Act Governing the Control and Prohibition of Guns, Cannons, Ammunitions, and Knives, or any other suspicious articles likely to affect flight safety as published by the Civil Aviation Administration, Ministry of Transportation and Communications (hereinafter referred to as the “CAA”).
+
+\8. Aircraft security check: means an inspection of the interior of an aircraft to which passengers may have access and an inspection of the hold for the purposes of discovering suspicious objects, dangerous goods or prohibited items.
+
+\9. Aircraft security search: means a thorough inspection of the interior and exterior of the aircraft for the purpose of discovering suspicious objects, dangerous goods or prohibited items.
+
+\10. Screening: means the application of technical or other means which are intended to identify or detect dangerous goods or prohibited items which may be used to commit an act of unlawful interference.
+
+\11. Sterile area: means that area between any passenger inspection or screening control point and aircraft into which access is strictly controlled.
+
+\12. Armed in-flight security officer: means a law enforcement officer who carries weapons on board an aircraft for the purpose of counteracting an act of unlawful interference.
+
+\13. Security control personnel: means any of the following personnel who are assigned by the owner or operator of an aircraft, air cargo entrepot, airport ground handling service, catering service and such other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area:
+
+(1) A security supervisor;
+
+(2) A person responsible for the development, establishment and modification of the aviation security program or for the monitoring of its implementation; and
+
+(3) A dedicated security personnel designated at each airport concerned.
+
+## Article 3
+
+The Aviation Police Bureau of the National Police Agency, Ministry of the Interior (hereinafter referred to as the “APB”), which is in charge of the aviation security control at each airport, shall formulate each airport security program in accordance with the national civil aviation security program and submit it to the CAA for approval prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+The airport security program referred to in the preceding paragraph shall include the following:
+
+1.Legal basis and administrative matters;
+
+2.Operation units and their duties;
+
+3.Organization, functions and other related matters of the airport security committee;
+
+4.Announcement of airport security matters;
+
+5.General situation of airport facilities;
+
+6.Airport security measures and things to be followed;
+
+7.Countering measures against acts of unlawful interference;
+
+8.Aviation security training;
+
+9.Supervision and evaluation; and
+
+10.Other related matters.
+
+All publicly and privately owned institutions operating at an airport shall comply with the various provisions of the airport security program.
+
+## Article 4
+
+A civil air transport enterprise or general aviation service shall formulate its own aviation security program in accordance with the national civil aviation security program and submit it to the CAA for approval prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+A foreign civil air transport enterprise shall formulate its own aviation security program and submit it to the CAA for acceptance prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+The aviation security program referred to in the two preceding paragraphs shall include the following:
+
+1.International organizations and obligations;
+
+2.State responsibilities and obligations;
+
+3.Security policy and organization;
+
+4.Security of passengers and cabin baggage;
+
+5.Security of passengers’ hold baggage;
+
+6.Security of crew , cabin baggage and hold baggage;
+
+7.Identification of passengers and hold baggage reconciliation;
+
+8.Security of aircraft;
+
+9.Security of catering supplies and stores;
+
+10.Security of aircraft cleaning operations;
+
+11.Security of cargo and mail;
+
+12.Recruitment of security personnel;
+
+13.Training of security personnel;
+
+14.Contingency plan in respect of acts of unlawful interference;
+
+15.Reporting procedures for an aviation security incident;
+
+16.Supervision and evaluation;
+
+17.Special security procedures in collaboration with the airport concerned and other aerodromes; and
+
+18.Other related matters.
+
+The “security of passengers and cabin baggage” referred to in Subparagraph 4 of the preceding paragraph shall include such appropriate measures and procedures as will ensure that no security concern may arise while transporting persons under escortor the deportee.
+
+A civil air transport enterprise, general aviation service or foreign civil air transport enterprise operating on leased aircraft shall specify the security control provisions and procedures applicable to its leased aircraft in Subparagraph 18 of Paragraph III hereof.
+
+## Article 5
+
+An air cargo entrepot, airport ground handling service, catering service and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area shall formulate its own security program in accordance with the aviation security program at the airport concerned and submit it to the APB for approval prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+The aviation security program referred to in the preceding paragraphs shall include the following:
+
+1.Security policy and organization;
+
+2.Security and preventive measures for operation areas;
+
+3.Access control measures for the entry of persons and vehicles into and out of security restricted areas and operation areas;
+
+4.Security measures for the prevention of unlawful loading of dangerous goods or prohibited items onto an aircraft;
+
+5.Recruitment of security personnel;
+
+6.Training of security personnel;
+
+7.Contingency plan in respect of acts of unlawful interference;
+
+8.Reporting procedures for an aviation security incident;
+
+9.Aviation security quality control program; and
+
+10.Other related matters.
+
+The “other related matters” referred to in Subparagraph 10 of the preceding paragraph shall include the acceptance procedures for an air cargo entrepot and the security measures after the acceptance, the management and control of the machinery and equipment used by an airport ground handling service and its security measures relating to the loading of baggage and cargo, or the security measures relating to the dining trolleys used by a catering service.
+
+## Article 6
+
+The owner or operator of an aircraft shall ensure that the movement of persons and vehicles near the aircraft is supervised and prevent unauthorized access to the aircraft.
+
+## Article 7
+
+When an aircraft is not in operation or undergoing maintenance, the owner or operator of an aircraft shall conduct security control measures as follows:
+
+1.Close the cabin door;
+
+2.Remove the passenger boarding bridge or close all access doors which connect with the passenger boarding bridge giving access to the apron and steria area; and
+
+3.Remove the mobile staircases, service ladders and other loading platforms access to the aircraft.
+
+Upon receipt of information relating to an act of unlawful interference or notification from the APB, the owner or operator of an aircraft shall have the aircraft safeguarded and conduct a thorough search of the apron where the aircraft is parked and its vicinity.
+
+## Article 8
+
+The owner or operator of an aircraft shall conduct an aircraft security check or aircraft security search prior to the departure of the aircraft.
+
+The APB may conduct an aircraft security check or aircraft security search and notify the owner or operator of the aircraft prior to such check or search under any of the following situations or when it is necessary to do so:
+
+1.It has obtained intelligence relating to an act of unlawful interference; and
+
+2.There is any other concern on public security or aviation security.
+
+## Article 9
+
+The persons who shall undergo background checks and recurrent background checks every three years and the authority or entities which shall conduct the above background checks and recurrent background checks are as follows:
+
+1.The background checks and recurrent background checks of persons with unescorted access to security restricted areas and North and South Air Traffic Services Park, Air Navigation and Weather Services, CAA, MOTC shall be conducted by APB.
+
+2.Persons implementing security controls or with access to sensitive aviation security information which referred to in Article 37, paragraph 2 shallprovide the Police Criminal Record Certificates to the unit they belong to for conducting the background checks and recurrent background checks. However, the exemption may be applied to those whose background checks and recurrent background checks have been already completed according to the preceding subparagraph or who are civil servants.
+
+The background checks of persons mentioned on the preceding paragraph shall be conducted prior to their implementing security controls duties or accessing security restricted areas and North and South Air Traffic Services Park, Air Navigation and Weather Services, CAA, MOTC or sensitive aviation security information.
+
+The background checks and recurrent background checks referred to in the first paragraph shall include an investigation as to identification, criminal history and any other security related information.
+
+Persons found unsuitable by any background check according preceding three paragraphs are immediately denied the ability to implement security controls, unescorted access to security restricted areas and North and South Air Traffic Services Park, Air Navigation and Weather Services, CAA, MOTC, and access to sensitive aviation security information.
+
+## Article 10
+
+The owner or operator of an aircraft shall verify passengers’ identity documents during check-in and passengers shall check in their baggage individually, unless otherwise provided in the aviation security program of the owner or operator of the aircraft.
+
+The owner or operator of an aircraft shall verify passengers’ boarding documents upon boarding.
+
+## Article 11
+
+The owner or operator of an aircraft shall ensure that all hold baggage to be carried on an aircraft is protected from unauthorized interference from the point where it is accepted into the care of the owner or operator of an aircraft or screened by APB until the departure of the aircraft on which it is to be carried. If unauthorized interference with the hold baggage is discovered, the owner or operator of an aircraft shall pass the hold baggage to the APB for the purpose of additional screening.
+
+## Article 12
+
+The owner or operator of an aircraft shall not transport the hold baggage of passengers who are not on board the aircraft.
+
+The owner or operator of an aircraft shall not transport the unaccompanied baggage unless it is subjected to additional screening by APB, unless it complies with all of the following:
+
+1.None of passengers who can be imputative by any reason ;
+
+2.Baggages under security control from the point of accepting by the owner or operator of aircraft or screened by APB until aircraft taking off;
+
+3.The owner or operator of an aircraft already developed measures in their security program to verify the passengers not deliberately cause the circumstances and store all related documents; and
+
+4.The baggage is identified as unaccompanied.
+
+The means of “None of passengers who can be imputative” referred to in the Subparagraph 1 of preceding paragraph for any of the following:
+
+1.Breakdown of the baggage handling system;
+
+2.Baggage that missed the intended flight because of an unforeseen delay during its transfer between flights;
+
+3.Baggage that was inadvertently placed on the wrong aircraft by the ground crew or ground handling agent of the owner or operator of an aircraft;
+
+4.A passenger who was denied boarding because of overbooking by the owner or operator of an aircraft but not a passenger who volunteered to give up his or her seat as a result of overbooking;
+
+5.A passenger who was repositioned on another flight or other transportation mode by the owner or operator of an aircraft as a result of a major disruption to operations caused by a natural event such as adverse weather; and
+
+6.Under other matters, when the owner or operator of an aircraft ensure the status which can meet the security requirements, the owner or operator of an aircraft shall report to APB for acceptance.
+
+## Article 13
+
+The owner or operator of an aircraft shall ensure passengers disembarking from the aircraft at any time do not leave their personal items on board the aircraft.
+
+## Article 14
+
+If the owner or operator of an aircraft discovers that mixing or contact does take place in the sterile area between screened passengers and unscreened passengers, the passengers concerned and their cabin baggage shall be subjected to additional screening by the APB before boarding an aircraft.
+
+## Article 15
+
+The owner or operator of an aircraft shall prevent the access of any person to a check- in counter that is in operation. The owner or operator of an aircraft shall at any time prevent the theft of any air ticket, boarding pass, baggage tag or travel document of a passenger that is in its custody or being processed.
+
+## Article 16
+
+Where the owner or operator of an aircraft accepts the carriage of weapons, it shall notify the APB, which shall send dispatch an authorized and duly qualified person to determine that the weapons are not loaded, and then stow them in a place inaccessible to any person during flight time.
+
+## Article 17
+
+The owner or operator of an aircraft shall ensure that all cargo is protected from unauthorized interference from the point it is accepted into the care of the carrier until departure of the aircraft on which it is to be carried.
+
+If the owner or operator of an aircraft discovers any unauthorized interference with the cargo, it shall forthwith notify the APB.
+
+## Article 18
+
+The owner or operator of an aircraft, airport ground handling service and catering service shall ensure that catering supplies and stores have been subjected to security control prior to their loading onto the aircraft and have been inspected by the APB upon entering the security restricted areas.
+
+## Article 19
+
+In carrying out the transfer of any person under escort, a notice of transfer of the person under escort (as shown in Attachment 1) shall be completed and delivered to the owner or operator of an aircraft by the authority concerned 24 hours prior to the boarding onto the aircraft; provided, however, that the 24 hours limitation will not apply where the enforcement authority and the owner or operator of the aircraft have agreed otherwise.
+
+In carrying out the deportation of any unescorted deportee, a notice of deportation of unescorted deportee (as shown in Attachment 2) shall be completed and delivered to the owner or operator of an aircraft by the authority concerned 24 hours prior to the boarding onto the aircraft; provided, however, that the 24 hours limitation will not apply where the enforcement authority and the owner or operator of the aircraft have agreed otherwise.
+
+The owner or operator of an aircraft shall carry out a risk assessment as to the transfer and transportation referred to in the two preceding paragraphs. Unless otherwise provided for by law, it may carry out any of the following if it determines that there is any risk:
+
+1.Rejecting carriage;
+
+2.Limiting the number of persons under escort or deportee on board each aircraft;and
+
+3.Coordinating with the enforcement authority to dispatch more escorting officers.
+
+## Article 20
+
+An escorting officer shall comply with the following provisions when traveling by air:
+
+1.Submitting supporting documents issued by the enforcement authority for the purpose of following the procedures for taking the aircraft; and
+
+2.Carriage of weapon is not allowed on board the aircraft and, if any weapon is to be carried, it shall be checked.
+
+## Article 21
+
+The owner or operator of an aircraft shall ensure that the pilot-in-command and cabin crew members are notified of the number of escorting officers, the number of persons under escort, and their seat location.
+
+Crew members shall not provide alcoholic beverages to the escorting officer and persons under escort, and shall not provide metal dining utensils or cutlery of any sorts to the persons under escort.
+
+## Article 22
+
+The APB may assign an armed in-flight security officer to carry out security duty on board an aircraft and shall notify the owner or operator of the aircraft 72 hours prior to the boarding onto the aircraft provided, however, that the 72-hour limitation will not apply in case of emergencies.
+
+Upon receipt of the notice referred to in the preceding paragraph, the owner or operator of an aircraft shall further notify the airport of origin, airport of transit and airport of destination.
+
+The two preceding paragraphs shall apply mutatis mutandis in cases where the owner or operator of an aircraft carries such other persons as are approved by the APB to bear arms on board an aircraft.
+
+## Article 23
+
+The owner or operator of an aircraft, air cargo entrepot, airport ground handling service, catering service and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area shall appoint appropriate persons to serve as security control personnel.
+
+A person responsible for the development, establishment and modification of the aviation security program or for the monitoring of its implementation, and a dedicated security personnel designated at each airport concerned shall have taken courses on aviation security training program in the past 2 years and possessing supporting document to certify his or her completion of the training courses or passing the relevant tests.
+
+## Article 23-1
+
+A head of security shall be familiar with their security program, various manuals relating to his or her official duty, the laws and regulations regarding civil aviation and also have the following qualifications:
+
+\1. Having supporting documents or certificate for completion of aviation security training course within past 2 years; and
+
+\2. Having more than 2 years working experience in aviation security related field.
+
+A Civil Air Transport Enterprise or General Aviation Enterprise shall submit their list of head of security to CAA for acceptance. The foregoing shall also apply to the modification thereof, if any.
+
+An air cargo entrepot, airport ground handling service, catering service and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area shall submit their list of head of security to APB for acceptance. The foregoing shall also apply to the modification thereof, if any.
+
+## Article 24
+
+If the owner or operator of an aircraft, based upon sufficient evidence, believes that the aircraft may be a subject of an act of unlawful interference, it shall then follow the contingency plan set forth under its aviation security program, and shall forthwith notify the APB; and if the aircraft has departed, it shall also forthwith notify the airports concerned and the air traffic control unit.
+
+## Article 25
+
+On learning of the occurrence of an act of unlawful interference, the owner or operator of an aircraft shall forthwith notify the APB and CAA, and shall complete an Unlawful Interference Notification Form (as shown in Attachment 3) and submit it to the APB and CAA within 24 hours, and shall fulfill the reporting requirements under the CAA’s flight safety management information system within 72 hours.
+
+On learning of the occurrence of an act of unlawful interference within an airport, the APB shall notify the CAA in accordance with the provisions of the preceding paragraph.
+
+## Article 26
+
+The APB shall, in collaboration with the operator of the airport, establish a contingency plan in respect of acts of unlawful interference occurring at the airport, and shall implement periodic exercises.
+
+## Article 27
+
+An air freight forwarder may become a regulated agent only after it submits the following documents to the APB for approval:
+
+1.Application (as shown in Attachment 4);
+
+2.Photocopy of the license of an air freight forwarder; and
+
+3.Aviation security program.
+
+4.The Police Criminal Records of persons with access to the aviation security program referred in the preceding subparagraph or persons implementing security controls.
+
+The “aviation security program” referred to in Subparagraph 3 of the preceding paragraph shall include the following:
+
+1.Security policy and organization;
+
+2.Security obligations and responsibilities;
+
+3.Scope of business;
+
+4.Characteristics of the place where cargo is accepted, handled and stored;
+
+5.Handling of cargo;
+
+6.Transport of cargo;
+
+7.Inspection of cargo;
+
+8.Supervision and evaluation;
+
+9.Recruitment of security personnel;
+
+10.Training of security personnel;
+
+11.Preservation of records and documents; and
+
+12.Contingency plan in respect of acts of unlawful interference.
+
+The period of validity for the regulated agent referred to in Paragraph I hereof shall be 3 years. The regulated agent shall apply for the extension of the period of validity 3 months prior to the expiry of such period by submitting the documents to the APB described in Paragraph I hereof.
+
+## Article 28
+
+A regulated agent shall maintain and update a list of known shippers and shall ensure that such shippers meet the following criteria:
+
+1.Having conducted business with the regulated agent;
+
+2.Having signed an aviation security declaration; and
+
+3.The cargo has been subjected to security control at all times prior to its delivery to the regulated agent.
+
+The period of validity for the aviation security declaration referred to in Subparagraph 2 of the proceeding paragraph shall not exceed 2 years.
+
+A regulated agent shall keep the list of known shippers and the aviation security declarations of the known shippers for a minimum of 2 years for the purpose of audit and review.
+
+## Article 29
+
+A regulated agent shall ensure that the cargo of a known shipper meets the following criteria before regarding it as known cargo:
+
+1.The cargo is delivered by the personnel entrusted by the known shipper; and
+
+2.The known shipper possesses valid consignment papers; and in case of any modification of the papers, the signature of the known shipper shall be affixed thereto.
+
+## Article 30
+
+A regulated agent shall carry out the following security measures:
+
+1.Check the types, quantities and appearance of the cargo based on the information provided by the known shipper when accepting the known cargo. The known cargo shall be conducted appropriate checks before loading on the aircraft.
+
+2.The cargo that has been classified as unknown cargo shall be regarded as known cargo only after it is delivered to the place designated by the APB for screening;
+
+3.The cargo referred to in the two preceding subparagraphs shall be protected from acts of unlawful interference until it is delivered to and accepted by the air cargo entrepot; and
+
+4.During the course of transport, no vehicle used for transport shall be left unattended or make an unscheduled stop.
+
+## Article 31
+
+In transporting any known cargo, a regulated agent shall ensure that the vehicle used for transport, as well as its driver, meet the following criteria:
+
+1.The vehicle shall be owned by the regulated agent or a motor carrier which has a contractual relationship with the regulated agent; and
+
+2.The driver shall possess valid identification documents.
+
+## Article 32
+
+A regulated agent shall impose restrictions on the personnel and vehicles, and the articles to be carried or transported by such personnel or vehicles that may have access to the place where cargo is accepted, handled and stored.
+
+A regulated agent shall request that a known shipper impose restrictions in accordance with the provisions of the preceding paragraph.
+
+## Article 33
+
+The CAA shall formulate a national civil aviation security quality control program in accordance with the national civil aviation security program and submit it to the Ministry of Transportation and Communications (“MOTC”) for approval prior to its implementation.
+
+The foregoing shall also apply to the modification thereof, if any. The APB, civil air transport enterprise and general aviation service shall formulate its own aviation security quality control program in accordance with the national civil aviation security quality control program and its own aviation security program and submit it to the CAA for approval prior to its implementation.The foregoing shall also apply to the modification thereof, if any.
+
+An air cargo entrepot, airport ground handling service, catering service and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area, as well as a regulated agent, shall formulate its own aviation security quality control program in accordance with the national civil aviation security quality control program and its own aviation security program and submit it to the APB for approval prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+## Article 34
+
+The CAA shall formulate a national civil aviation security training program in accordance with the national civil aviation security program and submit it to the MOTC for approval prior to its implementation. The foregoing shall also apply to the modification thereof, if any.
+
+The APB, civil air transport enterprise and general aviation service shall formulate its own aviation security training program in accordance with the national civil aviation security training program and submit it to the CAA for approval prior to its implementation.The foregoing shall also apply to the modification thereof, if any.
+
+An air cargo entrepot, airport ground handling service, catering service and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area, as well as a regulated agent, shall formulate its own aviation security training program in accordance with the national civil aviation security training program and submit it to the APB for approval prior to its implementaion. The foregoing shall also apply to the modification thereof, if any.
+
+## Article 35
+
+The APB, civil air transport enterprise, general aviation service, air cargo entrepot, airport ground handling service, catering service and other publicly and private owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area, as well as a regulated agent, shall administer security training and tests on their personnel and administer recurrent training and tests every 2 years based on its aviation security training program.
+
+Any person who fails to complete the training and pass the tests described in the preceding paragraph shall not carry out any work related to security control.
+
+The record for the training shall be kept for a minimum of 3 years for the purpose of audit and review.
+
+## Article 36
+
+The CAA may dispatch its personnel to conduct audits, inspections, tests, or assessments in respect of the aviation security measures and aviation security tasks of the APB, civil air transport enterprise and general aviation service.
+
+The APB may dispatch its personnel to conduct audits, inspections and tests in respect of the aviation security measures and aviation security tasks of the various publicly and privately owned institutions operating at an airport and the regulated agent.
+
+## Article 37
+
+Aviation security information shall be kept confidential by every person.
+
+The aviation security information referred to in the preceding paragraph shall include the following:
+
+1.The national civil aviation security program;
+
+2.The airport security programs;
+
+3.The aviation security programs for a civil air transport enterprise, general aviation service, air cargo entrepot, airport ground handling service, catering service, regulated agent, and other publicly and privately owned institutions with operations at an airport connected with a security restricted area of an airport that has an independently guarded entrance connecting a non-security restricted area; and
+
+4.Any and all confidential aviation security information provided by other countries.
+
+## Article 38
+
+The provisions of Articles 6 to 8, 10 to 25, 36 and 37 of this Regulations shall apply to the owner or operator of a foreign aircraft operating within the national territory of the ROC.
+
+## Article 39
+
+This Regulations shall come into force as of the date of its issuance.
+
+## Attachments
+
+- [Attachment 1 Notice of Transfer of The Person Under Escort.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008140)
+- [Attachment 2 Notice of Deportation of Unescorted Deportee.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008141)
+- [Attachment 3 UNLAWFUL INTERFERENCE NOTIFICATION FORM.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008380)
+- [Attachment 4 Regulated Agent Application.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008143)
+
+## History
+
+1.Full text promulgated by the MOTC Order No. 0970085010 on February 25, 2008.
+
+There are 39 Articles in the Regulations.
+
+2.Amendments to Articles 2,7,9~12,23, addition of Article 23-1 promulgated by MOTC Order No. 10150092011 on July 4, 2012
+
+3.Amendments to Articles 9,27,30 promulgated by MOTC Order No. 1110032338 on November 7, 2022
+
+4.Amendments to Attachment 3 promulgated by MOTC Order No. 1130002237 on February 6, 2024

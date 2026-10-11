@@ -1,0 +1,175 @@
+---
+title: "Regulations Governing Capital Adequacy of Insurance Companies"
+title_zh: "保險業資本適足性管理辦法"
+identifier: "G0390051"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-12-20
+last_amended: 2025-12-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390051"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Capital Adequacy of Insurance Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390051-regulations-governing-capital-adequacy-of-insurance-companies.md](../../../zh/regulations/financial-supervisory-commission/G0390051-regulations-governing-capital-adequacy-of-insurance-companies.md)) is authoritative.
+
+## Article 1
+
+These Regulations are formulated in accordance with the provisions of Paragraph 4 of Article 143-4 and Paragraph 3 of Article 148-2 of the Insurance Act (hereinafter referred to as the "Act").
+
+## Article 2
+
+The term "capital resources" as used in the Act are classified into Tier 1 unlimited capital, Tier 1 limited capital and Tier 2 capital.
+
+Tier 1 unlimited capital refers to the total of the following items deducting the amounts of statutory adjustment items set out in the Instructions for Calculating Capital Resources and Risk Capital of Insurance Companies (referred to as the “Calculation Instructions” hereunder):
+
+\1. Total equity: Comprising common shares, shares received in advanced, capital surplus, legal reserve, special reserve, undistributed earnings or accumulated deficit to be offset and other equity;
+
+\2. Other reserves: Comprising special reserve for fluctuation of risk, special reserve for catastrophic events, special reserve for extraordinary business losses, special reserve for participating policies and reserve for foreign exchange valuation; and
+
+\3. The adjustment amount for market-Adjusted Valuation according to the Calculation Instructions.
+
+Tier 1 limited capital refers to the total of the following items deducting the amounts of statutory adjustment items set out in the Calculation Instructions:
+
+\1. Perpetual non-cumulative preferred shares and associated share premium; and
+
+\2. Perpetual non-cumulative subordinated bonds.
+
+Tier 2 capital refers to the total of the following items deducting the amounts of statutory adjustment items set out in the Calculation Instructions:
+
+\1. Cumulative preferred shares and associated share premium;
+
+\2. Perpetual cumulative subordinated bonds;
+
+\3. Cumulative subordinated bonds that have an initial maturity of at least ten years;
+
+\4. Convertible bonds with an initial maturity of at least five years but less than ten years; and
+
+\5. Other adjustments set out in the Calculation Instructions.
+
+Unless it is otherwise provided by the competent authority, the limit of Tier 1 limited capital and Tier 2 capital to be included in the capital resource, and the criteria that the capital instrument shall meet and the deduction items of the above types of capital categories shall be followed in accordance with the Calculation Instructions.
+
+## Article 3
+
+The term "risk capital" as used in the Act refers to the amount of potential adverse change in the capital resources calculated by insurance companies resulting from unexpected changes, events, or other manifestations of specific risks. The categories of risk include the following:
+
+\1. Insurance risk:
+
+(1) Life insurance risk: Mortality risk, longevity risk, morbidity and disability risk, lapse risk and expense risk.
+
+(2) Non-life insurance risk: Premium risk and claims reserve risk.
+
+(3) Catastrophe risk.
+
+\2. Market risk: Interest rate risk, non-default spread risk, equity risk, real estate risk, currency risk and asset concentration risk.
+
+\3. Credit risk.
+
+\4. Operational risk.
+
+\5. Other risks.
+
+The calculations of risk capital for insurance risk, market risk, credit risk, operational risk and other risks shall follow the requirements of the Calculation Instructions.
+
+## Article 4
+
+The term "An insurance company's ratio of  capital resources to risk capital (hereinafter referred to as the "capital adequacy ratio") and the net worth ratio shall not be less than a certain ratio" as used in the Article 143-4 of the Act means shall not be less than the grade of adequate capital as used in the Article 5.
+
+An insurance company's capital adequacy ratio refers to the ratio of  capital resources to risk capital.
+
+The term “the net worth ratio” as used in the Paragraph 1 refers to an insurance company’s total equity divided by its total assets excluding insurance assets in its segregated accounts, except as otherwise provided by the competent authority.
+
+An insurance company shall calculate its capital adequacy ratio and net worth ratio based on its standalone or individual financial statements. If deemed necessary, the competent authority may require an insurance company to provide capital adequacy ratio calculated based on consolidated financial statements.
+
+## Article 5
+
+The grading of an insurance company’s capital is listed as follows:
+
+\1. Adequate capital: the capital adequacy ratio of an insurance company equals or exceeds 100% and the net worth ratio of an insurance company is more than 3% in one of the most recent two periods.
+
+\2. Inadequate capital refers to any of the following circumstances:
+
+(1) The capital adequacy ratio of an insurance company is more than 50% but less than 100%.
+
+(2) The net worth ratio of an insurance company is less than 3% in both of the most recent two periods and more than 2% in at least one period.
+
+\3. Significantly inadequate capital refers to any of the following circumstances:
+
+(1) The capital adequacy ratio of an insurance company is more than 25% but less than 50%.
+
+(2) The net worth ratio for both the most recent two periods of an insurance company is less than 2% and more than 0% in at least one period.
+
+\4. Seriously inadequate capital: the capital adequacy ratio of an insurance company is less than 25% or the net worth of the insurance company is less than zero, as provided in Paragraph 3, Article 143-4 of the Act.
+
+Where an insurance company meets the requirements of two categories at the same time, the lower grade will be regarded as its capital grade according to the classification standards specified in Paragraph 1.
+
+## Article 6
+
+The common shares, preferred shares and subordinated bonds issued by an insurance company in 2024 and thereafter shall be deemed not issuing such capital instruments when calculating the adjusted net capital if the following circumstances occur:
+
+\1. Upon or after issuance, the insurance company makes related investment or financing to the holders of such capital instruments, which impairs the actual effect of such capital instruments.
+
+\2. An investee company over whom the insurance company has significant influence holds such capital instruments.
+
+\3. Subsidiaries of the insurance company or its parent financial holding company hold such capital instruments.
+
+If a capital instrument issued by an insurance company in 2024 and thereafter is invested by its parent financial holding company with external sources of finance, the insurance company should determine the tier of the capital instrument based on the classification of capital instruments issued by it and by its parent company, whichever is lower, unless it is otherwise approved by the competent authority.
+
+## Article 7
+
+Unless it is otherwise provided by the competent authority, insurance companies must report their capital grade related information to the competent authority as follows:
+
+\1. Within three months after the end of each fiscal year, the capital adequacy ratio and the net worth ratio audited by a certified public accountant along with computation sheets and relevant information shall be filed.
+
+\2. Within two months after the end of each half of each fiscal year, the capital adequacy ratio and the net worth ratio audited by a certified public accountant along with computation sheets and relevant information shall be filed.
+
+If necessary, the competent authority may require an insurance company to report its capital adequacy ratio with the relevant information submitted for reference.
+
+The provisions of Paragraph 1 are not applicable to such insurance company as has been taken over by the competent authority pursuant to laws.
+
+## Article 8
+
+Insurance companies shall establish the mechanism for their own risk and solvency assessment and provide strategies for maintaining capital adequacy.
+
+Insurance companies shall, in accordance with the requirements of the competent authority, report the results of their own risk and solvency assessment along with relevant information to an entity designated by the competent authority within the specified time limit.
+
+The competent authority may, in view of an insurance company’s results of own risk and solvency assessment, require the company to improve its risk management or adjust its business constitution. If the insurance company fails to make improvement within the time limit specified by the competent authority, the competent authority may require the company to raise its risk capital or propose a capital restructuring plan with a specified time limit.
+
+The information that is required to be reported and reporting date in Paragraph 2 will be further provided by the competent authority.
+
+## Article 9
+
+Insurance companies must disclose their capital adequacy ratio and net worth ratio each half of each fiscal year and each fiscal year in accordance with the provisions of Regulations Governing Public Disclosure of Information by Life Insurance Companies or Non-life Insurance Companies.
+
+An insurance company shall not use the information about its capital grade for improper comparison, propaganda or competition in its business operations, nor shall it have its insurance agents engaging in unfair business competition.
+
+The self-discipline codes regarding "improper comparison, propaganda or competition" and "insurance agents engaging in unfair business competition" shall be formulated by the Insurance Associations.
+
+## Article 10
+
+These Regulations shall enter into force on January 1, 2026.
+
+## History
+
+1.All 6 articles were promulgated on December 20, 2001 per Order Ref. 90-Tai-Tsai-Bao 0900751413 of the Ministry of Finance. Enforce from July 9, 2003.
+
+2.All 9 articles were amended on December 28, 2007 per Order Ref. Jin-Guan-Bao-Yi 09602506421 of the Financial Supervisory Commission. Enforce from January 1, 2008.
+
+3.Articles 5 and 9 were amended on November 2, 2011 per Order Ref. Jin-Guan-Bao-Tsai 10002515291 of the Financial Supervisory Commission. Enforce from January 1, 2012.
+
+4.All 10 articles were amended on May 18, 2015 per Order Ref. Jin-Guan-Bao-Tsai 10402503001 of the Financial Supervisory Commission. Enforce from January 1, 2016.
+
+5.Article 5, 6, 9 and 10 were amended on December 4, 2019 per Order Ref. Jin-Guan-Bao-Tsai 10804960001 of the Financial Supervisory Commission. Enforce from April 1, 2020.
+
+6.All 10 articles were amended on September 30, 2021 per Order Ref. Jin-Guan-Bao-Tsai 11004937871 of the Financial Supervisory Commission. The amendments shall enter into force from the date of promulgation.
+
+7.Article 2, 4, and 10 were amended, and 2-1 is added on August 4, 2023 per Order Ref Jin-Guan-Bao-Tsai 11204924051 of the Financial Supervision Commission; The amendments shall enter into force from the date of promulgation, except for Article 2, 2-1, and 4 which shall enforce from December 31, 2023.
+
+8.All 10 articles were amended on December 24, 2025 per Order Ref. Jin-Guan-Bao-Tsai 11404948751 of the Financial Supervisory Commission. Enforce from January 1, 2026.

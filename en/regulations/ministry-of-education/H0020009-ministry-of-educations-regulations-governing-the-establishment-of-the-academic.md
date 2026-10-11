@@ -1,0 +1,179 @@
+---
+title: "Ministry of Education’s Regulations Governing the Establishment of the Academic Award"
+title_zh: "教育部設置學術獎辦法"
+identifier: "H0020009"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞高等教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1962-04-29
+last_amended: 2025-10-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0020009"
+retrieved: 2026-10-12
+---
+
+# Ministry of Education’s Regulations Governing the Establishment of the Academic Award
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0020009-ministry-of-educations-regulations-governing-the-establishment-of-the-academic.md](../../../zh/regulations/ministry-of-education/H0020009-ministry-of-educations-regulations-governing-the-establishment-of-the-academic.md)) is authoritative.
+
+## Article 1
+
+The Ministry of Education(hereunder the “Ministry” ) has established the Academic Awards in order to encourage academic research and enhance academic standards.
+
+## Article 2
+
+The Academic Awards shall be conferred on persons who have actively engaged in academic research in Taiwan, and have made important contributions or achieved outstanding accomplishments, and whose work is recognized by the academic community. A candidate who does not hold Republic of China nationality shall have been employed in a full-time position in Taiwan at a junior college, tertiary level educational institution, or an academic research institute for at least five years.
+
+A candidate for an Academic Award is not permitted to be a person to whom any of the situations referred to in the subparagraphs of Article 14, Paragraph 1 or in the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertains.
+
+## Article 3
+
+The Academic Awards are awarded annually. A maximum total of eighteen people each year may receive an Academic Award. The number available in each different disciplinary category is stipulated in Article 6, Subparagraph 1. There is an annual quota of three recipients in the Humanities and Arts category, three recipients in the Social Sciences category, and four recipients in each of the three other disciplinary categories.
+
+The deadline for submitting recommendations for the Academic Awards will be announced by the Ministry.
+
+## Article 4
+
+Recommendations of a person to be an Academic Award candidate shall be made by persons other than the candidate and shall be in accordance with one of the following provisions:
+
+\1. Be made by the president of a public or private junior college, or of a higher-level educational institution;
+
+\2. Be made by the person in charge of a public or private academic research institute;
+
+\3. Be made by an Academician of Academia Sinica; or
+
+\4. Be jointly made by five professors in an associated academic field.
+
+## Article 5
+
+Each person recommending a candidate for an Academic Award shall complete their recommendation using the prescribed format and submit the recommendation, together with relevant publications and documents, to the Ministry within the prescribed period. A candidate who is employed as a full-time teacher at a junior college or a higher-level educational institution , or as a full-time research fellow at an academic research institute, shall first be reviewed by the junior college, higher-level educational institution , or institute where they are employed, which shall then submit a report to the Ministry. A junior college, higher-level educational institution , or an academic research institute may recommend up to four people in each disciplinary category, and the selections shall be made by the Ministry.
+
+A recommendation for a candidate for an Academic Award who has been conferred a Presidential Science Prize, or The Executive Yuan Award for Outstanding Science and Technology Contribution, or who has received a National Science and Technology Council Outstanding Research Award twice, which has been co-signed by two people in the same disciplinary category as the person recommended but not including that person, each of whom is either an Academician of Academia Sinica or a recipient of a National Chair Professorship, shall be submitted to the Ministry by the junior college, higher-level educational institution , or academic research institute where the person is employed, together with its other recommendations, after the junior college, higher-level educational institution , or academic research institute has approved the recommendation. The number of recommendations of this nature is not counted toward the quotas stipulated in the preceding paragraph. However, the maximum number of additional recommendations of this nature permitted for each disciplinary category is the same as the maximum number for each disciplinary category in those quotas.
+
+## Article 6
+
+The Ministry shall select the Academic Award recipients in accordance with the following procedure:
+
+\1. A separate Review Board will be set up for each of five disciplinary categories, based on different academic fields: the Humanities and Arts; Social Sciences; Mathematics and Natural Sciences; Biology, and Medical and Agricultural Science; and Engineering and Applied Science. From nine to eleven prestigious scholars and experts shall be appointed to be the members of each Review Board. The Standing Committee of the Ministry of Education’s Academic Review Committee shall designate the convener of each Review Board.
+
+\2. Each Review Board shall conduct its first review after undertaking a detailed examination of the academic research and teaching performance of each of the recommended candidates, and fully discussing each.
+
+\3. Each Review Board shall forward all the material pertaining to each recommended candidate who has passed the first review to three or four scholars or experts for further evaluation, after which it will conduct its second review. Each Review Board will then give its recommendations of candidates for an Academic Award to the Standing Committee.
+
+\4. The Standing Committee shall review and discuss the results of each evaluation of each of the recommended candidates referred to in the preceding subparagraph, and then draw up and submit a list of candidates for an Academic Award to a meeting of all members of the Academic Review Committee to discuss and deliberate over.
+
+\5. A meeting that shall be attended by at least half of its members of the Academic Review Committee shall vote on the list of candidates that resulted from the deliberations at the meeting of all members of the Academic Review Committee and the Academic Award recipients are selected based on the number of votes received by each of those candidates in accordance with one of the following provisions:
+
+(1)At least two thirds of the members present give their approval; or
+
+(2)More than half of the members present give their approval, and at least half of the members in the same disciplinary category as the candidate recommended for a National Chair Professorship are present and at least two thirds of those members give their approval.
+
+\6. If any Academic Award remains without being conferred on a candidate after the selection procedure, the members present at the meeting of the Academic Review Committee attended by at least half of its members may continue and cast a further ballot if a majority of the members present at the meeting agrees to do so. If the second ballot still fails to result in any candidate receiving the required number of votes stipulated in the preceding subparagraph, the Academic Award in question shall not be conferred that year.This is the same content as Article 6-1, Paragraph 1, Subparagraph 1: it has mistakenly been placed here at the end of Article 6 as well.
+
+## Article 6-1
+
+The recusal of members of the Academic Review Committee from review and ballot-casting procedures shall be handled in accordance with the following provisions:
+
+1.If a member of the Academic Review Committee is one of the candidates currently recommended for an Academic Award, that person shall recuse themself from  all review and ballot-casting procedures.
+
+2.If any one of the circumstances listed below pertains to any member of the Academic Review Committee and to any candidate currently recommended for an Academic Award, the member shall disclose the circumstances to the Committee. That member may participate in the review process but shall recuse themself  from the ballot-casting procedure.
+
+(1)The committee member and the candidate have had a teacher-student relationship in which the committee member was an advisor for the candidate’s doctoral or master’s degree thesis;
+
+(2)The committee member and the candidate both hold a position in the same department, institute, or division, or in another unit of an equivalent-level;
+
+(3)The committee member and the candidate have co-authored an academic paper or research findings published within the past two years.
+
+(4)The committee member and the candidate have jointly conducted a research project within the past three years.
+
+(5)Any of the circumstances referred to in the provisions of Article 32 and Article 33 of the Administrative Procedure Act.
+
+3.If any member of the Academic Review Committee has or has had some relationship with any candidate recommended for a National Chair Professorship, apart from those relationships listed in the subparagraphs above, all of which must be disclosed, the member may disclose it to the Academic Review Committee of their own volition, and the Academic Review Committee will then discuss whether recusal is necessary and pass a resolution.
+
+## Article 7
+
+Recipients of an Academic Award shall be awarded a certificate of honor and a grant of NT$900,000.
+
+A person who has previously been conferred an Academic Award is not permitted to be recommended again.
+
+## Article 7-1
+
+If any of the circumstances referred to below pertained to an Academic Award recipient before the Academic Award was conferred on them, the Ministry shall submit the matter to the Academic Review Committee for deliberation and if it passes a resolution approving the disciplinary measure, the Ministry shall declare the person’s eligibility to receive an Academic Award null and void, and require the person to return the certificate of honor they were given and the grant they were paid in accordance with the provisions of Paragraph 1 of the preceding article:
+
+1.Any of the situations referred to in the subparagraphs of Article 14, Paragraph 1 or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertains to them, and they were dismissed.
+
+2.They were involved in a violation of academic ethics that would have adversely affected the decision to select them.
+
+3.Any material presented during their selection procedure contained false or incorrect details that would have adversely affected the decision to select them.
+
+If either of the circumstances referred to in the subparagraphs below pertains to an Academic Award recipient after the Academic Award has been conferred on them, the Ministry shall submit the matter to the Academic Review Committee for deliberation and if it gives approval, the Ministry shall revoke the person’s eligibility to be an Academic Award recipient and require the person to return the certificate of honor that they were given in accordance with the provisions of Paragraph 1 of the preceding article:
+
+1.Any of the situations referred to in the subparagraphs of Article 14, Paragraph 1 or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act pertains to them, and they have been dismissed.
+
+2.They have become involved in a violation of academic ethics and the circumstances are serious.
+
+If an Academic Award recipient does not have the status of teacher, and the institution (or agency) at which they are employed or a related committee constituted in accordance with the law has investigated and verified that they were engaged In conduct referred to in any of the subparagraphs of Article 14, Paragraph 1 or or the subparagraphs of Article 15, Paragraph 1 of the Teachers’ Act, the Ministry shall submit the matter to the Academic Review Committee for deliberation and if it passes a resolution supporting the disciplinary measure, the Ministry shall declare the person’s eligibility to be an Academic Award recipient null and void or revoke their eligibility, and handle the matter in accordance with the provisions of the preceding two paragraphs.
+
+The procedures for the Ministry to declare a person’s eligibility to be an Academic Award recipient null and void or revoke their eligibility, in accordance with the provisions of Paragraph 1 to Paragraph 3, are as follows:
+
+1.To declare a person’s eligibility to be an Academic Award recipient null and void pursuant to Paragraph 1, Subparagraph 1, or Paragraph 3, or to revoke a person’s eligibility to be an Academic Award recipient pursuant to Paragraph 2,Subparagraph 1, or Paragraph 3: the Ministry shall submit the matter to the Academic Review Committee for deliberation.
+
+2.To declare a person’s eligibility to be an Academic Award recipient null and void pursuant to Paragraph 1, Subparagraph 2 or Subparagraph 3, or to revoke a person’s eligibility to be an Academic Award recipient pursuant to Paragraph 2, Subparagraph 2: an investigation team organized by the Ministry shall investigate the matter, and after the investigation team makes its professional judgement, it shall draw up and submit a written report of its investigation to the Academic Review Committee for deliberation.
+
+3.The deliberation procedures referred to in the two preceding subparagraphs shall be conducted at meetings of the Academic Review Committee attended by at least half of its members, and a resolution approving the disciplinary measure will be passed if at least two-thirds of the members present vote in favor.
+
+## Article 8
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Promulgated on April 29, 1962
+
+\2. Amended on December 15, 1969
+
+\3. Amended on September 3, 1973
+
+\4. Amended on March 17, 1976
+
+\5. Amended on January 25, 1978
+
+\6. Amended on April 29, 1980
+
+\7. Amended on December 18, 1981
+
+\8. Amended on April 1, 1987
+
+\9. Amended on April 29, 1988
+
+\10. Amended on February 11, 1991
+
+\11. Amended on February 7, 1992
+
+\12. Amended on February 27, 1995
+
+\13. Amended on February 28, 1996
+
+\14. Amended on May 21, 1997
+
+\15. Amended on March 2, 2004
+
+\16. Amended on October 3, 2006
+
+\17. Amendment of Article 2, promulgated on January 8, 2008
+
+\18. Amended on March 19, 2013
+
+\19. Amendment to all articles, promulgated on March 23, 2017
+
+\20. Amended on December 3, 2020
+
+\21. Amended on October 13, 2021
+
+\22. Amended on November 24, 2023
+
+\23. Amended on October 31, 2025

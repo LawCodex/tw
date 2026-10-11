@@ -1,0 +1,137 @@
+---
+title: "Regulations Governing CPA Continuing Professional Education"
+title_zh: "會計師持續專業進修辦法"
+identifier: "G0400145"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-07-23
+last_amended: 2024-12-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400145"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing CPA Continuing Professional Education
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400145-regulations-governing-cpa-continuing-professional-education.md](../../../zh/regulations/financial-supervisory-commission/G0400145-regulations-governing-cpa-continuing-professional-education.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 13, paragraph 1 of the Certified Public Accountant Act (the “CPA Act”).
+
+## Article 2
+
+To organize CPA continuing professional education, the National Federation of Certified Public Accountant Associations of the R.O.C. (NFCPAA) shall, pursuant to Article 60 of the CPA Act, establish a Professional Education Committee to be in charge of matters related to planning, implementation, and supervision.
+
+For the CPA continuing professional education courses that it organizes, the NFCPAA may collect continuing education fees from the trainees, based on the nature and content of the courses and with consideration to market prices.
+
+## Article 3
+
+The scope of CPA continuing professional education includes the following:
+
+\1. Certified Public Accountant Act and related laws and regulations and cases from practice.
+
+\2. CPA legal liability and CPA code of professional ethics.
+
+\3. Company Act, Business Registration Act, Business Mergers and Acquisitions Act, Trademark Act, and related laws and regulations, and company and business registration and trademark registration practice.
+
+\4. Business Accounting Act and related laws and regulations, and generally accepted accounting principles, and bookkeeping practice.
+
+\5. Regulations Governing Auditing and Attestation of Financial Statements by Certified Public Accountants, Regulations Governing Financial Statement Audit and Attestation Engagements of Certified Public Accountants, the Standards on Quality Management (TWSQM) and the Auditing Standards Committee's Engagement Standards issued by the Accounting Research and Development Foundation, and auditing and attestation practice.
+
+\6. Securities and Exchange Act, and securities or futures related laws and regulations and practice.
+
+\7. Tax Collection Act, Value-Added and Non-Value-Added Business Tax Act, Land Tax Act, Estate and Gift Tax Act, and related laws and regulations and tax reporting practice.
+
+\8. Income Tax Act, Guidelines for the Audit of Income Taxes on Profit-Making-Enterprises, and related laws and regulations and tax return filing and auditing practices.
+
+\9. Paid-in capital auditing and attestation practice.
+
+\10. Administrative Procedure Act and Code of Administrative Procedure.
+
+\11. Valuation Standards Gazette and asset valuation practice.
+
+\12. Laws and regulations and practice related to anti-money laundering and countering the financing of terrorism.
+
+\13. Other courses related to CPA professional practice.
+
+## Article 4
+
+A CPA who has obtained a practice registration shall take part in continuing professional education. The institutions responsible for administering, and the scope of, continuing professional education are as follows:
+
+\1. Instructive lectures or discussion symposiums organized by the NFCPAA Professional Education Committee.
+
+\2. Serving as instructor, key speaker, panelist, or host for instructive lectures or discussion symposiums under the preceding subparagraph.
+
+\3. Enrolling in formal education in a graduate institute, or workshops, or courses, related to CPA expertise, and obtaining a certificate of credit or a certificate of completion.
+
+\4. Serving as a lecturer in a public or private university or junior college or higher level school established with the approval of the Ministry of Education, and lecturing in courses related to CPA expertise, and having obtained documentation thereof.
+
+\5. Continuing professional education conducted by a CPA firm itself following submission to and approval from the NFCPAA Professional Education Committee.
+
+\6. Writings or translations related to CPA expertise that are published in newspapers, journals, or CPA newsletters duly registered with the competent authority in charge of news media, or that are published by a registered publisher, or that are copyrighted.
+
+\7. Participation in a research project of, or professional research commissioned by, the competent authority or a relevant regulatory authority or the NFCPAA for which a research report has been written.
+
+\8. An institution approved by the NFCPAA Professional Education Committee, and the lectures or symposiums organized thereby.
+
+\9. Other continuing professional education recognized by the NFCPAA Professional Education Committee.
+
+## Article 5
+
+CPA continuing professional education is calculated in continuing professional education hours (CPE hours), which are recorded and maintained in files by the NFCPAA Professional Education Committee. The number of CPE hours taken each year may not be less than 40 hours, among which the CPE hours under subparagraphs 1 and 2 of the preceding article may not be less than 14 hours; and also among which, the CPE hours in laws and regulations and practice related to anti-money laundering and countering the financing of terrorism under subparagraph 12 of Article 3 may not be less than 3 hours.
+
+For CPAs that do not perform financial attestation for public companies, the annual requirements for the minimum number of 40 CPE hours and among those the minimum number of 14 CPE hours under subparagraphs 1 and 2 of the preceding article are reduced by one-half.
+
+The requirements regarding minimum numbers of CPE hours under the preceding two paragraphs do not apply during the year in which a CPA's first application for practice registration is made.
+
+A CPA may not take less than 3 hours every two years of CPE in the subject of the CPA code of professional ethics under Article 3, subparagraph 2, administered by an administering institution under subparagraph 1, 2, or 8 of the preceding article.
+
+In any case of uncompleted CPE hours to be made up which were incurred prior to the enforcement of the amendment to this article, the number of make-up hours required shall be calculated according to the provisions prior to enforcement of the amendment.
+
+When there are uncompleted CPE hours to be made up, CPE hours taken during the new year shall first be counted toward the previously required make-up hours.
+
+## Article 6
+
+The minimum CPE hours set forth in the preceding Article shall be filed with the NFCPAA for recordation by the following methods:
+
+\1. For lectures or symposiums under Article 4, subparagraphs 1 and 2, the NFCPAA shall carry out the filing and recordation itself.
+
+\2. For CPE hours under Article 4, subparagraphs 3 to 7, the CPA shall, by the end of January in the following year, submit a report on the CPE hours for the preceding year along with documentary proof to the NFCPAA for recordation and filing.
+
+\3. For lectures or symposiums under Article 4, subparagraph 8, the administering institution shall, within one month after the end of the lecture or symposium, compile the information in bound form and submit it along with documentary proof to the NFCPAA for recordation and filing.
+
+\4. For CPE hours under Article 4, subparagraph 9, the CPA shall, by the end of January in the following year, submit a report on the CPE hours for the preceding year along with documentary proof to the NFCPAA for recordation and filing.
+
+## Article 7
+
+CPAs who have not met the minimum CPE hour requirements under Article 5 shall individually be given notice by the NFCPAA by the end of March of the following year, requesting that they complete make-up hours within 3 months. If the make-up hours are not completed within the time limit, the NFCPAA shall report to the competent authority and request that it suspend professional practice by the CPA. If the CPA has not completed the make-up hours within 1 year from the date of suspension of practice, the NFCPAA shall report to the competent authority within 2 months after expiration of the time limit and request that it void or revoke the CPA’s practice registration.
+
+## Article 8
+
+If the competent authority suspends professional practice by a CPA under the preceding article, the CPA, after completing the make-up hours, may apply to the NFCPAA to report to the competent authority requesting reinstatement of professional practice by the CPA. The NFCPAA, within 5 days after receiving the application, shall report to the competent authority and request reinstatement of professional practice by the CPA.
+
+## Article 9
+
+If the competent authority voids or revokes a CPA’s practice registration under Article 14, paragraph 1, subparagraph 5 of the CPA Act, the CPA, after completing the make-up hours, shall re-apply for practice registration under paragraph 2 of the same article, and the provisions of the preceding article herein shall not apply.
+
+## Article 10
+
+These Regulations shall enter into force from the date of issuance, except for the articles amended on 23 December 2019, which shall enter into force from 1 January 2020, and Article 5 amended on 9 December 2024, which shall enter into force from 1 January 2025.
+
+## History
+
+\1. Full text of 16 Articles adopted and issued per 23 July 2008 Order Financial-Supervisory-Securities-VI-0970035484 of the Financial Supervisory Commission, Executive Yuan; for enforcement from the date of issuance, except for Chapter III, which shall enter into force from 1 January 2009
+
+\2. Articles 11 and 16 amended and issued per 6 August 2013 Order No. Financial-Supervisory-Securities-Auditing-1020028821 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Article 11, which shall enter into force from 1 January 2013
+
+\3. Regulation name and full text of 10 articles amended and issued per 8 August 2018 Letter No. Financial-Supervisory-Securities-Auditing-1070326688 of the Financial Supervisory Commission (Original name: Regulations Governing CPA Pre-Professional Training and Continuing Professional Education; new name: Regulations Governing CPA Continuing Professional Education)
+
+\4. Articles 3, 5, and 10 amended and issued per 23 December 2019 Order No. Financial-Supervisory-Securities-Auditing-1080361721 of the Financial Supervisory Commission; for enforcement from 1 January 2020
+
+\5. Articles 3, 5, and 10 amended and issued per 9 December 2024 Order No. Financial-Supervisory-Securities-Auditing-1130386038 of the Financial Supervisory Commission; for enforcement from the date of issuance, except for Article 5, which shall enter into force from 1 January 2025

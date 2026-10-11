@@ -1,0 +1,143 @@
+---
+title: "Regulations for the Conscription of Naturalized Citizens and Returning R.O.C.（Taiwan） nationals residing overseas"
+title_zh: "歸化我國國籍者及歸國僑民服役辦法"
+identifier: "D0040005"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞役政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1956-08-23
+last_amended: 2025-09-05
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0040005"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Conscription of Naturalized Citizens and Returning R.O.C.（Taiwan） nationals residing overseas
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0040005-regulations-for-the-conscription-of-naturalized-citizens-and-returning-r-o-c.md](../../../zh/regulations/ministry-of-the-interior/D0040005-regulations-for-the-conscription-of-naturalized-citizens-and-returning-r-o-c.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Article 23 of the Enforcement Act of the Act of Military Service System.
+
+## Article 2
+
+A male of conscription age who has naturalized as a citizen of the Republic of China shall be subject to conscription one year after the day following the date of his initial household registration.
+
+## Article 3
+
+A male of conscription age who is a national with household registration status and holds R.O.C.（Taiwan） national residing overseas status shall be subject to conscription one hundred and eighty-three days after the day following the date of his return to the Republic of China. However, this shall not apply to those who fail to comply with the provisions of Paragraphs 1 and 3 of Article 5.
+
+A male of conscription age who is a national without household registration and holds R.O.C.（Taiwan） national residing overseas status shall be subject to conscription one hundred and eighty-three days after the day following the date of his initial household registration in the Republic of China.
+
+## Article 4
+
+The calculation of one hundred and eighty-three days as referred to in Paragraph 1 of the preceding Article shall be based on either of the following:
+
+1.Continuous residence for one hundred and eighty-three days commencing from the day following the date of return to the Republic of China.
+
+2.Accumulated residence for one hundred and eighty-three days within a single calendar year (January 1 to December 31), commencing from the day following the date of return to the Republic of China.
+
+The calculation of one hundred and eighty-three days as referred to in Paragraph 2 of the preceding Article shall be based on either of the following:
+
+1.Continuous residence for one hundred and eighty-three days commencing from the day following the date of initial household registration in the Republic of China.
+
+2.Accumulated residence for one hundred and eighty-three days within a single calendar year (January 1 to December 31), commencing from the day following the date of initial household registration in the Republic of China.
+
+For the purposes of the preceding two paragraphs, periods of residence shall be calculated based on both entry records with the passport of the Republic of China and foreign passports of held by male returning R.O.C（Taiwan） nationals residing overseas of conscription age.
+
+The following periods shall not be counted as residence under the preceding paragraph:
+
+1.Periods during which a returning R.O.C.（Taiwan） nationals residing overseas male of conscription age returns to Taiwan for study and meets the conditions for deferred conscription.
+
+2.Periods of residence attributable to reasons not imputable to a returning R.O.C.（Taiwan） nationals residing overseas male of conscription age, such as disasters as defined in Subparagraph 1 of Article 2 of the Disaster Prevention and Protection Act, or communicable diseases as defined in Paragraph 1 of Article 3 of the Communicable Disease Control Act, provided such periods are approved by the Ministry of the Interior upon application by the local municipal or county (city) government.
+
+## Article 5
+
+A male of conscription age as referred to in Paragraph 1 of Article 3 shall, prior to departure from the Republic of China after returning, submit the following documents either by uploading them to the Online Platform for Exit Application of R.O.C.（Taiwan） national residing overseas Males of Conscription Age or in written form to the National Immigration Agency of the Ministry of the Interior:
+
+1.His passport of the Republic of China.
+
+2.His foreign passport (or overseas permanent or long-term residence permit).
+
+3.A valid Overseas Compatriot Identity Certificate issued for the purpose of conscription administration. If such certificate was already submitted upon a previous return and remains valid, resubmission is not required.
+
+4.Documentary proof showing residence in the overseas domicile within four months prior to the latest return, such as passport stamps, entry/exit records, or tickets of transportation actually used by the individual. If such documents were already submitted upon a previous return and remain within the valid four-month period prior to the latest entry, resubmission is not required.
+
+A male of conscription age under Paragraph 1 of Article 3 who fails to complete the foregoing procedure upon entry may apply for exit as a general male of conscription age pursuant to Subparagraph 7, Paragraph 1 of Article 4 of the Regulations for Exit of Draftees, and shall re-enter the Republic of China within four months after departure.
+
+Such males may alternatively complete the procedure specified in Paragraph 1 within four months after departure; upon approval, they shall not be subject to the foregoing requirement of re-entry within four months.
+
+A male of conscription age as referred to in Paragraph 2 of Article 3 shall, after initial household registration, submit his ROC passport, foreign passport (or overseas permanent or long-term residence permit), and valid Overseas Compatriot Identity Certificate issued for the purpose of conscription administration to the local household registration office.
+
+Where documents submitted pursuant to Paragraphs 1, 3, and 4 are prepared in a foreign language, the individual shall provide a Chinese translation thereof.
+
+## Article 6
+
+Where a male of conscription age is compelled to temporarily reside in the Republic of China due to denial of entry by the government of the overseas domicile, or for political, economic, or environmental reasons, or due to war in the overseas domicile, as certified by the competent authority of foreign affairs or overseas community affairs, he may submit an application for temporary suspension of conscription to the local household registration office, which shall forward it to the municipal or county (city) government for approval.
+
+The temporary suspension of conscription referred to in the preceding paragraph shall not exceed six months. If the cause continues upon expiration, supporting documents shall be provided for re-application.
+
+## Article 7
+
+A returning R.O.C.（Taiwan） nationals residing overseas male of conscription age who enters with a foreign passport shall be subject to the provisions of these Regulations.
+
+A male who originally held the status of  R.O.C. (Taiwan) national residing overseas from Hong Kong or Macau shall also be subject to the provisions of these Regulations regarding returning R.O.C. (Taiwan) nationals residing overseas, provided that he meets one of the following conditions and has obtained certification from the competent overseas community affairs authority:
+
+1.He returned to the Republic of China (Taiwan) from Hong Kong before July 1, 1997, or from Macau before December 20, 1999, with the status of an R.O.C. (Taiwan) national residing overseas for the purpose of initial household registration, and has obtained permanent residency in Hong Kong or Macau.
+
+2.He was born in the Taiwan Area and had household registration, resided in Hong Kong before July 1, 1997 or in Macau before December 20, 1999 for more than four years, and obtained permanent residence in Hong Kong or Macau.
+
+## Article 8
+
+Where approval for temporary suspension of conscription has been granted, the male shall report to the local household registration office within thirty days from the day following the disappearance of the cause or the expiration of the suspension period.
+
+## Article 9
+
+The status of a returning R.O.C.（Taiwan） nationals residing overseas shall be determined based on possession of a valid Overseas Compatriot Identity Certificate issued for the purpose of conscription administration issued by the competent overseas community affairs authority.
+
+## Article 10
+
+Males of conscription age referred to in Paragraphs 1 and 2 of Article 3 who returned to the Republic of China prior to the amendment and enforcement of these Regulations on September 8, 2025, and who have not departed thereafter, shall be subject to the provisions of Article 3, Paragraphs 1 and 2, Article 4, Paragraph 1, and Article 7 as in force prior to amendment, and not to the amended Articles 3, 4 (Paragraphs 1 to 3), 5, and 9.
+
+## Article 11
+
+These Regulations shall enter into force on September 8, 2025.
+
+## History
+
+1.Promulgated on August 23, 1956
+
+2.Amended on September 17, 1957
+
+3.Amended on March 23, 1959
+
+4.Amended on June 23, 1964
+
+5.Amended on October 07,1964
+
+6.Amended on January 16, 1970
+
+7.Amended on December 07, 1971
+
+8.Amended on October 19, 1972
+
+9.Amended on July 05, 1978
+
+10.Amended on March 26, 1980
+
+11.Amended on April 12, 1983
+
+12.Amended on May 09, 1990
+
+13.Amended on June 16, 1993
+
+14.Amended on October 09, 1996
+
+15.Amended on December 30, 2002
+
+16.Amended and promulgated on September 5, 2025

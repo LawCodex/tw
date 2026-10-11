@@ -1,0 +1,151 @@
+---
+title: "Regulations Governing Collection of Quarantine Fees at Ports"
+title_zh: "港埠檢疫費用徵收辦法"
+identifier: "L0050024"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞疾病管制目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-02-27
+last_amended: 2024-10-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050024"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Collection of Quarantine Fees at Ports
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0050024-regulations-governing-collection-of-quarantine-fees-at-ports.md](../../../zh/regulations/ministry-of-health-and-welfare/L0050024-regulations-governing-collection-of-quarantine-fees-at-ports.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 3, Article 59 of the Communicable Disease Control Act.
+
+## Article 2
+
+Quarantine fees set out in these Regulations are as follows:
+
+\1. Vaccination fees, fees for malaria preventive medicines, and fees for medicines against amebiasis.
+
+\2. Certification fees:
+
+\1) Fees for international certificate of vaccination.
+
+\2) Fees for Ship Sanitation Control Certificate or Ship Sanitation Control Exemption Certificate.
+
+\3) Fees for certificate permitting export (departure) of remains
+
+\3. Sanitation quarantine fees: fees for sanitation quarantine of ships
+
+Fees under Subparagraph 1, and Items 1) and 3) of Subparagraph 2 of the preceding Paragraph will be collected from persons applying for international certificate of vaccination, preventive medicines for malaria, medicines against amebiasis, or permission for export (departure) of remains. However, fees for medicines against amebiasis will be collected only from aliens.
+
+Fees under Item 2) of Subparagraph 2 and Subparagraph 3 of Paragraph 1 hereof are collected from owners, managers or agents of transportation means entering or exiting the country (border).
+
+Targets for collection of fees under the preceding two Paragraphs, when applying, shall carry with them notice of payment or billing statement issued by the Centers for Disease Control under the Ministry of Health and Welfare (hereinafter referred to as the “CDC”) to pay the fees at the national treasury, or a commissioned bank or collection institution of the national treasury. Fees meeting the provisions of Article 5 of the National Treasury Act can be paid at the CDC or a medical care institution commissioned by the central competent authority.
+
+## Article 3
+
+The term “tonnage” used in these Regulations means the total tonnage of the ship indicated on the certificate of ship's nationality or the yacht certificate.
+
+The term “passenger ship" used in these Regulations means a non-small ship that carries more than 12 passengers, and is intended for carrying passengers as defined in Subparagraph 2, Article 3 of the Law of Ships.
+
+## Article 4
+
+Vaccination or medication fees shall be charged according to the following standards:
+
+\1. Yellow fever vaccination: the cost of each dose is the procurement cost plus an administrative fee of NT$180.
+
+\2. Meningococcal meningitis vaccination: the cost of each dose is the procurement cost plus an administrative fee NT$180.
+
+\3. Mpox vaccination: the cost of each dose is the procurement cost plus an administrative fee NT$180.
+
+\4. Typhoid vaccination: the cost of each dose is the procurement cost plus an administrative fee of NT$180.
+
+\5. Polio vaccination: the cost of each dose is the procurement cost plus an administrative fee of NT$180.
+
+\6. Malaria prevention medication: the cost of each tablet is the procurement cost plus an administrative fee of NT$25.
+
+\7. Amebiasis medication: the cost of each tablet is the procurement cost plus an administrative fee of NT$10.
+
+The procurement costs and fees charged for the vaccinations and medications mentioned in the preceding paragraph will be announced by the central competent authority and published in the Executive Yuan Gazette.
+
+## Article 5
+
+Fees for an International Certificate of Vaccination or Prophylaxis shall be NT$210 for initial issuance or re-issuance and NT$160 for each additional issuance.
+
+## Article 6
+
+Fees for a Ship Sanitation Control Certificate or Ship Sanitation Control Exemption Certificate shall be calculated by the tonnage of the ship and collected according to the following standards:
+
+\1. Under 1,000 tons: NT$ 3,600 per certificate;
+
+\2. More than 1,000 tons up to 10,000 tons: NT$ 6,000 per certificate for passenger ships; NT$4,800 per certificate for other types of ships;
+
+\3. More than 10,000 tons up to 50,000 tons: NT$ 7,550 per certificate for passenger ships; NT$6,000 per certificate for other types of ships; and
+
+\4. More than 50,000 tons: NT$ 9,000 per certificate for passenger ships; NT$7,200 per certificate for other types of ships.
+
+## Article 7
+
+The fee for the re-issuance, renewal, extension, release, or change of name or nationality of a Ship Sanitation Control Certificate or Ship Sanitation Control Exemption Certificate shall be NT$1,200 each.
+
+## Article 8
+
+Fees for certificates permitting the export (departure) of remains or other certificates shall be NT$250 per certificate.
+
+## Article 9
+
+Fees for sanitary quarantine of ships shall be calculated based on each entry into the country (border) and shall be collected according to the following standards:
+
+\1. Fees for quarantine by review: NT$ 1,150 per ship for quarantine by review conducted via electronic communication; NT$1,050 per ship for quarantine by review conducted via the Single Window Service Platform of the port.
+
+\2. On-board quarantine fees:
+
+\1) Under 1,000 tons: NT$ 1,440 per ship;
+
+\2) More than 1,000 tons up to 5,000 tons: NT$ 2,280 per ship for passenger ships; NT$1,800 per ship for other types of ships;
+
+\3) More than 5,000 tons up to 10,000 tons: NT$3,000 per ship for passenger ships; NT$2,400 per ship for other types of ships;
+
+\4) More than 10,000 tons up to 30,000 tons: NT$3,850 per ship for passenger ships; NT$3,000 per ship for other types of ships;
+
+\5) More than 30,000 tons up to 50,000 tons: NT$5,300 per ship for passenger ships; NT$4,200 per ship for other types of ships; and
+
+\6) More than 50,000 tons: NT$7,550 per ship for passenger ships; NT$6,000 per ship for other types of ships.
+
+Ships that meet any of the following conditions are exempt from sanitary quarantine fees:
+
+\1. Yachts under 500 tons;
+
+\2. Barges without power, provided that fees for their tugboats have already been collected in accordance with the preceding paragraph.
+
+## Article 10
+
+Fees for sanitary quarantine of ships shall be paid, on weekdays, by the shipping company or its agent before the departure of ships from port. Fees for ships that arrive or depart ports on holidays or during non-office hours may be paid the next day during office hours. However, the preceding provision does not apply to ships that are subject to other payment date or period as agreed by the CDC.
+
+## Article 11
+
+These Regulations shall be enforced on January 1, 2025, except for Subparagraph 3, Paragraph 1 of Article 4, which shall be enforced on the date of promulgation.
+
+## History
+
+1.Formulated and announced in 25 articles by the Department of Health, the Executive Yuan on February 27, 2001, under Wei-Shu-Chi-Guan Order No. 0900011941; implemented on March 1, 2001.
+
+2.Amended the title and 19 articles and announced by the Department of Health, the Executive Yuan on November 10, 2004, under Shu-Shou-Chi Order No. 0930001084 (Original title: Regulations Governing Collection of Quarantine Fees at International Ports).
+
+3.Amended Article 2, Article 6, Article 7, Article 17 and Article 18 and announced by the Department of Health, the Executive Yuan, on May 12, 2006, under Shu-Shou-Chi Order No. 0950000350
+
+4.Amended Articles 1, 2, 5, 7 and 8 and deleted Articles 9, 16 and 17 and announced by the Department of Health, the Executive Yuan, on January 7, 2008, under Shu-Shou-Chi Order No. 0960001352
+
+5.Amended Article 2, Article 4 and Article 19 and announced by the Department of Health, the Executive Yuan, on September 25, 2008, under Shu-Shou-Chi Order No. 0970001098; Amended Article 4 implemented on January 1, 2009.
+
+6.Amended Article 2 and Article 4 and announced by the Department of Health, the Executive Yuan, on August 12, 2011, under Shu-Shou-Chi Order No. 1000100697
+
+7.Amended Article 2 and Article 18 and announced by the Ministry of Health and Welfare, on October 17, 2013, under Bu-Shou-Chi Order No. 1020103431
+
+8.Amended 11 articles and announced by the Ministry of Health and Welfare on July 27, 2017, under Wei-Shou-Chi Order No. 1060100873; implemented on January 1, 2018
+
+9.Amended 11 articles and announced by the Ministry of Health and Welfare on October 24, 2024, under Wei-Shou-Chi Order No. 1130101006; implemented on January 1, 2025, except for Subparagraph 3, Paragraph 1 of Article 4 which is implemented on the date of promulgation.

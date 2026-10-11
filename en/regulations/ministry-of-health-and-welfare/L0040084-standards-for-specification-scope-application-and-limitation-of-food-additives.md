@@ -1,0 +1,154 @@
+---
+title: "Standards for Specification, Scope, Application and Limitation of Food Additives"
+title_zh: "食品添加物使用範圍及限量暨規格標準"
+identifier: "L0040084"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2008-11-20
+last_amended: 2025-05-07
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040084"
+retrieved: 2026-10-12
+---
+
+# Standards for Specification, Scope, Application and Limitation of Food Additives
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0040084-standards-for-specification-scope-application-and-limitation-of-food-additives.md](../../../zh/regulations/ministry-of-health-and-welfare/L0040084-standards-for-specification-scope-application-and-limitation-of-food-additives.md)) is authoritative.
+
+## Article 1
+
+The Standards are prescribed in accordance with the provisions of Article 18 of the Act Governing Food Sanitation.
+
+## Article 2
+
+The name, scope, application and limitation of food additives shall meet appendix 1. Not listed in the table shall not be used.
+
+## Article 3
+
+The specification of food additives shall meet appendix 2.
+
+## Article 4
+
+The Standards shall be implemented from the date of promulgation.
+
+The Standards amended on 19th June 2018 shall be implemented on 1st July 2019 of this Act.
+
+The Standards amended on 7th November 2019 shall be implemented on 1st July 2020 of this Act.
+
+The Standards amended on 11th August 2020 shall be implemented on 1st July 2022 of this Act.
+
+The Standards amended on 29th September 2020 shall be implemented on 1st January 2023 of this Act.
+
+The Standards amended on 22th February 2021 shall be implemented on 1st July 2022 of this Act.
+
+The Standards amended on 17th March 2021 shall be implemented on 1st July 2022 of this Act.
+
+The Standards amended on 23th June 2021 shall be implemented on 1st January 2024 of this Act.
+
+The Standards amended on 10th Mar 2022 shall be implemented on the date of promulgation, except that Appendix 1 “07. Food quality improvement, fermentation and food processing agents 07099 Nitrogen", Appendix 2 “07. Food quality improvement, fermentation and food processing agents § 07099 Nitrogen", Appendix 2 “08. Nutritional Additives § 08112 Lactoferrin" and Appendix 2 “16. Emulsifier § 16006 Diacetyl Tartaric Acid Esters of Mono- and Diglycerides" implemented on January 1, 2023.
+
+The Standards amended on 10th August 2023 shall be implemented on 1st January 2024 of this Act
+
+## Attachments
+
+- [Appendix 1：Standards for Scope Application and Limitation of Food Additives.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009177)
+- [Appendix 2：Food additives specifications.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008197)
+
+## History
+
+1.DOH Food No. 0970405591 Announced. 11/20/2008
+
+2.DOH Food No. 0980400197 Announced. 01/22/2009
+
+3.DOH Food No. 0980403340 Announced. 04/24/2009
+
+4.DOH Food No. 0980460953 Announced. 07/30/2009
+
+5.DOH Food No. 0991300946 Announced. 04/28/2010
+
+6.DOH Food No. 0991301074 Announced. 05/11/2010
+
+7.DOH Food No. 0991301689 Announced. 07/21/2010
+
+8.DOH Food No. 0991302685 Announced. 09/02/2010
+
+9.DOH Food No. 0991303749 Announced. 11/26/2010
+
+10.DOH Food No. 0991304034 Announced. 12/27/2010
+
+11.DOH Food No. 1001300333 Announced. 02/18/2011
+
+12.DOH Food No. 1001301575 Announced. 05/30/2011
+
+13.DOH Food No. 1001301966 Announced. 07/05/2011
+
+14.DOH Food No. 1001304164 Announced. 01/11/2012
+
+15.DOH Food No. 1011301457 Announced. 05/24/2012
+
+16.DOH Food No. 1011302487 Announced. 08/09/2012
+
+17.DOH Food No. 1011302995 Announced. 09/21/2012
+
+18.DOH Food No. 1011303199 Announced.10/16/2012
+
+19.DOH Food No. 1011304051 Announced.01/22/2012
+
+20.DOH Food No. 1021301195 Announced.05/27/2013
+
+21.DOH Food No. 1021301492 Announced.06/18/2013
+
+22.MOHW Food No. 1021350146 Announced.08/20/2013
+
+23.MOHW Food No. 1021301699 Announced.09/12/2013
+
+24.MOHW Food No. 1021351259 Announced.11/25/2013
+
+25.MOHW Food No. 1031304558 Announced.12/27/2014
+
+26.MOHW Food No. 1041301022 Announced.06/24/2015
+
+27.MOHW Food No. 1051300446 Announced.02/17/2016
+
+28.MOHW Food No. 1051301024 Announced.06/29/2016
+
+29.MOHW Food No. 1061301029 Announced.06/12/2017
+
+30.MOHW Food No. 1061301363 Announced.06/29/2017
+
+31.MOHW Food No. 1061302843 Announced.11/01/2017
+
+32.MOHW Food No. 1061303630 Announced.01/09/2018
+
+33.MOHW Food No. 1071301483 Announced.06/19/2018
+
+34.MOHW Food No. 1081303010 Announced.11/07/2019
+
+35.MOHW Food No. 1091300402 Announced.14/04/2020
+
+36.MOHW Food No. 1091301559 Announced.11/08/2020
+
+37.MOHW Food No. 1091302006 Announced.29/09/2020
+
+38.MOHW Food No. 1091304438 Announced.25/01/2021
+
+39.MOHW Food No. 1091304562 Announced.22/02/2021
+
+40.MOHW Food No. 1101300231 Announced.17/03/2021
+
+41.MOHW Food No. 1101300017 Announced.23/06/2021
+
+42.MOHW Food No.1101301735 Announced.08/18/2021
+
+43.MOHW Food No.1101360128 Announced.03/10/2022
+
+44.MOHW Food No.1111301473 Announced.08/02/2022
+
+45.MOHW Food No.1121301321 Announced.08/10/2023
+
+46.MOHW Food No. 1141300255 Announced.05/07/2025

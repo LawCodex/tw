@@ -1,0 +1,227 @@
+---
+title: "Regulations For Revenues, Expenditures, Safeguard And Utilization Of The Employment Security Fund"
+title_zh: "就業安定基金收支保管及運用辦法"
+identifier: "N0090007"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1992-09-18
+last_amended: 2026-01-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090007"
+retrieved: 2026-10-12
+---
+
+# Regulations For Revenues, Expenditures, Safeguard And Utilization Of The Employment Security Fund
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090007-regulations-for-revenues-expenditures-safeguard-and-utilization-of-the.md](../../../zh/regulations/ministry-of-labor/N0090007-regulations-for-revenues-expenditures-safeguard-and-utilization-of-the.md)) is authoritative.
+
+## Article 1
+
+THE EMPLOYMENT SECURITY FUND (hereinafter referred to as "The Fund") is enacted for the purpose of reinforcing the processes of all the issues related to the employment promotion, the improvement of the welfare for workers and the management of the employment of foreign workers. These regulations are promulgated in accordance with article 21 of the Budget Act.
+
+## Article 2
+
+（Deleted）
+
+## Article 3
+
+The Fund is a Special Fund as stipulated under the Subparagraph 2, Paragraph 1, Article 4 of the Budget Act; being a subordinate unit budget and compiling budget accordingly; covering subordinate units budget including Labor Rights Fund, being subordinate unit budget and compiling sub-budget accordingly; Ministry of Labor (hereinafter referred to as "the MOL") acts as the Competent Authority.
+
+## Article 4
+
+The Fund originates from the following resources:
+
+\1. Income of the employment security fees.
+
+\2. Interest accrued from the Fund.
+
+\3. Income of the Labor Rights Fund.
+
+\4. Other related incomes.
+
+The Labor Rights Fund aforementioned in Subparagraph 3 originates from the following resources:
+
+\1. Remaining amounts in the Labor Rights Fund (account).
+
+\2. Remunerations provided by the government pursuant to the budget plan.
+
+\3. Interest accrued from the Labor Rights Fund.
+
+\4. Donations.
+
+\5. Other related incomes.
+
+## Article 5
+
+The purposes of the Fund are as follows:
+
+\1. Promoting employment:
+
+(1) To reinforce the implementation of vocational training and the provision of the employment service information.
+
+(2) To reinforce the implementation of the employment security and the employment promotion.
+
+(3) Entrepreneurship assistance and innovation development.
+
+(4) Unemployment assistance.
+
+(5) Subsidies and allowances for employers who promote employment security.
+
+(6) Administering skills certification, skill competitions and occupational competency standards.
+
+\2. Improvement of worker welfare:
+
+(1) To reinforce the protection of rights and interests related to decent work.
+
+(2) To enhance workers’ awareness and establish diverse mechanisms to safeguard labor rights.
+
+(3) To provide assistance for specific and vulnerable groups.
+
+(4) To promote workplace safety and health and raise awareness of occupational hazards.
+
+\3. Managing the employment of foreign workers:
+
+(1) To manage the employment and protect the rights of foreign workers.
+
+(2) Liaison with source countries of foreign workers.
+
+(3) To handle employment permit related matters for foreign workers.
+
+\4. To subsidize Municipal City and County (City) authorities to process matters related to the employment promotion, the improvement of the welfare for workers and the management of foreigners working in the territories of the Republic of China.
+
+\5. The expenditures of the Labor Rights Fund.
+
+\6. The expenditures of fund management and administration.
+
+The Municipal City and County (City) authorities shall allocate matching funds when applying therefor in accordance with Subparagraph 4 of the preceding paragraph. The regulations governing such subsidies shall be separately prescribed by the Competent Authority.
+
+The Labor Rights Fund in accordance with Subparagraph 5 of Paragraph 1 shall be used for the following purposes:
+
+\1. Legal aid in labor litigations.
+
+\2. Subsidies for necessary living expenses during labor litigations.
+
+\3. All other related assistance in the protections and support of labor rights.
+
+The funds required for handling Subparagraph 6 of Paragraph 1 shall be budgeted with a ceiling of 4.5% of the total appropriations for the fund in the current fiscal year.
+
+## Article 6
+
+The elements of profitability and security shall be taken into consideration when safeguard and utilize the Fund. The provisions under National Treasury Act and all other relevant regulations shall also be applicable in the deposit of the Fund.
+
+## Article 7
+
+The Fund may be used to purchase government bonds, treasury bills, or other short-term papers for the purpose of increasing its income.
+
+## Article 8
+
+The Fund shall set up a Management Committee (hereinafter referred to as the Committee) , composed of 19 to 29 members, with a term of 2 years; Minister of MOL shall chair the Committee; MOL shall appoint other committee members from the following persons:
+
+1.One representative from Department of the Interior, Health and Welfare, and Labor, Executive Yuan.
+
+2.Two representatives from Ministry of Labor.
+
+3.One representative from Ministry of Finance.
+
+4.One representative from Ministry of Economic Affairs.
+
+5.One representative from Directorate-General of Budget, Accounting and Statistics of the Executive Yuan.
+
+6.One representative from National Development Council, Executive Yuan.
+
+7.Three representatives from the Municipal City or County (City) Authorities.
+
+8.Two to five representatives from the labor trade unions.
+
+9.Two to five representatives from the employers groups.
+
+10.Four to eight experts and intellectuals.
+
+Neither gender should occupy less than one-third of the seats of the Committee.
+
+All the members of the Committee are pro bono services.
+
+## Article 9
+
+The missions and tasks of the Committee are as follows:
+
+\1. Determining the amount of the Employment Security Fees.
+
+\2. Supervising the Revenues and Expenditures, Safeguard and Utilization of the Fund and its subordinate Fund.
+
+\3. Supervising and determining the Annual Budget and Final Accounting Statements of the Fund and its subordinate Fund.
+
+\4. Auditing the execution of the Fund Management and its subordinate Fund.
+
+\5. Other related matters.
+
+## Article 10
+
+The Ministry of Labor shall appoint one Officer, in addition to his/her original official position, to take the position as the Executive Secretary of the Committee to execute the resolutions decided by the Committee and to handle daily routines under the commands of the Chairperson; all necessary staffs of the Committee shall be assigned to take that position by the Ministry from the incumbent officers of the Workforce Development Agency; when deemed necessary, the Ministry may hire eight to fifteen persons as the staff members of the Committee.
+
+## Article 11
+
+The Committee shall meet once every three months. Ad hoc Meetings may be held when necessary. The Chairperson of the Committee shall convene the meetings, regular or ad hoc. In case the Chairperson cannot preside the meeting, shall assign a committee member to convene the meeting.
+
+The quorum of Committee for any meetings shall be over half of the total Committee Members. It takes a simple majority of the Committee Members present in the Committee Meetings to reach a resolution.
+
+When deemed necessary, the Committee may invite the appropriate Municipal City or County (City) authorities to send representatives to attend the Committee Meeting.
+
+## Article 12
+
+（Deleted）
+
+## Article 13
+
+（Deleted）
+
+## Article 14
+
+The planning, compilation and the final accounting related to the budget of the Fund and the preparation of the Final Financial Statements thereof, shall be governed by the regulations of the Budget Act, Accounting Act, Final Financial Statements Act, Audit Act and all other related regulations and directions.
+
+## Article 15
+
+The Committee shall promulgate its own accounting system regulating the conduct of the accounting affairs of the Fund in accordance with the laws and regulations.
+
+## Article 16
+
+At the end of each fiscal year, any surplus in the Fund’s final accounts shall be accumulated or paid to the National Treasury according to statutory requirements.
+
+## Article 17
+
+At the time the Fund is terminated, a final balance shall be settled; any and all the residuals shall be turned over to the National Treasury.
+
+## Article 18
+
+The regulations came into effect upon promulgation, with the exception of the amendment to the article, which was amended and promulgated on April 29, 2010 and have been effective since January 1, 2010. And the exception of the amendment to the article, which was amended and promulgated on December 9, 2010 and have been effective since January 1, 2011. And the exception of the amendment to the articles three to five and article nine, which were amended and promulgated on January 20, 2014, and have been effective since January 1, 2014.
+
+## History
+
+Promulgated on September 18, 1992
+
+Promulgated on September 18, 1992; Amended on July 15, 2004
+
+7.Amended on June 15,2007
+
+8.Amended on March 21, 2008
+
+9.Amended on December 2, 2009
+
+10.Amended on April 29, 2010
+
+11.Amended on December 9, 2010
+
+12.Amended on January 20,2014
+
+13.Articles 3, 8 and 10 have been amended in accordance with theOrder of the Executive Yuan (No. 1040200147) dated on March 11, 2015
+
+14.Amended and promulgated Articles 8 of the Act by the Executive Yuan Order No. 1100200473A on May 3, 2021
+
+15.Amended and promulgated Articles 5, 7 and 16 of the Act by the Executive Yuan Order No. 1130200386A on March 11, 2024
+
+16.Amended and promulgated Articles 5 of the Act by the Executive Yuan Order No. 1140202422A on January 2, 2026

@@ -1,0 +1,545 @@
+---
+title: "Regulations Governing Prevention of Gender-Related Incidents on Campuses"
+title_zh: "校園性別事件防治準則"
+identifier: "H0080069"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞學生事務及特殊教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2005-03-30
+last_amended: 2024-03-06
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0080069"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Prevention of Gender-Related Incidents on Campuses
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0080069-regulations-governing-prevention-of-gender-related-incidents-on-campuses.md](../../../zh/regulations/ministry-of-education/H0080069-regulations-governing-prevention-of-gender-related-incidents-on-campuses.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations have been formulated in accordance with the provisions of Paragraph 1 of Article 21 and Paragraph 3 of Article 33 of the Gender Equity Education Act (hereunder referred to as “the Act”).
+
+### Article 2
+
+Educational institutions shall actively promote education to prevent gender-related incidents occurring on campus or during off campus activities or internships, and undertake the following measures:
+
+\1. Hold regular in-service training activities each year for their gender equity education committee (hereunder abbreviated to “gender committee") members and personnel in its unit responsible for the handling of gender-related incidents on campus matters.
+
+\2. Encourage the committee members and personnel referred to in the preceding subparagraph to take part in research and study activities on campus and off campus on the handling of campus gender-related incidents and register participation as an official work task and provide subsidies for associated expenses.
+
+\3. Make the matters covered by these Regulations publicly known through a wide range of channels; and include them in the employment contracts of faculty,  staff members and other employees, and in student handbooks.
+
+\4. Encourage the victim or the informant of a campus gender-related incident to apply for an investigation or report the incident at the earliest possible time in order to facilitate the collection of evidence, investigation and handling of the matter.
+
+### Article 3
+
+The educational institution or the competent authority shall compile information on the prevention of gender-related incidents on campus and remedy procedures available and when handling such incidents take the initiative to provide the information to relevant personnel.
+
+The information referred to in the preceding paragraph shall include the following items:
+
+1.The definition and categories of campus gender-related incidents, and the related legislation.
+
+\2. The protection of the rights of the victim and the necessary assistance that is provided by the educational institution.
+
+\3. The mechanisms for applying for an investigation, and requesting a reconsideration, and remedy-seeking.
+
+\4. The related competent authority and responsible unit.
+
+\5. Organizations and networks that provide resources and assistance.
+
+\6. Other matters that the gender committee of the educational institution or the gender committee of the competent authority considers necessary.
+
+## Chapter 2 Campus Safety Plans
+
+### Article 4
+
+In order to prevent gender-related incidents on campus, educational institutions shall implement the following measures to improve dangerous areas of the campus:
+
+\1. Regularly review the planning of campus grounds and facilities and how they are used and inspect overall campus safety, taking into account the spatial configuration, management, and security of indoor and outdoor areas; the signage system; the emergency help system and safe routes; lighting and visibility; and other important safety factors.
+
+\2. Record the locations where gender-related incidents have occurred on campus, and if necessary, produce a map indicating safe areas.
+
+The review of the planning of campus grounds and facilities referred to in Subparagraph 1 of the preceding paragraph shall take into account features of students’ physical and mental capabilities, and differences in their language and culture, and provide safety planning and instructions in styles that are suitable for students’ needs. The scope of the review shall include on-campus dormitories, washing and toilet facilities, and campus transport vehicles.
+
+### Article 5
+
+Educational institutions shall hold regular inspections of and meetings on the safety of campus areas and invite professional indoor and outdoor space designers, faculty staff members, workers, students, and other users of the campus to participate.
+
+Educational institutions may conduct the inspections and meetings referred to in the preceding paragraph electronically, and they shall make the results of the inspections and the associated records publicly known.
+
+Each educational institution's review of progress made improving dangerous areas of the campus shall be an item in the gender committee's working report each semester.
+
+## Chapter 3 Matters for Attention Teaching and in Activities and Interpersonal Interactions on and off Campus
+
+### Article 6
+
+When undertaking teaching and activities and in interpersonal interactions, on and off campus, the principal or president, faculty, staff members, workers, and students of any educational institution shall respect gender diversity and eliminate gender discrimination.
+
+### Article 7
+
+When any student experiences sexual harassment while undertaking an internship off campus, the matter shall be handled in accordance with the provisions of Paragraph 5 of Article 2 of the Gender Equality in Employment Act. If one of the parties involved in the incident is an instructor of internship students at the internship site, the provisions of the Act shall also apply.
+
+The term "instructor of internship students at the internship site" in the preceding paragraph refers to any individual who teaches or provides students with professional knowledge and skills, and/or offers practical training, and instructs students receiving practical operations training.
+
+If an educational institution becomes aware that a student doing an internship has been a victim of sexual assault, sexual harassment, or sexual bullying, and the matter does not fall within the scope of the Act, it may handle the matter in accordance with the provisions of Paragraph 3 of Article 25 of the Act.
+
+When an educational institution becomes aware that a student doing an internship has been a victim of a gender-related incident, it shall take immediate and effective corrective and remedial measures.
+
+## Chapter 4 Professional Ethics Regarding Sex and Gender for Principals, Presidents, Faculty, Staff, and Other Employees and Associated Recusal and Reporting
+
+### Article 8
+
+In interpersonal interactions related to sex or gender, a principal or president, faculty, staff members, and workers are not permitted to develop a relationship based on sexual behavior or emotions with any student who is a minor, thereby violating professional ethics.
+
+When a principal or president, faculty or other staff member is teaching, instructing, training, evaluating, managing, counseling, or providing a work opportunity to a student and there is an unequal power relationship because of their status, knowledge, age, physical strength, identity, ethnicity, or resources, they are not permitted to develop a relationship based on sexual behavior or emotions with any adult student that violates professional ethics regarding interpersonal interactions related to sex or gender.
+
+If the principal or president, faculty, other staff members, or employees finds that their relationship with a student raises concerns that it is in violation of the professional ethics referred to in the two preceding paragraphs, they shall recuse themselves from further interaction with the student and report the matter to the educational institution or its competent authority for it to handle.
+
+### Article 9
+
+The principal or president, faculty, staff members, workers, and students shall respect other people’s and their own autonomy over their sexuality and their body, avoid making unwanted attempts to persuade another person to have a personal relationship with them, and they are not permitted to use force or violent means to handle conflicts related to sex or gender.
+
+## Chapter 5 Campus Gender-Related Incident Handling Mechanisms, Procedures, and Means of Remedy Available
+
+### Article 10
+
+The gender-related incidents on campus defined in Subparagraph 3 of Article 3 of the Act include cases that involve different educational institutions.
+
+### Article 11
+
+The victim of a campus gender-related incident, their legal representative or actual caregiver (hereunder referred to jointly as "the applicant"), or the informant, may apply in writing for an investigation or report the incident in writing to the educational institution where the offender was employed or enrolled at the time of the incident (hereunder referred to as "the educational institution with jurisdiction"). However, if the offender is or was the principal or president of the educational institution, the investigation or report shall be submitted to the competent authority of the educational institution at the time of the incident (abbreviated hereunder to "the competent authority with jurisdiction").
+
+If the incident occurred at an educational institution where the offender was employed part-time, that educational institution is the educational institution with jurisdiction referred to in the preceding paragraph.
+
+If the educational institution with jurisdiction has merged with another educational institution in accordance with the provisions of the Primary and Junior High School Act, the Senior High School Education Act, the Private School Law, or other education ordinances, the educational institution continuing after or established by the merger shall be the educational institution with jurisdiction. If the educational institution with jurisdiction has closed down, the educational institution where the offender is currently employed or studying is the educational institution with jurisdiction. But if the offender is not currently employed or enrolled at any educational institution, the competent authority of the educational institution where the incident took place has jurisdiction over the incident.
+
+If, before the amendments to these Regulations came into effect on March 8, 2024. an investigation was handled in accordance with the provisions of the proviso to Paragraph 1 of Article 10 of these Regulations by the competent authority of the educational institution where the administrative head of the educational institution where the incident took place is currently employed and not by the authority with jurisdiction at the time the incident took place, and the matter has still not been concluded in accordance with the provisions of Paragraph 3 of Article 36 of these Regulations, it shall be handled in accordance with the provisions of Paragraph 1 and Paragraph 1 of Article 36 of these Regulations after the amendments came into effect.
+
+### Article 12
+
+If the educational institution with jurisdiction is not the educational institution at which the offender is employed or enrolled, the educational institution where the offender is currently employed or enrolled shall be notified in writing to send a representative to participate in the investigation; the educational institution that has been notified is not permitted to refuse to send a representative.
+
+If the educational institution with jurisdiction referred to in the preceding paragraph concludes its investigation and verifies that a campus gender-related incident occurred, it shall send a copy of the investigation report and its recommendations for the handling of the matter to the educational institution where the offender is currently employed or enrolled for that educational institution to handle in accordance with the provisions of Article 31.
+
+### Article 13
+
+In the situation referred to in Paragraph 2 of Article 11, the educational institution with jurisdiction shall notify the educational institution where a offender is currently employed on a full-time basis in writing that it needs to send a representative to participate in the investigation; the educational institution which has been notified is not permitted to refuse to send a representative.
+
+If the educational institution with jurisdiction referred to in the preceding paragraph concludes an investigation and verifies that a campus gender-related incident did occur, it shall send the investigation report and its recommendations on handling the matter to the educational institution where the offender is currently employed on a full-time basis for educational institution to handle in accordance with the provisions of Article 31.
+
+### Article 14
+
+If at the time when the offense occurred, the offender served in two or more of the following capacities: president or principal, teacher, employee, maintenance worker, or student—the capacity in which the offender was acting at the time when they interacted with the victim determines how the investigation will be conducted, and the educational institution or competent authority with jurisdiction.
+
+If it is not possible to determine the capacity in which the offender was acting at the time of the incident, or during a period of transition between educational stages when the offender's educational institution is not yet determined, the educational institution that accepted the application for an investigation or the informant's report is the educational institution with jurisdiction. Any other educational institution involved in the incident shall send a representative to participate in the investigation. However, if at the time the application for an investigation an informant's report is submitted, the offender and the victim are already registered students, the educational institution at which the offender is enrolled is the educational institution with jurisdiction.
+
+### Article 15
+
+If there are two or more offenders and they work or study at different educational institutions, the first educational institution where one or more of the offenders works or studies that accepts an application for an investigation or an informant's report is the educational institution with jurisdiction and the other educational institutions involved shall send a representative to participate in the investigation.
+
+### Article 16
+
+If an educational institution or competent authority that accepts an application for an investigation or an informant's report does not have jurisdiction over the matter, within seven working days it shall transfer the case to another that has jurisdiction and notify the parties involved.
+
+When an application for an investigation or an informant’s report is submitted during a period of transition between educational stages, and there is a dispute over which educational institution has jurisdiction, their common higher authority shall make the determination. When they do not have a common higher authority, the respective higher authorities of each of the educational institutions will come to an agreement.
+
+### Article 17
+
+When an incident is reported in accordance with the provisions of Paragraph 1 of Article 22 of the Act, the names and any other details sufficient to identify the parties involved or any informant shall be kept confidential except when necessary for the investigation, or based on considerations of public safety, or if the provisions of other regulations apply.
+
+Any principal or president, faculty, staff member, or workers who forges, alters, destroys, or conceals evidence related to any campus gender-related incident committed by another person, not including any sexual assault that constitutes grounds for an educational institution not being permitted to appoint, employ, or engage the services of that person, either, permanently or for a period of between one and four years, shall when necessary be dismissed, discharged from employment, or have their contractual relationship or provision of services arrangement terminated in accordance with the relevant regulations. This applies, mutatis mutandis, if the other person was a student who commited a campus sexual harassment or sexual bullying incident and the circumstances were similar.
+
+If the Teachers' Act, the Act Governing the Appointment of Educators, related laws pertaining to the civil service, or related laws pertaining to the army, navy, or air force apply to the principal or president, faculty or other staff member, or employee referred to in the preceding paragraph, their dismissal, suspension of appointment, discharge from employment, permanent dismissal from employment, suspension of employment, or discharge from military service is handled in accordance with the provisions of the law that applies. If they are not dismissed, discharged from employment, permanently dismissed from employment, or discharged from military service, they shall be transferred away from their current position at the educational institution.
+
+### Article 18
+
+The applicant or informant in a campus gender-related incident may apply for an investigation or submit a report in writing, orally, or by email. If the application for an investigation or the report is made orally or by email, the educational institution or competent authority with jurisdiction that accepts the application or the report shall create a printed transcript or printout of the email as a record for the applicant or the informant to sign or affix their personal seal to, after it has been read aloud to them or they have personally read it and they have confirmed that it contains no errors.
+
+The record of the written, oral, or email application or report referred to in the preceding paragraph shall include the following items:
+
+\1. The name of the applicant or the informant, their identity document number, and the unit and institution where they work or study and their job title if applicable, their current residential address, contact telephone number, and the date of the application for an investigation.
+
+\2. In an application for an investigation, the applicant shall state the year, month, and day of the victim's birth.
+
+\3. An applicant who appoints another person as their representative to apply for an investigation on their behalf shall submit a letter of authorization that states the name, identity document number, residential address, and contact telephone number of their representative.
+
+\4. The factual details of the incident that is the subject of the application for an investigation or informant's report. If there is any related evidence, it shall be recorded or be included as an attachment.
+
+If an educational institution or competent authority becomes aware of a suspected campus gender-related incident that occurs under any of the circumstances listed below, its gender committee shall assess the impact of the incident on students' right to education and on campus safety, and if the gender committee resolves to initiate investigation procedures treating the matter as a reported case, in order to ascertain the facts and take necessary measures to protect students' rights and campus safety:
+
+\1. There are two or more victims.
+
+\2. There are two or more offenders.
+
+\3. The is the principal or president, a faculty or staff member, or worker.
+
+\4. Campus safety issues are involved.
+
+\5. Other circumstances that the gender committee considers make it necessary to initiate an investigation treating the matter as a reported case.
+
+### Article 19
+
+When an educational institution or competent authority with jurisdiction receives an application for an investigation of a campus gender-related incident, or an informant's report thereof, the following units are responsible for accepting the documentation:
+
+\1. At junior colleges and higher level educational institutions: The student affairs office or a dedicated unit designated by the educational institution.
+
+\2. Sat schools up to and including senior secondary level: The student affairs office or the counselling and guidance office.
+
+\3. At the competent authority: The operational unit responsible for the gender committee.
+
+Within three days after the responsible unit referred to in the preceding paragraph receives the application or report, unless any of the reasons set out in Paragraph 2 of Article 32 of the Act for not accepting the case exist, it shall give the evidence and information provided by the applicant or the informant to the gender committee to investigate and handle the matter.
+
+When necessary, the gender committee may designate a team of at least three persons to determine whether any of the reasons set out in Paragraph 2 of Article 32 of the Act referred to in the preceding paragraph apply, The educational institution may also clearly specify the scope of the responsibilities of such teams in its regulations for preventing gender-related incidents.
+
+### Article 20
+
+Gender-related incidents on campus that have received media coverage shall be treated as having been reported. The educational institution or competent authority with jurisdiction shall take the initiative to refer the matter to its gender committee to investigate and handle. When a suspected victim is not willing to cooperate with an investigation, the educational institution or competent authority shall still provide any counseling or assistance required.
+
+If an educational institution handling an incident of bullying suspects that a campus gender-related incident has also occurred, the discovery is deemed equivalent to an informant's report, and the educational institution's anti-bullying response team shall refer the matter to the gender committee for handling in accordance with the provisions of the preceding article.
+
+### Article 21
+
+The educational institution or competent authority with jurisdiction shall send a written notification of whether an application for an investigation or an informant's report has been accepted for further handling to the applicant, the victim, or the informant within twenty days after receiving the application or the report. A written notification that an application or a report has not been accepted for further handling shall, in accordance with the provisions of Paragraph 3 of Article 32 of the Act, state clearly the reason(s) has not been accepted and inform the applicant, the victim or the informant of the time limit for submitting a request for a reconsideration and the unit that accepts such a request.
+
+If the applicant, victim or informant does not receive a notification within the period specified in the preceding paragraph or if they receive a notification that their application or their report has not been accepted, they may submit a written request for reconsideration that states the grounds for the request to the educational institution or competent authority with jurisdiction within twenty days from the day after the day that they receive the notification. If they make an oral request for a reconsideration, the educational institution or competent authority with jurisdiction shall create a printed transcript of their request as a record for the applicant, victim or informant to sign or affix their personal seal to, after it has been read aloud to them or they have personally read it and they have confirmed that it contains no errors.
+
+The request for a reconsideration referred to in the preceding paragraph is restricted to being made once only.
+
+After receiving a request for reconsideration, the educational institution or competent authority shall give the application for investigation or the informant’s reported case to the gender committee to once again discuss whether to accept the request handle reopening of ion, and the educational institution or competent authority notify the person making the request for reconsideration of the outcome of their request in writing within twenty days. If there are grounds for the request for reconsideration., the gender committee shall investigate and handle the matter in accordance with the law.
+
+### Article 22
+
+When the gender committee of an educational institution or competent authority with jurisdiction handles a campus gender-related incident, it may set up an investigation team to investigate the matter. In principle, an investigation team has three or five members appointed in accordance with the provisions of Paragraph 3 and Paragraph 4 of Article 33 of the Act.
+
+A person in any of the circumstances listed below is not permitted to serve as a member of the investigation team referred to in the preceding paragraph:
+
+\1. Their deferred prosecution or guilty verdict for a violation of the Chapter on Sexual Offenses, or the Chapter on Offense against Sexual Privacy and Synthetic Sexual Videos in the Criminal Code has been affirmed.
+
+\2. Their acting in violation of the Act, the Gender Equality in Employment Act, the Sexual Harassment Prevention Act, the Stalking and Harassment Prevention Act, the Child and Youth Sexual Exploitation Prevention Act, or other gender equality-related legislation has been duly investigated or verified by the relevant authority.
+
+Any counselor of a party involved in a gender-related incident on campus, or any personnel overseeing or handling the committee affairs of the gender committee of the educational institution or the committee affairs of the gender committee of the competent authority with jurisdiction shall recuse themselves from participating in the investigation work for this incident, and any personnel participating in the investigation and handling of a campus gender-related incident shall recuse themselves from work counseling any of the parties involved.
+
+The educational institution or competent authority shall record time that any personnel spend away from their workplace serving as a member of the investigation team as work-related travel (official leave), and the educational institution or competent authority with jurisdiction and any educational institution that sends a team member to participate in the investigation shall pay any transportation costs or related expenses incurred.
+
+### Article 23
+
+The experts or scholars with professional expertise in the investigation of campus gender-related incidents stipulated in Paragraph 3 of Article 33 of the Act shall satisfy one of the following criteria:
+
+\1. Have a certificate of completion for an advanced campus gender-related incident investigation competency training program provided by the competent authority at the central, special municipality, county or city level and have been approved by the gender committee of the competent authority at the central, special municipality, county or city level and included in its database of investigation professionals.
+
+\2. Have a proven record in the investigation and handling of a campus gender-related incident and have been approved by the gender committee of the competent authority at the central, special municipality, county or city level and included in its database of investigation professionals.
+
+The gender committee of the competent authority at the central or the special municipality, county or city level shall be responsible for organizing the campus gender-related incident investigation training program referred to in the first subparagraph of the preceding paragraph. The program shall include courses on the following:
+
+\1. Basic concepts of sexual assault, sexual harassment, and sexual bullying, sex-related or gender-related behavior of a principal or president, or a faculty or staff member, or worker who violates professional ethics, and the related laws and regulations.
+
+\2. Gender equity awareness.
+
+\3. Skills and knowledge for investigating gender-related incidents on campus.
+
+\4. Procedures for handling and administrative coordination of an investigations of a campus gender-related incident.
+
+\5. Sanctions and remedy procedures available for campus gender-related incidents.
+
+\6. Other courses recommended by the gender committee.
+
+The competent authority at the central, special municipality, county or city level shall arrange regular training for professionals on campus gender-related incident investigations, establish a database of these professionals, and regularly update and maintain the information about the professionals in this database for educational institutions at all levels and competent authorities engaging the services of such to consult when s to consult.
+
+If, following an informant’s report, any of the investigation-trained, professionals referred to in the preceding paragraph is found to have violated principles of objectivity, fairness or professionalism, or if there are other circumstances making them unsuitable for appointment, any of which could result in their displaying bias when determining facts, and the reported matter has been reviewed and confirmed by the gender committee established by the competent authority at the central, special municipality, county or city level, that person shall be removed from the database of investigation professionals.
+
+A person whom a gender committee established by the competent authority at the central, special municipality, county or city level with jurisdiction approved and whose details were included in an database of investigation professionals before the amendments to these Regulations came into effect on March 8, 2024 will remain in the original database of investigation professionals.
+
+### Article 24
+
+When an educational institution or the competent authority with jurisdiction investigates and handles a campus gender-related incident, it shall proceed as follows:
+
+\1. An offender shall appear in person for the investigation; if any of the parties involved is a minor, their legal guardian or actual caregiver may accompany them during the investigation.
+
+\2. If any of the parties involved has a disability certification or a valid certification that they have been identified as having special-needs that was approved and issued by the competent authority, the investigation team shall have members with expertise in special education.
+
+\3. If there is an imbalance of power between an offender and a victim, or an informant, or a person invited to assist in the investigation, the educational institution or the competent authority shall avoid any face-to-face meeting between them.
+
+\4. The name of any offender, victim, informant, or person invited to assist in the investigation, and any other information sufficient to identify them, shall be kept confidential. This restriction does not apply, however, if such details are required for the investigation or based on considerations of public safety.
+
+\5. When, in accordance with the provisions of Paragraph 5 of Article 33 of the Act, written notification is given to the parties involved, and to associated personnel or units to cooperate with an investigation and provide information, the notification shall state the purpose of the investigation, the time and location, and the consequences of failure to attend.
+
+\6. The notification referred to in the preceding subparagraph shall clearly state that the parties involved are not permitted to disseminate any information about the incident through any private communication, or using the internet, communication software, or any other channel.
+
+\7. Persons affiliated with the educational institution or competent authority with jurisdiction are not permitted to use any pretext and undertake to understand or investigate any details of the incident, and they are not permitted to request that the parties involved give a first-hand account or an affidavit.
+
+\8. If it is necessary for the investigation, other written information which does not violate the obligation of confidentiality may be produced and provided to the offender, the victim, or any person invited to assist in the investigation for them to read or be informed of the essential points.
+
+\9. When an applicant withdraws their application for an investigation, to clarify the related legal liability, the educational institution or competent authority with jurisdiction may continue the investigation, after a resolution to do so is passed by its gender committee, or at the request of the offender. If the educational institution's competent authority considers that the circumstances were of a serious nature, it shall direct the educational institution with jurisdiction to continue investigating and handling the matter.
+
+\10. When any of the involved parties applies to view, transcribe, copy, or photograph relevant information or case files, it shall be handled in accordance with the provisions of the Administrative Procedure Act.
+
+\11. The records of the investigation interview process of the parties involved may be supplemented with audio recordings and, when necessary, with video recordings; a transcript of the interview shall be read aloud to the interviewed parties or given to them to read and to sign or affix their personal seal to after they have confirmed that it contains no errors.
+
+### Article 25
+
+The persons bound by the obligation of confidentiality in accordance with the provisions of Subparagraph 4 of the preceding article include all persons participating in the handling of a campus gender-related incident.
+
+If any person(s) responsible for maintaining the confidentiality referred to in the provisions of the preceding paragraph makes any confidential detail(s) known they shall be subject to punishment in accordance with the Criminal Code or other pertinent legislation.
+
+The educational institution or the competent authority shall seal and store all the original documents which record the names of the parties involved, the informant, and any witnesses and is not permitted to make the documents available to be read by or provided to any person except personnel conducting a legal investigation or a trial. However,, this restriction does not apply if otherwise provided by another law.
+
+Except in the original documents, the personnel investigating or handling a gender-related incident on campus shall delete and replace the real names and information that may lead to the identification of the parties involved, the informant, or any witness with codes in any documents that they produce for external use.
+
+### Article 26
+
+In order to safeguard the education or employment rights of the parties involved in a gender-related incident on campus, the educational institution or competent authority with jurisdiction may, when necessary, in accordance with the provisions of Article 24 of the Act, adopt the following measures and report the matter to the competent authority for future reference:
+
+1.Handle the attendance records and performance assessments of the parties involved flexibly, and actively assist them with their academic work or work duties, and it may exempt parties involved from being subject to the regulations pertaining to requesting leave, or to teacher or student performance assessments.
+
+2.Respect the wishes of the victim and reduce the opportunities for interaction between the two parties involved, and the educational institution or competent authority with jurisdiction may, in accordance with the victim's request or based on the gender committee's assessment of the effect of the incident on students' right to education and campus safety, discontinue any teaching, instruction, training, evaluation, management, or counseling relationship between the parties involved, or one that provides a work opportunity to a student, or order the offender to avoid contact with the victim.
+
+\3. Avoid situations where retaliation could occur.
+
+\4. Prevent or reduce the possibility of the offender causing any further harm.
+
+\5. Other measures that the gender committee. considers necessary.
+
+When any of the parties involved is not employed by or enrolled at the educational institution with jurisdiction, the educational institution at which that person is employed or enrolled shall be notified to handle the matter in accordance with the provisions of the preceding paragraph.
+
+Any of the necessary measures referred to in the two preceding paragraphs shall be implemented after the gender committee has passed a resolution.
+
+### Article 27
+
+The educational institution or competent authority with jurisdiction shall, in accordance with the provisions of Paragraph 1 of Article 25 of the Act, take the initiative to refer the parties involved to agencies able to provide necessary assistance, based on the person’s physical and mental condition. However, the educational institution or competent authority with jurisdiction shall continue to investigate and handle the case in accordance with the Act.
+
+When any of the parties involved is not employed by or enrolled at the educational institution with jurisdiction, it shall notify the educational institution at which they are employed or enrolled and that educational institution shall provide any required assistance in accordance with the provisions of the preceding paragraph.
+
+### Article 28
+
+When necessary the educational institution or competent authority with jurisdiction shall, in accordance with the provisions of Paragraph 1 of Article 25 of the Act, provide the victim with the following appropriate assistance:
+
+\1. Psychological counseling and guidance.
+
+\2. Legal assistance.
+
+\3. Assistance with school work.
+
+\4. Financial assistance.
+
+\5. Referrals to social welfare resources
+
+\6. Other protective measures or assistance that the gender committee considers necessary.
+
+When any of the parties involved is not employed by or enrolled at the educational institution with jurisdiction, it shall notify the educational institution at which they are employed or enrolled and that educational institution shall provide appropriate assistance in accordance with the provisions of the preceding paragraph.
+
+The educational institution or competent authority may request a physician, clinical psychologist, counseling psychologist, social worker, or lawyer to provide the assistance referred to in the two preceding paragraphs and it shall make a budget allocation for the funds required to pay the fees incurred.
+
+### Article 29
+
+The investigation and handling by the gender committee are not affected by whether judicial proceedings are conducted and the conclusions of any handling judicial proceedings.
+
+The procedures for the investigation referred to in the preceding paragraph will not be discontinued as a result of the offender losing their former status.
+
+### Article 30
+
+In accordance with the principles of respecting professional judgment and avoiding repetitive questioning, the educational institution or competent authority with jurisdiction shall make a determination of the facts pertaining to a campus gender-related incident based on the investigation report of its gender committee.
+
+If the gender committee meets and reviews an investigation report and finds that a campus gender-related incident did occur and makes a recommendation, based on its determination of the facts, to the educational institution or competent authority to handle the matter by changing the status of the offender, the educational institution or competent authority shall notify the offender of the time limit in which to submit a written statement and attach a copy of the investigation report that was reviewed and approved at the gender committee meeting.
+
+If the offender referred to in the preceding paragraph does not submit a written statement within the time limit, it will be deemed as their forfeiting the opportunity to make a statement; if the offender makes a written statement, the gender committee shall convene another meeting to consider the offender's written statement. A reinvestigation is not permitted unless the gender committee discovers that there was some significant flaw in the investigation procedure or there is some new fact or new evidence that is sufficient to affect the outcome of the original investigation.
+
+When the responsible unit of the educational institution or competent authority that decides the disciplinary action is reviewing the disciplinary action to be taken, except in the circumstances stipulated in Paragraph 3 of Article 37 of the Act, it is not permitted to require the gender committee to reinvestigate the case and it is not permitted to conduct its own investigation.
+
+When the review off the disciplinary action referred to in the preceding paragraph, in accordance with the provisions of the associated regulations, shall give the offender an opportunity to make a statement of defense, the responsible unit of the educational institution or competent authority shall provide a copy of the investigation report reviewed and approved by the gender committee to the offender.
+
+Before making the decision on the disciplinary action referred to in Paragraph 4, the responsible unit shall notify the victim, or their legal representative or actual caregiver to submit a written or oral statement by a specified time. If an statement is made orally, the responsible unit shall create a printed transcript of the statement for the victim, their legal representative, or actual caregiver to sign or affix their personal seal to after the transcript has been read aloud to them or they have personally read it, and they have confirmed that it contains no errors. If a person fails to submit a written statement by the specified time, it will be deemed as their forfeiting the opportunity to make a statement. If a written statement is submitted, the unit authorized to decide the disciplinary action shall consider the written statement.
+
+### Article 31
+
+After the gender committee of the educational institution or competent authority with jurisdiction has investigated and verified that a campus gender-related incident occurred, the educational institution or competent authority with jurisdiction shall, in accordance with the provisions of Paragraph 1 of Article 26 of the Act, impose on the offender a formal reprimand, demerit, dismissal, suspension of appointment, non-renewal of appointment, discharge from employment, termination of contractual relationship, termination of provision of services relationship, or some other appropriate sanction. If in accordance with applicable law or regulations another agency is responsible for imposing the disciplinary action, the educational institution or competent authority with jurisdiction shall transfer the case to that responsible authority to do so. If it has been confirmed that a false accusation was made, an appropriate sanction shall be imposed on the applicant or informant in accordance with the law.
+
+The educational institution or competent authority responsible for imposing the disciplinary measures shall order the offender to undergo the measures for offenders referred to in Paragraph 2 of Article 26 of the Act and when the measures are implemented the educational institution or competent authority shall take necessary measures to ensure that the offender cooperates and complies. The nature of the measures, how they will be implemented, the period for which they will be implemented, and the legal consequences of non-compliance shall be specified in the written notification of the outcome of the handling of the case.
+
+The gender committee of the educational institution or competent authority responsible for imposing the measures referred to in the preceding paragraph shall discuss and decide the nature of the following items, the unit or personnel that implement will them, how they will be implemented, the, period for which they will be implemented, and payment of expenses incurred:
+
+\1. The offender receives psychological counseling and guidance.
+
+\2. The offender apologizes to the victim with the consent of the victim, their legal representative, or actual caregiver.
+
+\3. Eight hours of gender equity education-related courses.
+
+\4. Other measures that are in keeping with the educational purpose.
+
+When necessary, if the offender is a student, consideration may be given to integrating the measures referred to in Subparagraph 4 of the preceding paragraph into the teaching of the educational institution's curriculum or advocacy activities and recording this.
+
+The educational institution's competent authority shall plan the eight-hour gender equality education-related courses that Paragraph 2, Subparagraph 2 of Article 26 of the Act stipulates that the offender be ordered to attend.
+
+### Article 32
+
+When the educational institution or competent authority with jurisdiction sends a written notification of the outcome of the handling of the case to the applicant, the victim, and the offender, it shall also provide the investigation report and inform them of the time limit for requesting a reconsideration, and the educational institution or competent authority which will accept a request for reconsideration.
+
+The outcome of the handling of the case referred to in the preceding paragraph will include the established facts, measures to be taken, and the outcome of disciplinary action.
+
+If an applicant, victim, or offender is dissatisfied with the outcome of the handling of the case by the educational institution or competent authority with jurisdiction, they may submit a written request for reconsideration to the educational institution or competent authority with jurisdiction, specifying the grounds for reconsideration, within thirty days from the day following the day that they received the written notification. If a person makes such a request orally, the educational institution or the competent authority that accepts the request shall create a printed transcript of the request for the applicant, the victim, or the offender to sign or affix their personal seal to, after the transcript has been read aloud to them or they have personally read it and they have confirmed that it contains no errors.
+
+After receiving a request for reconsideration, the educational institution or competent authority will handle it in accordance with the procedure below:
+
+\1. After the responsible unit designated by the educational institution or the competent authority receives the request, it shall set up a review panel and within thirty days make a decision and affix the reasons for the decision, and the educational institution or the competent authority shall give the person who requested a reconsideration a written notification of the outcome of their request.
+
+\2. The review panel referred to in the preceding subparagraph shall comprise three or five people who include at least one gender equity education expert or scholar and at least one legal professional. At least half of the members of the team shall be female. At least one third of the team at an educational institution shall be experts or scholars with professional expertise and experience in the investigation of campus gender-related incidents and such experts or scholars shall comprise at least half of the team at a competent authority.
+
+\3. Members of the gender committee or the investigation team are not permitted to serve as members of the review panel.
+
+\4. When the review panel conducts a meeting, the members of the panel will select a convener who will also chair its meetings.
+
+\5. When the review panel is holding its meeting(s), if it is considered necessary, it may give the person making the request for reconsideration an opportunity to make a statement, and it may invite members of the gender committee or investigation team to attend in a non-voting capacity and provide explanations.
+
+\6. When there are grounds for a request for reconsideration, communicate the decision that grounds exist to the associated responsible unit which will re-handle the case. When there was any significant flaw in the investigation procedure as defined in Paragraph 3 of Article 37 of the Act, or if there is some new fact or new evidence that is sufficient to affect the conclusion of the original investigation, it may ask the gender committee to reinvestigate the incident.
+
+\7. Before the decision made on the request for reconsideration referred to in the preceding subparagraph is sent to the person who made the request, that person may withdraw their request mutatis mutandis in accordance with the provisions of the preceding paragraph.
+
+The significant procedural flaws in the investigation procedure referred to in Paragraph 3 of Article 37 of the Act, and in Paragraph 3 of Article 30 of these Regulations refers to one of the following circumstances:
+
+\1. The composition of the gender committee or the investigation team is unlawful.
+
+\2. Failure to provide any one of the parties involved with the opportunity to make a statement.
+
+\3. Failure to recuse when recusal is mandatory.
+
+\4. Failure to investigate evidence that warrants mandatory investigation.
+
+\5. Flawed acceptance or rejection of evidence which affected the determination of the facts.
+
+\6. Other significant procedural flaws sufficient to affect the determination of the facts.
+
+### Article 33
+
+If the offender is the principal or president, when the applicant or victim submits a request for reconsideration to the educational institution's competent authority in accordance with the proviso in Paragraph 1 of Article 37 of the Act, the matter shall be handled in accordance with the provisions of Paragraph 3 of the preceding article.
+
+If the offender is a faculty or staff member, or worker at the educational institution, when the applicant or victim submits a request for reconsideration to the educational institution's competent authority in accordance with the proviso of Paragraph 1 of Article 37 of the Act, the provisions of Paragraph 4 of the preceding article apply mutatis mutandis, and the competent authority may invite representatives of members of the gender committee or the investigation team to attend in a non-voting capacity and provide explanations.
+
+When the applicant or the victim referred to in the preceding paragraph submits a request for reconsideration to the educational institution's competent authority, if the offender submits a request for reconsideration to the educational institution, the educational institution shall immediately inform the competent authority and request it to jointly both requests for reconsideration.
+
+If the review finds that the outcome of the educational institution's handling of the case was unlawful or improper, the gender committee of the competent authority shall deliberate the following proposals for handling the matter:
+
+\1. Whether there is a necessity to change the outcome of the educational institution's handling of the case.
+
+\2. Whether there are grounds for returning the case to the educational institution to handle in accordance with the law.
+
+\3. Action to take to find the associated person(s) responsible.
+
+### Article 34
+
+The educational institution or competent authority with jurisdiction shall designate a unit or personnel to preserve the database that it has established Paragraph 1 of Article 28 of the Act for a period of 25 years. If the database is preserved using electronic storage media, when necessary, an electronic signature or encryption may be used for dealing with the data.
+
+The database established in accordance with the provisions of the preceding paragraph shall be divided into archives of original data and archives of report documents.
+
+The content of the archives of the original data referred to in the preceding paragraph includes the following information:
+
+\1. The time the incident occurred and its category.
+
+\2. The parties associated with the incident and the parties involved (the informant, the victim, and the offender).
+
+\3. The personnel handling the case, and the process, and case records.
+
+\4. Text documents produced during the handling of the case, audio files of recorded interviews, evidence obtained, and other pertinent information
+
+\5. The name, and job title or student registration details of the offender.
+
+\6. The initial draft of the investigation report submitted by the investigation team and the minutes of the gender committee meetings.
+
+The archives of report documents referred to in Paragraph 2 comprise the investigation report approved by the gender committee; its contents shall include the following:
+
+\1. The subject matter of the application for an investigation of the incident, including accounts provided by the parties involved or by an informant.
+
+\2. Records of interviews conducted during the investigation, including the dates and the interviewees.
+
+\3. The statements and responses made by the person who was the subject of an application for an investigation, of the person applying for an investigation, of witnesses, and of other pertinent persons.
+
+\4. Assessment of associated material evidence.
+
+\5. The facts established and the associated reasons.
+
+\6. Recommendations for handling the matter.
+
+The provisions of Article 13 of the Regulations Governing the Retention Periods and Destruction of Agency Records may be applied mutatis mutandis, for the methods of destruction of the established database referred to in Paragraph 1.
+
+### Article 35
+
+If the educational institution or competent authority with jurisdiction obtains material evidence related to an incident referred to in Paragraph 3 of Article 29 of the Act it shall submit that material evidence to the gender committee to verify and evaluate after it has notified the parties involved to provide a statement of opinion.
+
+### Article 36
+
+When an educational institution or the competent authority with jurisdiction reports an incident in accordance with the provisions of Paragraph 2 and Paragraph 3 of Article 28 of the Act, the content of the report shall be limited to the time that the campus gender-related incident which has been confirmed occurred, the incident category, the offender's name, the offender's job title or details of their student registration.
+
+The educational institution or competent authority with jurisdiction referred to in the preceding paragraph shall examine actual needs and if necessary provide information on counseling, preventive education, or related corrective measures, and other required information to the educational institution where the offender will subsequently be enrolled or employed.
+
+If after providing follow-up counseling for the offender, the educational institution or competent authority with jurisdiction makes the assessment that such an incident will not be repeated, it may comment that the offender has changed for the better in the report referred to in Paragraph 1.
+
+### Article 37
+
+When an educational institution becomes aware that an appointed or employed faculty or other staff member, civil servant, or military personnel member whom it has an appointed or employed has been involved in a campus gender-related incident and that person has applied for retirement (military discharge) or severance with pay, it shall follow the procedures set out below:
+
+\1. Convene the teacher evaluation committee, coaching staff evaluation committee, gender committee, performance review committee, personnel evaluation committee, or any other relevant committee formed in accordance with ordinances to carefully consider the circumstances of the person’s improper involvement in the campus gender-related incident and determine whether it must pass a resolution for their dismissal, suspension of appointment, or non-renewal of their appointment, after which in accordance with the ordinances applicable to persons in their work position, follow the procedure to request approval by the competent authority or handle the matter internally in accordance with the educational institution's procedures; or in accordance with the provisions of the Civil Service Discipline Act, refer the case to the Disciplinary Court for disciplinary action or request the Control Yuan to review the case and determine whether suspension of employment, or discharge from employment is warranted under related laws.
+
+\2. If after its deliberations the teacher evaluation committee, coaching staff evaluation committee, gender committee, performance review committee, personnel evaluation committee, or any other relevant 0committee formed in accordance with ordinances deliberates, and determines that it is necessary to pass a resolution for dismissal, suspension, or non-renewal of appointment in accordance with ordinances, or in accordance with the provisions of the Civil Service Discipline Act, to refer the case for disciplinary action or send it to the Control Yuan requesting a review, or in accordance with pertinent law to approve suspension of employment, or discharge from employment but not accept an application from the person for retirement (or military discharge) or severance with pay, the committee shall notify the parties involved in writing and set out the reasons in detail. If the committee determines that it is not necessary for it to pass a resolution for dismissal, suspension, or non-renewal of appointment in accordance with ordinances, or, in accordance with the provisions of the Civil Service Discipline Act, to refer the case for disciplinary action or send it to the Control Yuan requesting a review, or in accordance with pertinent law to approve suspension of employment or discharge from employment but still accepts an application from the person for retirement (or military discharge) or severance with pay, the committee shall set out the reasons for its decision in its letter accompanying the related materials it has reviewed and is submitting to the authority (agency) responsible for reviewing and approving the application for retirement (or military discharge) or severance with pay case.
+
+\3. The educational institution shall complete handling the procedures specified in the preceding two subparagraphs within two months from the day it receives the retirement (military discharge) or severance with pay case of a faculty or other staff member, civil servant, or military personnel member involved in a campus gender-related incident. When necessary, one extension may be given, and the applicant will be notified of the reason for the extension before the original ser processing period expires.
+
+If the competent authority becomes aware that the current principal or president of a public or private educational institution has been involved in a campus gender-related incident, when that principal or president applies for retirement or severance with pay, the competent authority shall handle the matter in accordance with the provisions of the Act Governing the Appointment of Educators, the Civil Service Discipline Act, or the Private School Law, as applicable Supplementary Provisions
+
+## Chapter 6 Supplementary Provisions
+
+### Article 38
+
+Educational institutions shall formulate regulations for the prevention of campus gender-related incidents in accordance with the content of these Regulations and include the provisions of Article 8 and Article 9 in the employment contracts of the principal or president and of faculty, staff members, and other employees, and in the student handbook.
+
+The content of the regulations referred to in the preceding paragraph shall include the following items:
+
+\1. The campus safety plans.
+
+\2. Matters for attention teaching, and in activities and interpersonal interactions on and off campus.
+
+\3. Campus gender-related incident prevention policy statements.
+
+\4. Definition and categories of campus gender-related incidents.
+
+\5. Details of the unit which receives applications for an investigation of campus gender-related incidents or an informant's report of such an incident, and its phone number, email address and the procedure followed.
+
+\6. The procedures for the investigation and handling of campus gender-related incidents.
+
+\7. The procedures for making a request for reconsideration of a campus gender-related incident and remedy procedures available.
+
+\8. Warnings prohibiting retaliation.
+
+\9. Protection of privacy.
+
+\10. Other matters pertaining to the prevention of gender-related incidents on campus.
+
+### Article 39
+
+A school at senior secondary or a lower level may apply to its competent authority for subsidies for the expenses it requires for the investigation and handling of a campus gender-related incident, or to undertake educational counseling for the parties involved.
+
+### Article 40
+
+After an educational institution with jurisdiction has completed the investigation and handling of a campus gender-related incident, and its gender committee has approved the investigation report, it shall submit details of the handling of the matter, the checking of the handling procedure, the investigation report, and the minutes of the gender committee's meetings to its competent authority. If an applicant, a victim, or an offender has made a request for reconsideration, after consideration of the request for reconsideration has been completed, the educational institution with jurisdiction shall report the decision made to its competent authority.
+
+The competent authority with jurisdiction over the educational institution shall, in accordance with the provisions of Article 4, Article 5 , and Article 11 of the Act, regularly monitor and assess the educational institution and include the campus safety planning and the improvements made to dangerous areas of the campus referred to in Article 4 and in Article 5, and the results of the educational institution's prevention, and investigating and handling of gender-related incidents on campus in the list of items to be regularly evaluated.
+
+### Article 41
+
+These Regulations take effect on March 8, 2024.
+
+## History
+
+\1. On March 30, 2005,the Ministry of Education Tai-Tsan Tzu No.0940038714C order
+
+\2. On February 10, 2011,the Ministry of Education Tai-Tsan Tzu No.1000010432C order revised
+
+\3. On May 24, 2012, the Ministry of Education Tai-Tsan Tzu No.1010081429C order revised
+
+\4. On December 24, 2019, the Ministry of Education Tai-Jiao-Xue (3) Tzu No.1080162495B order revised
+
+\5. On March 6, 2024, the Ministry of Education Tai-Jiao-Xue (3) Tzu No.1132801024B order revised

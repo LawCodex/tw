@@ -1,0 +1,249 @@
+---
+title: "Regulations Governing Application of Calculating Income from Controlled Foreign Company for Individual"
+title_zh: "個人計算受控外國企業所得適用辦法"
+identifier: "G0340146"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-11-14
+last_amended: 2023-12-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340146"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Application of Calculating Income from Controlled Foreign Company for Individual
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340146-regulations-governing-application-of-calculating-income-from-controlled-foreign.md](../../../zh/regulations/ministry-of-finance/G0340146-regulations-governing-application-of-calculating-income-from-controlled-foreign.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to the provisions set out in Paragraph 6, Article 12-1 of the Income Basic Tax Act.
+
+## Article 2
+
+For any individual and their related parties directly or indirectly holding 50% or more of the shares or capital of a foreign affiliated enterprise in a low-tax country or jurisdiction (hereinafter referred to as a "low-tax jurisdiction"), or having a significant influence on such a foreign affiliated enterprise, the said foreign affiliated enterprise is a controlled foreign company.
+
+If a controlled foreign company mentioned in the preceding paragraph is not subject to Article 43-4 of the Income Tax Act and does not meet the criteria of Paragraph 1 of Article 5 of these Regulations, and an individual, either alone or together with their spouse and relatives within the second degree of kinship, directly holds 10% or more of the shares or capital of such a controlled foreign company on December 31 of the current year, the individual shall calculate their income from profit-seeking activities in accordance with Article 12-1 of the Income Basic Tax Act under these Regulations.
+
+For an individual and their related parties directly or indirectly, through related parties, holding a combined total of 50% or more of the shares or capital of an affiliated enterprise in a low-tax jurisdiction as mentioned in the first paragraph, the holding ratio on December 31 of the current year shall be determined by aggregating the holding ratios calculated based on the following methods:
+
+\1. Where the individual directly holds the shares or capital of the said affiliated enterprise in a low-tax jurisdiction, the individual’s holding ratio shall be aggregated into the said calculation.
+
+\2. Where, through a domestic or foreign affiliated enterprise, the individual indirectly holds the shares or capital of an affiliated enterprise in a low-tax jurisdiction, and the individual’s holding ratio of the shares or capital of such domestic or foreign affiliated enterprise is over 50%, or the individual has control over such domestic or foreign affiliated enterprise, the holding ratios of the shares or capital of the said affiliated enterprise in the low-tax jurisdiction, directly and indirectly held by such domestic or foreign affiliated enterprise,  shall be aggregated into the said calculation; if the individual holds no more than 50% of the shares or capital of such domestic or foreign affiliated enterprise, the holding ratio of each layer of such domestic and foreign affiliated enterprise shall be multiplied and then aggregated into the said calculation.
+
+\3. For a related party or a nominal party who meets the following criteria, its direct and indirect holding ratios of the shares or capital of the said affiliated enterprise in a low-tax jurisdiction shall be aggregated into the said calculation in accordance with the methods prescribed in the preceding two subparagraphs:
+
+(1) An affiliated enterprise as defined in Subparagraphs 3 to 5 of Paragraph 2 of Article 3.
+
+(2) A related party as defined in Subparagraphs 1 to 10 of Paragraph 3 of Article 3.
+
+(3) The said individual that inappropriately circumvents the constituent elements prescribed in the preceding two items by the share transfer or other arrangements under another's name.
+
+\4. For the individual and their related parties, while calculating the direct or indirect holding ratio of the shares or capital of an affiliated enterprise in a low-tax jurisdiction in accordance with the preceding three subparagraphs, the higher figure shall be used in case of any duplicate calculations.
+
+Where the individual and their related parties have inappropriately circumvented the constituent elements specified in the preceding two paragraphs by the share transfer or other arrangements before or on December 31 of  the current year, the tax authority may determine the holding ratios of the shares or capital of the foreign affiliated enterprise in a low-tax jurisdiction in accordance with the highest aggregated holding ratio on any given day of the current year, to be calculated according to the methods provided in the preceding two paragraphs.
+
+The term "significant influence" mentioned in the first paragraph shall refer to the individual and their related parties have control over the personnel, finance, or business operations of the foreign affiliated enterprise in a low-tax jurisdiction.
+
+## Article 3
+
+The term "related parties" in the preceding article shall include affiliated enterprises and related parties other than the affiliated enterprises.
+
+The term "affiliated enterprises" in the preceding paragraph shall refer to where there are any of the following situations between an  individual and a domestic or foreign profit-seeking enterprise:
+
+\1. An individual directly or indirectly holds 20% or more of the total issued voting shares or total capital of a profit-seeking enterprise.
+
+\2. An individual holds the highest percentage of the total issued voting shares or total capital of a profit-seeking enterprise and such percentage reaches 10% or more.
+
+\3. The aggregate number of directors of a given profit-seeking enterprise appointed by another profit-seeking enterprise, in which the individual directly or indirectly holds over 50% of the total issued voting shares or total capital of the latter enterprise, is amounting to half or more of the total number of directors of the former enterprise.
+
+\4. An individual, their spouse or relatives within the second degree of kinship being the chairman, general manager, or the equivalent or superior of the profit-seeking enterprise.
+
+\5. An individual and a profit-seeking enterprise are parties to the same trust relation as the settlor, trustee, or beneficiary, where the trust property consists of shares or capital of an affiliated enterprise located in a low-tax jurisdiction. However, if the trustee is a trust enterprise licensed by the competent authority in its jurisdiction, such a trustee is regarded as a non-affiliated enterprise.
+
+\6. Other sufficient evidence that demonstrates the said individual has control over or the ability to participate in the decision-making of the personnel, finance, business operations, or management policies of a profit-seeking enterprise.
+
+The term "related parties other than the affiliated enterprises" in the first paragraph shall refer to a domestic or foreign individual, or an educational, cultural, public welfare, or charitable organization or institution that has any of the following relations with the individual:
+
+\1. Spouse and relatives within the second degree of kinship.
+
+\2. The relatives or family members included in the individual's annual income tax return as the same tax household for the current year.
+
+\3. Persons in the same trust relation with the individual as the settlor, trustee, or beneficiary, where the trust property consisted of shares or capital of an affiliated enterprise in a low-tax jurisdiction, including the settlor, trustee, or beneficiary themselves, their spouses and relatives within the second degree of kinship.
+
+\4. A foundation has received donations from the individual amounting to 1/3 or more of its total funds in its balance sheet.
+
+\5. The aggregate number of directors represented by the individual and the individual’s spouse or relatives within the second degree of kinship which reaches one half or more of the total number of directors of the foundation.
+
+\6. The directors, supervisors, general manager or its equivalent or superior, vice general managers, assistant general managers, and department heads under the direct supervision of the general manager of the affiliated enterprises provided in the subparagraphs of preceding paragraph.
+
+\7. The spouses of the directors, supervisors, general manager, or its equivalent or superior of the affiliated enterprises provided in the subparagraphs of preceding paragraph.
+
+\8. The relatives within the second degree of kinship of the chairman of the board, or general manager or its equivalent or superior of the affiliated enterprises provided in the subparagraphs of preceding paragraph.
+
+\9. Other partners and their spouses of a partnership where the individual or their spouse serves as a partner.
+
+\10. Other circumstances whereby an individual has substantive control over the finance, economic, or investment decisions of another individual or an educational, cultural, public welfare, or charitable organization or institution.
+
+## Article 4
+
+The term "low-tax jurisdiction" referred to in Article 2 shall mean the country or jurisdiction of affiliated enterprises who meets any of the following conditions:
+
+\1. The statutory tax rate of the profit-seeking enterprise income tax or substantially similar tax in the affiliated enterprise’s country or jurisdiction is not more than 70% of the tax rate prescribed in Subparagraph 2, Paragraph 5, Article 5 of the Income Tax Act.
+
+\2. The affiliated enterprise’s country or jurisdiction taxes only on income sourced from it, and foreign-sourced income is either not taxed or is taxed only upon actual remittance.
+
+For a country or jurisdiction that applies a specific tax rate or tax regime to a given region or type of enterprise, such specific tax rate or regime shall be considered in the determinations under the preceding paragraph.
+
+The Ministry of Finance shall announce a reference list of low-tax jurisdictions prescribed in the first paragraph.
+
+## Article 5
+
+A controlled foreign company that carries out substantial operating activities in its country or jurisdiction, or its current-year earnings do not exceed a given standard, may be exempt from compliance with Paragraph 1 of Article 8.
+
+The term "substantial operating activities" referred to in the preceding paragraph shall mean a controlled foreign company that meets the following criteria:
+
+\1. It has a fixed place of business in its registered place and recruits employees to carry out actual operating business at the local area.
+
+\2. The sum of its investment income, dividends, interest, royalties, rental income, and gains on the sale of assets for current year constitutes less than 10% of the sum of its net operating income and non-operating income; however, the following items are not included in the calculation of the numerator or denominator:
+
+(1) Income and gains from the overseas branches of a controlled foreign company are not included in either the calculation of the numerator or the denominator.
+
+(2) A controlled foreign company's royalty income and rental income earned from the use of intangible assets developed in-house or tangible assets developed, constructed, or manufactured by itself in its registered place, as well as gains on the sale of such assets, are not included in the calculation of the numerator.
+
+The term "current-year earnings do not exceed a given standard" in the first paragraph shall refer to where the current-year earnings of each controlled foreign company are no more than NTD 7 million individually. However, for controlled foreign companies that their shares or capital are directly held by the individual and their spouse and dependents who are included in a joint annual income tax return for the current year and do not meet the criteria of substantial operating activities mentioned in the previous paragraph, if the sum of their current-year earnings or losses is a positive number exceeding NTD 7 million, Paragraph 1 of Article 8 shall be applied to such controlled foreign companies.
+
+For a controlled foreign company whose operating period within a fiscal year is less than one year, when applying the preceding paragraph, its current-year earnings or losses shall be annualized based on the proportion of the months of operation to the full year. Any part of the operating period less than a full month shall be regarded as a full month for such calculations.
+
+## Article 6
+
+The term "current-year earnings" prescribed in these Regulations shall be calculated according to the following provisions:
+
+\1. Current-year earnings = The controlled foreign company’s net profit (or loss) after tax of the current year and other profit (or loss) items included in the undistributed surplus earnings of the current year as per the Financial Accounting Standards endorsed by the Republic of China - Investment income (or loss) derived from invested enterprises in non-low-tax jurisdictions recognized under the equity method as prescribed in Subparagraph 2 + Realized investment income (or loss) from invested enterprises in non-low-tax jurisdictions recognized under the equity method as prescribed in Subparagraph 3 + Adjustment amount for the disposal of equity interests of invested enterprises in non-low-tax jurisdictions recognized under the equity method as prescribed in Subparagraph 4 + Amounts calculated as per Article 7.
+
+\2. Investment income (or loss) derived from invested enterprises in non-low-tax jurisdictions recognized under the equity method = The sum of net profit (or loss) after tax and other profit (or loss) items included in the undistributed surplus earnings of the current year of the invested enterprise × The weighted average ratio of shares or capital held by the controlled foreign company of that enterprise - Related income tax expenses + Related income tax benefits.
+
+\3. Realized investment income (or loss) from invested enterprises in non-low-tax jurisdictions recognized under the equity method = (The resolved amount of surplus earnings distribution of the invested enterprise - Income tax paid on the dividends or surplus earnings of the invested enterprise in its country or jurisdiction) × The controlled foreign company's holding ratio of the invested enterprise's shares or capital on the distribution date - The realized investment loss derived from the invested enterprise × The controlled foreign company's holding ratio of the invested enterprise's shares or capital on the realization date. It shall be processed in accordance with the following provisions:
+
+(1) The resolved amount of surplus earnings distribution of the invested enterprise shall be recognized based on the amount agreed upon by the shareholders of the said invested enterprise or resolved in its shareholder meeting, and the year of the distribution date shall be considered as the accrual year.
+
+(2) The accrual year for realized investment losses is the year of the realization date of such losses. If the invested enterprise incurs a loss, but the original equity capital contributed by the investing enterprise is not reduced, such investment losses are not considered as realized.
+
+(3) If the said invested enterprise resolves to distribute the surplus earnings of the fiscal year 2022 and prior years before or on March 31, 2024, and the individual provides sufficient documents to prove such distribution of surplus earnings within the deadline specified in Paragraph 1 of Article 71 of Income Tax Act, then the said resolved amount of surplus earnings distribution is exempt from the calculation as per the preamble.
+
+\4. Adjustment amount for the disposal of equity interests of invested enterprises in non-low-tax jurisdictions recognized under the equity method = [The book value (including investment income or loss recognized under the equity method) of the invested enterprises in non-low-tax jurisdictions held directly by the controlled foreign company on the disposal date – The original acquisition cost of the invested enterprises in non-low-tax jurisdictions by the controlled foreign company] + [The book value (including investment income or loss recognized under the equity method) of the invested enterprises in non-low-tax jurisdictions held directly by the controlled foreign company’s invested enterprises in low-tax jurisdictions on the disposal date – The original acquisition cost of the invested enterprises in non-low-tax jurisdiction held directly by the controlled foreign company’s invested enterprises in low-tax jurisdictions] × the holding ratio of shares or capital of the invested enterprises in the low-tax jurisdictions held by the controlled foreign company on the disposal date – Related income tax expenses + Related income tax benefits. When the controlled foreign company indirectly holds the invested enterprises in non-low-tax jurisdictions through multiple layers of invested enterprises in low-tax jurisdictions, and either the controlled foreign company or the intermediary invested enterprise in a low-tax jurisdiction disposes of the equity interest of the invested enterprise of the next layer in a low-tax jurisdiction, the said adjustment amount shall be calculated in accordance with the aforementioned provision.
+
+The Financial Accounting Standards endorsed by the Republic of China mentioned in Subparagraph 1 of the preceding paragraph shall refer to the Enterprise Accounting Standard and interpretations thereof announced by the Accounting Research and Development Foundation, and International Financial Reporting Standards (IFRS), International Accounting Standards (IAS), interpretations, and interpretative announcements endorsed by the Financial Supervisory Commission, and the Regulations Governing the Preparation of Financial Reports by Securities Issuers.
+
+The calculation of the adjustment amount mentioned in Subparagraph 4 of Paragraph 1 shall be consistent with the following provisions:
+
+\1. If the said adjustment amount is already included in the calculation basis of current-year earnings for the current or previous years as prescribed in Subparagraph 1 of Paragraph 1, or in the amounts calculated according to Subparagraphs 2 to 4 of Paragraph 1, leading to duplication in inclusion, it shall be excluded; if it leads to duplication in deduction, it shall be included.
+
+\2. For a controlled foreign company and the invested enterprises in low-tax jurisdictions directly or indirectly held by this company, if they acquired and recognized the shares or capital of invested enterprises in non-low-tax jurisdictions under the equity method before or on December 31, 2022, the original acquisition cost shall be determined based on the book value of such invested enterprises in non-low-tax jurisdictions on December 31, 2022.
+
+The positive amounts calculated according to the provisions of Subparagraphs 2 to 4 of the first paragraph shall be included as positive figures in the formula of Subparagraph 1 of Paragraph 1; the negative amounts shall be included as negative figures.
+
+For the components of the current-year earnings prescribed in these Regulations that are recorded or paid in foreign currency, the conversion to New Taiwan Dollar shall be calculated using the annual average exchange rate based on the closing spot buying rate of the said foreign currency announced by Bank of Taiwan at the end of each month (if such rate is not available, then use the cash buying rate), rounded to the fifth decimal place. If the said foreign currency is not one of the currencies announced by Bank of Taiwan, such conversion should be made using the closing spot buying rate of this foreign currency announced by the major correspondent bank of the controlled foreign company at the end of each month (if such rate is not available, then use the cash buying rate), and convert it to any announced currency of Bank of Taiwan, and then processed according to the aforementioned provision.
+
+## Article 7
+
+An individual that directly holds shares or capital of a controlled foreign company, where the controlled foreign company possesses financial instruments measured at fair value through profit or loss (hereinafter referred to as FVPL), may choose to process based on the provisions of this article; the selected method cannot be changed once chosen unless as prescribed in Paragraph 5.
+
+An individual shall choose the same calculation method for all their controlled foreign companies in which the individual holds shares or capital directly; the individual shall disclose relevant information and attach or prepare documents as prescribed in Article 10.
+
+An individual that chooses to comply with the provisions of this article, when calculating the current-year earnings of the controlled foreign company as per Subparagraph 1 of Paragraph 1 of the preceding article, may deduct the amount of FVPL's fair value changes; the said individual shall add the adjustment amount for the disposal of FVPL while disposing of FVPL, and add the adjustment amount for the reclassification of FVPL while reclassifying FVPL:
+
+\1. The specified "amount of FVPL’s fair value changes" refers to the balance of the gains arising from FVPL's fair value changes minus the losses arising from FVPL's fair value changes.
+
+\2. The specified "adjustment amount for the disposal of FVPL" refers to the balance of the FVPL's book value on the disposal date minus the FVPL's original acquisition cost.
+
+\3. The specified "adjustment amount for the reclassification of FVPL" refers to the balance of the FVPL’s fair value on the date of reclassification minus the FVPL’s original acquisition cost when the FVPL is reclassified as a financial instrument measured at amortized cost or measured at fair value through other comprehensive income.
+
+The calculation methods specified in the subparagraphs of preceding paragraph shall conform to the following provisions:
+
+\1. For the amounts specified in the subparagraphs of preceding paragraph, if the amount obtained is positive, it shall be included as a positive figure in the calculation; if the amount obtained is negative, it shall be included as a negative figure in the calculation.
+
+\2. The FVPL's original acquisition cost shall be determined based on its book value at the beginning of the year in which this article is chosen to apply; for a FVPL which is acquired or reclassified from another type of financial instrument during that year, its original acquisition cost shall be determined based on its book value on the purchase date or reclassification date.
+
+\3. The FVPL’s original acquisition cost shall be determined based on one of the calculation methods prescribed in Article 46 of the Enforcement Rules of the Income Tax Act; the selected method cannot be changed once chosen until the said FVPL is entirely disposed of.
+
+If an individual chooses to calculate the current-year earnings of a controlled foreign company in which the individual holds shares or capital directly as per the four preceding paragraphs of this article, but fails to provide documents within the deadline as prescribed in Subparagraphs 1 to 4 of Paragraph 1 of Article 10 or fails to provide documents within the deadline as required by the Subparagraph 4 of Paragraph 2 of the same article, or this individual does not consistently use the same method for calculating the current-year earnings of the controlled foreign company, then from the year of such non-compliance or non-consistent calculation first occurs, the said individual is disqualified from applying the provisions of this article for ten years. Moreover, the net adjustment amount of current-year earnings of the controlled foreign companies as per the two preceding paragraphs shall be accumulated to  December 31 of the year in which non-compliance or inconsistency first occurred; such accumulation shall then be included in the current-year earnings of the same year in accordance with the provisions of the preceding article.
+
+## Article 8
+
+If an individual, either alone or together with their spouse and relatives within the second degree of kinship, holds directly 10% or more of the shares or capital of a controlled foreign company on December 31 of the current year, to calculate the individual’s income from profit-seeking activities based on the individual’s direct holding ratio and holding period of the shares or capital of a controlled foreign company, the said individual shall deduct the legal reserve or items of restricted distribution of surplus earnings in accordance with the laws of the country or jurisdiction of the controlled foreign company, as well as the losses of past years assessed by the tax authority, from the current-year earnings of the said controlled foreign company. The aggregation of such income and other incomes under Subparagraph 1 of Paragraph 1 of Article 12 of the Income Basic Tax Act shall be included into the individual’s basic income of the current year; however, if the said aggregation of a tax household is less than NT$ NTD 1,000,000 for the year, this aggregation shall be exempt from being included into the individual's basic income of the current year.
+
+The holding ratio and holding period of the individual mentioned in the preceding paragraph shall be calculated based on the proportion of their holding of the shares or capital of the controlled foreign company relative to the total issued shares or total capital of the controlled foreign company, with the weighted average over the holding period. However, if the tax authority cannot ascertain the holding period, the weighted holding ratio may be determined based on the actual holding of the shares or capital of the controlled foreign company on December 31 of the current year.
+
+From the year a foreign affiliated company qualifies as a controlled foreign company, the individual may sequentially deduct assessed losses of previous years from the controlled foreign company’s current-year earnings for up to ten years, starting from the year following the one in which the loss occurred, as prescribed in the first paragraph, provided that, the individual has provided documents within the deadline as prescribed in Subparagraphs 1 to 4 of Paragraph 1 of Article 10, and has calculated the losses of the controlled foreign company as prescribed in Article 6 and the preceding article, and has filed them in the required format and such losses have been assessed by the tax authority of  the individual's registered domicile. If the individual falls under one of the following criteria, the said assessed losses of previous years shall still be deducted from the current-year earnings of the controlled foreign company.
+
+\1. The individual is exempt from compliance with Paragraph 1 since they fail to meet the holding ratio requirement prescribed in the forepart of the main text of Paragraph 1 in the current year.
+
+\2. The individual is exempt from compliance with Paragraph 1 since the controlled foreign company meeting the criteria of Paragraph 1 of Article 5 in the current year.
+
+\3. According to the proviso of Paragraph 1, the individual is exempt from aggregating the current-year earnings of the controlled foreign company, calculated based on the individual’s direct holding ratio and holding period of shares or capital, into the individual's basic income.
+
+Where a controlled foreign company carries out a capital reduction to compensate the assessed losses mentioned in the forepart of the preamble of preceding paragraph, the amount of loss compensated accordingly shall be sequentially deducted from the assessed losses of previous years.
+
+## Article 9
+
+Where an individual receives dividends or surplus earnings from each controlled foreign company, the amount received has been calculated as income from profit-seeking activities and included in the basic income of the current year under the preceding article shall not be included in the basic income of the distribution year; the excess amount shall be included in the basic income of the distribution year.
+
+If the difference between the dividends or surplus earnings not included in the basic income of the distribution year, as mentioned in the preceding paragraph, and the actual amount distributed, which arises from the difference in exchange rates on the distribution date and the rate used to calculate the current-year earnings of the controlled foreign company according to Articles 6 and 7, is a positive number, it shall be calculated as the individual's income from profit-seeking activities of the distribution year, as prescribed in Subparagraph 1 of Paragraph 1 of Article 12 of the Basic Income Tax Act. If the said difference is a negative number, it may be deducted from the individual's basic income for the distribution year, but the deduction cannot exceed the basic income of the distribution year.
+
+Where an individual has received dividends or surplus earnings from each controlled foreign company, the income tax paid on such dividends or surplus earnings according to the tax laws of the source jurisdiction may be credited against the basic tax of the year in which the income from profit-seeking activities is included in the individual's basic income as per the forepart of Paragraph 1 of Article 13 of Income Basic Tax Act, within five years from the day following the filing deadline; any overpaid tax is refundable. The credited amount cannot exceed the increase in basic tax calculated due to the inclusion of such income from profit-seeking activities under regulations.
+
+Where an individual transfers of the shares or capital of a controlled foreign company, the gain or loss from transaction shall be calculated in accordance with the following provisions:
+
+\1. Gain or loss from transaction = Income resulted from the transaction – Original acquisition cost – The balance of the calculated income from profit-seeking activities of the controlled foreign company on the transaction date × Transaction ratio.
+
+\2. The balance of the calculated income from profit-seeking activities of the controlled foreign company on the transaction date, as shown in the preceding subparagraph = The income from profit-seeking activities of the controlled foreign company that has been calculated in accordance with Paragraph 1 of the preceding article cumulative to the transaction date – The actual distributed dividends or surplus earnings of previous years excluded from the basic income of the distribution year in accordance with Paragraph 1 – The deductions of the income from profit-seeking activities balance of the controlled foreign company, to be calculated based on the transaction ratios of previous years.
+
+## Article 10
+
+When an individual files their income tax return or basic income tax return within the deadline stipulated in Paragraph 1 of Article 71 of the Income Tax Act, the individual shall disclose relevant information in the prescribed format and provide the following documents:
+
+\1. The organizational charts of the individual and their related parties, and the amounts and holding ratios of the shares or capital of the individual and their related parties as of December 31 of the taxable year.
+
+\2. The financial statements of a controlled foreign company shall cover January 1 to December 31 of the current year, and shall be audited and certified to by a Certified Public Accountant from the controlled foreign company's country or jurisdiction, or from the Republic of China. However, if an individual can provide any document sufficient to prove the authenticity of the financial statements of the said controlled foreign company, and such document is validated by the tax authority of the individual's registered domicile, such documents may replace the financial statements that have been audited and attested to by a Certified Public Accountant as prescribed above. If the individual is unable to provide such documents before the prescribed deadline, the individual shall state the reasons and apply for an extension to provide such documents to the tax authority before the filing deadline of the annual income tax return; the maximum extension period is six months and can be granted only once.
+
+\3. The statement of loss deductions of the past ten years of the controlled foreign company.
+
+\4. Statement of calculated income from profit-seeking activities from the controlled foreign company (including deductions of the actual distributed dividends or surplus earnings of the controlled foreign company, and the deductions of the balance of the calculated income from profit-seeking activities of the controlled foreign company cumulative up to the transaction date, to be calculated based on the transaction ratio).
+
+\5. An individual that applies for the provisions of Paragraph 3 of the preceding article shall provide the tax payment certificates issued by the tax authorities of the source jurisdictions.
+
+\6. Documents of shareholders' consents or minutes of shareholders' meetings of the controlled foreign company’s invested enterprises.
+
+\7. Certification documents of capital reduction for loss compensation, merger, bankruptcy, or liquidation of the invested enterprises of the controlled foreign company. However, documents originating from the Mainland Area shall be authenticated by the institutions or private organizations as stipulated in Article 7 of the Act Governing Relations between the People of the Taiwan Area and the Mainland Area.
+
+The individual shall prepare the following documents and provide them to the tax authority within one month from the next day of the delivery date of a written investigation letter. If the individual is unable to provide such documents before the prescribed deadline, they shall state the reasons and apply for an extension to provide such documents to the tax authority before the said deadline; the maximum extension period is one month and can be granted only once:
+
+\1. Details of the changes of the shareholding of the individual and their related parties.
+
+\2. Financial statements of the invested enterprises in non-low-tax jurisdictions.
+
+\3. Documents proving that the controlled foreign company complies with the Subparagraph 1 of Paragraph 2 of Article 5.
+
+\4. For an individual who chooses to apply the calculation methods specified in Paragraphs 1 to 4 of Article 7, such individual shall provide an audit report on the holding, measurement, and disposition of financial instruments of the controlled foreign company and the report shall be audited by a Certified Public Accountant from the controlled foreign company's country or jurisdiction, or from the Republic of China.
+
+If an individual fails to disclose and provide the relevant documents prescribed in the preceding two paragraphs, the tax authority shall assess the individual’s income from profit-seeking activities based on available information.
+
+If an individual refuses to provide the documents prescribed in Paragraphs 1 and 2 herein, the tax authority shall handle such matter in accordance with Article 46 of the Tax Collection Act.
+
+## Article 11
+
+These Regulations shall come into force from January 1, 2023.
+
+## History
+
+\1. Promulgated by Decree No. 10604669870 issued by the Ministry of Finance on November 14, 2017.
+
+The enforcement date is designated to be January 1, 2023 by Decree No. 11104695140 issued by the Ministry of Finance on November 18, 2022.
+
+\2. Amended by Decree No. 11204692280 issued by the Ministry of Finance on December 22, 2023, and effective on January 1, 2023.

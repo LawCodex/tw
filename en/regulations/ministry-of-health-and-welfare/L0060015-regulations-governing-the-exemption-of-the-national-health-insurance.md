@@ -1,0 +1,144 @@
+---
+title: "Regulations Governing the Exemption of the National Health Insurance Beneficiaries from the Co-Payment"
+title_zh: "全民健康保險保險對象免自行負擔費用辦法"
+identifier: "L0060015"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-08-19
+last_amended: 2024-09-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060015"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Exemption of the National Health Insurance Beneficiaries from the Co-Payment
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0060015-regulations-governing-the-exemption-of-the-national-health-insurance.md](../../../zh/regulations/ministry-of-health-and-welfare/L0060015-regulations-governing-the-exemption-of-the-national-health-insurance.md)) is authoritative.
+
+## Article 1
+
+The Regulations Governing the Exemption of the National Health Insurance Beneficiaries from the Co-Payment (hereinafter referred to as “the Regulations”) are duly enacted pursuant to Paragraph 2 of Article 48 of the National Health Insurance Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The item and expiry date of the certificate of major illness and injury set forth in Article 48 of the Act are stipulated in Appendix 1.
+
+A beneficiary who is diagnosed by a physician of a contracted hospital or clinic as suffering from a major injury or illness may apply to the Insurer for the certificate of major illness and injury by himself or herself or another person, hospital, or clinic appointed by the beneficiary as his or her agent with the submission of the following documents:
+
+\1. Application form for the certificate of major illness and injury of the National Health Insurance (Appendix 2);
+
+\2. The relevant supporting document and supporting evidence, such as certificate of diagnosis (Code of the International Classification of Diseases shall be specified in the disease name column) , medical record abstract, or examination report, which a contracted hospital or clinic issues. A certificate of diagnosis is valid only within 30 days from its issuance. An application will be declined if the accompanying certificate of diagnosis expires;
+
+\3. Photocopies of identification documents;
+
+\4. Where a beneficiary requires dialysis treatment due to chronic kidney failure or requires respirator for a long term due to respiratory failure, the contracted hospital or clinic shall fill out an additional form attached to the National Health Insurance Application Form for the Certificate of Major Illness and Injury by Patient Who Requires Regular Dialysis Treatment Due to Chronic Kidney Failure or the attached form to the Application Form for the Certificate of Major Illness and Injury by Respiratory Patient (Appendixes 3, 4 and 5).
+
+Where the Insurer requires supplementary data when reviewing the documents set forth in the preceding paragraph, it may notify the contracted hospital or clinic to assist and notify the applicant at the same time.
+
+In the event that a contracted hospital or clinic applies for the certificate of major illness and injury on behalf of a beneficiary, it may provide a list and deliver such list to the Insurer by facsimile, in person, or via the Internet, and thereafter submit the documents set forth in Paragraph 2 within one month from the date of application.
+
+In the case of the major illnesses and injuries listed in Appendix 1, which physicians directly decide, the certificate of major illness and injury required under Paragraph 2 shall be exempted.
+
+## Article 3
+
+The Insurer shall determine whether to issue the certificate of major illness and injury within 14 days after it accepts the application documents listed in the preceding article (excluding weekends and public holidays) and notify the applicant or his or her agent of the results.
+
+Where any supplementary document is required during the period stipulated in the preceding paragraph, the time for submitting the supplementary document may be excluded from the calculation of the deadline in the preceding paragraph.
+
+The certificate of major illness and injury shall be noted in the National Health Insurance card. Notwithstanding, if the item of major illness and injury is a disease set forth in Paragraph 6 of Appendix 1, the Insurer shall issue a written certificate.
+
+## Article 4
+
+If an applicant disagrees with the decision that the Insurer has made regarding his or her application for the certificate of major injury and illness, he or she may file a written application for review within 30 days after receiving the notice from the Insurer, who in turn shall determine the review result within 30 days after it receives the review application.
+
+In the event that the applicant disagrees with the determination made by the Insurer according to Paragraph 1 of the preceding article or the review results made pursuant to the preceding paragraph, he or she may apply for dispute mediation according to the Regulations Governing the National Health Insurance Dispute Mediation Committee.
+
+Where a dispute mediation application in the preceding paragraph is declined, the applicant shall submit a new examination, test, or pathological section report before he or she may re-apply for the certificate of major illness and injury.
+
+Where medical records of the applicant or the relevant diagnostic documents are required from the contracted medical care institution, the calculation of the time to determine an application in Paragraph 1 shall begin from the delivery of the aforementioned records or documents to the Insurer.
+
+## Article 5
+
+The certificate of major illness and injury shall become effective as of the date when a beneficiary submits his or her application. However, when a major illness or injury is a rare disease, the effective date of a certificate of major illness and injury will retroactively be the date that medical personnel reported the detection of a patient who had contracted a rare disease to the central competent authority in accordance with Article 7 of the Rare Disease and Orphan Drug Act.
+
+The applicant may re-apply for the certificate of major illness and injury within the following period according to Article 2 if his or her certificate of illness and injury expires:
+
+\1. The valid period is more than two years: three months before the certificate expires;
+
+\2. The valid period is one year or six months: one month before the certificate expires; or
+
+\3. The valid period is less than three months: fourteen days before the certificate expires.
+
+Where an applicant re-applies for the certificate within the period stipulated in the preceding paragraph, and the Insurer approves the applicant to continuously hold the certificate of majorillness and injury, the valid period of the certificate may immediately follow the expiry date of the previous certificate. Where an applicant re-applies for the certificate after the stipulated time in the preceding paragraph and the Insurer approves the applicant to continuously hold the certificate of major illness and injury, the effective date of the certificate of major illness and injury held by the said applicant shall be the date when a beneficiary (the said applicant) submits his or her application. Where the original illness is confirmed as non-compliance with the requirement of major illness and injury after review, the certificate of major illness and injury will no longer be issued.
+
+If a written certificate of major illness and injury (including notice of approval) is lost, damaged, or used for another purpose during its valid period, the beneficiary may fill out an application form together with his or her identification document to apply to the Insurer for a replacement or additional certificate.
+
+In the event that the Insurer verifies that an issued certificate of major illness and injury fails to conform to the requirement, it shall immediately notify the applicant and revoke or terminate the certificate of major illness and injury.
+
+After receiving a certificate of major illness and injury issued by the Insurer during the valid period of the certificate, the beneficiary may apply to the Insurer in writing to terminate the certificate.
+
+## Article 6
+
+Where a beneficiary undertakes a medical visit with a valid certificate of major illness and injury within an effective period, the scope of the exemption of his or her co-payment is as follows:
+
+\1. The treatment is related to the illness and injury recorded in the certificate of major illness and injury or the diagnosis confirmed by the responsible physician;
+
+\2. Other treatments provided by the same outpatient physician who provides medical care for the major illness and injury; or
+
+\3. Other concurrent treatments with the treatment for major illness and injury required due to the beneficiary’s hospitalization caused by a major illness and injury or the beneficiary’s medical condition during his or her hospitalization.
+
+Where a beneficiary is hospitalized due to a major illness and injury and has successfully applied for the certificate of major illness and injury for the said illness and injury during his or her hospitalization, he or she will be exempted from co-payment for his or her current hospitalization. If an examination report is conducted during a beneficiary’s hospitalization, it subsequently confirms that the disease is a major illness and injury after the beneficiary is discharged from the hospital. The beneficiary has successfully applied for the certificate of major illness and injury with the aforementioned examination report, as well as the co-payments arising from the hospitalization when the examination is undertaken. The relevant outpatient visits which follow the beneficiary’s discharge from the hospital are all exempted.
+
+The period of the exemption of co-payment for hospitalization in the preceding paragraph shall commence on the first day of the beneficiary’s hospitalization until the expiry date of his or her certificate of major illness and injury. If a beneficiary is hospitalized after being referred from the emergency department, the aforementioned period shall commence on the first day when he or she receives emergency care.
+
+## Article 7
+
+If a beneficiary conducts a medical visit due to child delivery, her co-payment shall be exempted. For treatments for complications caused by child delivery or another illness in the current hospitalization, the co-payment may be exempted.
+
+## Article 8
+
+Where a beneficiary who receives outpatient or emergency care from a hospital or clinic, is hospitalized, or receives home nursing care in a mountain region or an outlying island, his or her co-payment shall be exempted.
+
+The area of the mountain region and outlying island in the preceding paragraph is set forth in Appendix 6.
+
+## Article 9
+
+The Regulations shall enter into force on January 1, 2013.
+
+The Amendment to the Regulations shall enter into force on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1  National Health Insurance Major Illness/Injury Items and the Validity Period of Each Certificate.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008691)
+- [Appendix 2  Application Form for the National Health Insurance Certificate of Major Illness and Injury.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003054)
+- [Appendix 3  Attached Form to the National Health Insurance Application Form for the Certificate of Major Illness and Injury Applied by Patient Who Requires Periodical Dialysis Treatment Due to Chronic Renal Failure.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002608)
+- [Appendix 4  Attached Form to the National Health Insurance Application Form for the Certificate of Major Illness and Injury Applied by Patient Who Requires Periodical Dialysis Treatment Due to Chronic Renal failure\[Re-application\].PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002609)
+- [Appendix 5  Attached Form to the Application Form for the Certificate of Major Illness and Injury Applied by Respiratory Patient.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002610)
+- [Appendix 6  List of Mountain Regions and Outlying Islands of the National Health Insurance.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002611)
+
+## History
+
+1.Promulgated on 19 Aug. 2000 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0890012851
+
+2.Amended on 19 Dec. 2002 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-0910079053
+
+3.Amended on 2011 March 25 to Article 2 of Regulations Governing the Exemption of the National Health Insurance Beneficiaries from the Co-Payment in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-1002660067.
+
+4.Amended on 30 Oct. 2012 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-1012660255
+
+5.Amended Article 9, Tables 1 to 5 of Article 2, and Table 6 of Article 8 on 10 Dec. 2014 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1031260853
+
+6.Amended Article 5, and Tables 1 and 2 of Article 2 on 14 Dec.2015 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1041260872
+
+7.Amended Tables 1 of Article 2 on 10 Aug.2018 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1071260358
+
+8.Amended Tables 1 of Article 2 on 2 Apr.2019 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1081260105
+
+9.Amended Article 5, and Tables 1 of Article 2 on 19 Dec.2022 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1111260394
+
+10.Amended Table 1 of Article 2 on 16 Sep.2024 in accordance with Ministry of Health and Welfare Wei-Bu-Pao-1131260508

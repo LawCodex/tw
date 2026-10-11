@@ -1,0 +1,222 @@
+---
+title: "Regulations on Final Disposal of Low Level Radioactive Waste and Safety Management of the Facilities"
+title_zh: "低放射性廢棄物最終處置及其設施安全管理規則"
+identifier: "J0160037"
+type: regulation
+law_level: "命令"
+category: "行政＞核能安全委員會＞原子能目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-09-10
+last_amended: 2012-07-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160037"
+retrieved: 2026-10-12
+---
+
+# Regulations on Final Disposal of Low Level Radioactive Waste and Safety Management of the Facilities
+
+> Translation. The Chinese text ([zh/regulations/nuclear-safety-commission/J0160037-regulations-on-final-disposal-of-low-level-radioactive-waste-and-safety.md](../../../zh/regulations/nuclear-safety-commission/J0160037-regulations-on-final-disposal-of-low-level-radioactive-waste-and-safety.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+This Regulations is enacted pursuant to Article 21 of the Nuclear Materials and Radioactive Waste Management Act.
+
+### Article 2
+
+The terms used in this Regulations are defined as follows:
+
+1.Solidifying & Packing: refers to transforming the waste into stable solidified waste and encapsulating them into the containers, so as to making the operation of waste packages suitable for loading, unloading, transportation, storage, and disposal.
+
+2.Leaching index: refers to the index of radioactive nuclides’ leaching from the solidified waste.
+
+3.Final disposal facilities of low level waste (hereinafter shortened as “low level disposal facilities”): refer to the lands, buildings, structures, and equipments used to dispose of the low level waste.
+
+4.Multiple barrier: refers to the combination of solidified waste, containers, buffering and backfill materials, engineering structures, and stratums as well as natural barriers used by the radioactive waste disposal facilities to delay the leaching, leakage, and migration of the radioactive nuclides.
+
+5.Disposal control area: refers to the surface and underground space within the range of the disposal facilities of radioactive waste. Permanent monuments or markers shall be set to indicate the borderlines of the disposal control area.
+
+6.High-Integrity Container: refers to the low level waste container which can maintain its structural integrity and prevent the radionuclide release in at least three hundred years.
+
+## Chapter 2 Requirements on Final Disposal of Low level Waste
+
+### Article 3
+
+According to the concentration of the radioactive nuclides, low level waste is classified as follows:
+
+1.Class A waste: refers to nuclide concentration of low level waste which is not higher than 1/10 of the concentration value in the Annexed Table 1 and not higher than the concentration value in the column 1 of the Annexed Table 2, or the nuclides contained in which are not listed in Annexed Tables 1 and 2.
+
+2.Class B waste: refers to nuclide concentration of low level waste which is higher than the value listed in the column 1 and not higher than that listed in the column 2 of the Annexed Table 2.
+
+3.Class C waste: refers to nuclide concentration of low level waste which is higher than 1/10 and not higher than the value in the Annexed Table 1, or higher than the value listed in the column 2 but not higher than that listed in the column 3 of the Annexed Table 2.
+
+4.Greater-Than-Class C waste: refers to nuclide concentration of low level waste which is higher than the value in the Annexed Table 1, or higher than the value in the column 3 of the Annexed Table 2.
+
+### Article 4
+
+The final disposal of low level waste shall meet the following provisions:
+
+1.Class A waste shall meet the provisions of Article 5. Where Class A waste is disposed of together with Class B or C waste, the relevant provisions for Class B or C waste shall be observed.
+
+2.Solidifying & packing shall be performed for Class B waste, and the waste shall meet the provisions of both Article 5 and Article 6. Where Class B waste is disposed of together with Class C waste, the relevant provisions for Class C waste shall be observed.
+
+3.Solidifying & packing shall be performed for Class C waste, and the waste shall meet the provisions of both Article 5 and Article 6. Additionally, the engineering design of the disposal area shall be strengthened to ensure the safety of those inadvertent intruders after institutional control period.
+
+4.Greater-Than-Class C waste shall not be disposed of in the low level disposal facilities waste unless it is approved by the competent authority.
+
+Class A waste that is unsuitable for solidification, or whose solidified form does not meet the provisions of Article 6, shall be packed in a container with a design life of at least 100 years, or emplaced within engineered barriers providing equivalent function, or disposed of by the competent authority approved method.
+
+Class B and C waste that is unsuitable for solidification, or whose solidified form does not meet the provisions of Article 6, shall be packed in a high-integrity container approved by the competent authority, or disposed of by the competent authority approved method.
+
+### Article 5
+
+The waste of the low level disposal facilities shall meet the following provisions:
+
+1.The volume of free standing water shall not be more than 0.5% of the total volume.
+
+2.Explosion shall never occur under normal temperature and pressure.
+
+3.Fire resistance shall be provided.
+
+4.No toxic, corrosive or infectious substance is contained.
+
+5.No harmful toxic gas, vapor or fume is contained or will be produced.
+
+### Article 6
+
+Homogeneously solidified low radioactive waste shall comply with the following provisions:
+
+1.Use the single-axis compression strength method to test the mechanical strength of cement-solidified or high-temperature melting waste which shall be more than 15kg/cm2; the mechanical strength of bituminous waste shall be measured by penetration test, and the value of penetration shall be less than 100.
+
+2.The leaching index shall be greater than 6.
+
+3.After the process of water resistance test, the provisions of Subparagraph 1 shall be observed.
+
+4.After the process of weather resistance test, the provisions of Subparagraph 1 shall be observed.
+
+5.After the process of radiation resistance test, the provisions of Subparagraph 1 shall be observed.
+
+6.After the process of bacteria-resistance test, the provisions of Subparagraph 1 shall be observed.
+
+The items, methods, and standards of the tests referred to in the Subparagraphs 1 and 3 of the preceding and the provisions of the preceding paragraph are set forth in the Annexed Table 3.
+
+## Chapter 3 Requirements on the Sites and Design of the Final Disposal Facilities
+
+### Article 7
+
+A site of low level waste disposal facility shall not be located in any of the following areas:
+
+1.Area where active faulting or geological conditions could endanger the safety of the disposal facility.
+
+2.Area where the geochemical conditions are unfavorable for effectively suppressing the diffusion of radioactive nuclides, and it is likely to endanger the safety of the disposal facility.
+
+3.Area where the hydrologic conditions of surface water or groundwater are likely to endanger the safety of the disposal facility.
+
+4.Area of high population density.
+
+5.Areas that shall not be developed according to the law.
+
+### Article 8
+
+The design of low level disposal facilities shall ensure the annual individual effective dose to the general public outside the facilities are not more than 0.25mSv, and conform to the as low as reasonably achievable principle.
+
+### Article 9
+
+Multiple barriers shall be designed in the low level disposal facilities, and the waste shall be disposed of in different sections according to their class.
+
+### Article 10
+
+The design of the safety-related system and component of low level disposal facilities shall meet the following provisions:
+
+1.Inspection, maintenance, and test can be performed.
+
+2.Protective measures can be taken for expectable natural disasters.
+
+3.The function of emergency response shall be provided.
+
+4.The function of mutual substitute or redundant shall be provided.
+
+### Article 11
+
+Before the closure of low level disposal facilities, the drainage and anti-infiltration design shall be able to prevent the waste from contacting with the accumulated water or infiltrated water.
+
+### Article 12
+
+The security and alarm design of low level disposal facilities shall be able to prevent any individual inadvertently intruding into or occupying the disposal site.
+
+## Chapter 4 Safety Requirements on Disposal Operation of Low level Waste
+
+### Article 12-1
+
+Operation of low level disposal facilities shall meet the provisions of its safety analysis report and radiation safety protection.
+
+### Article 13
+
+Once closure of low level disposal facilities, consideration shall be given to the land reuse after the active institutional controls are removed.
+
+### Article 14
+
+After the low level disposal facilities are sealed, the stability of the disposal control area shall be observed and monitored for at least five years, and shall be managed in accordance with the institutional control program approved by the competent authority.
+
+### Article 15
+
+The design, manufacturing, installation, test, and maintenance records of the important structures, system, and components of low level disposal facilities shall be retained permanently for reference.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 16
+
+The operators of low level disposal facilities shall acquire the ownership of or the rights to use the lands in the disposal control areas prior to constructing the disposal facilities.
+
+### Article 17
+
+The operators shall re-evaluate the disposal facilities once every ten years, and submit a reevaluation report including the following contents to the competent authority for review and approval:
+
+1.General description.
+
+2.Examination and evaluation of the facility structures.
+
+3.Examination and evaluation of the auxiliary equipment.
+
+4.Evaluation of reception, treatment, storage and disposal operations.
+
+5.Evaluation of the storage and disposal status of the waste.
+
+6.Lesson learnt of the abnormal events
+
+7.Evaluation of the impacts of radiation.
+
+8.Closure and institutional controls plan.
+
+9.Other matters designated by the competent authority.
+
+### Article 18
+
+This Regulations shall be put into practice from the date of promulgation.
+
+## Attachments
+
+- [Annexed Table 1：Concentration Value of Single Long-lived Nuclides.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004554)
+- [Annexed Table 1：Concentration Value of Single Long-lived Nuclides.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001647)
+- [Annexed Table 2：Concentration Values of Single Short-lived Nuclides.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004555)
+- [Annexed Table 2：Concentration Values of Single Short-lived Nuclides.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001648)
+- [Annexed Table 3：Test Items, Methods, and Standards of Homogeneous Solidified Low level Waste.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004556)
+- [Annexed Table 3：Test Items, Methods, and Standards of Homogeneous Solidified Low level Waste.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001649)
+
+## History
+
+1.Promulgated on September 10, 2003 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu -0920023657
+
+2.Amendment of Articles 2, 4, 6 and 7 on February 22, 2005 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-0940041783
+
+3.Amendment of Articles 8 on January 24, 2008 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-0970001429
+
+4.Amendment of Articles 4 and 6 on October 22, 2008 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-0970016962
+
+5.Amendment of Articles 2, 4, 7, 12-1. 14 and 17 on November 24, 2010 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-0990017026
+
+6.Amendment of Articles 2 and 6 on July 9, 2012 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-1010010789

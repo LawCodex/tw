@@ -1,0 +1,177 @@
+---
+title: "Regulations of Copyright Dispute Mediation"
+title_zh: "著作權爭議調解辦法"
+identifier: "J0070020"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞智慧財產權目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-04-17
+last_amended: 2025-05-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070020"
+retrieved: 2026-10-12
+---
+
+# Regulations of Copyright Dispute Mediation
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0070020-regulations-of-copyright-dispute-mediation.md](../../../zh/regulations/ministry-of-economic-affairs/J0070020-regulations-of-copyright-dispute-mediation.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to the provisions of Article 83 of the Copyright Act. (hereinafter referred to as "this Act ").
+
+## Article 2
+
+With any of the following situations, a party may apply to the specialized agency in charge of copyright matters for mediation in accordance with these Regulations:
+
+\1. Disputes over royalties between a copyright collective management organization and the user.
+
+\2. Disputes over copyright or plate-right.
+
+Where the disputes referred to in Item 2 of the preceding Paragraph are involved with criminal offenses, the mediation thereof should be restricted to the cases which could be prosecuted by the Public Prosecutor upon complaints initiated by the victim.
+
+## Article 3
+
+This dispute mediation provided by the preceding Article shall be mediated by one to three Members（hereinafter referred to as Mediation Member） designated by Copyright Regulatory and Mediation Board (hereinafter referred to as Board) of the Intellectual Property Office of the Ministry of Economic Affairs according to the nature of incident or the category of works.
+
+## Article 4
+
+The application for mediation by a party should be made in writing, indicate the following items, and be signed or sealed by the party or his/her agent:
+
+\1. The names, birth date, domicile or residence, and the national ID card numbers; the name, office or business place, and the name, birth date, domicile or residence of the manager or the agent of a party where the party is a government authority, school, corporation or other juridical persons or organizations.
+
+\2. Where the party has a statutory or assigned representative, the representative's name, birth date, domicile or residence, and the national ID card numbers.
+
+\3. The incidents for mediation.
+
+\4. Issues of the dispute.
+
+Duplicates of the written application set forth in the preceding Paragraph should be made one duplicate per person of the other party.
+
+## Article 5
+
+Where a Party appoints an agent, it should present a Letter Power of Attorney.
+
+Where the agent is changed or discharged, the principal should give a written notice to the specialized agency in charge of copyright matters.
+
+## Article 5-1
+
+Where any of the following circumstances applies to an application for mediation, the specialized agency in charge of copyright matters shall notify the applicant to make corrections within a reasonable period of time:
+
+\1. The mediation fee is not paid as required.
+
+\2. The written application for mediation fails to comply with Article 4 or is incomplete.
+
+\3. The application is filed by an agent without proper authority.
+
+\4. The applicant is a person with no or limited legal capacity to make juridical acts and is not represented by their statutory representative.
+
+\5. Other circumstances deemed necessary for correction by the specialized agency in charge of copyright matters.
+
+## Article 5-2
+
+The specialized agency in charge of copyright matters shall reject the application for mediation under any of the following circumstances:
+
+\1. Lack of standing of the parties involved.
+
+\2. The deficiencies notified under the preceding Article are not corrected within the specified time or are corrected incompletely.
+
+\3. The dispute is not covered under Article 2.
+
+\4. The dispute has already been finally adjudicated, mediated, or arbitrated.
+
+\5. Other circumstances where the application shall not be accepted.
+
+## Article 6
+
+When the specialized agency in charge of copyright matters accepts the application for mediation, it should send the duplicates of the written application for mediation to the other party and notify the other party that they shall express, by a deadline, whether they would proceed with mediation; failure to express such would be deemed as refusal of mediation.
+
+## Article 7
+
+Where a party's application for mediation is concurred by the other party, the specialized agency in charge of copyright matters should bring this case to the Board for mediation.
+
+## Article 8
+
+Regarding the application for mediation, unless the mediation is refused by the other party as provided by Article 6, the specialized agency in charge of copyright matters should designate a mediation date and notify the parties or their agent to be present.
+
+The other party may submit written opinions to the specialized agency in charge of copyright matters before the mediation date.
+
+A party or his agent's absence on the mediation date without reasonable justifications shall be deemed to be that the mediation is not concluded. Nevertheless, if the Mediation Member considers that it is hopeful to reach a mediation, the specialized agency in charge of copyright matters may set another mediation date.
+
+## Article 9
+
+Mediation proceedings shall be conducted by Mediation Members at a place designated by the specialized agency in charge of copyright matters, which may be unopen to the public.
+
+Mediation may still be proceeded with even if only one Mediation Member set forth in the preceding Paragraph attends the mediation.
+
+Where the matters to be mediated are involved with Mediation Member himself or his cohabitants, the Mediation Member shall withdraw from this mediation upon a party's request.
+
+## Article 10
+
+Both parties may appoint one to three persons to attend the mediation meeting to assist in mediation. The specialized agency in charge of copyright matters may according to the nature of incident invite the people who have connection with the incident to attend the proceedings presenting their opinions.
+
+## Article 10-1
+
+A third party with an interest in the mediation case may, with the permission of the specialized agency in charge of copyright matters, participate in the mediation procedure; the specialized agency may also notify such person to participate ex officio.
+
+A third party with an interest in the preceding paragraph may join as a party with the consent of both parties and the third party.
+
+## Article 11
+
+The Mediation Member, the attendants or participants of a mediation meeting, and/or the persons who have handled the mediation affairs should keep confidential the incidents being mediated, except those matters having been open to the public.
+
+## Article 12
+
+Mediation Members should ask the opinions of both parties, give adequate advice to the parties, and proceed with the mediation by taking the actual situations and key issues into account.
+
+If the Mediation Members, after mediation pursuant to the preceding Paragraph, consider that both parties still have the intention to mediate or that mediation is likely to be concluded, and both parties agree to continue, another mediation date may be set.
+
+Before the continued mediation date referred to in the preceding Paragraph, if one party clearly expresses or facts show that such party has no intention to mediate, the specialized agency in charge of copyright matters may terminate the mediation procedure.
+
+## Article 13
+
+When mediation agreement is reached, the specialized agency in charge of copyright matters should prepare a written agreement of mediation, indicating the following items, and the said agreement shall be signed or sealed by the parties or their agents, the Mediation Members and relevant attendants:
+
+\1. The names, birth date, domicile or residence, and the national ID card numbers; where any interested third party participates in the mediation, the name, birth date, domicile or residence; the name, office or business place, and the name, birth date, domicile or residence of the manager or the agent of a party where the party or interested third party is a government authority, school, corporation or other juridical persons or organizations.
+
+\2. Where the Party has a statutory or assigned representative, the representative's name, birth date, domicile or residence, and the national ID card numbers.
+
+\3. The names, occupation and domicile or residence of the Mediation Members and of the attendants of the mediation.
+
+\4. The incidents for mediation.
+
+\5. The contents of the mediation agreement.
+
+\6. The place where the mediation is concluded.
+
+\7. The date when the mediation is concluded.
+
+The original copies of the written agreement of mediation set forth in the preceding Paragraph should pursuant to the provisions of paragraph 1 of Article 82bis be sent to the court which has the jurisdiction for review, within seven days starting from the date when the mediation is concluded.
+
+## Article 14
+
+The specialized agency in charge of copyright matters shall return the written agreement of mediation within fifteen days from the date the mediation is received from the court which has the jurisdiction pursuant to the provisions of paragraph 2 of Article 82bis, or notify the parties of the reasons within fifteen days from the date the notification is received when the court decides not to ratify a mediation pursuant to the provisions of paragraph 3 of Article 82bis.
+
+## Article 15
+
+When mediation fails, the specialized agency in charge of copyright matters shall notify the parties of the reasons within fifteen days from the date the mediation meeting decides the mediation fails.
+
+## Article 16
+
+These Regulations shall come into force from the date of promulgation.
+
+## History
+
+\1.	Promulgated by Ministry of Interior on April 17, 1987 per Letter No. Tai-(76)-Nei-Chu-Tze 484790.
+
+\2.	Amended and Promulgated by Ministry of Interior on September 23, 1992 per Letter No. Tai-(81)-Nei-Chu-Tze 8183331.
+
+\3.	Amended and Promulgated by Ministry of Economic Affairs on June 9, 1999 per Letter No. Ging-Zhi-Tze 88012610.
+
+\4.	Amended and Promulgated by Ministry of Economic Affairs on April 14, 2004 per Letter No. Ging-Zhi-Tze 09300532890.
+
+\5.	Amended and Promulgated by Ministry of Economic Affairs on May 22, 2025 per Letter No. Ging-Zhi-Tze 11452000120.

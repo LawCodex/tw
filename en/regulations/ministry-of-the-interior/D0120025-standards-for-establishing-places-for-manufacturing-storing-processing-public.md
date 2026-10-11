@@ -1,0 +1,1663 @@
+---
+title: "Standards for Establishing Places for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases, and Regulations on Safety Control of such Places"
+title_zh: "公共危險物品及可燃性高壓氣體製造儲存處理場所設置標準暨安全管理辦法"
+identifier: "D0120025"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞消防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-10-20
+last_amended: 2024-07-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120025"
+retrieved: 2026-10-12
+---
+
+# Standards for Establishing Places for Manufacturing, Storing, Processing Public Hazardous Substances and Flammable Pressurized Gases, and Regulations on Safety Control of such Places
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0120025-standards-for-establishing-places-for-manufacturing-storing-processing-public.md](../../../zh/regulations/ministry-of-the-interior/D0120025-standards-for-establishing-places-for-manufacturing-storing-processing-public.md)) is authoritative.
+
+## Chapter One: General Principles
+
+#### Article 1
+
+The Regulations has been incorporate pursuant to Article 15.2 of Fire Act.
+
+#### Article 2
+
+Establishment standards governing location, construction and equipment of the places for manufacturing, storage or process of public hazardous materials and flammable pressurized gases; as well as safety control of their storage, process and handling shall be provided according to the Regulations, with the exception that if the applicability of the Regulations is really present certain difficulties, when proved by substantial evidences, in terms of purpose of the place, special construction, or any technology, work method, structure or equipment introduced with efficacy equivalent to or better than that specified in the regulations, and the exemption of this Article has been approved by the central regulating authorities.
+
+#### Article 3
+
+Classification and scope of public hazardous materials are:
+
+\1. Class 1: oxidizing solids;
+
+\2. Class 2: flammable solids;
+
+\3. Class 3: pyrophoric liquids, pyrophoric solids and substances which in contact with water emit flammable gases;
+
+\4. Class 4: flammable and combustible liquids;
+
+\5. Class 5: self-reactive substances, mixtures and organic peroxides;
+
+\6. Class 6: oxidizing liquids;
+
+The classes, grades and control quantity of those public hazardous materials described in the preceding paragraph as Attachment Table 1.
+
+#### Article 4
+
+Flammable pressurized gases refer to that meet one of the following requirements:
+
+\1. Hydrogen, ethylene, methane, and ethane contained in the compressed gas with a gage pressure reaching 10kg/cm2 or 1 MPa or higher at ambient temperature or at 35℃;
+
+\2. Compression acetylene with a gage pressure reaching 2kg/cm2 or 0.2 MPa or higher at ambient temperature or at 15℃;
+
+\3. Propane, butane and liquefied petroleum gases in liquefied gas with a gage pressure reaching 2kg/cm2 or 0.2 MPa or higher at ambient temperature or at 35℃; or
+
+\4. Any other gas designated by the central regulating authorities.
+
+#### Article 5
+
+The public hazardous materials manufacturing place refer to an operation area for the manufacturing of Classes 1 through 6 materials (Six Materials).
+
+The flammable pressurized gas manufacturing place refers to an operation area for the manufacturing, compression, liquefaction, or repackaging of flammable pressurized gas and the gas storage tank of supply source.
+
+#### Article 6
+
+Storage place of public hazardous materials refers to any of the following places:
+
+\1. Outdoor storage place: the place located outside a building for the storage of the Six Materials in any means other than a tank;
+
+\2. Indoor storage place: the place located inside a building for the storage of the Six Materials in any means other than a tank;
+
+\3. Indoor storage tank: the fixed tank in volume greater than 600 liters located inside a building for the storage of the Six Materials;
+
+\4. Outdoor storage tank: the fixed tank in volume greater than 600 liters located on the ground outside a building for the storage of the Six Materials;
+
+\5. Underground storage tank: the tank in a volume greater than 600 liters buried underground for the storage of the Six Materials; and
+
+The flammable pressurized gas storage place refers to a storage room of containers provided at the manufacturing or processing place for the flammable pressurized gases.
+
+#### Article 7
+
+A place for the process of public hazardous materials refers to any of the following places:
+
+\1. Place for trading:
+
+(1) Type 1 Trading Place: the place for trading the Six Materials in containers in a quantity less than 15 times the control quantity;
+
+(2) Type 2 Trading Place: the place for trading the Six Materials in containers in a quantity greater than 15 times but less than 40 times the control quantity; and
+
+\2. General Processing Place: any place other than those places as described in the preceding subparagraph for processing the Six Materials at a quantity over the control quantity.
+
+The place for process of flammable pressurized gas refers to any of the following places:
+
+\1. The trading place: the place for trading flammable pressurized gases in containers; and
+
+\2. The container inspection place: the place for inspecting containers of liquefied petroleum gases for domestic use or operating use.
+
+\3. The place of business with LPG manifold system: the place for concatenated using of at least 80 kg of liquefied petroleum gases as a gas source.
+
+#### Article 8
+
+A material of high flash point referred in the Regulations means a Class 4 public hazardous material of a flashpoint at 100℃ or higher.
+
+The barrier mentioned in the Regulations shall meet the following requirements:
+
+1.A structure that is located 2m or more away from the exterior wall or a structure similar to an exterior of the facility. However, for an indoor storage place used for the storage of Class 5 public hazardous materials classified as Type A or Type B, its location, construction and equipment meet the requirements set forth in Article 28, the distance shall not be less than 1/5 of the width of the reserved space for that facility, and it is taken to be 2m if it is less than 2m.
+
+2.The height shall be sufficient to stop the flame from spreading.
+
+3.Concrete walls reinforced with steel bars or steel structures in thickness not less than 15 cm; hollow brick walls reinforced with steel bars or steel structures in thickness not less than 20 cm; or embankment with a slope of less than 60 degrees.
+
+The indoor space referred in the Regulations is a space that has a top cover and is enclosed at 3 sides by wall, or has no top cover and enclosed by walls at all sides.
+
+The reserved space referred in the Regulations shall be limited to that has been provided with a land titleship or a certificate of the right of land use.
+
+For places that shall with a width of over 3 m reserved space prescribed in the Regulations, the said width may be reduced to 3 m if the reserved space faces the ocean, lake, weir, or river.
+
+#### Article 9
+
+Fire safety equipment at a place for the manufacturing, storage or process of public hazardous materials and flammable pressurized gases shall be provided pursuant to Fire Safety Equipment Establishment Standards(the Equipment Standards) and other applicable laws and regulations depending on the class of such material or gas.
+
+#### Article 10
+
+(Delete)
+
+#### Article 11
+
+Upon approval of the registration of any company engaging in the business of public hazardous materials and flammable pressurized gases shall notify the local fire department.
+
+#### Article 12
+
+Those whose category or classification cannot be determined according to Attachment Table 1, Paragraph 2, Article 3 shall be sent to a test laboratory accredited by the Taiwan Accreditation Foundation (TAF) or institution approved by the central regulating authority by the administrator. However, this does not apply to those that are identifiable with the identification report of a foreign laboratory that is approved by the central regulating authority, the material safety sheets provided by the original manufacturer or other relevant proofs.
+
+The administrator shall submit the identification report or relevant poofs to local firefighting authority for identification.
+
+## Chapter Two: Establishment and Safety Control of Public Hazardous Materials
+
+### Section 1: Establishment and Safety Control of the Place for the Six Materials
+
+#### Article 13
+
+The safety distance between the exterior wall or the outer side of any facilities equivalent to an exterior wall of any manufacturing place or general processing place for the Six Materials shall be as follows:
+
+\1. Not less than 50m away from any of the following sites:
+
+(1) Historical relics
+
+(2) Any place listed in Article 12.2.4 of the Equipment Standards
+
+\2. Not less than 30m away from the following sites:
+
+(1) Any place listed in Articles 12.1.1 to 12.1.5, 12.1.7, 12.2.1., 12.2.5 to 12.2.11 with the capacity to accommodate 20 people or more of the Equipment Standards.
+
+(2) Any place listed in Articles 12.1.6, 12.2.3, and 12.2.12 with the capacity to accommodate 20 people or more of the Equipment Standards.
+
+\3. Not less than 20m away from any place used for the production, storage, or process of public hazardous materials and flammable pressurized gases, gas stations, LPG stations, natural gas storage tanks, flammable high-pressure gas storage tanks, and the production, storage, and retail stores of fireworks or firecrackers and other similar hazardous places.
+
+\4. Not less than 10m away for any place other than those specified in the preceding three subparagraphs.
+
+\5. Not less than 5m away from any elevated power line of 35,000V or higher.
+
+\6. Not less than 3m away from any elevated power line between 7,000V - 35,000V.
+
+The safety distance in the preceding paragraph may be reduced by half if a retainer wall or equivalent protection is provided at the manufacturing or general processing place.
+
+General processing place with operation procedures, process quantities, and compartment structures in accordance with Article 15.1 shall not be subject to the provisions in the first paragraph.
+
+#### Article 14
+
+The reserved space with a width of 3m and above shall be reserved in the surroundings of any place for the manufacturing or general processing of the Six Materials; or 5m and above in cases where the quantity stored is 10 times and more the control quantity. This is not limited to places for the process of high flash point materials with an operating temperature of less than 100℃ that have a width of 3m and above reserved in the surroundings.
+
+If the place referred to in the preceding paragraph is provided with a fireproof wall that is higher than the roof, constructed from non-flammable materials, has two hours and more fire rate, and is separated from neighboring places effectively shall not be subject to the distance restrictions in the preceding paragraph should it fall in any of the following situations:
+
+\1. Only manufactures or processes high flash point materials with operating temperatures of less than 100℃.
+
+\2. Maintaining distances as required in the surroundings of the place badly interferes with operating procedures as operating processes are closely connected.
+
+General processing places with operation procedures, process quantities, and compartment structures in accordance with Article 15.1 shall not be subject to the provisions in the first paragraph.
+
+#### Article 15
+
+The manufacturing place or the general processing place of the Six Materials shall meet the following requirements unless as otherwise regulated:
+
+\1. The site shall not be located in the basement of a building.
+
+\2. All walls, beams, pillars, floors, and stairs shall be constructed with non-flammable materials; no other opening shall be provided to exterior walls that present risks of fire spreading from adjacent objects except for the access point, and the exterior wall shall be of fireproof structure.
+
+\3. The roof of the building shall be constructed of non-flammable materials and covered with lightweight metal sheets or other lightweight non-flammable materials. However, the covering of lightweight metal sheets or other lightweight non-flammable materials may be omitted under the following situations:
+
+(1) Only processes high flash point items with operating temperatures of less than 100℃.
+
+(2) Only processes Class 2 public hazardous materials (excluding powder and flammable solids).
+
+(3) The arrangement of the facility has prevented the concern of possible explosions.
+
+\4. Fire doors and windows of 30 minutes and more fire rate shall be provided to all windows and access points. Any opening in the wall that present risks of fire spreading from adjacent objects shall be provided with normally closed fire door of 1 hour and more fire rate.
+
+\5. In cases of glazed windows and access points, the glass shall be sandwiched with wire mesh or equivalent protection.
+
+\6. The floor of the building used for the production or process of the liquid Six Materials shall be non-permeable, provided with a suitable inclination, and a liquid collection facility. However, in buildings that are installed with leak-collecting facilities and leak-detection equipment that can alert relevant personnel to contain the leak may be exempted from installing proper inclination and liquid collection facilities.
+
+\7. Any outdoor equipment used for the production or process of the liquid Six Materials shall be provided with a containing facility measuring 15cm or above in height above the ground or equivalent leak-prevention facilities in the surrounding. The ground shall be paved with concrete or any non-flammable material that is impermeable to the Six Materials at a suitable inclination, and provided with a liquid collection facility. An oil-water separation device shall be provided to the liquid collection facility to prevent direct flow into the drainage during the process of flammable liquids and substances in flammable liquids that are insoluble in water.
+
+For the compartment which Six Materials that are not processed or stored within the manufacturing place or the general processing place of the Six Materials may be exempt from the regulations of the preceding paragraphs should the construction meet the following requirements:
+
+\1. All walls, beams, pillars, floors, roofs, and stairs shall be constructed with non-flammable materials; and shall be partitioned by walls, beams, pillars, floors, and upper floors of 2 hours and more fire rate from areas in the site that process the Six Materials. The partitioning wall shall not have other openings except for the access point.
+
+\2. Access points in partition walls shall be provided with normally closed fire door of 2 hours and more fire rate. Fire doors and windows of 1 hour and more fire rate shall be provided to exterior walls that present risks of extending fire.
+
+\3. Partitioned areas involved in the production or process of public hazardous materials shall have at least one outer side wall.
+
+#### Article 15-1
+
+General processing place with operation procedures and process quantities that meet the following requirements, and the compartment in the construction uses structures that meet Table 1.1 shall be exempt from the preceding article 13.1.2 to 13.1.5 and 13.1.7 (an example of usage areas in general processing place is shown in Diagram 1):
+
+\1. Spray painting, paint coating, and printing process areas that use Class 2 or Class 4 public hazardous materials (excluding special flammable materials) where the quantity processed is less than 30 times the control quantity.
+
+\2. Cleaning process areas that use Class 4 public hazardous materials with flash points above 40℃ where the quantity processed is less than 30 times the control quantity.
+
+\3. Quench process areas that use Class 4 public hazardous materials with flash points above 70℃ where the quantity processed is less than 30 times the control quantity.
+
+\4. Boiler equipment areas that use Class 4 public hazardous materials with flash points above 40℃ where the quantity processed is less than 30 times the control quantity.
+
+\5. Hydraulic equipment areas that use high flash point materials with operating temperatures less than 100℃ where the quantity processed is less than 50 times the control quantity.
+
+\6. Cutting and grinding equipment areas that use high flash point materials with operating temperatures less than 100℃ where the quantity processed is less than 30 times the control quantity.
+
+\7. Heat medium oil circulation equipment areas that use high flash point materials where the quantity processed is less than 30 times the control quantity.
+
+(Diagram 1)
+
+General processing place with operation procedures and process quantities that meet the following requirements, and the construction structure meet certain safety regulations shall be exempt from the preceding article 13.1.2 to 13.1.7 (an example of usage areas in general processing place are shown in Diagram 2):
+
+\1. Cleaning process areas that use Class 4 public hazardous materials with flash points above 40℃ where the quantity processed is less than 10 times the control quantity.
+
+\2. Quench process areas that use Class 4 public hazardous materials with flash points above 70℃ where the quantity processed is less than 10 times the control quantity.
+
+\3. Boiler equipment areas that use Class 4 public hazardous materials with flash points above 40℃ where the quantity processed is less than 10 times the control quantity.
+
+\4. Hydraulic equipment areas that use high flash point materials with operating temperatures less than 100℃ where the quantity processed is less than 30 times the control quantity.
+
+\5. Cutting and grinding equipment areas that use high flash point materials with operating temperatures less than 100℃ where the quantity processed is less than 10 times the control quantity.
+
+(Diagram 2)
+
+The certain safety regulations referred to in the preceding paragraph are as follows:
+
+\1. Located in a single floor building.
+
+\2. All walls, beams, pillars, floors, and roofs shall be constructed from non-flammable materials and shall be without ceilings.
+
+\3. Process equipment shall be fixed to the floor.
+
+\4. Process equipment shall with reserved space not less than 3m in width surrounding it (an example reserved space is shown in Diagram 3). However, those who meet the following requirements are not subject to this restriction:
+
+(1) It is impossible to with reserved spaces of not less than 3m due to walls and pillars which are constructed from fireproof material.
+
+(2) The front wall shall not be provided with other openings except for the access point. The access point shall be provided with normally closed fire door of 1 hour and more fire rate.
+
+\5. The floor and surrounding reserved spaces below process equipment shall be non-permeable, provided with a suitable inclination and a liquid collection facility. However, in buildings that are installed with leak-collecting facilities and leak-detection equipment that can alert relevant personnel to contain the leak may be exempted from installing proper inclination and liquid collection facilities.
+
+(Diagram 3)
+
+#### Article 16
+
+Equipment used at the manufacturing place or the general processing place of the Six Materials shall meet the following requirements:
+
+1.There shall be sufficient admission of natural light, lighting and ventilation equipment.
+
+2.Equipment to effectively discharge vapor or dusts above the eaves or outdoors at a height not less than 4 m above the ground shall be provided for any building that present risks of accumulating flammable vapor or dusts.
+
+3.All mechanical tool or other equipment shall have mechanism to prevent overflow, leakage, or scattering of the Six Materials unless such equipment has peripheral equipment to prevent overflow, leakage, or scattering of the Six Materials.
+
+4.A temperature measuring device shall be provided to any equipment used to heat or cool the Six Materials or any equipment that produces temperature variations during the processing of the Six Materials.
+
+5.Any heating or drying equipment used for the Six Materials shall not rely on direct heating by fire unless such heating or drying equipment is provided in a fire safety place or with fire control and fighting equipment.
+
+6.Any equipment used to pressurize the Six Materials or that will cause the pressure to rise during the processing of the Six Materials shall be provided with proper pressure gauges and safety devices.
+
+7.Any equipment used to manufacture or process the Six Materials found with the risk of electrostatic charge accumulation shall be provided with devices to effectively eliminate static electricity. Equipment used to process high flash point materials with operating temperatures less than 100℃ are not subject to this restriction.
+
+8.Where the quantity of Six Materials processed is 10 times and more the control quantity, the lightening arrestor shall comply with Chinese National Standard (hereinafter referred to as CNS) 12872 or a grounding means of equivalent protection shall be provided accordingly. However, the following circumstances are not subject to this restriction:
+
+(1)There is no risk of danger in the surrounding environment.
+
+(2)Processing only high flash point materials with operating temperatures less than 100℃.
+
+9.Any pump, safety valve, and pipe joint attached to motors and equipment used in the processing of the Six Materials shall be installed in locations that do not interfere with fire prevention and rescue operations.
+
+Within a manufacturing site or general processing site of the Six Materials, compartments that are not used to process or store Six Materials may be exempt from provisions of preceding paragraphs and subparagraphs if the construction thereof complies with Paragraph 2 of Article 15.
+
+#### Article 17
+
+Location, construction and equipment of Type 1 Trading Place shall meet the following requirements:
+
+\1. The place shall be provided on the ground floor of the building;
+
+\2. Fire control instructions shall be marked at where can be easily seen;
+
+\3. If a building is used, it shall meet the following requirements:
+
+(1) he wall shall be a fire structure or non-flammable materials provided that any wall to separate from other portions of the building shall be of fireproof construction;
+
+(2) All beams and ceiling shall be constructed with non-flammable materials;
+
+(3) The floors of any upper deck shall be of fireproof construction; in the absence of any upper deck in the building, the ceiling shall be of fireproof construction or constructed with non-flammable materials;
+
+(4) Fire doors and windows of 30 minutes and more fire rate shall be provided to the window and the access; and
+
+(5) In case of glazed window and access, the glass shall be sandwiched by mesh wire or provided with equivalent protection.
+
+4.Any room for the preparation of the Six Materials in the building shall meet the following requirements:
+
+(1) The floorage shall be not less than 6 m2, and not greater than 10 m2;
+
+(2) The room shall be separated by walls;
+
+(3) The floor shall be non-permeable, and provided with a proper inclination and liquid collection facilities;
+
+(4) Fire doors of 1 hour and more fire rate shall be provided to the access; and
+
+(5) Equipment to effectively discharge vapor or dusts to where above the eave or outdoor at a height not less than 4m above the ground shall be provided if the room may accumulate flammable vapor or dusts.
+
+#### Article 18
+
+The location, construction and equipment for any part of the building used for Type 2 Trading Place shall be mutatis mutandis Article 17.1, 17.2, 17.3.5, 17.4 and meet the following requirements:
+
+\1. All walls, beams, pillars and floors shall be of fireproof construction; the ceiling, if any, shall be constructed with non-flammable materials;
+
+\2. The upper deck shall be of fireproof construction and provided with facilities that prevent the extension of the fire to reach above; in the absence of upper deck, the roof shall be of fireproof construction;
+
+\3. Window shall be of fire windows of 30 minutes and more fire rate; however, no such window may be provided if the window presents risk of fire extension; and
+
+\4. The access shall be provided with fire doors of 30 minutes and more fire rate; and only the normally closed fire door of 1 hour and more fire rate can be provided to the access where risk of fire extension presents.
+
+#### Article 19
+
+A marking board shall be provided to the manufacturing place,the storage place and the processing place of the Six Materials with the contents, color, size and location to be specified by the central regulating authorities.
+
+#### Article 20
+
+If the quantity of the Six Materials is greater than the control quantity, a storage shall be provided depending on the nature of the materials.
+
+#### Article 21
+
+The location, construction, and equipment of the indoor storage place of the Six Materials shall meet the following requirements, unless otherwise regulated in Articles 22 to 29:
+
+1.Article 13 is applicable mutatis mutandis to the safety distance between the exterior wall or a structure similar to an exterior of the facility and abutted buildings.
+
+2.The width of the reserved space in the surroundings of the building used to store Six Materials (hereinafter referred to as the warehouse) shall meet the requirements set forth in the following table, except for the following circumstances:
+
+(1)The width of the reserved space between the indoor storage place with a storage quantity greater than 20 times the control quantity and other storage places on the same building foundation may be reduced to one-third of the mandatory width, provided that it shall not be less than 3 m.
+
+(2)The width of the reserved space between two neighboring storage places for chlorates, perchlorates, and nitrates of Class 1 hazardous materials; sulfur, ferrous powder, metal powder, and magnesium of Class 2 public hazardous materials; and nitrates, nitro compounds or materials containing any of such components of Class 5 public hazardous materials on the same building foundation may be reduced to 50cm.
+
+```text
+┌──────────────┬───────────────┐
+│                            │ Width of Reserved Space      │
+│                            ├───────┬───────┤
+│                            │Walls, pillars│Walls, pillars│
+│      Classification        │, floors of   │, floors of   │
+│                            │the building  │the building  │
+│                            │are of firepr-│are not of    │
+│                            │oof construct-│fireproof     │
+│                            │ion           │construction  │
+├──────────────┼───────┼───────┤
+│Less than 5 times the       │              │0.5m and above│
+│control quantity            │              │              │
+├──────────────┼───────┼───────┤
+│5 times and more, but less  │1m and above  │1.5m and above│
+│than 10 times the control   │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│10 times and more, but less │2m and above  │3m and above  │
+│than 20 times the control   │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│20 times and more, but less │3m and above  │5m and above  │
+│than 50 times the control   │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│50 times and more, but less │5m and above  │10m and above │
+│than 200 times the control  │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│200 times and more the      │10m and above │15m and above │
+│control quantity            │              │              │
+└──────────────┴───────┴───────┘
+```
+
+3.The warehouse shall be an independent dedicated building.
+
+4.The warehouse shall be a building with single story and its height shall not be greater than 6 m. However, in the case that the warehouse is for the storage of Class 2 or Class 4 public hazardous materials and meet the following requirements, the height thereof shall not be greater than 20m:
+
+(1)Walls, beams, pillars, and floors that are of fireproof construction.
+
+(2)The windows of and access to the warehouse shall be provided with fire doors and windows of 1 hour and more fire rate.
+
+(3)The lightening arrestor complies with CNS 12872 or a grounding means of equivalent protection is provided, unless otherwise the surrounding environment does not present any risk of life-threatening dangers.
+
+5.The floor area of each warehouse shall not exceed 1,000 m2.
+
+6.The walls, pillars, and floors of the warehouse shall be of fireproof construction and the beams shall be made of non-flammable materials. No opening other than the access shall be provided to exterior walls that present risks of fire spreading. However, if the warehouse is for the storage of Six Materials less than 10 times the control quantity, Class 2 public hazardous materials other than combustible solids, or Class 4 public hazardous materials at a flash point above 70℃ and if its exterior wall has no risk of fire spreading, its walls, pillars, and floors may be made with non-flammable materials.
+
+7.The warehouse shall be constructed of non-flammable materials and covered with lightweight metal sheets or other lightweight non-flammable materials, and shall not be provided with ceilings. However, if the facilities in the building are installed in the way that does not raise any concerns of possible explosions, lightweight metal sheet or other lightweight non-flammable material coverings may be excluded. If the warehouse is for the storage of Class 2 public hazardous materials other than powder and combustible solids, its roofs may be of fireproof construction. If the warehouse is for the storage of Class 5 public hazardous materials, its ceilings shall be made of flame-resistant materials or non-combustible materials to maintain appropriate internal temperature.
+
+8.The windows of and access to the warehouse shall be provided with fire doors and windows of 30 minutes and more fire rate. However, if risks of fire spreading are present, normally closed fire door of 1 hour and more fire rate shall be provided.
+
+9.If the window or access mentioned in the preceding subparagraph is glazed, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
+
+10.The floor of warehouse used to store inorganic alkali metal peroxides of Class 1 public hazardous materials; ferrous powder, metal powder, and magnesium of Class 2 public hazardous materials; substances which in contact with water emit flammable gases of Class 3 public hazardous materials; and Class 4 public hazardous materials shall adopt waterproof and impermeable construction.
+
+11.The ground of warehouse used to store the Six Materials in liquid status shall be paved with concrete or any non-flammable material that is impermeable to the Six Materials at a suitable inclination, and provided with a liquid collection facility.
+
+12.Racks installed in the warehouse shall meet the following requirements:
+
+(1)The rack shall be made of non-flammable materials and secured to a firm and solid foundation.
+
+(2)The rack and its peripheral equipment shall be capable of holding the weight of the materials stored and withstanding seismic loads.
+
+(3)The rack shall be provided with measures that prevent materials from falling off.
+
+13.The warehouse shall have sufficient admission of natural light, lighting, and ventilation equipment. Equipment shall be provided to effectively discharge vapor above the eaves or outdoors at a height of above 4 m from the ground in warehouses that store the Six Materials at a flash point below 70℃ as well as with the risk of accumulating flammable vapors.
+
+14.Warehouses with a storage quantity of 10 times the control quantity shall be provided with a lightening arrestor compliant with CNS 12872 or a grounding means of equivalent protection, unless otherwise the surrounding environment does not present any risk of life-threatening dangers.
+
+15.If the Class 5 public hazardous materials stored in the warehouse is at a risk of disintegration or combustion due to the rising temperature, the warehouse shall be installed with ventilation and air conditioning equipment, or be provided with any device that can maintain the internal temperature below the flash point.
+
+#### Article 22
+
+While the location, construction and equipment of the indoor storage for Class 2 public hazardous materials other than combustible solids, or Class 4 public hazardous materials with a flash point not below 70℃ shall meet those requirements set forth in Articles 21.1~21.3, and 21.7 ~ 21.14, the warehouse of the indoor storage may be provided in a building having two or more storeys and the building shall meet the following requirements:
+
+1.The floor of the lowest story shall be at where higher than the ground and the height of each story shall not be greater than 6m;
+
+2.The total floorage shall not be greater than 1,000 m2;
+
+3.Walls, beams, pillars and floors shall be of fireproof construction, stairs shall be constructed with non-flammable materials, and no opening other than the access shall be provided to the exterior wall with the risk of fire extension; and
+
+4.No opening shall be provided to the floor on the second storey and above unless the partitioning wall in the stairway is of fireproof construction and is separated with fire doors of 30 minutes and more fire rate.
+
+#### Article 23
+
+If the storage quantity of the Six Materials is less than 20 times the control quantity, a part of the building may be used as an indoor storage place. Its location, construction, and equipment shall meet the following requirements in addition to those set forth in Subparagraphs 10 to 15 of Article 21:
+
+1.It shall be provided on the first or the second storey of the building which the walls, pillars, and floors are all of fireproof construction.
+
+2.The part of the building used as the indoor storage place shall meet the following requirements:
+
+(1)The floor shall be higher than the ground, and the height of the story shall not be greater than 6 m.
+
+(2)The floor area shall not exceed 75 m2.
+
+(3)Walls, beams, pillars, floors and floors of the upper floor shall be of fireproof construction, and shall be separated from other places with at least 7 cm thick reinforced concrete or with floors or walls of 1 hour and more fire rate. No opening other than the access shall be provided to exterior walls that present risks.
+
+(4)The access shall be provided with normally closed fire door of 1 hour and more fire rate.
+
+(5)No windows shall be installed.
+
+(6)Ventilation and exhaust equipment shall have fire dampers. However, this does not apply to spaces where piping is constructed of non-flammable materials, installed with sprinklers, or equipped with measures that provide equivalent protection.
+
+(7)The spaces for indoor storage shall not be located adjacent to each other on the same floor.
+
+When a compartment of a manufacturing place or general processing place of the Six Materials is provided for any of the uses described in the preceding paragraph, its location, construction, and equipment shall meet the following requirements in addition to those set for in the main body, Subparagraph 1, Items 1, 2, 5, 6 and 7 of Subparagraph 2 of the preceding paragraph:
+
+1.The walls, beams, pillars, floors, and floors of the upper floor shall be of fireproof construction and shall of 2 hours and more fire rate. No opening other than the access shall be provided to exterior walls that present risks of fire spreading.
+
+2.The access shall be provided with normally closed fire door of 2 hours and more fire rate.
+
+#### Article 24
+
+If an indoor storage place for the storage of Six Materials stores less than 50 times the control quantity and its height is 6 m and below, its location, construction and equipment shall meet the following requirements in addition to those set forth in Subparagraph 3, main body of Subparagraph 4, and Subparagraphs 9 to 15 of Articles 21:
+
+1.The width of the reserved space in surroundings the warehouse:
+
+(1)Not required if the storage quantity is less than 5 times the control quantity;
+
+(2)1 m or wider, if the storage quantity is 5 times and more, but less than 20 times the control quantity;
+
+(3)2 m or wider, if the storage quantity is 20 times and more, but less than 50 times the control quantity.
+
+2.The floor area of the warehouse shall not exceed 150 m2;
+
+3.Walls, beams, pillars, floors and roof of the wavehouse shall be of fireproof construction;
+
+4.The access to the warehouse shall be provided with normally closed fire door of 1 hour and more fire rate; and
+
+5.No windows shall be installed in the warehouse.
+
+If an indoor storage place for the storage of Six Materials stores less than 50 times the control quantity and its height is over 6 m but not greater than 20 m, its location, construction and equipment shall meet the following requirements in addition to those set forth in Subparagraphs 2 to 3 and main body of Subparagraph 4, prouiso and Item 3 thereof, and Subparagraphs 9 to 13 of Articles 21; and Subparagraphs 2 to 5 of the preceding paragraph.
+
+#### Article 25
+
+For the indoor storage place that is used to store materials of high flash point ,and its height is 6 m and below, its location, construction and equipment shall meet the following requirements in additional to those set forth in Subparagraphs 3, main body of Subparagraphs 4, Subparagraphs 5, 6, 10 to 13:
+
+1.Article 13.1.1 ~ 13.1.4 shall govern the safety distance between the exterior walls and its abutted places unless the quantity of storage less than 20 times the control quantity.
+
+2.The width of the reserved space to the surroundings of the warehouse shall be as such specified in the list below:
+
+```text
+┌──────────────┬───────────────┐
+│                            │ Width of Reserved Space      │
+│                            ├───────┬───────┤
+│                            │Walls, pillars│Walls, pillars│
+│      Classification        │and floors of │or floors of  │
+│                            │the building  │the building  │
+│                            │are of firepr-│are not of    │
+│                            │oof construct-│fireproof     │
+│                            │ion           │construction  │
+├──────────────┼───────┼───────┤
+│Less than 20 times the      │              │0.5m and above│
+│control quantity            │              │              │
+├──────────────┼───────┼───────┤
+│20 times and more, but less │1m and above  │1.5m and above│
+│than 50 times the control   │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│50 times and more, but less │2m and above  │3m and above  │
+│than 200 times the control  │              │              │
+│quantity                    │              │              │
+├──────────────┼───────┼───────┤
+│200 times and more the      │3m and above  │5m and above  │
+│control quantity            │              │              │
+└──────────────┴───────┴───────┘
+```
+
+3.The roof of the warehouse shall be constructed of non-flammable materials.
+
+4.The windows of and access to the warehouse shall be constructed of non-flammable materials. Access on the walls that present risks of fire spreading shall be provided with constantly fire doors of 1 hour and more fire rate.
+
+5.If there is a glazed window or access on the walls that present risks of fire spreading, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
+
+If an indoor storage place for the storage of high flash point materials is at a height between 6 m and 20 m, its location, construction and equipment shall meet the following requirements in addition to those set forth in the main body of Subparagraph 2 or Item 1 of prouiso and Subparagraphs 3 to 5, 7, 9 to 13 of Article 21; and Subparagraph 1 of the preceding paragraph:
+
+1.No opening other than the access shall be provided to exterior walls that present risks of fire spreading except.
+
+2.Access on the walls that present risks of fire spreading shall be provided with constantly fire doors of 1 hour and more fire rate.
+
+#### Article 26
+
+If an indoor storage place for the storage of high flash point materials is located in a warehouse of more than two storeys, its location, construction and equipment shall meet the requirements set forth in Subparagraphs 3, 10 to 13 of Article 21; Subparagraphs 1, 2 and 4 of Article 22; and Paragraph 1 of the preceding article. Besides, the walls, beams, pillars, floors and stairs of its warehouse shall be constructed of non-flammable materials; and, for exterior walls that present risks of fire spreading, the walls shall be of fireproof construction and no opening other than the access shall be provided thereto.
+
+#### Article 27
+
+If an indoor storage place for the storage of high flash point materials stores less than 50 times the control quantity and its height is below 6 m, its location, construction and equipment shall meet the requirements set forth in Subparagraph 3, main body of Subparagraph 4, Subparagraphs 9 to 13 of Article 21; and Subparagraphs 2 to 5 of Paragraph 1 of Article 24.
+
+If an indoor storage place for the storage of high flash point materials stores less than 50 times the control quantity and its height is between 6 m and 20 m, its location, construction and equipment shall meet the requirements set forth in Subparagraph 3, main body of Subparagraph 4, prouiso and Item 3 thereof, Subparagraphs 9 to 13 of Article 21; and Paragraph 1 of Article 24.
+
+#### Article 28
+
+In an indoor storage place for the storage of Class 5 public hazardous materials classified as Type A or B, its location, construction and equipment shall meet the following requirements in addition to those set forth in Article 21:
+
+1.The safety distance between its exterior wall and abutted buildings is specified in Attachment Table 2. However, if its storage quantity is less than 5 times the control quantity and if its exterior wall is of concrete reinforced with steel bars or steel structures in thickness not less than 30 cm, the safe distance between the exterior wall and abutted buildings may be calculated using peripheral retaining wall. Those with a peripheral retaining wall may have its safe distance with places specified in Subparagraphs 3 and 4 of Paragraph 1 of Article 13 reduced to 10 m.
+
+2.The width of the reserved space in surroundings the warehouse is specified in Attachment Table 3.
+
+3.The warehouse shall be separated into several areas with partition walls and each area shall be less than 150 m2. The partition wall shall be of concrete reinforced with steel bars or steel structures in thickness not less than 30 cm, or hollow blocks reinforced with steel bars or steel structures in thickness not less than 40 cm. Each wall shall protrude from the roof for not less than 50 cm and from both sides of the exterior wall for not less than 1 m.
+
+4.The external wall of the warehouse shall be concrete walls reinforced with steel bars or steel structures in thickness not less than 20 cm; or hollow brick walls reinforced with steel bars or steel structures in thickness not less than 30 cm.
+
+5.The roof of the warehouse shall meet one of the following requirements:
+
+(1)The wooden members for the structure of the surface of the roof shall have a span not greater than 30 cm;
+
+(2)Grill beam structure made of circular steel or lightweight steel materials shall be provided for the structure below the roof with the length of the side not longer than 45 cm;
+
+(3)A metal mesh shall be provided below the roof and tightly secured to the beams and girdles made of non-flammable materials; or
+
+(4)Wood penal in thickness not less than 5 cm and width not less than 30 cm shall be provided as the foundation for the roof.
+
+6.The access to the warehouse shall be of fire doors of 1 hour and more fire rate.
+
+7.The window of the warehouse shall be at least 2 m from the ground. The total surface area of the windows provided on the same wall shall not be greater than one-eightieth (1/80) of the total surface of that wall; and the surface area of each window shall not be greater than 0.4 m2.
+
+#### Article 29
+
+Articles 22 to 24 are not applicable to any indoor storage place used for the storage of the following materials:
+
+1.Alkali aluminum and alkali lithium of Class 3 public hazardous materials;
+
+2.Ethanal and propane oxide of Class 4 public hazardous materials;
+
+3.Class 5 public hazardous materials classified as Type A and Type B; or
+
+4.Any other Six Materials as announced by the central regulating authority.
+
+#### Article 30
+
+The Six Materials stored in outdoor storage places be limited to sulfur and combustible solids with flash points above 21℃ under Class 2 public hazardous materials or Types 2, 3, and 4 oils, or animal and vegetable oils under Class 4 public hazardous materials. These shall be stored in containers. Their location, construction, and equipment shall meet the following requirements:
+
+1.The safety distance between the exterior wall or outer side equivalent of the exterior wall and surrounding facilities in site shall be governed by Article 13, unless otherwise the place is used to store materials with high flash points.
+
+2.It shall be located in areas with low humidity and with good drainage
+
+3.The surroundings shall lined with fence.
+
+4.The width of the reserved space of the fence in the preceding subparagraph is specified in the following table. However, the width of the reserved space may be reduced by one-third if the place is used for the storage of sulfur:
+
+```text
+┌──────────────┬───────────────┐
+│      Classification        │Width of Reserved Space       │
+├──────────────┼───────────────┤
+│Less than 10 times the      │3m and above                  │
+│control quantity            │                              │
+├──────────────┼───────────────┤
+│10 times and more, but less │6m and above                  │
+│than 20 times the control   │                              │
+│quantity                    │                              │
+├──────────────┼───────────────┤
+│20 times and more, but less │10m and above                 │
+│than 50 times the control   │                              │
+│quantity                    │                              │
+├──────────────┼───────────────┤
+│50 times and more, but less │20m and above                 │
+│than 200 times the control  │                              │
+│quantity                    │                              │
+├──────────────┼───────────────┤
+│Up to 200 times and more    │30m and above                 │
+│the control quantity        │                              │
+└──────────────┴───────────────┘
+```
+
+5.The width of the reserved space of the fence used for the storage of high flash point materials is specified in the following table:
+
+```text
+┌──────────────┬───────────────┐
+│      Classification        │Width of Reserved Space       │
+├──────────────┼───────────────┤
+│Less than 50 times the      │3m and above                  │
+│control quantity            │                              │
+├──────────────┼───────────────┤
+│50 times and more, but less │6m and aobve                  │
+│than 200 times of the       │                              │
+│control quantity            │                              │
+├──────────────┼───────────────┤
+│Up to 200 times and more of │10m and above                 │
+│the control quantity        │                              │
+└──────────────┴───────────────┘
+```
+
+6.Racks installed shall meet the following construction and equipment requirements:
+
+(1)The rack shall be made of non-flammable materials and secured to a firm and solid foundation.
+
+(2)The rack and its peripheral equipment shall be capable of holding the weight of the materials stored and withstanding strong winds and seismic impacts.
+
+(3)The height of the rack shall not be greater than 6m.
+
+(4)The rack shall be provided with measures that prevent materials from falling off.
+
+7.For those that store sulfur and combustible solids with flash points above 21℃, the stacking height of the containers shall not exceed 3m.
+
+8.Walkways with a width of more than 1.5m shall be provided inside the place where Types 2, 3, and 4 oils, or animal and vegetable oils under Class 4 public hazardous materials with flash points above 21℃ are stored. The storage quantity and stacking height of containers shall meet the following requirements:
+
+```text
+┌─────────┬───────────┬─────────┐
+│Classification    │Maximum amount stored │Maximum stacking  │
+│                  │in the area           │height of         │
+│                  │                      │containers        │
+├─────────┼───────────┼─────────┤
+│Flash point of    │                      │                  │
+│21 ℃ and above,  │16,800 liters         │3.6m              │
+│but below 37.8℃  │                      │                  │
+├─────────┼───────────┼─────────┤
+│Flash point of    │                      │                  │
+│37.8 ℃ and above,│33,600 liters         │3.6m              │
+│but below 60℃    │                      │                  │
+├─────────┼───────────┼─────────┤
+│Flash point of    │83,600 liters         │5.4m              │
+│60℃ and above    │                      │                  │
+└─────────┴───────────┴─────────┘
+```
+
+#### Article 31
+
+If blocks of sulfur are stored on the ground in an outdoor storage place, location, construction and equipment of the place shall meet the following requirements additional to those set forth in Article 30:
+
+1.For every 100 m2 (including odds) shall be segregated with a fence in a height not greater than 1.5m;
+
+2.If more than two sets of fence are provided, the total area so enclosed shall not be greater than 1,000 m2, and the spacing between any two fences shall not be less than one-third of the width of reserved space to be reserved as provided in Article 30 as illustrated below:（Attachment A）
+
+\3. The fence shall be made of non-flammable materials, and built in such a way so to prevent leakage of sulfur.
+
+\4. At least one waterproof film shall be fixed every two meters on the fence to prevent sulfur from overflowing or scattering in the air.
+
+\5. Drainage ditch and separation trough shall be provided to the peripheral of the storage place.
+
+#### Article 32
+
+The capacity of the tank containing the Six Materials shall not be greater than the balance of the inner volume of the storage tank less its volume of space.
+
+The inner volume of the storage tank shall be solved as follows:
+
+1.Oval Storage Tank:
+
+（Attachment B）
+
+2.Cylindrical Storage Tank:
+
+(1)Horizontal type:
+
+（Attachment C）
+
+(2)For the erected type of cylindrical storage tank, the tank top shall be excluded in solving the inner volume.
+
+(3)If the formula fails to solve the inner volume, approximation method may be used.
+
+The volume of the tank space is 5%~10% of the inner volume: Provided, however, that when a fixed fire extinguisher is provided to the upper part of the tank, the volume of the space of the tank is solved on the upper part of an elevation at where not lower than 30 cm and not higher than 1m below the exit of the fire distinguishing agent. See the following figure:
+
+（Attachment D）
+
+#### Article 33
+
+The location, structure, and equipment of the indoor storage tank site shall comply with the following requirements:
+
+1.The location shall be an exclusive storage tank room located on the first floor of the building.
+
+2.The distance between the exterior wall of the side panel of the storage tank and the interior wall surface of the exclusive storage tank room shall be more than fifty (50) centimeters. When two or more storage tanks are installed in an exclusive indoor space, the distance between any two exterior walls of the side panels of the storage tanks shall be at least fifty (50) centimeters.
+
+3.The capacity of the storage tank shall not exceed forty (40) times of the control volume, and when storing Class 4 public hazardous substances, except for Class 4 petroleum and animal and vegetable oils, the capacity shall not exceed 20,000 liters. When two or more storage tanks are installed in the same dedicated storage tank room, their capacities shall be calculated together.
+
+4.Storage tank structure: The material of the storage tank shall be a steel plate of more than 3.2 mm in thickness or one of equivalent or better properties.
+
+5.The surface of the storage tank shall have an anti-corrosion function.
+
+6.Storage tanks with positive and negative pressures exceeding 500 mm of water column pressure (hereinafter such storage tanks are referred to as pressure storage tanks) shall be equipped with safety devices; and non-pressure storage tanks shall be equipped with vent pipes.
+
+7.Storage tanks shall be equipped with a device for automatic storage reserves display.
+
+8.Where a storage tank stores Class 4 public hazardous substances, its sprue shall comply with the following requirements:
+
+(1)It shall not be located in a place prone to fire or hindering evacuation.
+
+(2)It can be combined with the injection hose or injection pipe, and there must be no leakage.
+
+(3)A pipe valve or a cap shall be installed on the sprue.
+
+(4)Where the stored item is likely to cause static electricity disasters, a grounding device that can effectively remove static electricity shall be installed.
+
+9.The valve of a storage tank shall be made of cast steel or materials of equivalent or better properties, and there shall be no leakage.
+
+10.The drainage pipe of the storage tank shall be located on the tank wall. However, the connection part between the drainage pipe and the storage tank may be located at the bottom of the storage tank if there is no risk of damage in the event of an earthquake or land subsidence.
+
+11.The walls, columns, and floors of the exclusive storage tank room shall be of fireproof structure, and the beams shall be constructed of non-combustible materials. Where the exterior wall poses a risk of spreading fire, no openings shall be constructed on the exterior wall except for access opening. However, where no risk of spreading fire is posed when the stored content is a Class 4 public hazardous substance with a flash point above 70 degrees Celsius, the walls, columns, and floors of the exclusive storage tank room may be constructed of non-combustible materials.
+
+12.The roof of the exclusive storage tank room shall be constructed of non-combustible materials, and no ceiling shall be constructed.
+
+13.The windows and access openings of the exclusive storage tank room shall be equipped with fireproof windows and doors with a fireproof effect of more than 30 minutes. However, where the exterior wall poses a risk of spreading fire, the access opening shall be equipped with a normally-closed fire door with a fireproof effect of more than one hour.
+
+14.When the windows and access openings in the preceding paragraph are equipped with glass, the glass shall be inlaid with wire mesh or materials of equivalent or better protective properties.
+
+15.Where liquid items of the 6 classes are stored, the floor shall be of impermeable structure, with appropriate inclination and liquid collection facilities.
+
+16.The access opening of the exclusive storage tank room shall be set up with a threshold of more than 20 centimeters, or with a measure, of equivalent or better effectiveness, for outflow prevention.
+
+17.The exclusive storage tank room shall have adequate daylighting, lighting and ventilation equipment. Where a risk of accumulating flammable vapor is posed when the stored content is any substance in the 6 classes with flash point under 70 degrees Celsius, equipment shall be installed to effectively discharge the vapor to a height above the eaves or outdoors at a height of more than four (4) meters from the ground.
+
+For a building used as a manufacturing site or general processing site for substances of 6 classes, when the aforementioned building is set up to store Class 4 public hazardous substances with a flash point above 40 degrees Celsius, the location, structure and equipment shall comply with the provisions of preceding Subparagraphs 1 to 10, 12, and 14 to 17, as well as the following requirements:
+
+1.The walls, columns, and floors of the exclusive storage tank room shall be of fireproof structure with a fireproof effect of more than two hours. Beams shall be constructed of non-combustible materials. Where the exterior wall poses a risk of spreading fire or contains zoning partition walls, no openings shall be constructed on the exterior wall except for access opening.
+
+2.The windows of the exclusive storage tank room shall be equipped with fire windows with a fireproof effect of more than two hours; and the access opening shall be equipped with a normally-closed fire door with a fireproof effect of more than two hours.
+
+#### Article 34
+
+If an indoor storage place for the storage of Class 4 public hazardous materials at a flash point above 40℃, its location, construction, and equipment shall meet the following requirements in addition to those set forth in Subparagraphs 2 to 10, 15, 17 of Paragraph 1 of the preceding article. The establishment of its dedicated storage tank room shall not be bounded by Subparagraph 1 of Paragraph 1 of the preceding article:
+
+1.The storage tank shall be located in a dedicated storage tank room.
+
+2.The storage tank shall be equipped with a device near the inlet that automatically displays its storage capacity unless the capacity can be easily observed from outside the tank.
+
+3.The walls, beams, pillars and floors of the dedicated storage tank room shall be of fireproof construction.
+
+4.The floor of the upper floor of the dedicated storage tank room shall be of fireproof construction and no ceiling shall be constructed. In the absence of an upper floor, the roof of the building shall be constructed of non-flammable materials.
+
+5.No windows shall be installed in dedicated storage tank room.
+
+6.The access to the dedicated storage tank room shall be provided with normally closed fire door of 1 hour and more fire rate.
+
+7.Ventilation and exhaust equipment used in the dedicated storage tank room shall have fire dampers. However, this does not apply to spaces where piping is constructed of non-flammable materials, installed with sprinklers, or equipped with measures that provide equivalent protection.
+
+8.The dedicated storage tank room shall be constructed with measures to prevent leakage of the Six Materials.
+
+When a compartment of a manufacturing place or general processing place of the Six Materials is provided for any of the uses described in the preceding paragraph, its location, construction, and equipment shall meet the following requirements in addition to those set forth in the main body and Subparagraphs 1, 2, 5, 7 and 8 of the preceding paragraph.
+
+1.The walls, beams, pillars, floors, and floors of the upper floor of the dedicated storage tank room shall be of fireproof construction of 2 hours and more fire rate, and shall not have any ceiling. In the absence of an upper floor, the roof of the building shall be constructed of non-flammable materials.
+
+2.The access to the dedicated storage tank room shall be provided with normally closed fire door of 2 hours and more fire rate.
+
+#### Article 35
+
+Pumping equipment used at the indoor storage tank place shall meet the following requirements:
+
+1.If the indoor storage tank is located on the ground floor of the building, and the pumping equipment is located outside the dedicated storage tank room:
+
+(1)The pumping equipment shall be secured to a solid foundation.
+
+(2)The building or work project (hereinafter referred to as the Pumping Room) used by the pump and its electric motor shall meet the following requirements:
+
+i.The walls, beams, pillars, and floors shall be constructed of non-flammable materials.
+
+ii.The roof shall be constructed of non-flammable materials and covered with lightweight metal sheets or other lightweight non-flammable materials. However, if the equipment is installed in the way that does not raise any concerns of possible explosions in the pumping room, lightweight metal sheet or other lightweight non-flammable material coverings may be excluded.
+
+iii.The access and windows shall be provided with fire doors and windows of minimum half-hour fire rating.
+
+iv.If the windows and access are glazed, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
+
+v.The floor shall be of impermeable construction at a suitable inclination, and be provided with a liquid collection facility. Its surroundings shall be provided with a blocking means with a height of minimum 20 cm above the ground or a leakage prevention measure of equivalent performance.
+
+vi.Sufficient admission of natural light, lighting and ventilation equipment required handling the Six Materials shall be designed.
+
+vii.If there is a risk of flammable vapor collection, equipment to effectively discharge such vapor above the eave or outdoors at a height of 4 m or above the ground shall be provided.
+
+(3)If the pumping equipment is installed outside the pumping room, it shall meet the following requirements:
+
+i.The surroundings of the pumping equipment shall be provided with a blocking means with a height of minimum 15 cm above the ground or a leakage prevention measure of equivalent performance.
+
+ii.The ground shall be paved with concrete or any non-flammable material that is impermeable to the Six Materials at a suitable inclination, and provided with a liquid collection facility.
+
+iii.An oil-water separation device shall be provided if the pump is sued to process Class 4 public hazardous materials that are insoluble in water to prevent direct flow into the drainage.
+
+2.If the indoor storage tank is located in a single-story building, and the pumping equipment is installed in the building of dedicated storage tank room:
+
+(1)If the pumping equipment is located outside the dedicated storage tank room, it is a must to meet the requirements set forth in Items 1 and 2 of the preceding paragraph.
+
+(2)If the pumping equipment is located in dedicated storage tank room, a blocking means or any other leakage prevention measures of equivalent performance constructed from non-flammable materials higher than the threshold of the access shall be provided to the surroundings of the pumping equipment, or the base of the pumping equipment shall be made higher than the threshold to the dedicated storage tank room shall be provided, unless the leakage have no risk of causing fire or explosions.
+
+3.If the indoor storage tank is located other than the ground floor and the pumping equipment is installed outside the building of the dedicated storage tank room, the pumping equipment shall meet the requirements set forth in Subparagraph 1.
+
+4.If the indoor storage tank is located other than the ground floor and the pumping equipment is installed in the building of dedicated storage tank room:
+
+(1)If the pumping equipment is installed outside the dedicated storage tank room, the pumping room shall meet the following requirements in addition to those set forth in Items 1 and 2-5 to 2-7 of Subparagraph 1:
+
+i.The walls, beams, pillars, and floors shall be of fireproof construction.
+
+ii.The floor of the upper floor shall be of fireproof construction and no ceiling shall be constructed. In the absence of an upper floor, the roof of the building shall be constructed of non-flammable materials.
+
+iii.No windows shall be installed.
+
+iv.Fire doors of 1 hour and more fire rate shall be provided at access.
+
+v.Ventilation and exhaust equipment shall have fire dampers. However, this does not apply when piping is constructed of non-flammable materials, installed with sprinklers, or equipped with measures that provide equivalent protection.
+
+(2)If the pumping equipment is installed in the dedicated storage tank room:
+
+i.The pumping equipment shall be secured to a solid foundation
+
+ii.The surroundings of the pumping equipment shall have a blocking means with a height of 20cm or above in height or a leakage prevention measure of equivalent performance. However, this does not apply if leakages have no risk of causing fire or explosions.
+
+When a compartment of a manufacturing place or general processing place of the Six Materials is dedicated for the installation of storage tanks in accordance with Paragraph 2 of Article 33 and the pumping equipment is installed in the same building but outside of the dedicated storage tank room, its location, construction, and equipment shall meet the following requirements in addition to those set forth in Items 1, 2-2 and 2-4 to 2-7 of Subparagraph 1 of the preceding paragraph:
+
+1.The walls, pillars and floors shall be of fireproof construction of 2 hours and more fire rate. The beams shall be constructed of non-flammable materials. No opening other than the access shall be provided to exterior or partition walls that present risks of fire spreading.
+
+2.The windows shall be provided with fire windows of 2 hours and more fire rate; the access shall be provided with normally closed fire door of 2 hours and more fire rate.
+
+When a compartment of a manufacturing place or general processing place of the Six Materials is dedicated for the installation of dedicated storage tank room in accordance with Paragraph 2 of the preceding article and the pumping equipment is installed in the same building of the dedicated storage tank room, its location, construction, and equipment shall meet the following requirements in addition to those set forth in the main body of Items 1, 1-3 and 1-5 of Subparagraph 4 of Paragraph 1:
+
+1.The walls, beams, pillars floors and floors of the upper floor shall be of fireproof construction of 2 hours and more fire rate, and shall not have ceilings. In the absence of an upper floor, the roof of the building shall be constructed of non-flammable materials.
+
+2.The access shall be provided with fire doors of 2 hours and more fire rate.
+
+#### Article 36
+
+Pipe work for the delivery of the Six Materials at an indoor storage place shall meet the following requirements:
+
+1.The pipe work shall be made of steel or metal. However, if it is possible that steel or metal piping causes contamination of operations, double-layered plastic pipe work may be installed;
+
+2.The pipe work shall survive 10-min pressure withstanding test without leakage or deformation when applied with a pressure 1.5 times or greater of the maximal normal working pressure. However, if it is difficult to carry out pressure withstanding test using water pressure, it is allowed to carry out the test using air pressure of 1.5 times of the maximal working pressure. For the pipe work that is installed with double-layered plastic piping, the pressure withstanding test is carried out on the inner pipes;
+
+3.If the pipe work is provided on the ground, it shall never contact the ground and shall be corrosion proof;
+
+4.If the pipe work is buried in the ground, its surface shall be corrosion proof; the joint shall be provided with measures for inspection unless the joint is welded; and
+
+5.If heating or refractory equipment is provided, such shall be in construction that is capable of fire prevention.
+
+#### Article 37
+
+The location, construction, and equipment of outdoor storage tank shall meet the following requirements:
+
+1.Article 13 is applicable mutatis mutandis to the safety distance between the shell of the storage tank and abutted buildings.
+
+2.The distance between the shell of the storage tank used to contain liquid and the boundary of the factory site shall meet the requirements specified in Attachment Table 4, except for the following circumstances:
+
+(1)The firewall is constructed of non-flammable materials of 2 hours and more fire rate.
+
+(2)The fire is hard to spread.
+
+(3)A fireproof water curtain is provided.
+
+3.The reserved space in surroundings of the storage tank shall meet the following requirements:
+
+(1)When the storage tank contains Six Materials at a flash point below 21℃, the distance shall be greater than 1 m for capacities less than 2 kL, greater than 2 m for capacities of 2 kL to 4 kL, greater than 3 m for capacities greater than 4 kL to 10 kL, greater than 5 m for capacities greater than 10 kL to 40 kL, and greater than 10 m for capacities greater than 40 kL.
+
+(2)When the storage tank contains Six Materials at a flash point above 21℃ and below 70℃, the distance shall be greater than 1 m for capacities less than 10 kL, greater than 2 m for capacities greater than 10 kL to 20 kL, greater than 3 m for capacities greater than 20 kL to 50 kL, greater than 5 m for capacities greater than 50 kL to 200 kL, and greater than 10 m for capacities greater than 200 kL.
+
+(3)When the storage tank contains Six Materials at a flash point above 70℃, the distance shall be greater than 1 m for capacities less than 20 kL, greater than 2 m for capacities greater than 20 kL to 40 kL, greater than 3 m for capacities greater than 40 kL to 100 kL, and greater than 5 m for capacities greater than 100 kL.
+
+4.The distance between the shell of neighboring storage tanks shall meet the following requirements:
+
+(1)For storage tanks containing Six Materials at a flash point below 60℃:
+
+i.For floating roof tanks with a diameter less than 45 m, the distance shall be one-sixth the sum of the diameter of two neighboring storage tanks, and shall be above 90 cm. For floating roof tanks with a diameter more than 45 m, the distance shall be a quarter the sum of the diameter of two neighboring storage tanks.
+
+ii.For fixed roof tanks with a diameter less than 45 m, the distance shall be one-sixth the sum of the diameter of two neighboring storage tanks, and shall be above 90 cm. For fixed roof tanks with a diameter more than 45 m, the distance shall be a one-third the sum of the diameter of two neighboring storage tanks.
+
+(2)For storage tanks containing Six Materials at a flash point above 60℃:
+
+i.For floating roof tanks with a diameter less than 45 m, the distance shall be one-sixth the sum of the diameter of two neighboring storage tanks, and shall be above 90 cm. For floating roof tanks with a diameter more than 45 m, the distance shall be a quarter the sum of the diameter of two neighboring storage tanks.
+
+ii.For fixed roof tanks with a diameter less than 45 m, the distance shall be one-sixth the sum of the diameter of two neighboring storage tanks, and shall be above 90 cm. For fixed roof tanks with a diameter more than 45 m, the distance shall be a quarter the sum of the diameter of two neighboring storage tanks.
+
+(3)For storage tanks inside the dike containing Six Materials at a flash point above 93℃, the distance shall be greater than 90 cm.
+
+5.Storage tanks shall be secured on a solid foundation and slippery terrain such as bedrocks and faults shall be avoided.
+
+6.Subparagraph 4 of Paragraph 1 of Article 33 is applicable mutatis mutandis to the construction of tank. Besides, the tanks shall be able to withstand strong winds and seismic loads, and the pillars shall be constructed of concrete reinforced with steel bars or steel structures or any other material of equivalent fireproof rating.
+
+7.The storage tank shall be constructed in such a way that allows gas and vapor to be discharged from the top of in case of any abnormal rise of pressure inside the tank.
+
+8.The surface of the storage tank shall be corrosion-proof.
+
+9.The surface of the bottom plate of the storage tank shall be corrosion-proof if it is in direct contact with the ground.
+
+10.Pressurized tanks shall be provided with safety devices; non-pressurized tanks shall be equipped with ventilation pipes.
+
+11.The storage tank shall be equipped with a device that automatically displays its storage capacity.
+
+12.For storage tanks containing Class 4 public hazardous materials, Subparagraph 8 of Paragraph 1 of Article 13 is applicable to the inlets thereof.
+
+13.In addition to meeting the requirements set forth in Subparagraph 1 of Paragraph1 of Article 35, the pumping equipment shall meet the following requirements:
+
+(1)The reserved space in surroundings of the pumping equipment shall be greater than 3 m, unless a firewall of 2 hours and more fire rate has been set or the storage quantity of the Six Materials stored is less than 10 times the control quantity.
+
+(2)The distance between the shell of the storage tank and the pumping equipment shall not be less than one-third the width of the reserved space for the storage tank.
+
+14.The tank valve shall be made of cast steel or material of equivalent performance, and shall not show any leakage.
+
+15.The drainage pipe of the storage tank shall be located on its wall. However, connections between the drainage pipe and the storage tank can be located at the bottom of the tank if they are not at the risk of being damaged by earthquakes or land subsidence.
+
+16.Floating roof tanks with equipment installed on its walls or float top shall not cause damage to the float top or wall panel in case of earthquakes or other disasters unless such equipment is necessary for security purposes.
+
+17.Article 36 is applicable mutatis mutandis to pipe installations.
+
+18.The lightening arrestor shall comply with CNS 12872 or a grounding means of equivalent protection shall be provided unless the quantity of the Six Materials in the storage tank is less than 10 times the control quantity or the surrounding environment does not present any danger from lightning strikes
+
+19.The dike shall be provided to storage tanks that contain Six Materials in liquid status, except for carbon disulfide.
+
+20.With respect to storage tanks storing solid substances which in contact with water emit flammable gases of Class 3 public hazardous materials, the rain protection equipment established above the inlets shall be constructed of waterproof non-flammable materials.
+
+21.Storage tanks storing carbon disulfide shall be buried in a leakage-free reinforced concrete tank with a wall thickness of more than 20 cm, and shall be in a leakage-proof made from reinforcement concrete.
+
+#### Article 38
+
+For an outdoor storage place containing Class 4 public hazardous materials, its dike shall meet the following requirements:
+
+1.The capacity of the dike provided to the surroundings of a single tank shall not be less than 110% of that of the tank; if two or more than two tanks are in the same area, the capacity of its dike shall not less than 110% of that of the tank with the greatest capacity;
+
+2.The height of the dike shall not be less than 50 cm; and, if its total storage capacity is greater than 200,000 kL, shall not be less than 1 m.
+
+3.The area within the dike shall not exceed 80,000 m2;
+
+4.A dike shall not be installed with more than 10 storage tanks. However, dikes that have a storage capacity of less than 200 kL may be installed with up to 20 storage tankers if they are used to store materials at a flash point between 70℃ and 200℃; or be installed with unlimited number of storage tanks if they are used to store materials at a flash point above 200℃.
+
+5.The surroundings of the dike shall be established with roads that connect to the roads inside the dike and the width of the roads shall not be less than 6 m. Nevertheless, for dikes that are in any of the following circumstances and have enough room for firefighting vehicles to turn around, the roads thereof may be installed on more than two sides:
+
+(1)The capacity of each storage tank inside the dike is less than 200 kL.
+
+(2)The storage tank inside the dike is used to store materials at a flash point above 200℃.
+
+(3)It is difficult to install road in the surroundings.
+
+6.The distance between the dike and shell of an outdoor storage tank shall not be less than one third of the storage tank’s height, if it is less than 15 m, or be less than half of its height, if it is more than 15 m, unless its stored materials are at a flash point above 200℃.
+
+7.The dike shall be of concrete reinforced with steel bars or soil, and be provided with a measure to prevent leakage and permeation of the materials stored in the tank;
+
+8.Storage tanks with a capacity of more than 10,000 kL shall be established with separation banks in surroundings of each storage tank in compliance with the following requirements:
+
+(1)The separation bank shall be at least 30 cm, and be 20 cm lower than the dike; and
+
+(2)The separation bank shall be of concrete reinforced with steel bars or soil .
+
+9.No pipes other than those for tank storage and firefighting shall be installed inside the dike;
+
+10.The pipes must not pass through the dikes, unless the structure and functions of the dikes are not affected;
+
+11.Drainage equipment shall be provided for the dike to discharge water accumulated inside the dike, with the operation valves to be provided outside the dike and be normally closed;
+
+12.For outdoor storage tanks with a capacity of more than 1,000 kL, the switching valve of its drainage equipment shall be easily identified;
+
+13.For outdoor storage tanks with a capacity of more than 10,000 kL, the dikes thereof shall be provided with leakage prevention and testing equipment, and be installed with an alarm system in an accessible area.
+
+14.For dikes with a height of above 1 m, it is a must to set up stairs or a soil ramp therefor every 30 m.
+
+For dikes of storage containers that store the Six Materials in liquid status as described in the preceding paragraph, the capacity thereof shall not be less than the maximum storage tank capacity and shall meet the requirements set forth in Subparagraphs 2, 7 to 12, and 14 of the preceding paragraph.
+
+#### Article 39
+
+For an outdoor storage tank for the storage of high flash point materials, its location, construction and equipment shall meet the following requirements
+
+1.Subparagraphs 1, 4 to 12, 14 to 17 of Article 37 that are applicable mutatis mutandis;
+
+2.The width of the reserved space in surroundings the storage tank is specified in the following table:
+
+```text
+┌───────────────┬─────────────┐
+│Capacity of the Storage Tank  │Width of Reserved Space   │
+├───────────────┼─────────────┤
+│Less than 2000 times the      │3m and above              │
+│control quantity              │                          │
+├───────────────┼─────────────┤
+│2000 times and More the       │5m and above              │
+│control quantity              │                          │
+└───────────────┴─────────────┘
+```
+
+3.The pumping equipment shall meet the following requirements in addition to those set forth in Items 1, 2-1, 2-2, 2-5, 2-6 and 3 of Subparagraph 1 of Paragraph 1 of Article 35, which are applicable mutatis mutandis:
+
+(1)The width of reserved space in the surroundings shall not be less than 1 m, unless a firewall of 2 hours and more fire rate has been established or the storage quantity of Six Materials is less than ten times the control quantity;
+
+(2)The windows and access shall be provided with fire windows and doors. However, if the exterior wall does not have the risk of fire spreading, the windows may be constructed of non-flammable materials.
+
+(3)If there is a glazed window or access on the walls that present risks of fire spreading, the glass shall be sandwiched with a wire mesh or provide equivalent protection.
+
+4.The dike shall be provided in the surroundings to prevent leakage and permeation of the stored materials and the capacity thereof shall not less than that of the tank with the greatest capacity.
+
+#### Article 40
+
+Any outdoor storage tank containing alkali aluminum, alkali lithium of Class 3 public hazardous materials; ethanal, propane oxide of Class 4 public hazardous materials, or the Six Materials as published by the central regulating authorities shall meet the following requirements additional to those specified in Article 37:
+
+\1. An inertia gas-based blocking equipment or equivalent shall be provided;
+
+\2. For those storing alkyl aluminum or alkyl lithium shall install an equipment capable of confining any leakage to a specified range to be directed into a safety tank or an apparatus having the equivalent aforementioned performance; and
+
+#### Article 41
+
+The location, structure, and equipment of the underground storage tank site shall comply with the following requirements:
+
+1.The storage tank shall be placed in an underground storage tank room. However, those storing Class 4 public hazardous substances and meeting the following requirements may be directly buried underground:
+
+(1)The horizontal distance from the subway, the underground tunnel, or the place designated by the central competent authority is more than ten meters.
+
+(2)The storage tank shall be covered with a reinforced concrete cover of more than 60 centimeters in horizontal projected length and width, respectively, and more than 25 centimeters in thickness.
+
+(3)The weight of the top cover cannot be directly put on the underground storage tank.
+
+(4)Underground storage tanks shall be fixed on a solid foundation.
+
+2.There shall be a gap of more than ten (10) centimeters between the exterior wall of the side panel of the storage tank and the interior wall surface of the exclusive storage tank room. The surrounding of the storage tank shall be filled with dry sand or a measure, of equivalent or better effectiveness, to prevent the retention of flammable vapor.
+
+3.The top of the storage tank shall be more than 60 centimeters from the ground.
+
+4.Where two or more storage tanks are adjacent to each other, the distance between any two exterior walls of the side panels of the storage tanks shall be more than one meter. However, where the total capacity is less than 100 times of the control volume, the distance may be reduced to more than 50 centimeters.
+
+5.The storage tank shall be constructed of airtight steel plates of more than 3.2 mm in thickness.
+
+6.The surface of the storage tank shall have an anti-corrosion function.
+
+7.Pressure storage tanks shall be equipped with safety devices, and non-pressure storage tanks shall be equipped with vent pipes.
+
+8.Where liquid items of the 6 classes are stored, the storage tanks shall be equipped with a device for automatic storage reserves display.
+
+9.The sprue of the storage tank shall be installed outdoors, and the provisions of Subparagraph 8, Paragraph 1, Article 33 shall apply mutatis mutandis.
+
+10.Where the pump equipment is installed on the ground, the provisions of Subparagraph 1, Paragraph 1, Article 35 shall apply mutatis mutandis. Where the pump equipment is installed inside the storage tank, the following requirements shall be compiled with:
+
+(1)The motor structure of pump equipment shall comply with the following requirements:
+
+1)The stator must be a metal container filled with resin that could not be damaged by the six classes of substances.
+
+2)A structure must be able to cool the stator during operation.
+
+3)A structure in the motor interior must be able to prevent air stagnation.
+
+(2)The wires connected to the motor shall be protected and must not come into direct contact with any substances of the six classes.
+
+(3)The pump equipment must have the function of preventing the motor from heating up during operation.
+
+(4)The motor of the pump equipment can automatically stop under the following conditions:
+
+1)When the motor temperature rises sharply.
+
+2)When the pump suction outlet is exposed.
+
+(5)The pump equipment shall be connected with the flange of the storage tank.
+
+(6)The pump equipment shall be installed in a protective pipe. However, this does not apply to those with sufficiently strong exterior protection.
+
+(7)The pump equipment is located in the upper part of the underground storage tank, where there shall be leakage detection equipment for any substances of the six classes.
+
+11.The provisions of Article 36 shall apply mutatis mutandis to piping.
+
+12.The piping of the storage tank shall be installed on the top of the storage tank.
+
+13.At least four leak detection pipes or leak detection equipment of equivalent or better effectiveness shall be installed at appropriate locations around the storage tank.
+
+14.The walls and bottom of the tank shall be constructed of concrete of more than 30 centimeters in thickness or of a structure with equal or greater strength, and shall have appropriate waterproofing measures. The top cover shall be constructed of reinforced concrete of more than 25 centimeters in thickness.
+
+#### Article 42
+
+Location, construction and equipment of an underground storage tank with dual walls shall meet the following requirements:
+
+1.Shall meet the requirements set forth in Article 41.3, 41.4, the second half of Article 41.5 and Article 41.7~41.12;
+
+2.Shall further meet the requirements set forth in Article 41.1.2~41.1.4 in case of being directly buried underground;
+
+3.Shall further meet the requirements in Article 41.2, 41.14 in case of being located in an underground tank room;
+
+4.A liquid leak finder shall be provided between the walls of the storage tank;
+
+5.Storage tank shall be air-tight and build with either of the following materials:
+
+(1)Steel plate in thickness not less than 3.2 mm or equivalent; or
+
+(2)Any reinforcement plastics designated by the central regulating authorities.
+
+6.The storage tank using the reinforcement plastics shall be provided with the safety construction sufficient to withstand the load; and
+
+7.If steel plate is used, its surface shall be corrosion proof.
+
+#### Article 43
+
+Location, construction and equipment of the place of an underground storage tank used for the storage of alkali aluminum, alkali lithium of Class 3 public hazardous materials, ethanal, propane oxide of Class 4 public hazardous materials and the Six Materials published by the central regulating authorities shall meet the following requirements additional to those set forth in Article 41.2~41.14:
+
+1.The storage tank shall be provided in an underground tank room; and
+
+2.Article 40.3 may become applicable; however, cooling system or cold retaining device may not be required if the storage tank is of a construction that is capable of maintaining the contents at a proper temperature.
+
+#### Article 44
+
+Any container published by the central regulating authorities can not be used unless having been approved by inspection; professional laboratories or institute may be contracted to perform the inspection.
+
+The central regulating authorities shall specify criteria and items of inspection referred in the preceding paragraph herein.
+
+#### Article 45
+
+The place used for the storage and process of the Six Materials shall meet the following requirements:
+
+1.Class 1 public hazardous materials shall be avoided to contact or mix with any flammable materials, or expose to any materials that promote disintegration, and shall avoid overheating, iMPacts, and friction. The inorganic peroxide shall be prevented from contacting water.
+
+2.Class 2 public hazardous materials shall be avoided to contact or mix with oxidizer, or to expose to flame, spark, object of high temperature and to get overheated; metal powder shall be avoided to contact water or acid;
+
+3.Substances which in contact with water emit flammable gases of Class 3 public hazardous materials shall be prevented from contacting water;
+
+4.Class 4 public hazardous materials shall not be exposed to flame, spark, or object of high temperature, and shall be prevented from producing vapor;
+
+5.Class 5 public hazardous materials shall not be exposed to flame, spark, or object of high temperature; and shall be prevented from overheating, iMPact and friction; and
+
+6.Class 6 public hazardous materials shall be avoided to contact or mix with flammable materials, or expose to any materials that promote disintegration, and shall avoid overheating.
+
+#### Article 46
+
+The safety management of the manufacturing place, the storage place, and the processing place for the Six Materials shall meet the following requirements:
+
+1.The storage or processing of public hazardous materials shall not exceed the regulated quantity.
+
+2.Fire sources are strictly prohibited.
+
+3.Empty boxes, lining paper, plastic bags, paper boxes, and other packaging materials or other flammable and explosive materials shall not be left over after regular cleaning.
+
+4.Containers used for storing or processing public hazardous materials shall not be susceptible to damage, corrosion, or cracks according to the materials' characteristics, and shall have security measures to prevent tumbling, falling, impacting, squeezing, or pulling.
+
+5.When repairing equipment, mechanical appliances, or containers that may contain public hazardous material residues, the public hazardous materials shall be completely removed first at a safe location.
+
+6.Unrelated personnel are strictly forbidden from entering.
+
+7.If public hazardous materials accumulate in liquid collection facilities or within oil-water separation devices, they shall be cleaned whenever necessary.
+
+8.Disposed public hazardous materials shall be cleaned whenever necessary.
+
+9.Public hazardous materials shall be handled with suitable temperature, humidity, and pressure.
+
+10.Equipment that is prone to produce sparks shall not be used in sites that accumulate flammable vapor or dust.
+
+11.Designated personnel shall be appointed to conduct monthly self-inspections on the location, construction, and equipment of the site, and inspection records shall be kept for at least a year.
+
+#### Article 46-1
+
+The safety management of the manufacturing place and the general processing place of the Six Materials shall meet the following requirements in additions to those set forth in the preceding two articles:
+
+1.During the distillation process, it is a must to prevent changes to the internal pressure of processing equipment as such changes can result in the leakage of liquid, vapor or gas.
+
+2.During the extraction process, it is a must to prevent the abnormal increase of the internal pressure of the processing equipment.
+
+3.During the drying process, it is necessary to take measures that prevent the rise of local temperature.
+
+4.During the crushing process, the machines shall not be operated if there is a big amount of flammable powders and dusts.
+
+5.The filling process shall be conducted in a fire safety place.
+
+6.The spray painting and paint coating process shall be conducted within the effective fire protection zone.
+
+7.During the quench process, it is a must to cool down the Six Materials below the dangerous temperature zone
+
+8.The cleaning process shall be conducted in a place with good ventilation to discharge flammable vapors produced during the operations, and the waste Six Materials shall be disposed appropriately.
+
+9.When consuming the Six Materials by burning them, it is a must to prevent backfire of the handling equipment and leakage of the Six Materials.
+
+The safety management of the places for trading the Six Materials shall meet the following requirements in addition to those set forth in the preceding article:
+
+1.The Six Materials shall be stored in a container and must be sold in bulk.
+
+2.The blending of the Six Materials shall be limited to coating materials and the process shall be completed in the blending room.
+
+#### Article 46-2
+
+The safety management of the storage place of the Six Materials shall meet the following requirements in addition to Articles 45 and 46:
+
+1.Indoor or outdoor storage places shall not be used to store materials other than the Six Materials, unless the said materials do not react to other stored materials, are stored separately by class and areas, and the distance between compartments is above 1 m.
+
+2.Indoor or outdoor storage places shall not be used to store Six Materials of different classes, unless the said materials are stored separately by class and areas, and the distance between compartments is above 1 m:
+
+(1)Class 1 (except for alkali metal peroxides or materials containing the components thereof) and Class 5 public hazardous materials;
+
+(2)Class 1 and Class 6 public hazardous materials;
+
+(3)Class 2 public hazardous materials and Pyrophoric liquids and pyrophoric solids (are limited to yellow phosphorus or materials containing the components thereof) of Class 3 public hazardous materials;
+
+(4)Flammable solids of Class 2 public hazardous materials and Class 4 public hazardous materials;
+
+(5)Alkyl aluminum or alkyl lithium, and Class 4 public hazardous materials containing alkyl aluminum or lithium alkyl;
+
+(6)Class 4 public hazardous materials containing organic peroxides or their components, and organic peroxides of Class 5 public hazardous materials or containing their components;
+
+(7)Class 4 public hazardous materials, and allyl glycidyl ether, diketene or materials containing the components thereof of Class 5 public hazardous materials.
+
+3.Yellow phosphorus of Class 3 public hazardous materials shall not be stored with substances which in contact with water emit flammable gases in the same place.
+
+4.The container stacking height of the indoor storage place shall not exceed 3 m. When the indoor storage place is for the storage of Type 2 petrol oil, Type 3 petrol oil, Type 4 petrol oil or animal/ vegetable oils of Class 4 public hazardous materials at a flash point of above 21℃, Subparagraph 8 of Article 30 is applicable to the container stacking height thereof mutatis mutandis.
+
+5.For an indoor storage place used to store the Six Materials, the temperature thereof shall be maintained at 55℃ and below.
+
+#### Article 47
+
+(Delete)
+
+### Section 2: (Delete)
+
+#### Article 48
+
+(Delete)
+
+#### Article 49
+
+(Delete)
+
+#### Article 50
+
+(Delete)
+
+#### Article 51
+
+(Delete)
+
+#### Article 52
+
+(Delete)
+
+#### Article 53
+
+(Delete)
+
+#### Article 54
+
+(Delete)
+
+#### Article 55
+
+(Delete)
+
+#### Article 56
+
+(Delete)
+
+#### Article 57
+
+(Delete)
+
+#### Article 58
+
+(Delete)
+
+#### Article 59
+
+(Delete)
+
+## Chapter Three: Establishment and Safety Control of Flammable Pressurized Gases
+
+#### Article 60
+
+Storage tank referred in this Chapter means a storage tank containing flammable pressurized gas that is fixed to the lava.
+
+#### Article 61
+
+Container referred in this Chapter means a mobile pressurized container used exclusively for filling flammable pressurized gas.
+
+#### Article 61-1
+
+The supply equipment referred to in this Chapter includes the containers or all equipment between the container and the outlet of gas meter that are provided by operator in the liquefied petroleum gas trading place when supplying gas to families or business users.
+
+#### Article 62
+
+Process equipment referred in this Chapter means the manufacturing equipment to process a flammable pressurized gas by means of compression, liquefaction and other methods.
+
+#### Article 63
+
+Storage capacity referred in this Chapter means the quantity of a flammable pressurized gas permitted to be stored in a storage equipment, and shall be solved as follows:
+
+1.Compression Gas Storage Tank: Q = (10P + 1)× V1
+
+2.Liquefied Gas Storage Tank: W = C1 × w ×V2
+
+3.Liquefied Gas Container: W=V2/C2
+
+Wherein,
+
+Q: storage capacity of the storage equipment in unit of m3;
+
+P: The highest filling pressure of the storage tank at temperature of 35℃ (or 15℃ in case of acetylene) in unit of MPa;
+
+V1: The inner volume of the storage equipment in unit of m3;
+
+V2: The inner volume of the storage equipment in unit of l;
+
+W: The storage capacity of the storage equipment in unit of kg;
+
+w: The specific weight of the storage equipment at the normal working temperature in unit of kg/l;
+
+C1: 0.9 (the specific value of the volume liquefied gas that can be stored in corresponding to the inner volume of a hypothermal storage tank); and
+
+C2: as specified by the central regulating authorities.
+
+#### Article 64
+
+Process capacity referred in this Chapter means the volume (when converted, the volume in the status of 0℃ of temperature and 0 kg/cm2)of the gas that can be processed in one day by the process equipment using compression, liquefaction or other methods.
+
+#### Article 65
+
+Class 1 and Class 2 objects under protection referred in this Chapter shall be those as follows:
+
+1.Class 1 Objects under Protection relate to the following places:
+
+(1)ancient relics;
+
+(2)any place listed under Article 12.1.2.4 of Equipment Standards;
+
+(3)any place listed under Article 12.1.1.6, 12.1.2.3 and 12.1.2.12 of Equipment Standards where accommodating no less than twenty (20) persons;
+
+(4)any place listed under Article 12.1.1.1, 12.1.2.5 and 12.1.2.8 of Equipment Standards where accommodating no less than three hundred (300) persons;
+
+(5)any place listed under Article 12.1.2.1 of Equipment Standards with a traffic each day in average not less than twenty thousand (20,000) persons;
+
+(6)any place listed under Article 12.1.1.2~12.1.1.5 and 12.1.1.7 of Equipment Standards with a total floorage not less than one thousand(1,000) m2;
+
+2.Class 2 Objects under Protection: relates to any building other than Class 1 Objects under Protection where is occupied or used by people with the exception that the place for manufacturing, process or storage is located on the same building foundation.
+
+#### Article 66
+
+The exterior wall or the outer side of facilities equivalent to an exterior wall at the flammable pressurized gas manufacturing place shall be kept a safety distance as listed below from Class 1 and Class 2 Objects under Protection located outside the place:
+
+（Attachment E）
+
+#### Article 67
+
+The exterior wall or the outer side of facilities equivalent to an exterior wall at the flammable pressurized gas storage place shall be kept a safety distance as listed below from Class 1 and Class 2 Objects under Protection located outside the place:（Attachment F）
+
+However, the safety distance from Class 1 and Class 2 Objects under Protection may be reduced to such as specified in the list below if explosion proof wall or a protection equivalent or better than such wall is provided to the storage place referred in the preceding paragraph:（Attachment G）
+
+The central regulating authorities shall specify the directions for the explosion proof wall as referred in the preceding paragraph.
+
+#### Article 68
+
+The exterior wall or the outer side of facilities equivalent to an exterior wall at the liquefied petroleum gas manufacturing place of shall be kept a safety distance as respectively listed in L1 and L4 of Table 1 below from Class 1 and Class 2 Objects under Protection located outside the place; with the exception that the safety distance between the place and Class 1 and Class 2 Objects under Protection outside the place when falling short of that as specified in L1 or L4, falls within the safety distance listed in Table 2 and that security measures have been provided pursuant to Table 2.
+
+The security measures referred in the preceding paragraph shall be as follows:
+
+1.The storage tank or the process equipment is buried under the lava;
+
+2.Water spray system or the equivalent fire prevention system is provided to the storage tank or process equipment; and
+
+3.The explosion proof wall or the protection equivalent to or better than such wall is provided at where between the storage tank or the process equipment and Class 1 or Class 2 Objects under Protection.
+
+#### Article 69
+
+The location, construction, equipment, and safety management of flammable pressurized gas processing place shall meet the following requirements:
+
+1.The trading place:
+
+(1)It shall be located on the ground floor of a building.
+
+(2)The area of the building used for trading shall meet the following:
+
+i.The walls shall be constructed from fireproof materials or non-flammable materials. However, the partitioning walls used to separate this area from other areas of the building shall be made from fireproof construction.
+
+ii.The beams and ceilings shall be constructed from non-flammable materials.
+
+iii.In cases where there is an upper floor, its floor shall be made from fireproof construction. In the absence of an upper floor, the roof shall be built with fireproof construction or non-flammable materials.
+
+(3)Any fire source is forbidden.
+
+(4)A gas leak alarm shall be installed when the gas storage capacity is greater than 80kg.
+
+2.The container inspection place:
+
+(1)It shall meet the requirements set forth in Article 68.1, 68.2.
+
+(2)A gas leak alarm shall be installed in facilities where there is potential leakage possibility of liquefied petroleum gas.
+
+(3)An automatic emergency shutoff device shall be installed in places that use gas appliance.
+
+(4)Any fire source is forbidden except for when it is required for inspection.
+
+#### Article 69-1
+
+The supply equipment shall be installed, maintained, inspected and repaired by operators in the liquefied petroleum gas trading place.
+
+Operators of the place described in the preceding paragraph shall declare the following information to the trading place and firefighting authority of where the supply equipment is located:
+
+1.Name and address of The place of business with LPG manifold system where the gas supply containers;
+
+2.The quantity of concatenated uses of the place described in the preceding subparagraph;
+
+3.The maintenance, inspection and repair status of the supply equipment located in the place described in Subparagraph 1.
+
+4.Any other matters as announced by the central regulating authority.
+
+#### Article 70
+
+Construction, equipment, and safety management of the flammable pressurized gas storage place shall meet the following requirements:
+
+1.Warning signs and explosion proof emergency lighting system shall be provided;
+
+2.Air leakage automatic alarm system shall be provided;
+
+3.Ventilation equipment to effectively prevent accumulation of gas shall be provided;
+
+4.For a flat building with floor in construction of non-flammable materials, the roof shall be built with lightweight metal plate or other lightweight non-flammable materials, and the eave shall be 2.5m and more from the ground;
+
+5.The temperature shall be maintained not higher than 40℃, and the container shall be prevented from direct sunshine;
+
+6.Containers respectively for gas filling and residual gas shall be separately stored, and placed in their erected position without stacking up; the container for gas filling shall be provided with means to prevent from impacts or damage to the attached valves due to tilt or fall;
+
+7.The area for passage shall not be less than 20% of the total area of the storage place;
+
+8.Fire source or storage of any flammable materials is strictly prohibited within two meters in the peripheral; unless the wall of the storage place is of RC construction in thickness 9 cm and more or any other protection wall with the equivalent to or higher strength;
+
+9.The lightening arrestor shall comply with CNS 12872, or grounding means of equivalent protection may be used unless the environment surrounding the place does not present danger from striking of lightening;
+
+10.No person is allowed to carry any mechanical tool or equipment that may produce fire source into the storage place; and
+
+11.A dedicated controller shall be assigned.
+
+12.Places offering gas to two and more trading operators shall provide layouts with marks of landmass, quantity, serial numbers, and trading name on them which shall be hung in the conspicuous places.
+
+13.Those shall be used only for the storage places in which any expired container shall not be stored.
+
+#### Article 71
+
+Except for the tranding place of liquefied petroleum gases equipped with a storage room, A storage place shall be provided at the place for the cylinder filling plant and for the trading place of liquefied petroleum gases.
+
+Liquefied petroleum gas containers which belong to the cylinder filling plant and the trading place of liquefied petroleum gases shall be stored at the storage place, except for the trading place of liquefied petroleum gases according to Article 73.
+
+#### Article 72
+
+The area to be used by only one operator of trading place on the liquefied petroleum gas storage place shall not be less than 10 ㎡; and the area of storage used by each trading place shall not be less than 6 ㎡ if two or more than two operators share the same storage place of liquefied petroleum gases .
+
+The distance between the location of the storage place referred in the preceding paragraph and the trading place shall not be greater than 5 km; or not greater than 20 km if enclosure wall is provided to the storage place to prevent unauthorized entry and the place is 24hr under control by dedicated persons.
+
+#### Article 72-1
+
+The management person of the cylinder filling plant, the storage place, and the trading place of liquefied petroleum gases which shall be provided with storage place according to Article 71, shall apply for the certification of the storage place of liquefied petroleum gases from the municipality, city, and county administration.
+
+The content of certification mentioned in the preceding paragraph shall include:
+
+1.The name and address of the storage place; and the name of the management person.
+
+2.The name and address of the cylinder filling plant or trading place using the storage place; and the name of the management person.
+
+3.The usage license number of the storage construction.
+
+4.The floor area of the storage place.
+
+5.The serial number of location in the storage place used by the cylinder filling plant and trading places.
+
+Any changes of the above items in certification shall apply for alteration to municipality, city, and county administration by the management person in one month since the day of changes.
+
+If the contract between storage and trading places is terminated or dismissed, the management person who terminates or dismisses the contract shall inform the other party and the municipality, city, and county administration three months in advance, and the management person of the storage place shall apply for the alteration of certification for the storage place according to the previous regulations. The management person of the trading place shall apply for the abrogation of certification of the storage place to the municipality, city, and county administration.
+
+#### Article 73
+
+The total gas storage of the liquefied petroleum gases stored at the trading place of liquefied petroleum gases shall not be greater than 128 kg, the part greater than 128 kg may be store at the storage room , the total gas storage is limited to 1000 kg.
+
+The storage room mentioned in the preceding paragraph shall meet the following requirements：
+
+1.It shall meet the requirements in Article 70.1.1~70.1.3 , 70.1.5 , 70.1.6 , 70.1.10 and 70.1.13.
+
+2.It is dedicated to the trading place of liquefied petroleum gases
+
+3.It shall be one-floor building and at the same building lot of the trading places of liquefied petroleum gases.
+
+4.The roof shall be built with lightweight metal plate or other lightweight non-flammable materials, and the eave shall be at least 2.5m from the ground
+
+5.It shall be enclosed by walls at all sides, the walls and floors shall be constructed with non-flammable materials
+
+6.The safety distances between the exterior walls to the Class 1 and Class 2 objects under protection are not less than 8m. The safety distance may be reduced to 1m if the exterior wall of the storage room is RC construction in thickness not less than 15 cm or any other explosion proof wall with the equivalent to or higher strength.
+
+7.The access shall be provided with fire doors of 30 minutes and more fire rate.
+
+The stand-by quantity of liquefied petroleum gases shall not be greater than 80 kg for business use, and not greater than 40 kg for domestic use.
+
+#### Article 73-1
+
+The quantity of concatenated use for The place of business with LPG manifold system shall not exceed 1,000kg in the place for concatenated uses of containers, and its safety facilities and management shall comply with the following:
+
+1.When the quantity of concatenated use is 80 kg and more, but 120 kg and less:
+
+(1)The container shall be placed outdoors. However, this does not apply when containers have effective ventilation devices to prevent gas retention and have difficulties of being placed outdoors.
+
+(2)There shall be warning signs of "No Open Flame".
+
+(3)The place shall be provided with measures to block direct sunlight and the temperature thereof shall be constantly maintained at 40°C and below.
+
+(4)Containers shall be placed in an upright position and equipped with securing means that prevent overturning.
+
+(5)Hard gas pipes shall be installed and inspected by personnel with the Gas Fuel, Pipe and Piping Technician Certificate in accordance with CNS or relevant regulations and a completion inspection shall be carried out accordingly.
+
+(6)The length of the soft gas pipe shall not exceed 1.8 m and the minimum bending radius thereof shall be no less than 110 cm without twisting or tangle. Soft gas pipes that exceed 1.8 m shall be provided with a gas pipe concatenating various containers. The soft gas pipes and hard gas pipes shall comply with CNS, and the joints thereof shall be provided with anti-shedding devices.
+
+(7)A gas leak alarm shall be installed.
+
+2.When the quantity of concatenated use is more than 120 kg, but 300 kg and less, it is a must to ensure that the distance between the container and fire appliance is more than 2 m in addition to meeting requirements set forth in the preceding subparagraph.
+
+3.When the quantity of concatenated use is more than 300 kg, but 1000 kg and less, it is a must to meeting the following requirements in addition to those set forth in the preceding two subparagraphs:
+
+(1)An automatic emergency shutdown device shall be provided.
+
+(2)Barriers, container cabinets or fences shall be provided for containers installed outdoors, and shall be covered with lightweight metal plates or other lightweight non-flammable materials in a place of 2.5m and more from the ground.
+
+(3)A signboard with the emergency contact person's name and telephone number shall be provided.
+
+Operators of the liquefied petroleum gas trading place shall, within 15 days upon completion of the installation and inspection described in Item 5 of Subparagraph 1 of Paragraph 1, report the completion inspection data to local firefighting authority for reference.
+
+Where the place described in Paragraph 1 is partitioned by walls and/or floors of 1 hour and more fire rate without any opening, its quantity of concatenated use shall be calculated separately.
+
+The operator of liquified petroleum gas trading place shall suspend the gas supply in case of finding any of the following circumstances in The Place of Business With LPG Manifold System:
+
+1.The containers are located in the basement.
+
+2.There is no warning sign of "No Open Flame".
+
+3.Containers in use or spare containers are not placed in an upright position, or be equipped with no securing means that prevent overturning.
+
+4.No gas leak alarm is installed.
+
+5.Violation of Article 73-2.
+
+#### Article 73-2
+
+The containers of new buildings shall be installed outdoors or outside the house, and not apply the prouiso of Item 1 of Subparagraph 1 of Paragraph 1 of Article 73-1.
+
+Where the quantity of liquified petroleum gas is 10 kg and less, the containers may not be bounded by provisions of the preceding paragraph.
+
+#### Article 74
+
+(Delete)
+
+#### Article 75
+
+(Delete)
+
+#### Article 75-1
+
+(Delete)
+
+#### Article 75-2
+
+(Delete)
+
+#### Article 76
+
+The operator of liquefied petroleum gases trading place shall mark its trade name and telephone number on the container at where can be easily identified.
+
+#### Article 77
+
+Gas filling, loading and unloading of domestic or business use shall be only carried out at the repackaging place.
+
+#### Article 78
+
+Before carrying out the gas filling at the cylinder filling plant of liquefied petroleum gases, the following things and matters shall be confirmed:
+
+1.The container shall mark the trade name and telephone number of a qualified trading place;
+
+2.The container has not yet survived its expiry date of inspection; and
+
+3.An appearance visual inspection for the container has been done to make sure that the container is free of corrosion and/or deformation, and the container can be placed in its standing position.
+
+No gas shall be filled into the container found noncompliance with any of those requirements set forth in the preceding paragraph; and the operator of the cylinder filling plant shall promptly notify the operator of the trading place to take actions as may be required.
+
+## Chapter Four: Additional Articles
+
+#### Article 79
+
+Before the Regulations were amended and announced on Nov. 1 2006, the places in which the facilities to manufacture, store or process public hazardous materials and inflammable pressurized gases have been installed shall submit the documentation consisting of the drawings demonstrating the location, construction and equipments and improvement program to local firefighting authority in 6 months after the date of the announcement of the Regulations, and carry out the improvement work in two years after the date of announcement according to the items to be improved listed in Attachment Table 5. Upon the deadline of completion, failure to improve and provide substantial proof that this place is an existing legal place, failure to improve within the specific deadline or failure to improve according to Attachment Table 5 is punishable as specified in Article 42.
+
+#### Article 79-1
+
+With respect to public hazardous materials that are newly proclaimed by the central regulating authority, amended or add to the list of public hazardous materials in Attachment Table 1, are added to improvements in Attachment Table 5, those that already established legal sites of manufacturing, storing or processing the said materials above the control quantity prior to the announcement date, amendment effective date set in Attachment Table 1 (November 21, 2013), amendment effective date set in Attachment Table 5 (June 11, 2019 or November 10, 2021) shall, within six months after the said dates, submit the illustration of the place’s location, construction and equipment and an improvement plan to the local firefighting authority; and shall complete the improvements as specified in the Attachment Table 5 within two years after the said dates. Those who fail to make an improvement or fail to attach Attachment Table 5 will be imposed with punishment in accordance with Article 42 of the Regulations.
+
+#### Article 80
+
+The Regulations shall become effective on the promulgation date.
+
+Amendments to the Regulations are issued on November 10, 2021. The said amendments shall become effective on the promulgation date, except for Article 73-2 as the promulgation date thereof will be set by the central regulating authority separately.
+
+## Attachments
+
+- [Attachment Table 1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007044)
+- [Schedule 1-1.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008653)
+- [Schedule 2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008654)
+- [Attachment 3.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007036)
+- [Attachment Table 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007039)
+- [Attachment Table 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007046)
+- [Article 15-1  Diagram1 Diagram2 Diagram3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007034)
+- [Article 31：Attachment A.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007037)
+- [Article 32：Attachment B、C、D.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007038)
+- [Article 66：Attachment E.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007040)
+- [Article 67：Attachment F、G.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007041)
+- [Article 68：table 1～2.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007042)
+
+## History
+
+1.Published jointly on Oct. 20, 1999 by Ministry of the Interior(MOI) Order Tai- (88)-Nei-Hsiao-Tzu No. 8876073; and Ministry of Economic Affairs(MOEA) Order Ching-(88)-Neng-Tzu No. 88221266
+
+2.Published, as amended, jointly on Oct. 1, 2002 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0910089468; and MOEA Order Ching-Neng-Tzu No. 09104622750
+
+3.Published, as amended, jointly on Nov. 2, 2004 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0930092276; and MOEA Order Ching-Neng-Tzu No. 09304608440
+
+4.Published, as amended, jointly on Aug. 30, 2005 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0940091584; and MOEA Order Ching-Neng-Tzu No. 09404607260
+
+5.Published, as amended, jointly on Nov. 1, 2006 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0950825602; and MOEA Order Ching-Neng-Tzu No. 09504606540
+
+6.Published, as amended, jointly on May 9, 2007 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0960823262; and MOEA Order Ching-Neng-Tzu No. 09604602060
+
+7.Published, as amended, jointly on October 17, 2008 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No.0970824057
+
+8.Published, as amended, jointly on Aug 23, 2010 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 0990823887; and MOEA Order Ching-Neng-Tzu No.09904605160
+
+9.Published, as amended, jointly on Nov 21, 2013 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1020825136; and MOEA Order Ching-Neng-Tzu No.10204606290
+
+10.Published, as amended, jointly on May 4, 2016 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1050821665; and MOEA Order Ching-Neng-Tzu No.10504601910
+
+11.Amended on May 8, 2017
+
+12.Published, as amended, jointly on June 11, 2019 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1080822239; and MOEA Order Ching-Neng-Tzu No.10804602500
+
+13.Published, as amended, jointly on Nov 10, 2021 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1100821046; and MOEA Order Ching-Neng-Tzu No.11004605510
+
+Ching-Neng-Tzu No.11004605510
+
+14.Published, as amended, jointly on Jul 16, 2024 by Ministry of the Interior (MOI) Order Tai-Nei-Hsiao-Tzu No. 1131619001; and MOEA Order Ching-Neng-Tzu No.11358002620

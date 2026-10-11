@@ -1,0 +1,283 @@
+---
+title: "Regulations Governing Application by Draftees-to-Be for Substitute Services"
+title_zh: "役男申請服替代役辦法"
+identifier: "D0040016"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞役政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2000-04-26
+last_amended: 2024-12-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0040016"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Application by Draftees-to-Be for Substitute Services
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0040016-regulations-governing-application-by-draftees-to-be-for-substitute-services.md](../../../zh/regulations/ministry-of-the-interior/D0040016-regulations-governing-application-by-draftees-to-be-for-substitute-services.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Regulations hereto are formulated in accordance with provisions prescribed in Paragraph 6, Article 5 of the Enforcement Act for Substitute Services (hereinafter referred to as the “Act”) and provisions in Article 21 of the Volunteer Service Act.
+
+### Article 2
+
+A draftee-to-be (a male citizen within the range of conscript ages, subject to draft into military services) in the physical status graded for regular serviceman is entitled to apply for Substitute Services except one meeting any of the following who is not qualified for application:
+
+\1. One in deferred draft, applying for reclassification of physical rank or for deferred draft.
+
+\2. A draftee-to-be with college education or above who hold qualifications as reserve officers or non-commissioned officers.
+
+The restriction on application ceases to bind the one meeting conditions set forth in Clause 1 of the preceding paragraph if the cause for deferred draft ceases to exist in the year in which the application is filed, and ceases to bind the one if the applicant submits an affidavit to renounce the qualifications as a reservist officer, NCO if he is approved to serve the Substitute Services.
+
+Where a draftee-to-be who applies for Substitute Services is receiving a court trial or receives a final and irrevocable court judgement following his commission of a crime as the Substitute Services Review Committee passes the case, the competent authority of the government may disapprove of his application for Substitute Services or may restrict the categories of his Substitute Services. The restriction in this article, nevertheless, does not apply to a juvenile criminal, unintentional offender or a criminal granted a suspension which has not been revoked.
+
+### Article 3
+
+Application and screening for Substitute Services shall be subject to the following operating procedures:
+
+\1. Rationing of the quota: The competent authority of the government shall, not later than the last day of February every year, review the categories and demands for the Substitute Services as requested by the users and submit to the Executive Yuan (the Cabinet) for final decision.
+
+\2. Public announcement: The competent authority of the government shall, in accordance with the categories and quotas of Substitute Services approved by the Executive Yuan (the Cabinet), propose the general regulations for screening Substitute Services and announce such general regulations to public.
+
+\3. Application: The draftee-to-be or his agent shall, during the period of application as specified in the public announcement, submit application along with supporting documents to the local (Hsiang, city, district) government hall in the place where his household has been established. After the application is entertained, the draftee-to-be is free of draft until the specified date.
+
+\4. Screening: Screening shall be completed within two months from public announcement. The applications shall be granted straight if the applicants are within the specified quota, and shall be determined by lot drawing if exceeding the specified quota.
+
+The aforementioned procedures may be handled by the competent authority of the government in installments as the actual demand may justify in the year.
+
+The number of applicants approved under Clause 1 of Paragraph 1 excludes the ones who serve the Substitute Services because of religious, family factors.
+
+The general regulations for screening set forth in Clause 2 of Paragraph 1 shall describe the quotas for various categories of Substitute Services, qualifications and mode for screening, duration of Substitute Services, pay and restrictions.
+
+### Article 4
+
+The qualifications and screening orders for application for Substitute Services are enumerated below:
+
+\1. Religious, family factors: A draftee-to-be who applies due to a religious factor living up to requirements under Article 5, or applies as his family conditions live up to Article 11.
+
+\2. Qualifications in expertise:
+
+(1) One who lives up to the expertise license/certificate in the category set forth in Article 4, Paragraph 1 of the Statute by satisfactorily passing a state-sponsored examinations.
+
+(2) One who obtains an expertise license/certificate in the category set forth in Article 4, Paragraph 1 of the Statute, issued by the central government level competent authorities in charge of the target business.
+
+(3) One who possesses the academic, provisional or specified training qualifications designated by the competent authorities in concert with the user authority.
+
+3.Volunteer qualifications: A draftee-to-be who has engaged in voluntary service related items for one year and has served for 150 hours minimum and has possessed voluntary service certificate may be preferentially appointed to serve the Substitute Services in the relevant categories.
+
+\4. General qualifications: A draftee-to-be who possesses none of the aforementioned qualifications and applies.
+
+An applicant who applies under Clauses 1~3 of the preceding paragraph but fails to pass the screening or ive up to the requirements may be subject to screening in general qualifications in backup if he desires.
+
+## Chapter 2 Application for Substitute Services Due to Religious Factors
+
+### Article 5
+
+A draftee-to-be who has been in religion for two (2) years minimum and is in mentality no longer fitting regular services may apply for Substitute Services.
+
+The organization of the draftee-to-be's religion shall be the one having been officially accredited by the government.
+
+### Article 6
+
+A draftee-to-be who applies in accordance with the preceding article shall submit the following documents:
+
+\1. Autobiography.
+
+\2. Statement of reasons.
+
+3.Affidavit.
+
+\4. The certificate issued by the religious organization having been officially accredited by the government.
+
+### Article 7
+
+The Hsiang (township, city, district) government shall, after receiving an application for Substitute Services due to religious factors shall refer to supporting certificates and the preliminary review papers to the municipal, county (city) government for recheck within five (5) days.
+
+### Article 8
+
+The municipal, county (city) government shall, upon receipt of a case specified in the preceding article, complete the recheck process within ten (10) days and submit the supporting certificates and the recheck papers to the competent authorities for final decision.
+
+### Article 9
+
+The competent authorities shall proceed with the cases received in accordance with the preceding article in the following manners:
+
+\1. Call a review committee to complete review process within three (3) months.
+
+\2. Interview the applicant or invite the responsible person or witness(s) of the religion to be present in the interview to verify the draftee-to-be's belief, motivation, mentality.
+
+\3. Resolve a certain period as an observation period up to one (1) year maximum during which the draftee-to-be shall not be enlisted for the time being in case a case is found questionable to approve or disapprove of.
+
+During the observation period set forth in Clause 3 of the preceding paragraph, the municipal, county (city) government shall, in concert with the Hsiang (township, city, district) government conduct investigation and enter records. The municipal, county (city) government shall, within fifteen (15) days from expiry of the observation period, submit the data of the draftees-to-be to the competent authorities for review.
+
+### Article 10
+
+The competent authorities shall notify the municipal, county (city) government and the draftees-to-be themselves of the results of the review conducted in accordance with the preceding article within fifteen (15) days. The reasons shall be provided in case of setting the observation period or disapproving of the application.
+
+## Chapter 3 Application for Substitute Services Due to Family Factors
+
+### Article 11
+
+Applications for substitute services on account of family factors refer to cases where a draftee’s family status is in conformity with one of the following circumstances:
+
+\1. All of the draftee’s family members are aged above 65; below 15; or mentally or physically disabled or with major injury or disease; or aged above 15, below 18 and certified by an educational authority-registered school to be attending it.
+
+\2. The draftee has a child or children or his spouse is pregnant.
+
+\3. A family member of the draftee suffers from moderate (or above) mental or physical disorders.
+
+\4. The draftee's parents, spouse, or siblings died or suffered mental and physical disorders during their term of military service, with the fact of indemnity established.
+
+\5. The draftee's family is listed as a low-income household according to the Public Assistance Act, but it does not apply to a draftee if only himself or his siblings above the age of 18 is/are ratified as low-income.
+
+The calculation of the age of the draftee’s family members referred to in the preceding paragraph is based upon the date on which the draftee applies for substitute service.
+
+The mental or physical disabilities or catastrophic illness defined in the subparagraph 1 and 3 of the first paragraph refers to the diseases that meet the grade provisions of mental and physical disabilities defined by the central health authority, or the announced catastrophic illness coverage of the national health insurance with supporting documents. Death or mental and physical disorders specified in the fourth subparagraph refer to those who conform to the examination criteria for relief on death or mental and physical disorders grading standards respectively specified for military personnel and draftee of substitute service by the Ministry of National Defense or the Ministry of the Interior and are with supporting documents.
+
+If a family member of a draftee has been diagnosed by a physician with stage 2 or higher cancer and has been approved as having a major injury or disease, they may be recognized as having a moderate or higher degree of physical or mental disorders.
+
+### Article 12
+
+Family members referred to in the preceding Article include the following family members of the draftees:
+
+\1. Parents, children, and spouses.
+
+\2. Siblings and their spouses.
+
+\3. Other blood relatives or relatives by marriage within three degrees of kinship, as well as persons referred to in Paragraph 3, Article 1123 of the Civil Code, who have been registered in the same household or in separate household registrations but at the same address and living together with shared livelihood, from two years prior to the application up until the time of application filed by the draftee.
+
+A draftee’s family member who is naturalized, returned overseas compatriots, and/or who is from China, Hong Kong or Macao shall be subject to the domestic household registration made in Taiwan.
+
+### Article 13
+
+A draftee’s family member(s) in any of the following conditions shall be excluded:
+
+\1. Is detained, serving a prison sentence, or under reformatory penalty or education.
+
+\2. Is missing, for which a report has been made by the police for over six months, or proved to be missing in a major catastrophe.
+
+\3. A sibling and his / her spouse with their child (children), who are not cohabiting with the draftee and not maintaining the common living.
+
+\4. Spouse of the draftee’s sibling without making the same household registration or their household separation registration at the same address, nor cohabiting with the draftee and not maintaining the common living, two years prior to the application filed by the draftee.
+
+\5. Is accommodated by a social welfare organization under public fund or there is another supporting obligor with higher priority.
+
+\6. A divorced parent or being acknowledged by the biological father without cohabiting and maintaining the common living, neither do they raise the children nor exercise rights and responsibilities for their underaged children.
+
+\7. Siblings whose parents are divorced or whose biological father has acknowledged paternity, who do not live together with the draftee in a shared household, and who are not being raised by nor having parental rights and responsibilities exercised by the parent who lives with the draftee.
+
+\8. On active military service, except for those on substitute service because of family factors.
+
+If the causes specified in the preceding paragraph cease to exist before conscription, the person shall be restored as a counted family member.
+
+### Article 14
+
+Circumstances such as adoption, divorce, termination of an adoption or age change for a draftee or his family members shall be limited to the household registration made before December 31 of the year the draftee turned 18, or the household registration made two years before the application for substitute service is filed. It shall be limited to the household registration made before December 31 of the year the draftee turned 15 if the draftee himself was adopted.
+
+### Article 15
+
+The Hsiang (township, city, district) government shall, when processing an application for Substitute Services due to family factors, handle the case in accordance with the following:
+
+\1. Hand the investigation & review chart and supporting data of the application for Substitute Services due to family factors to the Tsun (Village) or Li Government Secretary or the conscript officers for on-the-spot investigation.
+
+\2. In response to the results of the aforementioned investigation, the conscript officers may conduct on-the-spot recheck and provide definite remarks and submit the investigation & review chart, supporting data and supporting certificates to the municipal, county (city) government within twenty (20) days.
+
+\3. Dismiss straight the application which is found apparently nonconforming with the application for Substitute Services.
+
+### Article 16
+
+The municipal, county (city) government shall, upon receipt of the aforementioned cases, handle in the following manners:
+
+\1. Complete review and inform the Hsiang (township, city, district) government of the results in writing, along with the original investigation and review chart within twenty days. The Hsiang (township, city, district) government shall inform the applicant. If the case proves nonconforming with the prerequisites set forth in Article 11, the reasons shall be stated in writing.
+
+\2. If an application is found questionable, recheck on-the-spot or verify with agencies concerned before coming to the final decision. In an extraordinary case for which a final decision is hard to make the reasons should be stated with concrete opinions to the competent authorities for instructions before due actions as required.
+
+### Article 17
+
+The draftee-to-be or his parents, if in disagreement with the decision shown on the notice disapproving of the application, may apply to the original Hsiang (township, city, district) government for recheck within ten days. The Hsiang (township, city, district) government shall, after checking and verifying the case, submit the case to the communications for recheck.
+
+In case of occurrence of new causes after the application for recheck is dismissed, the draftee-to-be may apply for further recheck before being enlisted. Application filed beyond the time limit shall no longer be entertained.
+
+## Chapter 4 Application for Substitute Services on Expertise, Voluntary and General Qualifications
+
+### Article 18
+
+The Hsiang (township, city, district) government shall immediately launch the preliminary review upon receipt of an application for Substitute Services on expertise, voluntary and general qualifications. It shall advise the applicant to complete corrective action before the deadline for application in the event that the expertise licenses or supporting certificates are found nonconforming or erroneous; and shall, if those papers prove to have lived up to requirements, work out the roster and statistics and submit them along with the expertise licenses or supporting certificates in Xerox copies to the municipal, county (city) government within two (2) days from the deadline of application.
+
+### Article 19
+
+The municipal, county (city) government shall conduct recheck immediately upon receipt of the application cases mentioned in the preceding article and shall act according to the following:
+
+\1. Application on expertise qualifications: Assemble the cases on the grounds of the categories of services, education and expertise and submit them to the competent authorities.
+
+\2. Application on voluntary qualifications: Submit the cases to the competent authorities on the grounds of the categories of services and education.
+
+\3. Application on general qualifications: Conduct statistics and report the total number of cases to the competent authorities and approve of the applications if the number of applications falls within the quota granted by the competent authorities in response; and determine the results through lot-drawing in consolidation with the lot-drawing for regular servicemen if the number of applications goes beyond the quota.
+
+### Article 20
+
+The competent authorities shall manage the applications in the following manners after receipt of the submittals in accordance with the preceding article:
+
+\1. Application on expertise qualifications:
+
+(1) The applicants having satisfactorily passed state-sponsored examinations and been satisfactory with the licenses/certificates in expertise in the categories set forth in Paragraph 1 of Article 4 will be preferentially reviewed. Approve of the application in concert with the user organizations straight if the qualified applicants are not beyond the approved quota and grant the quota to applicants through lot-drawing if beyond the quota.
+
+(2) In case of a balance of the approved quota after deducting the successful applicants having satisfactorily passed state-sponsored examinations with satisfactory licenses/certificates for expertise, the applicants having satisfactorily passed the examinations under the auspices of the competent authorities in charge of target business with the licenses/certificates in expertise in the categories set forth in Paragraph 1 of Article 4 will be preferentially reviewed. Approve of the application in concert with the user organizations straight if the qualified applicants are not beyond the approved quota and grant the quota to applicants through lot-drawing if beyond the quota.
+
+(3) In case of a balance of the approved quota after deducting the two preceding paragraphs, i.e., the successful applicants having satisfactorily passed state-sponsored examinations with satisfactory licenses/certificates for expertise and the applicants having satisfactorily passed the examinations under the auspices of the competent authorities in charge of target business with the licenses/certificates in expertise, the applicants possessing the education and professional qualifications as well as expertise training required by the user organizations will be preferentially reviewed. Approve of the application in concert with the user organizations straight if the qualified applicants are not beyond the approved quota and grant the quota to applicants through lot-drawing if beyond the quota.
+
+\2. Application on voluntary qualifications: Approve of the application in concert with the user organizations straight if the applicants in various categories are not beyond the balance of the approved quota after deducting the applicants successfully granted for various categories of expertise and grant the quota to applicants through lot-drawing if beyond the balance.
+
+\3. Application on general qualifications: The total balance of the approved quota after deducting the applicants successfully granted for various categories of expertise and the applicants successfully granted on voluntary qualifications shall be allocated to the municipalities, counties (cities) on the grounds of the total number of applications of general qualifications submitted by various municipal, county (city) governments.
+
+The aforementioned lot-drawing shall be conducted by the competent authorities in concert with the user organizations and the municipal, county (city) governments.
+
+## Chapter 5 Supplementary Provisions
+
+### Article 21
+
+In Substitute Services in family factors, religious factors, the draftees-to-be shall serve in the areas where their household registration is established as a commuter to stay home in principle in case of the former, and shall be in the Substitute Services in the social service category in principle in case of the latter.
+
+### Article 22
+
+Both the municipal, county (city) government and the Hsiang (township, city, district) government shall establish rosters of the draftees-to-be in the Substitute Services respectively for sound control. For disqualified applicants, they shall enter such facts of time of application, disapproving authority, date and file number of disapproval, causes of disapproval, into the conscript files and other files concerned and key into the information systems and files.
+
+### Article 23
+
+The municipal, county (city) governments shall report the statistics of draftee-to-be enlistment and training to the competent authorities on a monthly basis.
+
+### Article 24
+
+The documents and formats of papers required for the Regulations shall be established by the competent authorities.
+
+### Article 25
+
+These Regulations come into enforcement on the same day when the Act is enforced.
+
+The amendment to these Regulations comes into effect on the date of promulgation.
+
+## History
+
+1.Promulgated on April 26, 2000
+
+2.Amended on August 10, 2001
+
+3.Amended on March 21, 2003
+
+4.Amended on April 24, 2012
+
+5.Amended on July 17, 2013
+
+6.Amended on June 9, 2015
+
+7.Amended on January 30, 2019
+
+8.Amended on June 4, 2019
+
+9.Amended on December 25, 2024

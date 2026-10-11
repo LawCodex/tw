@@ -1,0 +1,832 @@
+---
+title: "Occupational Safety and Health Education and Training Regulations"
+title_zh: "職業安全衛生教育訓練規則"
+identifier: "N0060010"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞職業安全衛生目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1975-06-12
+last_amended: 2026-06-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060010"
+retrieved: 2026-10-12
+---
+
+# Occupational Safety and Health Education and Training Regulations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0060010-occupational-safety-and-health-education-and-training-regulations.md](../../../zh/regulations/ministry-of-labor/N0060010-occupational-safety-and-health-education-and-training-regulations.md)) is authoritative.
+
+## Chapter 1 General Regulations
+
+### Article 1
+
+The Rules are prescribed according to Paragraph 3 of Article 32 of the Occupational Safety and Health Act (hereinafter referred to as the Act).
+
+### Article 2
+
+The safety and health education and trainings set forth in the Rules are categorized as follows:
+
+\1. Safety and health education and training specified for supervisors in charge of occupational safety and health.
+
+\2. Safety and health education and training specified for the management personnel in charge of occupational safety and health.
+
+\3. Safety and health education and trainings specified for the workplace monitoring personnel.
+
+\4. Safety and health education and trainings specified for the construction safety assessor and process safety assessor.
+
+\5. Safety and health education and trainings specified for supervisors in charge of high-pressure gas operations, construction works and harmful operations.
+
+\6. Safety and health education and trainings specified for operators of dangerous machinery and equipment.
+
+\7. Safety and health education and trainings specified for special operation personnel.
+
+\8. Safety and health education and trainings specified for labor health service nursing personnel and labor health service related personnel.
+
+\9. Safety and health education and trainings specified for first aid personnel.
+
+\10. General safety and health education and trainings.
+
+\11. On-the-job safety and health education and trainings for the preceding 10 Subparagraphs.
+
+\12. Safety and health education and trainings specified for other personnel designated by the competent authority of central government.
+
+## Chapter 2 Matters Required for Education and Trainings
+
+### Article 3
+
+The employer shall require workers, before serving as supervisors of occupational safety and health affairs, to receive occupational safety and health education and trainings specified for the said field. The same conditions apply to employers or their representatives who serve as supervisors of occupational safety and health affairs.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 1.
+
+Personnel stated in Paragraph 1 of this Article with the following qualifications are exempted from safety and health education and trainings stated in Paragraph 1 of this Article:
+
+\1. Those who are qualified as occupational safety management specialist, occupational health management specialist, and occupational safety and health management staff.
+
+\2. Those who are accredited with trainings and have completion certifications in the fields of occupational safety management specialist, occupational health management specialist, and occupational safety and health management staff.
+
+\3. Those who have completed the trainings in the fields of occupational safety management specialist, occupational health management specialist, and occupational safety and health management staff, have passed the examinations as prescribed in Paragraph 3 of Article 28, and have completion certificates for the occupational safety and health supervisor education and training.
+
+### Article 4
+
+The employer shall require workers, before serving as supervisors of occupational safety and health affairs in construction industry, to receive occupational safety and health education and trainings specified for the said field. The same conditions apply to employers or their representatives who serve as supervisors of occupational safety and health affairs in the construction industry.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 2.
+
+Personnel stated in Paragraph 1 of this Article, who has qualification as one of following positions and have 1 year or more of experiences in construction works by January 8, 2009, is exempted from safety and health education and trainings stated in Paragraph 1 of this Article:
+
+\1. Labor safety management specialist.
+
+\2. Labor health management specialist.
+
+\3. Labor safety and health management staff.
+
+\4. Certificates of completion were awarded after passing accreditation of trainings specified for Labor safety management specialist, Labor health management specialist, and Labor safety and health management staff.
+
+### Article 5
+
+For workers serving as occupational safety and health management staff for the positions listed below, the employer shall require workers, before serving as following management personnel of occupational safety and health, to receive safety and health education and trainings specified for the said field. Such management personnel must pass trainings, receive certificate of completion, and pass skill examinations.
+
+\1. Occupational safety management specialist.
+
+\2. Occupational health management specialist.
+
+\3. Occupational safety and health management staff.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 3.
+
+### Article 6
+
+For workers serving as workplace monitoring personnel for the positions listed below, the employer shall require workers, before serving as following workplace monitoring personnel, to receive safety and health education and trainings specified for the said field. Such workplace monitoring personnel must pass trainings, receive certificate of completion, and pass skill examinations.
+
+\1. Level A workplace chemical-factor monitoring personnel.
+
+\2. Level A workplace physical-factor monitoring personnel.
+
+\3. Level B workplace chemical-factor monitoring personnel.
+
+\4. Level B workplace physical-factor monitoring personnel.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 4.
+
+### Article 7
+
+The employer shall require workers, who will be in charge of construction safety assessment, to receive safety and health education and trainings specified for the said field.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 5.
+
+### Article 8
+
+The employer shall require workers, who will be in charge of process safety assessment, to receive safety and health education and trainings specified for the said field.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 6.
+
+### Article 9
+
+The employer shall require workers, before serving as supervisors in charge of high-pressure gas operations, to receive following safety and health education and trainings:
+
+\1. Safety supervisor of high-pressure gas production.
+
+\2. Safety operation supervisor of high-pressure gas production.
+
+\3. Operation supervisor of high-pressure gas supply and consumption.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 7.
+
+### Article 10
+
+The employer shall require workers, before serving as supervisors in charge of construction works, to receive following safety and health education and trainings:
+
+\1. Supervisor in charge of trench bracing works.
+
+\2. Supervisor in charge of open-air excavation works.
+
+\3. Supervisor in charge of template bracing works.
+
+\4. Supervisor in charge of tunnels excavation works.
+
+\5. Supervisor in charge of tunnels lining works.
+
+\6. Supervisor in charge of scaffolds assembly works.
+
+\7. Supervisor in charge of skeleton steel erecting works.
+
+\8. Supervisor in charge of roofing operations.
+
+\9. Other personnel assigned by the competent authority of the central government.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 8.
+
+### Article 11
+
+The employer shall require workers, before serving as supervisors in charge of harmful operations, to receive following safety and health education and trainings.
+
+\1. Supervisor in charge of organic solvent operations.
+
+\2. Supervisor in charge of lead operations.
+
+\3. Supervisor in charge of tetra-alkyl lead operations.
+
+\4. Supervisor in charge of hypoxia operations.
+
+\5. Supervisor in charge of specified chemical substance operations.
+
+\6. Supervisor in charge of dusty operations.
+
+\7. Supervisor in charge of high-pressure chamber operations.
+
+\8. Supervisor in charge of diving operations.
+
+\9. Other personnel assigned by the competent authority of the central government.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 9.
+
+### Article 12
+
+The employer shall require workers, who will be in charge of following dangerous machinery operations, to receive safety and health education and trainings specified for the said field:
+
+\1. Operator in charge of hoisting fixed cranes with hoisting capacity of 3 tons or more or stacking crane with hoisting capacity of 1 ton or more.
+
+\2. Operator in charge of hoisting mobile crane with hoisting capacity of 3 tons or more.
+
+\3. Operator in charge of hoisting derricks cranes with hoisting capacity of 3 tons or more.
+
+\4. Operator of lifts for construction work in which the height of lead rail or elevating route is longer than 20m.
+
+\5. Operator of gondolas.
+
+\6. Other personnel assigned by the competent authority of the central government.
+
+The aforesaid personnel means one who is qualified by trainings or capacity accreditation specified for dangerous machine operators.
+
+Self-employed persons serving as operators in charge of dangerous machinery operations described in any one of the Subparagraphs of Paragraph 1 shall receive the safety and health education and trainings specified for those categories as described in Paragraph 1 before accepting such positions.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 10.
+
+### Article 13
+
+The employer shall require workers, who will be in charge of following dangerous equipment operations, to receive safety and health education and trainings specified for the said field:
+
+\1. Operator of boilers.
+
+\2. Operator of Category A pressure vessels.
+
+\3. Operator of specified high-pressure gas equipment.
+
+\4. Operator of high-pressure gas vessels.
+
+\5. Other Personnel assigned by the competent authority of the central government.
+
+The aforesaid personnel means one who is qualified by trainings or capability accreditation specified for dangerous equipment operators.
+
+Self-employed persons serving as operators in charge of dangerous equipment operations described in any one of the Subparagraphs of Paragraph 1 shall receive the safety and health education and trainings specified for those categories as described in Paragraph 1 before accepting such positions.
+
+Courses and hours of education and trainings in Paragraph 1 of this Article are subject to regulations provided in Annex 11.
+
+### Article 14
+
+The employer shall require workers, who will be in charge of following operations, to receive safety and health education and trainings specified for special operations:
+
+\1. Operator of small boilers.
+
+\2. Operator of forklift with capacity of 1 ton or more.
+
+\3. Operator of fixed cranes with 0.5 ~ 3 tons or stacking cranes less than 1 ton.
+
+\4. Operator of mobile cranes with 0.5 ~ 3 tons.
+
+\5. Operator of derricks cranes with 0.5 ~ 3 tons.
+
+\6. Operator of aerial work platform.
+
+\7. Operators using cranes for slinging operations.
+
+\8. Personnel in charge of metal sealing, cutting or heating with acetylene sealing devices or gas bundle devices.
+
+\9. Personnel of gunpowder blasting operations.
+
+\10. Lumberjacks for trees with diameter over 70 cm at breast height.
+
+\11. Operators for wood mechanical skidding and transportation.
+
+\12. Personnel of high-pressure chamber operations.
+
+\13. Personnel in charge of diving operations.
+
+\14. Personnel in charge of oil tanker cleanup.
+
+\15. Other Personnel assigned by the competent authority of the central government.
+
+Self-employed persons serving as operators or workers described in any one of the Subparagraphs of preceding paragraph shall receive the safety and health education and trainings specified for those categories as described in the preceding paragraph before accepting such positions.
+
+Personnel who meets condition set forth in Subparagraph 9 of Paragraph 1 and who attended and qualified the professional training specified for staff in gunpowder blasting operations with the presentation of a completion certificate may be accepted.
+
+Courses and hours of the education and trainings described in Paragraph 1 are subject to regulations provided in Annex 12.
+
+### Article 15
+
+The employer shall require nursing personnel providing labor health services and labor health service related personnel to receive safety and health education and training for labor health services.
+
+Courses, hours and lecturer qualifications of the aforesaid education and trainings are subject to regulations specified in Labor Health Protection Rules.
+
+### Article 16
+
+The employer shall require first aid personnel in workplace to receive safety and health education and trainings specified for first aid personnel. However, medical personnel and ambulance technicians as prescribed by the Emergency Medical Care Law may be excluded from such education and training requirements.
+
+Courses and hours of the aforesaid education and trainings are subject to regulations provided in Annex 13.
+
+### Article 17
+
+The employer shall require the new recruit or employees in active service who is to change his work, to receive necessary safety and health education and trainings specified for his work, except for situation where the work environment or nature of work is equivalent to that prior to the change.
+
+Workers with no fixed employers or those being directed or supervised by the person in charge of the work environment must have received the aforesaid safety and health education and trainings.
+
+Courses and hours of education and trainings of the aforesaid two Paragraphs are subject to regulations provided in Annex 14.
+
+The hours of labor e-learning via internet courses of the occupational safety and health education and trainings, designated by the competent authority of the central government, may be approved for hours of general safety and health education and trainings. However, for labor e-learning via internet courses of the occupational safety and health education and trainings, accredited by the competent authority of the central government, may be offset for at most 2 hours of general safety and health education and trainings.
+
+Workers referred to in Paragraphs 1 and 2, prior to entering a construction work site to engage in operations, who have completed construction safety training and passed the examination pursuant to Article 11-2 of the Regulations for Construction Safety and Health Facilities, may be exempted from receiving the safety and health education and training set forth in Paragraph 1.
+
+### Article 18
+
+The employer shall require workers in charge of following operations to receive safety and health on-the-job education and trainings in accordance with the nature of his job:
+
+\1. Supervisor in charge of occupational safety and health affairs.
+
+\2. Management personnel in charge of occupational safety and health.
+
+\3. Labor health service nursing personnel and labor health service related personnel.
+
+\4. Labor workplace monitoring personnel.
+
+\5. Construction safety assessor and process safety assessor.
+
+\6. Supervisors in charge of high-pressure gas operations, construction works and harmful operations.
+
+\7. Operators of dangerous machinery and equipment.
+
+\8. Specified operation operators.
+
+\9. First aid personnel.
+
+\10. Persons in charge of workplaces and supervisors at all levels.
+
+\11. Members of the occupational safety and health committee.
+
+\12. Personnel performing following operations:
+
+(1) Construction works.
+
+(2) Machinery vehicles operations for construction.
+
+(3) Crane hoisting and riding equipment operations.
+
+(4) Hypoxia operation.
+
+(5) Confined space operation.
+
+(6) Oxyacetylene welding device operations.
+
+(7) Manufacturing, processing or using hazardous chemical substance operations.
+
+\13. General workers other than aforesaid operations.
+
+\14. Other persons designated by the central competent authority.
+
+Workers with no fixed employers or those being directed or supervised by the person in charge of the work environment must have received the general on-the-job safety and health education and training required by subparagraphs 12 or 13 from the preceding paragraph.
+
+Where an employer or their agent serves as a supervisor under Article 3 or Article 4, they shall receive the safety and health on-the-job education and training specified in Subparagraph 1 of Paragraph 1.
+
+### Article 19
+
+For workers who do the type of work in the first paragraph of the preceding Article, their employers must require the workers to receive hours of on-the-job safety and health education and training listed below:
+
+\1. For workers governed by subparagraph 1, at least 6 hours every two years.
+
+\2. For workers governed by subparagraph 2, at least 12 hours every two years.
+
+\3. For workers governed by subparagraph 3, at least 12 hours every three years.
+
+\4. For workers governed by subparagraphs 4 to 6, at least 6 hours every three years.
+
+\5. For workers governed by subparagraphs 7 to 13, at least 3 hours every three years.
+
+Courses and instructor qualifications of the aforesaid education and trainings described in Subparagraph 3 of the preceding Paragraph are subject to regulations specified in Labor Health Protection Rules.
+
+The hours of labor e-learning via internet courses of the safety and health on-the-job education and trainings, designated by the competent authority of the central government, may be approved for the hours specified in Paragraph 1.
+
+## Chapter 3 Qualification Criteria and Management Training Unit
+
+### Article 20
+
+Safety and health education and trainings shall be undertaken by following units (hereinafter referred to as “training unit”):
+
+1.Labor competent authority, health competent authority, labor inspection office or business competent authority.
+
+2.Non-profit organization (NPO) established in accordance with the law.
+
+3.Employer Association approved by law.
+
+4.Labor Union approved by law.
+
+5.Hospital approved by new accreditation system of the health competent authority of the central government, or university and college with medical and nursery departments.
+
+6.Non-profit first-aid training unit approved by the central competent authority.
+
+7.University and college with safety and health departments or departments specified for relevant trainings.
+
+8.Enterprise.
+
+9.Others approved by the central competent authority.
+
+The training units referred to in the subparagraphs 2~4 of the preceding paragraph shall comply with the following provisions and shall be approved by the central competent authority, when recruiting external trainees for the education and training (hereinafter referred to as the “recruitment of trainees”):
+
+1.Vocational training institution established in accordance with the law, and comply with its purpose of establishment.
+
+2.Achieve excellent performance in promotion of safety and health.
+
+The recruitment of trainees conducted by training units referred to in the subparagraphs 2~4 of Paragraph 1 which meets any of the following conditions may be exempted from the restrictions referred to in the preceding paragraph:
+
+1.Non-recurring safety and health education and trainings conducted by Employer Associations or Labor Unions for its members.
+
+2.Other safety and health education and trainings approved by the central competent authority.
+
+The safety and health education and training programs organized by the training units referred to in the subparagraph 8 of Paragraph 1 shall be limited to those for their workers or related contracted work.
+
+Authorities and institutions affiliated with the central competent authority or foundation legal entities endowed and established by the central competent authority that conduct education and trainings in accordance with Articles 3 to 16 and Article 18 shall apply to the central competent authority for future reference and to handle such education and trainings in accordance with the provisions of Article 23, Article 25, Article 26, Article 29, and Paragraph 1 of Article 30.
+
+### Article 20-1
+
+The application for approval referred to in Paragraph 2 of the preceding article shall be submitted to the central competent authority together with the following documents:
+
+1.Application form;
+
+2.Photocopy of the establishment certificate of vocational training institution;
+
+3.Safety and Health promotion achievement certificate;
+
+4.Other documents required by the central competent authority.
+
+Where the documents referred to in the preceding paragraph are found incomplete, the central competent authority may notify the applicant to make correction within specific time limit. The application will not be accepted if the applicant fails to make corrections within the specific time limit, or makes corrections defectively.
+
+### Article 20-2
+
+The training units approved by the central competent authority in accordance with Paragraph 2, Article 20 (hereinafter referred to as the “approved training units”) shall refer to the relevant guidance promulgated by the central competent authority when recruiting trainees, in order to establish a self-management system of safety and health education and trainings.
+
+### Article 20-3
+
+The approved training units which meet the following conditions shall apply with the central competent authority for the occupational safety and health training unit assessment. The assessment results may be categorized into Excellent, Grade A, Grade B and Grade C, and also disclosed to the public:
+
+1.Received the certificate for passing the rating required the Talent Quality-Management System (TTQS), which still remains effective;
+
+2.Organized the training referred to in Articles 3~16 for 10 sessions in the most recent three years;
+
+3.Had not been imposed the decision for cancelation or revocation of the approval (permission), periodic suspension of the training business or suspension and reorganization of the training by the competent authority pursuant to Article 48 of the Rules or Article 39 of the Vocational Training Act within the most recent five year.
+
+The scope of the assessment referred to in the preceding paragraph covers the trainers, teaching materials, teaching methods, environment, facilities, administration, information management, and other matters considered by the central competent authority as required for the safety and health education and training.
+
+### Article 20-4
+
+The application for assessment referred to in Paragraph 1 of the preceding article shall be submitted to the central competent authority together with the following documents:
+
+1.Self-evaluation form;
+
+2.Qualification documents that meet the requirements under Paragraph 1 of the preceding article;
+
+3.Other documents required by the central competent authority.
+
+Where the documents referred to in the preceding paragraph are found incomplete, the central competent authority may notify the applicant to make correction within specific time limit. The application will not be accepted if the applicant fails to make corrections within the specific time limit, or makes corrections defectively.
+
+### Article 21
+
+The approved training units shall undergo the assessment conducted by the central competent authority in accordance with Paragraph 1, Article 20-3 when organizing the following education and training programs, and shall hold the qualification for Grade A or above:
+
+1.Education and training programs described in Article 5, Subparagraphs 1 and 2 of Paragraph 1 of Article 12, Subparagraphs 1 and 2 of Paragraph 1 of Article 13, and Subparagraph 2 of Paragraph 1 of Article 14.
+
+2.On-the-job education and training programs described in Subparagraph 2 of Paragraph 1 of Article 18.
+
+3.Other education and training programs specified by the central competent authority.
+
+### Article 22
+
+The training unit stated in Subparagraph 5 of Paragraph 1 of Article 20 is limited to conducting safety and health education and trainings specified for labor health service nursing personnel, labor health service related personnel and first-aid personnel. The training unit stated in Subparagraph 6 is limited to conducting safety and health education and trainings specified for first-aid personnel.
+
+The training unit stated in Subparagraphs 2 to 4 and Subparagraphs 7 to 9 of Paragraph 1 of Article 20, shall conduct first-aid trainings with hospital approved by the accreditation system of the central competent authority of health and welfare, or university and college with medical and nursing departments.
+
+The training unit stated in Subparagraphs 2 to 4 and Subparagraphs 6 to 9 of Paragraph 1 of Article 20 except for medical and nursery professional groups, shall conduct trainings specified for labor health service nursing personnel and labor health service related personnel with hospital approved by the accreditation system of the central competent authority of health and welfare, or university and college with medical and nursing departments.
+
+### Article 23
+
+Prior to commencement of education and training programs set forth in Articles 3~16, the training unit shall submit following documents to the municipality or county (city) government (hereinafter referred to as the “local competent authority”) for approval, and likewise when there are changes:
+
+1.Application Form for Education and Training Site (Form 1);
+
+2.Qualification documents that meet the regulations set forth in Subparagraphs 6 and 9 of Paragraph 1, Paragraph 2 and Paragraph 3 of Article 20, and Article 21;
+
+3.Preparation of safety and health measurement instruments and personal protective equipment (Forms 2 and 3);
+
+4.Site, machinery and equipment for skills practicum (Form 4);
+
+5.Facilities of education & training site (Form 5);
+
+6.Documents that meet the Installation Standards of Fire Safety Equipment by Site Categories.
+
+7.Certificate of building related to the education and training site that meets the purpose of teaching as approved by the construction competent authority.
+
+The safety and health measurement instruments and personal protective equipment prepared set forth in the Subparagraph 3 of the preceding paragraph shall be limited for training premises application. The machinery and equipment for practicum may not be used for other purposes during practicum or practical implementation.
+
+The machinery and equipment for practicum as stated in the Subparagraph 4 of Paragraph 1 may not be used for other purposes during practicum or practical implementation. For conducting education and training programs publicly announced by the central competent authority, the site, machinery and equipment for practicum shall pass the accreditation required of premises, machinery and equipment for Technician Skills Examination or shall be approved by the central competent authority.
+
+The Subparagraph 7 of Paragraph 1 is not applicable if any one of following conditions exists:
+
+1.Safety and health education and training programs conducted by government and relevant department of university or college.
+
+2.Safety and health education and training programs specified for first-aid personnel conducted by the hospital approved by new accreditation system of the health and welfare competent authority of the central government.
+
+3.Safety and health education and training programs specified for employees of enterprise or its contractors’ employees.
+
+4.Safety and health education and training programs specified for members and employees required by non-profit organization, Employer Association and Labor Union to conduct at the premises or those in governmental facilities.
+
+5.Other types of safety and health education and training programs for special needs approved by the local competent authority.
+
+### Article 24
+
+The approved training unit set forth in the preceding Article shall only conduct safety and health education and training programs within the districts authorized by the local competent authority. However, the same shall not apply to the training unit which has been accredited as Category Excellent by the central competent authority, in accordance with regulations set forth in Paragraph 1 of Article 20-3.
+
+### Article 25
+
+Training units shall submit following documents at least 15 days before conducting education and trainings, set forth in Articles 3~16, to local competent authorities for future reference.
+
+\1. Application Form of Educations and Training Plan (Form 6)
+
+\2. Education and Trainings Curriculum (Form 7)
+
+\3. Lecturer Profiles (Form 8)
+
+\4. Trainee Register (Form 9)
+
+\5. List of in-charge dedicated service persons
+
+Daily hours for class courses and operation practicum of the aforesaid trainings shall not exceed 8 hours. Operation practicum shall be conducted in daytime while class courses may be conducted at night. However, the hours of class at night shall be limited to 3 hours per day and must finish by 10 p.m.
+
+To make any changes to the documents set forth in Paragraph 1, Subparagraphs 2 to 4 of this Article, the documents of the alternations must be submitted by the training unit to the local authority for future reference no later than one day before the commencement of the training.
+
+### Article 26
+
+Training unit shall submit documents set forth in Subparagraph 1 to 4 of Paragraph 1 of the preceding Article at least 15 days before the commencement to local competent authorities for future reference when conducting safety and health education and trainings set forth in Subparagraphs 1 to 9 of Paragraph 1 of Article 18.
+
+The provision of the preceding Paragraph does not apply to the labor competent authority or labor inspection office.
+
+The competent authority of the central government may publish the syllabus of safety and health education and trainings as the course basis given by training units.
+
+For any changes to the documents set forth in Paragraph 1, Subparagraphs 2 to 4 of the preceding Article which are attached to Paragraph 1 of this Article, documents of the alternations must be submitted by the training unit to local authority for future reference no later than one day before the commencement of the training
+
+### Article 27
+
+Skills or management examinations for a portion or the entire education and trainings set forth in Articles 3 ~ 16 may be issued by the competent authority of the central government as Technician Skills Certification, or be conducted in accordance with Paragraph 3 of Article 28.
+
+Training unit shall award trainees who have finished aforesaid education and trainings with Certificate of Completion (Form 10) within 15 days after their accomplishment.
+
+### Article 28
+
+The training unit shall test people who finished education and training programs referred to in Articles 3 ~ 16, other than those referred to in the preceding Article. A Certificate of Completion shall be awarded to those who pass the examinations within 15 days after their accomplishment (Form 11).
+
+The words and language to be used for the test referred to in the preceding paragraph shall be in Chinese.
+
+The training unit shall entrust testing organizations to conduct such examinations publicly announced by the central competent authority, set forth in the Paragraph 1. A Certificate of Completion shall be awarded to those who pass the examinations (Form 11).
+
+All expenses incurred in the examinations will be paid from the training fees received by the training unit.
+
+### Article 29
+
+For the education and trainings described in Articles 3 ~ 16, training units shall retain the documents specified in Paragraph 1 of Article 25 and the following documents for at least 10 years:
+
+\1. Trainee Sign-in Records (Form 12).
+
+\2. Trainee Roll Call Records (Form 13).
+
+\3. Score Report of Trainees (Form 14).
+
+\4. Issuance Lists of Finished Certificates (Form 15) or Completion Certificates (Form 16) of Trainees.
+
+### Article 30
+
+Regarding the documents governed by Article 23, Article 25, Article 26, and the preceding Article, the training unit shall post the content, time limit and method in accordance with the promulgation of the central competent authority.
+
+Upon termination of the affairs of labor safety and health education and trainings, the training unit shall report to the local competent authority within 15 days, and shall also transfer the electronic files of the documents specified in the preceding Article to the central competent authorities.
+
+### Article 31
+
+The training unit shall retain documentations specified for the education and training programs set forth in Articles 17 and 18, which include textbook, curriculum, trainee list, sign-in record and contents of courses related to the training program for at least 3 years.
+
+When the approved training unit conducts the education and training programs described in the preceding Paragraph, it shall complete the registration according to the contents, time limit and method publicly announced by the central competent authority.
+
+The training unit shall make its remarks on the backside of the Certificate of Completion (Form 11) or issue On-the-job Education and Training Records (Form 17) to those who attended the education and training programs set forth in Article 18.
+
+### Article 32
+
+The Local Competence Authority shall verify the education and trainings conducted by training unit. If necessary, the competent authority of the central government may conduct random inspections.
+
+For purposes of verifying and monitoring the performance in education and trainings conducted by training units, the authorities stated in the aforesaid Paragraph may ask training units to provide information relevant to education & trainings.
+
+### Article 33
+
+Training units shall handle the following matters when organizing safety and health education and trainings:
+
+\1. Assign dedicated service staff.
+
+\2. Verify the training qualification of trainees.
+
+\3. Verify sign-in records, roll call records and other relevant matters of trainees.
+
+\4. Verify attendance of trainees.
+
+\5. Treatment of transfer courses or substitute teaching.
+
+\6. Always take care of all safety and health installations in training site.
+
+\7. Assist trainees in handling and addressing issues relevant to trainings.
+
+\8. Other matters deemed necessary by the competence authority of the central government.
+
+For trainees absent for one-fifth or more of the total training hours, the training unit shall give notice of dismissal. For trainees that have applied for leave or have been absent for over 3 hours, the training unit shall give notice for them to make up for all missed sessions to complete the entire course.
+
+The dedicated service staff as stipulated in Subparagraph 1 of Paragraph 1 shall be equipped with the qualification of occupational safety and health management staff. However, the dedicated service staff for education and trainings of first-aid personnel may be handled by personnel equipped with the qualification of medical care personnel, senior or medium level of emergency medical technician qualification certificate.
+
+The training unit shall require the dedicated service staff as stipulated in Paragraph 1 to receive classes designated by the central competent authority at least 6 hours every two years.
+
+### Article 34
+
+All fees charged by training units for safety and health education and trainings shall be applied towards the compensation of lectures, lecturers’ trainings, test, certificates, employee’s salary, office expense, rent, expenses necessary for teaching and activities for safety and health.
+
+### Article 35
+
+The qualification of lecturers shall meet the requirements of Annex Form 15 when training units conduct education and training as specified in Articles 3 ~ 14 and 16.
+
+### Article 36
+
+Training units shall organize an editorial and review committee of textbook compilation for education and trainings, set forth in Articles 3 ~ 16, in accordance with course names, hours and syllabus issued by the competence authority of the central government. Upon completion, training units shall submit textbooks along with edited and reviewed documents to the competence authority of the central government for future reference. The same applies when there is any modification.
+
+The aforesaid textbooks for education and trainings which have been assigned or compiled by the competence authority of the central government shall be used as textbook by training units; training units are prohibited to compile their own.
+
+### Article 37
+
+The editing and compilation of the aforesaid textbook shall be conducted in accordance with following principles:
+
+\1. They must be in line with relevant labor laws and the Copyright Act.
+
+\2. Chinese description facilitated with tables, figures, real practicum or occupational accidents must be used. If original languages are necessary, Chinese words shall be noted for reference.
+
+\3. The metric system must be used. If other systems are necessary, metric conversion must be used.
+
+\4. The compiling sequence in textbook shall be in horizontal method from left to right.
+
+\5. A list of editorial committee must be provided.
+
+### Article 38
+
+The training unit which meets any of following conditions may be warned and notified to make corrections within the time limit specified by the competent authority in accordance with Article 48 of the Rules:
+
+\1. Matters not handled in accordance with the provisions of Article 33.
+
+\2. The textbook or training methods is in violation of labor laws and the subjects of trainings.
+
+\3. The implementation is not in accordance with content of the trainings.
+
+\4. Any event in violation of this regulation that is verified and discovered by the competence authority.
+
+\5. Other matters in violation with requirements of the competent authority of the central government.
+
+### Article 39
+
+The training unit which meets any of following conditions may be fined and notified to make corrections within the time limit specified by the competent authority in accordance with Article 48 of the Rules:
+
+1.The premises, training equipment, safety and health installations do not meet approved conditions.
+
+2.The recruitment advertisements or flyers contain any false statement.
+
+3.No education and training program is implemented at the approved premises.
+
+4.No training plan is reported to the local competent authority for future reference according to the relevant regulations.
+
+5.No data referred to in Paragraph 1 of Article 25 are prepared, or recorded properly.
+
+6.No examination for the completion of training is organized according to the relevant regulations.
+
+7.No proof or certificate of completion of the training is awarded according to the relevant regulations.
+
+8.Failure to register the designated documents according to the public notice.
+
+9.The list and data are issued without verification of the proof or certificate of completion of training as registered.
+
+10.Refusal or avoidance of, or interruption with, the audit or assessment being conducted by the competent authority.
+
+11.Failure to implement the activity in accordance with the training plan, which is considered material.
+
+12.Recruitment of trainees without approval from the central competent authority in accordance with Paragraph 2 of Article 20.
+
+13.Organization of the education and training programs referred to in Article 21 without application for the qualification assessed as Grade A or above.
+
+14.Upon termination of the training affairs, no report to the local competent authority for recordation in accordance with Paragraph 2 of Article 30 is made, or no electronic files of the documents of education and training programs are transferred to the central competent authority.
+
+15.Corrections are not made within the time-limit prescribed by the competent authority in the preceding Article.
+
+### Article 40
+
+For the training unit having any situation of the preceding two Articles, if corrections are not made or where the case is considered material, the competent authority may revoke or abolish its approval or suspend the training unit from conducting the training affairs, in whole or in part, for a certain period of time in accordance with Article 48 of the Rule.
+
+The relevant personnel of the training unit mentioned in the preceding paragraph suspected of bearing criminal liability shall be transferred to the judicial authority for investigation.
+
+For the organization which is not qualified as a training unit but conducts safety and health education and training programs by falsifying its qualification as an authorized training unit, it will be transferred to the competent authority which issues the original permit, and be punished by laws. Meanwhile, the relevant personnel suspected of bearing criminal liability shall be transferred to the judicial authority for investigation.
+
+Where a training unit whose approval has been revoked or abolished falls under any of the following circumstances within three years after such revocation or abolition, the central competent authority shall not grant approval:
+
+\1. Applying for approval under the same name or at the same location.
+
+\2. Its person in charge applies for approval as the person in charge of a different applicant unit.
+
+### Article 41
+
+(Deleted)
+
+## Chapter 4 Supplementary Provisions
+
+### Article 42
+
+Regarding the courses and hours of labor safety and health education and trainings specified in Article 5, Subparagraphs 1 and 2 of Paragraph 1 of Article 12, when they are the same as the education and training courses of the same type and hour received within 2 years, and when proof thereof is available, such education and trainings may be offset.
+
+### Article 42-1
+
+The following training unit shall seek the approval from the central competent authority under Paragraph 2 of Article 20 before December 31, 2027, if it has recruited trainees before September 4, 2025 when the amendments to the Rules were enforced, and is allowed to recruit the trainees again upon receipt of the approval:
+
+\1. The non-profit organization which was initially approved to recruit trainees;
+
+\2. The non-profit organization, Employer Association and Labor Union without authorization;
+
+The approval granted to the non-profit organization which was initially approved to recruit trainees set forth in the subparagraph of the preceding paragraph shall be revoked if it fails to seek the re-approval from the central competent authority under Paragraph 2, Article 20.
+
+### Article 42-2
+
+The training unit which was assessed but received the assessment results without specific valid term before September 4, 2025 when the amendments to the Rules were enforced shall apply for an assessment again under Article 20-3 within 5 years upon enforcement of the amendments to the Rules. Where it fails to do so within the specific time limit, the central competent authority may revoke the original assessment result.
+
+### Article 42-3
+
+The central competent authority may contract the approval or assessment referred to herein to an academic institution or related professional group.
+
+### Article 42-4
+
+Where business entities operate product transactions or deliveries in an electronic form, and contract individuals without employment relationships with them to perform the deliveries in person, the business entity shall require newly joined individuals to receive safety and health education and training for at least one hour, with the course contents as follows:
+
+\1. Hazard identification and prevention.
+
+\2. Use of safety and health protective equipment.
+
+\3. Emergency response handling.
+
+Business entities shall also conduct annual safety and health on-the-job education and training for individuals performing the deliveries in person, following the hours and course contents specified in the preceding paragraph.
+
+Instructors for the training in the preceding two paragraphs shall possess qualifications as occupational safety and health management personnel, or have been engaged in occupational safety and health management-related work for at least three years.
+
+Where the training in Paragraphs 1 and 2 is conducted in digital form, its course contents shall be reviewed by personnel of the business entity who possess the instructor qualifications specified in the preceding paragraph, and be approved by the central competent authority.
+
+### Article 43
+
+The Rules shall be enforced as of the date of promulgation.
+
+Annex 1 of Article 3, Annex 2 of Article 4, Annex 3 of Article 5, Annex 11 of Article 13 and Annex 13 of Article 16 shall be enforced six months after the date of promulgation. The Subparagraph 6 of Paragraph 1 of Article 14, Subparagraph 12 of Paragraph 1 of Article 18, Paragraph 3 of Article 20, Subparagraph 1 of Paragraph 1 of Article 21 and Annex 14 of Article 17 shall be enforced one year after the date of promulgation.
+
+The amendments to the Rules promulgated on September 4, 2025 shall be enforced as of January 1, 2026.
+
+The amendments to the Rules promulgated on June 25, 2026 shall be enforced as of July 1, 2026, except for Annex 1 of Article 3, Annex 2 of Article 4, and Annex 3 of Article 5 which shall be enforced as of January 1, 2027.
+
+## Attachments
+
+- [Annex 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006846)
+- [Annex 5.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006813)
+- [Annex 6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006847)
+- [Annex 6.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006814)
+- [Annex 7.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006848)
+- [Annex 7.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006815)
+- [Annex 8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006849)
+- [Annex 8.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006816)
+- [Annex 13.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006854)
+- [Annex 13.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006821)
+- [Form 1.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006857)
+- [Form 1.DOC](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006824)
+- [Form 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006858)
+- [Form 2.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006825)
+- [Form 3.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006859)
+- [Form 3.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006826)
+- [Form 4.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006860)
+- [Form 4.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006827)
+- [Form 5.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006861)
+- [Form 5.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006828)
+- [Form 6.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006862)
+- [Form 6.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006829)
+- [Form 7.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006863)
+- [Form 7.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006830)
+- [Form 8.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006864)
+- [Form 8.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006831)
+- [Form 9.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006865)
+- [Form 9.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006832)
+- [Form 10.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006866)
+- [Form 10.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006833)
+- [Form 11.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006867)
+- [Form 11.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006834)
+- [Form 12.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006868)
+- [Form 12.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006835)
+- [Form 13.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006869)
+- [Form 13.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006836)
+- [Form 14.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006870)
+- [Form 14.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006837)
+- [Form 15.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006871)
+- [Form 15.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006838)
+- [Form 16.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006872)
+- [Form 16.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006839)
+- [Form 17.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006873)
+- [Form 17.doc](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006840)
+
+## History
+
+1.Promulgated on June 12,1975
+
+2.Amended on May 29, 1992
+
+3.Amended on June 25, 1997
+
+4.Amended on June 29, 1999
+
+5.Amended on June 28, 2000
+
+6.Amended on January 3, 2001
+
+7.Amended on December 31, 2002
+
+8.Amended on December 30, 2005
+
+9.Amended on December 21, 2006
+
+10.Amended on January 8, 2008
+
+11.Amended on September 25, 2008
+
+12.Amended on September 7, 2009
+
+13.Amended on November 8, 2011
+
+14.Amended on October 8, 2012
+
+15.Amended on February 21, 2013
+
+16.Amended on June 27, 2014
+
+17.Amended on September 22, 2016
+
+18.Amended on July 7, 2021
+
+19.Amended on September 4, 2025
+
+20.Amended on June 25, 2026

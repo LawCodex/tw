@@ -1,0 +1,339 @@
+---
+title: "Regulations Governing Verification and Inspection of Measuring Instruments"
+title_zh: "度量衡器檢定檢查辦法"
+identifier: "J0100056"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞標準檢驗目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-08-28
+last_amended: 2025-06-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100056"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Verification and Inspection of Measuring Instruments
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0100056-regulations-governing-verification-and-inspection-of-measuring-instruments.md](../../../zh/regulations/ministry-of-economic-affairs/J0100056-regulations-governing-verification-and-inspection-of-measuring-instruments.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with Article 18 of the Weights and Measures Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The term “verification” used in these Regulations are classified and defined as follows:
+
+1.Initial Verification: means the verification of legal measuring instruments subject to verification which is conducted before the measuring instruments being released from the production premises or imported. However, under the agreement of the dedicated weights and measures authority, it can also mean the verification conducted on-site after the measuring instruments being installed or while in-use.
+
+2.Re-verification: means the verification of legal measuring instruments subject to verification which is conducted when the validity period of the previous verification expires or after being repaired, adjusted or re-modeled, or while in-use.
+
+The term “verification agency (institution)” used in these Regulations means the dedicated weights and measures authority or its branches, or any other government agencies, institutions or organizations commissioned by the dedicated weights and measures authority.
+
+## Article 3
+
+The categories and scopes of legal measuring instruments subject to verification are as follows:
+
+1.Taximeters.
+
+2.Weighing instruments: non-automatic weighing instruments, automatic gravimetric filling weighing instruments and discontinuous totalizing automatic weighing instruments, excluding the following instruments:
+
+(1)The weighing instruments which are not for pricing and transaction use with a number of verification scale intervals more than 10 000. For weighing instruments designed for the use of general public, they shall be marked that they are not for transaction use.
+
+(2)The weighing instruments with a number of verification scale interval less than or equal to 3000 and maximum weighing capacity less than or equal to 3 kg marked not for transaction use of measuring instruments.
+
+(3)Portable suspended weighing instruments with a maximum weighing capacity less than or equal to 50 kg and marked not for transaction use of measuring instruments.
+
+(4)Suspended weighing instruments with a maximum weighing capacity more than 1 t;
+
+(5)Bathroom scales;
+
+(6)Weighing in motion non-automatic weighing instruments;
+
+3.Non-Invasive mechanical sphygmomanometers;
+
+4.Volumeters:
+
+(1)Liquid volumetric meters: metal measuring pails and measuring tanks marked with divisions; excluding the following measuring tanks:
+
+a.Measuring tanks with a capacity of more than 110 m3.
+
+b.Pressure measuring tanks.
+
+(2)Diaphragm gas meters, excluding gas meters with a maximum air flow more than 100 m3/hr.
+
+(3)Water meters: volumetric water meters, velocity water meters(Woltmann meters, single-jet meters and multi-jet meters）and vortex water meters, excluding combination water meters and water meters with a caliber of less than 13 mm or more than 300 mm.
+
+(4)Oil meters provided for trading petroleum products, excluding oil meters with a caliber of more than 160 mm.
+
+(5)Liquefied petroleum gas flow meters.
+
+(6)Air to liquid volumetric ratio (A/L) measuring instruments for official inspection.
+
+5.Electricity meters：
+
+(1)General Electricity meters: Watt-hour meters, Var-hour meters, Watt-hour demand meters, Static electricity meters and Instrument transformers, excluding are as follows:
+
+a.Ancillary electricity meters within the electric products
+
+b.Ancillary electricity meters within the converters/inverters
+
+c.Panel meter
+
+d.Portable electricity meters
+
+e.Reference electricity meter
+
+f.Direct current electricity meter
+
+g.Energy transducer
+
+h.Standard electricity meters and those with rated voltage higher than 600 V.
+
+i.Current transformer operated electricity meters those with rated secondary current below 5 A.
+
+j.Current transformers those with rated secondary current below 5A.
+
+k.Instrument transformers of 69 kV higher than the nominal system voltage.
+
+(2)Electric Vehicle Supply Equipment: electric vehicle supply equipment for electric energy transaction use, excluding AC electric vehicle supply equipment without electric energy measurement.
+
+6.Speedometers.
+
+(1)Radar speedometers for law enforcement.
+
+(2)Laser speedometers for law enforcement.
+
+(3)Inductive loop speedometers for law enforcement.
+
+(4)Average speed control devices for law enforcement.
+
+7.Sound level meters for official inspection.
+
+8.Concentration meters.
+
+(1)Breathe alcohol testers and analyzers for official inspection.
+
+(2)Rice grain moisture meters.
+
+(3)Field corn moisture meters.
+
+(4)Vehicles exhaust emissions analyzers for official inspection excluding those used for motorcycles and diesel engines.
+
+9.Illuminance meters for official inspection.
+
+10.Electrical thermometers.
+
+The legal measuring instruments subject to verification under the provisions set forth in subparagraph 2 may be exempted from verification if they were manufactured or imported before 1 January 2014 and marked not for transaction use, certification or official inspection.
+
+The field corn moisture meters listed in item 3, subparagraph 8,Paragraph 1 shall be included as legal measuring instruments subject to verification and come into force on 1 July 2016. To meet the field corn production season, the period of accepting verification for field corn moisture meters shall be during February to March and July to August each year.
+
+The average speed control devices for law enforcement listed in item 4, subparagraph 6, Paragraph 1 shall be included as legal measuring instruments subject to verification and enter into force on 1 January 2021.
+
+The air to liquid volumetric ratio (A/L) measuring instruments for official inspection listed in item 6, subparagraph 4, Paragraph 1 shall be included as legal measuring instruments subject to verification and enter into force on 1 October 2021.
+
+Electric vehicle supply equipment listed in item 2, subparagraph 5, Paragraph 1 shall be included as legal measuring instruments subject to verification and enter into force on 1 January 2023. However, before the date of implementation, electric vehicle supply equipment that have been released out of the factory or imported will be subject to verification on 1 January 2025.
+
+The applicable targets, applicable legislations, and usage of the legal measuring instruments for official inspection or law enforcement in subparagraph 4,6 to 9, Paragraph 1 are shown in Annex.
+
+The definitions of petroleum products used in item 4, subparagraph 4, Paragraph 1 shall be referred to subparagraph 4, Paragraph 1, Article 2 of Petroleum Administration Act and include gasoline, diesel oil, kerosene, naphtha, jet fuel, and fuel oil.
+
+## Article 4
+
+The markings as referred to in item 1 to 3, subparagraph 2, Paragraph 1, Article 3 shall be marked not for transaction use in Chinese on the front of the body of measuring instruments and on the obvious place of the package or container.
+
+The markings on the body of measuring instruments referred to in the preceding Paragraph shall be carved or printed on the body or made in other permanent manner.
+
+Where markings are not made in accordance with the provisions of the preceding two paragraphs, it shall be ordered to rectify the unlawful act within a given time limit, and if such unlawful act is not rectified upon expiry of the deadline date, verification shall be conducted in accordance with relevant provisions.
+
+## Article 5
+
+The applicant for initial verification shall be the manufacturer or importer of the legal measuring instruments subject to verification. Under special circumstances with the agreement of the verification agency (institution), the applicant may be the owner or holder of the legal measuring instruments.
+
+Once the type approval of legal measuring instruments subject to verification is transferred to any other individuals or companies, the original applicant no longer has the right to apply for initial verification of the same type of the legal measuring instruments.
+
+## Article 6
+
+To apply for verification, the applicant shall prepare an application form and submit it to the verification agency (institution) together with the verification fee, the legal measuring instruments subject to verification and the required documents specified in the technical specifications for verification and inspection of measuring instruments. Where necessary, the verification agency (institution) may notify the applicant to provide other relevant documents.
+
+The application form as referred to in the preceding Paragraph shall include the following contents:
+
+1.Name, address and signature of the applicant (Signature may be exempted for online applications);
+
+2.License number of the weights and measures business license. However, this is not applicable if the applicant is not a weights and measures business operator; and
+
+3.Category, quantity and content of the legal measuring instruments subject to verification.
+
+## Article 7
+
+Upon receiving an application for verification, the verification agency (institution) shall notify the applicant to rectify within thirty days if the application is found not to conform with the requirements after document review. If the applicant fails to rectify by the expiration of the preceding period, the verification agency (institution) shall reject the application and return the verification fee.
+
+## Article 8
+
+Verification shall be conducted on the premises of the verification agency (institution). Under special circumstances, the applicant may apply to the verification agency (institution) for dispatching its personnel to conduct verification on the site where the legal measuring instruments subject to verification are installed.
+
+Where the verification is conducted on-site, the verification working standards used to verify the legal measuring instruments shall be carried to the site with the personnel of the verification agency (institution), or be the ones which are assessed and found to conform by the verification agency (institution).
+
+In case the personnel of the verification agency (institution) carries the verification working standards with them to conduct verification on-site as mentioned in the preceding Paragraph, the verification agency (institution) may seek the assistance from the applicant to transport the verification working standards to the site.
+
+## Article 9
+
+Where the content, quantity or marking of the measuring instruments are found inconsistent with the description in the application form and the applicant cannot rectify in time, the verification agency (institution) shall not conduct the verification.
+
+The applicant shall make rectifications as referred to in the preceding Paragraph within twenty days. If the applicant fails to rectify by the expiration of the preceding period, the application shall be rejected. If the inconsistencies involve deceitful behavior, the verification agency (institution) shall reject the application.
+
+## Article 10
+
+Where the personnel is dispatched to conduct the verification on-site, if the verification can not be done due to causes not attributable to the applicant, the verification agency (institution) may designate another date for conducting verification, and the applicant need not to pay the verification fee again.
+
+If the verification cannot be conducted due to causes attributable to the applicant, the result of verification shall be deemed as incompliance.
+
+## Article 11
+
+The division value of the scale of a legal measuring instrument subject to verification shall employ “1,” “2” or “5” multiplied by the power of “10,” and the power shall be positive or negative integer or zero.
+
+## Article 12
+
+Unless otherwise specified in this Regulations, the verification shall be conducted one by one for all legal measuring instruments subject to verification.
+
+The verification of weighing instruments listed in subparagraph 2, Paragraph 1, Article 3 and electrical thermometers listed in subparagraph 10 may be conducted on the basis of sampling; and the implementation of sampling verification shall be stipulated by technical specification for the verification and inspection of respective legal measuring instruments.
+
+For weighing instruments listed in subparagraph 2, Paragraph 1, Article 3 and oil meters provided for trading petroleum products listed in item 4, subparagraph 4 that meet defined scopes or conditions, simplified measures may be implemented to replace error data of the measuring instruments with test records signed by Metrology Technical Personnel; the defined scopes or conditions and the implementation of simplified measures shall be stipulated by the dedicated weights and measures authority.
+
+Where necessary, the measuring instruments may be disassembled to conduct the verification referred to in the first Paragraph. The same practice shall apply for inspection.
+
+## Article 13
+
+The record of verification of legal measuring instruments subject to verification shall be made and include the following items:
+
+1.Name of the applicant;
+
+2.Category, trademark, model and serial number of the legal measuring instruments subject to verification and other relevant data;
+
+3.Maximum permissible error, measurement error, results of verification (compliance or incompliance) and the number of verification certificate of the legal measuring instruments subject to verification;
+
+4.Category and serial number of the measurement standard and the number of the verification record;
+
+5.The site where the verification is conducted and the name of personnel conducting verification; and
+
+6.Date of verification.
+
+## Article 14
+
+Legal measuring instruments that have passed verification shall bear a verification mark “ ,” the ratio of the lines to the spaces being 1:2.
+
+The mark “ ” shall be affixed to the measuring instruments in any irremovable methods of the following manners or in their combination:
+
+1.Engraving, stamping, spraying, branding or adhering.
+
+2.Seal.
+
+The verification agency (institution) shall issue a report of verification result of legal measuring instruments after conducting verification.
+
+For legal measuring instruments that meet the requirements of the technical specifications for verification and inspection of measuring instruments, a verification certificate shall be issued after they pass verification. An applicant may also apply for issuance of verification certificates by describing the reason and paying the certificate fee.
+
+## Article 15
+
+The verification records of legal measuring instruments that have passed verification shall be maintained for two years in addition to the validity period of the verification. Where the validity period of the verification is not prescribed, the records shall be kept for fifteen years.
+
+## Article 16
+
+Where a verified legal measuring instrument is under any of the following circumstances, the applicant may submit an application for reissue or replacement to the following agencies (institutions) by providing relevant supporting documents and license fee:
+
+1.Lost or damaged original verification certificate: apply to the verification agency (institution).
+
+2.Where verification compliance marks are affixed to a measuring instrument by sealing and pasting, the verification compliance mark pasted on the surface of the measuring instrument has fallen off or been unrecognizable: apply to the dedicated weights and measures authority or its branch. However, an application is not allowed if the legal measuring instruments have undergone a repair, adjustment or alignment, remodeling or re-building.
+
+Where an application referred to in the preceding Paragraph is found to be in compliance with the requirements, reissue or replacement of the permit shall be granted, or the license fee shall be refunded if related requirements are not met.
+
+## Article 17
+
+The legal measuring instruments that have passed verification shall be subject to periodical or non-periodical inspection conducted by the verification agency (institution) when they are put in use.
+
+The verification agency (institution) may decide the scope of inspection according to all or, part of verification and inspection technical requirements of legal measuring instruments.
+
+## Article 18
+
+Where a verified legal measuring instrument is suspended from use due to certain causes, the owner or holder may report to the verification agency (institution), who shall attach slips of suspension of use to the legal measuring instrument, and the legal measuring instrument may be exempted from inspection.
+
+Where the suspension of use referred to in the preceding Paragraph is not reported to the verification agency (institution) and the validity period of verification has expired, the owner or holder shall make new applications for verification.
+
+## Article 19
+
+Inspection shall be conducted on the site where the legal measuring instruments are put in use during the business hours of the organizations under inspection. If the inspection cannot be conducted on the site of usage, the verification agency (institution) may notify the owner or holder to send the legal measuring instruments to a designated location for inspection within a given time limit.
+
+## Article 20
+
+The legal measuring instruments that have passed inspection shall bear the inspection compliance mark on their front bodies respectively. However, taximeters may bear the inspection compliance mark on other place specified by the verification agency (institution).
+
+The pattern of the inspection compliance mark referred to in the preceding Paragraph shall be “ ,” the ratio of the lines to the spaces being 1:1.
+
+## Article 21
+
+Under any of the following circumstances, the verification agency (institution) shall remove the verification and inspection compliance marks (including the corresponding seals) from the verified legal measuring instruments, but in case of multi-instruments sharing a seal and at least one of them passed inspection or verification the seal shall be kept:
+
+1.Where they do not pass re-verification; or
+
+2.Where they do not pass inspection.
+
+The measuring instruments that do not pass inspection as referred in the preceding Paragraph shall be attached with markings of stopping use.
+
+## Article 22
+
+The formats of the verification and inspection compliance marks and verification certificates shall be prescribed by the dedicated weights and measures authority.
+
+## Article 23
+
+These Regulations shall come into force upon the date of promulgation unless another date of enforcement is prescribed.
+
+Note: In case of any discrepancy between this translation and the Chinese version, the Chinese version shall govern
+
+## Attachments
+
+- [Article 14.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009309)
+- [Article 20.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009310)
+- [Annex  The applicable targets, applicable legislations, and usage of the legal measuring instruments for official inspection or law enforcement.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009311)
+
+## History
+
+1.41 Articles adopted and promulgated by Ministerial Order on 28 August 1987
+
+2.Articles 4 and 17 amended and promulgated by Ministerial Order on 14 January 1994
+
+3.Articles 4 and 10 amended and promulgated by Ministerial Order on 29 January 1997
+
+4.Articles 3, 5, 6, 13, 14, 20, 21, 24, 30, 31, 32, 33, 34, 36, 37, 39 and 40 amended and promulgated; and Article 22 deleted by Ministerial Order on 18 August 1999
+
+5.Amended and promulgated by Ministerial Order on 23 July 2003
+
+6.Articles 3, 22, and 24 amended and promulgated by Ministerial Order on 31 December 2003
+
+7.Articles 3 and 5 amended and promulgated by Ministerial Order on 29 December 2004.
+
+8.Articles 2,3,4 and 6 amended and promulgated by Ministerial Order on 22 December 2006.
+
+9.Articles 3,4 and 18 amended and promulgated by Ministerial Order on 22 May 2009.
+
+10.Articles 3,12,14 and 22 amended and promulgated by Ministerial Order on 26 March 2010.
+
+11.Articles 3,6, and 17 amended and promulgated by Ministerial Order on 31 October 2012.
+
+12.Articles 3, 4, 5, 6, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, and 22 amended and promulgated by Ministerial Order on 5 November 2014.
+
+13.Articles 3 amended and promulgated by Ministerial Order on 16 November 2015.
+
+14.Articles 3, 8, 21 and 22 amended and promulgated by Ministerial Order on 7 May 2018.
+
+15.Articles 3 amended and promulgated by Ministerial Order on 16 October 2020.
+
+16.Articles 3 amended and promulgated by Ministerial Order on 21 June 2021.
+
+17.Articles 3, 12 amended and promulgated by Ministerial Order on 23 May 2022.
+
+18.Articles 3, 4, 6, 12 amended and promulgated by Ministerial Order on 11 December 2023.
+
+19.Articles 3, 12, 16 amended and promulgated by Ministerial Order on 18 June 2025.

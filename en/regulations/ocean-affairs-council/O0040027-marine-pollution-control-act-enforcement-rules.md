@@ -1,0 +1,321 @@
+---
+title: "Marine Pollution Control Act Enforcement Rules"
+title_zh: "海洋污染防治法施行細則"
+identifier: "O0040027"
+type: regulation
+law_level: "命令"
+category: "行政＞海洋委員會＞海洋資源目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-09-05
+last_amended: 2024-02-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040027"
+retrieved: 2026-10-12
+---
+
+# Marine Pollution Control Act Enforcement Rules
+
+> Translation. The Chinese text ([zh/regulations/ocean-affairs-council/O0040027-marine-pollution-control-act-enforcement-rules.md](../../../zh/regulations/ocean-affairs-council/O0040027-marine-pollution-control-act-enforcement-rules.md)) is authoritative.
+
+## Article 1
+
+These Rules are determined pursuant to Article 68 of the Marine Pollution Control Act (herein referred to as "this Act").
+
+## Article 2
+
+The matters designated in this Act as the responsibility of the central competent authority are as follows.
+
+1.Planning, determination, supervision and implementation of national marine pollution control policies and plans
+
+2.Determination, deliberation and interpretation of marine pollution control laws and regulations
+
+3.Monitoring and testing for national marine environmental quality matters
+
+4.Supervision of special municipality, city and county marine pollution control work
+
+5.Coordination or implementation of marine pollution control work involving two or more special municipalities, counties or cities
+
+6.Coordination of marine pollution control matters involving related cabinet-level agencies
+
+7.Marine pollution control research and development
+
+8.International cooperation, public awareness and personnel training for national marine pollution control matters
+
+9.Other national marine pollution control matters
+
+## Article 3
+
+The matters designated in this Act as the responsibility of special municipality, county and city competent authorities are as follows.
+
+1.Planning, coordination and implementation of special municipality, county or city marine pollution control work
+
+2.Determination and interpretation of the autonomous marine pollution control laws and regulations of special municipalities, counties or cities
+
+3.Monitoring and testing for special municipality, county or city marine pollution control matters
+
+4.Compilation and reporting for special municipality, county or city marine pollution control statistics matters
+
+5.Research and development, public awareness and personnel training for special municipality, county or city marine pollution control matters
+
+6.Other special municipality, county or city marine pollution control matters
+
+## Article 4
+
+The competent authority and enforcement authority may, depending on marine pollution control requirements, either jointly or separately form a joint investigation task force in conjunction with assisting enforcement authorities for the performance of inspection, appraisal, interdiction and evidence collection for marine pollution matters.
+
+Enforcement authorities or assisting enforcement authorities that perform interdiction or evidence collection for marine pollution matters pursuant to this Act shall respectively transfer these cases to the competent authority, industry competent authority or judicial authority to be performed in accordance with regulations.
+
+## Article 5
+
+The  central competent authority shall review and amend the National White Paper on marine pollution control determined pursuant to the regulations in Article 7, Paragraph 2 of this Act every 5 years.
+
+## Article 6
+
+The toxicants or chemicals referred to in Article 8, Paragraph 3 of this Act mean cyanides, potassium cyanate, phenols or other toxic substances dispersed in the marine environment that are sufficient to cause the stupor, death, lower productivity, or loss of growth or reproductive ability of aquatic organisms.
+
+## Article 7
+
+The central competent authority shall install marine environment water quality monitoring stations in national marine water bodies in accordance with the marine environment categories of these water bodies; special municipality, county and city competent authorities shall install marine environment water quality monitoring stations in marine water bodies within their jurisdictions in accordance with the marine environment categories of these water bodies.
+
+Competent authorities shall officially publish marine environment water quality monitoring data from the previous year prior to April 15 of each year.
+
+## Article 8
+
+The appropriate control measures adopted by competent authorities pursuant to Article 9, Paragraph 1 of this Act shall include the following items.
+
+1.Pollution abatement measures
+
+2.Cleanup or reduction of pollution sources
+
+3.Coordination or cooperation with enforcement authorities and assisting enforcement authorities in the performance of inspection, appraisal, interdiction or evidence collection for marine pollution matters
+
+## Article 9
+
+The restriction of the use of a marine area of the rear section of Article 9, Paragraph 1 of this Act,which include the following the measures.
+
+1.Temporary suspension of the use of the marine area at issue, in part or in whole
+
+2.Restriction of the time period for use
+
+3.Restriction of the scope of use
+
+4.Modification or reduction of the uses of a marine area
+
+5.Other temporary measures for the restriction or modification of marine use conditions for the prevention, elimination or mitigation of the deterioration of the marine environment.
+
+## Article 10
+
+Those competent authorities  that establish marine environment monitoring stations or facilities pursuant to Article 9, Paragraph 1 of this Act shall officially announce the locations of these stations or facilities.
+
+The "interference with" referred to in Article 9, Paragraph 2 of this Act means the following acts.
+
+1.The act of intentionally releasing polluting organisms, substances or energy within 100 meters of a marine environment monitoring station or facility
+
+2.The casting of nets, navigation of boats, approaching or production of a wave within 50 meters of a marine environment monitoring station or facility
+
+## Article 11
+
+All categories of port management authorities and enterprises shall conduct water quality and sediment testing in the port zones in accordance with Article 9, Paragraph 3 of this Act. The results of the tests from the previous year shall be officially published prior to April 15 of each year. However, for military ports, the test results may only be provided to the central competent authority for review.
+
+## Article 12
+
+Each industry competent authority shall, pursuant to the major marine pollution emergency response plan regulations in Article 10, Paragraph 2 of this Act, make marine pollution emergency response plans.
+
+## Article 13
+
+Those engaged in oil conveyance and marine dumping that reach the scale announced by the central competent authority, shall submit an emergency response plan pursuant to Article 15, Paragraph 1 of this Act, which shall include the following items.
+
+The content of emergency response plans referred to in Article 13, Paragraph 1 of this Act shall include the following items.
+
+\1. Alert and notification methods
+
+\2. Resolution methods for operating abnormalities, malfunctions and accidents
+
+\3. Pollutant cleanup and harm mitigation methods
+
+\4. Circumstances that require the suspension of operation, dumping or the reduction of output
+
+\5. All devices and equipment that are required for emergency response work
+
+\6. Duty assignment and training regulations for participating response personnel
+
+\7. Other items designated by the central competent authority
+
+## Article 14
+
+Those engaged in offshore wind power generation projects shall submit an emergency response plan pursuant to Article 15, Paragraph 1 of this Act, which shall include the following items in the measures to be taken during the construction and maintenance and operation periods according to the progress of the project:
+
+\1. Construction period:
+
+A. Alert and notification methods
+
+B. Resolution methods for operating abnormalities, malfunctions and accidents
+
+C. Pollutant cleanup and harm mitigation methods
+
+D. Circumstances that require the suspension of operation, dumping or the reduction of output
+
+E. All devices and equipment that are required for emergency response work
+
+F. Duty assignment and training regulations for participating response personnel
+
+G. Other items designated by the central competent authority
+
+\2. Maintenance and Operation Period:
+
+A. Establishment of a maintenance and operation control mechanism to manage entry and exit the maintenance zone and related safety regulations, and to propose a regional joint defense content  for adjacent operational units.
+
+B. Alert and notification methods
+
+C. Procedures for stopping operations, handling operational anomalies, faults, and accidental incidents.
+
+D. Pollutant cleanup and harm mitigation methods
+
+E. All devices and equipment that are required for emergency response work
+
+F. Duty assignment and training regulations for participating response personnel
+
+G. Establishment of remote monitoring mechanisms and preventive measures against pollution.
+
+H. Proposal of mitigation measures or alternative solutions.
+
+I. Other items designated by the central competent authority
+
+## Article 15
+
+Those who issue notifications pursuant to Article 19, Paragraph 1, Article 22, Paragraph 1, Article 26, Paragraph 1, Article 27, Paragraph 1 applied to Article 26, Paragraph 1 or Article 33, Paragraph 1 of this Act shall include the following items.
+
+\1. The name, title, organization and premises of the reporting person
+
+\2. The source and cause of the pollution
+
+\3. Time and location or latitude and longitude of the incident
+
+\4. Pollutant types and characteristics
+
+\5. Degree and quantity of pollution and measures already adopted
+
+\6. Meteorological conditions and their possible impact on pollution
+
+\7. Phone, fax and other contact methods for emergency notification
+
+\8. Other items designated by the central competent authority
+
+Notified agencies shall maintain records of the content of notifications in the foregoing paragraph.
+
+## Article 16
+
+The measures adopted pursuant to Article 19, Paragraph 1, Article 22, Paragraph 1, Article 26, Paragraph 1, Article 27, Paragraph 1 applied to Article 26, Paragraph 1 or Article 33, Paragraph 1, of this Act shall include the following.
+
+1.Provision of detailed structural diagrams of the facilities and the bodies of ships involved in the marine pollution incident and diagrams showing the disposition of equipment, pipelines, loaded cargo and oil quantities
+
+2.Dispatchment of operation and maintenance personnel, deck personnel, engine personnel or fueling personnel familiar with the facilities involved in the pollution incident for handling and response and to participate in emergency response task forces established by relevant agencies
+
+3.Coordination and dispatchment related to the assignment of pollution response personnel duties and equipment
+
+4.Containment, cleanup, recovery and disposal measures for pollutants or oil
+
+5.Other measures designated by the competent authority or industry competent authority as required to be adopted
+
+## Article 17
+
+Marine pollution control plans which shall be determined and submitted pursuant to Article 20, Paragraph 1 of this Act shall state explicitly the following items.
+
+\1. Basic information
+
+A. The name, contact telephone number and address of the applicant
+
+B. The name, address, contact telephone number and national identification card number of the responsible person of the applicant
+
+\2. The wastewater or sewage output, collection and treatment circumstances of those that produce wastewater or sewage
+
+\3. The water quantity and characteristics of wastewater or sewage discharged into the sea by those that discharge wastewater or sewage into the sea
+
+\4. The installation locations of discharge pipelines and discharge points and the conditions of the surrounding ecological environment of those that have discharge pipeline and discharge point installations
+
+\5. Marine environment management measures for the mitigation of adverse impacts
+
+\6. Marine environment monitoring methods, frequency and items
+
+\7. Emergency response measures
+
+\8. Recovery and handling methods for wastewater or sewage, oil, waste, chemical substances, hazardous substances or other polluting substances designated and officially announced by the central competent authority
+
+\9. Other items designated by the central competent authority
+
+## Article 18
+
+Those who use marine facilities to engage in the exploration or extraction of oil, the conveyance of oil or chemical substances, or the discharge of wastewater or sewage reaching the scale announced by the central competent authority shall report monitoring records to the local competent authority in January, April, July and October of each year pursuant to Article 20, Paragraph 2 of this Act; said monitoring records shall be forwarded to the central competent authority to be filed for future reference.
+
+## Article 19
+
+The exploration, extraction or conveyance records of Article 20, Paragraph 2 of this Act shall record the following items.
+
+\1. Exploration, extraction or conveyance methods; conveyance start and completion times; oil type and total quantity; and ship name, number, tonnage and nationality
+
+\2. Total quantity of and handing methods for oil-containing residues in marine facilities
+
+\3. Emission time, oil type, estimated quantity, and emission conditions and cause shall be recorded for other accidental emissions
+
+\4. Other items designated by the central competent authority
+
+The records mentioned in the foregoing paragraph shall be reported to the local competent authority in January, April, July and October of each year; said records shall be forwarded to the central competent authority to be filed for future reference.
+
+## Article 20
+
+The discharge records referred to Article 21, Paragraph 1 of this Act shall record the following items.
+
+1.Discharge times, locations and methods and types and composition of discharged substances
+
+2.Characteristics of discharged substances
+
+3.Quantities or concentrations of discharged substances
+
+4.Treatment processes
+
+5.Other items designated by the central competent authority
+
+The records mentioned in the foregoing paragraph shall be reported to the local competent authority in January, April, July and October of each year; said records shall be forwarded to the central competent authority to be filed for future reference.
+
+## Article 21
+
+Records maintained pursuant to Article 25, Paragraph 3 or Article 27, Paragraph 1 applied to Article 25, Paragraph 3 of this Act shall be placed in obvious locations on transport ships, aircraft, marine facilities or other facilities and shall record the following items.
+
+\1. Loading times and locations
+
+\2. Types and quantities of materials dumped.
+
+\3. Place of storage for materials to be dumped.
+
+\4. Dumping start and completion time, location, course of navigation, speed of navigation and meteorological conditions at the time of dumping or incineration
+
+\5. Operational circumstances, handling speed and incineration residue handling methods for dumping
+
+\6. Other items designated by the central competent authority
+
+Managers shall report the records in the foregoing paragraph to the central competent authority in January, April, July and October of each year and shall send said records to the local competent authority to be filed for future reference.
+
+## Article 22
+
+The matters related to emissions from ships in Article 30, Paragraph 1 and matters related to the installation of shipboard pollution prevention equipment in Article 31, Paragraph 1 and the appropriate measures for the prevention of emissions from ships referred to in Article 31, Paragraph 2,  shall be handled pursuant to the Ship Act, Commercial Port Act and relevant regulations of the navigation competent authority or in accordance with international conventions and customary practice.
+
+## Article 23
+
+The guarantee in Article 36, Paragraph 2 of this Act may be paid in the form of cash, bank cashier's check or check, certified check, bearer government bond, certificate of deposit with designated pledge, or an irrevocable letter of credit issued or confirmed by a bank or may consist of a written joint guarantee from a bank, a letter of guarantee from an insurer, or a guaranteed insurance policy from an insurance company.
+
+## Article 24
+
+The central competent authority shall determine the format of all permits, disciplinary citations, referrals, application documents and other documents and forms designated in this Act and these Rules.
+
+## Article 25
+
+These Rules shall take effect on the date of promulgation.
+
+## History
+
+1.22 articles promulgated by Environmental Protection Administration order on September 5, 2001
+
+2.Amended and promulgated by Ocean Affairs Council Order Hai-Bao-Tzu No. 1130001128 on February 1, 2024.

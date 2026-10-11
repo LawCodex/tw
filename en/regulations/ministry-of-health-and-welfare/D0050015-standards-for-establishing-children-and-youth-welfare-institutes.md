@@ -1,0 +1,537 @@
+---
+title: "Standards for Establishing Children and Youth Welfare Institutes"
+title_zh: "兒童及少年福利機構設置標準"
+identifier: "D0050015"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會及家庭目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-12-23
+last_amended: 2026-04-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050015"
+retrieved: 2026-10-12
+---
+
+# Standards for Establishing Children and Youth Welfare Institutes
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0050015-standards-for-establishing-children-and-youth-welfare-institutes.md](../../../zh/regulations/ministry-of-health-and-welfare/D0050015-standards-for-establishing-children-and-youth-welfare-institutes.md)) is authoritative.
+
+## Chapter 1 General rules
+
+#### Article 1
+
+These regulations are stipulated pursuant to Paragraph 2, Article 75 of the Protection of Children and Youths Welfare and Rights Act (hereinafter referred to as the Act).
+
+#### Article 2
+
+Children and youth welfare institutes as referred to in the Act are defined as follows:
+
+\1. Nursery service centers: Institutes that offer nursery services to children under two years of age;
+
+\2. Early intervention institutes: Institutes that offer early intervention services to children with developmental delays;
+
+\3. Placement and educational institutes: Institutes that offer round-the-clock life care services to children and youth in placement pursuant to the Act, the Child and Youth Sexual Exploitation Prevention Act, or the Juvenile Justice Act;
+
+\4. Psychological guidance or family consulting institutes: Institutes that offer counseling and guidance services to children, youths, and their families and are in charge of providing parental education to children, youths, and those actually taking care of them; and
+
+\5. Other children and youth welfare institutes: Institutes that offer relevant welfare services to children, youths, and their families.
+
+Nursery service centers, early intervention institutes, and placement and educational institutes shall have the capacity to nurse or place more than five people.
+
+#### Article 3
+
+Professional personnel required for child and youth welfare institutes shall be employed in accordance with the Regulations Governing Qualifications and Training of Professional Personnel of Child and Youth Welfare Institutes; child and youth welfare institutes shall submit relevant information to competent authorities for approval before employment.
+
+Relevant information specified in the preceding paragraph includes roster, copies of credentials, affidavits, copies of health examination reports, criminal record certificates issued within the last three months, and other basic information.
+
+Any resignation, reinstatement or work adjustment shall be reported to competent authorities for reference within 30 days of the occurrence.
+
+#### Article 4
+
+The establishment of children and youth welfare institutes shall target the facilitation of wholesome body and mind development for children and youth as their goal, and the stipulations below shall be followed in addition to other regulations stipulated by the competent authorities of respective businesses:
+
+\1. Institute’s facilities shall meet stipulated requirements for sanitation, fire safety and construction management, and consider the respective demands of children and youth.
+
+\2. Institute’s facilities shall be well designed to meet the specific security demands for children and youth, and be well managed and maintained.
+
+\3. There shall be an equal opportunity for handicapped children and youth to use the institute’s facilities.
+
+\4. The institute’s environment shall be kept clean and sanitary with sufficient natural light and ventilation for all rooms.
+
+## Chapter 2 Establishment standards
+
+### Section 1 Nursery service center
+
+#### Article 5
+
+Nursery service centers shall provide children being nursed with learning activities and games available for full development, assisting them to successfully complete their development in each stage and offer the following services according to individual needs:
+
+\1. Children’s life care;
+
+\2. Children’s developmental learning;
+
+\3. Children’s health care;
+
+\4. Parental education and support of family function;
+
+\5. Record children’s life growth, and offer consultation and transfer;
+
+\6. Others which may benefit children’s healthy physical and mental development.
+
+The preceding nursery service centers that have already nursed children aged two before entering early childhood schools according to provisions of Early Childhood Education and Care Act shall continue to nurse for a period not exceeding one year.
+
+#### Article 6
+
+Nursery service centers are classified into the following three nursing categories:
+
+1.Half-day nursery: Nursery per day less than six hours;
+
+2.Day time nursery: Nursery per day more than six hours but less than twelve hours;
+
+3.Temporary nursery: Children’s parents, guardians, or the people who actually take care of children deliver children to be nursed due to temporary events.
+
+The temporary nursery time (in subparagraph 3) in the preceding paragraph may not exceed the total nursery time of the half-day nursery (subparagraph 1) and day time nursery (subparagraph 2).
+
+#### Article 7
+
+Nursery service centers shall operate in a fixed location with dedicated premises and independent entrances. They should occupy only the ground floor and up to the third floor of a building. The use of basements for administrative offices, storage, or purposes other than childcare activities may be permitted with the authorization of the competent authority.
+
+If a nursery service center is located on a floor below the ground level of a building site due to hillside topography or other terrain conditions, the lowest floor with windows opening towards and an exit providing direct access to the outdoors may be deemed the ground floor, pending approval by the competent authority at the special municipality or county (city) level.
+
+#### Article 8
+
+Nursery service centers shall be equipped with the following spaces:
+
+1.Activity areas: Indoor or outdoor spaces for living, learning, playing, and operating educational tools and toys;
+
+2.Sleeping areas: Spaces for sleeping and resting;
+
+3.Restroom sanitary facilities: Spaces for washing hands, faces, toileting, and bathing;
+
+4.Cleaning areas: Spaces for cleaning and nursing;
+
+5.Kitchens: Spaces for cooking meals;
+
+6.Meal preparation areas: Spaces for preparing milk and foods;
+
+7.Dining areas: Spaces for dining;
+
+8.Administrative management areas: Space for office, reception, and healthcare;
+
+9.Other service-related necessary spaces;
+
+The aforementioned spaces shall be appropriately labeled. The activity area in subparagraph 1 should be properly zoned in accordance with the scale of nursery, children of different ages, and development capabilities. Also, the spaces in subparagraph 3 and 4 shall be separated from those in subparagraph 6 and 7.
+
+Spaces in each subparagraph above shall be adjusted and combined according to the following rules:
+
+1.Spaces specified in subparagraph 2, 4, and 7 shall be installed in indoor spaces specified in subparagraph 1;
+
+2.Spaces specified in subparagraph 2 and 7 shall be combined; the same as those in subparagraph 5 and 6;
+
+3.Spaces specified in subparagraph 4 shall be installed in those in Paragraph 3.
+
+Subparagraph 4 of paragraph 1 shall be provided with bathtub and nursing station; subparagraph 6 shall be provided with milk preparation station
+
+#### Article 9
+
+Indoor floor area and outdoor activity areas in a nursery service center, excluding non-children main activity areas, such as sanitary room, kitchen, meal preparation area, administrative management area, storage room, firefighting space, stairs and balcony, legal parking zone and arcade shall be more than sixty square meters in total.
+
+Indoor floor areas in the preceding main activity space offered for children shall not be smaller than 2 square meters per person, and outdoor activity areas shall not be smaller than 1.5 square meters per person. If there is no or insufficient outdoor activity area, it shall be replaced with an indoor floor area of 1.5 square meters per person.
+
+#### Article 10
+
+Nursery service centers shall provide children with one specific and fixed sitting toilet respectively to their growth. If there are over 20 children, add one toilet for every 15 children. If there are less than 15 children, counted as 15 children, and install one faucet to be available for 10 nursed children. If there are less than 10 children, it is counted as 10 children.
+
+#### Article 11
+
+Nursery service centers shall have a full-time supervisor to be responsible for overall management business, and at least one special doctor or nursing personnel; one nursing personnel shall be appointed for every 5 nursed children, which will be counted as 5 children even if there are less than 5 children.
+
+#### Article 11-1
+
+For nursery service centers receiving an ‘A’ or a better rating in their most recent evaluation, any vacancies arising from difficulty in childcare personnel recruitment or existing personnel being on leave (with or without pay) may be filled by the following persons, who must obtain the necessary professional qualifications within one year:
+
+\1. Those who have obtained the childcare provider professional training course-completion certificate in the most recent three-year period; or
+
+\2. Those who have obtained a certificate of completion for at least 20 credits (or 360 hours) of preschool care or childcare-related training approved by or registered with the competent education authority.
+
+The term “difficulty in childcare personnel recruitment” in the preceding paragraph means that the nursery service center has attempted to publicly recruit personnel through at least two recruitment channels for more than three months but is unable to find suitable candidates, with proof of such recruitment efforts provided to the competent authority for review.
+
+The persons described in Paragraph 1 may only be employed with the approval of the competent authority. The number of such persons shall not exceed one-fourth of the actual number of childcare personnel employed by the nursery service center, which must provide such persons with training and on-site supervision.
+
+#### Article 12
+
+Nursery service centers shall not reject children for reasons of developmental delay, disabilities or that their families are low-income or middle and low-income.
+
+### Section 2 Early intervention institutes
+
+#### Article 13
+
+Early intervention institutes shall target families to offer the following services to children and their parents, guardians or the people who actually take care of them：
+
+\1. Early intervention
+
+\2. Life self-care training and social adaptation.
+
+\3. Parental education and support of family function.
+
+\4. Consultation, such as reporting, referral and transition.
+
+\5. Others that may benefit children’s wholesome development.
+
+#### Article 14
+
+There are the following two service types for early intervention institutes:
+
+\1. Daytime intervention: To offer developmentally challenged children half-day, daytime or full-day intervention and care.
+
+\2. Part-time intervention: To offer children with developmental delay part-time intervention and care.
+
+The institutes stated in the preceding paragraph can be merged, and per the request of the children’s parents, guardians or the ones who actually take care of them, professional personnel shall be sent to provide home intervention services.
+
+#### Article 15
+
+Except as otherwise stipulated, early intervention institutes shall have the following facilities:
+
+\1. Office
+
+\2. Clinic
+
+\3. Activity room
+
+\4. Interview room
+
+\5. Training room
+
+\6. Meeting room
+
+\7. Restroom sanitary facilities
+
+\8. Kitchen
+
+\9. Sleeping room
+
+\10. Other necessary facilities related to the services.
+
+The facilities stipulated in subparagraphs 1, 2, 4, 3 and 9 of the preceding paragraph shall be adjusted or combined as needed.
+
+The facilities stipulated in subparagraphs 8 and 9 of Paragraph 1 may be installed as needed by the institutes that engage in part-time intervention.
+
+#### Article 16
+
+The indoor floor space, excluding the space which is not used for children’s major activities, such as offices, kitchen, storeroom, fire prevention space, stairways, balcony, statutory parking spaces, arcade, etc. shall meet the following stipulations：
+
+\1. For daytime intervention service： The space shall not be less than 100 square meters for children’s major activities. The room floor space shall not be less than 6.6 square meters per person.
+
+\2. For part-time intervention service: The space shall not be less than 75 square meters.
+
+The space to be used for receiving children in early intervention institutes is limited to the first, second and third floor.
+
+#### Article 17
+
+In addition to employing a full-time supervisor to engage in the institute’s business, early intervention institutes shall also have the following working personnel：
+
+\1. Social workers,
+
+\2. Early intervention educators and assistant educators,
+
+\3. Intervention professional personnel,
+
+\4. Administrators and other personnel.
+
+The intervention professional personnel stated in subparagraph 3 of the preceding paragraph refers to specially contracted education teachers, occupational therapists, physical therapists, psychologists, linguistic therapists, orientation action training personnel, doctors and nursing personnel, etc.
+
+The personnel stated in subparagraphs 1 and 2 of Paragraph 1 shall be full-time; the ones stated in subparagraph 3 may be full-time or specially contracted. For those institutes that receive more than 30 children, there shall be at least one full-time member personnel employed.
+
+One social worker as stipulated in subparagraph 1 of Paragraph 1 shall be hired for every 30 children received. For a number under 30, it shall still be counted as 30.
+
+The educational and care personnel and assistant educational personnel for early intervention, or the professional personnel stipulated in subparagraphs 2 and 3 of Paragraph 1 shall be established in accordance with the following stipulations.：
+
+\1. Daytime intervention: One educational and care personnel and assistant educational personnel for early intervention or intervention professional person shall be employed for every five children received. For a number under five, it shall still be counted as five.
+
+\2. Part-time intervention: Based on one to one individual intervention as the principle, the ratio shall not be beyond one to three at the most. In terms of educational and care personnel and assistant educational personnel for early intervention or professional personnel against those who are served, the service number shall not exceed 25 people per week for each member of the personnel.
+
+The number of assistant educational personnel for early intervention stated in the preceding paragraph shall not exceed the number of educational personnel for early intervention.
+
+### Section 3 Placement and educational institutes
+
+#### Article 18
+
+Placement and educational institutes shall, in accordance with the best interests of the children and youth in placement, provide services that meet their physical, psychological, and social development needs and safeguard their rights and interests. Such services shall include:
+
+\1. Life care and the development of daily living skills;
+
+\2. Psychological and social assessment and counseling;
+
+\3. School placement/assistance and academic counseling;
+
+\4. Health and hygiene education and guidance;
+
+\5. Education relating to sexuality, gender, relationships, and life;
+
+\6. Arrangement of leisure activities;
+
+\7. Career exploration, employment preparation, and counseling;
+
+\8. Family relationship maintenance and preparation for returning home;
+
+\9. Independent living preparation and transition services prior to the termination of placement;
+
+\10. Development of awareness of children and youth rights;
+
+\11. Follow-up services after the termination of placement; and
+
+\12. Other necessary services.
+
+#### Article 19
+
+Placement and educational institutes shall plan methods of placement and education, as well as environment, by using different floors and zones depending on age, gender, requirements, grounds of placement, etc.
+
+#### Article 20
+
+The living space planning of placement and educational institutes shall be based on the principle of generating a family life atmosphere to have the following facilities installed:
+
+1.Living room or recreational space;
+
+2.Restaurant;
+
+3.Sanitary rooms and equipment;
+
+4.Kitchen;
+
+5.Bedroom, including staff night-duty room;
+
+6.Other necessary facilities and equipment associated with daily life;
+
+In addition to the aforementioned facilities and equipment, the placement and educational institutes shall provide the following facilities and equipment depending on the nature of service:
+
+1.Multifunction activity room;
+
+2.Office;
+
+3.Conference room;
+
+4.Library;
+
+5.Health center;
+
+6.Other service-related necessary facilities and equipment;
+
+The facilities and equipment mentioned in the preceding subparagraph maybe, depending on the actual situation, adjusted and used.
+
+The placement and educational institutes may, depending on the business operation, have the facilities, such as, milk preparation station, nursing station, bathing station, nursery room, occupational training room, conference room, emotion adjustment room, infection isolation room, reception room, gym, sports ground, etc. setup.
+
+#### Article 21
+
+The indoor floor space of a placement and education institute shall not be less than 120 square meters and must meet with the following requirements:
+
+\1. For children younger than two years old: No less than 10 square meters per child, including at least 3.5 square meters per child for sleeping room and restroom/sanitary facilities combined.
+
+\2. For children and youths two years of age or older: No less than 15 square meters per child/youth, including at least 8 square meters per child/youth for sleeping room and restroom sanitary facilities combined.
+
+\3. The maximum number of occupants per sleeping room shall be 15 for infants under three months old, 9 for children three months or older but under two years old, 6 for children over two years old, and 4 for youths.
+
+\4. To place minor mothers with infants who experience hardship due to underage pregnancy or childbirth, the available floor area shall be no less than 20 square meters per person, including at least 10 square meters per person for sleeping room and restroom/sanitary facilities combined and at least one restroom for every four people.
+
+The outdoor activity area of a placement and educational institute shall be no less than 3 square meters per person. Pending approval by the competent authority, the required outdoor activity area may be substituted with indoor floor area to account for local circumstances.
+
+Placement and educational institutes may only use the first floor to the third floor for children under the age of six placed under their care.
+
+The preceding paragraph shall enter into force on January 1, 2027.
+
+#### Article 22
+
+Each placement and educational institute shall have a full-time supervisor responsible for business administration.
+
+Should the supervisor be unable to perform their duties for any reason, the institute’s responsible person shall designate a person meeting the qualifications for supervisor to serve as acting supervisor. An acting period exceeding 30 days must be reported to the competent authority for recordation. The acting period shall not exceed one year.
+
+Each placement and educational institute shall employ the following personnel:
+
+\1. Childcare providers, care and guidance personnel, or assistant care and guidance personnel;
+
+\2. Social workers;
+
+\3. Psychological guidance personnel;
+
+\4. Physicians and nursing personnel; and
+
+\5. Administrative personnel or other staff members.
+
+The positions specified in Subparagraphs 1 and 2 of the preceding paragraph shall be full-time. The positions specified in Subparagraphs 3 and 4 may be contracted. The administrative personnel described in Subparagraph 5 may be full- or part-time.
+
+The number of assistant care and guidance personnel under Paragraph 3, Subparagraph 1 shall not exceed the number of care and guidance personnel on staff.
+
+#### Article 22-1
+
+One childcare provider, care and guidance personnel, or assistant care and guidance personnel shall be assigned for every three children under two years of age; a group of fewer than three children shall be counted as three.
+
+One childcare provider, care and guidance personnel, or assistant care and guidance personnel shall be assigned for every four children and youths two years of age or older; a group of fewer than four children/youths shall be counted as four.
+
+During night shifts, the personnel described in the preceding two paragraphs shall be assigned as follows:
+
+\1. For children under two years of age: At least one staff member for every six children; a group of fewer than six children shall be counted as six.
+
+\2. For children and youths two years of age or older: At least one staff member for every ten children and youths; a group of fewer than ten children and youths shall be counted as ten.
+
+The term “night shift” in the preceding paragraph shall refer to the period of time between 10:00 p.m. and 6:00 a.m. the following morning.
+
+In addition to the staffing required under Paragraphs 1 through 3, a placement and educational institute may employ additional full-time or part-time personnel of the categories specified in Subparagraph 1 of Paragraph 3 of the preceding article. However, during any work shift, the number of part-time personnel shall not exceed the number of full-time personnel, and each employee shall work at least 20 hours per month.
+
+#### Article 22-2
+
+One social worker shall be assigned for every 15 children and youths under placement; a group of fewer than 15 shall be counted as 15.
+
+#### Article 22-3
+
+One psychological guidance personnel shall be assigned for every 30 children and youths under placement; a group of fewer than 30 may be contracted.
+
+#### Article 22-4
+
+A placement and educational institute for children and youths that receives an ‘A’ or better rating in the most recent evaluation may, pending approval by the competent authority, hire personnel who do not meet the qualifications set forth in the Regulations Governing Qualifications and Training of Professional Personnel of Children and Youth Welfare Institutes as care and guidance personnel or assistant care and guidance personnel, provided that such personnel obtain the necessary qualifications within one year. This deadline may be extended once for up to one year in extraordinary circumstances, pending approval by the competent authority.
+
+Those not qualified as care and guidance personnel or assistant care and guidance personnel as specified in the preceding paragraph may only be counted as employees by an institute in their initial report to the competent authority. Such personnel may not be counted as employees by the same or another institute again under the same conditions should they fail to obtain the corresponding qualifications by the deadline specified in the preceding paragraph. The number of such personnel shall not exceed one third of the actual number of care and guidance personnel employed.
+
+Those not fully qualified as care and guidance personnel shall work under the supervision of qualified care and guidance personnel.
+
+#### Article 23
+
+Although based on one type of business as the principle for placement and educational institutes, they shall report to the competent authority for approval for other types of institute business in which they concurrently engage.
+
+### Section 4 Psychological counseling or family consultation institutes. (Psychological guidance or family consulting Institutes)
+
+#### Article 24
+
+Psychological guidance or family consulting Institutes shall target the children, youth and their families or the ones who actually take care of them to offer the following services：
+
+\1. The guidance of children and youth’s cognition, emotions, psychology and behavior.
+
+\2. The psychological guidance and consultation of children and youth’s schooling and employment.
+
+\3. The consultation and guidance of parental education, parenthood relationship and relevant treatment of the children, youth and their families.
+
+\4. Consultation and referral of children and youth welfare.
+
+\5. Other necessary services.
+
+#### Article 25
+
+The indoor floor space of psychological guidance or family consulting institutes shall not be less than 75 square meters, and shall be equipped with the following facilities.
+
+1.Office;
+
+2.Conference room;
+
+3.Multifunction activity room;
+
+4.Restroom sanitary facilities
+
+5.Other service-related necessary facilities and equipment;
+
+#### Article 26
+
+In addition to a full-time supervisor to engage in the business operation of the psychological counseling or family counseling agency, the following working personnel shall also be employed：
+
+1.Psychological guidance personnel;
+
+2.Social workers;
+
+3.Administrators or other working personnel.
+
+The psychological guidance personnel in subparagraph 1 shall be for full-time employment.
+
+### Section 5 Other children and youth welfare institutes.
+
+#### Article 27
+
+Welfare service institutes shall target children, youth and their family members to offer the following services：
+
+\1. Individual case service
+
+\2. Group service
+
+\3. Community service
+
+\4. Outreach service
+
+\5. Referral service
+
+\6. Parental education
+
+\7. Parenthood activities.
+
+In addition to the services stated above, welfare service institutes shall offer consultation service, reading service, recreation service, information service, leisure or physical activities, or other welfare services.
+
+#### Article 28
+
+The indoor floor space of welfare service institutes shall not be less than 150 square meters and shall be equipped with the following facilities：
+
+1.Office
+
+\2. Interview room
+
+\3. Activity room
+
+\4. Meeting room
+
+\5. Restroom sanitary facilities.
+
+\6. Other necessary facilities related to their services.
+
+The facilities stated in subparagraphs 3 and 4 of the preceding paragraph may be adjusted or combined as actually needed, and as required by the business, facilities such as a play room, clinic, reading room, computer room and sports grounds, shall be added.
+
+#### Article 29
+
+In addition to one full-time executive to engage in the institute’s business, welfare service institutes shall also employ the following personnel：
+
+\1. Social workers.
+
+\2. Psychological counseling personnel.
+
+\3. Administrators and other working personnel.
+
+The personnel specified in subparagraph 1 of the preceding paragraph shall have a full-time job; personnel in subparagraph 2 shall be specially contracted.
+
+Welfare service institutes that provide children and youth with recreational facilities or physical activities shall set up special personnel to manage and offer the necessary instruction.
+
+## Chapter 3 Supplementary provisions
+
+#### Article 30
+
+Institutes which are located in remote or offshore islands and aboriginal regions that have difficulties establishing themselves Children and Youth Welfare Institutes according to these standards shall report to competent authorities of the municipal or county (city) government for examination as a special project, and proceed accordingly with the consent of the central authorized agency.
+
+Competent authorities of the municipal or county (city) government may specially request a central government competent authority to approve and relax the restriction of the institute’s floor space as stipulated in Paragraph 3 of Article 21 to meet with the social environment requirements of urban land use constrictions. With regards to the institute’s new establishment, expansion, relocation, or change of responsible person or juridical person/group, these shall be proceeded / applied for according to Paragraph 3 of Article 21.
+
+#### Article 31
+
+Before amendment and promulgation of these Standards on January 6th, 2012, any nursery school with a baby nursery service center subject to approval that owns area of a baby nursery service center in excess of 60 square meters, in conformity with the minimum outdoor activities space in accordance with Paragraph 2 of Article 9,shall apply to the local competent authority pursuant to the preceding regulations for approval of an establishment certificate of the baby nursery service center.
+
+With regards to the foregoing baby nursery center's expansion, removal, change of responsible person or juridical person/group, the establishment certificate subject to the aforesaid provision shall be cancelled by the original competent authority.
+
+#### Article 32
+
+Following the enforcement of the standards, if provisions for the allocation of relevant personnel and floor space specified in the autonomous laws and regulations of the municipal or county (city) government are higher than the ones stipulated in the standards, those provisions shall be followed instead.
+
+#### Article 33
+
+Except where otherwise stipulated, these standards shall come into effect on the date of promulgation.
+
+## History
+
+\1. No. 0930093783 ordained on December 23, 2004
+
+\2. Amended and promulgated by Order Tai-Ne-Tong No.0960840357 on December 23, 2007 (Article 9, 33are amended)
+
+\3. Articles 9, 22, and 33 are amended ordained on May 12, 2011 by order Tai-Nei-Tung No. 10008400353
+
+\4. Amended and promulgated by Order Tai-Ne-Tong No.1010840001 on January 6, 2012 (Article 8, 33-1 are amended)
+
+\5. Article contents have been amended according to Tai-Nei-Tung-Tze Order No. 1010840231 dated May 30st, 2012 and are effective from the date of promulgation.
+
+\6. Amended on December 31, 2013
+
+\7. Amended on January 20, 2020
+
+\8. Articles 2, 7, 18, 21 through 22-4, and 33 amended and promulgated, and Article 11-1 added, by Ministry of Health and Welfare Order Wei-Shou-Jia-Zi No. 1150660335 on April 21, 2026; effective from the date of promulgation, except for Article 21, Paragraph 3, which takes effect on January 1, 2027.

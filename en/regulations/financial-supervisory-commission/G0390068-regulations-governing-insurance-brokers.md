@@ -1,0 +1,1043 @@
+---
+title: "Regulations Governing Insurance Brokers"
+title_zh: "保險經紀人管理規則"
+identifier: "G0390068"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-12-08
+last_amended: 2024-07-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390068"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Insurance Brokers
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390068-regulations-governing-insurance-brokers.md](../../../zh/regulations/financial-supervisory-commission/G0390068-regulations-governing-insurance-brokers.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+These Regulations are adopted pursuant to paragraph 4 and 8 of Article 163 of the Insurance Act.
+
+### Article 2
+
+The term "independent broker" as used in these Regulations means a person who practices insurance broker business in his or her own name.
+
+The term "broker company" as used in these Regulations means a company operating insurance broker business in the capacity of a corporate organization.
+
+The term “bank” as used in these Regulations means a bank operating concurrently insurance broker business with approval of the competent authority.
+
+### Article 2-1
+
+Companies or banks that operate insurance broker business shall employ a broker and may assign the broker to perform insurance broker business, check, compliance, audit or other relevant operations.
+
+### Article 3
+
+A broker who has not obtained a practice license in accordance with these Regulations shall not operate or practice.
+
+### Article 4
+
+Brokers are divided into non-life insurance brokers and personal insurance brokers.
+
+## Chapter 2 Qualifications and Conditions
+
+### Article 5
+
+An independent broker and a broker employed by a broker company or a bank shall possess one of the following qualifications:
+
+\1. Has passed the Examination for Professionals and Technical Personnel in the category of insurance broker.
+
+\2. Is on record as having previously passed a broker qualification test held by the competent authority.
+
+\3. Has previously obtained a broker practice license and practiced thereunder.
+
+A person possessing the qualification specified in subparagraph 3 of the preceding paragraph shall be restricted to practicing the same type of business.
+
+### Article 6
+
+A person having any of the following situations may not act as a responsible person of a broker company:
+
+\1. Having no legal capacity or limited legal capacity or subject to the court order of commencement of assistance and such order has not been revoked.
+
+\2. Having committed a crime under the Organized Crime Prevention Act, and has been found guilty by a final and unappealable judgment.
+
+\3. Having been sentenced to imprisonment for counterfeiting currency or valuable securities, embezzlement, fraud or breach of trust, and the sentence has not started serving or been completed, or ten years have not elapsed since the date of sentence completion, the expiration of probation period, or the pardon of such punishment.
+
+\4. Having received a final and unappealable sentence for violating Insurance Act, Banking Act, Financial Holding Company Act, Trust Enterprise Act, Act Governing Bills Finance Business, Financial Asset Securitization Act, Clauses of the Real Estate Securitization Act, Securities and Exchange Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Foreign Exchange Regulation Act, Credit Cooperative Act, Agricultural Finance Act, Farmers Association Act, Fishermen Association Act, Money Laundering Control Act, Counter-Terrorism Financing Act, Act Governing Issuance of Electronic Stored Value Cards prior to its abolishment, Act Governing Electronic Payment Institutions or any other laws regulating financial activity, and the serving of sentence has not started or been completed, or five years have not elapsed since the date of sentence completion, the expiration of probation period, or the pardon of such punishment.
+
+\5. Having been declared bankrupt, or adjudicated of commencement of liquidation process by a court, and rights and privileges have not been reinstated.
+
+\6. Being the responsible person of a legal entity at the time such legal entity was adjudicated bankrupt and five years have not elapsed since the closure of the bankruptcy or the terms of bankruptcy settlement have not yet been fulfilled.
+
+\7. Having an ongoing event that seriously damages his or her creditworthiness or five years have not elapsed since the closure of such an event.
+
+\8. Five years have not elapsed since being replaced or discharged from duties by order of the competent authority due to a violation the Insurance Act, Banking Act, Financial Holding Company Act, Trust Enterprise Act, Act Governing Bills Finance Business, Financial Assets Securitization Act, Clauses of the Real Estate Securitization Act, Securities and Exchange Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Credit Cooperatives Act, Agricultural Finance Act, Farmers Association Act, Fishermen Association Act, Fair Trade Act, Act Governing Issuance of Electronic Stored Value Cards prior to its abolishment, Act Governing Electronic Payment Institutions, or other laws regulating financial activity.
+
+\9. Factual proof shows that the person has engaged in or otherwise been involved in any other dishonest or improper activities, demonstrating unsuitability for the work in question.
+
+\10. Is currently serving as an employee of an insurance enterprise or related industry association. Notwithstanding the foregoing, if the insurance enterprise has an investment relationship with the broker company and their chairman, director externally representing the broker company organized as a limited company and general manager have not taken concurrent positions in each other, the employee of the insurance enterprise may act as a responsible person of the broker company, subject to the approval of the competent authority.
+
+\11. Is already registered as an insurance solicitor in any other insurance company, insurance agent company, broker company or bank.
+
+\12. Practice license has been revoked to Article 167-1 or 167-2 of the Insurance Act by the competent authority and five years have not elapsed.
+
+\13. Having been involved in serious cheating in a special or junior examination for professional or technical personnel of insurance enterprises, and has been sentenced to imprisonment for a definite period by a final and unappealable judgment.
+
+\14. Having been sentenced to imprisonment for forging instruments or seals, offence against privacy, usury, impairing the rights of creditors or violating Tax Collection Act, Trademark Act, Copyright Act or other acts or regulations governing industrial or commercial activity and the sentence has not started serving or been completed or five years have not elapsed since the date of sentence completion, the expiration of probation period, or the pardon of such punishment.
+
+\15. Having been committed the offense as specified in the Anti-corruption Act and subsequently convicted of a crime, and the sentence has not started serving or been completed or five years have not lapsed since the date of sentence completion, the expiration of probation period, or the pardon of such punishment.
+
+\16. Having been denied service by the bills clearing house and the denial status has yet to be removed, or there remains a record of dishonored check(s) due to insufficient funds in three years since the denial status has been removed
+
+\17. Being a director, supervisor or general manager of an insurance agent company, an insurance broker company or an insurance surveyor company at the time such company was subject to disciplinary action provided in subparagraph 1, paragraph 1, Article 164-1 of the Insurance Act or had its permit revoked and practice license cancelled pursuant to Article 167-2 of the Insurance Act, and three years have not elapsed.
+
+The term "responsible person" mentioned in the preceding paragraph shall mean a director, supervisor, general manager, or sales-related assistant general managers of a broker company, managers in charge of reinsurance broker business, managers of branch office or a person in comparable position.
+
+A person having any situation provided in subparagraphs 1 through 9 and subparagraphs 12 through 17 of paragraph 1 hereof may not serve as an independent broker or a broker employed by a broker company or a bank.
+
+## Chapter 3 Registration of Business Practice and Application for Practice License
+
+### Article 7
+
+A person possessing a broker qualification as set out in these Regulations and free of the situations provided in any subparagraph of paragraph 3 of the preceding article and subparagraph 26 of Article 49, after obtaining a practice license, practice business independently or as an employee of a corporate a broker company organization or a bank.
+
+A broker company or a bank shall employ at least one broker, and carry out registration of permission with the competent authority. The broker company or the bank shall make appropriate adjustment to the number of such persons according to the scale of its business and the number of its registered insurance solicitor. Where necessary, the competent authority may also require the broker company or the bank to employ additional brokers.
+
+After completing the registration of permission set out in the preceding paragraph, it shall duly carry out registration of incorporation with the appropriate competent authority in charge of company registration.
+
+An independent broker or a broker employed by a broker company or a bank shall not be concurrently employed by other broker companies, insurance agent companies, insurance surveyor companies or banks.
+
+### Article 8
+
+An independent broker shall submit the following documents to carry out registration of permission with the competent authority:
+
+\1. An application form.
+
+\2. Certification showing that the qualification requirements set out in these Regulations are met.
+
+\3. Certification of pre-job training, obtained within the last year and recognized by the competent authority; for a broker whose certification of pre-job training was obtained one year or earlier, the already obtained certification of pre-job training along with certification of at least 18 hours of on-the-job training within the last year; where registration of permission is based on the qualifications set out in subparagraph 3, paragraph 1 of Article 5 herein, certification of at least 18 hours of on-the-job training within the past 1 year before submission of the application. For brokers who submit certification of at least 18 hours of on-the-job training within the past 1 year, the courses on laws and regulations taken shall not be less than 8 hours and the courses on fair treatment of customers aged 65 and above shall not be less than 2 hours.
+
+\4. Proof of identity.
+
+\5. A business plan.
+
+\6. A written statement undertaking the absence of situations provided in paragraph 3 of Article 6 and subparagraph 26 of Article 49.
+
+\7. Other documents as required by the competent authority.
+
+The business plan in subparagraph 5 of the preceding paragraph shall contain at least the following information:
+
+\1. Business philosophy and methods for carrying out fiduciary duties;
+
+\2. Scope of business;
+
+\3. Business development plan;
+
+\4. Business solicitation system and procedures;
+
+\5. Financial projections for the next three years;
+
+\6. Description of work place and equipment; and
+
+\7. Other information as required by the competent authority.
+
+Where the information stated in the documents referred to in paragraph 1 hereof is incomplete or insufficient, the application will be rejected; if the situation may be remedied, the applicant shall take remedial actions within the time limit set by the competent authority, or else the application will be rejected.
+
+After an independent broker has obtained a permit, the competent authority may void the permit if false information is discovered in any of the documents under paragraph 1 hereof submitted by the applicant.
+
+### Article 9
+
+A broker company shall operate its business as a specialized operation and include the wording “Insurance broker” in the name of the company.
+
+A broker company applying to operate insurance broker business, reinsurance broker business, or simultaneously insurance broker business and reinsurance broker business shall submit the following documents to the competent authority for registration of permission:
+
+\1. An application form.
+
+\2. A photocopy of the valid practice license of brokers employed or certification showing that brokers employed meet the qualification requirements set out in these Regulations and any of the following certifications:
+
+(1) Certification of pre-job training, obtained within the last year and recognized by the competent authority;
+
+(2) For a broker whose certification of pre-job training was obtained one year or earlier, the already obtained certification of pre-job training and the certification of at least 18 hours of on-the-job training within the past 1 year before submission of the application. For brokers who submit certification of at least 18 hours of on-the-job training within the past 1 year, the courses on laws and regulations taken shall not be less than 8 hours and the courses on fair treatment of customers aged 65 and above shall not be less than 2 hours.
+
+(3) For a broker whose registration of permission is based on the qualifications set out in subparagraph 3, paragraph 1 of Article 5 herein, the certification of at least 18 hours of on-the-job training within the past 1 year, including no less than 8 hours of the courses on laws and no less than 2 hours of the courses on fair treatment of customers aged 65 and above.
+
+\3. Proof of identity for brokers employed.
+
+\4. A written statement by the designated chairman, director externally representing a broker company organized as a limited company, general manager and brokers employed that they are free of the situations in subparagraphs 1 through 9 and subparagraphs 12 through 17 of paragraph 1, Article 6 herein.
+
+\5. A business plan.
+
+\6. A list of promoters or shareholders stating each promoter's or shareholder's name, date of birth, domicile, ID number, and amount paid for subscription/purchase of shares.
+
+\7. The Articles of incorporation.
+
+\8. Proof of full payment for shares or proof of the balance of deposits of the company.
+
+\9. Documents evidencing the qualifications of the designated chairman, director externally representing a broker company organized as a limited company, and general manager.
+
+\10. Other documents as required by the competent authority.
+
+The business plan in subparagraph 5 of the preceding paragraph shall contain at least the following information:
+
+\1. Company philosophy and methods for carrying out fiduciary duties;
+
+\2. Scope of business;
+
+\3. Business development plan;
+
+\4. Organizational Structure and job duties.
+
+\5. Business solicitation system and procedures;
+
+\6. Financial projections for the next three years;
+
+\7. Description of work place and equipment; and
+
+\8. Other information as required by the competent authority.
+
+Where any of the promoters or shareholders referred to in subparagraph 6 of the paragraph 2 is a foreign insurance broker institution, the documents set out in subparagraphs 2 through 4, subparagraphs 11 and 12, paragraph 1 of Article 55 shall also be submitted.
+
+A broker company applying to operate reinsurance broker business, or simultaneously insurance broker business and reinsurance broker business shall proceed in accordance with the provisions of Paragraph 2 hereof, and in addition, submit documents evidencing the qualifications of manager to be in charge of reinsurance broker business; its business plan shall also contain a planning for operating processes that comply with the requirements set forth in Articles 35 and 37 herein.
+
+When a broker company that has been approved by the competent authority to operate insurance broker business applies to the competent authority for permission to add reinsurance broker business to its operations, it shall submit the following documents:
+
+\1. An application form;
+
+\2. The proof of the deposit of bond, paid-in capital and a duplicate of an insurance policy showing the purchase of professional liability insurance;
+
+\3. Documents evidencing the qualifications of the manager in charge of reinsurance broker business.
+
+\4. The minutes of the relevant board of directors' or shareholders' meeting.
+
+\5. A business plan.
+
+\6. The financial report for the latest one year, audited and attested by a certified public accountant.
+
+\7. Other information as required by the competent authority.
+
+The business plan in subparagraph 5 of the preceding paragraph shall contain at least the following information:
+
+\1. Company philosophy and methods for carrying out fiduciary duties;
+
+\2. Scope of business;
+
+\3. Business development plan;
+
+\4. Organizational Structure and job duties.
+
+\5. The operating process is in compliance with paragraphs of Article 35 and Article 37 herein;
+
+\6. Financial projections for the next three years;
+
+\7. Description of work place and equipment; and
+
+\8. Other information as required by the competent authority.
+
+When a broker company that has been approved by the competent authority to operate reinsurance broker business applies to the competent authority for permission to add insurance broker business to its operations, the provisions of Subparagraphs 1, 2, 4 through 7 of Paragraph 6 hereof apply mutatis mutandis the required documentation.
+
+Where the information stated in the documents referred to in Paragraph 2, 5, 6 hereof or the preceding paragraph is incomplete or insufficient, the application will be rejected; if the situation may be remedied, the applicant shall take remedial actions within the time limit set by the competent authority, or else the application will be rejected.
+
+After a broker company has obtained a permit, the competent authority may void the permit if false information is discovered in any of the documents under Paragraph 2, 5, 6 or 8 hereof submitted by the applicant.
+
+### Article 10
+
+A bank that applies for approval to operate concurrently insurance broker business or to increase the types of business shall comply with the provisions of the following subparagraphs:
+
+\1. The ratio of regulatory capital to risk-weighted assets within the past year meets the requirement set out in Article 5 of the Ratio of Regulatory Capital to Risk-weighted Assets Regulations Governing the Capital Adequacy and Capital Category of Banks;
+
+\2. Having not been imposed disciplinary action by the competent authority pursuant to subparagraphs 1 ~ 5, paragraph 1, Article 61-1, or paragraph 1, Article 62 of the Banking Act, or paragraph 1, Article 164, or Articles 167-2 ~ 167-4 of the Insurance Act within the past half year; or if there has been any violation, having made concrete improvements recognized by the competent authority; and
+
+\3. Not having any material deficiency or irregularity in the implementation of internal controls within the past year; or having made concrete improvements recognized by the competent authority.
+
+If the period from the date of the internet-only bank commencing its business operation to its application date for approval to operate concurrently insurance broker business or to increase the types of business is less than the period set forth in the subparagraphs of preceding paragraph, the foregoing period is calculated as the actual period of business operation of such a bank.
+
+### Article 11
+
+A bank applying to operate insurance broker business or increase of the type of business shall submit the following documents to the competent authority for registration of permission:
+
+\1. An application form.
+
+\2. A photocopy of its business license.
+
+\3. Articles of incorporation or equivalent documentation.
+
+\4. The minutes of the board of directors or trustees meetings.
+
+\5. The list of directors (council members) and supervisors.
+
+\6. A photocopy of the valid practice license of brokers employed or certification showing that brokers employed meet the qualification requirements set out in these Regulations and any of the following certifications:
+
+(1) Certification of pre-job training, obtained within the last year and recognized by the competent authority;
+
+(2) For a broker whose certification of pre-job training was obtained one year or earlier, the already obtained certification of pre-job training and the certification of at least 18 hours of on-the-job training within the past 1 year before submission of the application. For brokers who submit certification of at least 18 hours of on-the-job training within the past 1 year, the courses on laws and regulations taken shall not be less than 8 hours and the courses on fair treatment of customers aged 65 and above shall not be less than 2 hours.
+
+(3) For a broker whose registration of permission is based on the qualifications set out in subparagraph 3, paragraph 1 of Article 5 herein, the certification of at least 18 hours of on-the-job training within the past 1 year, including no less than 8 hours of the courses on laws and no less than 2 hours of the courses on fair treatment of customers aged 65 and above.
+
+\7. Proof of identity for brokers employed.
+
+\8. A written statement by the designated department head, department deputy head and brokers employed undertaking that they are free of the situations in subparagraphs 1 through 9 and subparagraphs 12 through 17 of paragraph 1, Article 6 herein.
+
+\9. A business plan.
+
+\10. Documentary proof evidencing allocation of operating capital.
+
+\11. Documents evidencing the qualifications of the designated department head, department deputy head.
+
+\12. Other documents as required by the competent authority.
+
+The business plan in subparagraph 9 of the preceding paragraph shall contain at least the following information:
+
+\1. Company philosophy and methods for carrying out fiduciary duties;
+
+\2. Scope of business;
+
+\3. Business development plan;
+
+\4. Organizational Structure and job duties.
+
+\5. Business solicitation system and procedures;
+
+\6. Financial projections for the next three years;
+
+\7. Description of work place and equipment; and
+
+\8. Other information as required by the competent authority.
+
+Where the information stated in the documents referred to in paragraph 1 hereof is incomplete or insufficient, the application will be rejected; if the situation may be remedied, the applicant shall take remedial actions within the time limit set by the competent authority, or else the application will be rejected.
+
+After a bank has obtained a permit, the competent authority may void the permit if false information is discovered in any of the documents under paragraph 1 hereof submitted by the applicant.
+
+### Article 12
+
+A broker company shall have one general manager in charge of managing the overall operations of the company and shall not have other officers in comparable position.
+
+The general manager referred to in the preceding paragraph shall not act concurrently as the chairman or general manager of other broker companies or insurance agent companies as well as director externally representing other broker companies or insurance agent companies organized as limited companies.
+
+The general manager of a broker company shall possess one of the following qualifications:
+
+\1. Has graduated from a domestic or foreign school at the level of junior college or higher or possessing equivalent academic qualifications, and having no less than five years of experience working for an insurance company, insurance cooperative, broker companies, insurance agent companies, or insurance surveyor companies and having the qualification of solicitor, agent or broker for same type of insurance business;
+
+\2. Has performed the work of insurance broker or agent for at least five years.
+
+\3. Has the qualification of solicitor, agent or broker for same type of insurance business and there is other factual evidence sufficient to show professional insurance expertise or insurance work experience that enables him or her to operate an insurance broker business soundly and effectively.
+
+The appointment or dismissal of the general manager mentioned in the preceding paragraph shall be duly registered with the competent authority in charge of company registration.
+
+The managerial officer of a broker company in charge of its reinsurance broker business shall have graduated from a domestic or foreign school at the level of junior college or higher or possess equivalent academic qualifications, and have not less than three years of work experience in reinsurance business.
+
+### Article 13
+
+The chairman of a broker company, director externally representing a broker company organized as a limited company, at least one third of its directors and supervisors, sales-related vice general manager, managers of branch offices or officers in comparable positions shall possess one of the following qualifications:
+
+\1. Has graduated from a domestic or foreign school at the level of junior college or higher or possesses equivalent academic qualifications, and has served for no less than three years of experience in the position of assistant manager or higher or in an equivalent position on an insurance company, insurance cooperative, broker company, insurance agent company, insurance surveyor company, or in the position of deputy head of a bank’s separate department operating insurance broker or agent business and has performed with excellence in such position.
+
+\2. Has performed the work of insurance broker or agent for at least two years.
+
+\3. Has other academic or employment experience sufficient to show that he/she has professional insurance expertise, or experience in managing an insurance business, and is capable of operating an insurance broker business soundly and efficiently.
+
+### Article 14
+
+A broker company shall submit a written statement by the new chairperson, general manager or director externally representing a broker company organized as a limited company undertaking that who is free of situations set out in any of the subparagraphs of paragraph 1, Article 6 and documents evidencing compliance with qualifications provided in the preceding two articles, within 15 days after he/she is elected  as the chairperson or appointed as the general manager to the competent authority for approval; where the qualifications of the chairperson, general manager or director externally representing a broker company organized as a limited company are not approved by the competent authority, the competent authority may order the insurance broker company to make changes within a prescribed period of time; The same shall apply if factual evidence shows that an individual does not possess the required qualifications specified in preceding two paragraphs after taking office.
+
+Where a broker company has question over whether its chairperson or general manager to be elected or appointed, or a broker company organized as a limited company has question over whether the director to be elected to externally represent it meets the qualification requirements set forth in subparagraph 3 of preceding Article or Article 12, paragraph 3, subparagraph 3 herein, the broker company may submit the qualification information for approval by the competent authority before the election or appointment.
+
+Where there is a change of director, supervisor or managers of branch office, the broker company shall submit a written statement by the new appointee undertaking that who is free of situations set out in any of the subparagraphs of paragraph 1, Article 6 and documents evidencing compliance with qualifications provided in the preceding two articles to the brokerage association for recordation within fifteen days after the change.
+
+A broker company shall report changes to place of business or paid-in capital to the brokerage association for recordation within fifteen days after registration of the change (with the appropriate authority); the preceding paragraph applies when an independent broker or a bank changes his or her place of business.
+
+The directions for the relevant operations set out in the paragraph 1 and the preceding two paragraphs shall be drawn up by the brokerage association and brokers association, and submitted to the competent authority for recordation; the preceding provision shall apply to any amendment to those directions.
+
+### Article 15
+
+When a broker employed by a broker company or a bank leaves work, the broker company or the bank shall, within fifteen (15) days after the broker departs, report to the competent authority and surrender the practice license of the departed broker, and report same to the insurance brokerage association for recordation.
+
+When a broker company and a bank employs an additional broker or changes a broker, and such new broker already has a practice license, the broker company and bank shall report to the brokerage association for recordation within seven days after employing the additional broker or changing the broker.
+
+The brokerage association shall prescribe directions for the reporting operation under the two preceding paragraphs.
+
+### Article 16
+
+For the broker company applying for operating insurance broker and/or reinsurance broker business after Regulations are amended and in force on June 24, 2014 and before Regulations are amended and in force on March 3, 2021, the broker company shall have minimum paid-in capital of NT$5 million to operate insurance broker business; one applying to operate reinsurance broker business shall have minimum paid-in capital of NT$10 million; one applying to simultaneously operate insurance broker business and reinsurance brokering business shall have minimum paid-in capital of NT$10 million.
+
+A broker company already being granted practice license before the amended Regulations are in force on June 24, 2014 shall adjust its capital in accordance with the requirement set out in the preceding paragraph before June 24, 2019.
+
+For the broker company applying for operating insurance broker and/or reinsurance broker business after Regulations are amended and in force on March 3, 2021, the broker company shall have minimum paid-in capital of NT$20 million; one applying to operate reinsurance broker business shall have minimum paid-in capital of NT$20 million; one applying to simultaneously operate insurance broker business and reinsurance brokering business shall have minimum paid-in capital of NT$30 million.
+
+For the broker company already being granted practice license before the amended Regulations are in force on March 3, 2021, the broker company shall adjust its capital in accordance with the requirement set out in the preceding paragraph within six months from date following the settlement date of shares or the transfer date of capital contribution if its accumulated shareholdings or capital contributions transferred is no less than fifty percent of the total outstanding shares or paid-in capital.  However, the above requirement is not applicable to the case where the transfer of shares or capital contributions is due to the death of the shareholder or investor and undertaken by his/her successors.
+
+The capital contributions of promoters and shareholders shall be limited to cash.
+
+### Article 17
+
+A bank shall allocate at least NT$50 million as operating capital. The operating capital shall be used exclusively for the insurance broker business and may not be used for other purposes.
+
+A bank already being granted practice license to engage in broker business before the amended Regulations are in force on March 3, 2021 shall adjust its capital to become compliant as set forth in preceding paragraph within one year from the date the amended Regulations enter into force.
+
+### Article 18
+
+Upon applying to the competent authority for the issuance of a practice license, an independent broker shall pay the fees set by the competent authority and submit the following documents:
+
+\1. An application form.
+
+\2. The proof of the deposit of bond, a duplicate of an insurance policy showing the purchase of professional liability insurance and bonding insurance.
+
+\3. Certification showing membership in the brokers association in accordance with Article 45.
+
+\4. Other documents as required by the competent authority.
+
+### Article 19
+
+Upon applying to the competent authority for the issuance of a practice license, a broker company shall pay the fees set by the competent authority and submit the following documents:
+
+\1. An application form;
+
+\2. The proof of the deposit of bond and a duplicate of an insurance policy showing the purchase of professional liability insurance;
+
+\3. Company registration form and a list of directors, supervisors and general manager;
+
+\4. A written statement by directors and supervisors undertaking that they are free of the situations set out any of the subparagraphs of paragraph 1, Article 6 and proofs submitted by its chairman and general manager as well as the director externally representing a broker company organized as a limited company that they are free of the situations set out in subparagraphs 10 and 11 of paragraph 1, Article 6 herein, and employed brokers are free of the situation set out in subparagraph 26, Article 49 herein;
+
+\5. Certification showing membership in the insurance brokerage association in accordance with Article 45 herein; and
+
+\6. Other documents as required by the competent authority.
+
+### Article 20
+
+Upon applying to the competent authority for the issuance of a practice license to operate insurance broker business, a bank shall pay the fees set by the competent authority and submit the following documents:
+
+\1. An application form;
+
+\2. The proof of the deposit of bond and a duplicate of an insurance policy showing the purchase of professional liability insurance and bonding insurance;
+
+\3. A list of the department head, department deputy head.
+
+\4. A written statement by department head and department deputy head undertaking that they are free of the situations set out any of the subparagraphs of paragraph 1, Article 6 and proofs submitted by employed brokers are free of the situation set out in subparagraph 26, Article 49 herein;
+
+\5. Certification showing membership in the insurance brokerage association in accordance with Article 45 herein; and
+
+\6. Other documents as required by the competent authority.
+
+### Article 21
+
+A Bank that applies to the competent authority for registration to operate insurance broker business shall establish a separate department for such operations with independent operations and accounting.
+
+Paragraphs 1 of Article 6, paragraphs 1 to 3 of Article 12, paragraph 1 and 2 of Article 14 and Article 60 herein shall apply mutatis mutandis to the head of department described in the preceding paragraph; and paragraphs 1 of Article 6, Article 13 and Article 60 herein shall apply mutatis mutandis to the deputy head of department.
+
+### Article 22
+
+A broker who possesses the qualifications of both non-life insurance broker and personal insurance broker may concurrently apply for broker practice licenses for both non-life insurance and personal insurance.
+
+### Article 23
+
+Independent brokers, broker companies and banks shall apply to the competent authority for issuance of a practice license and commence practicing or operating business within six months of the date of registration of permission. If the surveyor has not yet applied or has not yet commenced practice or operation at the end of this period, the competent authority will revoke its permission.
+
+### Article 24
+
+The practice license of independent brokers and brokers employed by a broker company and a bank is valid for a period of five years. A broker may not practice business unless he or she has completed the procedures for license renewal before the current practice license expires.
+
+Upon applying for renewal of practice license, a broker shall pay the fee set by the competent authority and submit the following documents:
+
+\1. The original practice license.
+
+\2. Certification of on-the-job training recognized by the competent authority.
+
+\3. The proof of the deposit of bond, a duplicate of an insurance policy showing the purchase of professional liability insurance and bonding insurance.
+
+\4. The consolidated income tax returns of the broker (listing sources of income) for the past three years, tax withholding statements accompanied by an affidavit, or other documents proving that he or she has actually practiced the business.
+
+\5. A written statement by the applicant undertaking that who is free of the situations set out of the paragraph 3 , Article 6 and subparagraph 26, Article 49 herein.
+
+\6. Certification showing membership in brokers association or brokerage association in accordance with Article 45.
+
+\7. Other documents as required by the competent authority.
+
+### Article 25
+
+The competent authority may not renew a practice license if the applying broker has any of the following circumstances:
+
+\1. Violate paragraph 2 of Article 165 of the Insurance Act.
+
+\2. Any of the circumstances listed in paragraph 3 of Article 6 or subparagraph 26, Article 49 herein.
+
+\3. Violation of paragraph 2 or 4 of Article 7 herein.
+
+\4. Failure to apply for renewal of the practice license within the time limit specified in paragraph 1 of preceding article.
+
+\5. Failure to file business and financial statements in accordance with Article 43.
+
+\6. Other circumstances as provided by the competent authority.
+
+### Article 26
+
+An independent broker who ceases business shall, within fifteen days after the fact, file a report with the competent authority and surrender his or her practice license.
+
+### Article 27
+
+A broker company having any of the following situations shall submit an application together with its board of directors’ or shareholders’ meeting minutes to the competent authority for approval and register with competent authority in charge of company registration to law:
+
+\1. Suspending.
+
+\2. Resuming business.
+
+\3. Dissolved.
+
+A broker company may suspend its business up to one year, and where there is legitimate reason, may apply for an extension of business suspension period once. The application for extension shall be made fifteen days before the allowed suspension period expires.
+
+Where a broker company fails to apply for business resumption and employ a broker in accordance with Article 7 before the allowed suspension period expires, the competent authority will revoke its permission and cancel its practice license.
+
+Where a broker company applies for business suspension, it shall surrender the practice licenses of brokers employed by the company. Where a broker company applies for dissolution, it shall surrender the practice licenses of brokers employed by the company as well as the company’s practice license.
+
+Where a broker company has a situation set out in subparagraph 1 or 3 of paragraph 1 hereof or cancel its practice license by the competent authority but fails to surrender the practice licenses of brokers employed by the company, the employed brokers shall, within thirty days from business suspension or dissolution of the broker company or cancel its practice license by the competent authority, submit relevant documents to competent authority for cancellation of registration through the brokerage association.
+
+A broker company operating simultaneously insurance broker business and reinsurance broker business that ceases the operation of its insurance broker business or reinsurance broker business shall submit the minutes of its board of directors or shareholders meeting to the competent authority for recordation within one month.
+
+### Article 28
+
+A bank that applies to suspend or terminate its insurance broker business in part or in whole shall describe reasons therefor and submit an application form and the minutes of its board of directors’ meeting to the competent authority for approval.
+
+A bank that applies to suspend its insurance broker business shall surrender the practice licenses of brokers employed by it. A bank that applies to terminate its insurance broker business shall surrender the practice licenses of brokers employed by it and its practice license for operating concurrently insurance broker business.
+
+A bank that has been approved by the competent authority to suspend or terminate its insurance broker business in part or in whole, or has its business permit revoked or voided and its practice license for operating concurrently insurance broker business cancelled but fails to surrender the practice licenses of brokers employed by it, the employed brokers should, within thirty days from the date the competent authority approves the bank to suspend or terminate its insurance broker business in part or in whole, or from the date the competent authority cancels the bank’s practice license for operating concurrently insurance broker business, submit relevant documents for registration cancellation through the brokers association.
+
+The directions for operation of cancellation registration mentioned in the paragraph 5 of preceding article and preceding paragraph shall be drawn up by the brokerage association.
+
+### Article 29
+
+An independent broker may apply for return of the bond after who has ceased practice and its practice license has been surrendered and cancelled, or after its business permit has been voided or revoked by the competent authority.
+
+The bond deposited by a broker company will be returned upon duly made application only after liquidation of the company is completed according to law, and the practice license is surrendered and cancelled; provided,
+
+The bond deposited by a bank will be returned upon duly made application after the bank has terminated its insurance broker business with approval of the competent authority and surrendered its practice license, or after its business permit has been revoked or voided by the competent authority.
+
+## Chapter 4 Education and Training
+
+### Article 30
+
+Training is divided into pre-job training and on-the-job training.
+
+### Article 31
+
+Independent brokers or brokers employed by a broker company or a bank to perform insurance broker business, check or other relevant businesses shall have attended at least 32 hours of pre-job training and passed tests within the past one year before submission of the application.
+
+Compliance  personnel must attend at least 30 hours of pre-job training.
+
+Pre-job training mentioned in the preceding two paragraphs may be conducted by the Taiwan Insurance Institute or a university or college extension education institution. The guidelines and content for such training shall be submitted to the competent authority for approval.
+
+### Article 32
+
+Independent brokers or brokers employed by a broker company or a bank to perform insurance broker business, check or other relevant businesses shall attend at least on average 16 hours of on-the-job training every year during the valid period of their practice license, including at least 8 hours of courses on laws in the latest 2 years before renewing a practice license.
+
+Compliance  personnel must attend at least 15 hours of on-the-job training every year.
+
+On-the-job training mentioned in the preceding two paragraphs may be conducted by the Taiwan Insurance Institute, the insurance brokerage association or brokers association, the insurance agency association, a university or college extension education institution, or other institutions approved by the competent authority. The guidelines and content for such training shall be submitted to the competent authority for approval.
+
+Independent brokers or brokers employed by a broker company or a bank shall additionally attend and pass no less than 2 hours of annual courses on fair treatment of customers aged 65 and above. Independent brokers or brokers employed by a broker company or a bank, not attending and passing the foregoing courses, are not allowed to solicit insurance product to customers aged 65 and above next year, and their employing broker company or bank shall cancel their next year qualifications to solicit insurance product to customers aged 65 and above.
+
+## Chapter 5 Management
+
+### Article 33
+
+When independent brokers, broker companies and banks practicing or operating business, that shall exercise due care of a good administrator and fiduciary duties to uphold the interests of the insured, ensure that he or she has provided professional explanations to the insured and made full disclosure of information relating to the major contents of the insurance product of interest and major rights and obligations of the insured.
+
+When independent brokers, broker companies and banks operating or practicing business, they should store on and file those documents for future reference.
+
+If the insurance contract is produced by insurance companies in digital insurance policy format, the independent brokers, broker companies and banks shall obtain the mobile phone number, email, or other contact method of the applicant and insured deemed as sufficient by the competent authority for transmitting digital documents and provide these information to the underwriting insurance companies.
+
+Broker companies and banks that operate insurance broker business shall draw up internal operating rules and implement them vigorously to ensure that their operating procedures and operations are in compliance with relevant laws and regulations.  The aforementioned internal operating rules shall include the relevant regulations amended and enforced on September 22, 2022 with regard to the protection of the rights and interests of elderly customers aged 65 and above.
+
+Before a broker negotiates and concludes an insurance contract for an insured, the broker shall well know the relevant matters of basic information, demand, and risk profile concerning the applicant and the insured and proactively provide the insured with a written of analysis report in accordance with the applicable scope and content prescribed by the competent authority (see Attachment 1).  Before charging the proposer or the insured fees, a broker shall clearly inform them of fee schedule (see Attachment 2).
+
+When a broker company or a bank holds directly or indirectly more than ten percent of voting shares issued by an insurance company, or an insurance company holds directly or indirectly more than ten percent of voting shares issued by the broker company or the bank, the broker company or the bank shall disclose such information to the proposers.
+
+### Article 33-1
+
+Broker companies and banks shall conduct phone call, video call or remote interview of their customers regarding the following matters before they refer the application case to the insurer to complete the underwriting process:
+
+\1. Confirm that the solicitation process is in compliance with Subparagraphs 5, 6 and 8, Paragraph 1, Article 6 of the Regulations Governing Business Solicitation, Policy Underwriting and Claim Adjusting of Insurance Enterprises.
+
+\2. For customers whose source of funds for premiums paid is a bank loan, a time deposit canceled early without penalty or a policy loan, the customer shall be informed of associated risks and maximum possible loss.
+
+\3. For customers whose source of funding for insurance premiums payment is the termination of a contract, the customer shall be clearly informed of related losses of interests in insurance contracts as a result of the insurance purchase after the termination of the contract.
+
+\4. For customers aged 65 and above, the customer shall be asked questions gently around possible disadvantages of the insurance product the customer has purchased to confirm that the customer understands the potential effects and disadvantages associated with the characteristics of the insurance product. However the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers aged 65 and above after the insurance company makes an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products.
+
+When a broker company or a bank delivers relevant application documents to the insurer for change of proposer or beneficiary, policy loan or termination of part or whole of the insurance contract, it should, before the insurer completes the relevant operation, conduct a phone call, video call or remote interview of the customer to confirm his/her real intent.
+
+The types and percentage of insurance cases requiring a phone call, video call or remote interview under Paragraph 1 and the preceding paragraph shall be prescribed by the competent authority.
+
+A bank shall establish a mechanism to check the source of funds for premiums paid by a customer, whether it is a loan from the bank, a time deposit at the bank that is canceled early without penalty, a contract termination or a policy loan obtained through the bank that took place within three months prior to the purchase of insurance, and to check whether there is consistency between the customer and the financial information the customer provides for dealings and transactions with the bank. For the following customers, a bank shall assign a staff not from the sales department to conduct a phone call, video call or remote interview mentioned in Paragraph 1 hereof for all such application cases, to which the provisions set forth in accordance with the preceding paragraph on the types and percentage of insurance cases do not apply:
+
+\1. For customers whose source of funds for premiums payment is the termination of an insurance contract, a bank loan, a time deposit canceled early without penalty or a policy loan.
+
+\2. For customers aged 65 and above and purchasing the insurance product with possible disadvantages to their rights and interests.  However the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers aged 65 and above after the insurance company makes an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products.
+
+The requirements set forth in subparagraph 2 to 4 of paragraph 1 and preceding paragraph regarding to conduct a phone call, video call or remote interview are not applicable to the cases where customers who are purchasing an insurance product that does not require policy value reserve (excluding health insurance products), a micro-whole-life insurance product, an accident insurance product with insurance period of less than three years, or a mortgage life insurance product that does not pay survival benefit.
+
+The provisions of the preceding two paragraphs apply mutatis mutandis to insurance agent companies invested and established by a financial holding company or a bank.
+
+When a broker company and bank discovers in the phone call, video call or remote interview mentioned in the preceding paragraph that there are situations not complying with the rules or countering the intent of the customer, it should, before the insurer completes the underwriting process, notify the insurer and the customer to rectify the situation or take actions in the interest of the customer.
+
+When a broker company and a bank shall tape record the entire phone call, video call or remote interview with the consent of the interviewee and save the recording of phone call, video call or remote interview for future audits. The tape recording shall be retained for a period of not less than five years after the insurance contract has expired or five years from the date the insurer’s decision of not to underwrite the policy is finalized.
+
+### Article 34
+
+Independent brokers, broker companies and banks shall understand the needs of the proposer and product or service suitability, and sign on relevant documents by seal or other electronic means, unless otherwise prescribed by the competent authority.
+
+The “relevant documents” under the preceding paragraph, Paragraph 2 of Article 33 and Paragraph 2 of the preceding article hereof include, for non-life insurance:
+
+\1. Insurance application form.
+
+\2. Application for endorsement.
+
+\3. Proof of premium payment by the applicant.
+
+\4. An Analysis report on the needs of the proposer and the insured, suitability analysis, and negotiation and conclusion of insurance contract.
+
+\5. Application for termination of contract.
+
+\6. Other documents designated by the competent authority.
+
+The “relevant documents” under Paragraph 1, Paragraph 2 of Article 33 and Paragraph 2 of the preceding article include, for personal insurance:
+
+\1. Insurance application form.
+
+\2. Application for endorsement.
+
+\3. Proof of premium payment by the applicant.
+
+\4. An Analysis report on the needs of the proposer and the insured, suitability analysis, and negotiation and conclusion of insurance contract.
+
+\5. Application for termination of contract.
+
+\6. Other documents designated by the competent authority.
+
+### Article 34-1
+
+Broker companies and banks shall establish check and management procedures for relevant documents under the preceding article.
+
+The insurance brokerage association shall draw up self-regulatory rules for the  check and management procedures mentioned in  the preceding paragraph and submit the rules to the competent authority for reference.
+
+### Article 35
+
+A broker company operating insurance broker business and reinsurance broker business concurrently shall not have conflict of interest by separating the internal control systems and business operation procedures of the two businesses, and comply with the code of professional ethics and self-regulatory rules drawn up by the brokerage association.
+
+A broker company undertaking reinsurance broker business shall obtain a written authorization of the original insurer.
+
+A broker company operating reinsurance broker business shall confirm that the credit rating of the reinsurer complies with the provisions of the Regulations Governing Insurance Enterprises Engaging in Operating Reinsurance and Other Risk Spreading Mechanisms and the reinsurer arranged should have the consent of the original insurer.
+
+When a broker company that arranges a direct insurance contract is authorized by the insurer of the direct insurance contract to arrange facultative reinsurance for the direct insurance contract, the broker company shall state the matter of simultaneous undertaking of insurance broker business and reinsurance broker business in the agreement or document entered with the insured and the insurer of the direct insurance contract as a form of consent by the insured and the insurer.
+
+A broker company operating reinsurance broker business shall comply with the following provisions:
+
+\1. Obtain a written confirmation of acceptance issued by the ceded reinsurer before the original insurance contract takes effect or before the start date the original insurer cedes its risks.
+
+\2. Deliver to the original insurer information on reinsurers’ shares of participation and credit rating, relevant reinsurance terms and conditions, reinsurance premium rates, reinsurance commissions rates for the original insurer, and material information affecting the finance and business of reinsurer before the original insurance contract takes effect or before the start date the original insurer cedes its risks.
+
+\3. Deliver reinsurance contract documents signed by the reinsurer to the original insurer within sixty (60) days after the reinsurance contract has taken effect. However for treaty reinsurance, the complete reinsurance contract that contains reinsurance terms and conditions, reinsurance clauses and contents, and all relevant ancillary contracts shall be delivered to the original insurer within six (6) months after the reinsurance contract has taken effect.
+
+A broker company operating reinsurance broker business shall preserve intact relevant supporting documents under the preceding paragraph for future audits by the competent authority.
+
+A broker company that has obtained in advance the consent of original insurer may commission foreign brokers that meet the following conditions to arrange reinsurance:
+
+\1. Having been approved by the competent authority of its home country to register incorporation and operate reinsurance business.
+
+\2. Having acquired valid professional liability insurance with sum insured no less than an equivalent amount of US$5 million per occurrence and aggregate sum insured no less than an equivalent amount of US$10 million during the policy period, the deductible not exceeding 5% of sum insured, and uninterrupted policy period.
+
+A broker company operating reinsurance broker business shall watch constantly information and changes in the insurance market, and if there is any material information affecting the finance or business of the insurer surfacing after a reinsurance contract has taken effect, the broker company shall inform the original insurer.
+
+The reinsurance terms and conditions and reinsurance premium rates mentioned in the preceding paragraph shall comply with the provisions of Article 10 and Article 11 of the Regulations Governing Insurance Enterprises Engaging in Operating Reinsurance and Other Risk Spreading Mechanisms.
+
+### Article 36
+
+Banks that operate concurrently insurance broker business shall comply with the following provisions:
+
+\1. Have a sign conspicuously placed at its business place indicating that it engages in insurance broker business;
+
+\2. Make clear and enable consumers to understand the distinction between insurance broker business and banking business;
+
+\3. Set up or designate a relevant department to handle dispute cases arising out of the insurance broker business;
+
+\4. Clearly disclose to customers the nature and risks of insurance products; and
+
+\5. Other matters of compliance as required by the competent authority.
+
+Banks shall not
+
+\1. Use customer deposit information to induce purchase of insurance or recommend insurance products that do not match the customer's risk profile by misleading customer or using improper sales techniques.
+
+\2. Banks try to sell insurance products to customers by comparing only the difference in rate of return on time deposit and the insurance product while ignoring the risk characteristics and nature of the product or not disclosing information such as return/risk tradeoff.
+
+\3. Authorize bank employees who handle loans and credit or deposits and remittance business to sell investment-linked insurance products or insurance products with surrender value (excluding personal injury insurance and mortgage life insurance with an insurance period of less than 3 years) and receive commissions therefrom; the preceding provision does not apply when the proposer or the insured is the spouse or a direct blood relative of such employee.
+
+Banks already being granted practice license to engage in non-life insurance broker business related to documentary credit negotiation and credit extension before the amended Regulations are in force shall, within six months from the date the amended Regulations enter in force, become compliant with subparagraph 1 and subparagraph 3 of paragraph 1 hereof.
+
+### Article 37
+
+A broker company operate simultaneously insurance broker business and reinsurance broker business shall set up a separate account for the reinsurance brokering business to record relevant revenues and expenditures.
+
+A broker company may carry out account settlement for reinsurance brokering business on a quarterly or semi-annual basis.
+
+### Article 38
+
+The content of publicity and advertising used in insurance solicitation by insurance solicitors or brokers employed by a broker company or a bank shall have been approved by the employing company or bank; the employing company or bank shall furthermore duly bear liability.
+
+### Article 39
+
+Independent brokers, broker companies or banks shall be liable to indemnify the proposer or insured for any damage suffered as a result of any act of negligence, error, or omission by the broker in practicing or operating business.
+
+### Article 40
+
+Independent brokers, broker companies and banks shall directly deliver to the insurer the full premium payments collected from proposers, except for brokers who operate reinsurance broker business.
+
+Where a proposer pays premium with a negotiable instrument not drawn in his or her own name, or the name of the insured or the beneficiary, the independent broker, broker company or bank may not accept the premium payment unless the proposer has issued a statement to the effect.
+
+### Article 41
+
+An independent broker, a broker company and a bank that is authorized by an proposer to forward premiums on his or her behalf shall preserve collection records and photocopies of the proof of premium payment by the applicant.
+
+All documents to be preserved under the preceding paragraph shall be preserved for at least five years, provided that where otherwise specified by an act or regulation, such other provision shall apply.
+
+### Article 42
+
+An independent broker, a broker company and a bank shall have a fixed place of business that may not be located within the head office or branch office of an insurance company.
+
+Where a broker company or a bank changes any registered item on the company practice license, it shall, within 30 days, submit an amendment registration form and pay the fee as set by the competent authority for replacement of the practice license.
+
+Independent brokers, broker companies and banks shall display the original of his or her practice license in a prominent location at the place of business.
+
+Independent brokers, brokers employed by a broker company and a bank shall present the original or a photocopy of his or her practice license and employee ID card when negotiating an insurance contract or providing related services.
+
+### Article 43
+
+Independent brokers, broker companies and banks shall set up a special ledger to record operating revenues and expenditures and shall compile the various business and financial statements and other items prescribed by the competent authority, and submit them to the competent authority or an institution designated thereby between April 1 and May 31 every year; the formats of the statements and other items shall be separately prescribed by the competent authority. However if the fiscal year of the broker, broker company or bank differs from a calendar year, the reporting time limit will be separately set by the competent authority.
+
+The competent authority may from time to time send personnel to inspect the operations and assets and liabilities of independent brokers, broker companies and banks or order them to report the status of their operations within a time limit.
+
+With respect to the inspection opinions of the competent authority or deficiencies identified by the competent authority in an inspection, independent brokers, broker companies and banks shall take specific improvement actions and continue to follow up on the actions taken, and report the implementation of improvement actions to the competent authority within the time period prescribed by the competent authority. The broker company and bank shall submit a written report on the follow-up of improvement actions taken to its board of directors and supervisors or audit committee for review.
+
+### Article 44
+
+The commissions, expenses and costs of an independent broker, a broker company and a bank associated with operating or practicing insurance broker business on behalf of the same insurance enterprise shall be transacted through a single bank account.
+
+### Article 45
+
+After obtaining registration of permission with the competent authority, broker companies and banks shall join the brokerage association and independent brokers shall join the brokers association.
+
+An independent broker, a broker company and a bank who has not joined the brokerage association or brokers association and obtained a membership certificate in accordance with the preceding paragraph may not apply for a practice license to operate or practice in business.
+
+### Article 46
+
+When the brokerage association or brokers association is established or holds reelection, it shall report its articles of association, a list of members, and a list of directors and supervisors to both the Ministry of the Interior and the competent authority for recordation.
+
+The brokerage association or broker association shall disclose on its website the name, capital, place of business of its member, operating bonds deposited, liability insurance and bonding insurance purchased by members companies and other matters as required by the competent authority.
+
+### Article 47
+
+A broker company that has not been sanctioned by the competent authority within the last one year for violating an act or regulation may apply to the competent authority for approval to establish a branch office.
+
+A broker company that applies for the establishment of a branch office shall employ a broker and submit the following documents to the competent authority for registration of permission:
+
+\1. An application form clearly stating the name and location of the branch office.
+
+\2. The minutes of the board of directors meeting resolving to establish the branch office.
+
+\3. Proof of identity for the designated managers of branch offices and proof of their compliance with the qualification requirements set out in Article 13 herein.
+
+\4. A photocopy of the valid practice license of brokers employed or certification showing that brokers employed meet the qualification requirements set out in these Regulations and any of the following certifications:
+
+(1) Certification of pre-job training, obtained within the past 1 year before submission of the application and recognized by the competent authority;
+
+(2) For a broker whose certification of pre-job training was obtained one year or earlier, the already obtained certification of pre-job training and the certification of at least 18 hours of on-the-job training within the past 1 year before submission of the application. For brokers who submit certification of at least 18 hours of on-the-job training within the past 1 year, the courses on laws and regulations taken shall not be less than 8 hours and the courses on fair treatment of customers aged 65 and above shall not be less than 2 hours.
+
+(3) For a broker whose registration of permission is based on the qualifications set out in subparagraph 3, paragraph 1 of Article 5 herein, the certification of at least 18 hours of on-the-job training within the past 1 year, including no less than 8 hours of the courses on laws and no less than 2 hours of the courses on fair treatment of customers aged 65 and above.
+
+\5. Proof of identity for brokers employed.
+
+\6. A written statement by the designated managers of branch office and brokers employed undertaking that they are free of the situations set out in subparagraphs 1 through 9 and 12 through 17, paragraph 1 of Article 6.
+
+\7. A business plan for the branch office.
+
+\8. Other documents as required by the competent authority.
+
+A broker company shall, in the six months of the approval of branch office establishment, submit an application form and a written statement by the managers of branch office undertaking that they are free of situations set out in subparagraphs 10 and 11 of paragraph 1, Article 6 herein and employed brokers are free of the situation set out in subparagraph 26, Article 49 herein to the competent authority for issuance of a practice license for the branch office.
+
+### Article 48
+
+A broker company that meets the following requirements may apply to the competent authority for approval to establish a subsidiary, branch office, or representative office or makes equity investment in a foreign country:
+
+\1. The company has shown sound operational performance and secure financial capacity in the three years prior to application; and
+
+\2. The company has not been imposed sanction under the provisions of Article 167-2 of the Insurance Act in the one year prior to application, or has been  sanctioned but specific remedial actions have been taken therefor and accepted by the competent authority.
+
+When a broker company plans to establish a subsidiary, branch office, or representative office or makes equity investment in a foreign country, relevant provisions of the Regulations Governing Permission of Insurance Business Transactions and Investment Between the Taiwan Area and the Mainland Area shall apply mutatis mutandis with respect to required documentation, financial and business management, etc.
+
+### Article 49
+
+Independent brokers, broker companies, banks and brokers employed by broker companies or banks shall not commit any of the following acts:
+
+\1. Make a false representation when applying for a practice license.
+
+\2. Negotiate and conclude an insurance contract for an insurance enterprise that has not been approved and registered.
+
+\3. Deliberately conceal material matters concerning an insurance contract.
+
+\4. Take advantage of his or her professional or business position or use other improper means, with respect to the establishment of a contract, to coerce, induce, or restrict the freedom of a proposer, insured, or insurer, or to collect extra compensation or other benefit from them.
+
+\5. Make exaggerated, false, or misleading claims or advertisements or use other improper methods when operating or practicing business or recruiting personnel.
+
+\6. Use improper means to incite an insurance customer to take an action such as to surrender insurance, switch insurance policies, or take a loan.
+
+\7. Misappropriate or embezzle insurance premiums, reinsurance premiums, policy proceeds or reinsurance payouts.
+
+\8. Not practice oneself, but instead provide the practice license for use by another person.
+
+\9. Be sentenced to punishment for embezzlement, fraud, breach of trust, or forgery.
+
+\10. Operate or practice insurance business outside the scope specified on his or her practice license.
+
+\11. Collect, in addition to commissions and expenses set out in the contract or commissions charged according to industry standards, and reasonable compensation for insurance-related services as provided in Article 9 of the Insurance Act, money, articles or other compensations from an insurer in the name of other expense items or of a third party, or engage in uncustomary transactions.
+
+\12. By unlawful means, cause an insurer to make an improper insurance claim payment.
+
+\13. Disseminate untrue statements or promotional materials, thus disturbing the financial order.
+
+\14. Authorize a third party to operate or practice business on his/her/its behalf, or operate or practice business in other’s name.
+
+\15. In the case of a broker company, refer an application case solicited by a broker not employed by the company or an insurance solicitor not registered under the company to an insurer, or refer an application case solicited by it to an insurer through another broker or insurance agent, unless it is a case from an independent broker who has obtained the written consent of the proposer to the effect in advance.
+
+\16. Employ people who do not possess the qualifications of insurance solicitor to solicit insurance business.
+
+\17. Fail to surrender or cancel practice license within the time period set out in paragraph 1 of Article 15, Article 26, paragraph 5 of Article 27, or paragraph 3 of Article 28.
+
+\18. Suspend, suspend its insurance broker business in part or in whole temporarily, resume, dissolve business or terminate its insurance broker business in part or in whole at own discretion.
+
+\19. A broker company or a bank engaging in broker business fails to employ another broker in accordance with Paragraph 2 of Article 7 herein when an employed broker leaves work.
+
+\20. Fail to report matters prescribed by the competent authority to the brokerage association or brokers association for recordation.
+
+\21. The content of advertising related to insurance products and publicity used in insurance solicitation is not provided or consented by the insurer.
+
+\22. Pay commissions to insurance solicitors and their supervisors who did not actually perform the business solicitation; however the preceding provision does not apply to payments of renewal commissions to those who take over policyholder services.
+
+\23. Fail to confirm the suitability of an insurance product for a specific consumer, including providing unsuitable insurance products to customers aged 65 and above.
+
+\24. Sell foreign vertical settlement products that have not been approved by the competent authority.
+
+\25. Submit business information and financial statements are untrue or incomplete.
+
+\26. Is currently serving as an employee of an insurance enterprise or related industry association, or having been registered as an insurance solicitor.
+
+\27. Urge or induce customers to rescind or terminate contracts or pay for insurance premiums by taking out a bank loan, canceling a time deposit or taking out a policy loan.
+
+\28. Fill out a solicitation report dishonestly, including the report lack of the statement whether the customers aged 65 and above and purchasing the insurance products other than non-life insurance and micro-insurance has the ability to distinguish situations that are disadvantageous to their rights and interests, reasons why the insurance products suitable for the customer, and evaluation record. However the preceding provision does not apply if the characteristics of the insurance product are not found to have potential effects and disadvantages on customers aged 65 and above after the insurance company makes an evaluation in accordance with Subparagraph 7, Article 6 of the Regulations Governing Pre-sale Procedures for Insurance Products.
+
+\29. Otherwise violate these Regulations or related acts or regulations.
+
+\30. Any other act injurious to the image of insurance business.
+
+### Article 50
+
+A broker company and a bank shall produce a compliance manual and appoint a compliance officer to take charge of the planning, management and implementation of its compliance system. The compliance officer shall also report periodically to the board of directors and supervisors or audit committee. In case the broker company is a limited company, the compliance officer shall report periodically to all shareholders.
+
+The compliance manual mentioned in the preceding paragraph shall contain at least the following particulars:
+
+\1. Compliance procedures to be adopted by each business.
+
+\2. Rules and regulations to be complied with by each business.
+
+\3. Procedures for handling violation of rules and regulations.
+
+4.Self-assessment procedure for compliance operation.
+
+The compliance officer may not serve concurrently as an internal auditor.
+
+The appointment, dismissal or transfer of compliance officer shall be reported in a manner designated by the competent authority with confirmation document and record filed and stored.
+
+The planning, management and implementation of compliance system shall include the following:
+
+1.Establish clear and adequate transmission, consultation, coordination, and communication systems with respect to laws and regulations.
+
+2.Ascertain that all operations and management rules are updated in a timely manner in coordination with applicable laws and regulations so that all business activities comply with laws and regulations.
+
+3.Draw up the content of and procedures for compliance-related assessment, conduct self-assessment at least once a year, audit the compliance self-check procedure, and report the audit result to the general manager.
+
+4.Provide employees with adequate and proper training on laws and regulations.
+
+### Article 51
+
+A compliance officer shall carry out the following tasks:
+
+\1. Maintain a system for clear and adequate conveyance, counsel, coordination and communication of regulatory requirements;
+
+\2. Keep operating and management rules and procedures updated in line with relevant regulations to make sure all business activities comply with regulatory requirements; and
+
+\3. Provide adequate and pertinent compliance training to employees;
+
+The working documents related to the tasks in the preceding paragraph shall be kept for at least five years.
+
+### Article 52
+
+The compliance officer of a broker company and a bank shall possess one of the following qualifications:
+
+\1. Having the qualification of an insurance agent or broker and having actually performed the work of an insurance agent or broker.
+
+\2. Having at least five years of work experience in related business of insurance enterprise, insurance agent companies or broker companies.
+
+\3. Having graduated from college with a degree in finance, insurance or related field, or a degree in law and having at least three years of work experience in related business of insurance enterprise, insurance agent companies or broker companies.
+
+A compliance officer referred to in the preceding paragraph shall be free of the situations set out in subparagraphs 1 through 10 and subparagraphs 12 through 17, paragraph 1 of Article 6 herein.
+
+At least one of the compliance officers employed by a bank shall meet the qualification requirements set out in paragraph 1 hereof.
+
+## Chapter 6 Foreign Insurance Brokers
+
+### Article 53
+
+Where necessary, the competent authority may approve the establishment of branch offices within the territory of the Republic of China by a foreign insurance broker institution having an corporate entity to operate the same kind of business operated in its home country.
+
+### Article 54
+
+A foreign insurance broker institution applying to establish a branch office within the territory of the Republic of China shall possess the following qualifications:
+
+\1. Having had sound operational performance and secure financial capacity in the three years prior to application; and
+
+\2. Free of the record of being disciplined (by the authority) due to major violation in the past three years as substantiated by the competent authority of its home country.
+
+### Article 55
+
+A foreign insurance broker institution applying for approval to establish a branch office within the territory of the Republic of China to operate insurance broker business shall submit two copies of the following documents to the competent authority for review:
+
+\1. Foreign broker company's application for approval.
+
+\2. Documentary proof that the competent authority or agency of its home country has approved the registration of the applicant's incorporation as well as the scope of its business operations.
+
+\3. Documents showing the names, nationalities, positions, and residences or domiciles of the major responsible persons of the head office.
+
+\4. Documents evidencing that establishment of a branch office in the Republic of China has been approved by the competent authority or agency of its home country and agreed by its board of directors.
+
+\5. The articles of incorporation of the head office.
+
+\6. A business plan.
+
+\7. A photocopy of the valid practice license of brokers employed or certification showing that brokers employed meet the qualification requirements set out in these Regulations and any of the following certifications:
+
+(1) The employed broker's certification of pre-job training, obtained within the past 1 year before submission of the application and recognized by the competent authority;
+
+(2) For a broker whose certification of pre-job training was obtained one year or earlier, the already obtained certification of pre-job training and the certification of at least 18 hours of on-the-job training within the past 1 year before submission of the application. For brokers who submit certification of at least 18 hours of on-the-job training within the past 1 year, the courses on laws and regulations taken shall not be less than 8 hours and the courses on fair treatment of customers aged 65 and above shall not be less than 2 hours.
+
+(3) For a broker whose registration of permission is based on the qualifications set out in subparagraph 3, paragraph 1 of Article 5 herein, the certification of at least 18 hours of on-the-job training within the past 1 year, including no less than 8 hours of the courses on laws and no less than 2 hours of the courses on fair treatment of customers aged 65 and above.
+
+\8. Proof of identity for brokers employed.
+
+\9. A written statement by managers of branch office and brokers employed undertaking that they are free of situations set out in subparagraphs 1 through 9 and subparagraphs 12 through 17, paragraph 1 of Article 6 herein.
+
+\10. Proof of identity for the designated manager of branch office and proof of compliance with the qualification requirements of chairman set out in Article 13 herein.
+
+\11. A balance sheet and consolidated income statement for the last three years audited and attested by a certified public account recognized in the home country.
+
+\12. A document issued by the competent authority in its home country evidencing that the applicant is free of the record of being disciplined (by the authority) due to major violation in the past three years.
+
+\13. Other documents as required by the competent authority.
+
+The business plan in subparagraph 6 of the preceding paragraph shall contain at least the following information:
+
+\1. Company philosophy and methods for carrying out fiduciary duties;
+
+\2. Scope of business;
+
+\3. Business development plan;
+
+\4. Organizational Structure and job duties.
+
+\5. Business solicitation system and procedures;
+
+\6. Financial projections for the next three years;
+
+\7. Description of work place and equipment; and
+
+\8. Other information as required by the competent authority.
+
+The documents mentioned in the first paragraph may be replaced by comparable documents if any of them is unavailable according to the law of the home country.
+
+If any of the documents mentioned in the first paragraph and preceding paragraph is not presented or recorded in Chinese due to special circumstances, their Chinese translations must be attached; except to documents provided in subparagraphs 1 through 6 and subparagraph 10 of the first paragraph hereof, the rest shall be authenticated by a ROC embassy/consulate or an overseas ROC representative office.
+
+If the documents in the first paragraph or other representations are incomplete or insufficient, the application will be rejected; if the situation may be remedied, the applicant shall take remedial actions within the time limit set by the competent authority, or else the application will be rejected.
+
+After a foreign insurance broker institution has obtained a permit to establish a branch office within the territory of the Republic of China to operate insurance broker business, the competent authority may void the permit if false information is discovered in any of the documents under paragraph 1 hereof submitted by the applicant.
+
+### Article 56
+
+After the amended Regulations are in force on September 22, 2022, For the head office of a foreign insurance broker company applying for approval to establish a branch office within the territory of the Republic of China to operate insurance broker business, the head office shall appropriate funds of no less than NT$20 million exclusively for the business operation of each branch office established according to its business plan; when applying for operation of reinsurance broker business, the minimum working capital of each branch office shall be NT$20 million; when applying for operating concurrently insurance broker business and reinsurance broker business, the minimum working capital of each branch office shall be NT$30 million.
+
+Before the amended Regulations are in force on September 22, 2022, the head office of a foreign insurance broker company shall appropriate funds of not less than NT$5 million exclusively for the business operation of each branch office established according to its business plan; when applying for operation of reinsurance broker business, the minimum working capital of each branch office shall be NT$10 million; when applying for operating concurrently insurance broker business and reinsurance broker business, the minimum working capital of each branch office shall be NT$10 million.
+
+### Article 57
+
+The head office of a foreign broker company shall, within six months of permission, remit the funds for business operations of its branch office according to the preceding article, and apply to the competent authority in charge of company registration for registration of branch office establishment.
+
+For those foreign broker companies that fail to apply for registration with the competent authority within the time period prescribed in the preceding paragraph, or fail to obtain approval from the competent authority in charge of company registration, the competent authority may revoke the permission.
+
+Those that have completed the registration procedure under the first paragraph hereof shall, after depositing a bond and purchasing professional liability insurance, apply for and obtain a practice license from the competent authority by submitting a Branch Office Incorporation Registration Form and the fee as set by the competent authority. Those that have obtained a practice license shall carry out business registration in accordance with relevant acts and regulations.
+
+### Article 58
+
+A foreign insurance broker institution establishing a branch office to operate business within the territory of the Republic of China shall employ at least one person holding a Republic of China broker’s practice license of the same type to practice the business.
+
+### Article 59
+
+Provisions of other related chapters of these Regulations shall apply mutatis mutandis to matters regarding foreign insurance brokers on which this chapter is silent.
+
+## Chapter 7 Supplementary Provisions
+
+### Article 60
+
+The appointment or promotion of the responsible persons of a broker company shall meet the requirements set out in paragraph 1 of Article 6, Articles 12 and 13; one appointed or promoted without meeting those requirements shall be discharged.
+
+Any responsible person of a broker company who has a situation in any subparagraph of paragraph 1, Article 6 after promotion or appointment shall be discharged.
+
+If an independent broker or brokers employed by a broker company or a bank does not comply with paragraph 3 of Article 6 or subparagraph 26 of Article 49 herein, the competent authority may void or revoke his or her permit and cancel his or her practice license.
+
+### Article 60-1
+
+Broker companies and banks that are not compliant with Articles 2-1, 7, 12, 13, 15, 27, 31, 32, 34, 34-1, 47, 50 and 52 amended and promulgated on July 22, 2024 shall make adjustments to become compliant prior to December 31, 2024.
+
+### Article 61
+
+Unless the date of implementation is otherwise provided and Article 8, 9, 11, 32, 33, 33-1, 47, 49, 55 amended on September 22, 2022 and relevant to the protection of the rights and interests of customers aged 65 and above to be in force on October 1, 2022, these Regulations shall be in force on the date of promulgation.
+
+## History
+
+\1. Full 46 articles promulgated and enforced 8 December 2003 per Ministry of Finance Order Taiwan-Finance-Insurance No. 0920752070.
+
+\2. Articles 7 to 17, 19, 20, 26, 35, 36, 29, 40, and 42 amended and issued 16 February 2005 per Order No. Financial-Supervisory-Insurance-III-09402540862 of the Financial Supervisory Commission, Executive Yuan.
+
+\3. Amended on February 4, 2010.
+
+\4. Amendment to full text of 49 articles promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Li-Zi-10002545321 dated February 25, 2011 and implemented on the date of promulgation.
+
+\5. Amendment to Articles 1, 15, 18, 19, 21, 22, 37, 40, 44, 45, 49, addition of Articles 40-1 ~ 40-3 and deletion of Article 6 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Li-Zi-10002660381 dated December 29, 2011. With the exception of Articles 40-1 ~ 40-3 that will enter into force on July 1, 2012, the amended provisions will enter into force from the date of promulgation.
+
+\6. Amendment to Articles 17,27,28 and 39 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10102573201 dated December 28, 2012.
+
+\7. Amendment and full text of 54 articles promulgated per order of Financial Supervisory Commission No. Jin-Guan-Bao- Zong-Zi-10302565241 dated June 24, 2014; except for Articles 25 and 26 which will be in force one year after the promulgation of the amendment, the rest of the articles enter into force on the date of promulgation.
+
+\8. Amendment and full text of 61 articles promulgated per order of Financial Supervisory Commission No. Jin-Guan-Bao- Zong-Zi-10402567071 dated June 18, 2015; except for Articles 31 and 32 which will be in force until June 24, 2015, the rest of the articles enter into force on the date of promulgation.
+
+\9. Amendment to Article 9, 33, 34 and 35 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10602561991 dated June 27, 2017.
+
+10.Amendment to Article 6, 9,12,13, 33 and 57 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10804561971 dated May 8, 2019.
+
+11.Amendment to Article 9,27,33,34,35～37,49 and addition of Articles 33-1 and 34-1 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 10804956691 dated November 18, 2019.
+
+12.Amendment to Article 10,12~14, 16, 17, 21, 33, 33-1, 35, 43, and 49 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 11004907181 dated March 3, 2021
+
+13.Amendment to Article 6. 8、9、11～14、19、32～33-1、47、49、52、55、56、61 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 11104936691 dated September 22, 2022.
+
+14.Amendment to Article 2、6、7、12、13、15、21、27、31、 32、34、34-1、43、47、49、50、52、61 and addition of Articles 2-1、60-1 promulgated per Financial Supervisory Commission Order No. Jin-Guan-Bao-Zong-Zi- 11304922171 dated July 22, 2024.

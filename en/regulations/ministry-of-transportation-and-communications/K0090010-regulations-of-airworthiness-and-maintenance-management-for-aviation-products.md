@@ -1,0 +1,359 @@
+---
+title: "Regulations of Airworthiness and Maintenance Management for Aviation Products, Appliances and Parts"
+title_zh: "航空產品與其各項裝備及零組件適航維修管理規則"
+identifier: "K0090010"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航空目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1972-04-03
+last_amended: 2024-03-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090010"
+retrieved: 2026-10-12
+---
+
+# Regulations of Airworthiness and Maintenance Management for Aviation Products, Appliances and Parts
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0090010-regulations-of-airworthiness-and-maintenance-management-for-aviation-products.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0090010-regulations-of-airworthiness-and-maintenance-management-for-aviation-products.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+#### Article 1
+
+This regulation is established in accordance with Paragraph 2 of Article 9-1 of the Civil Aviation Act of the Republic of China.
+
+#### Article 2
+
+Definitions:
+
+1.Maintenance means inspection, overhaul, repair, preservation, and the replacement of part in order to maintain the airworthiness of an aircraft, but excludes preventive maintenance.
+
+2.Preventive maintenance means simple or minor inspection, assembly, preservation operations and the replacement of small standard part not involving complex assembly operations.
+
+3.Repair means the restoration of an aircraft, its powerplant, propeller, components and part to an airworthy condition as defined by the appropriate airworthiness standards and requirements. It is classified as following:
+
+(1) Major repair means a repair that if improperly done, might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness; or that is not done according to accepted practices or cannot be done by elementary operations.(1) Major alteration means an alteration not listed in the aircraft, aircraft engine, or propeller specifications that might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness; or that
+
+(2) Minor repair means a repair other than a major repair.
+
+4.Alteration means a modification work which is not listed in the original design standard to add or subtract component and part, or change its original performance or function to an aircraft, its powerplant, or propeller. It is classified as following:
+
+(1) Major alteration means an alteration not listed in the aircraft, aircraft engine, or propeller specifications that might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness; or that is not done according to accepted practices or cannot be done by elementary operations.
+
+(2) Minor alteration means an alteration other than a major alteration.
+
+5.Rebuilding means to restore the aircraft, its powerplant, propeller, component or part to the applicable airworthiness standards by disassembly, cleaning, inspection, repair, reassembly, and test to the same tolerances and limits as a new item in accordance with methods, techniques, and practices acceptable to the CAA.
+
+6.Operating limitation means the necessary limitations with concerning weight, balance, structural strength, performance, powerplant operation, flight characteristics, and quality of maneuver and equipment operation to comply with applicable airworthiness standards and maintain continued airworthiness during flight.
+
+7.Aircraft powerplant means aircraft engine, its attachments and accessories. Aircraft engine means an engine that is used for propelling aircraft. It includes superchargers and turbines.
+
+8.Instructions for Continued Airworthiness means the necessary airworthiness information which describe methods, techniques, and practices to perform maintenance, preventive maintenance or rebuilding to an aircraft, its powerplant, propeller, component or part.
+
+9.Life-limited part means any part for which a mandatory replacement limit is specified in the type design, the Instructions for Continued Airworthiness, or the maintenance manual.
+
+10.Life status means the accumulated cycles, hours, or any other mandatory replacement limit of a life-limited part.
+
+11.Airframe means the fuselage, booms, nacelles, cowlings, fairings, airfoil surfaces (including rotors but excluding propellers and rotating airfoils of engines), and landing gear of an aircraft and their accessories and controls.
+
+## Chapter 2 Maintenance Management
+
+### Section 1 Rules concerning certification and recording for maintenance, preventive maintenance, rebuilding or alteration
+
+#### Article 3
+
+Persons authorized to perform or approval for return to service after maintenance, preventive maintenance, rebuilding, or alteration shall comply with provisions in Attachment 1.
+
+Those items, the performance of which is a major alteration, a major repair, or preventive maintenance, as listed in Attachment 2.
+
+#### Article 4
+
+No person may describe in any required maintenance entry or form an aircraft, its powerplant, propeller, component or part as being overhauled unless:
+
+\1. Using methods, techniques, and practices acceptable to the CAA, it has been disassembled, cleaned, inspected, repaired as necessary, and reassembled; and
+
+\2. It has been tested in accordance with technical standards approved by CAA, or technical standards approved by Authorities of State of Design, or current standards and technical data developed by certificate holder which acceptable to the CAA.
+
+#### Article 5
+
+No person may describe in any required maintenance entry or form an aircraft, its powerplant, propeller, component or part as being rebuilt unless:
+
+1.Use either new part or used part that either conform to new part tolerances and limits or to approved oversized or undersized dimensions; and
+
+2.It has been disassembled, cleaned, inspected, repaired as necessary, reassembled, and tested to the same tolerances and limits as a new item.
+
+#### Article 6
+
+Each person who performs maintenance, preventive maintenance, rebuilding, or alteration of an aircraft, its powerplant, propeller, component or part shall make an entry in the maintenance record of that equipment containing the following information:
+
+\1. A description of work performed and reference to data acceptable to CAA.
+
+\2. The date of completion of the work performed.
+
+\3. The name of the person performing the work.
+
+\4. If the work performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.
+
+Upon completing major repair or major alteration, signature of authorized person shall be entered on a form（as Attachment 3）, and the form disposed of, in the manner prescribed in Attachment 4.
+
+Each holder of Civil Air Transport Enterprise and General Aviation that is required by its approved operations specifications and maintenance program shall make a record of the maintenance, preventive maintenance, rebuilding, or alteration on aircraft, its powerplant, propeller, component or part which it operates in accordance with the applicable provisions of Aircraft Flight Operation Regulations, as appropriate.
+
+#### Article 7
+
+Except as provided in Paragraph 3 of Article 6, each holder of General Aviation by whom using aircraft that are type certificated for a passenger seating configuration, excluding any pilot seat, of nine seats or less, shall be inspected in accordance with approved progressive inspection program and make an entry in the maintenance record of that equipment containing the following information:
+
+1.The type of inspection and a brief description of the extent of the inspection.
+
+2.The date of the inspection and aircraft total time in service.
+
+3.The signature, the certificate number, and kind of certificate held by the person.
+
+4.If the aircraft is found airworthy and approved for return to service, or is not found airworthy and disapproved for return to service, the statement in Attachment 5 shall be addressed.
+
+5.If an inspection is conducted under an approved maintenance program, the entry must identify name of that program and part of the program accomplished.
+
+Except holder of Civil Air Transport Enterprise and General Aviation, each aircraft owner or operator shall make a record of inspection on aircraft, its powerplant, propeller, component or part as described in accordance with previous paragraph.
+
+If the person performing any inspection required by previously2 paragraph of this Article finds the aircraft unairworthy, that person must give the owner or operator a signed and dated list of those discrepancies. Owner or operator shall place a placard on each inoperative instrument and the cockpit control of each item of inoperative equipment, marking it “Inoperative,” and shall add the items to the signed and dated list of discrepancies given to the owner or operator.
+
+#### Article 8
+
+No person may approve for return to service of any aircraft, its powerplant, propeller, component or part that has undergone maintenance, preventive maintenance, rebuilding or alteration unless:
+
+1.The maintenance record entry required by Article 6 and 7, as appropriate, has been made; The identity of the approved maintenance organization, responsible for the authorization for signing a return to service, shall be included in the record entry.
+
+2.The major repair or major alteration form furnished by CAA has been executed in a manner prescribed by the CAA;
+
+3.If a repair or an alteration results in any change in the aircraft operating limitations or flight data contained in the aircraft flight manual, those operating limitations or flight data are appropriately revised and approved or accepted by CAA.
+
+When the Powerplant, propeller, component or part has undergone maintenance, preventive maintenance, rebuilding, or alteration, an Authorized Release Certificate or a form accepted by CAA shall be filed out by authorized person as an evidence of airworthiness approval for return to service.
+
+#### Article 9
+
+No person shall, either by his own will or intentionally by his employee or contracted person, group or repair station make any fraudulent or intentionally false entry in any record when performing maintenance, preventive maintenance, rebuilding or alteration work.
+
+If an error was found in Maintenance record, authorized personnel shall make a correction in accordance with procedure accepted by CAA.
+
+Aircraft owner or operator may establish managing procedures, upon being granted by CAA, to use electronic recording/signature system for signing and recording the maintenance record required by Article 6 to 8.
+
+#### Article 10
+
+Each person performing maintenance, preventive maintenance, rebuilding or alteration on an aircraft, its powerplant, propeller, component or part shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the CAA.
+
+Each person shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices. If special equipment or test apparatus is recommended by the manufacturer involved, he must use that equipment or apparatus or its equivalent acceptable to the CAA.
+
+#### Article 11
+
+Each person performing maintenance, preventive maintenance, rebuilding or alteration shall do that work in such a manner and use materials of such a quality, that the condition of the aircraft, its powerplant, propeller, component or part worked on will be at least equal to its original or properly altered condition.
+
+The aforementioned ‘equal to its original or properly altered condition ‘means with regard to aerodynamic function, structural strength, resistance to vibration and deterioration, and other qualities affecting airworthiness.
+
+#### Article 12
+
+Each person performing an inspection or maintenance specified in a manufacturer's maintenance manual, Airworthiness Limitations section of Instructions for Continued Airworthiness, shall perform the inspection or maintenance in accordance with operations specifications or maintenance program approved by CAA.
+
+### Section 2 Except to holder of Civil Air Transport Enterprise, provisions of maintenance and inspection for other aircraft owner or operator
+
+#### Article 13
+
+Except to holder of Civil Air Transport Enterprise, each person performing an inspection required by approved maintenance program shall perform the inspection so as to determine whether the aircraft, or portion(s) thereof under inspection, meets all applicable airworthiness requirements. Each person performing an inspection on a rotorcraft shall inspect the following systems in accordance with the maintenance manual or Instructions for Continued Airworthiness of the manufacturer concerned:
+
+1.The drive shafts or similar systems.
+
+2.The main rotor transmission gear box for obvious defects.
+
+3.The main rotor and center section (or the equivalent area).
+
+4.The auxiliary rotor on helicopters.
+
+#### Article 14
+
+Except to holder of Civil Air Transport Enterprise, each person performing an annual or 100-hour inspection shall follow the provisions:
+
+1.Use a checklist while performing the inspection. The checklist may be of the person's own design, one provided by the manufacturer of the equipment being inspected or one obtained from another source.
+
+2.Each person approving a reciprocating-engine-powered aircraft for return to service after an annual or 100-hour inspection shall, before that approval, run the aircraft engine or engines to determine satisfactory performance in accordance with the manufacturer's recommendations of:
+
+(1) Power output (static and idle r.p.m.);
+
+(2) Magnetos;
+
+(3) Fuel and oil pressure; and
+
+(4) Cylinder and oil temperature.
+
+Detail of the annual or 100-hour inspection items contained are listed in Attachment 6.
+
+Each person performing a progressive inspection shall, at the start of a progressive inspection system, inspect the aircraft completely. After this initialinspection:
+
+1.Routine and detailed inspections must be conducted as prescribed in the progressive inspection schedule. Routine inspections consist of visual examination or check of the aircraft, its powerplant, propeller, component or part, insofar as practicable without disassembly. Detailed inspections consist of a thorough examination of the aircraft, its powerplant, propeller, component or part, with such disassembly as necessary.
+
+2.If the aircraft is away from the station where inspections are normally conducted, an appropriately rated aircraft maintenance engineer, a certificated repair station, or the manufacturer whom is also certificated as repair station of the aircraft may perform inspections in accordance with the procedures and using the forms of the person who would otherwise perform the inspection.
+
+Each person approving a turbine-engine-powered aircraft for return to service after an annual, 100-hour, or progressive inspection shall, before that approval, run the aircraft engine or engines to determine satisfactory performance in accordance with the manufacturer's recommendations.
+
+### Section 3 Life-Limited Part
+
+#### Article 15
+
+Aircraft owner or operator shall submit a life-limited part control program which refers to recommendations from manufacture for CAA acceptance.
+
+#### Article 16
+
+Each person who removes a life-limited part from an aircraft, its powerplant, propeller, component or part, must ensure that the part is controlled using one of the methods in Attachment 7. The method must deter the installation of the part after it has reached its life limit.
+
+#### Article 17
+
+When a life-limited part is temporarily removed and reinstalled for the purpose of performing maintenance, no disposition under Article 16 is required if—
+
+1.The life status of the part has notchanged;
+
+2.The removal and reinstallation is performed on the same serial numbered product; and
+
+3.That product does not accumulate time in service while the part is removed.
+
+#### Article 18
+
+Each person who removes a life-limited part from a aircraft, its powerplant, propeller, component or part, and later sells or otherwise transfers that part must transfer with the part the mark, tag, or other record used to comply with this section, unless the part is mutilated before it is sold or transferred.
+
+### Section 4 Provisions for management of maintenance of airworthiness
+
+#### Article 19
+
+Aircraft’s owner or the operator who hold the Certificate of Airworthiness is vested with the responsibility of the proper maintenance of the aircraft and must comply with the requirements in performing checks and inspections before putting the aircraft into operation and maintain it in airworthy and safe operating conditions.
+
+The aircraft is considered to be unairworthy and not safe to operate when one of the following conditions occurs:
+
+1.Aircraft is found not to meet the initial airworthiness standards after the inspections by the CAA or its designated organization or agency.
+
+2.Aircraft is unable to be operated safely due to the revelations that owner or the operator do not comply with the requirements to perform proper maintenance.
+
+3.Aircraft is unable to be operated safely due to the revelations that owner or the operator do not comply with Airworthiness Directives published by the CAA, the Civil Aviation Authorities of State of Designor the State of Design of Modification.
+
+4.Purpose of usage, performance, characteristics of aircraft is changed by owner or the operator without the approval from the CAA.
+
+5.Aircraft is, except for maintenance purposes, grounded for more than 90 consecutive days.
+
+Owner or operator shall prevent the aircraft from operation when it is considered to be unairworthy and not safe to operate.
+
+For those who violate aforementioned provision, CAA shall revoke its Certificate of Airworthiness.
+
+#### Article 20
+
+Except for the free balloons, It is required that aircraft must be weighed for basic empty weight and balance once every three years, the weighing schedule may be extended with the approval from the CAA under special circumstances, but the extension can not exceed 1 year.
+
+Upon changes to the accumulation of basic empty weight of the aeroplane more than 0.5 percent of maximum landing weight or shifting of center of gravity more than 0.5 percent of mean aerodynamic chord, the aircraft shall be weighted. Upon changes to the basic empty weight of the helicopter more than 0.5 percent of maximum landing weight, the aircraft shall be weighted.
+
+In the case when the center of gravity or weight of the aircraft is changed after the completion of the above-mentioned weighing process, owner or operator is required to have their relevant weight and balance manuals revised to be in accordance with Aircraft Flight Operation Regulations.
+
+#### Article 21
+
+Aircraft major repair or major alteration must be performed in accordance with data approved by CAA. This requirement does not apply to any of these works done in compliance with the Airworthiness Directive issued by the CAA ,the aviation authorities of State of Design or the State of Design of Modification.
+
+Owner or operator who intends to fabricate the part for maintaining his own aircraft shall submit the fabrication procedures to CAA for approval.
+
+Unless the part is fabricated in accordance with CAA accepted data, no person can install that part onto aircraft.
+
+#### Article 22
+
+When performing maintenance, preventive maintenance, rebuilding, alteration or configuration to aircraft, its powerplant, propeller, component or part, Aircraft owner or operator shall not use the part which might not properly maintained, un-repairable or bogus part announced by manufacturer or the aviation authorities.
+
+#### Article 23
+
+Inspections of aircraft should follow the following procedure:
+
+\1. Aircraft should be clean and unloaded, screw loose all inspection bulkheads and covers.
+
+\2. Complete all maintenance, preventive maintenance and history records and work reports.
+
+\3. For certifying airworthiness, the CAA may consider it necessary to demand a function check flight. The report and record of such flight should be forwarded to the CAA.
+
+#### Article 24
+
+When an aircraft has sustained damage, the owner or operator shall judge whether the damage is of a nature such that the aircraft is still airworthiness as defined by the appropriate airworthiness requirements. The aircraft shall be allowed to resume its flight upon granted by CAA. When CAA considers that the damage sustained is of a nature such that the aircraft is no longer airworthy, owner or operator may apply a special flight permit from CAA to fly without fare-paying passengers to an aerodrome at which it will be restored to an airworthy condition.
+
+If the damage is sustained or ascertained when the aircraft is in the territory of another State, owner or operator shall advise the local aviation authority and CAA.
+
+#### Article 25
+
+Aircraft must have complete aircraft, structure, powerplant, and propeller historic record and log book.
+
+All entries should be completed within 30 days of the completion of the jobs.
+
+The up-keeping and replacement of the record books and log referred to the paragraph 1 of this Article should follow the following procedure:
+
+1.When using a new book to replace the used one, the used book should be kept and its conclusive data and a summary of major events be transferred to the new book.
+
+2.Aircraft, aircraft engine or propeller, in the event of destroyed beyond repair, salvaged or permanently grounded, its record book should be kept for 2 years by the owner or operator after the date of the happening.
+
+Aircraft owner or operator, upon approved by CAA, may use electronic record keeping system or other more precise and effective means for record management in place of record books or log required by this Article.
+
+#### Article 26
+
+(Deleted)
+
+#### Article 27
+
+The owner or operator shall ensure that in respect of aircraft, its powerplant, propeller, component or part, there exists a system whereby information on faults, malfunctions, defects and other occurrences that cause or might cause adverse effects on the continuing airworthiness of the aircraft is transmitted to the CAA within 72 hours and organization responsible for the type design of that aircraft. If necessary, inform the authority of State of design.
+
+#### Article 28
+
+The aircraft owner or operator shall comply with Airworthiness Directives issued by the CAA , the aeronautics authority of the State of design or the State of Design of Modification of the aviation products, appliances and parts, and take all necessary action thereto.
+
+The aircraft owner or operator may use an alternate mean to comply with requirements of Airworthiness Directives when it is approved by CAA.
+
+## Chapter 3 Supplementary Provisions
+
+#### Article 29
+
+(Deleted)
+
+#### Article 30
+
+This regulation becomes effective on the date of its publication.
+
+## Attachments
+
+- [Attachment 1 Persons authorized to perform and return to service an aircraft, its powerplant, propellers, component or part after maintenance, preventive maintenance, rebuilding or alteration.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008463)
+- [Attachment 2 Items for Major Alterations, Major Repairs, and Preventive Maintenance.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008464)
+- [Attachment 3 CAA Form 337.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008465)
+- [Attachment 4 Recording of Major Repairs and Major Alterations.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008466)
+- [Attachment 5 Statements for approval or disapproval the aircraft to return to service.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008467)
+- [Attachment 6 Scope and Detail of Items (as Applicable to the Particular Aircraft) To Be Included in Annual and 100-Hour Inspections for holder of non-Civil Air Transport Enterprise.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008468)
+- [Attachment 7 Management provisions of Life-limited part for aircraft, its powerplant, propellers, component or part.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008469)
+
+## History
+
+1.Re-edited all articles promulgated on April 3, 1972.
+
+2.Amendment to articles promulgated on December 20, 1974.
+
+3.Amendment to articles promulgated on October 13, 1980.
+
+4.Amendment to articles promulgated on January 21, 1983.
+
+5.Re-edited 31 articles promulgated on November 15, 1985.
+
+6.Amendment to Articles 2, 8, 11, 12, 17, 18, 19, 23, 24, and 28, addition of Article 29-1 promulgated on June 30, 1994.
+
+7.Amendment to Articles 1, 3, 8, 13, 14, 15, 17, 19, 20, 22, 23, 24, and 28 promulgated on December 20, 1999.
+
+8.Amendment to Articles 1, 2, 6, 12, and 21 promulgated on August 15, 2002.
+
+9.Addition of Article 8-1 promulgated on March 16, 2006.
+
+10.Amendment to Articles 29-1 promulgated on August 28, 2007.
+
+11.Re-edited all articles and promulgated on August 14 2008
+
+12.Amendment Articles 1, 14, 26 and Attachment 1, Attachment 3 on December 2 2015. (Original name: Regulations for Aircraft Airworthiness Certification and Maintenance Management)
+
+13.Amendment to Articles 3, 6, 8, 9, 10, 11, 20, 22 and 28, deletion of Article 29 promulgated on October 16, 2019.
+
+14.Amendment to Articles 2, 8, 19, 20 and Attachment 1, deletion of Article 26 promulgated on April 13, 2021.
+
+15.Amendment to Articles 19, 21, 28 and Attachment 3, promulgated on March 15, 2024.

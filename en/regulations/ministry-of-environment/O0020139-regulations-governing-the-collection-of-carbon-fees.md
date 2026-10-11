@@ -1,0 +1,211 @@
+---
+title: "Regulations Governing the Collection of Carbon Fees"
+title_zh: "碳費收費辦法"
+identifier: "O0020139"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞氣候變遷目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2024-08-29
+last_amended: 2026-09-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020139"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Collection of Carbon Fees
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020139-regulations-governing-the-collection-of-carbon-fees.md](../../../zh/regulations/ministry-of-environment/O0020139-regulations-governing-the-collection-of-carbon-fees.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 27, Paragraph 2; Article 28, Paragraph 4; and Article 30, Paragraph 2 of the Climate Change Response Act (hereinafter referred to as "this Act").
+
+## Article 2
+
+The term "carbon fee," as mentioned in these Regulations, refers to the fee levied on the direct emissions of greenhouse gases and the indirect emissions of greenhouse gases from electricity usage, after being inventoried, registered, verified, and converted into carbon dioxide equivalents.
+
+## Article 3
+
+The carbon fee is levied on emission sources whose greenhouse gas emissions must be inventoried, registered, and verified, as stipulated in Paragraph 1 of Article 21 of this Act. This applies to industries, including power and gas supply industries as well as manufacturing industries (hereinafter referred to as "entities"), where the total annual emissions—comprising both direct emissions from the entire factory (site) and indirect emissions from electricity use—exceed 25,000 metric tons of carbon dioxide equivalents.
+
+## Article 3-1
+
+Where an entity meets the requirements of the preceding article for the first time, its obligation to declare and pay carbon fees shall commence in accordance with Article 4, Paragraph 1, in the year following the year in which it is required to complete the inventory, registration and verification of its greenhouse gas emissions for the preceding year.
+
+The “entity" that "meets the requirements of the preceding article for the first time” in the preceding paragraph refers to an entity that, for the first time, meets the emission source conditions announced by the central competent authority as being subject to the inventory, registration and verification of greenhouse gas emissions, and that has neither declared greenhouse gas emissions for the same entity or the same emission source under the Regulations Governing the Inventory, Registration and Verification of Greenhouse Gas Emissions, nor declared and paid carbon fees under these Regulations.
+
+## Article 4
+
+Starting from the year following the announcement of the charging rates of carbon fees, and before the end of May each year, entities should calculate their greenhouse gas emissions based on the announced rate for emissions from January 1 to December 31 of the previous year. After determining the amount due, entities must fill out the carbon fee report form and payment form based on the format determined by the central competent authority
+
+Entities shall fill out the carbon fee declaration form and payment slip based on the format determined by the central competent authority, pay the carbon fee for the previous year to the financial institution account designated by the central competent authority and make a filing with the central competent authority via the internet before the last day of May of each year. However, if the central competent authority grants its consent, the filing may be made in writing.
+
+If the period covered by the carbon fee in the first year is less than one year, the payable fee shall be calculated on a pro-rata monthly basis, starting from the effective date of the announcement of the charging rates of carbon fees.
+
+## Article 5
+
+The payable carbon fee is determined by multiplying 'chargeable emissions' by the 'fee rate'.
+
+The amount of chargeable emissions, as mentioned in the preceding paragraph, is determined by the formula:
+
+(Annual emissions – K value) × emission adjustment coefficient
+
+The K value in the preceding paragraph is set at 25,000 metric tons of carbon dioxide equivalents. For entities at high risk of carbon leakage, the K value is zero.
+
+The calculation of chargeable emissions shall be rounded to the third decimal place, while the payable carbon fee shall be rounded to the nearest whole number, with any decimal values being rounded off unconditionally.
+
+## Article 6
+
+For entities that have obtained approval from the central competent authority for a self-determined reduction plan and have been reviewed and recognized as belonging to industries with high carbon leakage risks, the applicable emission adjustment coefficients are specified as follows:
+
+The emission adjustment coefficient value for the first phase is 0.2.
+
+The emission adjustment coefficient value for the second phase is 0.4.
+
+The emission adjustment coefficient value for the third phase is 0.6.
+
+For entities that are not classified as having high carbon leakage risks, the applicable emission adjustment coefficient value is 1.
+
+Entities seeking classification as having high carbon leakage risks and the application of the emission adjustment coefficient in Paragraph 1 must apply to the central competent authority before January 31 of the payment year. The review and determination shall be conducted by the central competent authority, using review principles that consider factors such as emission intensity, trade intensity, and other relevant factors.
+
+To conduct the review mentioned in the preceding paragraph, the central competent authority shall form a review team in collaboration with the central industry competent authorities. The review must be completed within three months, and a decision of approval or rejection shall be made in accordance with the review principles outlined in the preceding paragraph.
+
+## Article 7
+
+Entities that offset the increased GHG emissions in accordance with Article 24 of this Act or as specified in the environmental impact assessment document, during the carbon fee declaration process, submit relevant supporting documents along with an application to the central competent authority for the deduction of annual emissions as stipulated in Paragraph 2 of Article 5. The rate at which an entity uses reduction credits to offset its annual emissions deductions shall depend on the type of reduction credits utilized by the entity and shall be conducted in accordance with the provisions of Paragraph 1 of Article 9.
+
+## Article 8
+
+In order to apply to the central competent authority for the deduction of annual emissions as specified in Paragraph 2 of Article 5, entities of electric power production shall submit documentation of proof concerning emissions by consumers of power provided by direct emission sources during the carbon fee declaration process.
+
+The emission certification documents for electricity consumption, as mentioned in the preceding paragraph, including relevant information on the amount of electricity produced and sold in bulk to public electricity sellers or supplied to specific users without wholesale sales, as well as the corresponding carbon emission intensity.
+
+## Article 9
+
+In accordance with the provisions of Article 30 of this Act, an entity may apply for the deduction of charged emissions under Paragraph 2 of Article 5 using domestic reduction credits. The upper limit of the deduction shall not exceed 10% of the entity’s charged emissions. The types of reduction credits and their respective deduction ratios are as follows:
+
+\1. For voluntary emission reduction project or offset project reduction credits obtained in accordance with Greenhouse Gas Voluntary Emission Reduction Projects Regulations or Greenhouse Gases Offset Projects Regulations, the deduction ratio is 1.2.
+
+\2. For early action project credits obtained prior to the amendment and enforcement of this Act, in accordance with Directions for Promoting Greenhouse Gas Early Action Project and Offset Project, Environmental Protection Administration, Executive Yuan: where used by an entity that is not reviewed and determined to be at high carbon leakage risk, the deduction ratio is 0.3; where used by an entity that is reviewed and determined to be at high carbon leakage risk, the deduction ratio is 0.1.
+
+The reduction credits obtained under Subparagraph 2 of the preceding paragraph may only be used to deduct charged emissions during the first three years after the carbon fee is levied.
+
+The central competent authority shall regularly review the upper limit and ratio of charged emissions deducted from domestic reduction credits, as specified in Paragraph 1, based on actual implementation conditions.
+
+## Article 10
+
+Entities that are reviewed as not classified as having high carbon leakage risk apply for the deduction of charged emissions under Paragraph 2 of Article 5 in accordance with the provisions of Article 27 of this Act, must use international reduction credits recognized by the central competent authority. The upper limit of the deduction shall not exceed 5% of the entity’s charged emissions.
+
+The central competent authority shall regularly review the upper limit of charged emissions deducted from international reduction credits, as mentioned in the preceding paragraph, based on actual implementation conditions.
+
+## Article 11
+
+Entities that use reduction credits to deduct charged emissions in accordance with the provisions of the previous two articles, before the end of May each year, submit the relevant supporting documents for the cancellation of reduction credits during the carbon fee declaration process to the central competent authority for the calculation of charged emissions. The entity shall apply for the deduction of charged emissions as specified in Paragraph 2 of Article 5.
+
+## Article 12
+
+In order to carry out auditing operations of carbon fee, the central competent authority may notify the entity to submit the following relevant information for calculating GHG emissions within fifteen days:
+
+\1. A layout diagram of the entity's emission sources and the flowcharts of the industrial manufacturing process.
+
+\2. Records or documents related to GHG emissions, detailing information such as raw materials, types of fuels, compositions, caloric values, usage, types of products, production volumes, or other operational reports and records designated by the central competent authority.
+
+\3. On-site operational record report of the manufacturing process.
+
+\4. Relevant data for receiving, production, sales, inventory receipts, account books, and other records of production and marketing operations, or import and export data.
+
+\5. When the entity uses reduction credits to offset charged emissions, the relevant supporting documents for the source of the reduction credits shall be submitted.
+
+\6. Information regarding the GHG emissions intensity related to power production's public electricity retailing utility at wholesale or the amount of electricity provided to specific accounts, without going through wholesale.
+
+\7. Relevant documents proving that the entity has implemented its self-determined reduction plan and adopted specific reduction measures.
+
+\8. When the entity uses the reduction credit to deduct charged emissions, it must provide the source of the reduction credit and the relevant documents for offset approval.
+
+\9. Other documents designated by the central competent authority.
+
+If an entity is unable to submit the relevant information specified in the preceding paragraph within fifteen days, it may apply to the central competent authority for an extension before the expiration of the time limit, and the extension period shall not exceed fifteen days.
+
+## Article 13
+
+If an entity has paid carbon fees in accordance with the provisions of Article 4 and an overpayment is determined by the central competent authority, and the overpaid amount is less than NT$2,000, it shall be applied toward the subsequent fee payable and will not be refunded. If the overpaid amount exceeds NT$2,000, the entity may apply to the central competent authority for a refund of the overpayment without interest.
+
+## Article 14
+
+If the central competent authority discovers that an entity has unpaid or underpaid carbon fees, it may calculate the outstanding amount based on the product output, raw material usage, fuel usage, or other relevant information from its GHG emission source. The carbon fee payable must be paid within ninety days. If the carbon fee is not paid before the deadline, it shall be handled in accordance with the provisions of Article 60 of this Act.
+
+## Article 15
+
+Should one of the following circumstances apply to an entity, the central competent authority shall order the entity to pay the carbon fee within ninety days. If the entity fails to pay the carbon fee by the deadline, it shall be handled in accordance with the provisions of Article 60 of this Act:
+
+\1. The entity implements a self-determined reduction plan and is found, after verification by the central competent authority, to have failed to meet the designated target.
+
+\2. The self-determined reduction plan is cancelled by the central competent authority.
+
+\3. If an entity uses a reduction credit to deduct charged emissions in Article 5, the reduction credit issued by the central competent authority is cancelled.
+
+\4. Entities that are determined to be at high carbon leakage risk after review are no longer classified as such due to changes in industry category, equipment replacement or expansion, manufacturing processes, raw materials, fuels, or products.
+
+\5. Other circumstances as determined by the central competent authority.
+
+## Article 16
+
+Entities that have been notified by the central competent authority, in accordance with the provisions of the previous two articles, to pay off the outstanding amount within a time limit, and are unable to pay the outstanding amount before the deadline due to one of the following circumstances, may submit relevant supporting documents to the central competent authority before the deadline and apply for installment payment:
+
+\1. Experiencing significant property losses due to natural disasters, epidemics, or other uncontrollable circumstances.
+
+\2. Upon verification by the competent authority, the supplementary fees should be paid are more than NT$5 million.
+
+For those allowed to pay in installments, interest shall be accrued daily from the day after the overdue deadline to the date of payment of the last installment based on the fixed annual interest rate for a one-year time deposit with the Directorate General of the Postal Remittances and Savings Bank on the date of payment. Postdated checks for all monthly installments shall be sent to the central competent authority. Should payment on any of the installment checks not be received, the central competent authority shall proceed pursuant to Article 60 of this Act.
+
+## Article 17
+
+For any entity that applies toward the carbon fees in installments in accordance with the provisions of the preceding article, if any document filed is inconsistent with the requirements or incomplete, the central competent authority shall request it to make corrections within seven days. If the corrections are not made within the period, the application will be rejected.
+
+The central competent authority may approve the amount payable under each installment and the number of installments in accordance with the following standards:
+
+\1. If the amount to be made up is less than NT$10 million, the payment may be made in 2 to 6 installments and each installment amount shall not be less than NT$1 million.
+
+\2. If the amount to be made up is more than NT$10 million and less than NT$50 million, the payment may be made in 2 to 12 installments and each installment amount shall not be less than NT$2 million.
+
+\3. If the amount to be made up is more than NT$50 million, the payment may be made in 2 to 24 installments and each installment amount shall not be less than NT$3 million.
+
+\4. If the amount to be made up is more than NT$250 million and the public or private premise provides a promissory note, Registration of Creation of Mortgage, certified check or security pleading, the installment may be extended and the payment may be made in no more than 36 installments and each installment amount shall not be less than NT$5 million.
+
+The installments referred to in the preceding paragraph shall be payable monthly.
+
+## Article 18
+
+When an entity has suspended business, permanently shut down, or dissolved, it should submit relevant supporting documents to the central competent authority to apply for carbon fee settlement and halt fee collection within ninety days from the date of the event.
+
+The central competent authority shall settle the carbon fees payable by entities in accordance with the preceding paragraph. If an overpayment is determined after settlement, the overpaid fees will be refunded without interest.
+
+## Article 19
+
+In order to collect carbon fees, the central competent authority may request the relevant industry competent authorities to provide information within their authority or relevant supporting documents to review and calculate the GHG emissions of an entity.
+
+## Article 20
+
+When an entity declares or pays carbon fees in accordance with the provisions of Article 4, its carbon fee declaration materials, payment receipts, information related to the implementation results of the self-determined reduction plan, sources of reduction credits, and relevant documents, records, and certification materials for offset approval should be kept for six years.
+
+## Article 21
+
+Entities that are unable to complete carbon fee declaration or payment before the deadline due to natural disasters, epidemics, or other force majeure events should state the reasons in writing and submit the relevant information before the expiration of the prescribed time limit. They may apply to the central competent authority for an extension, and upon approval, the central competent authority may adjust the declaration or payment deadline accordingly.
+
+## Article 22
+
+The central competent authority may delegate or authorize relevant agencies or institutions to conduct the review, settlement, calculation, verification, notification, inspection, follow-up payment of any insufficient amounts, and refund of overpayments related to the collection and declaration of carbon fees.
+
+## Article 23
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Full text in 23 articles promulgated by the Ministry of Environment Order Huan-Pu-Chi-Tzu No.1139109435 on August 29, 2024.
+
+\2. Revisions to Article 9 and the addition of Article 3-1 promulgated by the Ministry of Environment Order Huan-Pu-Chi-Tzu No.1159110565 on September 1, 2026.

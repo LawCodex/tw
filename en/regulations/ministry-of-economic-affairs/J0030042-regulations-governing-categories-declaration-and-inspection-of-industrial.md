@@ -1,0 +1,120 @@
+---
+title: "Regulations Governing Categories, Declaration, and Inspection of Industrial Precursor Chemicals"
+title_zh: "先驅化學品工業原料之種類及申報檢查辦法"
+identifier: "J0030042"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞產業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-12-23
+last_amended: 2025-09-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030042"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Categories, Declaration, and Inspection of Industrial Precursor Chemicals
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0030042-regulations-governing-categories-declaration-and-inspection-of-industrial.md](../../../zh/regulations/ministry-of-economic-affairs/J0030042-regulations-governing-categories-declaration-and-inspection-of-industrial.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with Paragraph 2, Article 31 of the Narcotics Hazard Prevention Act (the "Act").
+
+## Article 2
+
+The competent authority for these Regulations shall be the Ministry of Economic Affairs.
+
+The Ministry of Economic Affairs may appoint its subordinate agencies or delegate municipal/county/city governments, science park administrations, or private entities to handle matters to be executed under these Regulations.
+
+## Article 3
+
+Industrial precursor chemicals as referred to in the Act shall mean raw materials usable to make narcotics. They are categorized into two types based on their properties, each including the following items:
+
+1.Category A precursor chemicals (involved in reactions and becoming part of the chemical structures of narcotics, or classified as chemicals used in production of narcotics as announced by the competent authority): acetic anhydride (ethanoic anhydride), phenylacetic acid, anthranilic acid (o-Aminobenzoic acid), N-acetylanthranilic acid, isosafrole, piperonal (3,4-Methylenedioxybenzaldehyde), safrole, piperidine, thionyl chloride, palladium chloride, red phosphorus, iodine, hydriodic acid, hypophosphorous acid, methylamine and benzyl cyanide (as shown in Table I).
+
+\2. Category B precursor chemicals (involved or not involved in reactions and not becoming part of the chemical structures of narcotics): hydrochloric acid (muriatic acid) having a specific gravity reaching 1.2 or concentration 39.1 w/w % , sulphuric acid having a specific gravity reaching 1.84 or concentration 95~98 w/w %, potassium permanganate, toluene, diethyl ether (ethyl ether), acetone, methyl ethyl ketone (butanone), and ethyl benzoate (as shown in Table II).
+
+## Article 4
+
+The declaration and inspection of industrial precursor chemicals shall include procedures for import, export, production, sale, use and storage, as well as the quantities and premises of the industrial raw materials.
+
+## Article 5
+
+Companies that are obligated to file declarations and receive inspection under these Regulations refer to corporations partnerships, or sole proprietorships that engage in the import, export, production, sale, use, or storage of industrial precursor chemicals.
+
+## Article 6
+
+A company hereunder shall maintain detailed books and records containing the following particulars regarding its industrial precursor chemicals for inspection.
+
+\1. Category A precursor chemicals: Procedures for import, export, production, sales, use and storage, types, quantities, premises, trading counterparties, customs declaration numbers, and invoice numbers.
+
+\2. Category B precursor chemicals: Procedures for import, export, types, quantities, premises, trading counterparties, customs declaration numbers, and numbers of payment records.
+
+Within one month after the end of each quarter, a company hereunder shall declare its Category A industrial precursor chemicals in that quarter by filing a photocopy of the books and records for the quarter with the competent authority or the agencies or entities appointed or delegated by the competent authority.
+
+The formats of the books and records hereunder shall be separately prescribed and announced by the competent authority, so are any modifications thereof.
+
+## Article 6-1
+
+If a company fails to file the declaration hereunder or files a false declaration, the competent authority may order the company to file monthly declarations.
+
+If a company that is ordered to file monthly declarations complies with the order, the competent authority may lift the order based on the circumstances.
+
+## Article 7
+
+The competent authority may inspect the books, records, and premises of a company, and the company shall not evade, impede or reject the inspection.
+
+The inspection hereunder shall be conducted by random spot check. The competent authority or the agency or entity appointed or delegated by it shall designate examiners to perform the spot checks with the following emphases:
+
+\1. Daily statements and monthly statements of materials used for production.
+
+\2. Warehouse books and records of incoming and outgoing raw materials and finished products.
+
+\3. Trading vouchers, books, and records.
+
+\4. Certification documents relating to imports and exports.
+
+\5. Production, manufacturing, and storage places.
+
+When entering factories and business places, examiners designated by the competent authority or an agency or entity appointed or delegated by it shall present their identification documents.
+
+If a company evades, impedes or rejects the inspection, the competent authority or the agency or entity appointed or delegated by it may request the local police to assist in conducting the inspection.
+
+## Article 8
+
+The books, records, and the supporting documents under Article 6 of these Regulations shall be kept for three years.
+
+## Article 9
+
+The Regulations shall come into force from the date of their promulgation.
+
+The articles amended on April 29, 2011 shall come into force from July 1, 2011.
+
+The articles amended on April 24, 2015 shall come into force from May 1, 2015.
+
+## Attachments
+
+- [Table I – Category A.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009423)
+- [Table II – Category B.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009424)
+
+## History
+
+\1. A total of nine articles were promulgated on December 23, 1998 by the MOEA per Decree No. 87-Ching-Gong-Tzi-87229531.
+
+\2. The amendment to Article 6 was promulgated on January 17, 2001 by the MOEA per Decree No. 90-Ching-Gong-Tzi-89231562.
+
+\3. The amendment to Article 2 and the addition of the new Article 6-1 were promulgated on March 24, 2004 by the MOEA per Decree No. Ching-Gong-Tzi-09304210360.
+
+\4. The amendments to Articles 3 and 6, and Tables I and II attached to Article 3 were promulgated on June 10, 2008 by the MOEA per Decree No. Ching-Gong-Tzi-09704602920.
+
+\5. The amendments to Articles 3 and 9, and Tables I and II attached to Article 3 were promulgated on April 29, 2011 by the MOEA per Decree No. Ching-Gong-Tzi-10004602510.
+
+\6. The amendments to Articles 3 and 9, and Tables I and II attached to Article 3 were promulgated on April 24, 2015 by the MOEA per Decree No. Ching-Gong-Tzi-10402037130
+
+\7. The amendments to Tables I attached to Article 3 were promulgated on June 05, 2017 by the MOEA per Decree No. Ching-Gong-Tzi- 10604602450
+
+\8. The amendments to Article 3 and Table 1 were promulgated on September 3, 2025 by the MOEA per Decree No. Ching-Chan -Tzi-11451025570.

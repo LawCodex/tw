@@ -1,0 +1,619 @@
+---
+title: "Regulations on Aids for Legal Service and Living Expenses of Labor-Management Disputes"
+title_zh: "勞資爭議法律及生活費用扶助辦法"
+identifier: "N0020018"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動關係目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2011-04-29
+last_amended: 2025-12-15
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0020018"
+retrieved: 2026-10-12
+---
+
+# Regulations on Aids for Legal Service and Living Expenses of Labor-Management Disputes
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0020018-regulations-on-aids-for-legal-service-and-living-expenses-of-labor-management.md](../../../zh/regulations/ministry-of-labor/N0020018-regulations-on-aids-for-legal-service-and-living-expenses-of-labor-management.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+The Regulations are prescribed in accordance with Paragraph 5 to Article 6 of the Act for Settlement of Labor-Management Disputes (here-in-after referred to as the Act)
+
+### Article 2
+
+The scope of aid for workers in labor-management disputes includes the following:
+
+\1. Fees for attorneys representing workers (hereinafter referred to as representation fees) in procedures of mediation for labor incidents (hereinafter referred to as labor mediation), litigation procedures, injunctive procedures, supervisory procedures and compulsory execution procedures, and for drafting legal documents;
+
+\2. Representation fees for filing lawsuits before commencement of criminal trial procedures;
+
+\3. Necessary expenditures incurred in the procedures referred to in the preceding two subparagraphs;
+
+\4. Necessary living expenses that workers require during labor mediation and litigation periods;
+
+\5. Representation fees for arbitration procedures conducted in accordance with the Arbitration Act and this Act;
+
+\6. Representation fees for attorneys filing cases on behalf of workers, job applicants, or unions to seek adjudication of disputes resulting from unfair labor practices as specified in Article 35 of the Labor Union Act.
+
+## Chapter II Aids for Agency Service of Labor Incident Handling and Criminal Accusation
+
+### Article 3
+
+When a worker insufficient in financial resources motions for labor mediation or files litigation due to unsuccessful mediation by the competent authority and has one of the following situations, he/she may apply for the aid referred to in Subparagraph 1 of the preceding article:
+
+\1. Dispute with employer involving labor contract termination in accordance with the Labor Standards Act, unpaid salary, severance, or retirement payment (labor pension).
+
+\2. Employer failing to compensate or pay damages for occupational accidents.
+
+\3. Employer failing to insure the worker in accordance with the Labor Insurance Act, Labor Occupational Accident Insurance and Protection Act, or the Employment Insurance Act or under-declaring insured salary that causes damage to the worker.
+
+When a labor union insufficient in financial resources considers an employer has infringed on the interests of most of its members and subsequently files litigation due to unsuccessful mediation by the competent authority, the labor union may apply for the aids referred to in Paragraph 1 to Article 40 of Labor Incident Act.
+
+If a labor insufficient in financial resources meets the circumstances stated in Paragraph 1 and selects labor union to file litigation to the court according to Paragraph 1 to Article 44-1 of Taiwan Code of Civil Procedure, the labor union may apply for the aids referred to in Subparagraph 1 of the preceding article.
+
+Where any of the applications mentioned in the preceding three paragraphs falls under any of the following circumstances, the applicant may apply for the aid referred to in Subparagraph 1 of the preceding article without undergoing the mediation procedure by the competent authority:
+
+\1. Where the litigation process has entered the second instance, third instance, retrial, or final enforcement proceedings.
+
+\2. Where the employer fails to fulfill the terms of mediation concluded by the competent authority and the worker files for provisional remedy or compulsory execution.
+
+If the worker has deceased or is incapacitated due to other reasons, his/her survivor or guardian may apply for the aids referred to in Subparagraph 2 of Paragraph 1.
+
+Where a worker suffers serious injury or death as a result of an occupational accident, and the worker, the survivors specified in the preceding paragraph, or the legal representative applies for aid in accordance with Subparagraph 2 of Paragraph 1 or the preceding paragraph, the restriction on financial resources prescribed in Paragraph 1 shall not apply.
+
+Where a worker, the survivors specified in Paragraph 5, the legal guardian, or a labor union applies for the aids referred to in Subparagraph 1 of the preceding article, he/she shall file within 180 days from the date that the procedures concerned commence.
+
+### Article 3-1
+
+Where a worker or the surviving family members or legal representative as specified in Paragraph 5 of the preceding article has been approved to receive aid for representation fees in accordance with Paragraph 1 of the preceding article, and the employer files a counterclaim in the same litigation proceedings, the worker or the aforementioned party may apply for the aid referred to in Subparagraph 1 of Article 2 without undergoing the mediation procedure by the competent authority.
+
+### Article 4
+
+When the employer acts according to Paragraph 1, Article 48 of Act for Settlement of Labor-Management Disputes and files a civil litigation against a worker over the same case that has been confirmed by the Board on Unfair Labor Practices as an unfair labor practice and the worker in concern lacks sufficiency in financial resources, the worker may apply for the aid prescribed in Subparagraph 1 of Article 2 without going through mediation by the competent authority.
+
+### Article 5
+
+Where a worker suffers an occupational accident due to the employer’s violation of the Occupational Safety and Health Act, and a criminal complaint has been filed and the worker is a person with insufficient financial resources, the worker or the person entitled to file the complaint may apply for the aid specified in Subparagraph 2 of Article 2.
+
+Where a worker suffers serious injury or death as a result of an occupational accident and the worker or the person entitled to file the complaint applies for aid pursuant to the preceding paragraph, the restriction on financial resources prescribed in the preceding paragraph shall not apply.
+
+### Article 6
+
+The term sufficiency of financial resources used in Paragraphs 1 and 3 of Article 3, Article 4, Paragraph 1 of the preceding article, Subparagraphs 1 and 3 of Paragraph 1 of Article 15, and Subparagraph 1 of Paragraph 1 of Article 35 refers to situations where the applicant or the party earns over NT$65,000 (same currency applies hereinafter) per month or owns assets worth more than NT$3 million dollars in total at the time of application. However, the property that the applicant or the party owns and lives at is not included.
+
+The term sufficiency of financial resources used in Paragraph 2 of Article 3, Subparagraph 2 of Paragraph 1 of Article 15, and Subparagraph 2 of Paragraph 1 of Article 35 refers to situations where the current assets of the labor union in the previous year exceeded NT$5 million.
+
+If an applicant or a party as stated in the Paragraph 1 has to pay regular expenses needed to take care of family members suffering critical injuries or diseases, or the applicant or the party is a financially insufficient single parent providing for his or her children and looking after lineal relatives and not deducting part of the income or assets in income or asset calculation would obviously be inconsistent with the purpose of such aid, such part of income or assets may be deducted.
+
+### Article 7
+
+The standards of remuneration for representation of labor mediation and litigation are as follows:
+
+\1. For individual applicants, the maximum aid for each stage of labor mediation or litigation is NT$40,000. However, in cases deemed complex and necessary upon review, the amount may be increased to NT$60,000.
+
+\2. For joint applicants, the maximum aid for each stage of labor mediation or litigation is NT$100,000. However, in cases deemed complex and necessary upon review, the amount may be increased to NT$200,000.
+
+\3. For applications for injunctive procedures, the maximum aid is NT$30,000 per instance.
+
+\4. For applications for supervisory procedures, the maximum aid is NT$10,000 per instance.
+
+\5. For applications for compulsory execution procedures, the maximum aid is NT$40,000 per instance.
+
+\6. For applications for legal document drafting, the maximum aid is NT$10,000 per document.
+
+For persons applying for aids in accordance with Paragraphs 2 or 3 to Article 3 of the Act, the standards of remuneration for agency service shall be handled in accordance with Subparagraph 2 of the preceding paragraph.
+
+### Article 8
+
+When more than one worker individually and separately apply for remuneration for agency service of labor mediation or civil litigation with regard to the labor dispute of the same reasons and facts, the Central Competent Authority may consolidate and process their applications as one single case, and handle the matters according to Paragraph 1 of the preceding article.
+
+### Article 9
+
+Workers, or the surviving family members or legal representatives as specified in Paragraph 5 to Article 3, applying for remuneration for agency service of labor mediation or civil litigation shall submit the following documents:
+
+\1. Application form.
+
+\2. The labor-management dispute statement and relevant supporting evidence.
+
+\3. Statement and supporting documents regarding the worker's financial status; if there is any deduction of income or assets as provided for in Paragraph 3 to Article 6, relevant supporting documents thereof shall be submitted separately.
+
+\4. Photocopy of the competent authority’s mediation record, whether established or unsuccessful.
+
+\5. An affidavit stating that no aid of the same nature from other government agencies or private organizations entrusted by government agencies has been received.
+
+Labor unions applying for remuneration for agency service of labor mediation or civil litigation shall submit the following documents:
+
+\1. Application form.
+
+\2. The labor-management dispute statement and relevant supporting evidence.
+
+\3. Photocopy of the competent authority’s mediation record, whether established or unsuccessful.
+
+\4. An affidavit stating that no aid of the same nature from other government agencies or private organizations entrusted by government agencies has been received.
+
+\5. Copy of certificate of registration of labor union.
+
+\6. Proof of matters submitted pursuant to Article 31 of the Labor Union Act and approved and filed by the competent authority within the most recent year.
+
+Persons applying for aids in accordance with Paragraph 3 to Article 3 shall submit documents stated in Subparagraph 3 of Paragraph 1.
+
+Persons applying for aids in accordance with Paragraph 6 of Article 3 or Paragraph 2 of Article 5 are exempt from submitting the documents specified in Subparagraph 3 of Paragraph 1, and shall submit the Preliminary Analysis Form for Occupational Accident Inspection or the Major Occupational Accident Inspection Report.
+
+Persons applying for aids in accordance with Article 4 of the Act shall also submit the decision award on unfair labor practices.
+
+Applicants applying for aid in accordance with Subparagraph 1 of Paragraph 4 of Article 3, Article 3-1, Article 4, or Paragraph 1 of Article 5 are exempt from submitting the document specified in Subparagraph 4 of Paragraph 1 above.
+
+### Article 10
+
+When there is one of the following situations, the application for remuneration for agency service of labor mediation or civil litigation will be rejected:
+
+\1. The labor mediation or litigation will bring no substantial benefit or its winning prospect is apparently none.
+
+\2. The same aid item of the same nature for the same case has been provided by other government agencies or private organizations entrusted by government agencies.
+
+\3. The application is inconsistent with Article 3 or 4.
+
+\4. The application is inconsistent with Article 5.
+
+\5. The application documents or supporting documents are counterfeit, forged, false, or invalid.
+
+\6. The application is not filed within a given period in accordance with Paragraph 7 of Article 3, or the application documents are incomplete and not corrected within the given period after being notified.
+
+\7. The benefits for the worker or the labor union from winning the case are less than the remuneration for the attorney-at-law. However, this shall not apply where the case has significant impact or importance to society or the public interest.
+
+\8. The counterpart of the case is the Executive Yuan or the Central Competent Authority and its subordinate agencies (institutions).
+
+\9. The application is inconsistent with the objectives of the aid prescribed in the Act.
+
+### Article 11
+
+When the application is approved after reviewing, the applicant shall appoint a suitable attorney-at-law from the name list of attorneys-at-law for legal aids provided by the Central Competent Authority.
+
+The Central Competent Authority shall assign an attorney-at-law from the name list of attorneys-at-law if the applicant cannot appoint one in accordance with the preceding paragraph.
+
+The appointed attorney-at-law shall charge the rate for the legal service in accordance with the standards of remuneration for agency service of civil litigation, and shall not charge any extra expenses.
+
+The Central Competent Authority shall remove an attorney-at-law in violation of the preceding paragraph from the name list of attorneys-at-law for aids.
+
+### Article 12
+
+When a case of aids has been approved, the appointed attorney-at-law shall prepare such documents as indictment, statement of claims, his/ her bank account, notices of court session and related receipts within ninety days from the date of approval and apply to the Central Competent Authority for appropriation.
+
+When a case of aids has been approved, if the appointed attorney-at-law who has successfully achieved labor mediation as referred to in Labor Incident Act or settlement prescribed in the Civil Procedures Act shall be paid for the rate of his/her legal service in accordance with the standards of remuneration for agency service of civil litigation.
+
+### Article 13
+
+When a case of aids has been approved, if the applicant fails to comply with the implementation of aids, passes away, goes missing or for other reasons to make the aids not necessary to be continued further, the Central Competent Authority may terminate his/her Aids.
+
+When a case of aids has been approved, if the applicant has one of the situations prescribed in Subparagraph 2 or 5 of Article 10, the Central Competent Authority may revoke his/her aids.
+
+When any of the situations referred to in the preceding paragraph occurs, the Central Competent Authority shall order the applicant to return all the remuneration that has been appropriated to the appointed attorney-at-law within a given period. If the applicant does not return within the given period, retrieving measures shall be taken in accordance with related statutes.
+
+The applicant who fails to return the expenses in accordance with the preceding paragraph shall not be allowed to apply for the aids within five years from the date of revoking his/her aids in accordance with the second paragraph.
+
+### Article 14
+
+If the agency remuneration is not borne by the applicant, the aid amount received shall be refunded within 30 days after the compensation is obtained, and the refunded amount shall not exceed the amount of aid granted.
+
+The Central Competent Authority shall repeal the original aid approval and demand return of already disbursed amount if an applicant fails to return the amount as specified in the preceding paragraph. Legal action shall be taken if such an applicant fails to return the amount within the given period. Such an applicant may not apply for the aid specified in Article 2 for five years starting from the date the aid approval is repealed.
+
+Where the applicant is unable to refund the aid for representation fees specified in the preceding paragraph in a lump sum due to financial hardship, the applicant may apply to the central competent authority for an extension of the repayment period or for installment payments.
+
+## Chapter III Aid for Necessary Expenditures in Labor Incidents and Criminal Cases
+
+### Article 15
+
+Workers who have any of the following circumstance may apply for the aid for necessary expenditures specified in Subparagraph 3 of Article 2:
+
+\1. Where a worker, the survivors specified in Paragraph 5 of Article 3, the legal representative, or the person entitled to file a complaint as specified in Paragraph 1 of Article 5 has been approved to receive representation fee aid pursuant to Paragraph 1 of Article 3, Article 3-1, or Paragraph 1 of Article 5.
+
+\2. Labor unions who are financially insufficient and file a lawsuit to a court in accordance with Article 40 of the Labor Incident Act.
+
+\3. If a labor union is selected by a laborer insufficient in financial resources to file litigation to the court according to Article 44-1 of Taiwan Code of Civil Procedure, and the labor meets the circumstances stated in Paragraph 1 of Article 3.
+
+The necessary expenditures set forth in the preceding paragraph are as follows:
+
+\1. Court costs, fees for motion, enforcement costs, daily travel expenses for witnesses, appraisal fees, governmental fees, and costs for temporarily release to the custody of the court or the prosecutor.
+
+\2. Expenditures as determined by the court.
+
+\3. Other necessary expenditures.
+
+The application of Paragraph 1 shall be submitted no later than 60 days after the conclusion of the labor mediation, litigation, or compulsory execution proceedings. However, where the amount of litigation costs or execution costs is determined only by a court ruling or refund notice after the conclusion of the labor mediation, litigation, or compulsory execution proceedings, the application shall be submitted no later than 60 days after the date the ruling becomes final or the refund notice is served.
+
+### Article 16
+
+When a worker or labor union applies for aid for the following necessary expenditures, the central competent authority, or a private organization commissioned by the central competent authority to administer the aid program, shall determine the amount of aid at its discretion based on the type of aid case, the progress of labor mediation, the subject matter of the litigation, and the complexity of the case. The standards for aid are as follows:
+
+\1. Necessary expenditures for labor incidents: The maximum aid amount for the same case shall be NT$100,000.
+
+\2. Necessary expenditures for criminal cases: The maximum aid amount for the same case shall be NT$100,000.
+
+### Article 17
+
+Where multiple workers individually apply for aid for necessary expenses in a labor-management dispute arising from the same underlying facts, the central competent authority may consolidate the applications into a single case and handle them in accordance with the provisions of the preceding article.
+
+### Article 18
+
+Applications filed by workers for aid for necessary expenditures shall be submitted along with the following documents:
+
+\1. The application
+
+\2. The labor-management dispute statement and related proof.
+
+\3. The financial statements of the worker and related proof documents; if there is any deduction of income or assets as provided for in Paragraph 3 to Article 6, relevant proof documents thereof shall be submitted separately.
+
+\4. Photocopy of the competent authority’s mediation record, whether concluded or unsuccessful.
+
+\5. Proof of payment of the necessary expenses. However, in urgent or special circumstances, a copy of the court ruling ordering the payment of necessary expenses or a copy of the court refund notice may be submitted instead.
+
+\6. An affidavit stating that no aid of the same nature from other government agencies or private organizations entrusted by government agencies has been received.
+
+Applications filed by labor unions for aid for necessary expenditures shall be submitted along with the following documents:
+
+\1. The application
+
+\2. The labor-management dispute statement and related proof.
+
+\3. Photocopy of the competent authority’s mediation record, whether concluded or unsuccessful.
+
+\4. Copy of certificate of registration of labor union.
+
+\5. Proof during the past 12 months of documents submitted in accordance with Article 31 of the Labor Union Act and approved by the competent authority for review and record.
+
+\6. Proof of payment of the necessary expenses. However, in urgent or special circumstances, a copy of the court ruling ordering the payment of necessary expenses or a copy of the court refund notice may be submitted instead.
+
+\7. An affidavit stating that no aid of the same nature from other government agencies or private organizations entrusted by government agencies has been received.
+
+If a person applying for aid as stated in the Subparagraph 1, Paragraph 1 to Article 15, the documents specified in Subparagraphs 2 to 4 in the Paragraph 1 shall not be needed.
+
+If a person applying for aid as stated in the Subparagraphs 2 or 3,Paragraph 1 to Article 15 has already applied for aid for lawsuit representation fees according to Paragraphs 2 or 3 to Article 3, the documents specified in Subparagraphs 2 to 5 in the Paragraph 2 shall not be needed.
+
+Persons applying for aids in accordance with Subparagraph 3,Paragraph 1 to Article 15 shall submit documents stated in Subparagraph 3 of Paragraph 1.
+
+### Article 19
+
+Where an application for aid for necessary expenses has been approved, the applicant shall, within 30 days from the date of service of the notice of approval, submit a receipt and remittance account information to the central competent authority to request disbursement.
+
+When the aid application described in the preceding paragraph is filed jointly by more than one applicant, one of the applicants shall be authorized to receive the payment.
+
+Where an application for aid for necessary expenditures pursuant to the proviso of Subparagraph 5 of Paragraph 1 and the proviso of Subparagraph 6 of Paragraph 2 of the preceding article has been approved, the applicant shall, within 30 days from the date of payment of the necessary expenses, submit proof of payment to the central competent authority to apply for reimbursement.
+
+### Article 20
+
+Where an application is made for aid for necessary expenditures, aid shall not be granted under any of the following circumstances:
+
+\1. Any of the circumstances specified in Subparagraphs 1, 2, 5, 6, 8, or 9 of Article 10 applies.
+
+\2. The requirements set forth in Article 15 are not satisfied.
+
+\3. The potential benefit that the worker may obtain from prevailing in the case is less than the necessary expenditures. However, this shall not apply where the case has significant impact or importance to society or the public interest.
+
+### Article 21
+
+The Central Competent Authority may terminate the aid when an aid applicant receiving approval does not cooperate in the aid execution procedure without justification and the aid cannot be provided.
+
+The Central Competent Authority may revoke the aid when an aid applicant receiving approval is found to be with the situation specified in Subparagraph 2 or Subparagraph 5 of Article 10.
+
+The Central Competent Authority shall demand the applicant to return within a given period the entire aid for necessary expenditures already appropriated when the situation specified in Paragraph 1 or the preceding paragraph occurs. Legal action shall be taken if such an applicant fails to return the aid within the given period.
+
+An applicant failing to return the aid as stated in the preceding paragraph may not apply for the aid specified in Article 2 for five years starting from the date the aid termination or revocation occurs.
+
+### Article 22
+
+When the necessary expenditures are not paid by the aid applicant, the amount shall be returned within 30 days after the applicant receives is compensated or the court returns the amount. The refunded amount shall not exceed the aid amount granted.
+
+The Central Competent Authority shall repeal the original aid approval and demand return of already disbursed amount if an applicant fails to return the amount as specified in the preceding paragraph. Legal action shall be taken if such an applicant fails to return the amount within the given period. Such an applicant may not apply for the aid specified in Article 2 for five years starting from the date the aid approval is repealed.
+
+Where the applicant is unable to refund the aid provided for necessary expenses specified in the preceding paragraph in a lump sum due to financial hardship, the applicant may apply to the central competent authority for an extension of the repayment period or for installment payments.
+
+## Chapter IV Aids for Necessary Living Expenses Required for Period during the Handling of Labor Incidents
+
+### Article 23
+
+Where a worker, due to a dispute arising from the termination of an employment contract, petitions the court for labor mediation or files a lawsuit and remains unemployed during such period, and any of the following circumstances applies, the worker may apply to the central competent authority for aid for necessary living expenses during the period of labor mediation and litigation (hereinafter referred to as Living Expenses Aid):
+
+\1. Where full legal aid has been granted pursuant to the Legal Aid Act.
+
+\2. Where the applicant has been determined upon review to meet the standard for deficiency in financial resources.
+
+\3. Where aid has been granted for litigation arising from gender equality in employment disputes pursuant to the Regulations for Providing Legal Aid in Lawsuits Concerning Gender Equality in Employment, and also deficient in financial resources.
+
+\4. Where the worker has suffered serious injury as a result of an occupational accident.
+
+The Central Competent Authority shall define the deficiency in financial resources referred to in Subparagraphs 2 and 3 of the preceding paragraph in accordance with the standards for reviewing deficiency in financial resources prescribed in the Legal Aid Act.
+
+The labor mediation motioned or lawsuit filed for the disputes over labor contract termination prescribed in Paragraph 1 includes one of the following situations:
+
+\1. Claims for severance or retirement payment (labor pension).
+
+\2. Claims for ascertaining the existence of employment relationship.
+
+\3. Claims for compensation for occupational accidents from the employer in accordance with related statutes.
+
+### Article 24
+
+A worker shall not concurrently apply for Living Expenses Aid during the period of receiving any of the below benefits:
+
+\1. Unemployment benefit, Vocational training living allowances, or temporary work allowance prescribed in the Employment Insurance Act;
+
+\2. Injury or sickness benefit prescribed in the Labor Insurance Act or Labor Occupational Accident Insurance and Protection Act;
+
+\3. Living allowance or aids prescribed in the Act for Protecting Worker of Occupational Accidents;
+
+\4. Living allowance for vocational training or temporary work allowance under the Employment Service Act.
+
+\5. Living allowance for vocational training or temporary work allowance under the Middle-aged and Elderly Employment Promotion Act.
+
+\6. Aids of the same nature from other government agencies.
+
+### Article 25
+
+A worker applying for Living Expenses Aid shall submit the following documents:
+
+\1. The application
+
+\2. A photocopy of motion for mediation with the date of receipt by the court stated thereon, indictment, oral or written defense statement, or appealing statement.
+
+\3. Statement and relevant documents concerning the situation of sufficiency in financial resources of the worker and his/her relatives living in the same domicile, or a photocopy of approval notice of the aid issued in accordance with the Legal Aid Act.
+
+\4. Affidavit regarding the necessary living expenses for the worker during the period of labor mediation and litigation.
+
+\5. Where persons with disabilities apply for aid in accordance with the proviso of Paragraph 3 of Article 26, they shall also submit the disability certificate issued by the competent social welfare authority.
+
+\6. Other documents as specified by the central competent authority.
+
+When a worker applies for the aid in accordance with Subparagraph 3 of Para-graph 1 of Article 23, he/she shall also submit a photocopy of relevant documents granting assistance issued in accordance with the Regulations for Providing Legal Aid in Lawsuits Concerning Gender Equality in Employment.
+
+Persons applying for aids in accordance with Subparagraph 4 of Paragraph 1 of Article 23 are exempt from submitting the documents specified in Subparagraph 3 of Paragraph 1, and shall submit the Preliminary Analysis Form for Occupational Accident Inspection or the Major Occupational Accident Inspection Report.
+
+### Article 26
+
+The period for receiving Living Expense Aid shall begin in the month in which living expense aid is approved after the petition for labor mediation is filed or a lawsuit is initiated, and shall end in the month in which the labor mediation is concluded, the court judgment becomes final, or a settlement is reached.
+
+Each aid period shall run from the first day of the month to the last day of the month. However, where the aid period overlaps with a previous payment period, the overlapping days shall be deducted.
+
+The standard of Living Expense Aid shall be given an amount equivalent to the sixty percent of insured salary of the first grade in accordance with the Table of Grades of Insured Salary of Labor Insurance; aid shall be provided for a maxi-mum of six months, calculated on a monthly basis, and where the period is less than one month, the amount shall be calculated on a pro rata basis. However, if the worker is aged 45 or older at the time of application, or holds a disability certificate issued by the competent social welfare authority, the maximum aid period may be extended to nine months.
+
+Where, prior to the amendment of these Regulations taking effect on January 1, 2026, a worker has applied to a public employment service institution for job referral, and submits an application for living expense aid within 90 days from the date of such job referral, the method for calculating the aid period for that application shall continue to be governed by the provisions prior to the amendment.
+
+### Article 27
+
+Where an application is made for Living Expenses Aid, aid shall not be granted under any of the following circumstances:
+
+\1. The application is inconsistent with subparagraphs prescribed in Paragraph 1 or 3 to Article 23.
+
+\2. Any of the circumstances specified in Article 24 applies.
+
+\3. The application documents or supporting documents are counterfeit, forged, false or invalid.
+
+\4. The labor mediation or litigation will bring no substantial benefit or its winning prospect is apparently none.
+
+\5. The requirements set forth in the preceding article are not satisfied.
+
+When the causes for rejecting aids application referred to in the preceding para-graph disappear, the worker may file the application again.
+
+If there is one of the following situations after the application for Living Expenses Aids approved, the aids shall be terminated:
+
+\1. The applicant is found not to be qualified as deficiency in financial resources.
+
+\2. Any of the circumstances specified in Article 24 applies.
+
+### Article 28
+
+When the application documents for Living Expenses Aids are incomplete and not corrected within a given period after being notified, the application shall be rejected.
+
+### Article 29
+
+When a case of applying for Living Expenses Aids has been approved, the applicant shall prepare and submit receipts for appropriation within thirty days from the date of receiving the notification of approval.
+
+### Article 30
+
+After disbursement has been made in accordance with the preceding article, when any of the situations referred to in Subparagraphs 1 through 3 of Paragraph 1 of Article 27 occurs, the aid shall be revoked or rescinded, and the worker shall be ordered to return the aid amount within a prescribed time limit. If the amount is not returned within the prescribed time limit, it shall be recovered in accordance with the law.
+
+Where a worker falls under any of the circumstances specified in Subparagraphs 1 through 3 of Paragraph 1 of Article 27, the worker shall not apply again for the aid specified in Article 2 within five years from the date on which the aid is revoked or rescinded. However, this shall not apply where the circumstances are not attributable to the worker.
+
+### Article 31
+
+When a case of applying for Living Expenses Aid is ruled by a final judgment of the court that the period of paying wage by the business entity (employer) is overlapping with the period of receiving aid, the worker shall return the total amount of aids within thirty days after receiving the wage.
+
+If the worker fails to return the aids in accordance with the preceding paragraph, the Central Competent Authority shall repeal the original aids approved and order him/her to return the aids within a given period. If the worker does not return within the given period, retrieving measures shall be taken in accordance with related statutes, and he/she shall not be allowed to apply for the aids referred to in Article 2 within five years from the date of repealing the aids.
+
+Where the applicant is unable to refund the Living Expenses Aid specified in the preceding paragraph in a lump sum due to financial hardship, the applicant may apply to the central competent authority for an extension of the repayment period or for installment payments.
+
+## Chapter V Aids for Agency Service of Arbitration of the Arbitration Act
+
+### Article 32
+
+Where any of the following circumstances applies, a worker, the worker’s survivors, or the legal representative may apply to the central competent authority for aid for arbitration representation fees:
+
+\1. Where arbitration is initiated pursuant to Paragraph 3 of Article 6 of this Act.
+
+\2. Where a dispute arising from a worker suffering serious injury or death due to an occupational accident is submitted for arbitration pursuant to Paragraph 1 or Paragraph 3 of Article 25 of this Act.
+
+The standards for aid for arbitration agency service fees are as follows:
+
+\1. For individual applicants, the maximum aid is NT$40,000.
+
+\2. For collective applicants, the maximum aid is NT$100,000.
+
+An application for aid under Paragraph 1 shall not be granted where any of the following circumstances applies:
+
+\1. The requirements set forth in Paragraph 1 are not satisfied.
+
+\2. The same item of aids of the same nature for the same case has been provided by other government agencies or private organizations entrusted by government agencies.
+
+\3. The application documents or supporting documents are counterfeit, forged, false, or invalid.
+
+\4. Pursuant to Article 3 of the Regulations for Arbitration on Labor-Management Disputes, the competent authority has decided not to accept the case.
+
+### Article 33
+
+An application for aid for arbitration agency service fees under Paragraph 1 of the preceding article shall be filed no later than 30 days after the conclusion of the arbitration proceedings, and shall be accompanied by the following documents:
+
+\1. The application
+
+\2. Written agreement for arbitration.
+
+\3. The petition for arbitration or arbitration application.
+
+\4. Consent letter from the selected arbitrator.
+
+\5. The power of attorney appointing the lawyer and the receipt for the attorney’s fees.
+
+\6. An affidavit stating that no aid from other government agencies has been received.
+
+\7. Other documents as specified by the central competent authority.
+
+Where aid is applied for pursuant to Subparagraph 1 of Paragraph 1 of the preceding article, proof of payment of the arbitration fees shall also be submitted.
+
+Where aid is applied for pursuant to Subparagraph 2 of Paragraph 1 of the preceding article, the Preliminary Analysis Form for Occupational Accident Inspection or the Major Occupational Accident Inspection Report shall also be submitted.
+
+Where any of the documents required to be submitted under Paragraphs 1 through 3 are missing, the applicant shall be notified to make corrections within a prescribed time limit. If the deficiency is not corrected within the prescribed time limit, the application shall not be accepted.
+
+When a case of aids has been approved, the applicant shall prepare receipts and bank account for appropriation within seven days from the date of receiving the official document of approval and apply to the Central Competent Authority for appropriation.
+
+### Article 34
+
+After disbursement has been made pursuant to Paragraph 5 of the preceding article, where it is verified that the application documents or supporting documents are forged, altered, false, inaccurate, or invalid, the central competent authority may revoke the approved aid and order the applicant to return the full amount of aid already granted within a prescribed time limit. If the amount is not returned within the prescribed time limit, it shall be recovered in accordance with the law.
+
+Those failing to return the aid amount as stated in the preceding paragraph may not apply for the aid specified in Article 2 for five years starting from the date the revocation is made.
+
+## Chapter VI Aid for Representation Fees in Adjudication of Unfair Labor Practices
+
+### Article 35
+
+Workers who have any of the following circumstance may apply for the aid as established in Subparagraph 6 of Article 2 without undergoing the mediation procedure of the relevant authority:
+
+1.Cases filed on behalf of workers or job applicants with insufficient financial resources to seek adjudication of disputes resulting from unfair labor practices as specified in Article 35 of the Labor Union Act.
+
+2.Cases filed on behalf of a union with insufficient financial resources to seek adjudication of disputes resulting from unfair labor practices as specified in Article 35 of the Labor Union Act.
+
+No aid shall be provided to the applicant if the application of preceding paragraph has one of the following situations:
+
+1.The application been rejected by the Decision of Board on Unfair Labor Practices as stated in Paragraph 1 to Article 41 of the Act for the Settlement of Labor-Management Disputes.
+
+2.Upon review, the aid is obviously not necessary or the application is inconsistent with the objectives of the aids prescribed in the Act.
+
+### Article 36
+
+The standards for granting aid for attorney fees in unfair labor practice adjudication are as follows:
+
+\1. For individual applicants, the maximum aid per case is NT$40,000. However, in cases deemed complex and necessary upon review, the amount may be increased to NT$60,000.
+
+\2. For collective applicants, the maximum aid per case is NT$100,000. However, in cases deemed complex and necessary upon review, the amount may be increased to NT$200,000.
+
+For the same unfair labor practice adjudication cases where multiple applicants apply for agency service litigation aid individually, the Central Competent Authority may consolidate and process their applications as one single case, and handle the matters according to Subparagraph 2 of the preceding Paragraph.
+
+### Article 37
+
+Applications for aid for unfair labor practice adjudication representation fees shall be presented within 30 days after the adjudication application is filed and the following documents shall be submitted:
+
+1.The application
+
+2.A photocopy of the Unfair Labor Practice Adjudication Application
+
+3.The financial statement of the applicant and related proof documents
+
+4.An affidavit stating that no aid from other government agencies has been received
+
+Applicants failing to submit all the documents specified in the preceding paragraph shall be notified to make corrections within a given period. The application from those failing to make corrections within the given period shall be rejected.
+
+### Article 38
+
+The appointed attorney representing the applicant shall charge the representation fees in accordance with established rates and may not impose extra charges.
+
+When an aid application is approved, the appointed attorney is required to submit within 30 days after receiving approval the letter of appointment, his or her bank account information and receipt of payment to apply to the Central Competent Authority for appropriation.
+
+### Article 39
+
+When finding the application documents or proof documents have been forged, altered, false, or expired after appropriating the aid described in Paragraph 2 of the preceding article, the Central Competent Authority may revoke the aid approved and demand return of the entire aid amount within a given period. Legal action shall be taken if the said amount is not returned within the given period.
+
+Those failing to return the aid amount as stated in the preceding paragraph may not apply for the aid specified in Article 2 for five years starting from the date the revocation is made.
+
+## Chapter VII Supplementary Provisions
+
+### Article 40
+
+When a case of aids has been approved, the appointed attorney-at-law or the worker shall submit the result of aids such as the photocopy of court ruling, mediation (settlement) record, written settlement between the employer and the worker, or arbitration award to the Central Competent Authority for review within thirty days from the date of closing the litigation procedures related to the aids.
+
+If the appointed attorney-at-law or the worker fails to submit in accordance with the preceding paragraph, the Central Competent Authority may, if necessary, proactively review the foresaid documents.
+
+### Article 41
+
+For applicants who receive the aids of the Regulations based on malice, dubious purpose or other improper means, in addition for the central competent authority to revoke the approved aids and order the applicant to return the total amount of aids within a time limit, if criminal offense is involved, he/she shall also be referred to the court.
+
+The applicant who fails to return the expenses in accordance with the preceding paragraph shall continue to be ordered to return the expenses and shall not be allowed to apply for any aids of the Regulations within five years from the date of revoking his/her aids.
+
+### Article 42
+
+The Central Competent Authority may establish a Reviewing Task Force for the Aids for Legal Service and Living Expenses of Labor-Management Disputes (here-in-after referred to as the Reviewing Task Force) to review the cases of aids referred to in the Regulations.
+
+The Reviewing Task Force prescribed in the preceding paragraph shall have three to five members, the Central Competent Authority shall assign one person on a part-time basis from itself to be a member and also the chairperson, and the rest shall be selected and appointed from experts and scholars with a term of service of two years.
+
+The meeting of Reviewing Task Force shall be convened only when no less than one half of the members attend, and the decision concerning the method and amount of aids shall be made according to the type of case for aids, the status of the labor mediation, or object and complexity of litigation.
+
+The members referred to in the preceding paragraph shall attend the meeting in person, and shall be recusal in accordance with Articles 32 and 33 of the Administrative Procedures Act in reviewing the cases.
+
+The members shall not be paid, but the members from experts and scholars may receive payment for attendance in accordance with related statues and regulations.
+
+### Article 43
+
+Private organizations authorized by the Central Competent Authority to handle aid business shall approve the method and amount of aids it should grant according to the type of case for aids, the status of the labor mediation, or object and complexity of litigation.
+
+Private organizations prescribed in accordance with the preceding paragraph to review and approve aid applications for representation fee shall select their appointed attorneys from the list of attorneys they have provided.
+
+### Article 44
+
+When a worker files a lawsuit concerning the disputes over mass redundancy, his/her aids shall be processed in accordance with the Regulations for Subsidizing the Litigation and Necessary Living Expenses for Workers of Mass Redundancy, and the Regulations shall not apply.
+
+### Article 45
+
+Formats of related documents and forms referred to in the Regulations shall be prescribed by the Central Competent Authority.
+
+### Article 46
+
+The Regulations shall take effect on January 1, 2020.
+
+These amended provisions, except for Article 2, Article 6, and Chapter 3 as amended and promulgated on November 10, 2020, which shall take effect on July 1, 2021; the provisions amended and promulgated on December 30, 2021, which shall take effect on January 1, 2022; the provisions amended and promulgated on April 29, 2022, which shall take effect on May 1, 2022; Article 3 as amended and promulgated on October 2, 2023, which shall take effect on September 1, 2024; Article 3, Article 3-1, and Article 9 as amended and promulgated on May 6, 2025, which shall take effect on January 1, 2026; and the provisions amended and promulgated on December 15, 2025, which shall take effect on January 1, 2026, shall take effect from the date of promulgation.
+
+## History
+
+1.Promulgated a total thirty articles by the Council of Labor Affairs, Executive Yuan by the Order of No. 1000125742 on April 29, 2011 and shall become effective on May 1, 2011. However, Article 5 shall become effective on January 1, 2012
+
+2.Amended on December 18, 2012
+
+3.Amended and promulgated Articles 2、5、15-1～15-7 on September 5, 2014
+
+4.Amended and promulgated Articles 2、4、5、27、15-8～15-13 on December 5, 2014
+
+5.Amended and promulgated Articles 2、15-9 on October 13, 2016
+
+6.Amended a total forty-four articles by the Council of Labor Affairs, Executive Yuan by the Order of No. 1060127750 on Sepertember 11, 2017 and shall become effective on the date of promulgation.
+
+7.Amended and promulgated provision on August 21, 2018.
+
+8.The Regulations shall take effect on January 1st, 2020.
+
+9.Amended and promulgated Articles 2、3、6、9 、15-22、27、30、42、43、46 on November 10, 2020.Except that the provisions of Article 2, Article 6, and Chapter 3 herein should take effect on July 1st, 2021, this amendment shall and shall become effective on the date of promulgation.
+
+10.Amended and promulgated Articles 6、9、10、18、46 on December 30, 2021, and shall effect from January 1, 2022
+
+11.Amended and promulgated Articles 3, 24, and 46 by the Order of Ministry of Labor, Executive Yuan No. 1110136582A on April 29, 2022 and shall effect from May 1, 2022
+
+12.Articles 2, 6, 8, 17, 35, 36,37 and 46 will be revised, promulgated, and implemented on October 2, 2023
+
+Amended and promulgated Articles 3 on October 2, 2023, and shall effect from September 1, 2024
+
+13.Amended and promulgated Articles 23、25 on March 13, 2024.
+
+14.Articles 3、6、7、9、14～16、18、22、24～26、31、32、36、46 were amended and promulgated by the Order of Ministry of Labor, Executive Yuan No. 1140141778A of May 6, 2025, and shall be put into practice from the date of promulgation except for Articles 3, 3-1, and 9 being putted into force from the date of January 1, 2026.
+
+15.Articles 2, 3, 5, 6, 9, 10, 15–20, 23–27, 30, 32–34, 46 and the titles of Chapter 3 and Chapter 5 were amended and promulgated by the Order of Ministry of Labor, Executive Yuan No. 1140145894A of December 15, 2025, and shall be put into force from January 1, 2026, pursuant to Article 46.

@@ -1,0 +1,187 @@
+---
+title: "Implementation Regulations for the Risk Spreading Mechanism of Residential Earthquake Insurance"
+title_zh: "住宅地震保險危險分散機制實施辦法"
+identifier: "G0390041"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-11-30
+last_amended: 2025-07-02
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390041"
+retrieved: 2026-10-12
+---
+
+# Implementation Regulations for the Risk Spreading Mechanism of Residential Earthquake Insurance
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390041-implementation-regulations-for-the-risk-spreading-mechanism-of-residential.md](../../../zh/regulations/financial-supervisory-commission/G0390041-implementation-regulations-for-the-risk-spreading-mechanism-of-residential.md)) is authoritative.
+
+## Article 1
+
+The Enforcement Rules are adopted pursuant to Article 138-1, paragraph 3 of the Insurance Act.
+
+## Article 2
+
+The Enforcement Rules shall be followed by Taiwan Residential Earthquake Insurance Fund (hereunder called TREIF), the non-life insurers and the professional reinsurers in their engaging in the residential earthquake insurance (hereunder called the Insurance) business.
+
+## Article 3
+
+The non-life insurers shall underwrite the residential earthquake risks in which the primary insurance policies shall be totally reinsured by TREIF.
+
+Risks assumed by TREIF pursuant to the preceding paragraph shall be spread by means of the following mechanism:
+
+1.First-tier liabilities are limited to NT$5 billion, and shall be assumed by a residential earthquake insurance pool (hereunder called the Pool).
+
+2.Second-tier liabilities are limited to NT$115 billion, and shall be assumed and spread by TREIF.
+
+The amount of liabilities assumed in each of the foresaid tiers shall be calculated on the basis of the insurance losses of each earthquake event. The insurance losses refer to the covered loss, contingent living expense and the claim handling expenses.
+
+The operating rules for the reinsurance referred to in paragraph 1 shall be jointly drafted by TREIF in consultation with the Non-life Insurance Association of the Republic of China (hereunder called NLIA) and implemented following the approval of the competent authorities. The same also applies to revision.
+
+## Article 4
+
+Non-life insurers that underwrite residential fire insurance shall form the Pool. Professional reinsurance companies which have been reviewed and licensed by competent authorities, could submit an application to and receive approval from TREIF to participate in the Pool. The pool assumes by way of co-insurance the risk set forth in paragraph 2, subparagraph 1 of the preceding article.
+
+The share of risk assumed by members of the Pool comprises two parts: basic share and assigned share. The basic share shall be set by TREIF in consultation with the NLIA. Assigned shares shall be calculated on the basis of each Pool member's share of total residential earthquake insurance premium income, as averaged over the past three years.
+
+The operating rules of the Pool referred to in paragraph 1 shall be drafted by TREIF in consultation with the NLIA and implemented following the approval of the competent authorities. The same also applies to revision.
+
+## Article 5
+
+When the TREIF assumes the risks set out in Article 3, paragraph 2, subparagraph 2, it shall do so in the following manner:
+
+1.The portion up to and including NT$98.2 billion shall be spread in domestic, and/or overseas reinsurance markets and/or capital markets and/or retained by TREIF in accordance with business needs and/or market costs. The aforementioned risk spreading mechanisms shall be reported to the competent authority for recordation. The preceding provision also applies to any subsequent changes thereto.
+
+2.The portion exceeding NT$98.2 billion and up to NT$115 billion shall be assumed by the government, and when a loss occurs the competent authorities shall prepare a funding requirement report and submit it to the Executive Yuan, which shall handle funds appropriation in accordance with the budget process.
+
+When the occurrence of a major disaster results in claim payments that exceed the amount of funds accumulated in the TREIF, in order to safeguard the interests of the insured, if necessary, the TREIF may ask the competent authorities and the Ministry of Finance to jointly request Executive Yuan’s approval for the national treasury to provide collateral to obtain the necessary source of funding.
+
+## Article 6
+
+When total losses payable for a single earthquake event exceed the total risk assumption amounts of all tiers combined, claim payments for covered losses to each insured shall be reduced proportionately.
+
+The TREIF shall periodically review risk assumption limits for each tier of the Insurance in light of the status of underwriting and claim settlements of the residential earthquake insurance, and submit proposals to the competent authorities for timely adjustment.
+
+The term "earthquake event" in paragraph 1 shall be deemed to include any second or further occurrence within 168 hours of the original event during the policy period.
+
+The proportionately reduced claim payments referred to in the first paragraph shall be reported by the TREIF to the competent authority and announced after approval by the competent authority.
+
+## Article 7
+
+The insured amount shall be calculated based on the replacement cost of the subject matter insured at the time of applying for the Insurance. If the replacement cost of the subject matter insured exceeds NTD$1.5 million, the insured amount shall be limited to NT$1.5 million.
+
+The contingent living expense (hereunder called CLE) will be paid in the event of "total loss" of the insured building, CLE shall be limited to NT$200,000 per subject matter insured.
+
+When a subject matter insured is damaged in an earthquake but does not sustain total loss, and it undergoes emergency assessment by the municipal or county (city) government in accordance with the Regulations Governing Post-Disaster Emergency Assessment of Hazardous Buildings, and is found hazardous based on the assessment result and tagged a red hazard sign, the non-life insurer shall pay CLE in the amount of NT$100,000 per subject matter insured.
+
+The CLEs specified in the preceding two paragraphs combined during the policy period shall be limited to NT$200,000.
+
+The TREIF may from time to time propose to the competent authorities that the insured amount and CLE specified in the preceding four paragraphs be adjusted in light of the status of underwriting and claim settlements of the residential earthquake insurance, and submit proposals to the competent authorities for timely adjustment.
+
+## Article 8
+
+When the subject matter insured is "total loss" in an earthquake, the claim shall be settled at the insured amount without any deductible.
+
+The term "total loss" in the preceding paragraph refers to any of the following conditions:
+
+\1. The subject matter insured is demolished as informed, ordered or acted by the government agency.
+
+\2. The subject matter insured has been assessed by a qualified adjustor, or by an association of professional architect, structural engineer, civil engineer, or geotechnical engineers, that the insured building has been assessed uninhabitable and in need of demolition and rebuilding; or has been assessed that it could be inhabitable after repairing and the repairing cost equals to or exceeds 50% of the replacement cost at the time when the insured risk occurs.
+
+The criteria of "total loss" of assessment as mentioned in subparagraph 2 of the preceding paragraph are to be instituted by TREIF, and submit to competent authorities for approval before enforcement. The same also applies to revision.
+
+The term "qualified adjustor" in subparagraph 2 of paragraph 2 means an insurance surveyor or claim adjustor, inspection or loss prevention related staff of a non-life insurance companies who has attended a training course (offered by an institution designated by the competent authorities) for earthquake building damage adjustor and received a certificate of successful completion of training.
+
+Guidelines for the management of the foresaid qualified adjustor are to be instituted by TREIF in consultation with the NLIA and submit to competent authorities for approval before enforcement. The same also applies to revision.
+
+## Article 9
+
+The Insurance shall apply a flat premium rate nationwide, and the rate structure shall be as follows:
+
+1.Pure premium shall account for 85% of insurance premiums.
+
+2.Expense loading shall account for 15% of insurance premiums.
+
+The premium rate for the Insurance shall be set by the TREIF on the basis of a risk assessment and in light of the status of underwriting and claim settlements, and announced and implemented after approval by the competent authority.
+
+The pure premium received by TREIF from non-life insurers to be allocated to the Pool shall be set by the TREIF on the basis of a risk assessment.
+
+The total earned pure premium which TREIF receives from non-life insurers shall be accumulated to the credit of TREIF after deduction of premium allocated to the Pool, the costs in connection with spreading risks to domestic, overseas reinsurers or capital markets, retained claim payment, and the difference between loss component in the previous period and the current period.
+
+Expense loading under the Insurance shall include at least the following four items: expenses of the underwriting companies, administrative expenses of the TREIF, credit risk reserve, and reserve against adjustment of premiums for risk spread on reinsurance or capital markets. The credit risk reserve and reserve against adjustment of premiums for risk spread on reinsurance or capital markets shall be accumulated to TREIF, and their set-asides and recalls shall be made in accordance with the method specified by competent authorities.
+
+Rules governing the allocation of the foresaid expense loading are to be drafted by TREIF in consultation with the NLIA and sent to competent authorities for approval before enforcement. The same also applies to revision.
+
+The credit risk reserve as referred to in paragraph 5 is the provision prepared by TREIF for the risk of the loss resulting from the default of underwriting companies, Pool members, reinsurers or reinsurance brokers.
+
+## Article 10
+
+Pool members shall set aside or treat the unearned premium reserve, loss reserve and special reserve for its shares retroceded from the Pool pursuant to the following provisions:
+
+1.The assumed unearned premium reserve shall be set aside after calculating liability for remaining coverage in accordance with the International Financial Reporting Standards 17.
+
+2.The assumed loss reserve shall be set aside after calculating liability for incurred claims in accordance with the International Financial Reporting Standards 17.
+
+3.The earned premium retroceded from the Pool less incurred claims and the difference between loss component in the previous period and the current period, if positive, shall be set aside at the end of each year as a special reserve. In the event that the total amount is negative, it shall be deducted from the special reserve.
+
+4.In the event that the cumulative total amount of the special reserve is more than triple of a specific benchmark, one-fifteenth of the excess part can be recalled and handled as profit. The term “specific benchmark” shall mean pure premium income received by the member from the Pool in all past years divided by pure premium allocated to the Pool, then multiplied by the Pool’s risk assumption limit for that year.
+
+5.The amount of special reserve as specified in subparagraph 3 hereof set aside each year less income tax pursuant to Statement of IAS 12 shall be recorded in the account of “Special Reserve” under “Equity.”
+
+6.The amount of special reserve that can be offset or released as specified in subparagraph 3 or 4 less income tax pursuant to Statement of IAS 12 may be offset or released by or from special reserve recorded in the account of “Special Reserve” under “Equity.”
+
+The preceding regulations are not applicable to the non-life insurers and professional reinsurers when they assume the risks as specified in paragraph 1, subparagraph 1 of article 5.
+
+## Article 11
+
+Any Pool member who wants to withdraw from the Insurance shall still assume its shares retroceded from the Pool until the end of the year. After that, the Pool member shall continue to bear the outstanding liability of its shares.
+
+In the event that a Pool member suspends business and undergoes rehabilitation or dissolves business, it shall transfer its shares for that year to other Pool members from the date when competent authorities announce its suspension or dissolution, and the transfer method shall be decided by a meeting held by the Pool members.
+
+In the event of a Pool member becoming a dissolved company because of consolidation, its share for the year shall be assumed by the surviving company.
+
+## Article 12
+
+Except where laws or regulations provide otherwise, non-life insurers and the TREIF shall handle residential earthquake insurance underwriting, claim settlements, and accounting matters in accordance with the "Guidelines for the Handling of Residential Earthquake Insurance Coverage and Claim Settlement Matters" and the "Accounting Treatment Principles for the non-life Insurers Conducting Residential Earthquake Insurance Business," respectively.
+
+The TREIF shall handle the auditing of residential earthquake insurance business in accordance with the "Operating Rules for the Auditing of Residential Earthquake Insurance Business."
+
+The Guidelines, Treatment Principles, and Operating Rules referred to in the preceding two paragraphs shall be drafted by the TREIF in consultation with the NLIA and implemented after approval by the competent authorities. The same also applies to revision.
+
+## Article 13
+
+The Enforcement Rules shall be enforced from January 1, 2012.
+
+Articles of the Enforcement Rules amended and promulgated on December 28, 2012 shall be implemented from January 1, 2013. Articles amended and promulgated on December 25, 2014 shall be implemented from January 1, 2015. Articles amended and promulgated on March 12, 2021 shall be implemented from April 1, 2021. Articles amended and promulgated on March 27, 2024 shall be implemented from April 1, 2024. Articles amended and promulgated on June 24, 2024 shall be implemented from January 1, 2026. Articles amended and promulgated on July 2, 2025 shall be implemented from July 15, 2025.
+
+## History
+
+1.Issued and implemented 30 November 2001 per Order No. Taiwan-Finance-Insurance-0900751301
+
+2.Amended and issued 1 December 2005 per Order No. Financial-Supervisory-Insurance-IV-09402564041
+
+3.Amended and issued 29 December 2006 per Order No. Financial-Supervisory-Insurance-IV-09502565331
+
+4.Amended on November, 26, 2007
+
+5.Amended on December, 30, 2008
+
+6.Amended on December, 30, 2010
+
+7.Amended on December, 20, 2011
+
+8.Amended on December, 28, 2012
+
+9.Articles amended on December 25, 2014 shall be implemented from January 1, 2015.
+
+10.Articles amended on March 12, 2021 shall be implemented from April 1, 2021.
+
+11.Article 3,5,10 and 13 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-11304909161 of the Financial Supervisory Commission, dated 27 March 2024; for the implementation from April 1, 2024.
+
+12.Article 9,10 and 13 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-11304921251 of the Financial Supervisory Commission, dated 24 June 2024; for the implementation from January 1, 2026.
+
+13.Amended on July 2, 2025

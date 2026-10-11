@@ -1,0 +1,71 @@
+---
+title: "Regulations for Administration on Designation and Protection of Critical Telecommunications Infrastructure"
+title_zh: "關鍵電信基礎設施指定及防護管理辦法"
+identifier: "K0060120"
+type: regulation
+law_level: "命令"
+category: "行政＞數位發展部＞韌性建設目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-02
+last_amended: 2024-03-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060120"
+retrieved: 2026-10-12
+---
+
+# Regulations for Administration on Designation and Protection of Critical Telecommunications Infrastructure
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-digital-affairs/K0060120-regulations-for-administration-on-designation-and-protection-of-critical.md](../../../zh/regulations/ministry-of-digital-affairs/K0060120-regulations-for-administration-on-designation-and-protection-of-critical.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted in accordance with the provisions of Paragraphs 1 and 5 of Article 42 of the Telecommunications Management Act and shall apply to stations set up by radio and television business operators.
+
+## Article 2
+
+The establisher of PSTN (hereinafter referred to as the establisher) shall, within the prescribed period and in the prescribed manner notified by the competent authority, conduct an inventory check and self-evaluation. After completion of the inventory check and self-evaluation of various telecommunication infrastructures of PSTN, the establisher shall submit the information to the competent authority.
+
+Should the outcomes of inventory check and self-evaluation in the preceding paragraph be deemed incomplete, the establisher shall be notified by the competent authority to undertake corrective action within the prescribed period.
+
+The prescribed period in the first paragraph shall not be shorter than 2 months.
+
+## Article 3
+
+In order to review the outcomes of inventory check and self-evaluation in accordance with the preceding article, the competent authority may consult with the relevant public agencies, civil society organization, experts and scholars, and may designate all or part of the public telecommunications network as primary, secondary or tertiary critical telecommunications infrastructure prior to submitting to the Executive Yuan for approval.
+
+The designation in the preceding paragraph shall consider factors with regard to PSTN, including the functional importance, service regions, substitutability, and disruptive impact among others.
+
+## Article 4
+
+The establisher shall, within three months after being notified of the designation results by the competent authority, formulate its critical telecommunications infrastructure protection plan in accordance with the template of the Critical Telecommunications Infrastructure Security Protection Plan of the Executive Yuan, and submit it to the competent authority for evaluation.
+
+Should the critical telecommunications infrastructure protection plan submitted by the establisher of critical telecommunications infrastructure (hereinafter referred to as the critical telecommunications infrastructure establisher) be deemed incomplete, the critical telecommunications infrastructure establisher shall be notified by the competent authority to undertake corrective action within the prescribed period.
+
+The critical telecommunications infrastructure establisher shall implement its critical telecommunications infrastructure security protection plan assessed by the competent authority; any changes to the critical telecommunications infrastructure protection plan shall be reported to the competent authority for reassessment.
+
+## Article 5
+
+The benchmark items used by the competent authority to assess critical telecommunications infrastructure protection plans shall conform to the template of the Critical Telecommunications Infrastructure Security Protection Plan of the Executive Yuan.
+
+## Article 6
+
+The competent authority may designate the critical telecommunications infrastructure establisher to conduct drills in accordance with its assessed protection plan, and undertake evaluation of the drills.
+
+Should there be any issues in need of improvement after evaluation of the drills of the preceding paragraph, the critical telecommunications infrastructure establisher shall undertake corrective action within a specific period as notified by the competent authority.
+
+## Article 7
+
+The critical telecommunications infrastructure establisher shall regularly undertake inventory checks and self-evaluation of the various telecommunications infrastructure of their PSTN according to the provisions of Paragraph 1, Article 2 of these Regulations; should there be any change in the results of their inventory and self-evaluation, the from shall be submitted to the competent authority for reference. When necessary, the competent authority may re-assess the critical infrastructure level based on the provisions of Paragraph 1, Article 3 of these Regulations, and designated benchmarks.
+
+## Article 8
+
+These Regulations shall be implemented from the date of promulgation.
+
+## History
+
+1.Promulgated on July 2, 2020
+
+2.MINISTRY OF DIGITAL AFFAIRS Order, documented as Shu-Wei-Ren-Xing No. 1135000345 and issued on 19th, March 2024, is hereby given to promulgate a total of 8 amended Regulations; The aforementioned amended Regulations shall take effect on the date of promulgation.

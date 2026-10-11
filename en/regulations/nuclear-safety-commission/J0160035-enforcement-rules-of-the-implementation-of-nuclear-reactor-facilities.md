@@ -1,0 +1,271 @@
+---
+title: "Enforcement Rules of the Implementation of Nuclear Reactor Facilities Regulation Act"
+title_zh: "核子反應器設施管制法施行細則"
+identifier: "J0160035"
+type: regulation
+law_level: "命令"
+category: "行政＞核能安全委員會＞原子能目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-08-27
+last_amended: 2026-01-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160035"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of the Implementation of Nuclear Reactor Facilities Regulation Act
+
+> Translation. The Chinese text ([zh/regulations/nuclear-safety-commission/J0160035-enforcement-rules-of-the-implementation-of-nuclear-reactor-facilities.md](../../../zh/regulations/nuclear-safety-commission/J0160035-enforcement-rules-of-the-implementation-of-nuclear-reactor-facilities.md)) is authoritative.
+
+## Article 1
+
+This Enforcement Rules is enacted pursuant to Article 43 of the Nuclear Reactor Facilities Regulation Act (hereinafter referred to as “this Act”).
+
+## Article 2
+
+The plans formed by the licensee in accordance with Paragraph 1 of Article 4 of this Act shall be submitted thereby to the competent authority before nuclear reactor facilities have been firstly loaded with the nuclear fuel, and shall contain following items:
+
+\1. The radiation dose assessment reports on the exclusion area and the low population zone.
+
+\2. The specific boundaries of the exclusion area and the low population zone, along with four original topographic maps drawn at a scale of 1:1,000 or 1:5,000.
+
+\3. The documentary evidence or relevant materials as to land use rights within the exclusion area.
+
+\4. The safety controlling plan within the exclusion area.
+
+\5. The investigation and evaluation report on household registration, peak-gathering and distribution of population at day time and night time respectively, etc., within the distance of one and one third times of radius of the low population zone.
+
+\6. The investigation report on the distance between nuclear reactor facilities and the densely populated area, closely adjacent thereto, with a population more than twenty-five thousand.
+
+\7. Other items designated by the competent authority.
+
+## Article 3
+
+The criteria for demarcating the exclusion area and the low population zone prescribed under Paragraph 5 of Article 4 of this Act shall be as follows:
+
+\1. The exclusion area: the area closely adjacent to the location of nuclear reactor facilities, where an individual located at any point on its boundary for two hours immediately following onset of a nuclear accident of the radioactive fission product release would receive external whole body radiation dose less than two hundred and fifty (250) milli-Sieverts (mSv), while the thyroid dose arising from radioactive iodine shall be less than three (3) Sieverts (Sv).
+
+\2. The low population zone: the area closely adjacent to the exclusion area, an individual located at any point on its boundary for the period commencing from arrival of radioactive cloud till its passage following onset of a nuclear accident of the radioactive fission product release would receive external whole body radiation dose less than two hundred and fifty (250) milli-Sieverts (mSv), while the thyroid dose arising from radioactive iodine shall be less than three (3) Sieverts (Sv).
+
+## Article 4
+
+If several nuclear reactor facilities are located at the same site, the territories of the exclusion area and the low population zone thereof shall cover all of territories of the exclusion areas and the low population zones derived respectively from each nuclear reactor facility within that site.
+
+## Article 5
+
+One who applies for the initial loading of the nuclear fuel pursuant to Paragraph 1 of Article 6 of this Act shall submit an application, enclosed with the final safety analysis report, the summary on the corrective actions following inspection findings during the construction as well as the approved pre-operational test reports on all the system thereof.
+
+## Article 6
+
+Pursuant to Article 9 of this Act, after nuclear reactor facility has been formally operated, the licensee shall submit respectively, prior to a six -month period before the expiry of every decennium, to the competent authority for review and approval the integrated safety analysis report containing following items:
+
+\1. The backtracking and the review of operation of the facility: including the backtracking and the evaluation of the operation safety, the radiation safety and the management of radioactive waste.
+
+\2. The review of items to-be-corrected or to-be-upgraded on the facility: including the review of issues related to items to-be-corrected or to-be-upgraded, the committed corrective actions or the explanations on items for upgrading.
+
+\3. Overview: giving a peroration for the forthcoming decennium of operation period, based upon items provided under the preceding two subparagraphs, about items to be heeded, committed corrective actions and the schedule.
+
+\4. Other items designated by the competent authority.
+
+## Article 7
+
+The deadlines for submitting the respective reports or records to the competent authority by the licensee pursuant to Article 10 of this Act shall be subject to following prescriptions:
+
+\1. Operation report: Quarterly reports shall be submitted within thirty (30) days after the end of each quarter. Annual reports shall be submitted within sixty (60) days after the end of each year.
+
+\2. Radiation safety and environmental radiation monitoring report: Quarterly reports shall be submitted within sixty (60) days after the end of each quarter, and annual reports shall be submitted within ninety (90) days after the end of each year.
+
+\3. Emergency event report: An immediate notification shall be submitted within one hour of discovering the event, followed by a written report within thirty (30) days from the date of discovery.
+
+\4. Generation record on radioactive waste: Monthly reports shall be submitted within thirty (30) days after the end of each month.
+
+In addition to complying with the prescriptions provided under the preceding paragraph, the licensee of nuclear reactor facility mainly served for generating power (hereinafter referred to as the “nuclear power reactor facility”) shall submit following reports:
+
+\1. The reports on in-service inspection, in-service test and containment leakage rate test shall be submitted within ninety (90) days following the completion of the outage.
+
+\2. An investigation report on the assessment parameters of public dose as to the environment near the site of nuclear reactor facility, shall be submitted every five years.
+
+## Article 8
+
+The extent of significant safety items provided under Article 13 of this Act is as follows:
+
+\1. The amendment of the operating technical specification.
+
+\2. Accident frequency or severity of accident consequences be higher than that analyzed in the final safety analysis report.
+
+\3. The possibility of failure of structures, systems and components which are significant to safety, or the consequence upon failure thereof be higher than that evaluated in the final safety analysis report.
+
+\4. The potential occurrence of accident be different, from that analyzed in the final safety analysis report, or the failure of safety-important structures, systems and components be different from that anticipated in the final safety analysis report.
+
+\5. The alteration of design basis limit for barrier to confine fission product, as stated in the final safety analysis report.
+
+\6. The alteration of evaluation modus for establishing design basis or safety analysis, as stated in the final safety analysis report.
+
+\7. Other matters designated and published by the competent authority
+
+## Article 9
+
+A situation arising during the construction period of a nuclear reactor facility that may pose risks to public health, safety, or the ecological environment, as stipulated in Paragraph 1 of Article 14 of this Act, refers to any of the following:
+
+\1. The design thereof has been found to be in major deficiency but has not yet been appropriately evaluated and solved.
+
+\2. There is a major discrepancy between the activity of construction and the commitment under the safety analysis report, which might affect the safety function.
+
+\3. The performance of quality assurance program is seriously deficient, which has caused a gross impact on the quality of construction.
+
+\4. A serious accident occurs, which adversely affects the construction activities.
+
+\5. After evaluation, the estimated radiation dose to the general public by the prospectively completed nuclear reactor facility might exceed the dose limit prescribed under the Safety Standards for Protection against Ionizing Radiation.
+
+\6. The submitted documents, materials or records are false, which has affected the accuracy of reviewing or issuing the license by the competent authority.
+
+\7. After evaluation, the prospectively completed nuclear reactor facility might not comply with the prescriptions provided under respective subparagraphs of Paragraph 1 of Article 5 of this Act
+
+\8. Other circumstances determined and published by the competent authority.
+
+## Article 10
+
+A situation arising during the operation period of a nuclear reactor facility that may pose risks to public health, safety, or the ecological environment, as stipulated in Paragraph 1 of Article 14 of this Act, refers to any of the following:
+
+\1. The design thereof has been found to be gross imperfect or to be connected with the matters provided under Subparagraphs 2 to 6 of Article 8, but has not yet been appropriately evaluated and solved.
+
+\2. There is a gross discrepancy between the operation on the scene of facility and the commitment under the safety analysis report, which affects the safety function.
+
+\3. The performance of quality assurance program is seriously deficient, which has caused a gross impact on the quality of construction or the safety of operation on the scene of facility.
+
+\4. A serious accident occurs, which adversely affects on-site operations at the facility.
+
+\5. The hourly average concentration of radioactive nuclides in the air on the boundary of nuclear reactor facility caused by the gas containing radioactive materials released thereby exceeds ten times of that provided under the fourth ( 4th ) Column in table IV-II annexed to the Safety Standards for Protection against Ionizing Radiation, or the hourly average concentration of radioactive nuclides in the water on the boundary of nuclear reactor facility caused by the liquid containing radioactive materials released thereby exceeds ten times of that provided under the fifth (5th) Column in table IV-II annexed to the Safety Standards for Protection against Ionizing Radiation.
+
+\6. According to the findings on environmental radiation monitoring, the external exposed radiation dose to the common people within the outside area of premises is estimated to be exceeding decimal naught two (0.02) milli-Sieverts (mSv) within one hour, or decimal five (0.5) milli-Sieverts (mSv) within one year.
+
+\7. According to the findings on environmental radiation monitoring, the radiation dose on the common people is estimated to be exceeding the dose limit prescribed under the Safety Standards for Protection against Ionizing Radiation.
+
+\8. The submitted document(s), materials or records are false, which has affected the accuracy of reviewing or issuing the license by the competent authority.
+
+\9. The condition which the nuclear power reactor facilities is not properly assessed and is operated by reducing the power from full power to the non-original design power manually. However, in order to cope with the safety issues for the operation of power plants, to prevent the impact of natural disasters, to perform the inspection, maintenance and testing of the structures, systems and components, or to coast down at the end of the fuel cycle that is approved by the competent authority, the conditions are exempted.
+
+\10. Other circumstances determined and published by the competent authority.
+
+The proper assessment referred to the Subparagraph 9 of previous paragraph shall include the following items:
+
+\1. The comprehensive description of the time frame of power reduction and power rate.
+
+\2. The assessment of power output control.
+
+\3. The impact assessment of the components in the primary system.
+
+\4. The considerations about power generation equipment.
+
+\5. The considerations about operation.
+
+\6. The evaluation of the operational procedures.
+
+## Article 11
+
+The safety-related structures, systems and components of nuclear reactor facility provided under Paragraph 1 of Article 16 of this Act shall denote that nuclear reactor facility, under the circumstances of normal operation, anticipated operating occurrence, design basis accident, external event and natural disaster, are with one of following functions:
+
+\1. To ensure the integrity of pressure boundary for coolant of nuclear power reactor facility, or of the boundary for coolant of research nuclear reactor.
+
+\2. To shut down nuclear reactor facility, and maintain it in safe shutdown condition.
+
+\3. To prevent the radiation dose outside the site after the accident from exceeding the respective specific limits prescribed under the respective subparagraphs of Article 3, or to mitigate the same.
+
+## Article 12
+
+The nuclear-graded items provided under Paragraph 1 of Article 16 of this Act shall denote the quality assurance activity of design, manufacture, inspection, testing and replacement thereof to be complied with the quality assurance criteria for nuclear reactor facility, or items prescribed under the quality assurance program verified by the competent authority.
+
+## Article 13
+
+Any individual, business entity or institute, who applies to the competent authority for permit(s) to import, export or remove of nuclear reactor or other matters designated by the competent authority pursuant to Article 17 of this Act, shall submit the appellation, the specification, the quantity, the purpose, the usage and the situs of nuclear reactor, as well as the materials relating to nuclear safeguard, in document(s), etc.
+
+The application for permit to import or remove of nuclear reactor pursuant to the preceding paragraph shall submit additionally a copy of the construction permit or the operating license issued by the competent authority.
+
+## Article 14
+
+If any of the registered items under the license issued according to this Act has been changed, the licensee shall apply, pursuant to Article 18 of this Act, to the competent authority for the registration of amendment within thirty (30) days of such a change.
+
+## Article 15
+
+The specific limit provided under Article 20 of this Act shall denote ten thousand (10,000) kilowatts of thermal power.
+
+## Article 16
+
+Pursuant to Paragraph 1 of Article 21 of this Act, the decommissioning of nuclear reactor facility shall be completed within twenty-five (25) years upon obtaining the permit for decommissioning granted by the competent authority.
+
+The radiation-contaminated facilities, structure(s) or substance(s) which are dismantled or removed shall be stored in facilities approved by the competent authority.
+
+## Article 17
+
+Pursuant to Article 22 of this Act, the radiation doses in the post-decommissioning site of nuclear reactor facility shall comply with following provisions:
+
+\1. For the restrictive use thereof, the annual effective dose to general public shall not exceed 1 milli-sievert (1 mSv).
+
+\2. For the non-restrictive use thereof, the annual effective dose to general public shall not exceed decimal 0.25 milli-sievert (0.25 mSv).
+
+## Article 18
+
+The extent of significant regulating items involved in the amendment on the decommissioning plan provided under Paragraph 2 of Article 25 of this Act shall denote that the amendment on decommissioning plan is involved in one of following circumstances:
+
+\1. The environmental radiation may be increased.
+
+\2. The radiation dose(s) on the personnel for decommissioning may be increased.
+
+\3. The production of radioactive waste may be increased.
+
+\4. That the decommissioning plan may have an uncovered safety issue or issues has been discovered.
+
+\5. The schedule for completing decommissioning operation has been adjusted.
+
+\6. Other matters designated by the competent authority.
+
+## Article 19
+
+Decommissioning period provided under Article 26 of this Act shall denote from the next day after the expiration of operating license of nuclear reactor facilities to the completion day of review and approval by the competent authority on the report of environmental radiation detection on the post-decommissioning site and the report on the completion of decommissioning submitted by the licensee.
+
+That the public health/safety or the environmental ecology may be hazarded under Paragraph 1 of Article 14 of this Act, which is applicable, mutatis mutandis, to Article 26 of this Act, shall denote one of following circumstances:
+
+\1. The execution of quality assurance program is seriously defected, which results in a significant impact on the quality of decommissioning activities.
+
+\2. A significant discrepancy is found between the onsite work and the commitment in the decommissioning plan, which impacts the environment or the radiation safety.
+
+\3. The evaluation of relevant documents, materials, records or inspection findings demonstrates that the decommissioning of nuclear reactor facility does not comply with the provisions under Paragraph 1 of Article 23 of this Act.
+
+\4. Occurrence of a significant accident which leads to a harmful impact on onsite work.
+
+\5. Before all nuclear fuels are removed from the nuclear reactor facility, the qualification nuclear reactor operators does not meet the requirements of Article 7 of Regulations on the Permit Application and the Management for Decommissioning of Nuclear Reactor Facilities
+
+\6. Before all the nuclear fuels are completely removed from the nuclear reactor vessel, the licensee does not use nuclear-graded items in safety related structures, systems and components of the nuclear reactor facility, or not use products certified by dedication agencies which are approved by the competent authority.
+
+\7. Other matters designated and published by the competent authority.
+
+## Article 20
+
+The report on environmental radiation monitoring on the post-decommissioning site provided under Article 28 of this Act shall contain following items:
+
+\1. The purpose, items, modus, map of sampling situs of monitoring.
+
+\2. Findings and analysis of monitoring.
+
+\3. Radiation Dose Assessment.
+
+\4. Other items designated by the competent authority.
+
+## Article 21
+
+The formats as to applications and documentations provided under this Enforcement Rules shall be prescribed by the competent authority.
+
+## Article 22
+
+This Enforcement Rules shall be put into practice from the date of promulgation.
+
+## History
+
+1.Original 22 Articles promulgated by Atomic Energy Council, Executive Yuan on August 27, 2003 under Decree No. Hui-He-Tzu 0920021023.
+
+2.Article 10,17,19 were amended and promulgated on November 16, 2018 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10700136782.
+
+3.Article 19 were amended and promulgated on January 16, 2026 by the Nuclear Safety Commission per its Decree No. He-An-Tzu-11500006622.

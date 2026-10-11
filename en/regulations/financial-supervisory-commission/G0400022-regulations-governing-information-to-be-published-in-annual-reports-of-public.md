@@ -1,0 +1,547 @@
+---
+title: "Regulations Governing Information to be Published in Annual Reports of Public Companies"
+title_zh: "公開發行公司年報應行記載事項準則"
+identifier: "G0400022"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1988-06-07
+last_amended: 2025-12-19
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400022"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Information to be Published in Annual Reports of Public Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400022-regulations-governing-information-to-be-published-in-annual-reports-of-public.md](../../../zh/regulations/financial-supervisory-commission/G0400022-regulations-governing-information-to-be-published-in-annual-reports-of-public.md)) is authoritative.
+
+## Chapter 1 General Principles
+
+### Article 1
+
+These Regulations are made in accordance with the provisions of Article 36, paragraph 4 of the Securities and Exchange Act.
+
+### Article 2
+
+Unless otherwise provided by the competent authority having jurisdiction over banks, bills finance companies, financial holding companies, or any other line of business concerned, a public company shall include in its annual report all the items set forth in these Regulations, and may also use as reference the Regulations Governing Information to be Published in Public Offering and Issuance Prospectuses. In addition, public companies shall also include a table of contents indicating page number for each item in the report. Where the company has nothing to report with respect to a particular item, or where the company is exempted from reporting requirements with respect to a particular item by order of the Financial Supervisory Commission (FSC), the annual report may carry a note indicating that the item in question is "not applicable" or "omitted."
+
+Where the same information is required in more than one item of the annual report, the company may record the information in only one place, while in the other place(s) directing the reader to the page where the information is recorded.
+
+### Article 3
+
+The basic principles for compiling an annual report for publication are as follows:
+
+\1. Particulars specified in the annual report shall be up to date, and shall not contain any false information or conceal any information;
+
+\2. The contents of the annual report shall be detailed and accurate. The language used shall be easy to understand, and the report shall appropriately utilize statistic charts, flow charts or other charts. When necessary, a company may publish a bilingual report, or publish a foreign language version under separate cover.
+
+### Article 4
+
+The cover of an annual report shall specify the company name, the year of publication, the date of publication, and in the upper right-hand corner shall indicate the company's common stock code together with prominently printed URLs for relevant web locations (including the information disclosure website specified by the FSC, as well as the webpage where the company discloses annual report-related information on its own website).
+
+Where the common stock code referred to in the preceding paragraph has been changed, both the old and new codes shall appear side-by-side in the annual reports for the current fiscal year and the next 2 fiscal years thereafter.
+
+In the event of a company name change as referred to in the first paragraph, the company's old and new names shall appear side-by-side in the annual reports for the current fiscal year and the 2 fiscal years thereafter.
+
+### Article 5
+
+The inside cover of an annual report shall specify the following:
+
+\1. the name, title, telephone number, and e-mail address of the spokesman or acting spokesman;
+
+\2. the address and telephone number of the company's headquarters, branch offices, and factories;
+
+\3. the name, address, e-mail address, and telephone number of the agency handling shares transfer;
+
+\4. the names of the certified public accountants who duly audited the annual financial report for the most recent fiscal year, and the name, address and telephone number of the accounting firm to which they belong.
+
+\5. the name of any exchanges where the company's securities are traded offshore, and the method by which to access information on said offshore securities; and
+
+\6. the address of the company's website.
+
+### Article 6
+
+The back cover of an annual report shall bear the following:
+
+\1. the corporate chop specimen; and
+
+\2. the chop or signature of the responsible person of the company.
+
+### Article 7
+
+The contents of an annual report shall include:
+
+\1. A report to the shareholders.
+
+\2. A corporate governance report.
+
+\3. Information on capital raising activities: Disclose the company's capital, any issuance of shares, corporate bonds, preferred shares, global depository receipts, and employee stock warrants, new restricted employee shares, any merger and acquisition activities (including mergers, acquisitions, and demergers), and the status of implementation of capital allocation plans.
+
+\4. An overview of operations.
+
+\5. A review and analysis of the company's financial position and financial performance, and a listing of risks.
+
+\6. Other items deserving special mention.
+
+A company that meets certain criteria, in addition to including in its annual report the content required under the preceding paragraph, shall also include, in a dedicated section, sustainability-related financial information passed by resolution of the board of directors. The aforementioned "certain criteria" shall be separately prescribed by the FSC.
+
+## Chapter 2 Content of the Annual Report
+
+### Article 8
+
+The report to the shareholders shall include the operating results for the previous fiscal year, a summary of the business plan for the current fiscal year, the company's future development strategy, and the effect of external competition, the legal environment, and the overall business environment.
+
+In the description of operating results for the previous fiscal year, the annual report shall: review the implementation of the business plan; review budget implementation; provide an analysis of receipts, expenditures, and profitability; and examine research and development work.
+
+The summary of the business plan for the current fiscal year shall explain the business policy, furnish a sales volume forecast and the basis thereof, and provide other important production and sales policies for the same fiscal year.
+
+### Article 9
+
+(deleted)
+
+### Article 10
+
+The corporate governance report shall include the following:
+
+\1. Information on the company's directors, supervisors, general manager, assistant general managers, deputy assistant general managers, and the chiefs of all the company's divisions and branch units, as follows:
+
+A. Directors and supervisors: names; gender; age, nationality or place of registration; principal work experience and academic qualifications; position(s) held concurrently in the company and/or in any other company, date on which current position was assumed; term of contract; the commencement date of the first term, shares held by directors/supervisors and their spouses, children of minor age, and held through nominees; professional expertise; and the diversity policy and status of independence of the board of directors. For directors and supervisors acting as the representatives of institutional shareholders, this section shall indicate the names of the institutional shareholders, and shall further indicate the names of its 10 largest shareholders and the holding percentage of each. If any of those 10 largest shareholders is an institutional shareholder, the name of the corporate shareholder and the names of its 10 largest shareholders and the holding percentage of each shall be noted (see Table 1).
+
+B. The general manager, assistant general managers, deputy assistant general managers, and the chiefs of all the company's divisions and branch units: names; gender; nationality; principal work experience and academic qualifications; date on which current position was assumed; term of contract; and shares held by them and their spouses, children of minor age, and held through nominees (see Table 1-1).
+
+C. Where the chairperson of the board of directors and the general manager or person of an equivalent post (the highest level manager) of a company are the same person, spouses, or relatives within the first degree of kinship, an explanation shall be given of the reason for, reasonableness, necessity thereof, and the measures adopted in response thereto (see Tables 1 and 1-1).
+
+\2. Remuneration paid during the most recent fiscal year to directors, supervisors, the general manager, and assistant general managers (see Table 1-2 and Table 1-3):
+
+A. The company may opt either to disclose aggregate remuneration information, with the name(s) indicated for each remuneration range, or to disclose the name of each individual and the corresponding remuneration amount.
+
+B. If any of the following applies to the company, it shall disclose the remuneration paid to each individual director and supervisor:
+
+a. A company that has posted after-tax deficits in the parent company only financial reports or individual financial reports within the three most recent fiscal years shall disclose the remuneration paid to individual directors and supervisors. This requirement, however, shall not apply if the company has posted net profit after tax in the parent company only financial report or individual financial report for the most recent fiscal year and such net profit after tax is sufficient to offset the accumulated deficits.
+
+b. A company that has had an insufficient director shareholding percentage for 3 consecutive months or longer during the most recent fiscal year shall disclose the remuneration of individual directors; one that has had an insufficient supervisor shareholding percentage for 3 consecutive months or more during the most recent fiscal year shall disclose the remuneration of individual supervisors.
+
+c. A company that has had an average ratio of share pledging by directors or supervisors in excess of 50 percent in any 3 months during the most recent fiscal year shall disclose the remuneration paid to each individual director or supervisor having a ratio of pledged shares in excess of 50 percent for each such month.
+
+d. If the total amount of remuneration received by all of the directors and supervisors in their capacities as directors or supervisors of all of the companies listed in the financial reports exceeds 2 percent of the net profit after tax, and the remuneration received by any individual director or supervisor exceeds NT$15 million, the company shall disclose the remuneration paid to that individual director or supervisor.
+
+e. A company listed on the Taiwan Stock Exchange (TWSE) or the Taipei Exchange (TPEx) is ranked within the lowest two tiers in the corporate governance evaluation for the most recent fiscal year, or in the most recent fiscal year or up to the date of publication of the annual report for that year, the company's securities have been placed under an altered trading method, suspended from trading, delisted from the TWSE or the TPEx, or the Corporate Governance Evaluation Committee has resolved that the company shall be excluded from evaluation.
+
+f. The average annual salary of the full-time non-management employees in a TWSE or TPEx listed company is less than NT$500,000 in the most recent fiscal year.
+
+g. A TWSE or TPEx listed company had an increase of 10 percent or more in net profit after tax for the most recent fiscal year, but the average annual salary of its full-time non-management employees did not increase relative to the preceding fiscal year.
+
+h. A TWSE or TPEx listed company had a decline in after-tax net income reaching 10 percent and exceeding NT$5 million for the most recent fiscal year, along with an increase in its average remuneration per director (not including the remuneration of those who are also employees) reaching 10 percent or more and exceeding NT$100,000.
+
+C. If the circumstance in sub-item "a" or in sub-item "e" of the preceding item applies to a company listed on the TWSE or the TPEx, it shall disclose the individual remuneration paid to each of its five highest remunerated management personnel (see Table 1-2).
+
+D. Separately compare and describe total remuneration, as a percentage of net income stated in the parent company only financial reports or individual financial reports, as paid by this company and by each other company included in the consolidated financial statements during the past 2 fiscal years to directors, supervisors, general managers, and assistant general managers, and analyze and describe remuneration policies, standards, and packages, the procedure for determining remuneration, and its linkage to operating performance and future risk exposure.
+
+\3. The state of the company's implementation of corporate governance:
+
+A. The state of operations of the board of directors: Number of meetings; attendance rate of each director; an evaluation of targets for strengthening of the functions of the board during the current and immediately preceding fiscal years, and measures taken toward achievement thereof; and any other matters that require reporting (see Table 2).
+
+B. The state of operations of the audit committee or the state of participation in board meetings by the supervisors: Number of meetings; rate of attendance (or of attendance as a non-voting participant) of each independent director or supervisor; and any other matters that require reporting (see Table 2-1, Table 2-1-1).
+
+C. The state of the company's implementation of corporate governance, any deviation from the Corporate Governance Best-Practice Principles for TWSE/TPEx Listed Companies, and the reason for any such deviation (see Table 2-2).
+
+D. If the company has a remuneration committee or nomination committee in place, the composition and operation of such committee shall be disclosed (see Table 2-2-1).
+
+E. The state of the company's promotion of sustainable development, any deviation from the Sustainable Development Best Practice Principles for TWSE/TPEx Listed Companies, and the reason for any such deviation (see Table 2-2-2); a company that meets certain conditions shall disclose climate-related information (see Table 2-2-3).
+
+F. The state of the company’s performance in the area of ethical corporate management, any deviation from the Ethical Corporate Management Best Practice Principles for TWSE/TPEx Listed Companies, and the reason for any such deviation (see Table 2-2-4).
+
+G. Other significant information that will provide a better understanding of the state of the company's implementation of corporate governance may also be disclosed.
+
+H. The section on the state of implementation of the company's internal control system shall furnish the following:
+
+a. A Statement on Internal Control.
+
+b. Where a CPA has been hired to carry out a special audit of the internal control system, furnish the CPA audit report.
+
+I. Material resolutions of a shareholders meeting or a board of directors meeting during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report.
+
+J. Where, during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report, a director or supervisor has expressed a dissenting opinion with respect to a material resolution passed by the board of directors, and said dissenting opinion has been recorded or prepared as a written declaration, disclose the principal content thereof.
+
+\4. Information on the professional fees of the attesting CPAs (external auditors):
+
+A. The company shall disclose the amounts of the audit fees and non-audit fees paid to the attesting certified public accountants and to the accounting firm to which they belong and to any affiliated enterprises as well as the details of non-audit services (see Table 2-4), and given any of the following conditions, shall disclose information as follows:
+
+a. When the company changes its accounting firm and the audit fees paid for the fiscal year in which such change took place are lower than those for the previous fiscal year, the amounts of the audit fees before and after the change and the reasons shall be disclosed.
+
+b. When the audit fees paid for the current fiscal year are lower than those for the previous fiscal year by 10 percent or more, the reduction in the amount of audit fees, reduction percentage, and reason(s) therefor shall be disclosed.
+
+B. The professional fees for auditing services referred to in the preceding item means the professional fees paid by the company to certified public accountants for auditing, review, and secondary reviews of financial reports and for financial forecast reviews.
+
+\5. Information on replacement of certified public accountant: If the company has replaced its certified public accountant within the last 2 fiscal years or any subsequent interim period, it shall disclose the following information: (see Table 2-5)
+
+A. Regarding the former certified public accountant:
+
+a. Date of and reason for replacement of the certified public accountant, specifying whether it was the certified public accountant that voluntarily ended the engagement or declined further engagement, or the company that terminated or discontinued the engagement.
+
+b. If the former certified public accountant issued an audit report expressing other than an unqualified opinion during the 2 most recent years, furnish the opinion and reason.
+
+c. Indicate whether there was any disagreement between the company and the former certified public accountant relating to accounting principles or practices, financial report disclosure, or auditing scope or procedure. If any disagreements did exist, the company shall describe in detail the nature of each such disagreement, how the company handled them (including whether the company has authorized the former certified public accountant to respond fully to the inquiries of the successor certified public accountant concerning the subject matter of each such disagreement), and how the disagreements were finally handled.
+
+d. Where the former certified public accountant has advised the company that it lacked the sound internal controls necessary for the preparation of reliable financial reports.
+
+e. Where the former certified public accountant has advised the company that he or she was unable to rely on the company's written representations, or was unwilling to be associated with the financial report prepared by the company.
+
+f. Where the former certified public accountant has advised the company of the need to expand the scope of the audit, or of information showing that an expanded audit might impact the reliability of either a previously issued financial report or the financial report to be issued but, due to replacement of the certified public accountant or for any other reason, the former certified public accountant did not expand the scope of the audit.
+
+g. Where the former certified public accountant has advised the company that information collected might impact the reliability of either a previously issued financial report or the financial report to be issued but, due to the replacement of the certified public accountant or for any other reason, the certified public accountant did not deal with the issue.
+
+B. Regarding the successor certified public accountant:
+
+a. Name of the successor accounting firm, name of the certified public accountant, and date of engagement.
+
+b. If prior to the formal engagement of the successor certified public accountant, the company consulted the newly engaged accountant regarding the accounting treatment of or application of accounting principles to a specified transaction, or the type of audit opinion that might be rendered on the company's financial report, the company shall state and identify the subjects discussed during those consultations and the consultation results.
+
+c. The company shall consult and obtain written views from the successor certified public accountant regarding the matters on which the company did not agree with the former certified public accountant, and shall make disclosure thereof.
+
+C. The company shall mail to the former certified public accountant a copy of the disclosures it is making pursuant to item A and to (c) of the here preceding item, and advise the accountant of the need to respond by mail within 10 days should the accountant disagree. The company shall disclose the content of the reply letter from the former certified public accountant.
+
+\6. Where the company's chairperson, general manager, or any managerial officer in charge of finance or accounting matters has in the most recent year held a position at the accounting firm of its certified public accountant or at an affiliated enterprise of such accounting firm, the name and position of the person, and the period during which the position was held, shall be disclosed. The term "affiliated enterprise of a certified public accountant's accounting firm" means one in which the certified public accountants at the accounting firm of the attesting certified public accountant hold more than 50 percent of the shares, or of which such accountants hold more than half of the directorships, or a company or institution listed as an affiliated enterprise in the external publications or printed materials of the accounting firm of the certified public accountant.
+
+\7. Any transfer of equity interests and/or pledge of or change in equity interests (during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report) by a director, supervisor, managerial officer, or shareholder with a stake of more than 10 percent during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report. Where the counterparty in any such transfer or pledge of equity interests is a related party, disclose the counterparty's name, its relationship between that party and the company as well as the company's directors, supervisors, managerial officers, and ten-percent shareholders, and the number of shares transferred or pledged (see Table 3).
+
+\8. Relationship information, if among the company's 10 largest shareholders any one is a related party or a relative within the second degree of kinship of another (see Table 3-1).
+
+\9. The total number of shares and total equity stake held in any single enterprise by the company, its directors and supervisors, managerial officers, and any companies controlled either directly or indirectly by the company (see Table 4).
+
+The certain conditions mentioned in item E of subparagraph 3 of the preceding paragraph shall be prescribed by the FSC.
+
+The latter part of item E, subparagraph 4, paragraph 1 amended on 25 November 2022 shall be enforced from 1 January 2024.
+
+### Article 10-1
+
+A company that meets certain criteria as mentioned in Article 7, paragraph 2 shall handle the preparation and disclosure of sustainability-related financial information in accordance with the following subparagraphs and relevant laws and regulations; matters not specified therein shall be handled in accordance with the IFRS Sustainability Disclosure Standards (hereinafter, "Sustainability Disclosure Standards") as endorsed by the FSC:
+
+\1. The company shall identify sustainability-related risks and opportunities that could reasonably be expected to affect its prospects in accordance with the Sustainability Disclosure Standards and shall refer to industry-based disclosure topics as specified in the Sustainability Accounting Standards Board (SASB) Standards, and shall disclose material information that could reasonably be expected to affect the company's cash flows, access to finance, or cost of capital over the short, medium, or long term. Information is "material" if omitting, misstating, or obscuring such sustainability-related financial information could reasonably be expected to influence decisions that primary users of general-purpose financial reports make on the basis of such information.
+
+\2. The company’s sustainability-related financial information shall be for the same reporting entity and reporting period as the related financial reports. Except for the first annual reporting period in which the company applies the Sustainability Disclosure Standards, the company shall disclose comparative information for the preceding period simultaneously.
+
+\3. The company shall declare that its sustainability-related financial information has been prepared in accordance with the Sustainability Disclosure Standards endorsed by the FSC, and shall fairly present such information to ensure it meets the qualitative characteristics of relevance, faithful representation, comparability, verifiability, timeliness, and understandability.
+
+\4. The company shall enable primary users of general purpose financial reports to understand the connections between sustainability-related financial information and related financial reports. Data, assumptions, and units of measure used to prepare sustainability-related financial information shall be consistent with those in the same period's financial reports; any significant differences shall be disclosed.
+
+\5. The company shall disclose sustainability-related financial information according to the core content including governance, strategy, risk management, and metrics and targets. In accordance with relevant provisions of the Sustainability Disclosure Standards, the company may use all reasonable and supportable information available at the reporting date without undue cost or effort, and may make disclosures quantitatively or qualitatively using an approach that is commensurate with its skills, capabilities, and resources.
+
+\6. In the first annual reporting period in which the company applies the Sustainability Disclosure Standards, the company is permitted to disclose only climate-related information, and shall disclose that fact.
+
+\7. Regarding measurement methods for greenhouse gas emissions in climate-related information: Except for emission sources required to be inventoried under the Climate Change Response Act, which shall be handled by methods prescribed by the Ministry of Environment, measurements shall be conducted in accordance with the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard or methods endorsed by the FSC. Information on applicable methods, measurement approach, inputs, and assumptions shall be disclosed in accordance with IFRS S2 Climate-related Disclosures. If, in the annual reporting period immediately preceding the initial application of the Sustainability Disclosure Standards, the company used another method for measuring its greenhouse gas emissions, it is permitted to continue using that other method in the first annual period in which the company applies the Sustainability Disclosure Standards.
+
+\8. When preparing Scope 1 and Scope 2 greenhouse gas emission information in climate-related information, the company shall obtain and disclose assurance opinions from independent third parties in the manner prescribed by the FSC. Scope 3 greenhouse gas emission information shall be disclosed according to the timeline prescribed by the FSC.
+
+### Article 11
+
+The section on capital and shares shall include the following information:
+
+\1. Source of capital stock: Disclose the types of shares issued by the company during the preceding fiscal year and in the current fiscal year up to the date of the publication of the report. If approval has been granted to offer and issue securities by shelf registration, additionally disclose the approved amount and information regarding securities to be issued or already issued (see Table 5).
+
+\2. List of major shareholders: List all shareholders with a stake of 5 percent or greater, and if those are fewer than 10 shareholders, also list all shareholders who rank in the top 10 in shareholding percentage, and specify the number of shares and stake held by each shareholder on the list (see Table 8).
+
+\3. Company's dividend policy and implementation thereof: Disclose the dividend policy adopted in the company's articles of incorporation, as well as the dividend distributions proposed at the most recent shareholders' meeting. If a material change in dividend policy is expected, provide an explanation.
+
+\4. Effect upon business performance and earnings per share of any stock dividend distribution proposed or adopted at the most recent shareholders' meeting.
+
+\5. Profit-sharing compensation of employees, directors, and supervisors:
+
+A. The percentages or ranges with respect to employee, director, and supervisor profit-sharing compensation, as set forth in the company's articles of incorporation.
+
+B. The basis for estimating the amount of employee, director, and supervisor profit-sharing compensation, for calculating the number of shares to be distributed as employee profit-sharing compensation, and the accounting treatment of the discrepancy, if any, between the actual distributed amount and the estimated figure, for the current period.
+
+C. Information on any approval by the board of directors of distribution of profit-sharing compensation:
+
+a. The amount of any employee profit-sharing compensation and director and supervisor profit-sharing compensation distributed in cash or stocks. If there is any discrepancy between that amount and the estimated figure for the fiscal year these expenses are recognized, the discrepancy, its cause, and the status of treatment shall be disclosed.
+
+b. The amount of any employee profit-sharing compensation distributed in stocks, and the size of that amount as a percentage of the sum of the after-tax net income stated in the parent company only financial reports or individual financial reports for the current period and total employee profit-sharing compensation.
+
+D. The actual distribution of employee, director, and supervisor profit-sharing compensation for the previous fiscal year (with an indication of the number of shares, monetary amount, and stock price, of the shares distributed), and, if there is any discrepancy between the actual distribution and the recognized employee, director, or supervisor profit-sharing compensation, additionally the discrepancy, cause, and how it is treated.
+
+\6. Status of a company repurchasing its own shares: (see Table 10)
+
+A. Repurchases already completed: The company shall describe, for the most recent year and the period up to the annual report publication date, the purpose of the repurchase of its own shares, the period for the repurchase, the price range of the shares to be repurchased that it reported, and the type, number, and monetary amount of the shares already repurchased, the ratio of the number of shares that were repurchased to the planned number of shares to be repurchased, the number of shares that have been canceled and that have been transferred, the cumulative number of its own shares that the company holds, and the ratio of the cumulative number of its own shares that it holds to the total number of its issued shares.
+
+B. Any repurchase still in progress: The company shall describe the purpose of the repurchase, the type of shares to be repurchased, the ceiling on the total monetary amount of the repurchase, the planned period for the repurchase, and number of shares to be repurchased, and the price range of the shares to be repurchased, and also shall specify, as of the annual report publication date, the type, number, and monetary amount of the shares already repurchased, and the ratio of the number of shares that were repurchased to the planned number of shares to be repurchased.
+
+### Article 12
+
+The annual report shall provide information on the company's issuance of corporate bonds, including unretired bonds and unissued bonds for which an issue is currently under preparation, and in accordance with Article 248 of the Company Act the report shall disclose all the matters set forth thereunder and explain their effect upon shareholders' equity. Any privately placed corporate bonds shall be prominently identified as such (see Table 11).
+
+### Article 13
+
+The section on preferred shares shall include both outstanding and unissued shares for which an issue is currently under preparation, and shall disclose any conditions attaching to issuance and their effect upon shareholders' equity. The information on preferred shares shall also specify the matters listed under Article 157 of the Company Act (see Table 12).
+
+### Article 14
+
+The section on global depository receipts shall include information on receipts issues that remain partially outstanding, and on unissued receipts for which an issue is currently under preparation. Also to be disclosed are the date of issue, total value of issue, the rights and responsibilities of the holders of global depository receipts, and related matters. Any privately placed global depository receipts shall be prominently identified as such (see Table 13).
+
+### Article 15
+
+The section on employee share subscription warrants shall specify the following matters:
+
+\1. The annual report shall disclose unexpired employee subscription warrants issued by the company in existence as of the date of publication of the annual report, and shall explain the effect of such warrants upon shareholders' equity. Any privately placed employee subscription warrants shall be prominently identified as such (see Table 14).
+
+\2. The annual report shall disclose the names of top-level company executives holding employee share subscription warrants and the cumulative number of such warrants exercised by said executives as of the date of publication of the annual report. The annual report shall also disclose the names of the ten employees holding employee subscription warrants authorizing purchase of the most shares, along with the cumulative number of warrants exercised by these ten employees, as of the date of publication of the annual report (see Table 15).
+
+The section on "new restricted employee shares" shall specify the following matters:
+
+\1. For all new restricted employee shares for which the vesting conditions have not yet been met for the full number of shares, the annual report shall disclose the status up to the date of publication of the annual report and the effect on shareholders' equity (see Table 14-1).
+
+\2. Names and acquisition status of managerial officers who have acquired new restricted employee shares and of employees who rank among the top ten in the number of new restricted employee shares acquired, cumulative to the date of publication of the annual report (see Table 15-1).
+
+### Article 16
+
+The section on issuance of new shares in connection with mergers or acquisitions or with acquisitions of shares of other companies shall specify the following matters:
+
+\1. If, during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report, the company has completed any issuance of new shares in connection with a merger or acquisition or with acquisition of shares of any other company, the annual report shall specify the following matters:
+
+A. In the case of a company whose shares are listed on the TWSE ("TWSE listed company") or listed on the TPEx in accordance with the provisions of Article 3 or Article 3-1 of the Taipei Exchange Rules Governing the Review of Securities for Trading on the TPEx ("TPEx listed company"), the annual report shall include a clear opinion prepared by the managing underwriter concerning any issuance of new shares in connection with any merger or acquisition or with any acquisition of shares of any other company within the past quarter.
+
+B. In addition to requirements set forth in the preceding item, the annual report shall also disclose the state of implementation of any of the aforementioned matters during the most recent quarter. If the progress or benefits of such implementation were not as good as expected, the annual report shall explain specifically how the situation is likely to affect shareholders' equity, and shall put forward a plan for corrective action.
+
+\2. Where the board of directors has, during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report, adopted a resolution approving any issuance of shares in connection with a merger or acquisition or with acquisition of shares of any other company, the annual report shall disclose the state of the plan's implementation together with the basic identifying information of the company (or companies) to be merged or acquired or whose shares are to be acquired (see Table 16). Where any issuance of new shares in connection with a merger or acquisition or with acquisition of shares of any other company is currently in progress, the annual report shall disclose the state of the plan's implementation and its effect upon shareholders' equity.
+
+### Article 17
+
+The section on implementation of the company's capital allocation plans shall include the following:
+
+\1. a description of the plans: For the period as of the quarter preceding the date of publication of the annual report, with respect to each uncompleted public issue or private placement of securities, and to such issues and placements that were completed in the most recent 3 years but have not yet fully yielded the planned benefits, the annual report shall provide a detailed description of the plan for each such public issue and private placement. Such descriptions shall include any and all changes to the plan, the source of funds and the manner of their utilization, the reason(s) for any changes to the plan, the benefits yielded by the funds before and after any change to the plan, the date on which the change to the plan was reported at a shareholders' meeting, and the date on which such information was uploaded to the information disclosure website specified by the FSC.
+
+\2. status of implementation: With respect to funds usage under the plans referred to in the preceding subparagraph, the annual report shall (for the period as of the quarter preceding the date of publication of the annual report) analyze the status of implementation and compare actual benefits with expected benefits. Where implementation has failed to yield the expected progress or benefits, the annual report shall provide specific reasons for such failure, explain any effect it might have upon shareholders' equity, and outline the plan for correcting the situation. Where any of the following items apply to the funds usage plan descriptions referred to in the preceding subparagraph, the annual report shall further disclose the following information:
+
+A. If the funds are used to merge, acquire, or purchase another company through share acquisition, to expand fixed assets, or to acquire new property, plant and equipment, the annual report shall compare and explain property, plant and equipment, operating revenues, operating costs, and operating income.
+
+B. If the funds are invested in another company, the annual report shall describe the condition of the invested company and explain the effect of the investment upon gain or loss from investments.
+
+C. If the funds are used to strengthen the company's working capital or pay off debts, the annual report shall: (1) note any increase or decrease in the company's current assets, current liabilities, and total liabilities; (2) compare and explain the company's interest expenses, operating revenues, and earnings per share; and (3) analyze the company's financial structure.
+
+### Article 18
+
+The overview of business operations shall include the following:
+
+\1. A description of the business:
+
+A. Scope of business: the company's major lines of business and the relative weight of each, current products (services), and new products (services) planned for development.
+
+B. An overview of the industry: the current status and development of the industry, the links between the upstream, midstream, and downstream segments of the industry supply chain, and development trends and competition for the company's products.
+
+C. An overview of the company's technologies and its research and development work: a listing of research and development expenditures as well as technologies and/or products successfully developed during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report.
+
+D. The company's long- and short-term business development plans.
+
+\2. An analysis of the market as well as the production and marketing situation, including:
+
+A. Market analysis: analysis of the geographic areas where the main products (services) of the company are provided (supplied), the company's market share, demand and supply conditions for the market in the future, the market's growth potential, the company's competitive niche, positive and negative factors for future development, and the company's response to such factors.
+
+B. Usage and manufacturing processes for the company's main products.
+
+C. Supply situation for the company's major raw materials.
+
+D. A list of any suppliers and clients accounting for 10 percent or more of the company's total procurement (sales) amount in either of the 2 most recent fiscal years, the amounts bought from (sold to) each, the percentage of total procurement (sales) accounted for by each, and an explanation of the reason for increases or decreases in the above figures. Where the company is prohibited by contract from revealing the name of a client, or where a trading counterpart is an individual person who is not a related party, it may use a code in place of the actual name (see Table 16-1 and Table 16-2).
+
+\3. The number of employees employed for the 2 most recent fiscal years, and during the current fiscal year up to the date of publication of the annual report, their average years of service, average age, and education levels (including the percentage of employees at each level) (see Table 19).
+
+\4. Disbursements for environmental protection: any losses suffered by the company in the most recent fiscal year and up to the annual report publication date due to environmental pollution incidents (including any compensation paid and any violations of environmental protection laws or regulations found in environmental inspection, specifying the disposition dates, disposition reference numbers, the articles of law violated, and the content of the dispositions), and disclosing an estimate of possible expenses that could be incurred currently and in the future and measures being or to be taken. If a reasonable estimate cannot be made, an explanation of the facts of why it cannot be made shall be provided.
+
+\5. Labor relations:
+
+A. List any employee benefit plans, continuing education, training, retirement systems, and the status of their implementation, and the status of labor-management agreements and measures for preserving employees' rights and interests.
+
+B. List any losses suffered by the company in the most recent fiscal year and up to the annual report publication date due to labor disputes (including any violations of the Labor Standards Act found in labor inspection, specifying the disposition dates, disposition reference numbers, the articles of law violated, the substance of the legal violations, and the content of the dispositions), and disclosing an estimate of possible expenses that could be incurred currently and in the future and measures being or to be taken. If a reasonable estimate cannot be made, an explanation of the facts of why it cannot be made shall be provided.
+
+\6. Cyber security management:
+
+A. Describe the cyber security risk management framework, cyber security policies, concrete management programs, and investments in resources for cyber security management.
+
+B. List any losses suffered by the company in the most recent fiscal year and up to the annual report publication date due to significant cyber security incidents, the possible impacts therefrom, and measures being or to be taken. If a reasonable estimate cannot be made, an explanation of the facts of why it cannot be made shall be provided.
+
+\7. Important contracts: the contracting parties, major content, restrictive clauses, and the commencement dates and expiration dates of supply/distribution contracts, technical cooperation contracts, engineering/construction contracts, long-term loan contracts, and other contracts that would affect shareholders' equity, where said contracts were either still effective as of the date of publication of the annual report, or expired in the most recent fiscal year (see Table 20).
+
+### Article 19
+
+(deleted)
+
+### Article 20
+
+The company shall review and analyze its financial position and financial performance, and shall assess its risks. In this regard, the annual report shall cover the following points:
+
+\1. financial position: The annual report shall list the main reasons for any material change in the company's assets, liabilities, or equity during the past 2 fiscal years, and describe the effect thereof. Where the effect is of material significance, the annual report shall describe the measures to be taken in response.
+
+\2. financial performance: The annual report shall list the main reasons for any material change in operating revenues, operating income, or income before tax during the past 2 fiscal years, provide a sales volume forecast and the basis therefor, and describe the effect upon the company's financial operations as well as measures to be taken in response.
+
+\3. cash flow: The annual report shall describe and analyze any cash flow changes during the most recent fiscal year, describe corrective measures to be taken in response to illiquidity, and provide a liquidity analysis for the coming year.
+
+\4. The annual report shall describe the effect upon financial operations of any major capital expenditures during the most recent fiscal year.
+
+\5. The annual report shall describe the company's reinvestment policy for the most recent fiscal year, the main reasons for the profits/losses generated thereby, the plan for improving re-investment profitability, and investment plans for the coming year.
+
+\6. The section on risks shall analyze and assess the following matters during the most recent fiscal year and as they stood on the date of publication of the annual report:
+
+A. The effect upon the company's profits (losses) of interest and exchange rate fluctuations and changes in the inflation rate, and response measures to be taken in the future.
+
+B. The company's policy regarding high-risk investments, highly leveraged investments, loans to other parties, endorsements, guarantees, and derivatives transactions; the main reasons for the profits/losses generated thereby; and response measures to be taken in the future.
+
+C. Research and development work to be carried out in the future, and further expenditures expected for research and development work.
+
+D. Effect on the company's financial operations of important policies adopted and changes in the legal environment at home and abroad, and measures to be taken in response.
+
+E. Effect on the company's financial operations of developments in science and technology (including cyber security risks) as well as industrial change, and measures to be taken in response.
+
+F. Effect on the company's crisis management of changes in the company's corporate image, and measures to be taken in response.
+
+G. Expected benefits and possible risks associated with any merger and acquisitions, and mitigation measures being or to be taken.
+
+H. Expected benefits and possible risks associated with any plant expansion, and mitigation measures being or to be taken.
+
+I. Risks associated with any consolidation of sales or purchasing operations, and mitigation measures being or to be taken.
+
+J. Effect upon and risk to the company in the event a major quantity of shares belonging to a director, supervisor, or shareholder holding greater than a 10 percent stake in the company has been transferred or has otherwise changed hands, and mitigation measures being or to be taken.
+
+K. Effect upon and risk to company associated with any change in governance personnel or top management, and mitigation measures being or to be taken.
+
+L. Litigious and non-litigious matters. List major litigious, non-litigious or administrative disputes that: (1) involve the company and/or any company director, any company supervisor, the general manager, any person with actual responsibility for the firm, any major shareholder holding a stake of greater than 10 percent, and/or any company or companies controlled by the company; and (2) have been concluded by means of a final and unappealable judgment, or are still under litigation. Where such a dispute could materially affect shareholders' equity or the prices of the company's securities, the annual report shall disclose the facts of the dispute, amount of money at stake in the dispute, the date of litigation commencement, the main parties to the dispute, and the status of the dispute as of the date of publication of the annual report.
+
+M. Other important risks, and mitigation measures being or to be taken.
+
+\7. Other important matters.
+
+### Article 20-1
+
+(deleted)
+
+### Article 20-2
+
+(deleted)
+
+### Article 21
+
+Special items to be included:
+
+\1. Information related to the company's affiliates: the consolidated business report, consolidated financial statement, and affiliation report for the most recent fiscal year, compiled in accordance with the FSC's Regulations Governing Preparation of Consolidated Business Reports Covering Affiliated Enterprises, Consolidated Financial Statements Covering Affiliated Enterprises, and Reports on Affiliations.
+
+\2. Where the company has carried out a private placement of securities during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report, disclose the date on which the placement was approved by the board of directors or by a shareholders meeting, the amount thus approved, the basis for and reasonableness of the pricing, the manner in which the specified persons were selected, the reasons why the private placement method was necessary, the targets of the private placement, their qualifications, subscription amounts, subscription price, relationship with the company, participation in the operations of the company, actual subscription (or conversion) price, the difference between the actual subscription (or conversion) price and the reference price, the effect of the private placement on shareholders' equity, and, for the period from receipt of payment in full to the completion of the related capital allocation plan, the status of use of the capital raised through the private placement of securities, the implementation progress of the plan, and the realization of the benefits of the plan (see Table 24).
+
+\3. Other matters that require additional description.
+
+### Article 22
+
+If any of the situations listed in Article 36, paragraph 3, subparagraph 2 of the Securities and Exchange Act, which might materially affect shareholders' equity or the price of the company's securities, has occurred during the most recent fiscal year or during the current fiscal year up to the date of publication of the annual report, such situations shall be listed one by one.
+
+### Article 22-1
+
+If the content of any information required to be reported under Article 10, paragraph 1, subparagraph 3, item h and subparagraph 7 (fore part), Article 17, and Article 21, subparagraphs 1 and 2 has already been publicly announced and reported on the information reporting website designated by the FSC, it may be incorporated in the annual report by cross-reference to the source where the information can be found, whereupon, such publicly announced and reported information shall be deemed content of the annual report.
+
+## Chapter 3 Supplementary Provisions
+
+### Article 23
+
+The company shall upload an electronic file containing its annual report to the information disclosure website specified by the FSC in accordance with the following rules:
+
+\1. A TWSE or TPEx listed company shall upload the electronic file 14 days prior to the day on which a shareholders' meeting is to be held.
+
+\2. A public company whose stock is traded on the TPEx in accordance with the Taipei Exchange Rules Governing the Review of Emerging Stocks for Trading on the TPEx shall upload the electronic file 7 days prior to the day on which a shareholders' meeting is to be held.
+
+\3. A public company whose shares are neither listed on the TWSE nor traded on the TPEx shall upload the electronic file 2 days prior to the day on which a shareholders' meeting is to be held.
+
+A company that meets certain criteria as mentioned in Article 7, paragraph 2 shall file its annual report at the same time as its financial report for the same fiscal year, and shall transmit the electronic file of the annual report to the information filing website designated by the FSC. However, if the complete content of the annual report has not yet been prepared, the company may first file the dedicated section on sustainability-related financial information, and then file the complete annual report in accordance with subparagraph 1 of the preceding paragraph.
+
+If the annual report is to be used as a supplemental material to the agenda handbook for the shareholders' meeting, the time limit for uploading the electronic file to the website under the preceding two paragraphs shall comply with the time limit provided in the Regulations Governing Content and Compliance Requirements for Shareholders' Meeting Agenda Handbooks of Public Companies.
+
+The company whose stock is listed on the TWSE shall send a copy of the annual report to the TWSE. The company whose stock is traded on the TPEx shall send a copy of the annual report to the TPEx.
+
+### Article 23-1
+
+(deleted)
+
+### Article 24
+
+These Regulations shall enter into force from January 1, 1989.
+
+Any amendment to these Regulations shall enter into force from the date of issuance except where the date of enforcement is otherwise prescribed.
+
+## Attachments
+
+- [Table 1 Information on Directors and Supervisors.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009574)
+- [Table 1-1 Information on the Management Team.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009575)
+- [Table 1-2 Method for Disclosure of Remuneration.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009576)
+- [Table 1-3 Names and Distributions of Employee Profit-Sharing Compensation to Managerial Officers.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009577)
+- [Table 2 Operation of the Board of Directors & Implementation of Evaluations of the Board of Directors.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009578)
+- [Table 2-1 Operation of the Audit Committee.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009579)
+- [Table 2-1-1 Attendance by the Supervisors at Board of Directors Meetings.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009580)
+- [Table 2-2 Corporate Governance – Implementation Status and Deviations from the Corporate Governance Best-Practice Principles for TWSE／TPEx Listed Companies and the Reasons.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009581)
+- [Table 2-2-1 Information on Remuneration Committee Members & Operation of the Remuneration Committee & Information on Members and the Operation of the Nomination Committee.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009582)
+- [Table 2-2-2 Promotion of Sustainable Development – Implementation Status and Deviations from the Sustainable Development Best Practice Principles for TWSE／TPEx Listed Companies and the Reasons.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009583)
+- [Table 2-2-3 Climate-Related Information of TWSE／TPEx Listed Company.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009584)
+- [Table 2-2-4 Ethical Corporate Management – Implementation Status and Deviations from the Ethical Corporate Management Best Practice Principles for TWSE／TPEx Listed Companies and the Reasons.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009585)
+- [Table 2-4 Information on CPA (External Auditor) Professional Fees.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009586)
+- [Table 2-5 Information on Replacement of CPAs (2).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009587)
+- [Table 3 Changes in Shareholding of Directors, Supervisors, Managerial Officers, and Major Shareholders.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009588)
+- [Table 3-1 Relationships Among the Top 10 Shareholders.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009589)
+- [Table 4 Total Ownership of Shares in Investee Enterprises.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009590)
+- [Table 5 Sources of Capital.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009591)
+- [Table 8 List of Major Shareholders.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009592)
+- [Table 10 Share Repurchases by the Company.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009593)
+- [Table 11 Issuance of Corporate Bonds.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009594)
+- [Table 12 Preferred Shares.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009595)
+- [Table 13 Global Depositary Receipts (GDR).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009596)
+- [Table 14 Employee Share Subscription Warrants.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009597)
+- [Table 14-1 New Restricted Employee Shares.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009598)
+- [Table 15 Names and Acquisition and Subscription Status of Managerial Officers Who Have Acquired Employee Share Subscription Warrants and the Top Ten Employees (Ranked by the Number of Subscribable Shares) Who Have Acquired Share Subscription Wa.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009599)
+- [Table 15-1 Names and Acquisition Status of Managerial Officers Who Have Acquired New Restricted Employee Shares and the Top Ten Employees (Ranked by the Number of Restricted Shares Acquired) Who Have Acquired New Restricted Employee Shares.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009600)
+- [Table 16 Basic Information on Companies That Are Merged or Acquired or Whose Shares Are Acquired by the Company.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009601)
+- [Table 16-1 Information on Major Suppliers for the Most Recent 2 Years.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009602)
+- [Table 16-2 Information on Major Customers for the Most Recent 2 Fiscal Years.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009603)
+- [Table 19 Employee Statistics for the Most Recent 2 Fiscal Years up to the Annual Report Publication Date.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009604)
+- [Table 20 Important Contracts.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009605)
+- [Table 24 Private Placements of Securities.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009606)
+
+## History
+
+\6. Articles 7, 10, 17, 18, and 21 amended and promulgated and Article 20-1 added 30 December 2003 per Order No. Taiwan-Finance-Securities-I-0920005337 of the Securities and Futures Commission, Ministry of Finance
+
+\7. Articles 2, 7, 10, 11, 15 , 16, 17, 19, and 20 amended and promulgated per Order No. Financial-Supervisory- Securities-I-0930006133 of 21 December 2004 of the Financial Supervisory Commission, Executive Yuan
+
+\8. Articles 8 to 11, 17, 19, 20, and 21 amended, and Article 20-2 added, with the above changes issued 16 January 2006 per Order No. Financial-Supervisory-Securities-I-0950000274 of the Financial Supervisory Commission, Executive Yuan
+
+\9. Articles 7, 10, 17, 18, and 21 amended, and Articles 20-1 and 20-2 deleted, with the above changes issued 4 January 2007 per Order No. Financial-Supervisory-Securities-I-0950005990 of the Financial Supervisory Commission, Executive Yuan
+
+\10. Articles 10, 21, and 23 amended and issued 27 December 2007 per Order No. Financial-Supervisory-Securities-I-0960070693 of the Financial Supervisory Commission, Executive Yuan
+
+\11. Article 10 amended and issued per 25 December 2008 Order No. Financial-Supervisory-Securities-I-0970068986 of the Financial Supervisory Commission, Executive Yuan
+
+\12. Articles 10, 11, 18, and 23 amended and issued per 22 December 2009 Order No. Financial-Supervisory-Securities-Corporate-0980068243 of the Financial Supervisory Commission, Executive Yuan
+
+\13. Article 10 and Table 6 to Article 11 amended and issued per 12 January 2011 Order No. Financial-Supervisory-Securities-Corporate-1000000496 of the Financial Supervisory Commission, Executive Yuan
+
+\14. Articles 2, 7, 10, 11, 15, 17, 19, 20, and Table 25 to Article 21 amended and issued, and Article 23-1 added, per 20 September 2012 Order No. Financial-Supervisory-Securities-Corporate-1010039280 of the Financial Supervisory Commission
+
+\15. Table 23 of Article 19 amended and issued per 31 December 2013 Order No. Financial-Supervisory-Securities-Corporate-1020053220 of the Financial Supervisory Commission
+
+\16. Articles 1, 10, 22, and 23, and Tables 15 and 15-1 of Article 15 amended and issued per 29 January 2015 Order No. Financial-Supervisory-Securities-Corporate-1040001648 of the Financial Supervisory Commission
+
+\17. Articles 11 and 23, and Tables 1-2 and 1-3 of Article 10 amended and issued per 6 August 2015 Order No. Financial-Supervisory-Securities-Corporate-1040029334 of the Financial Supervisory Commission
+
+\18. Articles 10 and 19, Tables 15 and 15-1 of Article 15, and Tables 16-1 and 16-2 of Article 18 amended, and Article 23-1 deleted per 9 February 2017 Order No. Financial-Supervisory-Securities-Corporate-1060002304 of the Financial Supervisory Commission
+
+\19. Articles 10, 11, 18, and 21, and Tables 1 to 1-2, Table 2, Tables 2-2 to 2-3, and Table 3 of Article 10 and Table 10 of Article 11 amended per 22 January 2020 Order No. Financial-Supervisory-Securities-Corporate-1090360126 of the Financial Supervisory Commission
+
+\20. Articles 10, 18, 20, and 23 and Tables 1, 1-2, 2-1, 2-2, 2-2-1, 2-2-2, and 2-4 of Article 10, Tables 7 and 9 of Article 11, and Tables 22 and 23 of Article 19 amended and Table 2-4-1 of Article 10 deleted per 30 November 2021 Order No. Financial-Supervisory-Securities-Corporate-1100364979 of the Financial Supervisory Commission
+
+\21. Tables 14 and 14-1 of Article 15 amended and issued per 15 August 2022 Order No. Financial-Supervisory-Securities-Corporate-1110383426 of the Financial Supervisory Commission
+
+\22. Article 10 and Table 2-2-2 of Article 10 amended, Table 2-2-3 of Article 10 added, and original Table 2-2-3 renumbered as Table 2-2-4, per 25 November 2022 Order No. Financial-Supervisory-Securities-Corporate-1110384934 of the Financial Supervisory Commission; Table 2-2-3 of Article 10 will be enforced from 1 January 2024
+
+\23. Articles 10 and 23 and Tables 1-2, 2-2-2, and 2-2-3 of Article 10 amended per 10 November 2023 Order No. Financial-Supervisory-Securities-Corporate-1120385231 of the Financial Supervisory Commission; Table 2-2-3 of Article 10 will be enforced from 1 January 2024 (Errata amended per 8 March 2024 Letter No. Financial-Supervisory-Securities-Corporate-1130381032 of the Financial Supervisory Commission)
+
+\24. Articles 7, 10, 11, 18, and 21 and Table 1 of Article 10 amended; Article 22-1 added; and Articles 9 and 19 and Table 2-3 of Article 10, Tables 6, 7 and 9 of Article 11, Tables 17 and 18 of Article 18, Tables 22 and 23 of Article 19, and Table 25 of Article 21 amended per 1 August 2024 Order No. Financial-Supervisory-Securities-Corporate-1130383500 of the Financial Supervisory Commission
+
+\25. Articles 7 and 23 amended and Article 10-1 added per 7 November 2025 Order No. Financial-Supervisory-Securities-Auditing-1140385175 of the Financial Supervisory Commission
+
+\26. Article 23 amended per 19 December 2025 Order No. Financial-Supervisory-Securities-Trading-1140385797 of the Financial Supervisory Commission

@@ -1,0 +1,171 @@
+---
+title: "Regulations for Collection and Management of Information on Sexual Offenders"
+title_zh: "性侵害加害人資料蒐集管理辦法"
+identifier: "D0080087"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞警政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-02-18
+last_amended: 2024-02-17
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080087"
+retrieved: 2026-10-12
+---
+
+# Regulations for Collection and Management of Information on Sexual Offenders
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0080087-regulations-for-collection-and-management-of-information-on-sexual-offenders.md](../../../zh/regulations/ministry-of-the-interior/D0080087-regulations-for-collection-and-management-of-information-on-sexual-offenders.md)) is authoritative.
+
+## Article 1
+
+This regulation is established in accordance with the provisions of Article 29, Paragraph 4 of the Sexual Assault Crime Prevention Act.
+
+## Article 2
+
+The information content for the sexual offender (hereinafter referred to as the offender) is as follows:
+
+\1. Basic Information: the offender's name, gender, date of birth, identification document number, household registration, and residence, etc.
+
+\2. Photographs: Front and side upper body photographs of the offender.
+
+\3. Fingerprints: Flat, rolled, and palm prints of all the offender’s fingerprints.
+
+\4. Deoxyribonucleic Acid (DNA) Record: Genetic genotype characteristics data sufficient for comparison, derived from the DNA substances in the body cells of the offender.
+
+\5. Other items that shall be recorded.
+
+## Article 3
+
+The information of the offender shall be established, matched, and managed by the central police administrative authority.
+
+The central police administrative authority mentioned in the preceding paragraph is the Ministry of the Interior, which delegates the following tasks to its subordinate agencies (hereinafter referred to as the commissioned agencies):
+
+\1. National Police Agency, Ministry of the Interior: Establishment, management, and other related matters of the offender's photographic information.
+
+\2. Criminal Investigation Bureau, National Police Agency, Ministry of the Interior: Establishment, management, and other related matters of the offender's fingerprints and Deoxyribonucleic Acid (DNA) record data.
+
+## Article 4
+
+Offenders are required to undergo photography, fingerprinting, and DNA sampling by judicial police authorities and may not refuse. Before collecting the offender's information, judicial police authorities must notify the individual in writing; after collecting the data, a certificate shall be issued.
+
+If judicial police officers during the registration check-in process or other duties find that the offender's information has not yet been established as mentioned above, they may proceed with the notification process and collect the offender's information.
+
+The written notification shall include the offender's name and sufficient identifying information, the reason for data collection, and the date, time, and place they shall appear. The certificate shall contain the offender's name and sufficient identifying details, the type of data collected, and note that individuals acquitted upon retrials stipulated in Article 18 may apply for the deletion of their data.
+
+## Article 5
+
+When offenders register and check-in as per the Sexual Assault Crime Offender Registration, Reporting, Visitation, and Inquiry Procedures, they must have their photographs taken by judicial police authorities.
+
+The content of the photographs must include a full frontal face, the right half, and the left half of the face, with both eyes open, mouth closed, both ears and the neck visible, and facial features clearly visible without any obstructions
+
+## Article 6
+
+Judicial police authorities must upload the photographs of the offender to the National Police Agency, Ministry of the Interior's Offender Registration Database within 24 hours after taking them. The original files shall be deleted once the upload is complete.
+
+Judicial police authorities must assign specific personnel to handle the uploading of photographs as mentioned. Apart from the designated personnel, no one else is allowed to log in; all additions, updates, and deletions of the data must be recorded.
+
+## Article 7
+
+The fingerprint data of offenders shall be produced by judicial police authorities using one of the following methods:
+
+\1. Paper Records: Fill in the offender's basic information on a fingerprint card, and use black ink to take prints of all the offender's fingerprints, including rolled, flat, and palm prints, on the fingerprint card.
+
+\2. Electronic Records: Operate on the terminal of the fingerprint computer system, enter the offender's basic information, and use a fingerprint scanner to capture digital images of all the offender's fingerprints, including rolled, flat, and palm prints.
+
+## Article 8
+
+The regulations for taking rolled, flat, and palm prints are as follows:
+
+\1. Rolled Prints: Roll the side of the finger from one edge of the fingernail to the other, touching the surface with the left, center, and right sides of the finger in a rolling motion to capture the fingerprint's core and delta clearly. Ensure not to roll back and forth.
+
+\2. Flat Prints: Extend the finger and press it flat against the surface without rolling to make the print.
+
+\3. Palm Prints: The palm shall be naturally spread and pressed flat, ensuring the print includes the complete areas of interdigital, thenar, and hypothenar.
+
+## Article 9
+
+After the judicial police authorities have created the offender's fingerprint records, the fingerprint data manager shall regularly submit them to the Criminal Investigation Bureau, Ministry of the Interior in the following manners:
+
+\1. Written Records: Compile and submit the records to the Criminal Investigation Bureau, Ministry of the Interior for archiving.
+
+\2. Electronic Records: Compile electronic files stored in the fingerprint computer system terminals and upload them to the fingerprint computer system of the Criminal Investigation Bureau, Ministry of the Interior. After the upload is complete, the electronic files from the fingerprint computer system terminal shall be deleted.
+
+## Article 10
+
+The collection of deoxyribonucleic acid (DNA) samples shall be conducted in accordance with medically recognized procedures and methods, and shall consider the physical well-being and reputation of the offender.
+
+The procedures and methods for the sampling mentioned in the previous paragraph shall be carried out in accordance with the regulations stipulated by the DNA Sample Regulations.
+
+## Article 11
+
+The Criminal Investigation Bureau, Ministry of the Interior shall properly store and establish records and a database for the DNA samples of the offender obtained in accordance with this regulation.
+
+The samples, records, and databases mentioned in the previous paragraph shall not be disclosed or transferred to others except in accordance with this regulation or other legal provisions.
+
+## Article 12
+
+DNA samples and records collected and stored under this regulation must be preserved for at least ten years; the records must be preserved for at least ten years after the death of the offender.
+
+## Article 13
+
+The Criminal Investigation Bureau, Ministry of the Interior shall store the DNA samples of the offender in a secure and controlled location, utilizing appropriate methods or facilities to facilitate their storage and management.
+
+## Article 14
+
+The creation or modification of offender data must include annotations regarding the basis for the data, the executing unit, and the personnel involved.
+
+## Article 15
+
+Judicial police authorities and commissioned agencies must designate specific personnel to manage the information security maintenance of offender data. The transmission of electronic files of offender data should be conducted in a manner that complies with information security standards.
+
+The use, inquiry, or transmission of offender data by judicial police authorities and commissioned agencies must involve specific personnel who set up exclusive accounts, passwords, and account permissions to ensure information security.
+
+The security control regulations for these exclusive accounts and passwords are as follows:
+
+\1. Commissioned agencies shall distinguish system administrators and system users' permissions according to the level of the judicial police authority. The addition, deletion, and modification of offender data must be reviewed by the data manager of the central police administration.
+
+\2. System users must properly preserve their account and password, must not provide it for others to use, and the use of the same account and password by two or more people is prohibited.
+
+\3. When system users undergo job adjustments, transfers, suspensions, or leave their positions, the system administrator must immediately handle the related changes.
+
+\4. System users must change their passwords regularly at least every three months; the password must be at least eight characters long and of a certain complexity; if there is a risk of leakage, the password must be changed immediately.
+
+## Article 16
+
+When courts, prosecutors' offices, military courts, military prosecutors' offices, judicial and military police agencies require it for the investigation or trial of cases, they may request the following agencies to provide offender data as mentioned in Article 2:
+
+\1. National Police Agency, Ministry of the Interior: to provide photographic data of the offender.
+
+\2. Criminal Investigation Bureau, Ministry of the Interior: to provide fingerprint and DNA record data of the offender.
+
+## Article 17
+
+When requesting data under the provisions of the previous article, an official letter must be provided, specifying the legal basis, reason, type of data required, and purpose for which the data is used. However, in cases of urgent need for crime detection, the request may be transmitted via telefax or other technological means, with the original to be sent subsequently.
+
+## Article 18
+
+If a person accused is acquitted after a retrial, the commissioned authority must delete their photos, fingerprints, or DNA samples and records within two months of being notified of the acquittal; the individual may also request their deletion. However, if other legal provisions require that the records be maintained, the deletion may not be carried out.
+
+The commissioned authority responsible for processing requests for data deletion must decide whether to approve or deny the request within thirty days from the date of application. If necessary, this period may be extended once by no more than thirty days, and the reasons for the extension must be communicated to the individual in writing.
+
+## Article 19
+
+Prior to the implementation of the amendments to these regulations, the offender convicted under Article 2, subparagraph 2 of this Act must still undergo photographing, fingerprinting, and DNA sampling by the judicial police authorities.
+
+## Article 20
+
+These regulations shall take effect from the date of promulgation.
+
+## History
+
+\1. Enacted and issued by Order Tai-Nei- Fang -Tzu No. 8785487 of the Ministry of the Interior on Feb.18, 1998
+
+\2. Amend by Order Tai-Nei- Fang -Tzu No.0940063409 of the Ministry of the Interior on Dec. 16, 2005
+
+\3. Amend by Order Tai-Nei- Fang -Tzu No.1010096149 of the Ministry of the Interior on Feb. 20, 2012
+
+\4. Amend by Order Tai-Nei-Ching-Tzu No.11308781532 of the Ministry of the Interior on Feb. 17, 2024

@@ -1,0 +1,177 @@
+---
+title: "Regulations for the Administrative Authorities to Enforce Protection Orders and to Deal With Domestic Violence Cases"
+title_zh: "行政機關執行保護令及處理家庭暴力案件辦法"
+identifier: "D0080021"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞保護服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-06-22
+last_amended: 2024-07-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0080021"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Administrative Authorities to Enforce Protection Orders and to Deal With Domestic Violence Cases
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/D0080021-regulations-for-the-administrative-authorities-to-enforce-protection-orders-and.md](../../../zh/regulations/ministry-of-health-and-welfare/D0080021-regulations-for-the-administrative-authorities-to-enforce-protection-orders-and.md)) is authoritative.
+
+## Article 1
+
+The regulations are stipulated according to Article 64 of Domestic Violence Prevention Act (thereinafter called the Act).
+
+## Article 2
+
+Specific staffs must be assigned for domestic violence prevention relating tasks.
+
+## Article 3
+
+The jurisdiction of domestic violence cases will follow the rules below under the jurisdiction of the central or municipal and county(city) competent authorities.
+
+1.Reported cases: The municipal and county(city) competent authorities where the case is reported and accepted. Shall a single case being accepted by two or more authorities, the competent authority where the victim is residing takes the jurisdiction.
+
+2.Emergency handling cases: The jurisdiction goes under the competent authority where the victim is located and whenever necessary, assistance may be granted from other municipal and county (city) competent authorities.
+
+3.Victim follow-up cases: The jurisdiction goes under the competent authority where the victim is residing and whenever necessary, assistance may be granted from other municipal and county (city) competent authorities.
+
+Among the police departments dealing with domestic violence cases, the department where the case happens shall have jurisdiction. The police department where the victim or opposite party resides will assist in the case.
+
+## Article 4
+
+Upon the acceptance of the domestic violence case, commissioners must be sent immediately. A non-jurisdiction case must be reported to the competent authority of jurisdiction upon the acceptance.
+
+## Article 5
+
+Administrative authority must be of assistance upon request of each other and must be proceeded immediately.
+
+## Article 6
+
+The priority of commissioners dealing with domestic violence cases shall be to ensure the safety of victims and their family members using appropriate means. If victims and their family members are found to be ill or injured, emergency assistance shall be offered to help them seek medical treatment.
+
+## Article 7
+
+Commissioners dealing with domestic violence case must inform the victim of his/her rights, ways to remedy and measures provided by the competent authority.
+
+## Article 8
+
+Police departments or municipal and county (city) competent authorities may petition for protection orders and extended protection orders for victims. Such petitions shall be made in writing, except for the conditions set forth in the proviso of Paragraph 1 of Article 12 of the Act.
+
+To petition for a protection order or an extended protection order, a domestic violence case report, an on-site report on how the domestic violence case is being dealt with, visitation and interview information, an injury certification or a Taiwan intimate partner violence danger assessment form, as well as other relevant documents and materials, shall be enclosed.
+
+The authorities and their staff shall keep the details of the aforesaid forms, documents or materials confidential as requested by victims, and shall indicate such requests in writing the petition of protection order.
+
+## Article 9
+
+When municipal and county (city) competent authorities petition for a temporary protection order or emergency protection order for a victim under Article 14, Paragraph 1, Sub-paragraph 10 of the Act pursuant to Article 16, Paragraph 3 of the Act; such authorities shall make implementation recommendations for the offender treatment program.
+
+The implementation recommendations for the offender treatment program under Article 14, Paragraph 3 of the Act shall be submitted before the court trial or stated at the time of the court trial.
+
+The proposal submitted according to the preceding two paragraphs shall include the necessity for the opposite party to undergo a treatment program as well as the contents, methods and number of implementation of the treatment program.
+
+## Article 9-1
+
+When prosecutors, police departments or municipal and county (city) competent authorities petition for a protection order pursuant to Article 14, Paragraph 1, Sub-paragraphs 13 to 15 of the Act, they may provide information on the victim's sexual images, such as the format, storage method, carrier or other relevant information. They shall also order the specific behaviors that the opposite party must be prohibited from doing and suggest the implementation method of the protection order to deliver or delete the victim's sexual images.
+
+If the victim's sexual images from the preceding paragraph have been uploaded to an online platform by the opposite party, the following information shall also be provided, along with a suggested deadline for deletion or applying removal:
+
+1.Proof that the opposite party uploaded the material to the online platform.
+
+2.The name, URL, or specific information of the online platform provider, internet application service provider or internet access service provider needed to petition the online platform provider, internet application service provider or internet access service provider to delete or remove the victim's sexual images.
+
+When the victim petitions for a protection order under Paragraph 1, prosecutors, police departments or municipal and county (city) competent authorities shall assist and pro-actively inform the victim of the information in the preceding two paragraphs.
+
+## Article 9-2
+
+The protection orders under Article 14, Paragraph 1, Sub-paragraphs 13 to 15 of the Act shall be executed by police departments.
+
+## Article 9-3
+
+When police departments and municipal and county (city) competent authorities receive a notification from the court requesting an extended protection order pursuant to Article 15, Paragraph 6 of the Act, they shall handle the matters according to the following provisions:
+
+1.When police departments notify the parties involved: Relevant safety measures shall be adopted according to Article 48 of the Act.
+
+2.When municipal and county (city) competent authorities notify the victim: Discuss with the victim to establish a safety plan when necessary.
+
+## Article 10
+
+For the purposes of protecting the victims and preventing domestic violence, police departments shall, if necessary, deploy personnel to guard the domicile or residence of the victims or ensure the safety of the victims and their family members using the following methods before the court issues emergency protection orders as set forth in Paragraph 4 of Article 16 of the Act:
+
+1.Assistance with referral and emergency placement;
+
+2.Emergency rescue;
+
+3.Safety escort;
+
+4.Visits to and warnings for the opposite parties;
+
+5.Other necessary safety measures.
+
+## Article 11
+
+Shall the administrative authority of the application of the protection order be not the enforcer, the receiver shall inform the applicant of the enforcement agency according to Paragraph 1 of Article 21 of the Act.
+
+## Article 12
+
+To enforce protection order, the administrative authority shall have the litigant obey all the instructions stated in the protection order and not to violate them.
+
+## Article 13
+
+To enforce protection order, the domicile or residence of the victim or his/her children shall be kept secret in all related documents and during enforcement, under the command of the court and the request of the victim or applicant.
+
+## Article 14
+
+Deleted.
+
+## Article 15
+
+When ordering opposite parties to move out of the domicile or residence of the victims, children and adolescents who have witnessed domestic violence, or other family members listed on protection orders, police departments shall confirm whether the opposite parties move out of the domicile or residence, and shall ensure that the victims, children and adolescents who have witnessed domestic violence, or other family members safely possess the domicile or residence.
+
+## Article 16
+
+While entering the residence, building or other places to ask the opposite party to leave or to hand it over to the victim under the request of the victim according to Paragraph 2 of Article 22 of the Act, the village head and wardens may be accompanied with the police department if necessary. If the opposite party refuses to hand over, the enforcement shall be made but not go beyond the laws.
+
+A list regarding the objects handed over must be made and the enforcement procedure must be recorded.
+
+## Article 17
+
+While delivering minors under the command of the protection order, the police department shall consider the ideas of the obligee and the obligor for deliver time, location and manner.
+
+Shall there be any difficulty when enforcing the action mentioned in the preceding paragraph, the police department shall set a deadline for obligor to deliver, under the request of the obligee. If the obligor fails to deliver, the police department shall issue documents necessary for obligee to apply compulsory enforcement procedure to the court and inform that the protection order may serve as entitlement foreclosure.
+
+## Article 18
+
+Shall the obligor fails to conduct visitation with minors stated in the protection order, municipal and county(city) competent authorities or police departments shall process the case based on paragraph 2 of the preceding Article. The obligee shall also be informed that alteration may be made to the protection order to the court.
+
+## Article 19
+
+If there is any demurral of the means of enforcing protection order, the procedures to follow or other issues that might infringe upon the rights of the litigant or interested parties and being brought out either party, the administrative authority shall suspend the enforcement and revoke or correct any enforcement that is already being carried out, if the demurral is considered legitimate. If considered not, opinions must be made and submit to the court of issuance within 10 days for a ruling to be rendered by the court. The protection order must be in a continuous enforcement before the ruling of revocation, alteration or cease of enforcement by the court of issuance.
+
+## Article 20
+
+Police departments and domestic violence prevention centers under municipal and county (city) governments shall handle the matters according to the following provisions when issuing notices in accordance with Paragraph 2 of Article 34-1 of the Act:
+
+1.After notifying victims or their family members, police departments shall inform the court or prosecutors office of how notices were given with carbon copies sent to domestic violence prevention centers. If necessary, related safety measures may be taken in accordance with Article 10 of the Act.
+
+2.After notifying victims or their family members, the priority of domestic violence prevention centers under municipal and county (city) governments shall be to ensure the safety of victims and their family members using appropriate means.
+
+## Article 21
+
+While the municipal and county (city) competent authorities or police departments enforcing the conditions imposed in accordance with Paragraph 1 of Article 31, Paragraph 1 of Article 33, Paragraph 2 of Article 38 or Article 39 of the Act that noticed by the prosecutor or court according to Article 40 of the Act, the provisions about to enforce protection order of this regulations applies mutatis mutandis.
+
+## Article 22
+
+The regulations shall come into force on and from the date of announcement.
+
+## History
+
+1.Announced under Tai(88)-Nei-Jia Zi No. 8889737 on June 22nd, 1999.
+
+2.Amended and announced under Tai-Nei-Fan-Zi No. 0960147000 on September 28, 2007. (Previously known as the Regulations for the police to Execute protection orders and Handle Domestic Violence Cases.)
+
+3.Full text of 22 articles amended and promulgated under the Ministry of Health and Welfare Order Wei-Bu-Hu-Tzu No. 1041460841 on July 29, 2015; the articles mentioned herein shall come into effect on the date of promulgation.
+
+4.Amending and promulgating 10 articles under the Ministry of Health and Welfare Order Wei-Bu-Hu-Tzu No.1131460664B on July 3, 2024; the articles mentioned herein shall come into effect on the date of promulgation.

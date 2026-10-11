@@ -1,0 +1,255 @@
+---
+title: "Amendments to the Management Regulations for Hydrochlorofluorocarbons"
+title_zh: "氟氯烴管理辦法"
+identifier: "O0020052"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞大氣環境目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-01-15
+last_amended: 2025-10-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020052"
+retrieved: 2026-10-12
+---
+
+# Amendments to the Management Regulations for Hydrochlorofluorocarbons
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0020052-amendments-to-the-management-regulations-for-hydrochlorofluorocarbons.md](../../../zh/regulations/ministry-of-environment/O0020052-amendments-to-the-management-regulations-for-hydrochlorofluorocarbons.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established pursuant to Article 31, Paragraph 2 of the Air Pollution Control Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+The terms used in these Regulations are defined as follows:
+
+\1. Hydrochlorofluorocarbons (HCFCs) refers to the controlled substances listed in Annex C, Group I of the Montreal Protocol and announced by the central competent authority, including compounds or mixtures in their virgin, recovered, recycled or reclaimed forms.
+
+\2. HCFC-containing products or equipment refers to goods, components, and systems containing HCFCs as defined in the preceding subparagraph.
+
+\3. Production refers to the net quantity derived from the domestic production quantity of HCFCs, minus the quantities recovered, converted into other chemical substances during the process, and the quantities destroyed by technologies to be approved by the Montreal Protocol. However, quantities recovered and reused are not considered production quantities.
+
+\4. Consumption refers to the net quantity derived from the sum of HCFCs production and imports minus exports. This excludes the quantities entirely used as feedstock in the manufacture of other chemicals, recycled or reused, destroyed, or exempted purposes approved under the Montreal Protocol.
+
+\5. Ozone Depleting Potential metric tons (hereinafter referred to as ODP metric tons) refers to the calculation of any HCFCs measured in metric tons multiplied by its respective ODP value listed in Group 1 of Annex C to the Montreal Protocol.
+
+\6. User refers to entities that use HCFCs in product manufacturing or performing maintenance.
+
+\7. Supplier refers to any entity that imports or manufactures HCFCs and supplies them to user enterprises or distributors.
+
+\8. Implementation Record refers to the documented data provided by user enterprises on the quantity of use, or by supplier enterprises, on the volume of import clearance, sales, manufacturing performance and inventory. The data shall be substantiated with relevant documentation and subject to verification by the central competent authority.
+
+\9. Recovery refers to the activity of collecting and storing HCFCs from machinery, equipment, or containers.
+
+\10. Reuse refers to the activity of using recovered HCFCs after the basic purification processes such as filtering or drying.
+
+## Article 3
+
+The national baseline consumption level of HCFCs is set at 638.156 ODP metric tons.
+
+The HCFCs consumption reduction schedule and corresponding annual limits are as follows:
+
+\1. From January 1, 2020, the annual consumption shall not exceed 0.5% of the baseline, i.e., 3.191 ODP metric tons, and shall be limited to the purpose of servicing refrigeration or air-conditioning equipment.
+
+\2. From January 1, 2030, the HCFC consumption quantity shall be zero.
+
+## Article 4
+
+The national baseline production level of HCFCs is set at 638.156 ODP metric tons.
+
+The HCFC production reduction schedule and corresponding annual limits are as follows:
+
+\1. From January 1, 2020, the annual production shall not exceed 0.5% of the baseline, i.e., 3.191 ODP tons, and shall be limited to the purpose of servicing refrigeration or air-conditioning equipment.
+
+\2. From January 1, 2030, the HCFC production quantity shall be zero.
+
+Supplier enterprises manufacturing HCFCs shall submit their production plans for the first and second halves of the year to the central competent authority by the end of January and July, respectively. The production plan shall include the manufacturing quantity, the quantity supplied for conversion into other chemical substances, and the export quantity.
+
+## Article 5
+
+HCFCs shall not be imported without prior approval.
+
+The export and import of HCFCs shall be limited to countries or regions that comply with the provisions of the Montreal Protocol and be announced by the central competent authority.
+
+## Article 6
+
+The past timeline for controlled uses and control of HCFCs was as follows:
+
+\1. Effective January 1, 2010, the use of HCFCs in aerosol propellants was prohibited.
+
+\2. Effective January 1, 2016, the use of HCFCs as foaming agents was prohibited.
+
+\3. Effective January 1, 2020, the use of HCFCs as solvents (including in manufacturing processing and cleaning operations) was prohibited.
+
+\4. Effective January 1, 2020, the use of HCFCs for refrigerant charging in newly manufactured equipment or newly constructed facilities was prohibited.
+
+The central competent authority ceased issuing allocation quotas to user enterprises for controlled uses starting from the control dates specified in the preceding paragraph.
+
+## Article 7
+
+Starting from October 23, 2014, new HCFC user enterprises and supplier enterprises shall submit the following documents to the central competent authority by the end of July each year to apply for allocation eligibility:
+
+\1. A photocopy of commercial registration documents; import enterprises shall also provide a photocopy of their import/export qualification documents.
+
+\2. Factory registration documents; refrigeration and air conditioning enterprises shall also provide a photocopy of their refrigeration and air conditioning industry registration certificate and a photocopy of their membership certificate from the Refrigeration and Air Conditioning Engineering Industry Association. However, import enterprises are exempt from this requirement.
+
+\3. Implementation performance records for January to June of the current year or other verifiable performance documentation.
+
+\4. Other documents as specified by the central competent authority.
+
+If the application documents are incomplete or non-compliant, the enterprise shall make corrections within the deadline specified by the central competent authority. Failure to correct by the deadline shall result in the rejection of the application.
+
+Enterprises that have obtained allocation eligibility and change their company or factory name, address, or responsible person shall submit the amended documents specified in subparagraphs 1 and 2 of the first paragraph to the central competent authority for record-keeping, without needing to reapply for allocation eligibility.
+
+Enterprises with zero implementation performance for two consecutive years shall have their allocation eligibility revoked by the central competent authority. Enterprises whose allocation eligibility has been revoked shall reapply in accordance with the provisions of the first paragraph.
+
+## Article 8
+
+The central competent authority may reserve 10% of the annual HCFC consumption upper limit for national infrastructure, defense, military, or emergency response needs.
+
+The annual consumption quantity, after deducting the reserve specified in the preceding paragraph, shall be the total allocation quantity for the year. This shall be allocated first to eligible user enterprises; the remaining quantity shall be allocated to eligible supplier enterprises in proportions based on their performance.
+
+Enterprises newly applying for allocation eligibility shall have their allocation drawn from the balance remaining after the annual national HCFC consumption allocation is conducted.
+
+## Article 9
+
+The central competent authority shall approve yearly HCFC allocations for applicant enterprises by the end of October of the preceding year.
+
+The calculation basis for the annual allocation specified in the preceding paragraph is as follows:
+
+\1. For enterprises with existing allocation eligibility: The sum of the implementation performance for the second half of the previous year and the first half of the current year, not exceeding the enterprise’s allocation quantity for the year 2024.
+
+\2. Enterprises newly applying for allocation eligibility: The implementation performance for January to June of the current year, multiplied by two.
+
+The calculation for additional allocation quantities shall be based on the verifiable recovery quantity for the previous year. The central competent authority may allocate proportionally based on the remaining balance after the annual national consumption allocation.
+
+## Article 10
+
+In addition to the provisions of the preceding article, for the import of HCFCs for exempted uses approved by resolutions under the Montreal Protocol, supplier enterprises or user enterprises shall, by the end of January and July each year, submit the following information and documents to the central competent authority in their applications for review of exempted use imports:
+
+\1. Application form
+
+\2. Certificate of establishment approved and registered by the competent government authority
+
+\3. Description of the intended use of HCFCs
+
+\4. Explanation of the reasons why HCFCs cannot be substituted
+
+\5. Statement of the required quantity and supporting documentation
+
+\6. Other documents as specified by the central competent authority
+
+The central competent authority shall approve the exempted use import quantities for applicant enterprises by the end of April and October each year.
+
+## Article 11
+
+Enterprises holding allocation quotas or exempted use import approvals, as specified in the preceding article, shall present the HCFC allocation document or exempted use import approval issued by the central competent authority when they apply for an import permit from the central competent authority; this can be done either by the user enterprise themselves or through a delegated import enterprise. The goods shall be imported within the approved period.
+
+Enterprises holding allocation quotas shall present the HCFC allocation document issued by the central competent authority to produce HCFCs, either directly or through a delegated manufacturing enterprise. The goods shall be obtained within the approved period.
+
+For goods referred to in the preceding two paragraphs that are not imported, cleared, or not procured and withdrawn domestically within the current allocation period, and where no application for an extension permit has been submitted to the central competent authority prior to the end of said period, the allocation quota or the approved import quantity for exempted uses for that period shall be revoked by the central competent authority.
+
+## Article 12
+
+User enterprises shall not resell or engage in distribution activities using their allocated quantities. Violators shall have their allocation eligibility revoked by the central competent authority.
+
+Supplier enterprises may transfer their allocated quantities to one another with the approval of the central competent authority. Unauthorized transfers shall result in the central competent authority deducting twice the transferred quantity from the enterprise’s actual annual allocation, or revoking its allocation eligibility.
+
+## Article 13
+
+Enterprises holding allocation quantities that experience changes in the name or quantity of their goods shall apply for approval from the central competent authority.
+
+## Article 14
+
+User enterprises holding allocation quantities shall, by the end of January, April, July, and October each year, report to the central competent authority the HCFC item names and quantities purchased, usage quantities, usage descriptions, inventory levels, and other data required by the central competent authority for the previous quarter, along with verifiable supporting documentation.
+
+Supplier enterprises holding allocation quantities shall, by the end of January, April, July, and October each year, report to the central competent authority the HCFC item names and quantities imported or manufactured, sales quantities, inventory levels, and other data required by the central competent authority for the previous quarter, along with verifiable supporting documentation.
+
+Failure to report or late reporting shall result in the implementation performance for that quarter being deemed to be zero.
+
+Enterprises that have obtained exempted use import approvals under Article 10 shall, by the end of January and July each year, report to the central competent authority the imported or used HCFC item names, quantities, amounts of HCFCs or HCFC products sold, procurement quantities, inventory levels, leakage amounts, and other data required by the central competent authority for the previous half-year, along with verifiable supporting documentation.
+
+If the reported documents are incomplete or non-compliant, the enterprise shall make corrections within the deadline specified by the central competent authority. Failure to correct by the deadline shall be deemed as non-reporting.
+
+## Article 15
+
+In addition to reporting quarterly HCFC implementation performance as specified in Paragraph 2 of the preceding article, supplier enterprises shall report to the central competent authority the list of their distributors, their basic information, the usage descriptions of the sales targets, and the corresponding sales item names and quantities.
+
+Supplier enterprises and their distributors reported, as specified in the preceding paragraph, are permitted to engage in the sale of HCFCs.
+
+The sales activities specified in the preceding paragraph shall be recorded and retained for five years for reference.
+
+## Article 16
+
+The central competent authority shall review the completeness and content of applications for allocation eligibility and implementation performance reports and complete the review within 90 days from the submission deadline.
+
+The central competent authority may invite representatives from relevant government agencies and appoint experts and scholars to assist in the review.
+
+## Article 17
+
+The filling, dismantling, or retrofitting of HCFCs used as refrigerants shall employ recovery or reuse equipment. This requirement does not apply if the on-site recovery operation space cannot accommodate recovery equipment.
+
+The recovery and reuse equipment specified in the preceding paragraph shall comply with the following specifications:
+
+\1. Recovery equipment shall have the function of reducing the pressure of the equipment or system to below 102 mmHg (millimeters of mercury) after extracting the HCFC refrigerant.
+
+\2. Reuse equipment shall also function as recovery equipment and be capable of processing impurities such as moisture, lubricating oils, and air in the HCFC refrigerant to concentrations below 20 ppm (parts per million by weight), 0.01% (by volume), and 1.5% (by volume), respectively.
+
+## Article 18
+
+When using recovery or reuse equipment, the following measures shall be taken:
+
+\1. Before filling the HCFC refrigerant, a leak inspection of the equipment or system shall be conducted. If any leakage is discovered, it shall be repaired first.
+
+\2. Recovery containers shall be labeled with the type of HCFC refrigerant contained.
+
+\3. Recovery or reuse equipment shall be regularly maintained and serviced.
+
+The operations specified in the preceding paragraph shall be recorded and retained for five years for reference.
+
+## Article 19
+
+HCFC-containing products or equipment shall not be imported without prior approval.
+
+The export and import of HCFC-containing products or equipment shall be limited to countries or regions that comply with the provisions of the Montreal Protocol and that are announced by the central competent authority.
+
+## Article 20
+
+For HCFCs or HCFC-containing products or equipment imported without approval under these Regulations, those that have not yet cleared customs shall be returned within the deadline specified in the Customs Act.
+
+The HCFCs or HCFC-containing products or equipment that violate import regulations and are confiscated as specified in the preceding paragraph, shall be handled through recovery, re-refining, reuse, temporary storage, sale, destruction, or other appropriate methods.
+
+The costs associated with the handling of the goods specified in the preceding paragraph shall be borne by the party responsible for the import violation and paid within the specified period.
+
+## Article 21
+
+Violators of Article 6, Paragraph 1 shall be penalized in accordance with Article 68 of the Act, and the central competent authority may deduct their allocation quantity. If necessary, the central competent authority may revoke their allocation eligibility and suspend their application for allocation eligibility for one year.
+
+## Article 22
+
+The formats of the relevant documents specified in these Regulations shall be determined by the central competent authority.
+
+## Article 23
+
+These Regulations shall take effect on the date of announcement.
+
+## History
+
+\1. Original 19 articles promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 0920002517 on January 15, 2003.
+
+\2. Revisions to all 25 articles promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 0960032941 on May 4, 2007.
+
+\3. Revisions to all 26 articles promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 0980067964 on August 5, 2009.
+
+\4. Revisions to Article 6 to 8 and Article 10, Article 11, Article 14, Article 18, Article 24 , and deletion of Article 15, Article 19 promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 1030087346 on October 23, 2014.
+
+\5. Revisions to Article 12 and Article 26 promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 1060097220 on December 08, 2017, which shall take effect on January 1, 2018.
+
+\6. Revisions to Article 1 and Article 24 promulgated by Environmental Protection Administration Order Huan-Shu-Kong-Tzu No. 1080010561on February 18, 2019, Pursuant to Executive Yuan Announcement Yuan-Tai-Gui-Tzu No. 1121028221 dated August 18, 2023, the responsibilities originally designated to the "Environmental Protection Administration, Executive Yuan" in Article 2, Paragraph 1 and Subparagraph 7; Article 4, Paragraph 3; Article 5, Paragraph 2; Article 6, Paragraph 2; Article 8, Paragraph 1 (preamble), Subparagraph 4, Paragraphs 2, 3, and 4; Article 9, Paragraph 1; Article 10, Paragraph 1; Article 11, Paragraphs 1 and 3; Articles 12, 13, and 14; Article 16, Paragraphs 1, 2, and 4; Article 17, Paragraph 1; Articles 18, 23, 24, and 25, shall be transferred to the "Ministry of Environment" as of August 22, 2023.
+
+\7. Revisions to all 23 articles promulgated by MOENV Order Huan-Bu-Kong-Tzu No. 1141058679 on October 13, 2025 and shall take effect from the date of promulgation. (Former title: the Management Regulations for Hydrochlorofluorocarbons Consumption; New title: the Management Regulations for Hydrochlorofluorocarbons).

@@ -1,0 +1,89 @@
+---
+title: "Regulations Governing the Applicable Scope of Special Circumstances for the Public Announcement and Filing of Financial Reports and Operational Status Reports by Public Companies"
+title_zh: "公開發行公司財務報告及營運情形公告申報特殊適用範圍辦法"
+identifier: "G0400152"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞證券暨期貨管理目  "
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2012-10-02
+last_amended: 2025-07-01
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400152"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Applicable Scope of Special Circumstances for the Public Announcement and Filing of Financial Reports and Operational Status Reports by Public Companies
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0400152-regulations-governing-the-applicable-scope-of-special-circumstances-for-the.md](../../../zh/regulations/financial-supervisory-commission/G0400152-regulations-governing-the-applicable-scope-of-special-circumstances-for-the.md)) is authoritative.
+
+## Article 1
+
+These Regulations are adopted pursuant to Article 36, paragraph 2 of the Securities and Exchange Act ("the Act").
+
+## Article 2
+
+The special circumstances for the public announcement and filing of financial reports and monthly operating reports by issuers such as financial holding companies, banks, and securities, futures, and insurance enterprises shall be governed by these Regulations, except where otherwise provided by the laws and regulations governing each specific enterprise.
+
+## Article 3
+
+The special circumstances under which issuers publicly announce and file financial reports and monthly operating reports shall be governed by the following subparagraphs:
+
+\1. If a non-exchange-listed or non-OTC-listed domestic company or foreign company, because of actually insufficient operation time to meet the deadline, is unable to publicly announce and file its annual financial reports within three months after the close of the given fiscal year, the deadline may be extended to 4 months after the close of the fiscal year, and the company will also be exempt from public announcement and filing of the first and third quarter consolidated financial reports.
+
+\2. A secondary exchange (or OTC) listed company shall publicly announce and file its annual and interim consolidated financial reports pursuant to the laws and regulations of its country of registration or country of listing, and is exempt from public announcement and filing of monthly operating reports. Its annual consolidated financial reports shall be audited and attested by CPAs, and shall be publicly announced and filed no later than six months after the close of the fiscal year, except when the competent authority of its country of registration or country of listing has approved an extension of the deadline for public announcement and filing.
+
+\3. Beginning from fiscal year 2021, the second quarter financial report of a primary exchange (or OTC) listed company shall be audited and attested by CPAs, approved by the board of directors, and recognized by the supervisors, and shall be publicly announced and filed no later than two months after the close of the second quarter of the fiscal year.
+
+\4. Beginning from fiscal year 2022, the annual financial reports of an exchange (or OTC) listed company with paid-in capital of NT$10 billion or more shall be publicly announced and filed no later than 75 days after the close of the fiscal year.
+
+\5. Beginning from fiscal year 2026, if an insurance enterprise or a public company with an insurance subsidiary, because of actually insufficient operation time to meet the deadline, is unable to publicly announce and file its consolidated operating revenue for the previous month by the 10th day of each month, the deadline for public announcement and filing may be extended to the 15th day of each month. "Insurance enterprise" means a life insurance enterprise, non-life insurance enterprise, or reinsurance enterprise. The meaning of "subsidiary" shall be determined in accordance with the provisions of the Regulations Governing the Preparation of Financial Reports by Securities Issuers, except as otherwise provided in relevant financial laws and regulations.
+
+## Article 4
+
+Any issuer, other than a secondary exchange (or OTC) listed company, may apply with the competent authority to extend the deadline for public announcement and filing of financial reports for the relevant period if the public announcement or filing cannot be carried out by the deadline due to any of the following circumstances:
+
+\1. The issuer is affected by an earthquake, flood, or any other force majeure event.
+
+\2. The issuer is a publicly held financial institution, and the competent authority has duly appointed a receiver to take receivership of institution after the final day of the relevant period for the given financial report.
+
+\3. The CPA that certified the financial report has been suspended from practice by the competent authority after the final day of the relevant period for the given financial report, and the institution has not yet made the change to a successor CPA.
+
+When an issuer applies to extend a deadline for public announcement and filing pursuant to the preceding paragraph, it shall apply to the competent authority for approval within 15 days counting inclusively from the date of occurrence of the fact and furthermore prior to the public announcement and filing deadline, by submitting the reasons for its inability to make the public announcement and filing by the deadline, information documenting those facts, and a proposed extended deadline; if the application is made pursuant to subparagraph 2 of the preceding paragraph, it shall submit a CPA assessment opinion. The deadline may be extended for no more than one month, but may be extended again when necessary.
+
+## Article 4-1
+
+When, in the event of an extended holiday or other circumstance, there is a likelihood that issuers may be unable to carry out the public announcement and filing of their monthly operating reports by the deadline, the competent authority may publicly announce an extension to the deadline for public announcement and filing.
+
+When an issuer is affected by an earthquake, flood, or any other force majeure event, such that the issuer is unable to publicly announce and file the monthly operating report by the deadline, it may apply with the competent authority to extend the deadline for public announcement and filing.
+
+When an issuer applies to extend a deadline for public announcement and filing pursuant to the preceding paragraph, it shall apply to the competent authority for approval within 15 days counting inclusively from the date of occurrence of the fact and furthermore prior to the public announcement and filing deadline, by submitting the reasons for its inability to make the public announcement and filing by the deadline, information documenting those facts, and a proposed extended deadline. The deadline may be extended for no more than 20 days, but may be extended again when necessary.
+
+## Article 5
+
+An issuer may be exempt from public announcement and filing under Article 36, paragraph 1 of the Act under any of the following circumstances:
+
+\1. The issuer has been ordered to dissolve or to undergo liquidation or bankruptcy proceedings by the competent authority of the relevant industry, or has been declared bankrupt by a court.
+
+\2. The issuer is a foreign company, a company controlled by it, or a branch unit of a foreign financial institution and meets the conditions set by the competent authority, while ordinary corporate bonds issued by it have been approved for exchange listing or OTC trading by the Taiwan Stock Exchange or the Taipei Exchange.
+
+## Article 6
+
+(Deleted)
+
+## Article 7
+
+These Regulations shall be implemented from the date of issuance.
+
+## History
+
+\1. Full text of seven articles adopted and issued per 2 October 2012 Order No. Financial-Supervisory-Securities-Auditing-1010043964 of the Financial Supervisory Commission; for implementation from the date of issuance
+
+\2. Article 4 amended and issued and Article 4-1 added per 26 December 2018 Order No. Financial-Supervisory-Securities-Auditing-1070346946 of the Financial Supervisory Commission
+
+\3. Article 3 amended and issued and Article 6 deleted per 21 April 2021 Order No. Financial-Supervisory-Securities-Auditing-1100361447 of the Financial Supervisory Commission
+
+\4. Article 3 amended and issued per 1 July 2025 Order No. Financial-Supervisory-Securities-Auditing-1140346436 of the Financial Supervisory Commission

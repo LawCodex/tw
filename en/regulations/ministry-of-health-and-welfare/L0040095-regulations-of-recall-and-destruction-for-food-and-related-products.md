@@ -1,0 +1,139 @@
+---
+title: "Regulations of recall and destruction for food and related products"
+title_zh: "食品及其相關產品回收銷毀處理辦法"
+identifier: "L0040095"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2012-02-16
+last_amended: 2026-02-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040095"
+retrieved: 2026-10-12
+---
+
+# Regulations of recall and destruction for food and related products
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0040095-regulations-of-recall-and-destruction-for-food-and-related-products.md](../../../zh/regulations/ministry-of-health-and-welfare/L0040095-regulations-of-recall-and-destruction-for-food-and-related-products.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established pursuant to Paragraph 3, Article 52 of the Act Governing Food Safety and Sanitation (the “Act”).
+
+## Article 2
+
+The recall and destruction of food and related products (the “Products”) shall be conducted by the manufacturer, seller, or importer of the Products (the “Responsible Enterprise”).
+
+The Responsible Enterprise referred to under the preceding paragraph shall establish a standing task force responsible for the following matters:
+
+\1. Initiating recall and destruction procedures;
+
+\2. Formulating, submitting for recordation, and executing a recall and destruction plan for the Products as stipulated under Article 3; and
+
+\3. Submitting recall progress reports as stipulated under Article 5.
+
+The task force referred to under the preceding paragraph shall appoint one convener who, upon occurrence of the reason for recalling the Products, shall convene a meeting of relevant personnel to deliberate on the initiation and execution of the recall and destruction procedures.
+
+## Article 3
+
+When executing the recall and destruction of the Products, the Responsible Enterprise shall establish a recall and destruction plan for the Products and retain it in written or electronic form.
+
+The content of the plan referred to under the preceding paragraph shall include the following information:
+
+\1. The name, address, and telephone number of the Responsible Enterprise;
+
+\2. The name, packaging, form, and/or other identifiable characteristics or symbols of the Products subject to recall;
+
+\3. The batch numbers, serial numbers, and/or other dates, symbols, marks, or codes sufficient to identify the Products subject to recall;
+
+\4. Information on the import, manufacturing, procurement, shipment, and inventory weight or volume of the Products subject to recall;
+
+\5. The name, address, and emergency contact telephone number of downstream counterparties as well as the shipment date, batch number and weight, or volume of the shipped Products;
+
+\6. The reason for the recall;
+
+\7. The scheduled completion date for the recall;
+
+\8. Storage location of the recalled Products and personnel responsible for the safekeeping thereof;
+
+\9. Final disposal of recalled Products:
+
+(1) For disinfection, reprocessing, or other appropriate safety measures: specify the methods and procedures adopted, along with the scheduled completion date; or
+
+(2) For destruction: specify the destruction method and timeframe, along with the weight or volume of destroyed Products; and
+
+\10. Other matters designated by the competent authority for execution of the recall and destruction plan.
+
+The Responsible Enterprise shall submit the recall and destruction plan for the Products specified under Paragraph 1 to the competent municipality or county (city) authority for recordation.
+
+## Article 4
+
+The Responsible Enterprise shall effectively segregate and clearly label the recalled Products and their inventory from other raw materials, semi-finished products, and finished goods.
+
+## Article 5
+
+The Responsible Enterprise shall, from the recall commencement date to the completion date, report the progress of the recall in accordance with the frequency and method designated by the competent municipality or county (city) authority.
+
+The reporting method referred to under the preceding paragraph may be done by logging the recall progress via the electronic system designated by the central competent authority.
+
+The report content referred to in Paragraph 1 shall include the following information:
+
+\1. The name, specifications, and expiration date of the relevant components of the Products at issue;
+
+\2. The production volume or procurement volume, inventory levels, volume of recall from downstream counterparties and volume of return to upstream counterparties, and volume of sales to downstream counterparties of the Products at issue and relevant components;
+
+\3. The date and method of notifying downstream counterparties to recall the Products;
+
+\4. The names and addresses of downstream counterparties; and
+
+\5. Other information designated by the competent authority as reportable.
+
+Paragraph 2 shall not apply to recalls required for the reasons listed under Subparagraph 3, Paragraph 1, Article 52 of the Act.
+
+## Article 6
+
+Documents served by the competent authority on the Responsible Enterprise or its agent may first be transmitted electronically to the electronic system designated by the central competent authority.
+
+The Responsible Enterprise or its agent shall, upon accessing the electronic system referred to in the preceding paragraph, implement the provisions of the preceding article.
+
+## Article 7
+
+The Responsible Enterprise shall report to and obtain approval from the competent municipality or county (city) authority before proceeding with the destruction of the Products.
+
+## Article 8
+
+The competent municipality or county (city) authority shall supervise the Responsible Enterprise in executing the recall and destruction of the Products.
+
+The supervision referred to under the preceding paragraph shall include the following matters:
+
+\1. Designating the frequency and method for the Responsible Enterprise to report the progress of the recall;
+
+\2. Verifying the initiation of the Responsible Enterprise’s recall procedures;
+
+\3. Verifying the Responsible Enterprise’s implementation of the plan stipulated under Article 3 and the accuracy of the recall progress report as prescribed under Article 5;
+
+\4. Verifying the Responsible Enterprise’s completion of the final disposal of the recalled Products; and
+
+\5. Other matters designated by the central competent authority.
+
+## Article 9
+
+The Responsible Enterprise shall prepare complete records of the procedures and details of the Products’ recall and destruction, retaining them in paper or electronic format for at least five (5) years.
+
+## Article 10
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+1.DOH Food No. 1001304012 Promulgated, 02/16/2012
+
+2.MOHW Food No. 1021350146 Amended, 08/20/2013
+
+3.MOHW Food No. 1041302468 Amended, 08/10/2015
+
+4.MOHW Food No. 1141302254 Amended, 02/03/2026

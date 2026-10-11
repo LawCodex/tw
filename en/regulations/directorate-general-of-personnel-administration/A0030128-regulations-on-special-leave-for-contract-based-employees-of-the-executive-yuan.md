@@ -1,0 +1,113 @@
+---
+title: "Regulations on Special Leave for Contract-based Employees of the Executive Yuan and Subordinated Agencies Article Revisions"
+title_zh: "行政院與所屬中央及地方各機關聘僱人員給假辦法"
+identifier: "A0030128"
+type: regulation
+law_level: "命令"
+category: "行政＞行政院人事行政總處＞培訓考用目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2001-07-31
+last_amended: 2025-10-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030128"
+retrieved: 2026-10-12
+---
+
+# Regulations on Special Leave for Contract-based Employees of the Executive Yuan and Subordinated Agencies Article Revisions
+
+> Translation. The Chinese text ([zh/regulations/directorate-general-of-personnel-administration/A0030128-regulations-on-special-leave-for-contract-based-employees-of-the-executive-yuan.md](../../../zh/regulations/directorate-general-of-personnel-administration/A0030128-regulations-on-special-leave-for-contract-based-employees-of-the-executive-yuan.md)) is authoritative.
+
+## Article 1
+
+This Regulations is enacted in accordance with Article 13, Paragraph 4 of the Civil Servants Service Act.
+
+## Article 2
+
+The “Contract-based Employees” as mentioned in these Regulations shall refer to the personnel who are employed in accordance with the Contract-based Worker Employment Act and Regulations on Contracted Employment of the Executive Yuan and Its Subordinate Agencies.
+
+## Article 3
+
+Special leave given to employees of the Executive Yuan and its subordinate agencies (hereinafter referred to as the Agencies) shall be stipulated as follows:
+
+1.Seven (7) days per year shall be given for Personal Leave. When afamily member needs prophylactic vaccination, suffers from seriousillness, or incurs other major incidents and necessitates theemployee’s management of the situation in person, seven (7) days’Family Care Leave per year shall be granted. For physical/mentalwellbeing, three (3) days of Physical/Mental Wellbeing Leave peryear shall be granted. The number of days of Family Care Leave andPhysical/Mental Wellbeing Leave taken shall count toward theemployee’s annual Personal Leave. For Personal Leave exceeding theregulated number of days, the employee’s pay shall be deducted inaccordance with said number of days in excess.
+
+2.Fourteen (14) days per year shall be given for Sick Leave to anemployee who requires treatment or rest because of suffering fromillness or for preventing miscarriage. Female employees who havedifficulties working during their menstrual cycle shall be grantedMenstrual Leave one (1) day per month. If the cumulative days ofMenstrual Leave does not exceed three (3) days in a year, such leaveshall not be counted towards the employee’s Sick Leave; the numberof days exceeding three (3) days shall be counted towards the yearlydays of Sick Leave; the number of days exceeding the given amount ofSick Leave shall be counted towards Personal Leave. For an employeewho suffers from a catastrophic illness or injury that requires aprolonged period of medical care, or pregnant employees who requirerest for miscarriage prevention, their Sick Leave may be extendedupon approval by their superiors if their given days of Sick Leave,Personal Leave, Consolation Leave, and Compensatory Leave have alreadybeen taken. Such an extension period of the Sick Leave shall not exceedthirty (30) days in total within six (6) months, calculated from thefirst day of the first extension.
+
+3.Fourteen (14) days shall be given for Marital Leave for theemployee’s marriage. Marital Leave shall be taken within three (3)months calculated from ten (10) days prior to the date of the marriage.However, such period may be extended up to one (1) year upon theapproval of the employee’s superior under special circumstances.
+
+4.Eight (8) days shall be given as Pre-Maternity Leave to an expectantemployee prior to delivery, which may be taken separately but is notallowed to be taken after the delivery; forty-two (42) days shall begiven for Maternity Leave delivery; forty-two (42) days shall be givenfor Miscarriage Leave for the miscarriage following after a pregnancyof twenty (20) weeks and above; twenty-one (21) days shall be given forMiscarriage Leave for miscarriages following after a pregnancy of twelve(12) or more but less than twenty (20) weeks; fourteen (14) days shallbe given for Miscarriage Leave for miscarriages following after apregnancy of less than twelve (12) weeks. All Maternity or MiscarriageLeave shall all be taken at once. Maternity Leave may be applied beforedelivery when Pre-Maternity Leave has all been taken , with thelimitation of twelve (12) days and no need to be taken fully at once,and the number of days shall be deducted from Miscarriage Leave if amiscarriage occurs.
+
+5.Seven (7) days shall be given for an employee who applies for AccompanyingPrenatal Checkup and Childbirth Leave based on accompanying their spousefor prenatal checkup, childbirth or miscarriage following after a pregnancyof twenty (20) weeks and above. Pregnancy checkup accompaniment leave maybe taken during the spouse’s pregnancy; paternity leave may additionallybe taken either before or after the event of childbirth or miscarriage,within a 15-day window that includes the day of the childbirth or miscarriage(including public holidays), and may be taken separately.
+
+6.Ten (10) days shall be given for Bereavement Leave due to the death ofthe parent or spouse of an employee; seven (7) days shall be given forBereavement Leave due to the death of an employee’s step-parent, thespouse’s parent, or their child; three (3) days shall be given forBereavement Leave due to the death of their great-grandparent, grandparent,the spouse’s grandparent, the spouse’s step-parent, or sibling. Onlythe relative mentioned above shall be employees’ blood relative orrelative-in-law on the date of their death, except for the step-parent ofemployees or their spouse, who had raised them before they became adults,or lived together with them until the date of death. Bereavement Leaveshall be taken within one-hundred (100) days calculated from the date ofthe relative’s death.
+
+7.The number of days for leave due to bone morrow or organ donation shall be determined by the actual needs.
+
+As for the prescribed number of days for personal leave specified in thefirst subparagraph of the preceding paragraph, if an employee’s employment,work resumption, or reappointment occurs after February, the days shall becalculated in accordance with the employee’s months of employment (beginningwith the month of arrival, resumption, or reappointment, to the end of theyear) as a proportion of the 12 months in the year. If the fraction is lessthan 0.5 days, it shall be rounded up to 0.5 days; if the fraction is morethan 0.5 days but less than one day, it shall be rounded up to one day.However, if an employee returns after unpaid leave, as stipulated in Article16, Paragraphs 1 and 3 of the Gender Equality in Employment Act, saidemployee’s seniority shall be added in, and the prescribed Personal Leaveentitlement shall continue.
+
+An employee can only take more Personal Leave days than the prescribed onesin accordance with the provisions stipulated in the latter part ofSubparagraph 1 of Paragraph 1 after using up the entitled Consolation Leaveand Compensatory Leave. Such Personal Leave shall be carefully determinedby the employee’s supervisor by comprehensively considering the urgencyand necessity of the leave and the reasonableness of the number of days theemployee works in a year. However, this provision does not apply to thecounting of Family Care Leave and Physical/Mental wellbeing leave towardthe employee’s annual Personal Leave.
+
+When an employee applies for Family Care Leave, Physical/Mental WellbeingLeave, Menstrual Leave, Pre-Maternity Leave, Maternity Leave, MiscarriageLeave, Accompanying Prenatal Checkups and Childbirth Leave, and other leavedue to miscarriage prevention under the provisions in Paragraph 1, theAgencies may not reject, make adverse effect on the employees’ evaluation,or take any disciplinary action against the employee.
+
+## Article 4
+
+For those employees who have served consecutively for more than one year,7 days’ Consolation Leave is given starting from the second year；forthose who have served for more than three years, 14 days’ leave is givenstarting from the fourth year;for those who have served for more than sixyears, 21 days’ leave is given starting from the seventh year；for thosewho have served for more than nine years, 28 days’ leave is given startingfrom the tenth year；for those who have served for more than fourteen years,30 days’ leave is given starting from the fifteenth year.
+
+For new employees who start working after February, their Consolation Leaveentitlement in the following January shall be determined based on theirlength of service from the work start date to the end of that firstcalendar year. Based on the Consolation Leave entitlement rules specifiedin the preceding paragraph, the number of service months from the startdate to the end of the calendar year shall be calculated in accordancewith the employee’s months of employment as a proportion of the 12months in the year. The fraction rounding rules specified in Paragraph 2of the preceding article shall apply. The Consolation Leave entitlementfor employees with less than one year of service shall be calculated bymultiplying the proportion of service by seven days. Starting from Januaryof the third year, the Consolation Leave shall be granted based on theseniority rules stated in the preceding paragraph.
+
+Employees shall use up all the Consolation Leave they shall take in a yearby the end of the year, otherwise the agencies will assume they give up therest days of Consolation Leave of the year.
+
+After deducting days of Consolation Leave employees shall take in a year,employees could take the rest days of leave in the next year upon theapproval of employing agencies, on the condition that they leave theirprevious agencies and enter their current agencies on the same day. Ifemployees have not taken their unused days of leave by the end of thenext year or the termination date of the contracts, the agencies willassume they give up the rest of Consolation Leave of the year.
+
+The employees could be subsidized when taking their consolation leave.After deducting days of Consolation Leave employees shall take in a year,if employees could not use up all of the rest days of leave due toofficial reasons approved by the superiors of the agency, and they willnot take the unused days of leave in the next year according to thestipulation of Paragraph 4, Article 3, their employing agencies may givethem overtime pay for unused days of Consolation Leave or other rewards.
+
+## Article 5
+
+Employees who are entitled to fewer than three days of Consolation Leavein a year shall still be given three days of Consolation Leave per year.However, any used Consolation Leave and untaken Consolation Leave that hasbeen converted into overtime pay or other forms of reward in the same yearmust first be deducted when calculating the additional day(s) for thethree-day baseline. Any leave untaken shall be forfeited.
+
+The preceding paragraph’s provisions do not apply to paid administrativecivil servants other than originally appointed employees, non-pure-laborpersonnel in public institutions, public schools’ education personnel andvolunteer military personnel, and employees who have been dismissed, removedfrom office, or subjected to other equivalent disciplinary measures.
+
+## Article 6
+
+Leave for Statutory Reasons, Sundays and Holidays, Absences, Years ofService computation and method of application for leave (or leave-reversal),days of Consolation Leave employees shall take in a year, subsidies ofConsolation Leave , overtime pay for unused days of Consolation Leave,should be based on the regulations on Civil Service Leave Regulations orother civil service decrees.
+
+The Years of Service computation for employed resident physicians’Consolation Leave can include the period of their postgraduate clinicmedicine training specified in Diplomate Specialization and ExaminationRegulations.
+
+## Article 7
+
+The special leave to be given to employees who serve in agencies withbusinesses of special nature, separate special regulations may be formulatedtaking the reference of these Regulations. Such special regulations shallbe submitted to the second-level agencies subordinate to the Executive Yuan,independent administrative institutions equivalent to the second-levelagencies or the third-level of the Central Government agencies, specialmunicipalities, councils of special municipalities, county (city) governmentsand county (city) councils with Direct Jurisdiction for approval.
+
+## Article 8
+
+Each Organization must include the details as regulated by this Ordinanceinto each employee’s contract.
+
+## Article 9
+
+These Regulations shall take effect on January 1, 2026, with the exceptionof the provisions related to Physical/Mental Wellbeing Leave stipulated in Article 3, which shall take effect on October 10, 2025.
+
+## History
+
+1.Promulgated on July 31, 2001
+
+2.Amended on March 7, 2002
+
+3.Amended on March 12, 2008, and enforced since January 1, 2008
+
+4.Amended on March 24, 2015
+
+5.Amended on December 30, 2016
+
+6.Amended on December 29, 2017, and enforced since January 1, 2018
+
+7.Amended and enforced on December 7, 2018
+
+8.Amended on April 22, 2019
+
+9.Amended on July 15, 2020
+
+10.Amended on July 15, 2022
+
+11.Amended on October 9, 2025

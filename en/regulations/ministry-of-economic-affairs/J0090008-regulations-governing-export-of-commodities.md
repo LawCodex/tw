@@ -1,0 +1,235 @@
+---
+title: "Regulations Governing Export of Commodities"
+title_zh: "貨品輸出管理辦法"
+identifier: "J0090008"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞國際貿易目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1993-07-19
+last_amended: 2023-11-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0090008"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Export of Commodities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0090008-regulations-governing-export-of-commodities.md](../../../zh/regulations/ministry-of-economic-affairs/J0090008-regulations-governing-export-of-commodities.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are enacted pursuant to Paragraph 2 of Article 15 of the Foreign Trade Act (hereafter referred to as the Act).
+
+### Article 2
+
+Regarding these regulations of the competent authority of the Ministry of Economic Affairs (MOEA), such affairs shall be implemented by the International Trade Administration, MOEA (hereafter referred to as TITA).
+
+### Article 3
+
+The term "licensing" as used herein means issuance of export permits by the TITA or any organization authorized by it. The term "exemption of licensing" as used herein means exemption of an export permit.
+
+### Article 4
+
+The term "a firm" as used herein means an exporter/importer duly registered with the TITA under the "Regulations Governing Registration of Exporters and Importers".
+
+## Chapter II Export Regulations
+
+### Article 5
+
+Regarding the following commodities, which are restricted for export under this Act, the TITA shall compile a “List of Commodities Subject to Export Restriction” in accordance with the export regulations and commodity name list as hereby announced:
+
+\1. Commodities to be exported to specific countries or areas as specified in Article 5 of the Act.
+
+\2. Commodities for which necessary measures need to be taken to restrict export thereof in accordance with Article 6 of the Act.
+
+\3. Commodities which are restricted in accordance with Paragraph 1, Article 11 of the Act.
+
+\4. Strategic High-Tech Commodities as set forth in Article 13 of the Act.
+
+\5. Exportation of endangered species of wild fauna and flora, and products thereof in accordance with Article 13-1 of the Act.
+
+\6. Commodities for which export quotas are required in accordance with Article 16 of the Act.
+
+Export of commodities included on the “List of Commodities Subject to Export Restriction” shall be filed in accordance with the regulations prescribed in the said List. Those commodities that do not comply with export regulations and have not been given special approval by the TITA shall not be permitted for export.
+
+### Article 6
+
+If a firm, a government agency, a government operated enterprise, and a public or private school exports commodities not included on the “List of Commodities Subject to Export Restriction,” licensing shall be exempted.
+
+### Article 7
+
+If a person, other than a firm, a government agency, a government operated enterprise, and a public or private school, who is not a professional exporter, exports commodities subject to Article 10 of the Act, he/she shall apply for import licensing; however, subject to any of the following circumstances, export licensing shall be exempted:
+
+\1. Export commodities, whether transported via air or surface, that are not included on the “List of Commodities Subject to Export Restriction,” so long as the FOB price is less than US$20,000 or its equivalent.
+
+\2. Articles for own use by vessels berthing in Republic of China seaports or aircraft transiting at Republic of China airports, within the limits of the classification, quantity, and value stipulated by Customs.
+
+\3. Supplies for own use by fishing vessels operating from offshore bases, for which written approval is obtained from the government authority in charge of fishery.
+
+\4. Articles for official use sent to Republic of China embassies, consulates, or other organizations stationed in foreign countries.
+
+\5. Fuel for use by vessels berthing in Republic of China seaports or aircraft transiting at Republic of China airports.
+
+\6. Articles for exhibition to be exported by the China External Trade Development Association and/or the Taiwan Textile Federation.
+
+\7. Articles for humanitarian relief.
+
+\8. Other commodities approved by the TITA.
+
+For export of the above licensing-exempt commodities, if they are included on the list prescribed in Articles 5 or 8 hereof, regulations set forth on the list shall be complied with when export application is filed with Customs unless there are other special regulations applicable.
+
+### Article 8
+
+For commodities that are exempt from licensing but their exportation is regulated under other laws or regulations, the TITA will, to the extent that examination of export commodities can be performed by Customs, compile and publish a table of export commodities for which inspection is assisted by Customs, and a list of nomenclatures and export regulations related to such commodities.
+
+For export of commodities listed in the said table of export commodities for which inspection is assisted by Customs, export regulations set forth in the said table shall be complied with when applying for export of such commodities.
+
+### Article 9
+
+For articles in small quantity sent by parcel post or carried out of this country by passengers for personal use, relevant Customs regulations shall govern, and the provisions in Article 5 and Paragraph 1 of Article 7 hereof shall not be applicable.
+
+## Chapter III Marking of Trademarks
+
+### Article 10
+
+Exporters who export any commodities bearing trademarks shall themselves ascertain the ownership of the said trademarks in order to prevent counterfeiting violations.
+
+The exporters shall declare accurately on the export form the trademark(s) to be used for such commodities. The declaration "without trademark" shall be made when export commodities do not bear any trademark. However, when Customs determines that the foreign goods or domestic goods, which have been returned for maintenance, are to be re-exported, then the provisions of this paragraph shall not be applicable.
+
+### Article 11
+
+If Customs determines that any export commodity bears a trademark that does not conform with the information entered in the export declaration form, Customs shall request the exporter to provide legal documents from the owner for the right to use the trademark and assign or authorize the exporter to use the registered trademark, or any other document capable of verifying that trademark counterfeiting has not been involved, so that the Customs Office can check and release the commodities.
+
+### Article 12
+
+The provisions in the preceding two Articles shall apply to cases where a trademark is marked on the internal or external packages or containers of the export goods.
+
+## Chapter IV Export of Commodities with Intellectual Property Rights
+
+### Article 13
+
+To meet foreign trade administrative requirements, the TITA may announce in a public notice that certain designated export commodities shall bear the imprint of the Source Identification Code.
+
+Before exporting, exporters shall properly declare on export declarations the imprint mark and business code of the mold Source Identification Code (SID code). Where there is no SID code, the exporter shall declare “No SID Code”. This does not apply if the shipment is verified by Customs as “re-exportation”.
+
+## Chapter V Marking of Country of Origin
+
+### Article 14
+
+Any commodity for export shall be marked on itself or its internal and external package with the country of origin in a conspicuous and durable manner. If such a marking cannot be made in accordance with these regulations owing to the special characteristics of the commodity or the special situation of packaging, the exporter shall apply to the TITA for approval.
+
+### Article 15
+
+Commodities for export and manufactured in the Republic of China shall be marked with "Made in Republic of China", "Made in Taiwan, Republic of China", "Made in Taiwan" or the equivalent in a foreign language.
+
+Commodities for export mentioned in the preceding paragraph shall not be marked with any name of foreign countries or places or any other expressions that can mislead others to believe that the commodities are made in other countries, except imported parts/components, on which the original marks of the country of origin may be retained, except commodities in either of the following situations, which may be marked with other countries as the country of origin:
+
+\1. Parts/components supplied to foreign buyers for assembly, on which marks of the country of origin are to indicate the place where the finished products are to be made, with approval from the TITA.
+
+\2. Containers or packing materials supplied to foreign buyers for their use.
+
+With respect to commodities themselves marked with other countries as origin under the preceding paragraph, their internal or external packages shall still be marked with this country as the country of origin.
+
+### Article 16
+
+For the re-export of imported commodities, their original marks of country of origin may be retained thereon, and those re-exports without marks of country of origin when imported, may likewise be re-exported.
+
+### Article 17
+
+The imported commodities in the preceding article that are processed in Taiwan for re-export may be marked with “Processed in Taiwan” or the method of processing in Taiwan on the commodities themselves or on internal and external package. But if the commodities only undergo any of the following steps, they shall only be marked with the method of processing in Taiwan:
+
+\1. Preservation required for transportation or storage;
+
+\2. Classifying, grading and packaging required for marketing or transporting of products;
+
+\3. Assembling or mixing that does not result in any major difference in the characteristics of the products;
+
+The commodities marked “Processed in Taiwan” or with the method of processing in Taiwan shall also be marked with the country of origin in a conspicuous and durable manner.
+
+## Chapter VI Regulations Governing Licensing
+
+### Article 18
+
+Applicants for an export permit to export commodities can apply for an electronic permit with the TITA. However, in cases stipulated in the proviso of paragraph 1 of Article 4 of the Regulations Governing Electronic Visas of Export and Import Commodities, applications shall be made in writing.
+
+Applicants that apply for an export permit in writing shall prepare and submit the following documents:
+
+\1. An export permit application form completed in full.
+
+\2. Any other documentation as stipulated by other relevant regulations.
+
+The formats for the export permit and the export permit application form shall be designed by the TITA.
+
+### Article 19
+
+An export permit shall be valid for thirty (30) days from the date of licensing. However, export permits with longer periods of validity may be issued for cases approved by the TITA for special projects.
+
+If the applicant feels that the export commodities cannot be exported within the period of validity, an application for an export permit with a longer period of validity may be made at the time of application by stating the reasons and attaching supporting documents.
+
+Applications are not accepted for extension of period of validity for an export permit. If a commodity is not exported within the valid period and re-licensing is applied for, an application for cancellation of the original export permit shall be made.
+
+### Article 20
+
+Applicants applying for amendments to the export permits shall be made in accordance with the following provisions:
+
+\1. If an error is discovered before submission of the export application to Customs, applications for cancellation of original permit and re-licensing shall be filed, and no amendment application is allowed.
+
+\2. If amendment is required before or after release of commodities by Customs and the amendment involves nomenclature, specifications, tariff classification code, unit, or quantity of the commodities, the applicant shall submit a certificate issued by Customs to the TITA.
+
+\3. The applicant's name on the export permit shall not be amended unless it has been authorized by the TITA.
+
+\4. When applying for amendments, the original export regulations shall be adhered to.
+
+Applicants applying for amendments to the export permits can only be made within six months from the date when the original export permit was issued by the licensing organization, except amendments within three years of the issuing date and with the permission of the TITA.
+
+## Chapter VII Supplemental Provisions
+
+### Article 21
+
+The TITA may, based on the administrative requirements for trading activities, publish other rules or regulations governing exportation in accordance with these Regulations.
+
+### Article 22
+
+These Regulations shall come into force from the date of promulgation.
+
+## History
+
+1.Promulgated on July 19, 1993
+
+2.Amendment on October 22, 1993
+
+3.Amendment on August 29, 1994
+
+4.Amendment on March 22, 1995
+
+5.Amendment on August 9, 1995
+
+6.Amendment on July 2, 1997
+
+7.Amendment on July 13, 1998
+
+8.Amendment on September 15, 1999
+
+9.Amendment on July 12, 2000
+
+10.Amendment on December 11, 2002
+
+11.Amendment on July 2, 2003
+
+12.Amendment on August 4, 2004
+
+13.Amendment on April 6, 2005
+
+14.Amendment on March 5, 2007
+
+15.Amendment on July 8, 2010
+
+16.Amendment on April 1, 2020
+
+17.Amendment on November 22, 2023

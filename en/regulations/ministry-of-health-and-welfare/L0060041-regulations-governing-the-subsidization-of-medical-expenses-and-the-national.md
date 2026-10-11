@@ -1,0 +1,105 @@
+---
+title: "Regulations Governing the Subsidization of Medical Expenses and the National Health Insurance Premiums for Disaster Victims in Disaster Affected Areas"
+title_zh: "災區受災者就醫費用及全民健康保險之保險費補助辦法"
+identifier: "L0060041"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞社會保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-10-03
+last_amended: 2022-12-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060041"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing the Subsidization of Medical Expenses and the National Health Insurance Premiums for Disaster Victims in Disaster Affected Areas
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0060041-regulations-governing-the-subsidization-of-medical-expenses-and-the-national.md](../../../zh/regulations/ministry-of-health-and-welfare/L0060041-regulations-governing-the-subsidization-of-medical-expenses-and-the-national.md)) is authoritative.
+
+## Article 1
+
+The Regulations Governing the Subsidization of the Medical Expenses and the National Health Insurance Premiums for Disaster Victims in Disaster Affected Areas (hereinafter referred to as the “Regulations”) are formulated in accordance with Paragraph 3 of Article 45 of the Disaster Prevention and Protection Act.
+
+## Article 2
+
+When a National Health Insurance (hereinafter referred to as the “Insurance”) beneficiary is impacted by a disaster in areas announced as disaster affected areas by the Executive Yuan and meets any of the following criteria, shall have their regular Insurance premiums that would otherwise be their personal responsibility covered by the central government for six months beginning from the month of the disaster, and such coverage may be funded through private donations:
+
+\1. Dead or missing, and meeting the criteria set forth for government relief assistance for dead or missing victims;
+
+\2. Receiving government relief assistance for severely injured victims;
+
+\3. Those who enrolled in this Insurance together with any Insurance beneficiary prescribed in the two preceding subparagraphs in the month when a disaster takes place, or the Insurance beneficiary’s spouse, parents, or children who are minor or who have reached majority but are incapable of making a living, including those who are in school without employment;
+
+\4. Meeting the criteria for receiving government relief assistance for relocation, flood, or house damage;
+
+\5. Receiving government relief assistance for damage to farms, fish farms, fishing boats (rafts), or sampans.
+
+The eligibility of an Insurance beneficiary meeting the criteria set forth in the preceding Subparagraph 3 for receiving subsidy shall remain unaffected even if the Insurance beneficiary changes his or her insurable status during the subsidization period.
+
+The updated list of those meeting the criteria set forth in Subparagraph 1 or 2 of Paragraph 1, and their spouses, parents, children, and those meeting the criteria set forth in Subparagraph 4 or 5 of Paragraph 1 shall be provided to National Health Insurance Administration, Ministry of Health and Welfare (hereinafter referred to as the “Insurer”) by the government of municipalities and counties (cities) of the disaster affected areas monthly for the calculation of the amount for relief assistance.
+
+## Article 3
+
+For disaster victims within the disaster affected areas declared by the Executive Yuan, medical expenses incurred for treatment deemed necessary by medical professionals due to the disaster shall be covered by the central government within three months from the date of the disaster, which may utilize private donations for this purpose:
+
+\1. The co-payment of medical expenses is to be paid by an Insurance beneficiary;
+
+\2. For those who are not qualified as Insurance beneficiaries, their medical expenses for medical treatment fall within the scope of the Insurance benefits;
+
+\3. For those referred to in the preceding two subparagraphs, their general food expenses during hospitalization are not covered by the Insurance.
+
+The Ministry of Health and Welfare may extend the period prescribed in the preceding paragraph, considering the range of areas affected by the disaster and the degrees of severity.
+
+## Article 4
+
+An Insurance contracted medical care institution (hereinafter referred to as a “Medical Institution”) that receives and treats victims affected by a disaster shall report the expenses to the Insurer on a monthly basis in accordance with the following methods:
+
+\1. Co-payment medical expenses to be paid by an Insurance beneficiary: A Medical Institution shall report such expenses to the Insurer in accordance with the Insurance’s medical expense reporting process and use the reporting codes formulated by the Insurer;
+
+\2. Medical expenses of those who are not qualified as Insurance beneficiaries for medical treatment falling within the scope of the Insurance benefits: A Medical Institution shall report such expenses to the Insurer in accordance with the Insurance’s medical expense reporting process and use the reporting codes formulated by the Insurer, or a Medical Institution shall charge for such medical treatment at a rate approved by the local competent health authority in accordance with Article 21 of the Medical Care Act and report such expenses to the Insurer in writing or via other methods specified by the Insurer;
+
+\3. General food expenses during hospitalization not covered by the Insurance: A Medical Institution shall report such expenses to the Insurer in writing or via other methods specified by the Insurer.
+
+## Article 5
+
+When the Executive Yuan has not yet announced the range of disaster affected areas, and there are a large number of disaster-affected patients requiring treatment, the Insurer may take the severe circumstances facing Medical Institutions in admitting disaster-affected patients at different locations into consideration to study and determine the range of disaster-affected areas having a large number of patients. The Insurer shall submit such determination to the Ministry of Health and Welfare for approval of the designation of large-scale disaster-affected patient areas after consulting with the central regulating authorities for disaster prevention and protection and other relevant competent authorities and then publicly announce such designation.
+
+The two preceding articles shall apply mutatis mutandis to the subsidization of expenses of disaster victims in a large-scale disaster-affected patient area prescribed in the preceding paragraph. This applies to costs incurred from the day a disaster strikes until the Executive Yuan officially announces the scope of the disaster affected areas, which include medical expenses resulting from the disaster as well as general food expenses during hospitalization that are not covered by the Insurance.
+
+For those disaster victims who meet the criteria set forth in the preceding paragraph, have already been hospitalized for treatment, reside in a disaster-affected area not included in the range of disaster affected areas announced by the Executive Yuan, and have not been discharged from the hospital at the time the Executive Yuan made the aforesaid announcement, the subsidization for their hospitalization expenses shall be calculated up to the day they are discharged from hospital.
+
+After the Ministry of Health and Welfare approves the designation of the range of areas referred to in Paragraph 1, the Insurer may, when necessary, inform Medical Institutions in advance of such designation.
+
+## Article 6
+
+After making any advanced payments out of his or her own pocket for expenses meeting the requirements set forth in Article 3 and the preceding article, a disaster affected victim may, within six months of the day of outpatient treatment, emergency treatment, or discharge from hospital, or of the day when the Executive Yuan announces the disaster affected areas, apply for reimbursement of his or her self-advanced expenses, in accordance with the following:
+
+\1. Co-payment medical expenses to be paid by an Insurance beneficiary in advance: A disaster-affected victim shall submit his or her reimbursement application to the Insurer in accordance with the National Health Insurance Act and the Regulations for the National Health Insurance Reimbursement of the Self-advanced Medical Expenses;
+
+\2. Medical expenses of a disaster-affected victim not qualified as an Insurance beneficiary for medical treatment falling within the scope of the Insurance benefits and general food expenses during hospitalization not covered by the Insurance: Article 6 and Article 8 of the Regulations for the National Health Insurance Reimbursement of the Self-advanced Medical Expenses shall apply mutatis mutandis, and a disaster-affected victim shall submit his or her reimbursement application to the Insurer. In the event that the amount of medical expenses for medical treatment charged by a Medical Institution on a disaster victim at a rate approved by the local competent health authority is in excess of the amount covered by the Insurance, the Insurer may reimburse the said disaster victim for the actual amount paid by the said disaster victim.
+
+## Article 7
+
+Relief assistance for windstorms, earthquakes, and other severe disasters that happened between August 6, 2015, and the formulation and announcement of the Regulations on October 3, 2016, shall be handled in accordance with the following methods following the Executive Yuan’s announcement of disaster affected areas:
+
+\1. General premium to be contributed by an Insurance beneficiary: The Insurer shall calculate the amount based on the list provided by the government of municipalities and counties (cities) of the disaster affected areas in accordance with Article 2, Paragraph 3, and offset fees owed by Insurance beneficiaries and any insurance premiums incurred thereafter. If an Insurance beneficiary has died, the subsidization shall be refunded to that Insurance beneficiary’s heirs;
+
+\2. Co-payment of medical expenses and hospitalization general food expenses not covered by the Insurance:
+
+(1) An Insurance beneficiary who has paid co-payment medical expenses in advance may apply to the Insurer for reimbursement by submitting supporting documentation within six months from either the date of enactment and promulgation of the Regulations on October 3, 2016, or from the date the Executive Yuan announced the scope of the disaster affected area, whichever applies, in accordance with the Regulations for the National Health Insurance Reimbursement of Self-advanced Medical Expenses;
+
+(2) Any amount not yet collected by a Medical Institution from an Insurance beneficiary shall be reported to the Insurer in accordance with Article 4.
+
+## Article 8
+
+The Regulations shall enter into force from the date of promulgation.
+
+## History
+
+1.The Regulations Promulgated on October 3, 2016 in accordance with Ministry of Health and Welfare Wei-Bu-Pao -1051260575.
+
+2.Full text (8 articles) revised and promulgated by the Ministry of Health and Welfare Order Wei-Bu-Pao-Tzu No.1111260391, on December 12, 2022.

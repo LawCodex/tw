@@ -1,0 +1,243 @@
+---
+title: "Enforcement Rules of Fire Services Act"
+title_zh: "消防法施行細則"
+identifier: "D0120002"
+type: regulation
+law_level: "命令"
+category: "行政＞內政部＞消防目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1987-06-26
+last_amended: 2024-01-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120002"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of Fire Services Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-the-interior/D0120002-enforcement-rules-of-fire-services-act.md](../../../zh/regulations/ministry-of-the-interior/D0120002-enforcement-rules-of-fire-services-act.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are established in accordance with Article 46 of the Fire Services Act (“the Act”).
+
+## Article 2
+
+The regulatory authorities mentioned in Article 3 of the Act shall be the National Fire Agency for matters within the purview of the Ministry of the Interior, or the Fire Department within municipal or county/city governments.
+
+## Article 3
+
+Municipal and county (city) authorities shall develop a comprehensive plan annually, integrating resources from agencies, schools, groups, and volunteers. Utilizing various channels such as media, community engagement, and experiential activities, they shall consistently promote fire prevention education and awareness.
+
+This annual plan shall include:
+
+1.Analysis of fires within the jurisdiction from the previous year.
+
+2.Planning and scheduling of fire prevention education and awareness activities based on the analysis.
+
+3.Enhanced promotion of fire prevention measures during traditional festivals, focusing on fire and electrical safety.
+
+## Article 4
+
+The tasks related to the design, construction supervision, testing, and maintenance of fire safety equipment as outlined in Article 7, Paragraph 1 of the Act are as follows:
+
+1.Design: This involves planning the types and quantities of fire safety equipment, as well as creating fire safety equipment drawings.
+
+2.Construction Supervision: This entails verifying the testing or inspection requirements during the construction of fire safety equipment.
+
+3.Testing: This involves conducting functional tests on fire safety equipment after construction and preparing fire safety equipment test reports.
+
+4.Maintenance: This involves inspecting fire safety equipment in various locations as entrusted according to the first paragraph of Article 9 of the Act and preparing fire safety equipment maintenance reports.
+
+## Article 5
+
+The fire protection plan as stipulated in Article 13, Paragraph 1 of this law shall include the following details:
+
+1.Self-defense firefighting organization: A firefighting squad, notification squad, and evacuation leading squad shall be organized for employers with ten or more employees, with an additional safety protection squad and first aid squad for employers with fifty or more employees.
+
+2.Self-inspection of fire evacuation facilities: Conducted at least once a month, with any deficiencies promptly reported to the Administrator for immediate correction.
+
+3.Maintenance and management of fire safety equipment.
+
+4.Firefighting operations, reporting, and evacuation guidance during fires and other hazards.
+
+5.Implementation of firefighting, communication, and evacuation drills: Conducted at least once every six months, lasting no less than four hours each time, with prior notification to the local fire department.
+
+6.Education and training on fire prevention and emergency response.
+
+7.Supervision and management of fire and electricity usage.
+
+8.Measures to prevent arson.
+
+9.Site maps, evacuation plans, and floor plans.
+
+10.Any other actions required for fire prevention and emergency response.
+
+## Article 6
+
+The construction fire protection plan, as delineated in Article 13, Paragraph 3 of this law, shall include the following provisions:
+
+1.Overview, schedule, and scope of construction activities.
+
+2.Alternative measures for fire prevention and evacuation facilities affected by the construction.
+
+3.Alternative measures for fire safety equipment affected by the construction.
+
+4.Fire prevention measures for the utilization of equipment or hazardous materials that may generate sources of ignition.
+
+5.Disaster prevention education and training for employees and construction personnel.
+
+6.Response strategies for fires and other disasters, notification procedures for fire departments, mechanisms for mutual communication, and guidance for evacuation.
+
+7.Supervision and management of fire and electricity usage.
+
+8.Measures to prevent arson and mitigate the spread of fire.
+
+9.Site map, floor plan, escape and evacuation plan, and indicators for escape routes.
+
+10.Other necessary provisions pertinent to disaster response and prevention.
+
+The individual responsible for the construction site shall submit the construction fire protection plan for review to the competent authority of the municipality, county, or city where the construction site is located, at least three days prior to the commencement of construction.
+
+## Article 7
+
+The joint fire protection plan, as stipulated in Paragraph 3 of Article 13 of this law, shall include the following provisions:
+
+1.Establishment and operation of the Joint Fire Management Council (hereinafter referred to as the Council).
+
+2.Organization of self-defense firefighting, including a command center and regional teams:
+
+(a) The command center shall comprise command, notification, and firefighting squads, with the potential addition of evacuation guidance, safety protection, and medical squads as deemed necessary, their composition subject to agreement by the Council.
+
+(b) Regional teams shall be structured by the fire prevention managers of each location according to the scale of the business unit.
+
+3.Maintenance management of fire prevention and evacuation facilities, including self-inspections conducted monthly, with immediate rectification of any deficiencies discovered.
+
+4.Maintenance management of fire safety equipment.
+
+5.Implementation of fire and disaster response strategies, including notification to fire departments, establishment of mutual communication mechanisms, and provision of evacuation guidance.
+
+6.Conducting firefighting, notification, and evacuation training biannually, with each session not less than four hours, and prior notification to the competent local municipality, county, or city authority.
+
+7.Supervision and management of the use of fire and electricity.
+
+8.Measures to prevent arson and the spread of fire.
+
+9.Location map, floor plan, and escape and evacuation plan of the premises.
+
+10.Safety measures during the construction, reconstruction, repair, change of use, or interior renovation of the common parts of the building.
+
+11.Other necessary items related to disaster response and prevention.
+
+## Article 8
+
+The fire prevention and disaster preparedness plan as stipulated in Paragraph 1, Subparagraph 1 of Article 15-6 of this law shall include the following items:
+
+1.Self-defense firefighting organization: Establishments with more than ten employees should form firefighting, notification, and evacuation guidance squads; those with more than fifty employees should additionally form safety protection and medical squads.
+
+2.Maintenance management of fire safety equipment in public hazardous materials facilities.
+
+3.Maintenance management of structures and equipment in public hazardous materials facilities.
+
+4.Firefighting actions, notification and communication, and evacuation guidance in the event of fire and other disasters.
+
+5.Implementation of firefighting, notification, and evacuation training; such training should be held at least once every six months, each session lasting no less than four hours, and should be notified in advance to the competent local municipality, county, or city authority.
+
+6.Safety management strategies for public hazardous mate-rials facilities:
+
+(1) Safety in the handling, processing, and storage of public hazardous materials.
+
+(2) Safety in the use of fire and electricity in the facilities.
+
+(3) Construction safety in the facilities.
+
+(4) Measures to prevent arson and the spread of fire.
+
+(5) Response measures for accidental incidents such as explosions and leaks.
+
+7.Education and training in disaster response for public hazardous materials facilities.
+
+8.Location map, floor plan, and escape and evacuation plan of public hazardous materials facilities.
+
+9.Other necessary items related to disaster response and prevention.
+
+## Article 9
+
+The fire hydrant established pursuant to Article 17 of the Act shall be of the ground dividing breeching type unless otherwise specified. The specification of the hydrant shall be set forth by the central regulating authorities.
+
+The local water supply company shall maintain and protect the fire hydrant pursuant to Article 17 of the Act, and cooperate with the municipal, county/city fire department to carry out the test of the performance of the hydrant to keep it in usable condition.
+
+## Article 10
+
+A reservoir and other fire water sources shall be erected or repaired as applicable by the municipal, county/city government in the area within its jurisdiction where tap water is not supplied or in shortage of hydrant; and such reservoir or fire water sources shall be put under control by the local fire department.
+
+## Article 11
+
+Civil utilities including power, gas and water supplies within the jurisdiction of a municipal, county/city government shall designate a unit authorized to promptly collect water supply or cut off the power supply and/or gas supply as applicable when notified by the commander of the fire department pursuant to Article 21 and 22 of the Act.
+
+## Article 12
+
+Once the fire line is defined by the fire commander, local regulating authorities, under Articles 20 and 23 of the Act, local police station or precinct may be notified to coordinate in maintaining the fire line
+
+## Article 13
+
+Any claim for damages under Article 32 of the Act shall be made in writing and filed with the local regulating authorities.
+
+The local regulating authorities upon receiving the claim shall promptly negotiate with the claimant for settlement, which shall be made in a written agreement.
+
+## Article 14
+
+Upon completing the investigation and determination of the cause of the fire in accordance with Article 26, Paragraph 1 of the Act, the competent authorities of municipalities directly under the central government or counties (cities) shall promptly prepare a fire investigation report and transfer it to the local police department for further action as required by law.
+
+The competent authorities of municipalities directly under the central government or counties (cities) may, if necessary, collaborate with the local police authorities in investigating and determining the cause of fires. The fire investigation report mentioned in the preceding paragraph shall be completed within fifteen (15) days from the day following the extinguishment of the fire. If necessary, this period may be extended to thirty (30) days. However, in cases requiring the convening of a fire investigation meeting or conducting additional investigations, the report shall be completed within fifteen (15) days after the meeting is held or the additional investigation is concluded.
+
+## Article 15
+
+Prosecuting, police, or competent authorities may blockade the site of the fire and lift the blockade upon completing the fire investigation and determination.
+
+The site of the fire shall be kept intact until the completion of the fire investigation and determination. No one is permitted to enter the site or make any changes to it unless authorized by those in charge of the investigation and determination. In case of an emergency or when entry is absolutely necessary, such entry shall always be accompanied by investigation and determination personnel, and the reasons should be documented in the fire investigation report."
+
+## Article 16
+
+Regulatory authorities at each level may conduct training and drills for fire control, rescue, and first aid personnel, as well as for vehicles, vessels, aircraft, and equipment owned by government agencies, public sector entities, and private businesses, in compliance with the needs of disaster response and emergency medical care.
+
+## Article 17
+
+The Rules shall come into effect upon their publication date.
+
+## History
+
+1.27 Articles published under Ministry of the Interior(MOI)Order (76)-Tai-Nei- Ching-Tzu No. 505687, June 26, 1987
+
+2.30 Articles, as amended, published under Ministry of the Interior(MOI) Order Tai-(85)-Nei-Hsiao-Tzu No. 8577234, June 26, 1996
+
+3.Articles 2, 4 and 5 amended, published under Ministry of the Interior(MOI) Order Tai-(88)-Nei-Hsiao-Tzu No. 876290, Dec. 8, 1999
+
+4.Articles 6 and 19 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 0910088784, June 12,2002
+
+5.Articles 6 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 0940091516, March 1,2005
+
+6.Articles 25, 26 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 0970824055, October 16,2008
+
+7.Articles 13 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 0980822585, June 18,2009
+
+8.Articles 4, 5 amended and 19 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 0990825520, June 30,2010
+
+9.Addition of Article 19-1, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1000822908, June 7,2011
+
+10.Articles 18 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1000826386, Dec. 19,2011
+
+11.Amended on June 4, 2012
+
+12.Articles 5-1,14 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1040820826, Jun. 29,2015
+
+13.Articles 7 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1050823343, Dec 22,2016
+
+14.Articles 20 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1060823682, Oct 12,2017
+
+15.Articles 6 amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1080823130, Sep 30,2019
+
+16.17 Articles, as amended, published under Ministry of the Interior(MOI) Order Tai-Nei-Hsiao-Tzu No. 1131600274, Jan 22, 2024

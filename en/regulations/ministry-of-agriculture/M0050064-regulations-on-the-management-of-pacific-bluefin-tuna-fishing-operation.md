@@ -1,0 +1,379 @@
+---
+title: "Regulations on the Management of Pacific Bluefin Tuna Fishing Operation"
+title_zh: "太平洋黑鮪漁撈作業管理辦法"
+identifier: "M0050064"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞漁業目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-11-30
+last_amended: 2025-03-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050064"
+retrieved: 2026-10-12
+---
+
+# Regulations on the Management of Pacific Bluefin Tuna Fishing Operation
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0050064-regulations-on-the-management-of-pacific-bluefin-tuna-fishing-operation.md](../../../zh/regulations/ministry-of-agriculture/M0050064-regulations-on-the-management-of-pacific-bluefin-tuna-fishing-operation.md)) is authoritative.
+
+## Chapter I General Principles
+
+### Article 1
+
+These Regulations are established pursuant to subparagraph (1) and (3) of Article 37; subparagraph (9) of Article 44, paragraph 1; and subparagraph (5) of Article 54 of the Fisheries Act (hereinafter referred to as “the Act”).
+
+### Article 2
+
+Provisions of these Regulations shall apply for Pacific bluefin tuna fishing operations in the competence area of the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean (hereinafter referred to as “WCPFC Convention Area”, as shown in Appendix 1).
+
+The Act for Distant Water Fisheries and related regulations enacted thereunder shall also apply for fishing operations in the WCPFC Convention Area excluding the internal waters, territorial seas, and exclusive economic zone of the Republic of China (hereinafter referred to as “waters under the jurisdiction of the Republic of China”).
+
+### Article 3
+
+Only tuna longline fishing vessels permitted by the central competent authority to condcut Pacific bluefin tuna fishing operations, fishing vessels of other specified fishery, and set net fishery are allowed to catch Pacific bluefin tuna.
+
+The fishing vessels of other specified fishery as referred to in the preceding paragraph are fishing vessels of specified fisheries other than tuna longline and longline fishing vessels.
+
+Longline fishing vessels shall not catch Pacific bluefin tuna. In case of catching any Pacific bluefin tuna, such catch shall be discarded and the required information shall be reported in accordance with Article 22, subparagraph (2).
+
+### Article 4
+
+The annual total catch quota (unprocessed round weight, hereinafter the same when referring to “quota” in the following provisions) of Pacific bluefin tuna is the sum of the total catch quotas for tuna longline fishing vessels, fishing vessels of other specificed fishery, and set net fishery. The central competent authority will announce the respective quota for each fishery and, in accordance with the untilizatin status, may adjust the quotas for reallocation by public notice.
+
+### Article 5
+
+In the event that the catch amount of Pacific bluefin tuna by tuna longline fishing vessels, fishing vesssels of other specified fishery, and set net fishery (hereinafter referred to as “the total catch amount”) reaches 85 percent of the annual total catch quota, the competent authority may, by public notice, announce a deadline for the closure of Pacific bluefin tuna fishing operations.
+
+### Article 6
+
+Catching, possessing, transshipping, landing or selling any Pacific bluefin tuna less than 30 kilograms shall be prohibited.
+
+## Chapter II The Application and Issuance of Fishing Permits for Tuna Longline Fishing Vessels
+
+### Article 7
+
+The annual number of tuna longline fishing vessels conducting Pacific bluefin tuna fishing operations shall be limited to 660.
+
+The central competent authority may announce the adjustment of the vessel number as referred to in the preceding paragraph.
+
+### Article 8
+
+Any tuna longline fishing vessels conducting Pacific bluefin tuna fishing operation shall be installed onboard the automatic location communication (ALC).
+
+### Article 9
+
+Any fishery operator that intends to apply for a Pacific bluefin tuna fishing permit for his/her tuna longline fishing vessel shall fill in the application form (format as shown in Appendix 2) and apply to the central competent authority from January 1 to January 31, with the enclosure of the following documents:
+
+(1)A photocopy of the valid specified fishery fishing license.
+
+(2)A certificate issued by the Overseas Fisheries Development Council of the Republic of China proving that the ALC onboard has been tested and is capable of automatic reporting positions.
+
+### Article 10
+
+The priority sequence for issuing Pacific bluefin tuna fishing permits shall be as follows:
+
+(1)The first priority: fishing vessels that, in the preceding year, were permitted by the central competent authority to conduct Pacific bluefin tuna fishing operations, had historical catch records, and were not subject to any punishment for violating these Regulations.
+
+(2)The second priority: fishing vessels under 100 gross tonnage (GT) with historical catch records in the preceding five years.
+
+(3)The third priority: fishing vessels of 100 GT or above with historical catch records in the preceding five years.
+
+(4)The fourth priority: fishing vessels under 100 GT with no historical catch records in the preceding five years.
+
+(5)The fifth priority: fishing vessels of 100 GT or above with no historical catch records in the preceding five years.
+
+In the event that the number of applications submitted pursuant to Article 9 exceeds the prescribed limit in Article 7, and the priority cannot be decided in accordance with the preceding paragraph, the central competent authority shall draw lots to decide the priority in an equitable and impartial manner.
+
+### Article 11
+
+In the event that the number of tuna longline fishing vessels with Pacific bluefin tuna fishing permits does not reach the limit of the current year, the central competent authority may announce in due course to accept applications, notwithstanding the application deadline prescribed in Article 9.
+
+### Article 12
+
+In case of any of the following conditions, a fishery operator of a tuna longline fishing vessel may apply to the central competent authority for a Pacific bluefin tuna fishing permit by submitting the documents as prescribed in Article 9, without being subject to the application deadline as prescribed in Article 9:
+
+(1)Chang of the fishery operator.
+
+(2)Chartering another person’s fishing vessel and obtaining the fishing license.
+
+(3)Completion of a new vessel construction and subsequent acquisition of the fishery license.
+
+(4)Resumption of operations after a period of suspension approved pursuant to Article 11, paragraph 2 of the Act.
+
+(5)Renewal of the fishery license upon expiration.
+
+(6)Completion of execution of the fishing license suspension.
+
+(7)Full payment of any imposed fine.
+
+### Article 13
+
+In case that a fishery operator is under any of the following circumstances, the issuance of a Pacific bluefin tuna fishing permit for the concerned tuna longline fishing vessel shall be denied:
+
+(1)He/She is sentenced imprisonment or a more severe punishment for violating the Act or the Act for Distant Water Fisheries, and such sentence is not yet executed, not executed completely, or is on probation the period of which is not yet expired; or 2 years have not passed since such sentence is executed completely, on probation which is expired, or pardoned.
+
+(2)He/She is sentenced to a short-term imprisonment or criminal fine for violating the Act or the Act for Distant Water Fisheries, and such sentence is not yet executed, not executed completely; or 2 years have not passed since such sentence is executed completely;
+
+(3)A fine imposed pursuant to the Act of the Act for Distant Water Fisheries has not been paid completely;
+
+(4)The suspension of the fishing license of any of his/her fishing vessel as imposed pursuant to the Act or the Act for Distant Water Fisheries has not been executed completely.
+
+### Article 14
+
+A Pacific bluefin tuna fishing permit will be issued to an application approved by the central competent authority. The validity period of the permit shall start from the day of issuance till December 31 of the current year, and shall not exceed the validity period of the fishing license.
+
+## Chapter III Management of Catch Tagging and Catch Report
+
+### Article 15
+
+Prior to fishing operations, fishery operators of tuna longline fishing vessels  permitted to conduct Pacific bluefin tuna fishing operations shall apply for and obtain Pacific bluefin tuna tags of the current year from the central competent authority. Such tags shall not be offered for use by other vessels, nor shall tags obtained by other vessels be used.
+
+### Article 16
+
+For fishery operators of tuna longline fishing vessels permitted to conduct Pacific bluefin tuna fishing operations, the number of Pacific tuna tags of the current year that may be obtained per vessel and per fishing trip is as follows:
+
+(1)Where the total catch amount does not reach 70 percent of the annual total catch quota in the current year:
+
+i.The number of tags shall be determined and announced by the central competent authority based on the national annual total catch quota and the number as well as the tonnage class of vessels applying for fishing permits in the current year.
+
+ii.Upon returning to port for landing, if the initially-issued tags have been exhausted, additional tags up to the number as announced in the preceding item may be applied for. If tags remain unused, the remaining tags may continue to be used, and additional tags may be applied for up to the difference between the number as announced in the preceding item and the number already used.
+
+(2)Where the total catch amount reaches 70 percent of the annual total catch quota in the current year:
+
+i.The centeral competent authority shall determine and announce the number of tags based on the national annual total catch quota in the current year and the number as well as the tonnage class of vessels with fishing permits.
+
+ii.Upon returning to port for landing, if the initially-issued tags have been exhausted, additional tags up to the number as announced in the preceding item may be applied for. If tags remain unused, the remaining tags may continue to be used, and additional tags may be applied for up to the difference between the number as announced in the preceding item and the number already used. In case that the number of unused tags exceeds the number as announced in the preceding item, additional tags may only be applied for after such unused tags have been exhausted.
+
+(3)When the central competent authority announces a deadline for the closure of Pacific bluefin tuna fishing operations pursuant to Article 5, applications of tags shall be denied from the date of closure, and any tag previously issued but unused shall be rendered void.
+
+The fishery operators as referred to in the preceding paragraph shall apply for and use tags truthfully and shall not underreport the number of unused tags.
+
+### Article 17
+
+Tuna longline fishing vessels permitted to conduct Pacific bluefin tuna fishing operations shall immediately tag Pacific bluefin tuna catch at the appropriate part of the fishes.
+
+### Article 18
+
+Captains of tuna longline fishing vessels permitted to conduct Pacific bluefin tuna fishing operations shall completely and accurately report to fishery radio stations catch-related information, including the number, weight, length, location, and tag serial number for each Pacific bluefin tuna caught.
+
+The tuna longline fishing vessels as referred to in the preceding paragraph shall comply with the following provisions on the day of closing Pacific bluefin tuna fishing operations:
+
+(1)For fishing vessels with bluefin tuna catch on board: catch-related information shall be reported to the concerned fishery radio station by 18:00 p.m. on the same day, and the vessels shall return to a port for landing on the day following the day of closure. However, fishing vessels operating on the high seas are not required to return to a port for landing.
+
+(2)For fishing vessels with no bluefin tuna catch on board: the reporting of information and port return for landing are not required to be conducted.
+
+### Article 19
+
+In the event that tags on Pacific bluefin tuna caught by tuna longline fishing vessels permitted to conduct Pacific bluefin tuna fishing operations fall off and cannot be affixed again, the following provisions shall be complied with:
+
+(1)If spare tags are available on board: unused tags shall be immediately affixed to the appropriate part of the fish, and the concerned fishing vessels shall report the serial numbers of both the spare tags and the fallen tags to the concerned fishery radio stations.
+
+(2)If spare tags are not available on board: the concerned fishing vessels shall immediately report the number and serial numbers of the fallen tags to the concerned fishery radio stations. After port entry and before landing, the fallen tags shall be presented to the central competent authority and new tags, equivalent to the quantity of the fallen tags, shall be applied for and affixed to the appropriate part of the fish. Landing shall not be conducted before properly affixing the concerned tags.
+
+In the event of loss of Pacific bluefin tuna tags issued to fishery operators, the number and serial number of the lost tags shall be immediately reported to the concerned fishery radio stations. After port entry and before landing, the concerned fishery operators shall apply to the central competent authority for re-issuance of tags equivalent to the quantity of the lost tags and affix the tags to the appropriate part of the fish. Landing shall not be conducted before properly affixing the concerned tags.
+
+Any tag reported as lost in accordance with the preceding paragraph shall not be used again even if recovered afterwards.
+
+### Article 20
+
+For any Pacific bluefin tuna caught by other specified fishery or set net fishery, the concerned fishery operator or captain shall:
+
+(1)Within 24 hours after the catch, completely and accurately report to the concerned fishery radio station the number, weight, length, and location of each Pacific bluefin tuna caught.
+
+(2)Before landing, apply to the central competent authority for Pacific bluefin tuna tag(s) of the current year, and affix it/them to the appropriate part of the fish during landing.
+
+### Article 21
+
+In the event of any of the following circumstances, the concerned Pacific bluefin tuna catch shall be discarded immediately, and the discarded number, location of the catch as well as weight and length of each Pacific bluefin tuna shall be reported to the concerned fishery radio station within 24 hours of such catch:
+
+(1)The Pacific bluefin tuna is caught by any tuna longline fishing vessel not permitted to conduct Pacific bluefin tuna fishing operation.
+
+(2)The Pacific bluefin tuna is caught by any longline fishing vessel.
+
+(3)The Pacific bluefin tuna is less than 30 kilograms.
+
+(4)The portion of Pacific bluefin tuna catch that exceeds the number of tags obtained pursuant to subparagraph (1) or (2) of Article 16, paragraph 1, by a  permitted tuna longline fishing vessel in a single fishing trip.
+
+(5)The Pacific bluefin tuna is caught after the date of closure as announced by the central competent authority pursuant to Article 5.
+
+### Article 22
+
+Upon the receipt of reports by captains or fishery operators, fishery radio stations shall check the registration of the vessels or the locations of the set net deployment, fill in Pacific bluefin tuna catch reporting forms (format as shown in Appendix 3 and Appendix 4) on behalf of the captains or fishery operators, and upload the reported information to the system designated by the central competent authority.
+
+## Chapter IX The Designation and Management of Ports for Transshipment or Landing
+
+### Article 23
+
+For Pacific bluefin tuna caught by longline fishing vessels permitted to conduct Pacific bluefin tuna fishing operations or fishing vessels of other specified fishery and landed in domestic ports, the domestic ports shall be limited to Nanfangao Fishing Port in Ilan County, Hsinkang Fishing Harbor in Taitung County, Donggang Fishing Harbor in Pingtung County and Chienchen Fishing Harbor in Kaohsiung City.
+
+### Article 24
+
+Without the permission from the central competent authority, no fishing vessel shall transport Pacific bluefin tuna caught by another vessel(s) or have its own Pacific bluefin tuna catch transported by another vessel(s).
+
+In the event that the following requirements are met, a fishery operator may apply for the permission to transport Pacific bluefin tuna caught by his/her tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation to another vessel(s) for landing in the domestic ports as stipulated in Article 23:
+
+(1)Pacific bluefin tuna is caught in waters under the jurisdiction of the Republic of China.
+
+(2)The applying fishing vessel employs ice chilling method to preserve its catch.
+
+(3)A tag issued by the central competent authority is affixed to the Pacific bluefin tuna caught.
+
+(4)The fishing vessel(s) transporting the Pacific bluefin tuna is a tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation.
+
+(5)ALCs of both the applying and transporting fishing vessels regularly and normally transmit vessel positions.
+
+For the application as referred to in the preceding paragraph, a reporting form (format as shown in Appendix 5) shall be filled in and reported to the concerned fishery radio station for forwarding to the central competent authority for approval.
+
+### Article 25
+
+For any tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation or fishing vessel of other specified fishery that lands in the ports as stipulated in Article 23, its fishery operator or captain shall, 24 hours before port entry, notify the concerned fishery radio station of the estimated landing port and date as well as the number of Pacific bluefin tuna caught by the vessel itself or transported for another vessel(s). In the event that the location of the Pacific bluefin tuna caught is less than 100 nautical miles from the landing port, or that Pacific bluefin tuna is caught by the set net fishery, the notification may be made just before the port entry.
+
+At the time of landing, the central competent authority may dispatch personnel for inspection and inquiry pursuant to Article 49, paragraph 1 of the Act, and measure the length and weight of the catch, and the relevant parties shall not evade, obstruct, or refuse the inspection and inquiry.
+
+## Chapter V Catch Documents
+
+### Article 26
+
+In the event that a fishery operator completes the notification to the concerned fishery radio station in accordance with Article 25, paragraph 1, and domestically lands and sells the Pacific bluefin tuna catch, Catch Document(s) of Pacific Bluefin Tuna for Domestic Sales (hereinafter referred to as “Catch Document of Domestic Sales Pacific Bluefin Tuna,” format of which is as shown in Appendix 6) shall be issued by the central competent authority.
+
+### Article 27
+
+When selling Pacifc bluefin tuna, fishery operators shall provide buyers with Catch Documents of Domestic Sales Pacific Bluefin Tuna with complete information on sales process.
+
+For each buyer selling Pacific bluefin tuna, he/she shall accurately and completely fill in the weight to be sold in Catch Document(s) of Domestic Sales Pacific Bluefin Tuna and provide to the next buyer(s).
+
+In the event that a Pacific bluefin tuna is sold in batches, the Catch Document of Domestic Sales Pacific Blueifn Tuna may be provided to the next buyer(s) in photocopies, each of which records the weight to be sold.
+
+### Article 28
+
+Any person who sells Pacific bluefin tuna shall, for the purpose of examination by the competent authority, prepare Catch Document(s) of Domestic Sales Pacific Bluefin Tuna and the transaction document(s) which can trace back to the concerned fishery operator(s).
+
+### Article 29
+
+For any Pacific bluefin tuna to be exported, an application form (format as shown in Appendix 7) shall be filled in and submitted, together with the following documents, to the central competent authority, for the issuance of a Catch Document of Pacific Bluefin Tuna for Exportation (hereinafter referred to as “Catch Document of Exported Pacific Bluefin Tuna,” format of which is as shown in Appendix 8):
+
+(1)A Catch Document of Domestic Sales Pacific Bluefin Tuna with trading record(s) that can trace back to the concerned fishery operator and relevant transaction document(s). However, if the applicant is the fishery operator of the concerned Pacific bluefin tuna catch, such documents are not required.
+
+(2)A Catch Document of Exported Pacific Bluefin Tuna with completed information in printing.
+
+(3)For Pacific bluefin tuna caught by set net fishery, a photocopy of the fishing license of set net fishing right shall be enclosed.
+
+### Article 30
+
+In case of any of the following circumstances, catch documents for Pacific bluefin tuna shall not be issued:
+
+(1)The application documents are incomplete and the applicant fails to make corrections within the required timeframe after being notified.
+
+(2)Pacific bluefin tuna is caught by a fishing vessel listed in the illegal, unreported and unregulated (IUU) fishing vessel lists as announced by the cneteral competent authority pursuant to Article 13, paragraph 2 of the Act for Distant Water Fisheries.
+
+(3)The concerned fishing vessel violates Article 13, paragraph 1 of the Act for Distant Water Fisheries; or Article 48, paragraph 1 of the Act, during its fishing operation period.
+
+(4)The concerned fishing vessel catches Pacific bluefin tuna with tuna longline fishing gears without the permission from the central competent authority.
+
+(5)The concerned fishing vessel violates the provisions on catch reporting, transshipment, or landing of these Regulations or the Act for Distant Water Fisheries during its fishing operation period.
+
+(6)The Pacific bluefin tuna is caught by a fishing vessel that fails to conduct write-off for Catch Document(s) of Exported Pacific Bluefin Tuna in accordance with these Regulations.
+
+### Article 31
+
+A Catch Document of Exported Pacific Bluefin Tuna will be issued to an application submitted in accordance with Article 29 and approved after examination.
+
+The validity period of the Catch Document of Exported Pacific Bluefin Tuna as referred to in the preceding paragraph shall be six months from the date of issuance.
+
+### Article 32
+
+He/She who has obtained a Catch Document of Exported Pacific Bluefin Tuna shall, within two months after the customs clearance of the catch has completed, fill in the application form (format as Appendix 9) and submit it, together with the following documents, to the central competent authority or the commissioned organization(s) for write-off:
+
+(1)A duplicate of customs export declaration(s).
+
+(2)A photocopy of catch sales record(s).
+
+## Chapter VI Supplemental Provisions
+
+### Article 33
+
+In case of any of the following circumstances, the fishing license of the concerned fishery operator and the Certificate of Fishing Vessel Officers or the Fishing Vessel Crew Identification of the fishery employee shall be subject to suspension for a period of one year or under, pursuant to Article 10 of the Act; and in case of severe violation, the fishing license of the concerned fishery operator and the Certificate of Fishing Vessel Officers or the Fishing Vessel Crew Identification shall be subject to revocation:
+
+(1)Conducting Pacific bluefin tuna fishing operation with a tuna longline fishing vessel without the permission of the central competent authority, in violation of Article 3, paragraph 1.
+
+(2)Using a longline fishing vessel to catch Pacific bluefin tuna, in violation of Article 3, paragraph 3.
+
+(3)Catching, possessing, transshipping, landing, or selling Pacific bluefin tuna weighing less than 30 kilograms, in violation of Article 6.
+
+(4)Failing to report catch-related information to the concerned fisheries radio station by 18:00 p.m. on the day of closing Pacific bluefin tuna fishing operations, or failing to return to a port for landing on the day following the day of closure, in violation of subparagraph (1) of Article 18, paragraph 2.
+
+(5)Failing to discard Pacific bluefin tuna in accordance with any of the provisions stipulated in Article 21.
+
+(6)Permitted tuna longline fishing vessels or fishing vessels of other specified fishery landing Pacific bluefin tuna domestically at a port not specified in Article 23.
+
+(7)Permitted tuna longline fishing vessels or fishing vessels of other specified fishery vessels transporting Pacific bluefin tuna caught by another vessel(s), or having such catch transported by another vessel(s), in violation of Article 24, paragraph 1.
+
+(8)During landing, the fishery operator or fishery employee evades, obstructs, or refuses the inspection, inquiry, or measurement of the catch’s weight and length conducted by personnel dispatched by the central competent authority, in violation of Article 25, paragraph 2.
+
+### Article 34
+
+In case of any of the following circumstances, the concerned fishery operator and the fishery employee shall be respectively subject to a fine between 30 thousand and 150 thousand New Taiwan Dollars, pursuant to Article 65 of the Act:
+
+(1)A tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation fails to apply to the central competent authority for Pacific bluefin tuna tags of the current year before fishing operation, or provides its tag(s) for use by another vessel(s), or uses tags obtained by another vessel(s), in violation of Article 15.
+
+(2)Failing to apply for and use tags truthfully, or underreporting the number of unused tag(s), in violation of Article 16, paragraph 2.
+
+(3)A tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation fails to immediately affix a Pacific bluefin tuna tag to the appropriate part of the fish upon capture, in violation of Article 17.
+
+(4)A tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation fails to report catch-related information to the concerned fisheries radio station within 24 hours after catching Pacific bluefin tuna, or provides false information, in violation of Article 18, paragraph 1.
+
+(5)Where a tag has fallen off and cannot be affixed again and there is a spare tag onboard, failing to immediately affix the spare tag to the appropriate part of the fish, or failing to report the serial numbers of both the spare and fallen tags to the concerned fishery radio station, in violation of subparagraph (1) of Article 19, Paragraph 1.
+
+(6)Where a tag has fallen off and no spare tag is onboard, failing to report the number and serial number of the fallen tag to the concerned fishery radio station immediately, or failing to affix a tag re-issued after port entry to the appropriate part of the fish before landing, or landing before affixing the tag, in violation of subparagraph (2) of Article 19, paragraph 1.
+
+(7)Failing to report the number and serial number of any lost tag to the concerned fishery radio station immediately, or failing to affix a tag re-issued after port entry to the appropriate part of the fish before landing, or landing before affixing the tag, in violation of Article 19, paragraph 2.
+
+(8)Using any tag that has previously been reported as lost, in violation of Article 19, paragraph 3.
+
+(9)Failing to report, within 24 hours, the number, location, or weight and length of each Pacific bluefin tuna caught to the concerned fishery radio station, or submitting any false report, in violation of Article 20, subparagraph (1).
+
+(10)Failing to apply for Pacific bluefin tuna tags of the current year from the central competent authority before landing, or failing to affix a tag to the appropriate part of the fish during landing, in violation of Article 20, subparagraph (2).
+
+(11)Failing to report the discard of Pacific bluefin tuna as required, when under any of the circumstances as specified in Article 21.
+
+(12)When returning to a designated port for landing, a tuna longline fishing vessel permitted to conduct Pacific bluefin tuna fishing operation or a fishing vessel of other specified fishery fails to notify, within the required timeframe, the concerned fishery radio station of the estimated landing port and landing date as well as the number of Pacific bluefin tuna caught by the vessel itself or transported for another vessel(s), in violation of Article 25, paragraph 1.
+
+### Article 35
+
+In case of any of the following circumstances, the offender shall be subject to a fine between 30 thousand and 150 thousand New Taiwan Dollars, pursuant to Article 65, subparagraph (6) of the Act:
+
+(1)Failing to prepare Catch Document(s) of Domestic Sales Pacific Blueifn Tuna and the transaction document(s) which can trace back to the concerned fishery operator for the purpose of examination by the competent authority in accordance with Article 28.
+
+(2)Failing to apply for the issuance of a Catch Document of Exported Pacific Bluefin Tuna in accordance with Article 29 for exporting Pacific bluefin tuna.
+
+### Article 36
+
+Matters required to be conducted by the central competent authority pursuant to Article 25, paragraph 2; Article 26; and Article 29 to 32 may be entrusted to Fisheremen’s Associations.
+
+### Article 37
+
+These Regulations shall become effective on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1 Area of the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009168)
+- [Appendix 2 Application Form for Longline Fishing Vessels Conducting Pacific Bluefin Tuna Fishing.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009169)
+- [Appendix 3 Pacific Bluefin Tuna Catch／Discard Reporting Form for F/V (CT - ).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009170)
+- [Appendix 4 Pacific Bluefin Tuna Catch／Discard Reporting Form for Set Net Fishery.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009171)
+- [Appendix 5 Reporting Form for Ice-chilled Pacific Bluefin Tuna Catch to be Transported into Port by Other Vessel(s).pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009172)
+- [Appendix 6 Catch Document of Pacific Bluefin Tuna for Domestic Sales.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009173)
+- [Appendix 7 Application form for the Catch Document of Pacific Bluefin Tuna for Exportation.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009174)
+- [Appendix 8 Catch Document of Exported Pacific Bluefin Tuna.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009175)
+- [Appendix 9 Application Form for the Write-Off of Pacific Bluefin Tuna Catch Documents.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009176)
+
+## History
+
+1.The full text of 36 articles promulgated on 30 November 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061338905.
+
+2.Article 35-1 added and Article 36 amended and promulgated on 19 August 2020 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1091335437.
+
+3.The full text of 37 articles amended and promulgated on 25 March 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1141532542 and became effective on the date of promulgation.

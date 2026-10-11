@@ -1,0 +1,151 @@
+---
+title: "The Standards for Minimum Safety Manning for Seafarers on a Ship"
+title_zh: "航行船舶船員最低安全配置標準"
+identifier: "K0070048"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞航政目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-09-20
+last_amended: 2022-11-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070048"
+retrieved: 2026-10-12
+---
+
+# The Standards for Minimum Safety Manning for Seafarers on a Ship
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0070048-the-standards-for-minimum-safety-manning-for-seafarers-on-a-ship.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0070048-the-standards-for-minimum-safety-manning-for-seafarers-on-a-ship.md)) is authoritative.
+
+## Article 1
+
+These standards have been established pursuant to Paragraph 2, Article 70-1 of the Seafarer Act.
+
+## Article 2
+
+The staffing of seafarers on a ship shall be implemented pursuant to these standards. In the case that no relevant standards apply, staffing shall be subject to related regulations.
+
+These standards shall not apply to the naval vessels in military institution, naval vessels of coast guard authority and fishing boats.
+
+## Article 3
+
+These standards have been classified into the following four categories based on shipping route, type, and length:
+
+\1. The minimum safety staffing for seafarers on vessels with international shipping routes shall be subject to the standards set forth in Attachment 1 herein.
+
+\2. The minimum safety staffing for seafarers on vessels with domestic shipping routes shall be subject to the standards set forth in Attachment 2 herein.
+
+\3. The minimum safety staffing for seafarers on vessels sailing between Taiwan and mainland China shall be subject to the standards set forth in Attachment 3 herein.
+
+\4. The minimum safety staffing for seafarers on vessels of special purpose shall be subject to the standards set forth in Attachment 4 herein.
+
+## Article 4
+
+To apply for the minimum safety staffing of seafarers on board an automatic control vessel, the employer shall submit the Minimum Safe Manning Certificate Application Form (see Attachment 5) to the Maritime Administration for examination and approval via application.
+
+The engineering equipment of the 'automatic control vessels’ from the previous paragraph shall have been determined to be in satisfactory condition by the competent authority or a surveying organization appointed by it.
+
+## Article 5
+
+In the case that these standards are not able to be applied because of the ship's equipment, usage, or other special circumstances, and, as a result, the employer has to equip the vessel with fewer seafarers than the minimum safety staffing stipulated in these standards, such employer shall submit the Minimum Safe Manning Certificate Application Form (see Attachment 5) and relevant documents to the Maritime Administration for examination and approval via application.
+
+In the case that a vessel type cannot comply with the attachments prescribed in each paragraph of Article 3, the situation shall be managed in accordance with the aforementioned provisions.
+
+When the employers of automatic control vessels submit an application for Item 1, the Maritime Administration may, as necessary, demand that they first acquire at least six months of practical experience. Upon completing said period, the employer shall fill out a Practical Experience Report (see Attachment 6) and submit it with a photocopy of the logbook entries for these six months to the Maritime Administration to be handled according to the provisions in Item 1.
+
+## Article 6
+
+In accordance with their different responsibilities, seafarers of navigation ships are categorized into the Deck, Engineering, Telecommunications, and General Affairs Departments. Except for the Telecommunications Department, the apt number of officers and ratings shall be stipulated for each department, provided that the certified seafarer from the Deck Department can hold a concurrent post with the telecommunication personnel.
+
+In accordance with their different responsibilities, the seafarers on vessels of special purpose are categorized into the Deck and Engineering Departments, and an apt number of officers and ratings shall be assigned to each department.
+
+## Article 7
+
+In accordance with the radio communication equipment of the vessel, the telecommunications personnel of the navigating ship are categorized into non-Global Maritime Distress and Safety System ship’s radio sets and Global Maritime Distress and Safety System ship’s radio sets. The minimum safety staffing of each shall be subject to the standards set forth in the Global Maritime Distress and Safety System minimum ship’s navigational watch safety staffing table (see Attachment 7).
+
+## Article 8
+
+1.In any given 24-hour period, seafarers of a navigating ship shall have a minimum of 10 hours of rest, and in any seven-day period, a minimum of 77 hours of rest. However, these requirements are exempt in the case of emergency, drill, or force majeure.
+
+2.The ten hours of rest stipulated in the paragraph above can be divided into two periods, of which one is required be at least six hours, and the intervals between consecutive periods of rest shall not surpass 14 hours.
+
+3.The ten hours of rest mentioned in the previous two paragraphs may be altered into at least one period of six consecutive hours, provided it does not surpass two days.
+
+4.When seafarers need to work within the rest periods mentioned in the previous three paragraphs due to sudden situations on the sea, they shall be given time off thereafter.
+
+5.The employer shall prepare the seafarer’s work schedule that is in Chinese and English, and it shall be posted in a location easily accessible by seafarers according to the standard template set by the International Labor Organization.
+
+6.The employer shall keep records of when seafarers take a rest according to the standard template set by the International Labor Organization. Such records shall be in Chinese and English, and a copy that is signed by the captain and the seafarer shall be given to the seafarer for record.
+
+## Article 9
+
+1.Employers shall submit the relevant application form (see Attachment 5) for navigating ships to the Maritime Administration for the issuance of minimum safety staffing certification (see Attachments 8 and 9), which shall be kept on board for inspections.
+
+2.The degrading and reduction of or other restrictions on the seafarers manning shall be recorded in the certificate.
+
+3.When seafarers suffer sickness, injury, death, or other special conditions due to unforeseeable causes or other force majeure factors while onboard an international vessel in international waters, which makes it impossible to replace the seafarers at an overseas port and leads to the number of available seafarers falling below the quota specified in the Minimum Safe Manning Certificate, the employer shall submit an application to the shipping administration authority and enclose the Application Form (see Attached Table 10) and related documents. Once it is reviewed by the shipping administration authority and has been determined that no hazards for the staff, property, and environment will result, a waiver will be issued (see Attached Table 11) and the number of seafarers on the deck and at the engine may be one fewer than that specified in the Minimum Safe Manning Certificate.
+
+4.The waiver in the previous paragraph is valid for six months at maximum.
+
+5.The waiver in Paragraph III shall apply to only primary seafarers. However, when there are force majeure circumstances, they may also apply to the captain or the chief engineer. If a seafarer does not have a proper certificate, the captain shall test the seafarer and provide the qualification certificate once the seafarer is determined to be qualified. The certificate shall be reviewed by the shipping administration authority.
+
+## Article 10
+
+The period of validity of the Minimum Safe Manning Certificate is five years.
+
+The employer who has received the Minimum Safe Manning Certificate issued before December 31, 2017 shall apply to the Maritime Administration for replacement before December 31, 2022.
+
+## Article 11
+
+These standards shall take effect starting from January 1, 2018.
+
+The amended articles hereof shall come into effect as of the day of promulgation.
+
+## Attachments
+
+- [Attachment 1 Minimum Safe Manning for Seafarers on International Voyages.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007759)
+- [Attachment 1 Minimum Safe Manning for Seafarers on International Voyages.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007760)
+- [Attachment 2 Minimum SafeManning for Seafarers on Domestic Routes.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006750)
+- [Attachment 3 Minimum Safety Manning for Seafarers on Routes between China and Taiwan.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006235)
+- [Attachment 4 Minimum Safety Manning for Powered and Unpowered Workboat Seafarers.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006236)
+- [Attachment 5 Seafarer Minimum Safe Manning Application Form.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007761)
+- [Attachment 5 Seafarer Minimum Safe Manning Application Form.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007762)
+- [Attachment 6 Automatic Control Vessels Practical Experience Report.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006238)
+- [Attachment 7 Minimum Safety Manning for Ship’s Global Maritime Distress and Safety System.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006239)
+- [Attachment 8 MINIMUM SAFE MANNING CERTIFICATE.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007763)
+- [Attachment 8 MINIMUM SAFE MANNING CERTIFICATE.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007764)
+- [Attachment 9 MINIMUM SAFE MANNING CERTIFICATE.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007765)
+- [Attachment 9 MINIMUM SAFE MANNING CERTIFICATE.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007766)
+- [Attachment 10 Vessel Waiver Application Form.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007767)
+- [Attachment 10 Vessel Waiver Application Form.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007768)
+- [Attachment 11.odt](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007769)
+- [Attachment 11.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007770)
+
+## History
+
+\1. Enacted by order of the Ministry of Transportation and Communications No. Jiao-Hang-Fa-Zi-091B000109 dated September 20, 2002. All 10 articles published and implemented from the date of promulgation.
+
+\2. Amendment to all articles was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-0950085047 dated August 25, 2006.All 11 articles published, and implemented from the date of promulgation, except the date of promulgation for Article 4, which was set by the MOTC.
+
+The date of promulgation for Article 4 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-0950085055 dated September 22, 2006.
+
+\3. The amendment to Article 4 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-0970085064 dated December 16, 2008.
+
+\4. The amendment to Article 9 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-0980085013 dated March 17, 2009.
+
+\5. The amendment to Article 9, Attachment 2 &amp; 3 of Article 4 and Attachment 7~9 of Article 10 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-10350109411 dated September 3, 2014.
+
+\6. In accordance with Jiao-Hang-Zi Order No. 10450104601 of the Ministry of Transportation and Communications of August 10, 2015, the complete text of ten articles has been issued and took effect as of the issued date.
+
+\7. In accordance with Jiao-Hang-Zi Order No. 10698003151 of the Ministry of Transportation and Communications of December 27, 2017, the complete text of eleven articles has been issued and took effect as of January 1, 2018.
+
+\8. Amendment to the Attachment of Article 3 Attachment 1 、Attachment 3 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-10700209541 dated July 25, 2018.
+
+\9. The amendment to Article 9 and the Attachment of Article 3 Attachment 2 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-10950061191 dated May 28, 2020 and took effect as of the issued date.
+
+\10. The amendment to Article 3 Attachment 2and the Attachment of Article 4 Attachment 5 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-11000098121 dated April 26, 2021.
+
+\11. The amendment to Articles 8 and 9, Article 3 Attached Table 1, and Articles 4, 5, and 9 Attached Table 5 was promulgated by order of the Ministry of Transportation and Communications No. Jiao-Hang-Zi-1110032771 dated November 10, 2022.

@@ -1,0 +1,361 @@
+---
+title: "Regulations Governing Customs Clearance Procedures for Air Express Consignments"
+title_zh: "空運快遞貨物通關辦法"
+identifier: "G0350064"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞關務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1995-04-10
+last_amended: 2026-02-23
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350064"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Customs Clearance Procedures for Air Express Consignments
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0350064-regulations-governing-customs-clearance-procedures-for-air-express-consignments.md](../../../zh/regulations/ministry-of-finance/G0350064-regulations-governing-customs-clearance-procedures-for-air-express-consignments.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 2 of Article 27 of the Customs Act (hereinafter referred to as “the Act”).
+
+## Article 2
+
+Customs clearance procedures for air express consignments（hereinafter referred to as express consignments） conducted at the Air Express Handling Units （hereinafter referred to as EHU）or Air Cargo Transshipment Centers shall be governed by these Regulations. For matters not provided for in these Regulations, the relevant provisions prescribed in other acts and regulations shall apply.
+
+## Article 3
+
+The term “Express Handling Unit” in these Regulations refers to a location designated, whether exclusively or not, for the storage of import and export express consignments and for the processing of customs procedures. The term “Air Cargo Transshipment Center” refers to a location designated exclusively for the storage of import, export and transit express consignments, as well as for the processing of customs procedures.
+
+The Express Handling Units or Air Cargo Transshipment Centers shall be located at designated locations within airfreight stations. Applications for their establishment, shall be submitted to Customs for approval, in accordance with the Regulations Governing the Customs Management of Import and Export Freight Stations. Their operation shall be subject to Customs surveillance and supervision.
+
+An Express Handling Unit or Air Cargo Transshipment Center shall have sufficient space to be divided into the import area, export area, inspection area, waiting for processing area, non-acceptance for declaration area and abnormal goods area. These areas sections shall be well-separated and clearly marked. The arrangements of inspection spots, cargo movement flow lines, computer equipment, and other necessary facilities and equipment shall be aligned with Customs requirements and must be approved by Customs.
+
+## Article 3-1
+
+Any operator seeking to establish an EHU or Air Cargo Transshipment Center shall submit the following documents to the local Customs office for approval:
+
+\1. Application Form: name, Business Administration Number (BAN), address, and telephone number of the operator; and the name, National ID Card Number, telephone number, and address of the responsible person. If the responsible person does not have a National ID card number, a passport number or residence permit number must be provided.
+
+\2. Proof of approval for establishment or modification of the air cargo entrepots issued by the Ministry of Transportation and Communications.
+
+\3. Proof of usage rights of the land and buildings.
+
+\4. Site Floor Plan: Clearly indicate the location and area of each area specified in Paragraph 3 of the preceding Article.
+
+\5. Operational Plan: Including the location of the EHU or Air Cargo Transshipment Center, expansion capability, building structure, estimated volume of goods, business plan and team, financial planning for operations, construction schedule for facilities, and other documents related to the operation plan.
+
+\6. Customs Clearance Equipment Installation Plan: Including an X-ray inspection machines, entry and exit warehouse barcode scanning equipment, a warehouse entry anomaly alarm system, surveillance recording system, synchronized display system for X-ray images and commodity descriptions, and other customs clearance equipment.
+
+\7. Computer Network and Equipment Plan: Including the information systems, computer backup measures, and other relevant software and hardware equipment that meet the operational needs of customs management.
+
+\8. Other equipment planning documents necessary to cooperate with customs inspection and processing for customs clearance.
+
+Operators of the EHU or Air Cargo Transshipment Centers who modify their original plans, facilities, or equipment must also submit relevant documents and apply in advance for approval about the changes, in accordance with the preceding paragraph.
+
+Upon receipt of an application for the establishment or modification of an EHU or Air Cargo Transshipment Center, Customs shall establish an evaluation committee to conduct a review. If necessary, other agencies may be invited to participate in the review. The review process shall be completed within 30 days from the day following the date the review documents are fully submitted. In cases of special circumstances, this period may be extended by no more than an additional 30 days.
+
+Operators of EHUs or Air Cargo Transshipment Centers that were established or had applied for establishment before the amendments of these Regulations, effective on August 8, 2024, shall follow Paragraph 2 when modifying their original plans, facilities, or equipment.
+
+## Article 3-2
+
+The operator that passes the review in accordance with the preceding Article shall complete the establishment of the facilities and equipment listed in the documents under Paragraph 1 of the previous Article within six months from the day following the delivery of the notification and submit a written application to the Customs office for an on-site inspection. Upon passing the on-site inspection by the evaluation committee, the Customs shall approve the registration, and the operator may begin operations.
+
+If the operators specified in the preceding paragraph fails to complete establishment before the prescribed period, they must submit written application stating the reasons for an extension to the Customs before the expiration of the period . The extension period shall be limited to three months. If no extension is applied or if the construction is not completed within the extended period and the operator fails to submit a written application for an on-site inspection, Customs may revoke its approval granted under the preceding Article.
+
+## Article 4
+
+The term “air cargo express delivery operators” (hereinafter referred to as “express delivery operators”), as used in these Regulations, refers to any profit-seeking enterprise engaged in the business of forwarding and delivering air cargo express services.
+
+## Article 5
+
+Express delivery operators shall submit the following documents to Customs for registration:
+
+\1. Application Form: The form shall specify the company name, Business Administration Number (BAN), location, and the name, address, National ID Card number and telephone number of the responsible person. If the responsible person does not have a National ID Card number, a passport number or residence permit number must be provided.
+
+\2. The airfreight forwarding license and a photocopy thereof.
+
+## Article 6
+
+The term “express consignments” as used in these Regulations shall meet the following conditions:
+
+\1. It does not include items prohibited from importation under the Customs Act, controlled commodities, articles infringing intellectual property rights, fresh agricultural, fishery, and livestock products, live animals and plants, and conserved wildlife and their products.
+
+\2. Shipments with a gross weight of each package (bag) not exceeding 70 kilograms.
+
+Consignments that do not meet the conditions prescribed in the preceding paragraph, shall not be processed for Ccustoms clearance at the EHUs or the Air Cargo Transshipment Centers.
+
+## Article 7
+
+(Deleted)
+
+## Article 8
+
+(Deleted)
+
+## Article 8-1
+
+Express delivery operators that meet the following conditions may jointly submit a management plan with an EHU operator to apply to Customs for a dedicated clearance EHU. This EHU will be used exclusively for clearing express consignments forwarded by the express delivery operator, and the operator may assign dedicated personnel to the EHU to assist with the goods customs clearance of the cargo.
+
+\1. The operator possesses qualifications as an air transport enterprise or has a dedicated fleet, and is an approved freight forwarder and customs broker registered with the Customs.
+
+\2. The operator has been registered for more than three years, with no record of smuggling in the past three years, and nor has it been fineds by the Customs under this regulation a total amount exceeding NT$300,000.
+
+\3. The cargo handled by the operator has not applied for consolidated clearance in accordance with the proviso of Paragraph 2, Article 12-1.
+
+After an express delivery enterprise has been is approved by Customs for dedicated EHU clearance, if no longer meets the conditions specified in the preceding items, Customs may revoke its qualification for dedicated EHU clearance.
+
+## Article 8-2
+
+An express delivery operator whose dedicated EHU clearance qualification has been revoked by Customs shall not reapply for dedicated EHU clearance under the same name within one year from the date of revocation.
+
+The scope of the same name specified in the preceding paragraph includes the names of both the head office and branch offices.
+
+## Article 9
+
+The Customs Offices at the Express Handling Unit and Air Cargo Transshipment Centers are open for business 24 hours a day. However, the office hours of Customs Offices at the Express Handling Unit and Air Cargo Transshipment Centers located at the airport terminal where the night flight curfew is imposed will be adjusted and announced accordingly.
+
+## Article 10
+
+Express delivery enterprises shall stick corresponding commercial invoices, recognizable bar codes or labels on their import or export express consignments for Customs check, but in a case of non-commercial transaction, a statement of the consignment’s value endorsed by the consignor shall be attached instead to replace commercial invoices
+
+Where a commercial invoice storage system device is provided by an express delivery enterprise on the spot of the Customs clearance, and the express delivery enterprise may check or print out the required information for Customs check through the system device, the express delivery enterprise is free of the obligation to stick corresponding commercial invoices on their import or export express consignments.
+
+For a consignment declared with a general import/export declaration form and designated for going through document review or physical examination process before it is released, its commercial invoices and other relevant documents shall also be enclosed upon supplementing the written declaration for Customs check.
+
+Where the bar codes or labels stuck on the import or export express consignments by an express delivery enterprise pursuant to Paragraph 1 are found missing, coming off or damaged, the express delivery enterprise should apply to Customs for re-sticking the bar codes or labels; upon approval of Customs, matter shall be processed in the presence of supervising personnel designated by Customs.
+
+## Article 10-1
+
+If necessary, Customs may require express delivery enterprises to provide original and authentic detailed documents or computer files regarding the foreign consignment and domestic delivery, and the express delivery enterprises shall not refuse to do so.
+
+## Article 11
+
+Declarations for import and export express consignments shall be online transmitted to Customs via a through-Customs value-added network.
+
+Import and export express consignments shall be classified, according to their natures and values, into following categories and then be handled respectively:
+
+1.import document;
+
+2.import low-value duty-free consignment: with a Customs value not more than 2,000 NT;
+
+3.import low-value dutiable consignment: with a Customs value of 2,001~50,000 NT;
+
+4.import high-value consignment: with a Customs value exceeding 50,000 NT;
+
+5.export document;
+
+6.export low-value consignment: with a free on board (FOB) value not more than 50,000 NT; and
+
+7.export high-value consignment: with a FOB value exceeding 50,000 NT.
+
+The export express consignments of the same consignor, where loaded on a single pallet or in a single container, shall be allowed to enter the warehouses of an airfreight station as they are. Nevertheless, the pallet or container shall be unloaded upon customs request if the consignments it carries are subject to physical examination.
+
+## Article 12
+
+If an import/export express consignment belongs to any of the following categories, customs clearance shall be conducted via general import/export declaration form:
+
+\1. High-value import express consignment prescribed in Subparagraph 4, Paragraph 2 of the preceding Article, or high-value export express consignment prescribed in Subparagraph 7, Paragraph 2 of the preceding Article.
+
+\2. Subject to specific import/export regulations, unless otherwise announced by the customs due to special circumstances.
+
+\3. Application for duplicates of their declarations is necessary for the purpose of requesting duty drawback, offset or bonding.
+
+\4. Returned or re-exported and shall be cross-checked with the original export/import declarations.
+
+\5. Goods eligible for duty reduction or exemption pursuant to the Customs Act and relevant regulations, and additional notes in the Customs Import Tariff, but duty-free samples pursuant to Subparagraph 9, Paragraph 2, Article 49 of the Customs Act imported by non-individuals may apply to using the simplified declaration procedure if the aggregate value of declaration is under NT$3,000.
+
+\6. Goods not applicable to the G1 mode of Declaration for Import Goods, the G5 mode of Export Declaration, or the F5 mode of Export Declaration for Free-Trade-Zone Goods.
+
+\7. Goods subject to the imposition of countervailing duty, antidumping duty, or retaliatory duty publicly announced by the Ministry of Finance.
+
+\8. Goods subject to adoption of import relief in accordance with the Foreign Trade Act by the Ministry of Economic Affairs or special safeguard measures publicly announced by the Ministry of Finance.
+
+\9. Goods taxable in accordance with the Commodity Tax Act or the Specifically Selected Goods and Services Tax Act.
+
+\10. Goods subject to tariff quota.
+
+Express consignments other than those defined in the preceding paragraph may be cleared through simplified declaration.
+
+## Article 12-1
+
+Where a simplified declaration is made on import or export express consignments, a consolidated declaration in one entry is allowed for goods of the same category under one master waybill number while belonging to different duty payers or exporters.
+
+Those goods which are declared in consolidation in accordance with the preceding paragraph shall not be cleared in the form of being consolidated in one bag except for documents or export consignments, unless otherwise specially announced by the Customs.
+
+## Article 12-2
+
+For cargo eligible for consolidated clearance according to Paragraph 2 of the preceding article, if certain items fail to pass the declaration verification process, the express delivery operator may apply to Customs for deconsolidation. Upon Customs’ approval, Customs personnel will be assigned to supervise the process.
+
+## Article 13
+
+(Deleted)
+
+## Article 14
+
+Express delivery enterprises or Customs brokers shall not make separate declarations to Customs for a single importation of express consignments. Nevertheless, separate declarations shall be accepted where the aggregate Customs value does not exceed the ceiling eligible for duty exemption proclaimed by the Ministry of Finance pursuant to paragraph 2 of Article 49 of the Act, or, even though the aggregate Customs value exceeds the said ceiling, declarations have been voluntarily made and the duties duly paid.
+
+A single importation of express consignments referred to in the preceding paragraph means all the express consignments shipped from one consignor to one consignee by the same flight.
+
+## Article 15
+
+Where commodity inspections or quarantine measures are required for the import or export express consignments, they shall be handled in accordance with the related regulations before released.
+
+Where it is found that the transshipped express animal/plant and their products are likely to be infected or to spread epidemic disease or insect pests, the responsible agencies may carry out commodity inspections or quarantine measures and perform necessary treatments, except that the consignments are loaded in a closed container.
+
+## Article 16
+
+Declarations for express consignments may be lodged to Customs prior to their importations. For consignments subject to physical examinations, Customs may transmit notices to the air Cargo transshipment centers or express handling units concerned via through-Customs value-added networks before the arrival of aircraft.
+
+## Article 17
+
+If a consignee of import express consignments entrusts a customs broker to handle the clearance through simplified declaration, customs declaration authorization shall be completed in one of the following methods:
+
+\1. Case-processing or long-term authorization in writing; if case-processing authorization in writing has been established, a customs broker shall provide an affidavit at online declaration to present a power of attorney after the declaration as per Customs requirements;
+
+\2. Online case-processing or long-term authorization through the Customs-Port-Trade (CPT) Single Window system;
+
+\3. Online case-processing authorization through the express delivery real-name authentication platform established by the enterprise operating network for customs clearance.
+
+If customs declaration authorization has not been completed in accordance with the methods referred to in one of the subparagraphs in the preceding paragraph, and recorded in the customs clearance information system, Customs may refuse to process the declaration.
+
+If Customs demands the presentation of the power of attorney after the declaration and before the release of import or export express consignments, a copy of the power of attorney  signed by a customs broker for confirmation can be presented in lieu of the original document temporarily; when Customs considers it necessary to examine the power of attorney, a Customs officer may demand the presentation of the original document in accordance with the provisions of Paragraph 2, Article 12 of Regulations Governing the Establishment and Management of Customs Brokers.
+
+Where the declarations of import or export express consignments are involved with the case of false declaration or other violations of the Customs Anti-smuggling Act, and the customs brokers are unable to prove that they have been entrusted by the importer or exporter to file customs declaration, and are also unable to prove that there is an actual owner of the express consignment, said customs brokers shall be liable for such violations.
+
+## Article 17-1
+
+Where, before the simplified declared import goods are withdrawn from the warehouse, customs brokers fail to acquire importers’ Power of Attorney through the ways stipulated in paragraph 1 and paragraph 2 of the preceding article, and the importation meets the following conditions, maritime express delivery enterprises may apply to Customs for replacing the importer’s name shown on the declaration with his or hers within 7 working days from the date on which the consignment is warehoused or the declaration thereof is submitted to return the express consignments abroad:
+
+\1. The importation has not violated the Customs Anti-smuggling Act; or, although it has violated the Customs Anti-smuggling Act, it may be legally exempted from penalty.
+
+\2. The importation has not violated other laws and regulations; or, although it has violated other laws and regulations, there is no need for Customs to refer it to competent authorities for penalty.
+
+## Article 18
+
+An express delivery enterprise entrusted by a consignor to deliver express consignments in door-to-door manner may declare the consignments to Customs as the holder of the consignments, and pay duties and charges according to relevant regulations.
+
+Where an express delivery enterprise declares its consignments to Customs as the holder of the imported consignments, it shall include in the declaration names and addresses of the consignees concerned except that the goods consigned are documents and if the imported goods are low-value dutiable or high-value consignments, it shall include uniform tax number of the consignees or the the identification number, uniform number of alien resident certificate or passport number, if the consignee is an individual.
+
+If a real-name certified mobile phone number has be declared in a import simplified declaration, it could be exempted form declaring the identification number, uniform number of alien resident certificate or passport number of the consignee.
+
+Where an express delivery enterprise declares its consignments to Customs in accordance with the preceding two paragraphs, Customs may regard the consignees it declared as designated duty-payers and thus give them duty memos.
+
+## Article 19
+
+An express delivery enterprise entrusted by a consignor to ship export express documents or low-value export express consignments may make Customs declarations in the capacity of the holder of those consignments.
+
+## Article 20
+
+Payment of duties and charges on import express consignments shall be accomplished in accordance with the provisions prescribed in the Regulations Governing the Implementation of Post-Release Duty Payment Procedures for Imported Goods, or through a security deposited in advance, and then deducted online when the consignments are clearing Customs.
+
+## Article 21
+
+Express clearance handling fees shall be levied on express consignments pursuant to relevant provisions prescribed in the Rules for Collection of Customs Fees.
+
+## Article 22
+
+The express delivery enterprises shall observe Customs acts and regulations, and cooperate with Customs closely in order to prevent smuggling of drugs, firearms, IPR infringing articles, conservative wild animal/plant and products thereof, and other illegal conducts like commercial frauds. They shall also maintain the security at the Express Handling Unit and the Air Cargo Transshipment Center.
+
+## Article 23
+
+If an operator of an Express Handling Unit or Air Cargo Transshipment Center violates the provisions prescribed in Paragraph 3, Article 3, or, without Customs’ approval, makes changes to the original plans, facilities, or equipment, in violation of the provisions of Paragraph 2, Article 3-1, Customs shall issue a warning or impose a fine of not less than NT$20,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act. The operator may be ordered to make improvements within a specified period; if they fail to do so before the deadline, the penalty shall be imposed per violation. If there is no improvement after three penalties or in the case of serious violation, a suspension of the express consignment’ clearance business may be imposed for up to six months, or its registration may be revoked.
+
+## Article 23-1
+
+If an express delivery operator conducts customs clearance in the EHU or Air Cargo Transshipment Centers for cargo that do not meet the conditions for express consignments as prescribed in Paragraph 2, Article 6, Customs shall issue a warning or impose a fine of not less than NT$6,000 and not more than NT$30,000 under Article 87 of the Customs Act. Customs may ordered the operator to make corrections within a specified period.; if the corrections are not made within the deadline, penalties may be imposed per violation. If the correction is not completed after three penalties or in the case of a serious violation, Customs may suspend the operator express consignment clearance business for up to six months or revoke its registration.
+
+## Article 24
+
+(Deleted)
+
+## Article 25
+
+If an express delivery enterprise violates the provisions prescribed in Paragraph 1 or 4 of Article 10, or Article 10-1, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the penalty shall be imposed per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+## Article 26
+
+If an express delivery operator declares non-document import/ or export consignments using the simplified form designated for express documents, in violation of Paragraph 2, Article 11, Customs shall issue a warning or impose a fine ranging from NT$6,000 to NT$30,000 under Article 87 of the Customs Act. Customs may ordered the operator to make corrections within a specified period; if the corrections are not made within the deadline, penalties may be imposed per violation. If the correction is not completed after three penalties or in the case of a serious violation, Customs may suspend the operator express consignment clearance business for up to six months or revoke the its registration.
+
+If an express delivery operator fails to unload its consignments loaded on a pallet or in a container for Customs’ inspection as prescribed in Paragraph 3, Article 11, or fails to comply with the provisions prescribed in Paragraph 1, Article 12 by making a simplified declaration for non-qualified consignments, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and ordered the operator to make corrections within a specified period of time; if the corrections are not made within the deadline, penalties shall be imposed per violation. If the correction is not completed after three penalties or in the case of serious violation, Customs may suspend the express consignment’s clearance business for up to six months, or its registration may be revoked.
+
+If an express delivery operator violates the provisions prescribed in Paragraph 2, Article 12-1 or Article 12-2 of these Regulations by deconsolidating or consolidating cargo without Customs approval, Customs shall issue a warning or impose a fine ranging from NT$6,000 to NT$30,000 under the provisions of Article 87 of the Customs Act. Customs may also order the operator to make corrections within a specified period; penalties shall be imposed for each violation. If correction is not completed after three penalties or in the case of a serious violation, Customs may suspend the express consignment’s clearance business for up to six months, or its registration may be revoked.
+
+## Article 27
+
+(Deleted)
+
+## Article 28
+
+If an express delivery enterprise violates the provisions prescribed in Paragraph 1 of Article 14, Customs shall warn or impose a fine of not less than NT$6,000 and not more than NT$30,000 under the provisions of Article 87 of the Customs Act and the enterprise may be ordered to improve before a certain period of time; the fine shall be charged per violation in case of failure to improve before the given deadline. If there is no improvement after three penalties or in the case of serious violation, a suspension of the express consignment’s clearance privileges may be imposed for a period of not more than six months, or its registration may be repealed.
+
+For single importation of express consignments, in case of the event under the previous paragraph, Customs shall add up customs values of all the consignments concerned in the calculation of the duty to be collected. In case where a false declaration was made, the enterprise shall be fined based on the total amount of the duty evaded or total customs value of consignments, pursuant to relevant provisions prescribed in the Customs Anti-smuggling Act.
+
+## Article 28-1
+
+If an express delivery enterprise violates these Regulations in the same year, and the total amount of fines imposed by Customs reaches NT$200,000, it will be regarded as a serious violation, whereby Customs shall suspend its clearance privileges for less than six months under the provisions of Article 87 of the Customs Act; if the total amount reaches NT$500,000, Customs shall repeal its registration.
+
+For express delivery enterprises having violated these Regulations before the amended Regulations took effect on Feb 4, 2023, the fines imposed by Customs are allowed to be excluded from the total amount stipulated in the preceding paragraph.
+
+## Article 28-2
+
+An express delivery enterprise whose registration is repealed by Customs is prohibited from applying for the express delivery enterprise under the same name within a period of five years from the repeal date.
+
+The scope of the same name specified in the preceding paragraph includes the names of its head office and branch office.
+
+## Article 29
+
+These Regulations shall become effective from the date of their proclamation, but Paragraph 2, Article 11, which was amended and promulgated on September 25, 2017, shall come into effect on January 1, 2018. Articles amended and promulgated on March 29, 2022, shall come into effect on April 1, 2022. Paragraph 2, Article 17, which was amended and promulgated on February 23, 2026, shall come into effect on March 1, 2026.
+
+## History
+
+\1. Promulgated by the Ministry of Finance Order No. 841722930 on April 10, 1995
+
+\2. Article 8,11, and 12 amended and promulgated, and Articles 5-1, and 11-1 added by the Ministry of Finance Order No. 841729102 on November 28, 1995
+
+\3. Title and all 19 Articles amended and promulgated by the Ministry of Finance Order No. 852017686 on October 8, 1996
+
+\4. Amended and promulgated by the Directorate General of Customs Letter No. 85108667 on October 11, 1996
+
+\5. All 19 Articles amended and promulgated by the Ministry of Finance Order No. 0890550181 on May 17, 2000, effective from the date of promulgation
+
+\6. Article 15 amended and promulgated by the Ministry of Finance Order No. 0900550566 on October 18, 2001
+
+\7. All 28 Articles amended and promulgated by the Ministry of Finance Order No. 0900550920 on December 30, 2001, effective from the date of promulgation
+
+\8. Article 6 amended and promulgated by the Ministry of Finance Order No. 0920550112 on February 26, 2003
+
+\9. Articles 1, 10, 11, 13, 15, 18, and 22–27 amended and promulgated, and Article 11-1 added by the Ministry of Finance Order No. 09405502150 on May 11, 2005
+
+\10. All 29 Articles amended and promulgated by the Ministry of Finance Order No. 09405507580 on January 5, 2006, effective from the date of promulgation
+
+\11. Articles 5, 6, 8, and 10 amended and promulgated by the Ministry of Finance Order No. 09805505530 on August 10, 2009
+
+\12. Article 9 amended and promulgated by the Ministry of Finance Order No. 10105536540 on December 3, 2012
+
+\13. Title and Articles 2, 4, 16, and 17 amended and promulgated by the Ministry of Finance Order No. 1031029614 on December 31, 2014
+
+(Former title: Regulations Governing Customs Clearance Procedures for Express Consignments; New title: Regulations Governing Customs Clearance Procedures for Air Express Consignments)
+
+\14. Articles 10–13, 23, and 25–29 amended and promulgated by the Ministry of Finance Order No. 1061020279 on September 25, 2017; Article 11, Paragraph 2 became effective on January 1, 2018, and the remaining amendments became effective on the date of promulgation
+
+\15. Articles 8, 10, 17, and 18 amended and promulgated by the Ministry of Finance Order No. 1071015260 on July 11, 2018
+
+\16. Articles 17 and 17-1 amended and promulgated by the Ministry of Finance Order No. 10810104933 on May 22, 2019
+
+\17. Article 12 amended and promulgated by the Ministry of Finance Order No. 1091006968 on April 1, 2020
+
+\18. Articles 10, 23, and 25–27 amended and promulgated, and Article 10-1 added by the Ministry of Finance Order No. 1101009945 on April 21, 2021
+
+\19. Articles 26 and 29 amended and promulgated, and Article 12-1 added by the Ministry of Finance Order No. 1111007877 on March 29, 2022, effective on April 1, 2022
+
+\20. Articles 7, 17, 23, and 24–28 amended and promulgated, and Articles 23-1, 28-1, and 28-2 added by the Ministry of Finance Order No. 1121002008 on February 2, 2023
+
+\21. Articles 3, 4–6, 23, 23-1, and 26 amended and promulgated; Articles 3-1, 3-2, 8-1, 8-2, and 12-2 added; and Articles 7, 8, 13, 24, and 27 deleted by the Ministry of Finance Order No. 1131021060 on August 6, 2024
+
+\22. Articles 12, 17, and 29 amended and promulgated by the Ministry of Finance Order No. 1151004666 on February 23, 2026, effective from the date of promulgation; provided that Article 17, Paragraph 2 became effective on March 1, 2026

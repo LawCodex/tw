@@ -1,0 +1,203 @@
+---
+title: "Land Renting and Expense Collecting Standards of Technology Industrial Parks"
+title_zh: "科技產業園區土地租用及費用計收標準"
+identifier: "J0050018"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞園區管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1999-03-10
+last_amended: 2025-10-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0050018"
+retrieved: 2026-10-12
+---
+
+# Land Renting and Expense Collecting Standards of Technology Industrial Parks
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0050018-land-renting-and-expense-collecting-standards-of-technology-industrial-parks.md](../../../zh/regulations/ministry-of-economic-affairs/J0050018-land-renting-and-expense-collecting-standards-of-technology-industrial-parks.md)) is authoritative.
+
+## Article 1
+
+The standard is prescribed in accordance with provisions in Paragraph 2, Article 16 of Act for the Establishment and Administration of Technology Industrial Parks.
+
+## Article 2
+
+When land from the Technology Industrial Parks (hereinafter referred as "Zone Land') is leased, it should be based upon overall safety, environmental beautification and, management convenience, and should be in line with requirements of each business entity to facilitate the effective land use.
+
+## Article 3
+
+The lease of Zone Land should conform to land zoning planning and should pay attention to the characteristics of established business entity. Those which easily produce odor, noise, waste water, and other factories of bad influence should be allotted to proper location.
+
+## Article 4
+
+The business entity applying to rent the land and construct buildings shall reserve the retreat land to a considerable depth in the surroundings, according to the extant provisions. No building can be constructed on the retreat land of the base surroundings.
+
+To lease land in the Nanzih Technology Industrial Park, three meters of space shall be reserved, separate from other adjacent leased land, and considerable depth shall also be reserved for the retreat land. The side facing the main line of transportation shall be reserved to a distance of six meters, and the side facing the inner circle and branch line of transportation shall be reserved to a depth of five meters, while the side facing the sub-branch line of transportation shall be reserved to a depth of four meters. To rent land in the Cianjhen or Tanzi Technology Industrial Park, space shall be reserved to a depth of three meters in the surroundings for the retreat land depth. To rent land in the Taichung Port Technology Industrial Park, the reserved retreat land depth shall be four meters for the side that is facing the road at a distance that is less than thirty meters; six meters for the side facing the road that is over thirty meters in distance. Three meters of retreat land depth shall be reserved in between the base and other adjacent land. To rent land in the Pingtung Technology Industrial Park, the reserved retreat land depth shall be three meters, separately when adjacent to other land. Additionally, the space of six meters shall be reserved for the side facing the main line of transportation under twenty meters of distance, while eight meters shall be reserved for the side when it is over twenty meters.
+
+For leasing land in other Technology Industrial Parks, it shall be handled in accordance with provisions in the detailed plan and construction technique regulations, as approved by that Technology Industrial Park.
+
+A lessee shall provide the retreat land prescribed in Paragraph 1 for free, for construction or burying of drainage, sewers, underground piping, or other public facilities.
+
+## Article 5
+
+Business entity applying to rent the land and construct buildings should agree to construct the building and its necessary auxiliary building. Its building coverage ratio and floor area ratio should be handled in accordance with relevant construction laws.
+
+The building should be constructed at 50% of base area, and the should not exceed 70%. The business entity should agree to handle in accordance with the following principles:
+
+\1. The retreat land in the surroundings of base cannot not be constructed based on requirements of fireproof, light exposure, evacuation, transportation, and beautifying environment.
+
+\2. The net area of base after deducting retreat land should leave 20% for the vacant lot.
+
+## Article 6
+
+If business entity is required to implement the land construction by phases, then its land area should be applied in one time. However whole construction plan of base cannot exceed three years. Additionally it should list the use situation by phases in the investment plan or application. If the aforementioned land construction by phases exceeds the time limit and is not used, then the Bureau of Industrial Parks, Ministry of Economic Affairs (hereinafter referred as the "Bureau") or Branches may inform to recall the land in accordance with contract at any time. The paid land rental and public facility construction expense will not be returned. If there is justifiable reason to do so, the business entity may apply to the Bureau or Branches for postponement before time limit expires.
+
+## Article 7
+
+If the business entity applies to rent the land and construct buildings, the Bureau or Branches along with the applicant should conduct the on-site survey regarding its location and area and grants the approval after referring to its construction floor layout plan and provisions of Article 3. If the applicant does not conduct the joint survey in accordance to the notified deadline, or if the joint survey is not necessary, then the approval is granted in accordance with investment plan and construction floor layout plan attached with application and other relevant information.
+
+## Article 8
+
+If the business entity applies to rent the land and construct buildings, the Bureau or Branches will conduct the on-the-spot survey and may increase or decrease within 5% of its approved rented land area.
+
+## Article 9
+
+If the business entity applies to rent the land and construct buildings, its factory or buildings in the other Technology Industrial Parks cannot be less than two thousand square meters, in addition it cannot be less than one thousand square meters in the Cianjhen, Tanzi, Taichung Port Technology Industrial Parks and Taichung Software Park.
+
+## Article 10
+
+If the business entity applies to rent the land and construct buildings, the Bureau or Branches should inform to ink the lease contract on the allotted land within sixty days upon notification. Meanwhile the rent should be paid in accordance with contract.
+
+Before the lease contract is inked and land is permitted for use in advance, the rental should be traced to the approving date of land use.
+
+## Article 11
+
+Business entity applying to rent the land and construct buildings should pay the rental expense to the Bureau or Branches or private land leaser in accordance with this standard. Private landowner in the Export Processing Zone entrusts the Bureau or Branches to administer the renting business, and the Bureau or Branches may collect the land rental and expense on behalf of the private landowner.
+
+## Article 12
+
+The classifications of land rental and expense in the Export Processing Zone are as follows:
+
+\1. Long-term land rental.
+
+\2. Short-term land rental.
+
+\3. Public facility construction expense.
+
+The aforementioned long-term land rental indicates that the land renting duration is over one year and under twenty years. Short-term land rental indicates that the renting duration does not reach one year.
+
+## Article 13
+
+The land rental and expenses in the Technology Industrial Parks are collected at the following standards:
+
+\1.	Long-term land rental: The reported land value of leased land is multiplied by the land renting rate, divided into twelve months, and multiplied by the leased land area.
+
+\2.	Short-term land rental: The current land rental of the leased land is multiplied by two to collect the rent.
+
+\3.	Public facility construction expenses: The business shall equally share the paid expenses for that public facility construction or confirmed amount, along with annuity converted from the loan capital and interest based on the renting area ratio in twenty years.
+
+The stipulation of land rental rate in the aforementioned paragraph shall refer to the land value in the Technology Industrial Parks, renting cost, and reports to the Ministry of Economic Affairs (referred to as "the Ministry") for approval to collect the rent.
+
+The land rental described in Paragraph 1 may be determined based on the consideration of the land acquisition cost, operational needs, and tenant recruitment status. If land is administered on behalf of others, it shall be handled in accordance with the land entrusted management agreement or contract.
+
+If a public facility is privately constructed, its construction expenses shall be reported to the Bureau for approval, and the Bureau and branches shall then collect the fee in accordance with Subparagraph 3 of Paragraph 1 of this Standard.
+
+The Bureau may propose adjustments to the rent and fee privileges specified in this Standard based on the operating, management, and tenant recruitment needs, or other special circumstances. The adjustment proposal shall be filed with the Ministry before implementation.
+
+## Article 14
+
+If the business entity applies to rent the land and construct buildings, it should pay the land rental and expense according to actual leased area. The purchaser of building for use should pay the land rental and expense based on shared land area of the purchased floor area of the building.
+
+## Article 15
+
+The collecting date of land rental and expense in the Export Processing Zone should be agreed as follows:
+
+\1. Long-term land rental:
+
+(1). Land renting or purchase of building is collected from contract inking date.
+
+(2). The purchase of newly-built buildings is collected from arrival of completion notification.
+
+(3). After the Bureau or Branches approves the investment case and before lease contract is inked and land or building is permitted to use in advance, the rental should be traced to the approving date of land use.
+
+\2. Short-term land rental: It is collected from the land lease contract inking date.
+
+\3. Public facility construction expense:
+
+(1). Developed area: It is collected from short-term land lease contract inking date.
+
+(2). Developing area: It is collected from contract inking date and is adjusted after development is completed.
+
+## Article 16
+
+The situation and date to stop in collecting the land rental
+
+\1. The day after land lease contract termination.
+
+\2. Notification arriving date after court judges the termination of land lease contract.
+
+## Article 17
+
+After the land lease contract is terminated for the land occupation period of the original tenant, damage payment shall be calculated based on the current land rental of the site multiplied by two for the damage collection on a monthly basis. If the period of occupation is less than one month, the damage shall be calculated on a daily basis. If the damage is not paid before the deadline, then additional late interest shall be calculated based on five percent of the annual interest rate until the damage repayment date.
+
+## Article 18
+
+The land rental and expenses should be paid before the last day of each month. If payment is late, it shall be handled by the following agreement:
+
+\1. If past due for more than one month and less than two months, penalty is collected at 5% of total amount of rental and expenses.
+
+\2. If past due for more than two months and less than three months, penalty is collected at 10% of total amount of rental and expenses.
+
+\3. If past due for more than three months and less than four months, penalty is collected at 15% of total amount of rental and expenses.
+
+\4. If rent is past due after four months, not only are expense and penalty collected, but also the lease contract is terminated.
+
+The aforementioned delay in payment should be informed by the Bureau or Branches to renter in the written form.
+
+## Article 19
+
+When the value of the land in the Export Processing Zone is adjusted by the local Land Administration in accordance with law, the rent shall be calculated based on the newly adjusted land value starting from the month after the adjusted land value
+
+is confirmed. The amount of the rent used to cover the land value tax for the current year shall be adjusted according to the announced land value for the current year. The remaining amount shall be adjusted by multiplying the amount by the rate
+
+of increase in the announced land value for the current year if the said value increases compared to the previous period; however, the adjustment shall not exceed 10%. If the announced land value decreases compared to the previous period but the value is not lower than the land value announced in 2015, the remaining amount shall not be adjusted; if the said value is lower than the land value announced in 2015, the remaining amount shall be adjusted according to the rate of decrease.
+
+However, this provision shall not apply if otherwise agreed to in the contract.
+
+## Article 20
+
+If the public or private land in the Export Processing Zone is entrusted to the Bureau or Branches for management, its procedural fee is collected at 5% of total amount of entrusted land rental and expense. If there is other agreement in the land entrusted management contract, it adheres to the agreement.
+
+## Article 21
+
+The standards shall come into force from the date of promulgation.
+
+The amendments to these Standards made on April 6, 2021 come into force from March 28, 2021.
+
+## History
+
+1.Promulgated on March 10, 1999
+
+2.Amended on December 18, 2002
+
+3.Amended on September 21, 2006
+
+4.Amended on April 8, 2009
+
+5.Amended on April 24, 2012
+
+6.Amended on July 9, 2014
+
+7.Amended on July 31, 2018
+
+8.Amended on April 30, 2020
+
+9.Amended on April 6, 2021
+
+10.Amended on November 6, 2023
+
+11.Amended on October 31, 2025

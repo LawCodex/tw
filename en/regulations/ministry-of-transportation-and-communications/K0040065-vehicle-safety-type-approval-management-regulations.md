@@ -1,0 +1,725 @@
+---
+title: "Vehicle Safety Type Approval Management Regulations"
+title_zh: "車輛型式安全審驗管理辦法"
+identifier: "K0040065"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞公路目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-01-29
+last_amended: 2025-12-31
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040065"
+retrieved: 2026-10-12
+---
+
+# Vehicle Safety Type Approval Management Regulations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0040065-vehicle-safety-type-approval-management-regulations.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0040065-vehicle-safety-type-approval-management-regulations.md)) is authoritative.
+
+## Chapter I General Provisions
+
+### Article 1
+
+These Regulations are enacted pursuant to Paragraph 5, Article 63 of the Highway Act, (hereinafter referred to as the Act).
+
+### Article 2
+
+Terms herein are defined as follows:
+
+\1. Vehicle safety type approval: The examinations conducted for the safety and specifications of motor vehicles before applying for the new license.
+
+\2. Vehicle type: means the different vehicle type, expressed by sign, that declared by the vehicle manufacturer or the vehicle body manufacturer.
+
+\3. Vehicle family: Means the entire set of different vehicle variants which conform to the principles below：
+
+(1) The same chassis brand and manufacturing country.
+
+(2) The same complete vehicle brand and manufacturing country.
+
+(3) The same vehicle body brand and country of manufacturer.
+
+(4) The same vehicle category (purpose).
+
+(5) The same type of vehicle body.
+
+(6) The same axle set type.
+
+(7) The same axle weight, gross vehicle weight and gross combination weight under certification.
+
+(8) The same chassis type series declared by chassis manufacturer.
+
+(9) The same vehicle type series declared by vehicle manufacturer.
+
+(10) For the high-pressure gas fueled vehicle, the same brand and model of main structure, device in gas fuel system.
+
+\4. Extended vehicle variant: The new vehicle variant that the applicant plans to add to the vehicle family.
+
+\5. Safety inspection and testing: The inspection and testing of vehicle or its device according to the vehicle safety testing directions established by Ministry of Transportation and Communications (hereinafter, MOTC).
+
+\6. Examination of conformity of production (COP): means review of COP plan and check of COP to ensure the mass-produced vehicle safety quality compliant with the approved vehicle under the vehicle safety type approval. The check of COP includes the checks of annual reports, on-site checks and sampling inspection and testing.
+
+\7. Technical service: Domestic or foreign institution, which obtains the approval from MOTC for safety inspection and testing of vehicles or its devices.
+
+\8. Certification institution: The domestic professional vehicle institution authorized by MOTC to process relevant affairs of vehicle safety type approval.
+
+### Article 3
+
+The vehicles manufactured, constructed or imported by domestic vehicle manufacturers, chassis manufacturers, body constructors or importers shall apply for the tests conducted by technical services or certification institution to acquire test reports according to the Vehicle Safety Testing Directions. Then proceed with the application toward certification institution and acquire the Vehicle Safety Type Approval Certificate and then apply for registration, inspection and get the new license plate from the motor vehicle authorities.
+
+### Article 4
+
+In order to manage the safety type approval of motor vehicles, MOTC may authorize the professional vehicle institution with certification ability to be the certification institution, to manage the inspection and testing, on-site checking, examination, examination of COP, making and issuing the safety type approval certificate, document examination and on-site audit of technical services, making and issuing of technical service approval certificate, supervision and assessment of technical services and their witnessed-laboratory.
+
+The above-authorized issues and the relevant regulations shall be published on government gazettes or newspaper by MOTC.
+
+## Chapter II Motor vehicle safety type approval
+
+### Article 5
+
+The qualification of applicants for applying the vehicle safety type approval are as below：
+
+\1. For the locally made complete vehicles, the applicant shall be the manufacturer；if manufacturer ‘s complete vehicle is made by a contract manufacturer, it shall be examined and approved by the certification institution before the manufacturer or contract manufacturer can apply for the approval.
+
+\2. For the imported whole vehicles, the applicant shall be the importer.
+
+\3. For the vehicles with the locally made chassis and the bodies made by other body makers, the applicant shall be the chassis manufacturer or body constructors.
+
+\4. For the vehicles composed of imported chassis and the locally made bodies, the applicant shall be the chassis importer or body constructors.
+
+\5. For the vehicles composed of locally made bodies and imported chassis by body makers, the applicant shall be the body constructors.
+
+\6. Domestic vehicle manufacturer or body maker who use other brand’s completed vehicles or chassis vehicles for transform or alter, it must be vehicle manufacturer or body constructors.
+
+\7. For the whole vehicles imported by authorities, organizations、schools or individuals for self-use only, the applicant shall be the authorities, organizations, schools or individuals.
+
+\8. For the vehicle with chassis imported by authorities, organizations, schools or individuals and body made by local body constructors for self-use only, the applicants shall be the import authorities, organization, schools, individuals or the body constructors.
+
+### Article 6
+
+When applying for vehicle safety type approval, the applicants shall provide the following documents and make application toward the certification institution. The documents of the application shall contain stampings of the applicants and duty persons on them or the electronically certified method which can assure the applicant identification:
+
+\1. The copy of applicant qualification documents.
+
+(1) Domestic vehicle manufacturer shall provide the company registration or commercial registration documents and factory registration documents；for the contract manufacturer, the authorization documents shall also be provided.
+
+(2) The vehicles body constructors shall provide the factory registration or commercial registration documents.
+
+(3) The importer shall provide the company registration or commercial registration documents.
+
+(4) For the authorized importer vehicle or chassis, authorization documents shall also be provided.
+
+(5) The vehicle imported for self-use by authorities, organizations, schools or individuals shall provide the formal proving documents.
+
+(6) For the tank truck made or constructed by domestic vehicle manufacturer or body constructor, the following documents shall also be provided：
+
+A. For high-pressure tank truck, the valid “Qualification Certificate of Type Inspection for Manufacturing Equipment” (High-pressure vessels mounted on vehicles) shall be provided.
+
+B. For atmospheric liquid tank truck, the valid certificate of inspection qualification for atmospheric liquid tank shall be provided.
+
+\2. The specifications and technical information:
+
+(1) Basic data sheet.
+
+(2) Specifications information of each vehicle type.
+
+(3) The complete vehicle photographs of each vehicles type with dimensions specified.
+
+(4) Illustrating documents of location and method of approval mark specified in Article 16.
+
+(5) For gravel and sand truck, concrete mixer truck and tank truck, shall provide the calculation instruction documents of loading volume dimension of each vehicle type.
+
+(6) For Liquefied Petroleum Gas (LPG) fuel system vehicles, shall provide proving documents specified in attachment 10 of Road Traffic Safety Regulations.
+
+(7) For large passenger vehicles, child-only vehicles and school buses shall provide allocation drawings of seats.
+
+(8) For large passenger vehicle manufactured by local body constructors, the applicant shall provide documents as below:
+
+A. The construction manual of body on chassis.
+
+B. The body construction self checklist, the illustrations of superstructure design and body construction, the illustrations shall include six views of vehicle body, five views of chassis, frame information specification, the drawing or photograph of truss weights and locations.
+
+C. The body construction self-check list for each vehicle type of class I and class II large passenger vehicles signed by people with level B welding technical certificate or others welding technician approved by certification institution.
+
+D. The calculation document of strength of superstructure.
+
+(9) For class I and class II large passenger vehicle manufactured by local body constructors and imported by importer, additional documents shall provide as below:
+
+A. The verification documents of durability test.
+
+B. The body construction self-check list for each vehicle type signed by people with level B welding technical certificate or other welding technician approved by certification institution. However, if the assembly line is automated to certain extent and approved by certification institution, then this check list may be exempted.
+
+C. The main component list of each vehicle type.
+
+\3. Examination report acquired for each vehicle type and testing item according to Article 14. The applicants can be different from the owners of the examination reports except for vehicles specification requirements in Vehicle Safety Testing Directions. If the applicants of vehicle safety type approval are different from the owners of the examination report, the applicants shall provide authorization document from the owners of examination report.
+
+If the complete vehicles or chassis of other makes are altered by domestic vehicle manufacturers or body constructors, and considered there is safety concern by the certification institution through MOTC, the applicants shall provide authorization document from the manufacturers of completed vehicle or chassis vehicle.
+
+### Article 6-1
+
+For vehicle manufacturers and body constructors applying for vehicle safety type approval for the first time, the applicants shall provide the following documents and their plant shall be assessed and approved by certification institution:
+
+\1. Legal plant document and scale of plant document.
+
+\2. The COP control plan.
+
+\3. The verification documents of durability test. Electric motorcycle manufacturers shall also provide the documents of vehicle handling stability test and the document which shows the difference between the vehicle type and electric power-auxiliary bicycle or electric bicycle.
+
+\4. For applicants authorized by manufacturers to assemble or manufacture vehicles, authorization documents from manufacturers shall be provided.
+
+\5. For applicants not authorized by manufacturers to assemble or manufacture vehicles, the design and development technical documents about the performance of powertrain and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle manufacturers, research and development technical capability documents shall be provided.
+
+### Article 7
+
+When there is one of following conditions, the applicants shall apply for low volume vehicle safety type approval instead:
+
+\1. Applicants (vehicle importers, authorities, organizations, schools or individuals) who can not obtain the authorization documents by foreign original vehicle or chassis manufacturers specified in Item 4 of Subparagraph 1, Paragraph 1, Article 6.
+
+\2. Those who cannot provide the examination report according to Subparagraph 3 of Paragraph 1, Article 6.
+
+\3. Vehicles have been used but not scrapped from abroad.
+
+\4. Vehicles have been used in the terminals of non-highway scopes.
+
+\5. The vehicles of new vehicle chassis assembled with used body or used additional equipments.
+
+When applying for vehicle safety type approval, if the examined vehicles are of the same vehicle type and specifications and the amount of examined vehicles are not over 20, it may apply for low volume safety type approval.
+
+When applying for the low volume safety approval, the vehicles shall be of the same type and specifications shall be identical. The vehicle amount of each case shall be not over 20. But for the conditions of Subparagraph 3 to 5 of Paragraph 1, Article 7, applicants shall vehicle-by-vehicle apply for the low volume type safety approval.
+
+For the vehicles of Subparagraph 3 of Paragraph 1, Article 7, except the vehicles imported by authorities, organizations, schools or individuals for self-use only, the vehicles shall be those who have already obtained all the examination report or inspection and testing report.
+
+### Article 8
+
+When applying for the low volume safety approval, the applicant needs to provide following documents toward certification institution:
+
+\1. The documents stipulated in Subparagraph 1 and 2 of Paragraph 1, Article 6.
+
+2.The documents of vehicle’s certificate of origin and engine numbers or vehicle body numbers.
+
+3.The examination report or safety inspect and testing report of each testing items according to Article 14. Except for examination reports or test reports for the vehicles specification items in Vehicle Safety Testing Directions, the applicants may be different from the owners of examination reports or test reports. If the applicant is different from the owner of the examination or test report, applicants shall provide authorization and agreement document from the report owner.
+
+If approval vehicles which have been used but not scrapped from abroad, applicants shall provide following original documents of each vehicle, document will be returned after examination:
+
+1.The foreign vehicle license or other vehicles proving documents. If the on-board date is after 2007/7/1, applicants provide proving documents which specify the date of origin of vehicle.
+
+\2. The Custom import and commodity tax payment (Exemption) certificate（for vehicles use）, if the documents from Custom or Subparagraph 1 of Paragraph 2, Article 8 shows the vehicle was damaged, defect or insurance or accident repaired, the applicant shall provide following additional documents:
+
+(1) Import certificate (including declared list form of imported sedans).
+
+(2) If the vehicles have damages or defects, after the certification institution report to MOTC and considers there is safety concern, the applicants shall provide the repair documents from the authorized importer or its designated vehicle maintenance workshops or distributors.
+
+(3) For insurance or accident recycled vehicles, the applicant shall provide the repair documents from the vehicle manufacturers or authorized importers.
+
+(4) For the imported vehicles with buy back records of insurance, accident or safety recalls, if the on-board date of is 2010/1/1 or after, the applicant shall additionally provide the following documents:
+
+A.The repair documents issued by the original manufacturers or their importers which were verified by the foreign governments or their notary organization and our foreign embassies, consulates and agencies.
+
+B.The repair documents in Item 2 of Subparagraph 2 issued by the designated maintenance workshops or distributors shall be attested under the Notary Act by the importer.
+
+C.The documents, that the vehicle purchasers have full understanding that the vehicles are recycled because of insurance, accident or safety defects.
+
+The import tax and commodity tax (Exemption) certificate（for vehicles only use）specified in the previous item may be substituted by electronic import and commodity tax payment (Exemption) certificate from tariff authority.
+
+### Article 9
+
+After accepting the application of vehicle safety type approval; the certification institution shall process the examination and ratification of vehicle specification according to the vehicle family regarding principles, vehicle type and specification variation, conformance with Vehicles Safety Testing Directions and relevant vehicle safety factors etc. After type approval passed and specification ratified, certification institution shall provide the vehicle safety type approval reports to the MOTC to issue the Vehicle Safety Type Approval Certificate.
+
+### Article 10
+
+After accepting the application of low volume vehicle safety type approval; the certification institution shall randomly select one vehicle to process examination and ratification of specification according to conformance with Vehicles Safety Testing Directions and relevant vehicle safety factors etc and send its representative to make an on-site surveillance check for vehicle quantity and specification. After type approval passed and specification ratified, certification institution shall provide the low volume vehicle safety type approval reports to the MOTC to issue the Low Volume Vehicle Safety Type Approval Certificate.
+
+### Article 11
+
+The valid duration of Vehicle Safety Type Approval Certificate and Low Volume Vehicle Safety Type Approval Certificate is two years after the certifying date, the vehicle shall comply with all the inspection and testing items in Vehicle Safety Testing Directions that have been promulgated and implemented before the certifying date. If the whole vehicle inspection and testing items cannot comply with the items in Vehicles Safety Testing Directions being promulgated but not implemented yet, then the current valid duration can not be over the implementation date of the item specified therein.
+
+The Certificate Document specified in Paragraph 1 of Article 11 includes the Certificate and vehicle type of specifications information. The formats of Vehicle Safety Type Approval and Low Volume Vehicle Safety Type Approval Certificate are in attachment 1 and 2.
+
+### Article 12
+
+Before the expiring date of the above-mentioned Type Approval Certificate, the original applicant could make Type Approval Certificate renewal toward the certification institution. After the expiration date, the Type Approval Certificate shall be void and no inspection registration and for new license plate will be allowed.
+
+When the Type Approval Certificate expires and void as specified in Paragraph 1 of Article 12, the original applicant can apply for the re-examination toward the certification institution. If the vehicle types specified in the expired Type Approval Certificate comply with all the implemented standards in the Vehicles Safety Testing Directions, testing may be waived.
+
+For the vehicles which have acquired the Type Approval Certificates but do not comply with newly amended or revised regulations in Vehicles Safety Testing Directions, the applicants shall make application to renew their Type Approval Certificates toward certification institution. Before re-examination and acquiring new Type Approval Certificates, no inspection registration and for new license plate will be allowed.
+
+For the renewal of Type Approval Certificate, the certification institution shall conduct the examination according to the already implemented standards in Vehicles Safety Testing Directions and if the requirements are all met, then certification institution send the certification reports to MOTC to renew the Vehicle Safety Type Approval Certificate.
+
+If the Type Approval Certificate is lost or damaged, the original applicant shall prepare relevant documents toward certification institution to apply for reissue.
+
+### Article 12-1
+
+For vehicles manufactured, constructed or imported but haven’t applied for registration, inspection and get the new license plate before the expiring date of the Type Approval Certificate which was acquired according to Paragraph 1 of Article 11 of this Regulations, the applicant for these vehicles may inventoried the vehicles and apply to extend 12 months for valid duration of Type Approval Certificate toward certification institution within 1 month after the expiring date to apply for registration, inspection and get the new license plate.
+
+Except other regulations promulgated by the MOTC, when the applicant constructs completed vehicles with the inventoried chassis specified in Paragraph 3 of Article 17,if they using the same type of chassis and their Type Approval Certificate will be expired, the applicant may apply to extend 18 months for valid duration of Type Approval Certificate toward certification institution to apply for registration, inspection and get the new license plate. This provision also applies to vehicles which were completed after the adoption of new Testing Regulations.
+
+The compliances of Vehicle Safety Testing Directions shall be specified on the Type Approval Certificate with valid extension duration according to the above two Paragraphs and the new registration document and user's manual of related vehicles.
+
+### Article 13
+
+If apply to extend the vehicle type, altering of vehicle original specifications and structure or the original documents need to be changed, the applicant shall provide relevant information and drawings of extension or alteration for application toward the certification institution according to Article 6 and 8.
+
+After the certification institution has completed the examination for extended vehicle type or altered of its original vehicle type specifications and structure and the requirements are met, it shall provide the vehicle safety type approval report to the MOTC for renewal of Vehicle Safety Type Approval Certificate.
+
+Before 2011/12/31, for the completed vehicles constructed by domestic body constructers and apply for new type approval or vehicle family extension according to Article 6 and Paragraph 1 of Article 13, the photographs of complete vehicles specified in Article 6 may be substituted by dimension diagrams.
+
+For the extended vehicle type of already type-approved vehicle family, if apply for vehicle-by-vehicle low volume safety type approval with practical complete vehicle, the on-site checking of Article 10 may be substituted by completed vehicle photos.
+
+### Article 14
+
+When applying for examination report specified in Article 6 and 8, the applicants shall be the manufacturers, authorized importers and body constructers of complete vehicle, its devices and chassis. For domestic vehicle devices manufacturers applying for examination reports for the first time, the applicants shall additionally provide legal plant document, scale of plant document and the COP control plan, and their plants shall be assessed and approved by certification institution.
+
+The applicants specified in Paragraph 1 of Article 14 may provide the following documents toward certification institution for application for examination reports. The applying documents shall have the seals the applicant and the duty-person on them or be of other electronically certified method. After the examination of applicable types, scopes and the effectiveness of the documents according to all requirements of Vehicles Safety Testing Directions and Scope of vehicle category table(as attached)are met, certification institution shall issue the examination report.
+
+\1. The copy of following applicant’s qualification documents:
+
+(1) For domestic manufacturers of completed vehicle, its devices and chassis, company registration or commercial registration documents and factory registration documents shall be provided.
+
+(2) For domestic body constructers, factory registration or commercial registration documents shall be provided.
+
+(3) For the foreign manufacturers and body constructers of completed vehicle, its devices and chassis, the registration documents of the applicants shall be provided.
+
+(4) For the authorized importers of completed vehicle, its devices and chassis, company registration or commercial registration documents and authorized documents shall provided.
+
+\2. The specification and technical documents:
+
+(1) Basic Data Sheet.
+
+(2) Indication of Functions and Specifications/Drawings.
+
+(3) The safety test report, the certification document from BSMI (Bureau of Standards Metrology and Inspection) or others technical documents approved by certification institution. If the applicant is different from the owner of the documents, additional authorized documents from the document owner shall be provided.
+
+(4) The sample, the location and labeling methods of approval label according to Article 16.
+
+(5) For the coupling devices of small trailers, shall provide coupling rack and equipment of label instructions and the label instruction’s content shall include the manufacturer, type and declared load.
+
+\3. The COP control plan for the test items. The content shall include the method of quality control, allocation of personnel, testing equipment maintenance and calibration, the sampling rate testing, method of recording and the correction method for non-conformity.
+
+If the volume of the vehicle devices of macrograph, the small trailer’s coupling devices, luggage racks for small vehicles, payload indicator and retro-reflective material imported by the same authorities, organizations、schools or individuals is no more than 3 pieces and for self use in that year, the applicants may provide following documents to apply for examination reports for self use toward certification institution.
+
+\1. The documents stipulated in above-mentioned in Item 1 and 2 of Subparagraph 2, Paragraph 2, Article 14.
+
+\2. The authorities, organizations, schools or individuals registration documents or identification document and the Custom import and commodity tax payment (Exemption) certificate for the vehicle devices.
+
+\3. The declaration document for self-use only, not to sell or transfer of the vehicle devices.
+
+### Article 15
+
+The content of the examination report shall include the number of report, test item and its applicable regulation, applicable types and scopes.
+
+If the content of examination report changes, the applicant shall provide relevant documents and pictures toward certification institution according to the previous article. The certification institution shall renew the examination report after the requirements are met.
+
+For the examination acquired according to Paragraph 3 of Article 14, no extension or alteration of the reports shall be allowed.
+
+If the examination report is lost or damaged, the original applicant shall prepare relevant documents toward certification institution for reissue.
+
+### Article 16
+
+For the following vehicle devices that have acquired the examination report, approval labels which have been approved shall be marked on each device:
+
+\1. Tachograph.
+
+\2. Coupling device of small trailer (including towing bracket and coupling component).
+
+\3. Luggage racks on small motor vehicle.
+
+\4. Payload indicator.
+
+\5. Retro-reflective material.
+
+\6. Safety belt
+
+The safety belt, regulated in Subparagraph 6 of Paragraph 1 which was installed in motor vehicle, may be waived from the marking requirement of Paragraph 1 before 2014/1/1.
+
+The marking specified in Paragraph 1 may be waived for the devices which have acquired examination report according to Paragraph 3 of Article 14.
+
+The content and format of approval label are stipulated in attachment 3.
+
+### Article 17
+
+The chassis manufactured by domestic chassis manufacturers or imported by importer to construct body in Taiwan have to process the chassis type registration.
+
+To process the type of chassis registration, the applicants shall provide following documents to certification institution, the document of application shall have seal the applicant and the duty-person on it or other electronically certified method. After registered by certification institution, certification institution shall issue the registration report：
+
+\1. The copy of the applicant’s qualification document.
+
+(1) For domestic chassis manufacturers, shall provide company registration or commercial registration documents and factory registration documents.
+
+(2) For the chassis importer, shall provide company registration or commercial registration documents. Authorized importers have to provide additional authorization documents.
+
+2.For the chassis for construction of large passenger vehicles, applicants shall provide the body construction-on-chassis manual.
+
+3.The specification list and picture of the chassis type.
+
+\4. For the chassis of class I and class II large passenger vehicles shall provide the verification documents of durability test of completed vehicle and the main components list for each type of chassis.
+
+When there are new Testing Regulations applied to chassis, if the chassis type were registered and used by domestic body maker to construct completed vehicle and been approved, for the same type of chassis which were manufactured or imported but not used to construct completed vehicle before the implementation of new Testing Regulations, the chassis manufacturers, importers or body makers may inventoried the chassis and apply to comply with the original Regulations in Vehicle Safety Testing Directions toward certification institution within 1 month after the implementation date of the new Testing Items.
+
+### Article 17-1
+
+For chassis manufacturers applying for vehicle safety type approval for the first time, the applicants shall provide the following documents and their plants shall be assessed and approved by certification institution:
+
+\1. Legal plant document and scale of plant document.
+
+\2. The COP control plan.
+
+\3. The verification documents of durability test.
+
+\4. For applicants authorized by foreign manufacturers to assemble or manufacture chassis, authorization documents from foreign manufacturers shall be provided.
+
+\5. For applicants not authorized by foreign manufacturers to assemble or manufacture chassis, the design and development technical documents about the performance of power train and braking, and analysis of vehicle structure shall be provided. For large passenger vehicle chassis manufacturers, research and development technical capability documents shall be provided.
+
+## Chapter III Accreditation of technical services
+
+### Article 18
+
+The technical services shall have their own testing equipments and facilities to apply for accreditation. The technical services shall have one of following qualifications:
+
+\1. Domestic or foreign administrative authorities（institutions）.
+
+\2. Domestic or foreign public or private Schools of college or above
+
+\3. Domestic or foreign professional vehicle technical institution or organization.
+
+The domestic or foreign institutions which possess the qualification above may provide the following documents toward certification institution for accreditation. Certification institution shall conduct document examination and on-site assessment.
+
+\1. Application form.
+
+\2. Established registration documents.
+
+\3. The quality manual or proving documents comply with or equivalent to ISO/IEC 17025.
+
+\4. Allocation drawings of test equipments of testing laboratory.
+
+\5. The specification list of test equipments.
+
+\6. Standard operation procedures（SOP）of testing.
+
+\7. The chief of laboratory, the chief of quality assurance, report signatories and the resume of testing personnel.
+
+\8. Other documents requested by MOTC or certification institution.
+
+For the foreign technical services, if the same test item has been accredited by their government authority, after the approval from MOTC, the requirement specified in Paragraph 1 of Article 18 may be waived.
+
+### Article 19
+
+If the application of accreditation meet the requirements of document examination and on-site assessment, the certification institution shall report to MOTC for the accreditation of the scope of the application and MOTC shall issue accreditation certificate to the technical service.
+
+If there is non-conformity found in the documents or on-site assessment for the application of accreditation, certification institution shall notify the technical service for correction or improvement within certain deadline. Accreditation shall not be granted if the correction or improvement within the deadline, or if there is still non-conformity.
+
+The items of ratification of vehicle specifications in Vehicles Safety Testing Directions shall not open for technical service accreditation.
+
+### Article 20
+
+The following contents shall be recorded in the accreditation certificate:
+
+\1. Name and address of the technical service.
+
+\2. Accreditation number.
+
+\3. Accreditation date.
+
+\4. Accreditation scope, including the test items and their respective regulations and applicable scope.
+
+\5. Other appointed contents by MOTC.
+
+### Article 21
+
+If the accreditation certificate is lost, damaged or there is change of the contents in the certificate, the technical service shall fill out an application form and provide relevant documents for certification institution apply for reissue or change the certificate.
+
+If technical service apply to move to another testing location, increase testing locations or increase testing items, the certification institution shall proceed on-site assessment. The on-site assessment may be substituted by document examination or on-site check afterwards as the certification institution considers necessary.
+
+If there is change of the report signatories, the technical service shall report to MOTC for its reference through certification institution.
+
+### Article 22
+
+Technical service may conduct the tests and issue safety test reports according to the Vehicles Safety Testing Directions.
+
+Technical service may assign personnel to conduct witness tests in other test laboratories for the tests specified in Paragraph 1 of Article 22.
+
+If the technical service plan to conduct witness tests in other test laboratories, the technical service needs to provide the following documents and apply toward certification institution of the laboratories to be witnessed for the first time. Witness tests may be conducted after document examination and on-site assessment of the laboratory to be witnessed and the requirements are met and the certification shall issue the assessment report to the laboratory:
+
+\1. Application form.
+
+\2. The establishment registration documents of laboratory.
+
+\3. The allocation drawings of specification list of testing equipments of the laboratory.
+
+\4. The resume of the chief of laboratory and testing personnel.
+
+\5. Other documents requested by certification institution.
+
+If the chief and testing personnel of the witnessed laboratory is changed, the technical service shall report to the certification for its reference. If the test equipment is changed or increased, the technical service shall provide necessary documents and apply toward to the certification institution. Witness test may only be conducted after the requirements are met. The certification may require on-site assessment if it find it necessary.
+
+### Article 23
+
+The test records, safety test report and relevant technical information shall be recorded correctly and in detail.
+
+The above-mentioned that test record, test report and relevant technical information shall be kept for five years at least.
+
+## Chapter IV Verification, supervision and of administration
+
+### Article 24
+
+MOTC shall conduct periodic or non-periodic supervising audit over the certification institution.
+
+If there is non-conformity found in the supervising audit specified above, certification institution shall make improvement within the period specified by MOTC. If the certification institution does not improve or improve within the requested period, MOTC may abolish the entire or partial authorization of the type approval.
+
+### Article 25
+
+The certification institution shall conduct periodic or non-periodic supervising audit over the accredited technical services and their witnessed laboratories. The frequency of the audits may be adjusted according to result of audits.
+
+The above-mentioned supervising audit shall be conducted after MOTC’s approval. The certification institution may request the technical services to provide relevant information for safety test or conduct testing. Technical service shall not avoid, interfere or reject without legitimate reason.
+
+If non-conformity was found in the supervising audit, the technical service shall make correction within the period requested by certification institution and apply for re-audit toward certification institution.
+
+### Article 26
+
+If technical service has one of the following circumstances, MOTC may not accept the safety test report issued by technical service. MOTC may resume to accept the test reports after technical service has completed correction within the specified period and the requirements are met:
+
+\1. Does not report to the authority according to Paragraph 3 of Article 21 and Paragraph 4 of Article 22.
+
+\2. There is still non-conformity after supervising audit.
+
+\3. Does not apply for reexamination according to Article 25.
+
+\4. Does not provide the necessary information requested by authority within the requested period without legitimate reason.
+
+\5. Fail to provide necessary arrangement for MOTC or certification institution to conduct supervising audit, appeal or disputed case handling and still fail to do so after MOTC or certification notification.
+
+### Article 27
+
+If technical service acquires the accreditation certificate by cheating, threatening or bribing, MOTC shall withdraw the accreditation and request to turn in the accreditation certificate within a time limit. If the technical service would not return the certificate with the deadline, MOTC shall announce to nullify the certificate.
+
+If technical service has one of the following circumstances, MOTC may revoke or withdraw entire or partial accreditation:
+
+\1. Technical service actively applies for revocation.
+
+\2. If the testing record, safety test report or relevant technical documents are counterfeit.
+
+\3. Losing its ability to conduct testing or can not conduct the testing impartially and efficiently.
+
+\4. Can not make correction of the non-conformity for the supervising audit within the requested period.
+
+\5. Other conditions against this Regulations which are considered serious by MOTC.
+
+Technical service can not apply for accreditation in 3 years if the accreditation was revoked or withdrawn according to Paragraph 1 of Article 27 and Paragraph 2 of Article 27 with the except for the Subparagraph 1 of Paragraph 2, Article 27 or special circumstances that approved by MOTC.
+
+### Article 28
+
+If the safety testing report issued by technical service was found not to comply with Vehicle Safety Testing Directions, certification institution shall report to the MOTC to cease the test report related applications including Type Approval Certificate and examination report.
+
+If Type Approval Certificate or examination reports have been granted with respect to the test reports specified in Paragraph 1 of Article 28, certification institution shall notify the motor vehicle authorities to stop the new license plate’s registration and inspection and notify the applicants for correction within the requested period. If the applicant can not complete the correction within that requested period, certification institution shall report to MOTC to revoke the approval certificate and announced that examination report is invalid.
+
+If the correction specified in Paragraph 2 of Article 28 meets the requirement, certification institution shall report to MOTC to notify the motor vehicle authorities to resume new license plate registration and inspection.
+
+### Article 29
+
+The certification institution shall conduct examination of COP to the applicants of Type Approval Certificate or examination reports. The checks of annual reports is once a year and on-site assessment is once every three years in principle but the frequency may be adjusted depending on the result of examination.
+
+When there is non-conformity found in the COP examination, certification institution shall cease the Type Approval Certificate and examination report related applications. The applicant shall provide the documented explanation, correction and the required period toward certification institution within thirty days since the next day after notification and shall apply for COP re-examination within the required period.
+
+Where the applicants are unable to complete the correction within that required period, the applicants shall provide the explanation and concrete improvement measures toward certification institution before the expiring date, the time limit may be extended after approved by certification institution.
+
+If the applicants don’t offer explanation and improved measures as requested within the requested period or still failed to the COP reexamination by certification institution, certification institution shall report to MOTC to revoke the entire or partial of the Type Approval Certificate and announced that examination report is invalid.
+
+If the requirements of the re-examination are met, the application right of the applicant shall be resumed.
+
+### Article 30
+
+When the motor vehicle authorities find vehicles which are not manufactured, constructed or imported according to Type Approval Certificate Document, the motor vehicle authorities shall notify the certification institution. If the certification institution confirms the situation is true, the certification institution shall conduct on-site COP verification and sample testing according to the non-compliance specified in the previous Article.
+
+If after on-site COP verification and sample testing specified in the previous paragraph and confirm that the vehicles are not manufactured, constructed or imported according to Type Approval Certificate Document, MOTC shall notify the applicant to provide documented explanation, correction and the required period within thirty days to certification institution and then certification institution conducts re-examination of COP.
+
+Where the applicants are unable to complete the correction within that required period, the applicants shall provide the explanation and concrete improvement measures toward certification institution before the expiring date, the time limit may be extended after approved by certification institution.
+
+If the applicants fail to complete the forementioned improvement measures or the result still fails to comply with the requirements, certification institution shall report to MOTC to revoke the Type Approval Certificate Document.
+
+### Article 31
+
+When the motor vehicle authorities process new license plate’s registration of low volume vehicles and find vehicles are not manufactured, constructed or imported according to Type Approval Certificate Document, the motor vehicle authorities shall stop the registration of that vehicle and notify certification institution and other motor vehicle authorities to stop processing the new license plate’s registration.
+
+The vehicles specified in previous paragraph shall be corrected with requested period and examined for each vehicle by certification institution. Certification institution shall report to MOTC to revoke the Type Approval Certificate Document if the result of examination is not satisfactory. The new license plate registration shall be granted if the requirements of examination are met.
+
+### Article 32
+
+If offer certificate owner offers the Type Approval Certificate Document for use by other person, MOTC may order the owner to improve within a requested time period. If the owner fails to improve within the time, MOTC shall revoke entire or part of the Type Approval Certificate Document.
+
+Those who use without authorization, counterfeits or forges the Type Approval Certificate Document shall be punished according to the Article 77-1 of Highway Act.
+
+### Article 32-1
+
+If applicants have one of the following circumstances, the entire or partial of chassis type registration reports, examination reports or test reports held by the applicant shall become invalid. For the Type Approval Certificate held by the applicant, the certification institution shall report to MOTC to revoke the entire or partial of the Type Approval Certificate Document:
+
+\1. Applicant actively applies for revocation or announces that the report is invalid.
+
+\2. The certification institution confirms applicants are unable to manufacture, construct or import the vehicles or devices to comply with relevant regulations.
+
+If the Type Approval Certificate Document has been revoked or the report become invalid, it shall not be used as an application documents under this Regulations.
+
+### Article 33
+
+When the approval Type Approval Certificate Document are revoked according to Paragraph 2 of Article 28, Paragraph 4 of Article 29, Paragraph 4 of Article 30, Paragraph 2 of Article 31 and Paragraph 1 of Article 32 and the situation specified in Paragraph 2 of Article 30, the motor vehicle authorities shall cease to proceed the new license registration for all the vehicle types in that Type Approval Certificate. The applicant shall recall all the registered vehicles for correction and apply for provisional vehicle inspection.
+
+The following principles shall be followed for the provisional vehicle inspection:
+
+\1. For the vehicles which have been registered, if the Type Approval Certificate Document has been revoked, certification institution shall determine necessary test items for these vehicles according to the non-compliance and conduct Low volume safety type approval. The owners shall acquire the Type Approval Certificate Document and then apply for provisional vehicle inspection and vehicle change registration.
+
+\2. After examination of the correction measures from applicants, certification institution shall provide the examination report to MOTC, applicants shall then apply for provisional vehicle inspection for each vehicle with the examination document issued by MOTC. If the certification institution determines and with the approval of MOTC that vehicles can be examined and inspected in the motor vehicle authorities, applicants may apply directly to motor vehicle authorities for provisional vehicle inspection.
+
+\3. After examination of the correction measures from applicants, if certification institution finds them comply with Vehicle Safety Test Directions and confirms no vehicle safety concern, certification institution may conduct sample testing or other appropriate measure to substitute provisional vehicle inspection with approval from MOTC.
+
+If the Type Approval Certificate Documents are revoked according to Paragraph 2 of Article 28, Paragraph 4 of Article 29, Paragraph 4 of Article 30, Paragraph 2 of Article 31 and Paragraph 1 of Article 32, punishment shall be made according to the Article 77-1 of Highway Act.
+
+## Chapter V Supplementary provisions
+
+### Article 34
+
+If the language of the documents for type approval application is other than Chinese or English, the applicant shall provide the Chinese or English translation of the documents.
+
+The Chinese or English translation of the documents specified in Paragraph 2 of Article 8 shall be verified by our foreign embassy, consulate, agency or domestic notary.
+
+### Article 35
+
+The fees of safety tests, test witness, examination, type approval, type registration, on-site assessment, verification and check shall be born by the applicants.
+
+When apply for vehicle safety type approval or technical service accreditation, the applicants shall pay the fees to certification institution.
+
+When the application of vehicle safety type approval or technical service accreditation fails, the fees shall not be returned to applicants.
+
+### Article 36
+
+The safety test reports, examination report, certification reports and other relevant technical documents shall be in detail and accurately be recorded by certification institution and be kept at least for five years.
+
+### Article 37
+
+When the certification institution has problems in processing the vehicle safety type approval, it may invite relevant representatives from the motor vehicle authorities, experts and associations to jointly handle the cases and discuss the relevant type approval affairs. Under the approval from the MOTC, the conclusion or record of the meeting shall be the guidelines for processing vehicle safety type approval.
+
+### Article 38
+
+If the vehicles specified in Subparagraph 3 of Paragraph 1, Article 7 are vehicles with the buy back records of insurance, accident or safety recalls, “recycled vehicle” shall be marked on the Type Approval Certificates, registration document, and vehicle licenses.
+
+If the vehicle specified in Paragraph 1 of Article 38 have damages or defects, after the certification institution report to MOTC and considers there is safety concern, relevant information about damages or defects of the import vehicle and damages or defects have been repaired, shall be marked on the Type Approval Certificates, registration document and vehicle licenses.
+
+### Article 39
+
+When applying for new license plate registration and inspection, the applicants of the vehicles approved with low volume safety approval shall provide the original copy of Low Volume Safety Type Approval Certificate Document for each vehicle.
+
+### Article 40
+
+The Type Approval Certificates, certification reports and technical service accreditation certificates acquired before the implementation of these Regulations according to “Directions for the Safety Type and Conformity of Production of Motor Vehicles” and “Directions for the Safety Type and Conformity of Production of Motor Vehicle Components” may be used until the expiration date and apply for re-issuance according to these Regulations.
+
+Within six months from the implementation date, the applicants may apply for type approval to the certification institution with the test reports and COP control plan specified in forementioned Directions instead of the examination reports specified in Article 6.
+
+Where the type approval certificates, certification reports, examination reports, test reports, technical service approval certificate and witnessed laboratory assessment report acquired before the amendment of this regulation published on april 282022, are continue to be valid until the expiration date and apply for renewal according to these regulations.
+
+### Article 41
+
+These Regulations shall be effective upon the day of promulgation.
+
+For the amendment of this regulation published on april 282022, the date of entry into force shall be determined by the Ministry of Transportation and Communications
+
+（These Regulations are made in Chinese, which shall prevail in case of any discrepancy between the English translation and the Chinese original.）
+
+## Attachments
+
+- [Attachment 1：Requirement for format of Vehicle Safety Type Approval Certificate..pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007628)
+- [Attachment 2：Requirement for format of Low Volume Vehicle Safety Type Approval Certificate.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007629)
+- [Attachment 3：Requirement of the contents and format of type approval marks..pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007630)
+- [Attached table of Article 14：Vehicle Safety Test Directions and Scope of vehicle category.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009733)
+- [Attachment 02 The requirement of specification for motor vehicle.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009734)
+- [Attachment 03-3 The installation of lighting and light-signaling devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008764)
+- [Attachment 03-4 The installation of lighting and light-signalling devices.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009735)
+- [Attachment 03-5 The installation of lighting and light-signalling devices.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009736)
+- [Attachment 03-6 The installation of lighting and light-signalling devices.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009737)
+- [Attachment 09-2 Installation of audible warning devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008734)
+- [Attachment 14-1 The requirement regarding the passenger hand-holds and footrests of motorcycle.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008735)
+- [Attachment 17 Static strength of coupling devices for trailer towed by small vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008767)
+- [Attachment 23-2 Installation of devices for indirect vision.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008736)
+- [Attachment 24-1 Driver operated controls.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008737)
+- [Attachment 27 Devices for indirect vision.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008738)
+- [Attachment 27-1 Devices for indirect vision.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008739)
+- [Attachment 28-1 Tyre.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008740)
+- [Attachment 42-3 Dynamic Braking.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008741)
+- [Attachment 42-4 Dynamic braking.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008742)
+- [Attachment 47-1 Steering equipment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008743)
+- [Attachment 47-2 Steering equipment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009562)
+- [Attachment 47-3 Steering equipment.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009563)
+- [Attachment 48-2 Safety belt anchorage.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008745)
+- [Attachment 49 Seats.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008746)
+- [Attachment 49-1 Seats.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008747)
+- [Attachment 49-2 Seats.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008748)
+- [Attachment 50-1 Head restraint.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008749)
+- [Attachment 50-2 Head restraint.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008750)
+- [Attachment 51-2 Door latches and retention components.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008751)
+- [Attachment 52-2 Headlamps（headlamps of gas-discharge type excluded）：Effective date from 2017／1／1.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008556)
+- [Attachment 54-3 Prevention of fire risks for the large passenger vehicle.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009738)
+- [Attachment 56-3 Electromagnetic Compatibility.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008557)
+- [Attachment 56-4 Electromagnetic Compatibility.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008752)
+- [Attachment 61 The installation of the mechanical coupling device or component.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009564)
+- [Attachment 63 Low floor vehicle.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009571)
+- [Attachment 63-1 Low floor vehicle.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009572)
+- [Attachment 64-1：Electric safety requirements for battery electric vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007702)
+- [Attachment 67 Wheelchair accessible vehicle.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009004)
+- [Attachment 70 Lane departure warning system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008754)
+- [Attachment 71 Driving vision assistant system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008755)
+- [Attachment 74 LED light sources.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008559)
+- [Attachment 76 Speed limitation devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009565)
+- [Attachment 80 Quiet road transport vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008757)
+- [Attachment 80-1 Quiet road transport vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008758)
+- [Attachment 81 Specifications of a vehicle fuel system incorporating the compressed hydrogen storage system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008759)
+- [Attachment 82 Specifications of the compressed hydrogen storage system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008760)
+- [Attachment 83 Specifications of specific components for the compressed hydrogen storage system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008761)
+- [Attachment 86 Rear-end collision for prevention of fuel tank fire risks.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008768)
+- [Attachment 91 Light signalling devices (LSD).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009739)
+- [Attachment 91-1 Light signalling devices (LSD).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009740)
+- [Attachment 92 Road illumination devices (RID).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009741)
+- [Attachment 92-1 Road illumination devices (RID).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009742)
+- [Attachment 93 Retro-reflective devices (RRD).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009743)
+- [Attachment 93-1 Retro-reflective devices (RRD).PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009744)
+- [Attachment 94 Blind spot information system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009568)
+- [Attachment 95 Pedestrian safety.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008769)
+- [Attachment 96 Cyber security and cyber security management system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008770)
+- [Attachment 97 Software update and software update management system.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008771)
+- [Attachment 98 Event data recorder.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008772)
+- [Attachment 99  Twistlocks.PDF](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009745)
+- [Attachment 100 Advanced emergency braking system for M1 and N1 vehicles.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009569)
+
+## History
+
+1.Promulgated on January 29, 2007
+
+2.Revised on December 17, 2009
+
+3.Revised on November 15, 2011
+
+4.Revised on September 6, 2016
+
+5.Revised on November 22, 2019
+
+6.Revised on September 29, 2021
+
+7.Revised on April 28, 2022
+
+8.Amended on September 27, 2022
+
+9.Revised on December 30, 2022
+
+10.Revised January 5, 2024
+
+11.Revised on MAY 6, 2024
+
+12.Revised on August 7, 2024
+
+13.Revised on January 9, 2025
+
+14.Revised on January 20, 2025
+
+15.Revised on November 5,2025
+
+16.Revised on December 4,2025
+
+17.Revised on December 31,2025

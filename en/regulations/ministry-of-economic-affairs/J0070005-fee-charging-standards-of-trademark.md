@@ -1,0 +1,143 @@
+---
+title: "Fee-charging Standards of Trademark"
+title_zh: "商標規費收費標準"
+identifier: "J0070005"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞智慧財產權目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1994-07-01
+last_amended: 2025-06-18
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0070005"
+retrieved: 2026-10-12
+---
+
+# Fee-charging Standards of Trademark
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0070005-fee-charging-standards-of-trademark.md](../../../zh/regulations/ministry-of-economic-affairs/J0070005-fee-charging-standards-of-trademark.md)) is authoritative.
+
+## Article 1
+
+These Standards are prescribed pursuant to Paragraph 2 of Article 104 of the Trademark Act (hereinafter as the Act).
+
+## Article 2
+
+Fees of filing an application for registration are as follows:
+
+\1. for an application for trademark or collective trademark registration, the filing fee is calculated based on each class of the designated goods or services. The amount for each class is calculated as follows:
+
+(1) for a class in Classes 1 to 34 with 20 designated goods or less in such class, the amount is NT$3,000; for more than 20 designated goods in such class, an additional NT$200 shall be added per designated good over 20 goods;
+
+(2) for a class in Classes 35 to 45, the amount is NT$3,000; for Class 35 with designated retail services of specific goods, an additional NT$500 shall be added per designated retail service of specific goods over 5 retail service of specific goods.
+
+\2. for an application for collective membership mark or certification mark registration, the filing fee is NT$5,000.
+
+When filing an application for registration by electronic means pursuant to Article 13 of the Act, the filing fee referred to in the preceding paragraph shall be reduced by NT$300 per application; while all of the designated goods or services in such application are identical with the recommended terms in e-filing system, the filing fee shall be reduced by NT$300 more per class.
+
+Those filing an application for registration seeking accelerated examination pursuant to Paragraph 8 of Article 19 of the Act shall pay an additional NT$6,000 per class for the filing fee referred to in the preceding paragraph as the accelerated examination fee.
+
+## Article 3
+
+Fees for registration are as follows:
+
+\1. for a trademark or collective trademark registration, the fee is NT$2,500 per class;
+
+\2. for a collective membership mark or certification mark registration, the fee is NT$2,500.
+
+For those who chose to pay registration fees in two installments and already paid the first installment prior to the enforcement of the articles of this Act amended on May 31, 2011, the amounts of the second installment are as follows:
+
+\1. for a trademark or collective trademark registration, the amount is NT$1,500 per class;
+
+\2. for a collective membership mark or certification mark registration, the amount is NT$1,500.
+
+## Article 4
+
+Fees for renewal are as follows:
+
+\1. for renewal of a trademark or collective trademark, the fee is NT$4,000 per class;
+
+\2. for renewal of a collective membership mark or certification mark, the fee is NT$4,000.
+
+If a request for renewal is withdrawn before the notice of acceptance has been given, the applicant may request for a refund of the renewal fee referred to in the preceding paragraph.
+
+## Article 5
+
+Fees of division are as follows:
+
+\1. for division of an application for registration, the fee is NT$2,000 per additional application after the division;
+
+\2. for division of a trademark, certification mark, or collective trademark registration, the fee is NT$2,000 per additional registration after the division;
+
+\3. for division of a trademark, certification mark, or collective trademark registration prior to the disposition of an opposition, invalidation, or revocation against such trademark or mark is rendered, NT$2,000 shall be additionally paid in addition to the fee pursuant to the preceding subparagraph.
+
+## Article 6
+
+Other fees are as follows:
+
+\1. for amendment or change to particulars in a registration or application for registration, the fee is NT$500 per request; for a single request to amend or change the same particulars in multiple registrations or applications for registration, the fee is calculated based on each registrations or applications for registration;
+
+\2. for a restriction of designated goods or services of a registered trademark, the fee is NT$500;
+
+\3. for an entry of a license or sub-license in the Register, the fee is NT$2,000; for a single request to enter multiple licenses under the same conditions in the Register, the fee is calculated based on each license; the same fee applies to a single request to enter multiple sub-licenses under the same conditions in the Register;
+
+\4. for a removal of a license or sub-license from the Register, the fee is NT$1,000;
+
+\5. for an entry of transfer of a registration in the Register, the fee is NT$2,000; for a single request to transfer multiple registrations under the same conditions in the Register, the fee is calculated based on each registration;
+
+\6. for an entry of a creation of a pledge, the fee is NT$2,000;
+
+\7. for an entry of an extinguishment of a pledge, the fee is NT$1,000;
+
+\8. for filing an opposition, the fee is NT$4,000 per class;
+
+\9. for filing an invalidation, the fee is NT$7,000 per class;
+
+\10. for filing a revocation, the fee is NT$7,000 per class;
+
+\11. for a request to intervene in an opposition, invalidation or revocation, the fee is NT$2,000;
+
+\12. for a request to issue a certified copy of a document, the fee is NT$500;
+
+\13. for a request to review official files of a case, the fee is NT$500;
+
+\14. for applying for a trademark agent registration or change thereto, the fee is NT$500.
+
+## Article 7
+
+For a request to issue a replacement registration certificate or re-issue a registration certificate of a registration, the fee is NT$500.
+
+## Article 7-1
+
+The registration fees for the Trademark Professional Capability Certification Examination, based on the examination format for each subject, are as follows:
+
+\1. for a written examination, the fee is NT$1,200 per person per subject;
+
+\2. for a computer-based examination, the fee is NT$2,000 per person per subject.
+
+## Article 8
+
+These Standards are enforced on May 1, 2024.
+
+The amended articles of these Standards shall take effect on the date of promulgation.
+
+## History
+
+\1. Enacted and Promulgated on July 1, 1994 by the Ministry of Economic Affairs; Enforced on August 1, 1994
+
+\2. Amended and Promulgated on November 1, 2000 by the Ministry of Economic Affairs; Enforced on January 1, 2001
+
+\3. Amended and Promulgated on November 26, 2003 by the Ministry of Economic Affairs; Enforced on November 26, 2003
+
+\4. Amended and Promulgated on September 4, 2008 by the Ministry of Economic Affairs; Enforced on August 26, 2008
+
+\5. Amended and Promulgated on December 27, 2010 by the Ministry of Economic Affairs; Enforced on February 1, 2011
+
+\6. Amended and Promulgated on June 28, 2012 by the Ministry of Economic Affairs; Enforced on July 1, 2011
+
+\7. Amended, Promulgated and Enforced on May 1, 2024 by the Ministry of Economic Affairs
+
+\8. Amended, Promulgated and Enforced on June 18 2025 by the Ministry of Economic Affairs

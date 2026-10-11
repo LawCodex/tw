@@ -1,0 +1,115 @@
+---
+title: "Enforcement Rules of The Taxpayer Rights Protection Act"
+title_zh: "納稅者權利保護法施行細則"
+identifier: "G0340144"
+type: regulation
+law_level: "命令"
+category: "行政＞財政部＞賦稅目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2017-09-08
+last_amended: 2026-05-25
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340144"
+retrieved: 2026-10-12
+---
+
+# Enforcement Rules of The Taxpayer Rights Protection Act
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-finance/G0340144-enforcement-rules-of-the-taxpayer-rights-protection-act.md](../../../zh/regulations/ministry-of-finance/G0340144-enforcement-rules-of-the-taxpayer-rights-protection-act.md)) is authoritative.
+
+## Article 1
+
+These Enforcement Rules are prescribed in pursuance of Article 22 of the Taxpayer Rights Protection Act ("the Act").
+
+## Article 2
+
+The term "The tax collection authorities" as used under this Act shall refer to the IRS in all regions of the Ministry of Finance, local tax collection agencies, and Customs agencies.
+
+The term "The taxpayers" as prescribed under this Act shall refer to all taxpayers of tax law, tax withholders, tax collection agents, tax payment agents, and other persons who pay tax in accordance with the law.
+
+## Article 3
+
+The term "The taxpayers' income for maintaining their basic living expenses shall not be taxed" in Paragraph 1 Article 4 of the Act referring to the expense amount which is maintained for basic living for taxpayers, spouses, and dependents shall not be less than the amount which taxpayers may deduct from the gross consolidated income, including the amount of Exemption and deductions. The aforementioned expense amount shall be calculated in accordance with the expense of basic living for each person in the current year announced by the Central Authority multiplied by the number of taxpayers, spouses, and dependents. If the deducted amount is less than the basic living expenses, the taxpayer may use the difference as a deduction from the gross consolidated income.
+
+The deductions referred to in the preceding paragraph do not include the special deduction for loss from the property transaction and the special deduction of income from salaries/wages.
+
+The Ministry of Finance shall announce the expense of basic living for each person in accordance with Paragraph 2, Article 4 of the Act before the end of December each year. The amount shall be calculated in units of NT$1,000; if the amount is less than NT$1,000, it shall be calculated as a unit of NT$1,000 and rounded up or down to the nearest NT$1,000 using the traditional method.
+
+## Article 4
+
+The competent authority in charge of the relevant business shall undertake the following before submitting a tax expenditure law to the Legislative Yuan for review:
+
+\1. Hold a public hearing.
+
+\2. Prepare a tax expenditure assessment report and obtain a secondary review by the Ministry of Finance or confirmation of its feasibility through an inter-agency consultation process.
+
+When conducting a tax expenditure assessment pursuant to the Regulations Governing Tax Expenditure Assessment, the competent authority in charge of the relevant business shall confirm that the proposed tax expenditure does not constitute a harmful tax practice and shall conduct a detailed study and analysis of the implementation benefits and costs of the tax expenditure law, the amount of annual tax revenue losses, and other relevant matters. Where the assessment indicates tax revenue losses, the competent authority shall also formulate corresponding financing measures.
+
+After the tax expenditure law has been submitted by the Executive Yuan to the Legislative Yuan for deliberation, the competent authority in charge of the relevant business shall promptly submit the tax expenditure assessment report and the public hearing record to the Legislative Yuan, its Finance Committee, and the relevant committees.
+
+With respect to a tax expenditure law proposed by Legislators, the competent authority in charge of the relevant business shall, prior to review by the relevant committees of the Legislative Yuan, conduct a tax expenditure assessment in accordance with the preceding paragraph, prepare an assessment report, obtain a secondary review by the Ministry of Finance, and submit the tax expenditure assessment report to the Legislative Yuan, its relevant committees, and its Finance Committee. However, this requirement shall not apply where the competent authority in charge of the relevant business has already submitted a substantially similar tax expenditure law to the Legislative Yuan for deliberation.
+
+## Article 5
+
+The levying interests in Paragraph 7 Article 7 of the Act accrued on the amount of such supplementary tax do not include belated surcharges in accordance with this Act or other relevant Acts.
+
+The term "the date following the original deadline for making the payment of such tax" shall refer to the following:
+
+1.For the tax which should be declared and paid voluntarily by a taxpayer under the Act, the commencement date shall be the date following the expiration date of the statuary period for filing the tax return.
+
+2.For the tax which should be declared by a taxpayer and made the payment or exemption after assessment, the commencement date shall be the date following the expiration date of the statuary period for filing the tax return.
+
+3.For the tax which should be assessed by the tax collection authorities based on the data recorded in the Tax Registration Book or obtained through investigation, the commencement date shall be the date following the expiration date of the period of collection of such tax.
+
+4.For the stamp tax payable by a taxpayer under the act, the commencement date shall be the date following the date of affixing the tax stamps to the taxable document under the act.
+
+5.For the tariff which should be paid by a taxpayer under the act, the commencement date shall be the date following the assessment or exemption date made by Customs.
+
+If a penalty for tax evasion is imposed on a taxpayer in accordance with Paragraph 8 Article 7 of the Act, the belated surcharges and interests of Paragraph 8 Article 7 of the Act are exempted.
+
+Unless otherwise provided for under this Act or the Enforcement Rules, the provisions of the Tax Collection Act, Customs Act, and any other laws shall be applicable, mutatis mutandis, to the provisions of Paragraph 3 Article 7 of the Act about belated surcharges and interests.
+
+## Article 6
+
+The term "more than two estimation means" in Paragraph 3 Article 14 of the Act refers to tax collection authorities shall make estimation according to the means which is nearest to the actual amount when more than two means exist unless another method of estimation is provided.
+
+## Article 7
+
+Where the tax collection authorities have no discretion in imposing penalties on taxpayers in accordance with tax laws or otherwise, Article 16, Paragraph 3 of this Act shall not be applicable.
+
+## Article 8
+
+To carry out the protection of taxpayers as stipulated in Article 20 of this Act, the tax collection authorities shall set up at least one taxpayer ombudsman, based on the specific conditions of the region, tax items, and tax collection practices. Additionally, ombudsmen shall have a specialty in law, taxation, or accounting, and have a higher level of position. External experts and scholars may also be appointed as taxpayer ombudsmen.
+
+Taxpayer ombudsmen shall submit an annual work report to the Ministry of Finance every year.
+
+## Article 9
+
+During the periods of taxation, if any additional tax is found to be assessable on the same taxpayer under investigation, the taxpayer shall still be required to make supplemental payment thereof and/or be subject to punishment for insufficient payment of said tax in accordance with Article 21, Paragraph 2 of the Tax Collection Act or other relevant laws and regulations, except in the case where the fact is in the previous scope of the administrative remedy.
+
+## Article 10
+
+The term "the tax payable has not been determined over 15 years after the date on which the revoked or amended judgment is made by the court, may not be assessed again" in Paragraph 4 Article 21 of the Act refers to the commencement date being the date as follows:
+
+1.The date on which the court initially made the revocation or alteration of the judgement after the implementation of this law.
+
+2.When taxpayer appeals or protests against the final adjudication of the First Instance, the date on which the higher administrative court initially made the revocation or alteration of the judgment after the implementation of this law.
+
+The term“the date on which the court made the revocation or alteration of the verdict” depicted in the preceding paragraph means its announcement, or, if it is not announced, upon its publication.
+
+The term "not in this case" in the proviso of Paragraph 4 Article 21 of the Act refers to being assessed again even though the tax payable has not been determined over 15 years.
+
+## Article 11
+
+These Enforcement Rules shall come into force on 28 December 2017 ; however, the text amended and promulgated on December 26, 2018 shall come into force from the date of January 1, 2018 ; and the text amended and promulgated on May 25, 2026 shall come into force from the date of May 28, 2026.
+
+## History
+
+1.Promulgated per the Order of Tai-Tsai-Shuei No. 1060468620 issued by the Ministry of Finance on September 8, 2017 , which shall come into force on December 28, 2017.
+
+2.Article 3 and Article 11 of the Enforcement Rules of The Taxpayer Rights Protection Act were amended by Decree No. 10704668700 issued by the Ministry of Finance on December 26, 2018 , which shall come into force on January 1, 2018.
+
+3.Articles 4, 8, and 11 of the Enforcement Rules of the Taxpayer Rights Protection Act were amended by Decree No. 11504563400 issued by the Ministry of Finance on May 25, 2026, which shall come into force on May 28, 2026.

@@ -1,0 +1,209 @@
+---
+title: "Regulations Governing Transactions Other Than Loans between Insurance Enterprises and Interested Parties"
+title_zh: "保險業與利害關係人從事放款以外之其他交易管理辦法"
+identifier: "G0390076"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞保險目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2007-08-29
+last_amended: 2025-01-22
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390076"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Transactions Other Than Loans between Insurance Enterprises and Interested Parties
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0390076-regulations-governing-transactions-other-than-loans-between-insurance.md](../../../zh/regulations/financial-supervisory-commission/G0390076-regulations-governing-transactions-other-than-loans-between-insurance.md)) is authoritative.
+
+## Article 1
+
+These Regulations are enacted pursuant to Paragraph 3, Article 146-7 of the Insurance Act (referred to as the “Act” hereunder).
+
+## Article 2
+
+The term “interested party” referred to in Paragraph 3, Article 146-7 of the Act includes the following:
+
+\1. Responsible persons and major shareholders of an insurance enterprise;
+
+\2. A sole proprietorship or a partnership owned and operated by a responsible person or major shareholder of an insurance enterprise or an enterprise or an organization in which a responsible person or major shareholder of an insurance enterprise acts concurrently as its responsible person or representative;
+
+\3. An affiliate of an insurance enterprise and the responsible persons and major shareholders of such affiliate; and
+
+\4. A subsidiary of an insurance enterprise and the responsible persons of such subsidiary.
+
+The term “responsible person” mentioned in the preceding paragraph includes any director, supervisor, president (general manager), vice president (deputy general manager), assistant vice president (assistant general manager), manager, or person in an equivalent position.
+
+When a juristic person shareholder of an insurance enterprise is elected director or supervisor in the capacity of a juristic person or through an authorized representative, the responsible person of the insurance enterprise shall also include the juristic person shareholder as well as its chairperson, a natural person who are lawfully appointed to represent the juristic person in the performance of duties and the authorized representative of the juristic person elected as a director or supervisor of the insurance enterprise.
+
+The term “an enterprise in which a responsible person or major shareholder of an insurance enterprise acts concurrently as its responsible person” mentioned in Subparagraph 2 of Paragraph 1 hereof shall mean an enterprise in which a responsible person or major shareholder of an insurance enterprise acts as its responsible person in accordance with Article 8 of the Company Act.
+
+The term “major shareholder” mentioned in Paragraph 1 hereof shall mean a shareholder holding at least 10% of the total number of issued and outstanding shares of the insurance enterprise; where a major shareholder is a natural person, the shares of his/her spouse and minor children shall be counted in the total number of shares held by such major shareholder.
+
+## Article 3
+
+The scope of “transactions other than loans between an insurance enterprise and its interested parties” mentioned in Paragraph 3, Article 146-7 of the Act shall mean any of the following transaction activities:
+
+\1. Investing in or purchasing securities issued by its interested parties;
+
+\2. Purchasing real estate or other assets from its interested parties;
+
+\3. Selling securities, real estate or other assets to its interested parties;
+
+\4. Entering into a contract with its interested parties regarding payment of money or provision of services;
+
+\5. Acquiring real estate, property or stocks from its interested parties through the enforcement of mortgage or pledge;
+
+\6. Leasing property or real estate to or from its interested parties;
+
+\7. Entering into an agreement with its interested parties on the payment of transaction deposit, royalty or rental deposit;
+
+\8. Arrangements involving any of the persons mentioned in the preceding article acting as an agent or broker of an insurance enterprise or its subsidiary(ies) or providing other services which charge commission or fees;
+
+\9. Purchasing financial derivatives or structured products linked to a security issued by its interested parties from any person other than the security issuer; and
+
+\10. Engaging in transactions with third parties having a relationship with its interested parties or engaging in transactions with third parties in which its interested parties are involved.
+
+The term “third parties having a relationship” mentioned in Subparagraph 10 of the preceding paragraph include the spouse and relatives by blood within second degree of kinship of the interested parties of the insurance enterprises as well as enterprises in which any of the person or his/her spouse acts as a director, supervisor or president (general manager).  The scope of the aforesaid person include the juristic person and the natural person.
+
+The securities mentioned in Subparagraphs 1 and 3 of Paragraph 1 hereof exclude negotiable certificates of deposits issued by a bank, an insurance enterprise’s investment in special projects as well as investment in public utilities and social welfare enterprises pursuant to Article 146-5 of the Act, and stocks issued by insurance-related businesses held by an insurance enterprise pursuant to Article 146-6 of the Act.
+
+The scope of "engaging in transactions with third parties in which any interested parties are involved " mentioned in Subparagraph 10 of Paragraph 1 does not include any of the following transactions:
+
+\1. Cases where the insurance enterprise serves as the sales institution of the securities investment trust fund while another subsidiary of its financial holding company serves as the custodian institution of the same securities investment trust fund and the parties and agreed terms of the securities investment trust fund contract and sales contract do not involve other interested parties.
+
+\2. Cases where the insurance enterprise engages in financial derivatives trade with a third party and the custodian institution is an interested party.
+
+\3. Cases where the insurance enterprise engages in the purchase or sales of ordinary corporate bonds issued by a third party in a secondary market and the guarantee institution is an interested party.
+
+\4. Cases where another subsidiary of the same financial holding company serves as a co-underwriter of an international initial public offering project and the interested party purchases securities with equity characteristics in such project from the lead underwriter or other co-underwriters.
+
+When an insurance enterprise purchases corporate bonds issued by an interested party, such bonds must be guaranteed.
+
+## Article 4
+
+When an insurance enterprise engages in transactions other than loans with interested parties, the terms of such transactions shall not be more favorable than those offered to other same category counterparties, and such transactions require the concurrence of at least three-quarters of all directors of the insurance enterprise present at a board of directors meeting attended by at least two-thirds of all directors.
+
+Directors attending a board of directors meeting shall recuse themselves from cases involving themselves or their interested parties and shall not exercise voting rights on behalf of other directors. The preceding provision does not apply to insurance enterprises organized by a single juristic person shareholder where the case involves that single juristic person shareholder.
+
+When an insurance enterprise engages in the following transactions other than loans with its interested parties, it may draw up internal operational rules with the concurrence of at least three-quarters of all directors present at a board of directors meeting attended by at least two-thirds of all directors to give the managing department general authorization to engage in those transactions according to the operational rules, and the terms of such transactions may not be more favorable than those offered to other same category counterparties:
+
+\1. The following transactions with stated, open market prices:
+
+(1) Transactions of financial derivatives.
+
+(2) Remittance, foreign exchange, deposit and foreign currency transactions.
+
+(3) Transactions of short-term notes or bills in primary and secondary markets, and transactions of government bonds, financial bonds and corporate bonds in the secondary market.
+
+\2. Transactions of New Taiwan Dollar (NTD) and foreign currency denominated corporate bonds and financial bonds not linked to equity where the bond issuer or the bond itself has a rating equivalent to twA or above from Taiwan Ratings, provided the total amount of subscription of such corporate bond or financial bond by a same person during the bond’s underwriting period does not exceed NT$10,000,000.
+
+3.Sharing of processing fees, service fees or commissions generated from cross-selling and joint promotion of other business’ products or provision of relevant services with other subsidiaries belonging to the same financial holding company.
+
+4.The following insurance products or other transactions related to insurance:
+
+(1) Transactions of insurance products whose premium rates have been reported to the competent authority for approval or on a use-and-file basis and prices or premium rates have been reported to the competent authority or industry association for approval, or on a file-and-use or use-and-file basis, or other transactions with established, uniform fee standards.
+
+(2) Transactions involving reinsurance commissions, reinsurance premiums, other commissions or agency fees and relevant service costs.
+
+\5. A single transaction not exceeding NT$5,000,000.
+
+\6. Acquisition and disposal of beneficial securities of collective trust fund or beneficiary certificates of securities investment trust fund, futures trust fund (including exchange-traded funds and exchange-traded futures trust funds, but excluding closed-end funds) or exchange traded notes issued by an interested party through investment; and the managing department should compile transaction records and profit/loss status for each transaction and report to the board of directors on a quarterly basis. If other regulations stipulate otherwise, such other regulations shall prevail.
+
+\7. Transaction of securitized financial asset products or securitized real estate products publicly placed or offered in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act and traded in the secondary market, but excluding the beneficial securities of real estate investment trust; and the managing department should compile transaction records and profit/loss status for each transaction and report to the board of directors on a quarterly basis. The preceding provision does not apply to beneficial securities and asset-backed securities with an issuance period of one year or less.
+
+\8. Transactions made in accordance with the Regulations Governing the Management of Collective Trust Funds or the Regulations Governing Management and Utilization of Collective Investment Trust Funds when the interested party is a bank ; transactions made with fund assets in accordance with the Regulations Governing Securities Investment Trust Funds or the Regulations Governing Futures Trust Funds when the interested party is a securities investment trust enterprise (SITE).
+
+\9. Transactions made through the Emerging Stock Computerized Price Negotiation and Click System in connection with the obligations of the interested party to give quotes and offer to buy and sell emerging stocks when the interested party is a recommending securities firm for emerging stocks.
+
+\10. Transactions relating to the handling of non-performing loans of an insurance enterprise by an appointed impartial third party recognized by the competent authority in accordance with the Regulations Governing The Recognition Of An Impartial Third Party And Its Public Auction Procedure.
+
+\11. Except for transactions involving securities with equity characteristics, single transactions in an amount not exceeding NT$50,000,000 with the parent financial holding company or a wholly directly or indirectly owned subsidiary of the parent financial holding company.
+
+\12. A public-interest disaster relief donation for a major natural disaster.
+
+\13. The following transactions related to the discretionary investment business：
+
+(1) Transactions made in accordance with the Regulations Governing the Conduct of Discretionary Investment Business by Securities Investment Trust Enterprises and Securities Investment Consulting Enterprises when the interested party is a SITE, securities investment consulting enterprise (SICE).(Hereinafter referred to as "discretionary investment transactions").
+
+(2) Commissions and fees for the transactions of preceding item.
+
+The term “single transaction” mentioned in Subparagraphs 5 and 11 of the preceding paragraph shall be determined by the following standards:
+
+\1. If the contractual activity involves an outright transaction, it is determined by total contract value.
+
+\2. If the contract, regardless whether it is a fixed-term or indefinite-term contract, agrees on payment of commissions or expenses, it is determined by the agreed single payment of commission or expense effected during the term of contract (if the contract agrees on monthly payment, the entire monthly payment, whether it is paid in one lump sum or in installments, should be viewed as a single payment).
+
+\3. If it is a lease contract, it is determined by the total amount of annual rent or annual interest equivalent on the rental deposit.
+
+\4. If the transaction involves securities with equity characteristics or structured product, it is determined by the total amount of transaction for the day.
+
+\5. If it is a financial derivative transaction, it is determined by the total nominal amount of transaction for the day.
+
+The responsible person of the branch of a foreign insurance enterprise in Taiwan may, with the concurrence of at least three-quarters of all directors present at a board of directors meeting attended by at least two-thirds of all directors, execute matters under this article as decided by the board of directors within the scope of authorization.
+
+## Article 5
+
+When an insurance enterprise engages in transactions other than loans with interested parties, the transactions shall be subject to the following limits:
+
+\1. The aggregate amount of transactions with a single interested party shall not exceed 10% of the shareholders’ equity of the insurance enterprise.
+
+\2. The aggregate amount of transactions with all interested parties shall not exceed 60% of the shareholders’ equity of the insurance enterprise.
+
+The term “all interested parties” mentioned in the preceding paragraph include any of the persons mentioned in the subparagraphs under Paragraph 1 of Article 2 herein and third parties having a relationship mentioned in Paragraph 2 of Article 3 herein.
+
+## Article 6
+
+Except as provided in paragraph 2, the following transactions need not be included in the aggregate amount of transactions mentioned in these Regulations:
+
+\1. Transactions related to merger or dealing with a problem insurance enterprises approved by the competent authority;
+
+\2. Transactions provided in the subparagraphs under Paragraph 3 of Article 4 herein.
+
+\3. Other transactions approved by the competent authority according to law.
+
+The transactions referred to subparagraph 2 of the preceding paragraph,where an insurance enterprise acquires (through investment) or disposes the ETFs issued by an interested party, the amount the ETFs that exceeds 10% of the beneficiary certificates shall be included in the transaction limits prescribed in the preceding article, except as the insurance enterprise acquires or disposes of ETFs issued by an interested party through discretionary investment transactions.
+
+If the aggregate amount of transactions taken place before the implementation of these Regulations exceeds the limits prescribed in these Regulations, the insurance enterprise may not make more transactions. However, the preceding provision does not apply to transactions listed in the  paragraph 1 and contract renewal with the same counterparty for transactions mentioned in Subparagraphs 4, and 6 ~ 8, Paragraph 1 of Article 3 herein.
+
+## Article 7
+
+An insurance enterprise shall establish a datafile on interested parties subject to transaction limits and update such datafile when there is any change of interested parties and shareholding.
+
+## Article 8
+
+An insurance enterprise shall establish code of conduct for transactions with interested parties and trading policies to prevent conflict of interest and other related problems, which shall be approved by the board of directors. The board of directors of an insurance enterprise should also establish the procedures for handling transactions with interested parties.
+
+## Article 9
+
+An insurance enterprise shall observe the following principles when engaging in transactions other than loans with interested parties:
+
+\1. When planning to purchase, lease or sell real estate or other assets from or to an interested party, an insurance enterprise should submit documents evidencing that the transaction price has been independently assessed or the terms of transaction are not more favorable than those offered to other same category counterparties to the board of directors for reference in making decision on the transaction.
+
+\2. When engaging in transactions other than those mentioned in Subparagraph 1 hereof with interested parties, an insurance enterprise shall submit documents evidencing that the terms of transaction are not more favorable than those offered to other same category counterparties to the board of directors for reference in making decision on the transaction.
+
+\3. Before the board of directors decides on a transaction, it shall disclose to all directors existing or potential conflicts of interest, and directors having potential conflict of interest must disclose all relevant facts about the transaction concerned, which shall be included in the minutes of the board of directors meeting.
+
+## Article 10
+
+These Regulations shall enter into force on January 1, 2008.
+
+The amended articles of these Regulations shall be implemented on the date of promulgation.
+
+## History
+
+1.Promulgated on August 29, 2007 per Order Ref. Jin-Kuan-Bao-Yi 09602503691 of the Financial Supervisory Commission, Executive Yuan
+
+2.Articles 4 and 10 amended on June 29, 2012 per Order Ref. Jin-Kuan-Bao-Tsai 10102509812 of the Financial Supervisory Commission, Executive Yuan
+
+3.Articles 4 amended on March 10, 2014 per Order Ref. Jin-Kuan-Bao-Tsai 10302500031 of the Financial Supervisory Commission
+
+4.Articles 3, 4 and 6 amended on June 30, 2017 per Order Ref. Jin-Kuan-Bao-Tsai 10602503031 of the Financial Supervisory Commission
+
+5.As amended on April 28, 2020
+
+6.Articles 4 and 6 amended on January 22, 2025 per Order Ref. Jin-Kuan-Bao-Tsai 11304950181 of the Financial Supervisory Commission

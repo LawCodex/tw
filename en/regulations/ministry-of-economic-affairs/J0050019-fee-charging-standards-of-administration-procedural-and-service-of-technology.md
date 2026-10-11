@@ -1,0 +1,212 @@
+---
+title: "Fee-charging Standards of Administration, Procedural and Service of Technology Industrial Parks"
+title_zh: "科技產業園區管理費規費及服務費收費標準"
+identifier: "J0050019"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞園區管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1998-01-07
+last_amended: 2026-03-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0050019"
+retrieved: 2026-10-12
+---
+
+# Fee-charging Standards of Administration, Procedural and Service of Technology Industrial Parks
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0050019-fee-charging-standards-of-administration-procedural-and-service-of-technology.md](../../../zh/regulations/ministry-of-economic-affairs/J0050019-fee-charging-standards-of-administration-procedural-and-service-of-technology.md)) is authoritative.
+
+## Article 1
+
+This Standards are prescribed pursuant to Paragraph 2, Article 30 of the Act for the Establishment and Administration of Technology Industrial Parks (hereinafter referred to as this Act).
+
+## Article 2
+
+Businesses in the Technology Industrial Parks (hereinafter referred to as the TIP) as prescribed in Paragraph 2, Article 4 of this Act are categorized as follows in respect of the calculation of their administration fees:
+
+\1. Businesses in the TIP shall be categorized in accordance with the industrial classification standard of the Republic of China. Those classified under the manufacturing industry shall be charged at the manufacturing industry rate; those under the wholesale and retail industry shall be charged at the trading industry rate; those under the transportation and warehousing industry shall be charged at the warehousing and transportation industry rate; those under the professional, scientific and technical service industries shall be charged at the service industry rate; and those under the financial and insurance industries shall be charged at the financial and insurance industry rate.
+
+\2. Carriers recognized by the Bureau of Industrial Parks, Ministry of Economic Affairs (hereinafter referred to as the Bureau).
+
+\3. Public or private enterprises that have obtained approval to invest in and construct, lease or sell buildings in the TIP.
+
+\4. Other businesses with a sales or contact office in the TIP, excluding carriers and public or private enterprises that have obtained approval to invest in and construct, lease or sell a building in the TIP.
+
+\5. Businesses with an operational site located in the Kaohsiung Software Park or Kaohsiung Software Second Park.
+
+\6. Businesses with an operational site located in the Taichung Software Park.
+
+\7. For businesses specified in Subparagraphs 1, 5, and 6 that concurrently operate retail business upon approval or businesses specified in Subparagraphs 4, 5, and 6 that engage in retail business, the charging standard prescribed in Table 1 of Article 4 shall apply to their retail business.
+
+## Article 3
+
+Sales turnover referred to in this Standard includes sales revenue, service revenue, commission income, project income, processing income, rental income, transfers of commodities or labor services of businesses in the TIP and their head office or branch office, and other items attributable to operating income.
+
+## Article 4
+
+Administration fees for businesses in the TIP shall be charged based on Table 1 attached.
+
+The administration fees for businesses in the TIP that have some of their operations carried out in different parks shall be specified separately and calculated based on the charging standards specified by the zones/parks where they operate, and collected on a consolidated basis. However, if the annual combined sales turnover of a manufacturing or trading business that operates in different zones/parks is eligible for a regressive rate, the regressive rate may apply to its combined sales turnover.
+
+In the event that the current sales turnover declared pursuant to the aforesaid proviso involves different rate brackets due to regression, the sales turnover generated in the operational site with a later establishment approval date shall be first included in the amount exceeding the applicable range of the regressive rate.
+
+The Bureau may propose adjustments to the administration fees privileges specified in these Charging Standards based on policy needs or special circumstances. Such proposals shall be submitted to the Ministry of Economic Affairs before implementation.
+
+## Article 5
+
+For the businesses that have obtained approval to provide public welfare services in the TIP through open tender procedures conducted by the Bureau or its Branch offices, the administration fees shall be charged in accordance with the amounts specified in the tender documentation by the Bureau or the Branch.
+
+## Article 6
+
+Businesses in the TIP shall pay administration fees starting from the month following approval of their operation; businesses with a sales or contact office in the TIP shall pay administration fees starting from the month following the approval of their operation.
+
+For businesses operating at the parks and charged with administration fees based on the floor area of the building, for the change of business and factory premises from the month following the completion of the amendment of factory registration; and for the business premises other than the factory building from the month following obtaining the usage permit and completing amendment of the building ownership, and the starting and ending days of the lease, or approving the amendment of area, the increase or decrease of the floor area shall be included in the calculation.
+
+## Article 7
+
+Businesses in the TIP that are subject to the administration fees charged based on their sales turnover shall complete and submit a sales turnover and administration fees declaration form for businesses in the TIP before the 20th day of the month following the end of each payment period, and the documents listed below shall be attached. Sales turnover and administration fees shall be declared to the Bureau or the Branch, and the administration fees shall be paid before the last day of the month following the payment period:
+
+\1. A photocopy of the operator’s sales and tax declaration submitted to the revenue service office for the current period. However, this may be waived for those unable to get the operator’s sales and tax declaration.
+
+\2. Details of the receipts. However, this may be waived for those who have listed the amount clearly in the operator’s sales and tax declaration.
+
+\3. A photocopy of the documents certifying the fulfillment of the withholding items. However, this may be waived for sales returns and discounted disposal and income from the sales of fixed assets outside the scope of business if the amount has been clearly listed in the declaration.
+
+\4. Other certificates and documents required by the Bureau or the Branch for the need to review declared materials.
+
+In the event that administration fees of businesses in the TIP shall be charged pursuant to the floor area of the building, the businesses shall pay monthly administration fees before the last day of the month following the end of each payment period.
+
+Other businesses with a sales or contact office in the TIP, apart from public and private enterprises that have obtained approval to invest in and construct, lease or sell a building in the TIP, shall pay administration fees before the last day of the month following the end of each payment period.
+
+Businesses in the TIP may, prior to the deadline specified in the foregoing three paragraphs, apply to the Bureau or the Branch for extension due to justifiable reasons. The period of extension shall be no longer than ten days. The deadline may be extended only three times in a year.
+
+## Article 8
+
+In the event of manufacture or use of products and technologies developed by businesses in the TIP for their head office, branch office, or others, or transfer of commodities and labor service between businesses in the TIP and their head office or branch office, and if the amount is not included in the Business Entity Sales and Income Tax Return, another detailed report, contracts, or other relevant documents shall be submitted.
+
+Electronic documents may be used for the declaration of the sales turnover and administration fees in the first paragraph of the foregoing article and the foregoing paragraph.
+
+## Article 9
+
+In the event of errors in the declaration of industrial classification, businesses in the TIP shall apply to the Bureau or the Branch for modification with certificates issued by certified public accountants or other documents or materials that may serve as proof prior to the closing of the last payment period (end of next January) of the current year. Delayed applications will not be accepted.
+
+In the event of changes in the amount of administration fees resulting from changes of industrial classification, adjustments may be made in the sales turnover declared in the current year, and additional administration fees shall be paid or refunded after the closing of the last payment period of the current year.
+
+Businesses operating at the parks that submit sales correction reports to the competent tax collection agency shall submit relevant supporting documents to the Bureau of Industrial Parks or branch for correction.
+
+## Article 10
+
+Businesses in the TIP may stop paying the administration fees from the month when the company deregistration, revocation or annulment of company registration, or removal from the TIP is approved, or when all of the land and building lease agreements are terminated.
+
+Businesses with a sales or contact office in the TIP may stop paying the administration fees from the month when they wind up their operation in the TIP, when their business registration in the TIP is revoked or annulled, or when the land and building lease agreements are terminated.
+
+Businesses operating in the TIP which record zero sales turnovers due to force majeure or compliance with the policy of the park may apply to the Bureau or the Branch for waiver of administration fees by attaching the relevant documents. However, no refund of administration fees that have already been paid will be made.
+
+Businesses ceasing operation in the TIP may apply for the waiver of administration fees to the Bureau or the Branch one time within the term of one year.
+
+The waiver of administration fees in the foregoing two paragraphs should be canceled, and payment of administration fees should resume immediately from the month of resumption of operation or when it begins to have record of sales, or upon the expiration of waiver of administration fees with the approval of the cessation of operation.
+
+## Article 11
+
+The turnover declared by businesses in the parks includes sales returns and discounts, collection and payment, income from the sale of fixed assets other than the operation of business, income from scrap materials, monetary amount of invoices issued by asset financing, rental income within six months and assets outside the parks. For rental income, administration fees will be exempted if it is verified and supported by sufficient supporting documents.
+
+For payments or receipts on behalf of others included in the sales turnovers mentioned in the foregoing paragraph, exemption should be processed in each payment period. At the end of the year when the company prepares the final accounts and makes a declaration, the amount that appears in the CPA-verified annual final accounts should be submitted to the Bureau or the Branch for future reference. At the same time, application for supplemental payment or refund of administration fees should be made to the Bureau or the Branch with the verified amount as audited by an accountant.
+
+## Article 12
+
+In any of the following situations, sales turnover declared by businesses in the TIP may be excluded from the calculation of administration fees:
+
+\1. The part of purchasing of goods made at the head office, branch office or affiliated companies in the TIP.
+
+\2. The part of commissioned processing entrusted to the head office, branch office or affiliated companies in the TIP.
+
+\3. Dividend income received from businesses at the parks that are not engaging in the trading of securities.
+
+Except for the three Subparagraphs of the preceding Paragraph, the items exempted from administration fees in the preceding Paragraph shall be deducted or exempted on an installment basis. When the company handles the settlement declaration at the end of the fiscal year, the annual final settlement amount certified by the CPA shall be submitted to the Bureau of Industrial Parks for reference while based on the amount reviewed and verified by the CPA paying the full payable administration fees to the Bureau of Industrial Parks or branch or applied for reimbursement.
+
+## Article 13
+
+The charging standards of procedural fees are as follows:
+
+\1. Procedural fee for permission and registration of a factory’s establishment: various fees shall be charged according to the charging standards for applying for permission and registration of a factory’s establishment.
+
+\2. Procedural fee for chattel-loan transaction registration: various fees shall be charged pursuant to the Enforcement Rules of the Personal Property Secured Transactions Act.
+
+\3. Fee for electrician registration: according to the electricity industry’s charging standard.
+
+\4. Construction or miscellaneous license fee: on the basis of 1/1,000 of the construction price of the building.
+
+\5. Fee for issuance of country of origin certificate: charged according to the Regulations Governing Issuance of Certificates of Origin and Certificates of Processing.
+
+\6. Fee for application for permission to erect billboard advertisements: for those fixed on the wall of a building covering an area less than 1.2 square meter, NT$100 per incident; for those covering an area greater than 1.2 square meter, NT$1,000 per incident.
+
+\7. Fee for sales or contact office registration: NT$200 per incident.
+
+\8. Auditing fee for new or altered business waste disposal proposal: charged according to the charging standard of the auditing fee for business waste disposal proposal.
+
+\9. Auditing fee or certificate fee for application of issuance, replacement or re-issuance of a permit for the installation, alteration or operation of fixed pollution sources: a certificate fee is charged according to the charging standard of procedural fees for air pollution control of fixed pollution sources.
+
+\10. Procedural fee for company registration: relevant fees shall be charged pursuant to the Regulations Governing Collection of Company Registration Fees.
+
+## Article 14
+
+Items and charging standards of service fees are as follows:
+
+\1. Fee for providing certification service outside office hours: NT$200 per hour, for at least one hour even if less than one hour is spent; there is a minimum charge for four hours on holidays.
+
+\2. Other approved items of service fees: paperwork charge for entry/exit permit, parking fee (charging standards as shown in Table 2), short-term venue maintenance fee, long-term venue maintenance fee, industrial water supply maintenance fee, sewage system usage fee, and other service fees shall be charged according to the standard approved by the Ministry of Economic Affairs.
+
+## Article 15
+
+All fees stipulated in this Standard shall be paid within the deadline as listed on the respective payment slips.
+
+## Article 16
+
+Collection of all fees stipulated in this Standard shall be processed according to the budgeting procedure.
+
+## Article 17
+
+These Standards shall enter into force on the date of promulgation.
+
+## Attachments
+
+- [Table 1 Administration fees and Charging Standards for Businesses Operating in the TIP.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009759)
+- [Table 2 Parking Fees and Charging Standards for Parking Spaces／Lots in the TIP.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009760)
+
+## History
+
+1.Promulgated on January 7, 1998
+
+2.Amended on December 23, 1998
+
+3.Amended on December 28, 2000
+
+4.Amended on June 12, 2002
+
+5.Amended on February 26, 2003
+
+6.Amended on November 29, 2005
+
+7.Amended on October 22, 2008
+
+8.Amended on January 26, 2011
+
+9.Amended on April 17, 2014
+
+10.Amended on November 26, 2015
+
+11.Amended on September 27, 2018
+
+12.Amended on April 27, 2020
+
+13.Amended on April 6, 2021
+
+14.Amended on November 6, 2023
+
+15.Amended on November 8, 2024
+
+16.Amended on March 3, 2026

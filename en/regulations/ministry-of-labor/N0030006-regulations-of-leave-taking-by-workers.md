@@ -1,0 +1,127 @@
+---
+title: "Regulations of Leave-Taking by Workers"
+title_zh: "勞工請假規則"
+identifier: "N0030006"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞勞動條件及就業平等目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1985-03-20
+last_amended: 2025-12-09
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030006"
+retrieved: 2026-10-12
+---
+
+# Regulations of Leave-Taking by Workers
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0030006-regulations-of-leave-taking-by-workers.md](../../../zh/regulations/ministry-of-labor/N0030006-regulations-of-leave-taking-by-workers.md)) is authoritative.
+
+## Article 1
+
+The Rules are prescribed pursuant to Article 43 of the Labor Standards Act (hereinafter referred to as the Act).
+
+## Article 2
+
+On the wedding day, a worker shall be entitled to eight days of wedding leave with pay.
+
+## Article 3
+
+Funeral leave of a worker shall be given according to the following stipulations:
+
+\1. On the death of a parent, foster-parent, step-parent, spouse, a worker shall be entitled to eight days of funeral leave with pay;
+
+\2. On the death of a grand-parent, son or daughter, parent of spouse, foster-parent or step-parent of spouse, a worker shall be entitled to six days of funeral leave with pay;
+
+\3. On the death of a great-grandparent, brother or sister, grand-parent of spouse, a worker shall be entitled to three days of funeral leave with pay.
+
+## Article 4
+
+When a worker must receive medical treatment or rest on account of ordinary injury, sickness, or physical reasons, he shall be entitled to ordinary sickness leave according to the following provisions:
+
+\1. For the non-hospitalized, a total of less than thirty days in one year;
+
+\2. For the hospitalized, not exceeding one year within two years;
+
+\3. The total of hospitalized and non-hospitalized sick leave shall not exceed one year within two years;
+
+when a worker diagnosed with cancer（including carcinoma in situ）or pregnancy with threatened abortion by physician, the out-patient treatment period shall be included in the hospitalized sick leave.
+
+Where the accounted for ordinary sick leave does not exceed thirty days in one year, fifty percent of salary shall be paid. In cases where Labor Insurance payments do not reach fifty percent of salary, the employer shall make up the difference.
+
+## Article 5
+
+In the event of the ordinary sick leave exceeding the time limit mentioned in Paragraph 1 of the preceding Article, and the worker has not recovered after obtaining normal leave or special leave, he shall be entitled to work suspension without pay for a maximum period of one year.
+
+## Article 6
+
+In the event of disability, injury, or sickness on account of an occupational accident, a worker shall be entitled to occupational sickness leave during the period of medical treatment or recuperation.
+
+## Article 7
+
+In the event of matters which a worker must personally deal with, the worker shall be entitled to normal leave without pay not exceeding fourteen days in one year.
+
+For the purpose of taking personal care of family members, a worker may, unless otherwise provided in the Act or other laws, apply for personal leave in accordance with the preceding paragraph, and may elect to take leave in units of hours.
+
+## Article 8
+
+A worker shall be entitled to public leave with pay according to legal regulations, the time limit of which shall be determined by actual requirements.
+
+## Article 9
+
+In any of the following circumstances, employers may not treat it as a non-attendance and affect adversely the employees' full-attendance bonus payments. Where other laws provide otherwise, such provisions shall govern:
+
+\1. The worker takes marriage leave, bereavement leave, occupational injury or illness leave, or official leave.
+
+\2. The worker suffers a miscarriage before three months of pregnancy and, without taking maternity leave, takes ordinary sick leave.
+
+\3. The worker, for the purpose of taking personal care of family members, takes personal leave in accordance with Article 7.
+
+Where a worker takes ordinary sick leave other than that under Subparagraph 2 of the preceding paragraph, any deduction from the worker’s perfect attendance bonus shall be calculated on a pro rata basis according to the number of days of ordinary sick leave taken. Provided that where the employer and the worker have agreed otherwise on terms more favorable than the laws and regulations, such agreement shall govern.
+
+## Article 9-1
+
+Where the number of days of ordinary sick leave taken by a worker within one year does not exceed ten days, the employer shall not take adverse action against the worker on the ground that the worker has taken ordinary sick leave, unless otherwise provided in these Regulations or other laws, in which case such provisions shall govern.
+
+Where a worker suffers adverse action due to taking ordinary sick leave, the employer shall bear the burden of proof as to the facts demonstrating that such adverse action is unrelated to the worker’s taking of ordinary sick leave.
+
+Where a worker takes ordinary sick leave exceeding the number of days specified in Paragraph 1, the employer, when conducting relevant personnel assessments, shall still make an overall assessment based on the worker’s work capability, work attitude, and actual performance, and shall not consider solely the number of days of ordinary sick leave taken as an assessment factor.
+
+## Article 10
+
+When a worker demands leave, he shall make prior oral or written statements giving the reasons and time for such leave; but, in case of emergency, he may entrust another person to make the leave request for him. The employer may demand the worker to submit relevant documentary evidence.
+
+## Article 11
+
+In the event of violations of the stipulations of the Rules on the part of an employer or worker, the competent authority may deal with them in accordance with the relevant stipulations of the Act.
+
+## Article 12
+
+The Regulations shall become effective on the day of promulgation.
+
+The provisions of these Regulations amended and promulgated on December 9, 2025 shall be effective on January 1, 2026.
+
+## History
+
+1.Approved by the Executive Yuan on March 18, 1985 by the Memorandum of Tai-74-Nei-Tze-No. 4722.
+
+Promulgated by the Ministry of Interior on March 20, 1985 by the Order of Tai-74-Nei-Lao-Tze-No. 296501.
+
+Promulgated by the Executive Yuan on May 20, 1986 by the Memorandum of Tai-85-lao-Tze-no. 15198.
+
+2.Amended article 4, 7 and promulgated by the Council of Labor Affairs of the Executive Yuan on July 1, 1986 by the Order of Lao-Tung-2-Tze-No. 122396.
+
+3.Amended article 3 and promulgated by the Council of Labor Affairs of the Executive Yuan on June 8, 2005 by the Order of Lao-Tung-2-Tze-No. 0940029639.
+
+4.Amended on May 04, 2010
+
+5.Amended on October 14, 2011
+
+6.Amended on January 15, 2019
+
+7.Amended on May 1, 2023
+
+8.Amended and promulgated Article 7,9,9-1 and 12 of the Rules by the Order of Ministry of Labor No.1140149214 on December 9,2025, and shall be effective January 1, 2026.

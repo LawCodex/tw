@@ -1,0 +1,101 @@
+---
+title: "Regulations for Guidance on Internet Protocol Address and Top Level Domain Name Registration Services"
+title_zh: "網際網路位址及頂級網域名稱註冊管理業務輔導辦法"
+identifier: "K0060117"
+type: regulation
+law_level: "命令"
+category: "行政＞數位發展部＞資源管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-01
+last_amended: 2022-11-08
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060117"
+retrieved: 2026-10-12
+---
+
+# Regulations for Guidance on Internet Protocol Address and Top Level Domain Name Registration Services
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-digital-affairs/K0060117-regulations-for-guidance-on-internet-protocol-address-and-top-level-domain-name.md](../../../zh/regulations/ministry-of-digital-affairs/K0060117-regulations-for-guidance-on-internet-protocol-address-and-top-level-domain-name.md)) is authoritative.
+
+## Article 1
+
+The Regulations is promulgated in accordance with the last paragraph of Section 4, Article 71 of Telecommunications Management Act.
+
+## Article 2
+
+The competent authority referred to in the Regulations is the Ministry of Digital Affairs.
+
+## Article 3
+
+The terms used in the Regulations are defined as follows：
+
+\1. Internet Protocol Address（hereinafter referred to as IP Address）: It refers to the address that is allocated according to the internet protocol for identifying the location of the device on the internet.
+
+\2. Domain Name: It refers to the hierarchical naming system consisting of letters, numbers or special symbols, separated by "dot," according to the Internet Protocol.
+
+\3. International Organizations:
+
+These include the Internet Corporation for Assigned Names and Numbers（hereinafter referred to as ICANN）, and the Asia Pacific Network Information Centre（hereinafter referred to as APNIC）, which is responsible for the management and distribution of IP address in the Asia Pacific region.
+
+\4. Top-Level Domain Name（hereinafter referred to as TLD）: It refers to the top of the Domain Name tree hierarchy, that is, the combination of letters or strings after the "dot" at the right end of Domain Name. The top-level domains are divided into Country Code top-level domains and generic top-level domains.
+
+\5. Country Code Top-Level Domain（hereinafter referred to as ccTLD）: It refers to the top-level domain name recognized by ICANN to represent a country or an independent economy.
+
+\6. Generic Top-Level Domain（hereinafter referred to as gTLD）: It refers to the top-level domain name recognized by ICANN other than those prescribed in the preceding paragraph.
+
+\7. IP Address Registration Service: It refers to the issuance and management of registration information of IP addresses and autonomous system numbers, and the provision of related registration management services.
+
+\8. Top-Level Domain Registration Service: It refers to management of the registration information of top-level domain name, regular operation of the system and relevant management services of the top-level domain name.
+
+\9. Internet Registry（hereinafter referred to as IR）: It refers to the organization of judicial person recognized by International Organizations and engaged in the management of IP Address registration.
+
+\10. Top-Level Domain Name Registry: It refers to an organization of judicial person recognized by ICANN and engaged in the management of ccTLD or gTLD.
+
+## Article 4
+
+The purpose of the Regulations is for providing guidance to IR and top-level domain name registry, including ccTLD registry and gTLD registry.
+
+## Article 5
+
+The competent authority may participate in ICANN for consultation or cooperation and share the information with IR and top-level domain name registry to facilitate the development and effectiveness of the internet.
+
+## Article 6
+
+The competent authority may provide counseling and guidance services to assist IR and top-level domain name registry in handling the following matters:
+
+\1. The study of related policies and technologies on IP address or domain name
+
+\2. The promotion of the operational security and efficiency improvement of IP address or domain name
+
+\3. Personnel training of related technologies on IP address or domain name
+
+\4. The technology development and business planning and promotion of IP address or domain name.
+
+\5. Participation in and information sharing of related international conferences and activities on IP address and domain name
+
+## Article 7
+
+The competent authority may inquire about opinions from all walks of life or convene meetings in order to formulate plans to conduct the preceding matters.
+
+## Article 8
+
+The competent authority or other authorities shall provide financial budget for the expenses to implement the Regulations.
+
+## Article 9
+
+The competent authority may delegate to its subordinate entities or commission to other related authorities, organizations, juridical persons, or groups in implementation of the Regulations.
+
+## Article 10
+
+\1. The effective date of the Regulations shall be decided by the competent authority.
+
+\2. The amended regulation shall take effect on August 27, 2022.
+
+## History
+
+1.Promulgated on July 10, 2020
+
+2.The amended Article 2 and Article 10 were amended and promulgated by moda Order No.11160003361

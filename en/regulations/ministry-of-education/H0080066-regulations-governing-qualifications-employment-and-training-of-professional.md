@@ -1,0 +1,117 @@
+---
+title: "Regulations Governing Qualifications, Employment, and Training of Professional Family Education Personnel and Professionals in Social Work Related Fields"
+title_zh: "家庭教育專業及社會工作相關專業人員資格進用及培訓辦法"
+identifier: "H0080066"
+type: regulation
+law_level: "命令"
+category: "行政＞教育部＞終身教育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-08-19
+last_amended: 2022-11-11
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0080066"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Qualifications, Employment, and Training of Professional Family Education Personnel and Professionals in Social Work Related Fields
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-education/H0080066-regulations-governing-qualifications-employment-and-training-of-professional.md](../../../zh/regulations/ministry-of-education/H0080066-regulations-governing-qualifications-employment-and-training-of-professional.md)) is authoritative.
+
+## Article 1
+
+These Regulations have been formulated in accordance with the provisions of Article 7, Paragraph 4 of the Family Education Act (hereunder referred to as “the Act”).
+
+## Article 2
+
+Any person who meets one of the following eligibility criteria may apply to the Ministry of Education (hereunder abbreviated to “the MOE”) for recognition as a family education personnel professional:
+
+\1. The person graduated from a family education department, graduate school, or degree program at a university in Taiwan or a university overseas, or from a department, graduate school, or degree program that contains the word "family" in its name at a university in Taiwan or a university overseas, and the person obtained at least 20 course credits completing professional family education courses.
+
+\2. The person graduated from a department, graduate school, or degree program, at a university in Taiwan or at a university overseas, in the field of education, social education, adult or continuing education, early childhood education, educational psychology and counseling, social work, science of living, or applied science of living and obtained at least 20 course credits completing professional family education courses. and the person has at least one year of practical work experience in family education.
+
+\3. The person graduated from a department, graduate school, or degree program at a university in Taiwan or at a university overseas in a field not related to any of those referred to in the preceding two subparagraphs, and the person obtained at least 20 course credits completing professional family education courses and has at least three years of practical work experience in family education.
+
+\4. The person graduated from a department, graduate school, or degree program at a university in Taiwan or a university overseas, in a field not related to any referred to in Subparagraph 1 and Subparagraph 2, and the person has obtained a professional qualification certificate overseas in a field related to family education and has at least two years of practical work experience in family education in Taiwan.
+
+\5. The person has or has held a post as a full-time teacher teaching one or more professional family education courses at a university in Taiwan or at a university overseas, and the person has at least one year of practical work experience in family education.
+
+The provisions of Articles 3 to 11 of the Regulations Governing the Assessment and Recognition of Foreign Academic Records by Institutions of Higher Education shall apply, mutatis mutandis, to the assessment and recognition of any academic records and credentials referred to in the preceding paragraph that were obtained overseas.
+
+The provisions governing the subjects and credits for the professional family education courses referred to in Paragraph 1 are set out in the attached Schedule.
+
+The term "practical work experience in family education" used in Subparagraphs 2 to 5 of Paragraph 1 refers to conducting activities and providing services related to family education within the scope of family education defined in Article 2 of the Enforcement Rules for the Act, at any institution, agency, educational institution, legal person, or organization that promotes and implements family education.
+
+The number of years of work experience referred to in the preceding paragraph shall be calculated as stipulated below, and the numbers of years at different periods may be combined:
+
+\1. Full-time work: count the verified number of years worked.
+
+\2. Part-time work: count half the number of years undertaking part-time work.
+
+\3. Voluntary work:
+
+(1) If the person has done volunteer work for two full years and completed at least 400 hours of service: this is counted as one year.
+
+(2) If the person has done volunteer work for four full years and completed at least 800 hours of service: this is counted as two years.
+
+(3) If the person has done volunteer work for six full years and completed at least 1,200 hours of service: this is counted as three years.
+
+The recognition of the volunteer work referred to in Subparagraph 3 of the preceding paragraph shall be handled in accordance with the relevant provisions of the Volunteer Service Act.
+
+## Article 3
+
+A person applying for recognition of their qualifications in accordance with these Regulations shall complete an application form and submit  the following documentary evidence:
+
+\1. Their national ID card, a valid passport, or documentary evidence of legal visit, residency, or permanent residency status.
+
+\2. Documentary evidence that they meet the academic and work experience requirements set out in the preceding article.
+
+\3. Other related documentary evidence.
+
+The documentary evidence referred to in Subparagraph 2 of the preceding paragraph that is evidence of credits obtained studying at a university in Taiwan includes documentary evidence of credits obtained undertaking continuing education in accordance with the implementation regulations governing continuing education offered by a junior college, tertiary college, or university, and of credits obtained undertaking any non-formal education program(s) in accordance with the regulations governing recognition of non-formal education learning achievements.
+
+If the name of any professional family education course completed by the applicant is different from the name of a corresponding course listed in the Schedule referred to in Paragraph 3 of the preceding article, the applicant shall submit the course syllabus, details of the teaching materials used, and basic information about the teacher(s) who taught the course. A course that has passed the review process shall  be recognized.
+
+An applicant who has a foreign degree, graduation certificate, or some other professional qualification certificate related to the field of family education shall have their foreign document authenticated by a diplomatic mission of the Republic of China.
+
+If any of the documentary evidence referred to in the preceding paragraph is in a language other than Chinese or English, it shall be accompanied by a Chinese or English translation and have been authenticated by a diplomatic mission of the Republic of China, a court of law, or a notary public in Taiwan.
+
+## Article 4
+
+If the application referred to in the preceding article is reviewed and approved and the applicant’s qualifications are recognized, the MOE will issue a professional family education personnel qualification certificate (hereunder referred to as "Family Education Professional Certificate").
+
+If a Family Education Professional Certificate is lost or damaged or if there is any change to the details recorded, an application may be submitted to the central competent authority for a replacement or a new certificate to be issued.
+
+If any information or material provided by an applicant is found to be false or untrue, the MOE will not issue a Family Education Professional Certificate and the matter will be handled in accordance with the provisions of relevant laws and regulations; if a Family Education Professional Certificate has already been issued, the MOE will notify the person to whom it was issued that it must be returned within a prescribed time limit and publicly announce its revocation.
+
+## Article 5
+
+The "personnel who are professionals in social work related fields" referred to in Article 7, Paragraph 2 of the Act shall have the qualifications required to be eligible to sit for the examinations set out in the provisions of Article 5 of the regulations governing eligibility to sit for the Senior Professional and Technical Examinations in the Social Work Category.
+
+## Article 6
+
+When employing any professional family education personnel and or personnel who are professionals in any social work related field, the competent authority at the special municipality, county, or city level municipal, county, or city competent authority shall set up a selection committee and conduct a public selection process.
+
+## Article 7
+
+Newly appointed family education professionals and professionals in social work related fields shall receive pre-service training organized by the family education center of the special municipality, county, or city, or by the competent authority at the special municipality, county, or city level.
+
+In accordance with the provisions of Article 9, Paragraph 2 of the Act, professional family education personnel and social work related professional personnel shall also participate in family education related professional workshops conducted by the competent authority at the special municipality, county, or city level, or by an agency, university, legal person, or organization. If s personnel member has been employed for less than one year, the number of workshop hours that they are required to complete that year shall be calculated on a pro rata basis, based on the number of months they have been employed; any period less than a full month will not be counted.
+
+## Article 8
+
+These Regulations shall come into effect on the date of promulgation.
+
+## Attachments
+
+- [Schedule referred to in Article 2 Subjects and Credits for Professional Family Education Courses.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007742)
+
+## History
+
+\1. Ministry of Education Order Tai-Can-Zi No. 0930108458A adopted and issued on August 19, 2004: full text of 12 articles; coming into effect on the date of issue.
+
+\2. Ministry of Education Order Tai-Jiao-She- (2)-Zi No. 1080162998B issued on November 21, 2019: amendment of the full text, now of eight articles, and the title changed to 'Regulations Governing Qualifications, Employment, and Training of Professional Family Education Personnel and Professionals in Social Work Related Fields', coming into effect on the date of issue.
+
+\3. Ministry of Education Order Tai-Jiao-She-(2)-Zi No. 1112404880A issued on November 11, 2022: amendment of Articles 2, 3, and 4.

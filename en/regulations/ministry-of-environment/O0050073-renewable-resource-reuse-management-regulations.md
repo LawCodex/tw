@@ -1,0 +1,193 @@
+---
+title: "Renewable Resource Reuse Management Regulations"
+title_zh: "再生資源再使用管理辦法"
+identifier: "O0050073"
+type: regulation
+law_level: "命令"
+category: "行政＞環境部＞資源循環目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2003-06-25
+last_amended: 2025-11-21
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050073"
+retrieved: 2026-10-12
+---
+
+# Renewable Resource Reuse Management Regulations
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-environment/O0050073-renewable-resource-reuse-management-regulations.md](../../../zh/regulations/ministry-of-environment/O0050073-renewable-resource-reuse-management-regulations.md)) is authoritative.
+
+## Article 1
+
+These Regulations are determined pursuant to Article 15, Paragraph 2 of the Resource Recycling Act (herein referred to as "this Act").
+
+## Article 2
+
+These Regulations shall apply to the following renewable resource items.
+
+\1. Reusable renewable resource items officially announced by the Ministry of Environment (herein referred to as "the MOENV") pursuant to Article 15, Paragraph 1 of this Act
+
+\2. Reusable renewable resource items for which an application has been made to the MOENV and approved pursuant to Article 15, Paragraph 5
+
+## Article 3
+
+The MOENV may draft official announcements on reusable renewable resources in consideration of economic and technical feasibility assessment reports on the reuse of renewable resource submitted by a central industry competent authority, reuse industry competent authority, local competent authority, group, enterprise or individual (herein referred to as the "applicant").
+
+## Article 4
+
+All economic and technical feasibility assessment reports on the reuse of renewable resource in the foregoing article shall include the following content.
+
+\1. Relevant legal standards, including relevant environmental protection and product laws and regulations, renewable resource and resource recovery product quality standards
+
+\2. Current state and characteristics of domestic output of reusable renewable resources, including renewable resource characteristics, output, distribution and uses
+
+\3. Current state of domestic and foreign recycling, including current state of foreign recycling, domestic recycling plant information and current recycling approaches and circumstances
+
+\4. Technical feasibility analysis, including an explanation of reuse technology and analysis of technical feasibility
+
+\5. Economic feasibility analysis, including an explanation of domestic demand for reusable renewable resources and recyclable products, cost effectiveness and economic impact assessment
+
+\6. Analysis of factors influencing recycling, including recycling market assessment, recyclers’ willingness to comply, possible impacts after official announcement and matters requiring interagency coordination
+
+\7. Conclusions and recommendations
+
+## Article 5
+
+The MOENV may invite applicants, relevant agencies, relevant enterprises, industry association representatives, experts and specialists to perform a preliminary review after receiving an economic and technical feasibility assessment report on the reuse of renewable resource.
+
+The applicant shall revise the economic and technical feasibility assessment report on the reuse of renewable resource in accordance with recommendations raised in the preliminary review, and shall then deliver the assessment report to the MOENV for submission to the Renewable Resource Recycling Promotion Committee for deliberation. The MOENV shall officially announce the items pursuant to Article 15, Paragraph 1 of these Regulations after the report been deliberated and approved.
+
+After reusable renewable resource items have been officially announced, the MOENV shall regularly review the reusable renewable resource items in accordance with the actual circumstances of implementation, economic and technical feasibility, and changes in factors influencing recycling.
+
+## Article 6
+
+Reuse enterprises engaged in the reuse of renewable resources at a certain scale shall fill out an application form and submit it along with the following documents to the special municipality, county or city competent authority (herein referred to as "the competent authority") of the place of the reuse facility (plant) for registration.
+
+\1. Relevant company or commercial registration documents or relevant verification documents for the approval of establishment by the industry competent authority
+
+\2. Personal identification document of the statutory responsible person
+
+\3. Reuse facility (plant) land ownership title, land registration (register) transcript and land parcel list; attach proof of land use zoning if it’s in an urban planning district; attach land use letter of consent or verification documents for use approval or consent for application to register from a publicly-owned land management agency if the land is not self-owned
+
+\4. Reusable renewable resource items, reuse technology and methods, reuse capacity and derivative waste disposal methods
+
+\5. Other documents designated by the MOENV.
+
+Reuse enterprises shall perform reuse work in accordance with the content of the registration in Subparagraph 4 of the foregoing paragraph, and may not engage in any unregistered matters.
+
+Apart from the application form which shall be the original, photocopies of all other documents for the reuse enterprise registration application may be submitted for review by the competent authority.
+
+The MOENV shall separately determine the reuse enterprise’s scale in Paragraph 1.
+
+## Article 7
+
+If the competent authority determines that a reuse enterprise is required to make corrections after processing the registration application documents of said enterprise, the competent authority shall notify the reuse enterprise to make corrections within ten days of receiving the application. The competent authority may, when necessary, request the reuse enterprise to present original registration application documents for checking.
+
+## Article 8
+
+A reuse enterprise shall perform registration changes in accordance with the following rules.
+
+\1. Those reuse enterprises seeking to change the name or address of their organization, or the name, residential address, or personal identification document number of their statutory responsible person shall submit verification documents for the changed items to the competent authority to perform the change of registration within 15 days after the change occurs.
+
+\2. The reuse enterprise shall implement changes to the content of any other registration documents in accordance with the registration application rules in these Regulations before such changes occur.
+
+If any of the changes in the foregoing paragraph necessitates a transfer to a different competent authority, the reuse enterprise shall apply to the originally registering competent authority, and shall transfer to the competent authority after the change when the originally registering competent authority has accepted the application.
+
+## Article 9
+
+The competent authority shall deliver compiled data for reuse enterprise registrations and registration changes from the previous month to the MOENV for audit purposes before the fifth day of each month.
+
+## Article 10
+
+Those reuse enterprises that have terminated or temporarily suspended operations for more than six months shall handle renewable resources that have not been fully reused in accordance with the competent authority's instructions, the required expenses for which shall be born by the reuse enterprise.
+
+Renewable resources in the foregoing paragraph that cannot be reused shall be handled pursuant to Article 19 of these Regulations.
+
+## Article 11
+
+The special municipality, county or city bureau of environmental protection (herein referred to as the "enforcement authority") of the place of production shall reuse renewable resources produced by households and other non-industrial users. However, the enforcement authority may commission a legally registered reuse enterprise to perform reuse after requesting and receiving approval from the higher competent authority.
+
+Enterprises shall themselves reuse renewable resources they produce or commission a legally registered reuse enterprise to reuse such renewable resources. However, those enterprises that have obtained the consent of the enforcement authority may commission another entity to reuse such renewable resources.
+
+## Article 12
+
+Reuse enterprises shall record and properly preserve for three years for auditing purposes recyclable recovery dates, types, names, quantities, uses, producer names, reuse routes, production and sales circumstances, and proof of derivative waste disposal.
+
+Reuse enterprises shall submit a written report of operating statistics for the previous quarter to the competent authority by the 15th of January, April, July and October every year. However, those reuse enterprises required to report online via the Internet as officially announced pursuant to these Regulations shall do so in accordance with regulations.
+
+The competent authority shall compile and deliver to the MOENV for filing reported data and the situation of renewable resource reuse by the implementing authorities before the end of every January, April, July and October.
+
+## Article 13
+
+Vehicles and machinery when clearing and transporting reusable renewable resources shall prevent the airborne dispersion, splashing or spillage of recoverable renewable resources, the diffusion of foul odors, explosions, and all other circumstances that may pollute the environment or endanger human health.
+
+Clearance and transport identification documents shall be carried at all times in vehicles that clear and transport reusable renewable resources. However, in those circumstances in which an official announcement has been made pursuant to Article 15, Paragraphs 1 and 5 of these Regulations and other regulations governing reusable renewable resources approved by the MOENV, clearance and transportation may be performed in accordance with such regulations.
+
+Different reusable renewable resource items shall be cleared and transported separately unless other regulations and management methods for reusable renewable resource items officially announced by the MOENV or the content of an approved plan apply.
+
+Those who clear or transport reusable renewable resources shall immediately adopt emergency response measures when circumstances that may pollute the environment or endanger human health occur during the transport process, for which the MOENV shall determine the relevant regulations.
+
+## Article 14
+
+The storage of reusable renewable resources shall comply with the following rules.
+
+\1. The operator shall keep the storage site, containers and facilities clean and in good condition. There may be no airborne release, fugitive emissions or leakage of material, no pollution of the ground surface, and no diffusion of foul odors.
+
+\2. Storage containers and facilities shall be compatible with the reusable renewable resources they contain. Different reusable renewable resources shall be stored separately.
+
+\3. In those circumstances in which it is necessary to stack reusable renewable resources, the reusable resources shall be stacked in separate areas. Stack height shall not exceed five meters. Aisles at least one meter in width shall be left between each area, and appropriate measures shall be taken to prevent falling or collapse of stacked reusable renewable resources.
+
+\4. Other regulations and matters governing storage methods and management methods for reusable renewable resource items officially announced by the MOENV or the content of an approved plan shall apply.
+
+Compatibility in Subparagraph 2 of the foregoing paragraph means that contact between the reusable renewable resources and containers or facilities does not generate heat or cause a violent reaction, fire or explosion, or generate a flammable or hazardous fluid, or cause the containing materials to deteriorate and thereby reduce their pollution control effectiveness.
+
+## Article 15
+
+Facilities used for the storage of reusable renewable resources shall comply with the following rules.
+
+\1. There shall be equipment or measures to prevent pollution of surface water bodies, groundwater bodies, air and soil.
+
+\2. The names of reusable renewable resources shall be marked in Chinese in clearly visible locations at the storage site and on containers and facilities.
+
+\3. There shall be necessary equipment or measures to prevent reusable renewable resources from falling, spilling, leaking, releasing foul odors or influencing the environmental quality of the surrounding area.
+
+\4. A fence shall be installed around the storage site (plant).
+
+\5. Fire prevention equipment shall be installed at the storage site (plant).
+
+\6. Other regulations and matters governing storage facilities and management methods for reusable renewable resource items officially announced by the MOENV or the content of an approved plan shall apply.
+
+## Article 16
+
+All facilities established by a reuse enterprise for the reuse of renewable resources shall comply with the following rules.
+
+\1. All facilities shall have a strong foundation structure.
+
+\2. Surfaces of the facilities that may come into contact with reusable renewable resources shall be made of an impermeable material. When necessary, they shall also be made of a corrosion-resistant material.
+
+\3. There shall be pollution-control facilities.
+
+\4. There shall be fire and explosion prevention and alarm functions.
+
+\5. Other regulations and matters governing reuse facility standards and management methods for reusable renewable resources officially announced by the MOENV or the content of an approved plan shall apply.
+
+## Article 17
+
+The competent authority shall handle violations of Article 10, Article 12, Paragraph 1, or Articles 13 through 16 pursuant to Article 26, Paragraph 1, Subparagraph 4 of these Regulations.
+
+## Article 18
+
+The central competent authority shall determine the format of relevant documents and verification and identification documents designated in these Regulations.
+
+## Article 19
+
+These Regulations shall take effect on the date of promulgation.
+
+## History
+
+\1. Promulgated by Environmental Protection Administration order on June 25, 2003.
+
+\2. Revisions to all 19 articles promulgated by the Ministry of Environment on November 21, 2025.

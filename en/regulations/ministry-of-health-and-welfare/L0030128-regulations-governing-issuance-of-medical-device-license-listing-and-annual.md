@@ -1,0 +1,357 @@
+---
+title: "Regulations Governing Issuance of Medical Device License, Listing and Annual Declaration"
+title_zh: "醫療器材許可證核發與登錄及年度申報準則"
+identifier: "L0030128"
+type: regulation
+law_level: "命令"
+category: "行政＞衛生福利部＞食品藥物管理目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2021-04-29
+last_amended: 2023-11-27
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030128"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Issuance of Medical Device License, Listing and Annual Declaration
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-health-and-welfare/L0030128-regulations-governing-issuance-of-medical-device-license-listing-and-annual.md](../../../zh/regulations/ministry-of-health-and-welfare/L0030128-regulations-governing-issuance-of-medical-device-license-listing-and-annual.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+### Article 1
+
+The Regulations are stipulated in accordance with Article 29 of the Medical Devices Act (hereinafter referred to as "the Act").
+
+### Article 2
+
+The terms used in the Regulations are defined as follows:
+
+\1. Manufacture and free sale certificate of the country of origin: refers to a certification document issued by the highest health authority or agency of the country where an imported medical device is manufactured that verifies the medical device is manufactured and sold freely in that country.
+
+\2. Foreign original manufacturer authorization letter: refers to an authorized agent letter issued by the foreign original manufacturer of an imported medical device.
+
+\3. In Vitro Diagnostic Device (IVD): refers to a reagent, instrument, software, or system used to collect, prepare, or test specimens from human body in order to diagnose disease, determine the state of health or other conditions.
+
+\4. Predicate device: refers to a medical device that has obtained domestic license or listing and meets one of the following conditions:
+
+(1) It has the same intended use and technical characteristics as the proposed medical device applying for license or listing.
+
+(2) It is a medical device other than the one referred to in the preceding subparagraph, has the same intended use as the proposed medical device applying for license or listing, and has different technical characteristics but which do not affect product safety and efficacy.
+
+## Chapter 2 Registration and Market Approval of Medical Device and Issuance of License
+
+### Article 3
+
+Applicants who apply for a license issued by the registration and market approval to manufacture or import medical devices shall submit documents and information in accordance with the provisions of Articles 5 and 6 and pay the fee to the central competent authority for submission.
+
+To apply for the registration and market approval referred to in the preceding paragraph for items announced by the central competent authority, applicants shall follow the testing notice issued by the central competent authority, pay the testing fee by the designated deadline, and submit sufficient samples necessary for testing to conduct testing procedures. However, this does not apply to those exclusively for export.
+
+Registration particulars for the license referred to in Paragraph 1 are as follows:
+
+\1. Chinese and English product names.
+
+\2. Name of the medical device firm.
+
+\3. Name and address of the medical device manufacturer.
+
+\4. Effectiveness, intended use, or indication.
+
+\5. Ingredients, materials, structures, specifications, or model number of the medical device.
+
+\6. Labels, instructions, or packaging.
+
+\7. Manufacturing license number.
+
+\8. Other registration particulars that have been designated by the central competent authority.
+
+### Article 4
+
+The product name of a medical device referred to in the preceding article shall comply with the following provisions:
+
+\1. It shall not use the medical device trademark or firm name of others. However, this shall not apply when said product has obtained the trademark or the use has been authorized.
+
+\2. It shall not be the same as or similar to the medical device product name of other firms, thereby causing confusion with the medical devices of other firms.
+
+\3. It shall not involve any false or exaggerated statements, or lead people to have improper association or confusion on the intended use and effectiveness of medical device.
+
+\4. The Chinese product name shall not contain any characters in other language or any numbers. However, this shall not apply when the central competent authority deems that they have direct meaning or the English trademark has special meaning.
+
+\5. The Chinese and English product names of medical devices exclusively for export shall not be the same as the Chinese and English product names of medical devices that are sold domestically.
+
+The determination of medical device product names being the same or similar shall be decided based on the precedence of trademarks, company names, or other identifiable names.
+
+### Article 5
+
+For an application of registration and market approval to manufacture or import Class 1 medical devices, the documents and information that shall be submitted are specified in Appendix 1.
+
+For the application set forth in the preceding paragraph, the central competent authority may waive approval of registration particulars specified in Subparagraphs 5 and 6 of Paragraph 3 of Article 3.
+
+### Article 6
+
+For an application of registration and market approval to manufacture or import Class 2 or Class 3 medical devices, except as stipulated in the provisions of Paragraph 2 of Article 19, the documents and information that shall be submitted are specified in Appendix 2 and Appendix 3.
+
+For the application set forth in the preceding paragraph, the central competent authority may waive approval of registration particulars specified in Subparagraphs 5 and 6 of Paragraph 3 of Article 3 if the products are exclusively for export.
+
+### Article 7
+
+After receiving an application of registration and market approval, the central competent authority shall conduct a formality review of application documents and information.
+
+If the formality review set forth in the preceding paragraph finds application documents and information are not ready such that corrections can be made, the central competent authority shall notify the applicant to make corrections within one month. Failure to make corrections by the designated deadline shall subject the application to rejection.
+
+### Article 8
+
+After completing the formality review set forth in the preceding article, the central competent authority shall conduct a substantial review.
+
+If the substantial review set forth in the preceding paragraph finds application documents and information are not complete or sufficient such that corrections can be made, the central competent authority shall notify the applicant to make corrections within three months. Failure to make corrections by the designated deadline shall subject the application to rejection.
+
+### Article 9
+
+If any of the following circumstances applies to an application, the applicant may submit supporting documents and information to apply for priority review with the central competent authority:
+
+\1. For use in the prevention, diagnosis, or treatment of life-threatening diseases or diseases causing severe disability, with no appropriate medication, medical device, or suitable alternative treatment available yet domestically.
+
+\2. For use in the prevention, diagnosis, or treatment of rare diseases as specified in Paragraph 1 of Article 3 of the Rare Disease and Orphan Drug Act.
+
+\3. Having received priority assistance in accordance with government policies, been subsidized for research and development from the central competent authority or other authority, and conducting or will be conducting clinical trial domestically to verify product safety and efficacy, or meeting the domestic public health or urgent medical needs.
+
+### Article 10
+
+If any of the following circumstances occurs in an application after substantial review, the application shall be disapproved:
+
+\1. Payment of the fee does not meet the provisions.
+
+\2. Documents and information submitted are not ready or are inconsistent with regard to the contents of application.
+
+\3. Testing procedures have not been conducted in accordance with the provisions or submitted samples have been found to be noncompliant after the testing.
+
+\4. The medical device under application is such that its risk of harming the health of human body is greater than the benefit.
+
+\5. Other circumstances that do not comply with the provisions of laws and regulations.
+
+### Article 11
+
+The central competent authority shall notify the applicant of the application review result; if a license is approved and issued, the applicant shall, within three months after the arrival date of the notice, pay the license fee and prepare labels, instructions, or packaging according to the approved content to the central competent authority in order to obtain the license.
+
+If the applicant fails to obtain the license in accordance with the provisions of the preceding paragraph, the central competent authority may cancel its license.
+
+### Article 12
+
+If the preliminary determination made by the central competent authority with regard to an application is that the product has the effectiveness stated in the application, does not present any significant risks, and meets one of the following circumstances, the central competent authority may request the applicant to provide a plan to conduct safety surveillance or post-approval study. After review, a license with shorter validity period may be issued:
+
+\1. For use in the prevention, diagnosis, or treatment of life-threatening diseases or diseases causing severe disability, with no appropriate medication, medical device, or suitable alternative treatment available yet domestically.
+
+\2. Meeting the domestic public health or urgent medical needs.
+
+\3. Being innovative or novel and having significant clinical benefits, with the potential of being used to enhance or support medical diagnosis and treatment.
+
+If the applicant fails to conduct safety surveillance or post-approval study in accordance with the plan referred to in the preceding paragraph, the central competent authority may cancel its license.
+
+## Chapter 3 Change, Re-issuance, or Replacement of License.
+
+### Article 13
+
+If registration particulars of the license, labels, instructions, or packaging are changed relating to any of the following subparagraphs, documents and information in Appendix 4 shall be submitted and fee shall be paid for submission of an application to the central competent authority:
+
+\1. Chinese product name.
+
+\2. English product name.
+
+\3. Labels, instructions, or packaging.
+
+\4. Ingredients, materials, structures, specifications, or model number.
+
+\5. Effectiveness, intended use, or indication.
+
+\6. Name of the manufacturer.
+
+\7. Address of the manufacturer or country of manufacture.
+
+\8. License holder.
+
+\9. Name of the license holder.
+
+\10. Manufacturing license number.
+
+When the approved document of license or labels, instructions, or packaging is lost or damaged, documents and information in Appendix 4 shall be submitted and fee shall be paid to apply for replacement or re-issuance.
+
+If the central competent authority finds that documents and information referred to in the preceding two paragraphs are not ready such that corrections can be made, it shall notify the applicant to make corrections within three months. Failure to make corrections by the designated deadline shall subject the application to rejection.
+
+For applications of re-issuance or replacement of license as referred to in Paragraph 2, the applicant shall, within three months after the arrival date of the notice, pay the license fee and obtain the license from the central competent authority. Failure to obtain the license by the deadline may subject its license to cancellation by the central competent authority.
+
+For applications referred to in Paragraphs 1 and 2, the central competent authority shall annotate the original license with the changed registration particulars and date, and return it after stamping.
+
+### Article 13-1
+
+For items announced by the central competent authority to apply for the change referred to in Subparagraph 4 or 7 of Paragraph 1 of the preceding article, the provisions of Paragraph 2 of Article 3 shall apply mutatis mutandis.
+
+### Article 14
+
+Under any of the following circumstances, license holders may, of their own accord, change labels, instructions, or packaging of the medical devices, and such changes shall be documented accordingly:
+
+\1. No changes in the text content:
+
+(1) Only changing the material, shape, graphic design, color or luster of labels, instructions, or outer box and the graphic design not being offensive, indecent, or misleading.
+
+(2) Due to different packaging quantities, resizing the approved graphic design or text to fit a different size of packaging, or repositioning the approved graphic design or text.
+
+(3) Changing the fonts of the approved text, and its font size of English text not being larger than that of Chinese text for the product name.
+
+(4) Adding printings on outer boxes or using new outer boxes to replace the affixed labels, and their design of text and graphs being identical to those in the originally approved labels.
+
+\2. Changes of the following text content:
+
+(1) Adding or changing barcode, recycling mark, “QMS/GMP” characters of a medical device QMS/GMP manufacturer, CE mark, suggested retail price, customer service telephone line, manufacturer’s telephone number, fax number, contact office, copyright registration number or company trademark approved by Taiwan Intellectual Property Office, CNS mark or trademark registration number, information of representative in other countries or areas.
+
+(2) Adding or changing distributor’s name or address, and the font size of distributor’s name not larger than that of medical device manufacturer’s (license holder’s) name.
+
+(3) Adding or changing the name of medical device firm, or the name or address of manufacturer that has been approved for change by the central competent authority.
+
+(4) Adding, deleting, or changing the name of medical device firm that has been approved for change by the central competent authority and that constitutes part of the Chinese and English product names.
+
+(5) Adding, deleting or changing international symbols representing approval and registration particulars on the license.
+
+\3. Adding, deleting or changing the content according to the announcements made in accordance with Subparagraph 10, Paragraph 1, Article 33 of the Act.
+
+### Article 15
+
+For those applying for a change of Class 1 medical device, the provisions of Article 5 shall apply mutatis mutandis to the submission of their documents and information.
+
+### Article 16
+
+For those applying for a change of medical device exclusively for export, the provisions of Article 6 shall apply mutatis mutandis to the submission of their documents and information.
+
+## Chapter 4 License Extension
+
+### Article 17
+
+Applicants who apply for a license extension shall fill out and submit an application form within six months prior to the expiration date, submit the following documents and information, and pay the fee to the central competent authority for submission:
+
+\1. Original license.
+
+\2. Manufacture and free sale certificate of the country of origin, which is not required for those manufactured domestically.
+
+\3. Foreign original manufacturer authorization letter, which is not required for those manufactured domestically.
+
+\4. Document verifying that manufacturer conforms to the Medical Device Quality Management System Regulations.
+
+\5. For a license issued in accordance with the provisions of Paragraph 1 of Article 12, safety surveillance or post-approval study report shall be submitted.
+
+\6. Other documents and information designated by the central competent authority.
+
+If the central competent authority finds that documents and information of the preceding paragraph are not ready such that corrections can be made, the central competent authority shall notify the applicant to make corrections within three months. Failure to make corrections by the designated deadline shall subject the application to rejection.
+
+### Article 18
+
+For those applying for a license extension of Class 1 medical device, the provisions of Article 5 shall apply mutatis mutandis to the submission of their documents and information.
+
+### Article 19
+
+Those that fail to apply for a license extension before the expiration date in accordance with the provisions of Article 17 shall re-apply for registration and market approval in accordance with Articles 5 and 6 for a license to be issued.
+
+If the application is for a Class 2 or Class 3 medical device license and it is re-applied within six months after the expiration date of original license, the following documents and information shall be submitted without being subjected to the restrictions in the provisions of Article 6:
+
+\1. Business permit of the medical device firm.
+
+\2. Original license.
+
+\3. Originally approved labels, instructions, or packaging stamped with tally impression of the central competent authority.
+
+\4. Draft of labels, instructions, or packaging.
+
+\5. Manufacture and free sale certificate of the country of origin, which is not required for those manufactured domestically.
+
+\6. Foreign original manufacturer authorization letter, which is not required for those manufactured domestically.
+
+\7. Document verifying that manufacturer conforms to the Medical Device Quality Management System Regulations.
+
+\8. Other documents and information designated by the central competent authority.
+
+After approval of the application set forth in Paragraph 1, the license is issued with a new number.
+
+## Chapter 5 Listing and Annual Declaration
+
+### Article 20
+
+Applicants who apply for a listing to manufacture or import medical devices shall list the following documents and information in the medical device listing system (hereinafter referred to as “the Listing System”) established by the central competent authority, upload relevant documents and information as stipulated in Appendix 5 and pay the fee to obtain a listing number:
+
+\1. Chinese and English product names.
+
+\2. Name of the medical device firm.
+
+\3. Name and address of the manufacturer.
+
+\4. Item name and number of the medical device classification.
+
+\5. Sterility condition of the medical device.
+
+\6. Status of the manufacturer in conforming to the Medical Device Quality Management System Regulations.
+
+\7. Other documents and information designated by the central competent authority.
+
+The provisions of Article 4 shall apply mutatis mutandis to the product names of medical devices in the preceding paragraph.
+
+### Article 21
+
+With the exception of Subparagraph 4, those that change the listing particulars of any subparagraph referred to in Paragraph 1 of the preceding article shall apply for the change in the Listing System and pay the fee.
+
+For the aforementioned application of change, the previous Article shall apply mutatis mutandis for applicants to upload the documents and information.
+
+Changes to name of the medical device firm referred to in Subparagraph 2 of Paragraph 1 of the preceding article shall be limited to those that do not involve transfer of rights.
+
+Changes to item name and number of the medical device classification referred to in Subparagraph 4 of Paragraph 1 of the preceding article shall not apply for a listing change.
+
+### Article 22
+
+Those who have been listed for one full year shall file an annual declaration in the Listing System in October of each year, confirm the listing status of the following particulars, and pay the fee:
+
+\1. Chinese and English product names.
+
+\2. Name of the medical device firm.
+
+\3. Name and address of the manufacturer.
+
+\4. Item name and number of the medical device classification.
+
+\5. Status of the manufacturer in conforming to the Medical Device Quality Management System Regulations.
+
+\6. Sterility condition of the medical device.
+
+\7. Other documents and information designated by the central competent authority.
+
+### Article 23
+
+For those that have been listed directly in accordance with Paragraph 4 of Article 25 of the Act by the central competent authority, medical device firms shall file a declaration in accordance with the provisions of the preceding article after the expiration date of original license.
+
+## Chapter 6 Supplementary Provisions
+
+### Article 24
+
+If the documents and information submitted with an application filed in accordance with the Regulations are not in traditional Chinese or English, a traditional Chinese or English translation shall be provided.
+
+### Article 25
+
+If the application involves contract manufacturer, approval certificate obtained in accordance with the Regulations Governing Contract Manufacturing of Medical Devices shall be submitted by the applicant.
+
+### Article 26
+
+The Regulations shall be implemented on May 1, 2021.
+
+Amendments to the Regulations shall be implemented on the date of promulgation.
+
+## Attachments
+
+- [Appendix 1： Documents and information that shall be submitted for an application of registration and market approval to manufacture or import Class 1 medical devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008248)
+- [Appendix 2： Documents and information that shall be submitted for an application of registration and market approval to manufacture or import Class 2 or Class 3 medical devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008249)
+- [Appendix 3：“Applicable Product Items for Class 2 Medical Device Product Comparison and Preclinical Test Data Conformity Statement”mentioned in Section 7 of the Instructions in Appendix 2.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008250)
+- [Appendix 4：Documents and information that shall be submitted for an application of change, re-issuance, or replacement of medical device license.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008251)
+- [Appendix 5：Documents and information that shall be uploaded for an application for a listing to manufacture or import Class 1 medical devices.pdf](https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008252)
+
+## History
+
+1.Full text including 26 articles adopted and promulgated by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1101603144 on April 29, 2021. These Regulations shall enter into force take effect on May 1, 2021.
+
+2.Article 3, 7, 13, 14, 20, 21, 26, Appendix 1 of Article 5, Appendices 2 and 3 of Article 6 amended, and Article 13-1 added by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1121610033 on November 27, 2023.

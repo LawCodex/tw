@@ -1,0 +1,157 @@
+---
+title: "Management and Approval Regulations for Hong Kong and Macao Residents with Overseas Compatriot Identity"
+title_zh: "取得華僑身分香港澳門居民聘僱及管理辦法"
+identifier: "N0090008"
+type: regulation
+law_level: "命令"
+category: "行政＞勞動部＞就業服務目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 1997-06-28
+last_amended: 2025-09-12
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090008"
+retrieved: 2026-10-12
+---
+
+# Management and Approval Regulations for Hong Kong and Macao Residents with Overseas Compatriot Identity
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-labor/N0090008-management-and-approval-regulations-for-hong-kong-and-macao-residents-with.md](../../../zh/regulations/ministry-of-labor/N0090008-management-and-approval-regulations-for-hong-kong-and-macao-residents-with.md)) is authoritative.
+
+## Article 1
+
+The present Regulations are stipulated based on the second paragraph of Article 13 of Regulations Governing the Relations with Hong Kong and Macao (the Regulations).
+
+## Article 2
+
+The present Regulations apply to residents of Hong Kong and Macau, who obtained the status of overseas compatriot prior to the end of British or Portuguese rule, as well as their spouses and children who are eligible for Republic of China (Taiwan) nationality.
+
+## Article 3
+
+The authority of this implementation rule is Ministry of Labour.
+
+## Article 4
+
+For employment of workers mentioned in Article 2, the employer should apply for permit from the Competent Authority.
+
+People mentioned in Article 2, who are allowed to reside in Taiwan, can apply for permit on their own initiatives without their employers’ initiation.
+
+## Article 5
+
+When an employer employs workers mentioned in Article 2 to work in Taiwan, the employer doesn’t have to abide the first paragraph of Article 46, Article 47, Article 52, Article 53, Article 56 and the first paragraph of Article 74 of Employment Service Act, the employer is also exempt from paying Employment Security Fees as required by Article 55.
+
+## Article 6
+
+When an employer hires the workers mentioned in Article 2, their maximum of working period is three years; If the employer needs to continue the employment after the contract ends, he or she must apply for an extension, with each extension being a maximum of three years.
+
+## Article 6-1
+
+In order to carry out work related to the employment and management of personnel detailed in Article 2, the competent authority can request that relevant agencies, organizations, legal entities, or individuals provide the necessary information.
+
+Within the scope required to perform statutory duties related to the employment and management of personnel detailed in Article 2, the central competent authority for the target industry can ask the competent authority to provide relevant information such as a list of personnel permitted to work under Article 2.
+
+The retention, processing and use of information obtained by the competent authority and the central competent authority for the target industry in accordance with regulations detailed in the preceding two paragraphs will be executed in accordance with the provisions of the Personal Data Protection Act.
+
+## Article 7
+
+The employer should prepare the following documents to apply for employment permits from the Competent Authority:
+
+\1. Application form(s).
+
+\2. Photocopy of the national identity card of the employer or person in charge of the company; certificates of company, limited partnership registration or business registration, certificate of factory registration and license for franchise businesses. However, this does not apply when a certificate of factory registration or license for franchise businesses is not required based on other laws or regulations.
+
+\3. The health certificate for the employee issued in recent 3 months by the hospitals in Taiwan, Hong Kong Region or Macau Region which are authorized and appointed by Central Health and Welfare's Authority
+
+\4. Overseas compatriot identity certificates of the employed people and other documents which prove their spouses and children meet the requirements for obtaining Republic of China nationality.
+
+\5. Contract of labor or employment.
+
+\6. Original of the receipt for examination fee.
+
+\7. Other documents as may be required by the Competent Authorities.
+
+People mentioned in second paragraph of Article 4 should prepare the photocopy of their residence certificates and the documents mentioned in preceding subparagraph 1, subparagraph 4, subparagraph 6 and subparagraph 7 to apply for permit from the Competent Authorities.
+
+## Article 8
+
+The Health Checkup mentioned in the Regulations should include the following:
+
+\1. Chest X-ray for tuberculosis.
+
+\2. Syphilis test.
+
+\3. Standard medical check-up (including mental status)
+
+\4. Individuals who test positive for antibodies for measles or German measles in a medical report or have a Certificate of Vaccination or Prophylaxis. However, individuals evaluated by a doctor as being unable to undergo vaccination are exempted from this provision.
+
+According to the Article 2 regulating the personnel's working status and the epidemic situation in Hong Kong Region and Macau Region, the Central Health and Welfare's Authority shall issue a declaration to add, delete or alter the above-mentioned health examination subjects.
+
+## Article 9
+
+Should any of the following events occur when applying for permit based on the regulation in Article 4 and Article 7, the Competent Authority should reject the application:
+
+\1. The documents submitted contain false or incomplete information.
+
+\2. Other unqualified application entries and are still not corrected after notification for correction.
+
+\3. An individual fails a health check-up
+
+\4. Serious violators of the present Regulations or other applicable regulations.
+
+If the incomplete or unclear submission mentioned in the preceding subparagraph 1 can be corrected, the Competent Authorities should inform the applicants to make correction within the limitation period.
+
+## Article 10
+
+If the employer need to continue the employment, within 60-day period prior to the expiration of employment permit, the employer should prepare the following documents for filing the application for employment permit extension from the Competent Authorities:
+
+\1. Application form for employment permit extension
+
+\2. The original employment permit issued by the Competent Authorities
+
+\3. The health checkup certificate of the employed person within the latest three months
+
+\4. Contract of labor or employment.
+
+\5. Original of the receipt for examination fee.
+
+\6. Other documents as may be required by the Competent Authorities.
+
+If all the entries in preceding paragraph are met, the Competent Authorities should issue the permit of working extension.
+
+## Article 11
+
+If the people mentioned in Article 2 have to transfer to a new employer or be employed by more than two employers within the duration of employment permits, the new employer(s) should apply for permit; In case of transfer to a new employer, the new employer should submit upon such application the relevant document(s) certifying the termination of the previous employment.
+
+When the workers mentioned in second paragraph of Article 4 have to transfer to a new employer or be employed by more than two employers, they are not restricted by the preceding paragraph.
+
+## Article 12
+
+(Deleted)
+
+## Article 13
+
+The form and format of the present Regulations should be stipulated by the Competent Authorities with another order.
+
+## Article 14
+
+The present Regulations shall enter into force as of the date of promulgation. When the proviso in Paragraph 1, Article 62 happens, the Regulation shall enter into force partially or wholly as of the date of promulgation.
+
+The Amendment to the Regulations shall enter into force upon its date of promulgation.
+
+## History
+
+1.Developed pursuant to the official act of (86) Tai-Lao-Zhi-Wai-Tze No. 0901368 of Council of Labor Affairs, Executive Yuan, dated June 28, 1997 and announced 14 articles
+
+2.Amended and promulgated the contents of 8th, 10th, 12th and 14th Articles by the order of Council of Labor Affairs, Executive Yuan (90) Tai-Lao-Zhi-Wai-Tze No. 0225163 on November 28, 2001
+
+3.Amended and promulgated the contents of 5th, 7th to 10th Articles and deleted the 12th Article by the order of Council of Labor Affairs, Executive Yuan (93) Tai-Lao-Zhi-Wai-Tze No. 0930207938 on December 22, 2004
+
+4.Amended and promulgated the contents of 8th Article by the order of Council of Labor Affairs, Executive Yuan (98) Tai-Lao-Zhi-Wai-Tze No. 0980506912 on April 29, 2009
+
+5.Amended on September 21, 2015
+
+6.Amended on October 12, 2023
+
+7.Amended on September 12, 2025

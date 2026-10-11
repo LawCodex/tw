@@ -1,0 +1,125 @@
+---
+title: "Categories and Standards of Assistance for Forest Fire Disasters"
+title_zh: "森林火災救助種類及標準"
+identifier: "M0040025"
+type: regulation
+law_level: "命令"
+category: "行政＞農業部＞林業及自然保育目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-06-14
+last_amended: 2023-01-10
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0040025"
+retrieved: 2026-10-12
+---
+
+# Categories and Standards of Assistance for Forest Fire Disasters
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-agriculture/M0040025-categories-and-standards-of-assistance-for-forest-fire-disasters.md](../../../zh/regulations/ministry-of-agriculture/M0040025-categories-and-standards-of-assistance-for-forest-fire-disasters.md)) is authoritative.
+
+## Article 1
+
+These Categories and Standards (hereafter "the Standards") are enacted pursuant to Article 63 of the Disaster Prevention and Protection Act (hereafter "the Act").
+
+## Article 2
+
+The term "forest fire" used herein means a fire in state, public, or private forest land.
+
+## Article 3
+
+These Categories and Standards shall apply to all ROC citizens, as well as their spouses without Taiwan household registration, foreign nationals, and people from the Chinese Mainland, Hong Kong and Macao who become victims of disasters within the territory of the ROC during their legal residency in Taiwan.
+
+The term "assistance" in the Standards refers to the disaster assistance payments issued by the government to maintain the basic needs of a person or family, as described in the preceding paragraph, due to a forest fire disaster that caused serious damages and affected people's lives.
+
+## Article 4
+
+The types of assistance provided herein are classified into:
+
+I.Death, missing person, and serious injury assistance.
+
+II.Relocation assistance.
+
+## Article 5
+
+The subjects of disaster assistance are as follows:
+
+I.Death assistance:
+
+(I)Victims who have lost their lives because of a disaster.
+
+(II)Victims who have been severely injured by a disaster and passed away within 30 days after the disaster.
+
+(III)Victims who are missing because of a disaster and whose deaths are pronounced by the court in accordance with Paragraph 1 of Article 62.
+
+II.Missing person assistance: Victims who have gone missing as a result of a disaster.
+
+III.Serious injury assistance: Victims who have been severely injured by a disaster; or victims who have not been severely injured but in need of hospitalization for emergency medical service and self-bearing expense for the first 15 days (during hospitalization) has reached the amount of aid for severely injured victim.
+
+IV.Relocation assistance: The following criteria shall be used for determining those whose homes have been damaged to the point of being uninhabitable due to a forest fire disaster:
+
+(I)Over one-third of the affected building's roof is damaged or, in case of a house with a reinforced concrete roof, the floor slab and/or beam cracked or was damaged in the forest fire disaster, and the house is uninhabitable without remediation/repair.
+
+(II)The house's walls are ruptured or tilted, or the common walls fell or were damaged, and the house is uninhabitable without remediation/repair.
+
+(III)The house is seriously damaged and no longer inhabitable as determined by the municipal or county (city) government.
+
+The self-bearing expense mentioned in previous Paragraph of Subparagraph 3 refers to self-bearing expenses prescribed in National Health Insurance Act and expenses outside the benefit scope of National Health Insurance.
+
+The affected household, as defined in Subparagraph 4 of Paragraph 1, refers to a household that has already been registered at the registration office whereby the victims resided at the time of the forest fire. The term "house" is limited to the bedrooms, living rooms, dining rooms, and kitchens, toilets, and bathrooms connected to the building. However, living spaces in the house determined by the municipal or county (city) government to be related to daily life may be regarded as part of the house.
+
+## Article 6
+
+Disaster assistance shall be paid in cash, and its issuance criteria are as follows:
+
+I.Death assistance: NT$200,000 per person.
+
+II.Missing person assistance: NT$200,000 per person.
+
+III.Serious injury assistance: NT$100,000 per person.
+
+IV.Relocation assistance: If the house is rendered uninhabitable, each person in each household shall receive NT$20,000, with a maximum of five members. Those who do not inhabit the damaged house shall not be eligible for assistance payments.
+
+The assistance payment provided in Subparagraph 2 of the preceding paragraph shall be returned if the person who went missing in the forest fire is found alive after such assistance payment is paid. The same shall apply if the missing person is discovered alive after the death assistance has been paid according to Item 3, Subparagraph 1, Paragraph 1 of the preceding article, and a court has ruled to revoke the death status.
+
+When issuing relocation assistance, those who have been approved for death or missing person assistance shall be deducted from the members of each household.
+
+Where multiple disasters specified in the Act occur during the same period and meet the assistance provisions of the Standards and other laws and regulations, the claimant shall only receive payments for one type of disaster assistance, which he/she shall select; repeated claims shall not be permitted. All repeated claims paid shall be recovered.
+
+## Article 7
+
+Those who are eligible to receive assistance payments are as follows:
+
+I.In the event of a person's death or disappearance, the eligible claimants shall receive assistance payments in the following priority order:
+
+(I)Spouse.
+
+(II)Lineal descendants by blood.
+
+(III)Parents.
+
+(IV)Siblings.
+
+(V)Grandparents.
+
+II.Serious injury assistance payment: The claimant shall be the injured person.
+
+III.Relocation assistance payment: The claimant shall be the head of the affected household or the current residents.
+
+A person who intentionally caused the death, disappearance or serious injury of a person, or house damage to make it uninhabitable by himself/herself or through others shall not receive disaster assistance payments. Any payments made under such circumstances shall be recovered.
+
+## Article 8
+
+The disaster assistance payment shall be made by the municipal or county (city) government at the place where the forest fire disaster occurred, which shall prepare the necessary budget.
+
+## Article 9
+
+These Standards shall come into force on the day of promulgation.
+
+## History
+
+1.Promulgated on June 14, 2002
+
+2.Amended on January 10, 2023.

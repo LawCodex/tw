@@ -1,0 +1,577 @@
+---
+title: "Administrative Regulations Governing the Establishment and Use of Dedicated Telecommunications Network for Research and Development Purposes"
+title_zh: "實驗研發專用電信網路設置使用管理辦法"
+identifier: "K0060144"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞通訊目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-07-09
+last_amended: 2024-11-14
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060144"
+retrieved: 2026-10-12
+---
+
+# Administrative Regulations Governing the Establishment and Use of Dedicated Telecommunications Network for Research and Development Purposes
+
+> Translation. The Chinese text ([zh/regulations/national-communications-commission/K0060144-administrative-regulations-governing-the-establishment-and-use-of-dedicated.md](../../../zh/regulations/national-communications-commission/K0060144-administrative-regulations-governing-the-establishment-and-use-of-dedicated.md)) is authoritative.
+
+## Chapter 1 General Provisions
+
+#### Article 1
+
+These Regulations are promulgated pursuant to Paragraph 7, Article 50 of the Telecommunications Management Act（hereinafter referred to as the “Act”）.
+
+#### Article 2
+
+The terms of these Regulations are defined as follows:
+
+1.“Technical experiments and research and development telecommunications network” refers to a telecommunications network established for conducting experiments, research and development purpose as prescribed by Paragraph 1, Article 4. utilizing radio frequencies allocated by the Ministry of Digital Affairs.
+
+2.“Commercial experiments and research and development telecommunications network” refers to a telecommunications network established for conducting experiments, research and development, as well as business verification purposes as prescribed by Paragraph 2, Article 4, utilizing radio frequencies allocated by the Ministry of Digital Affairs.
+
+3.“Applicants” refer to those that apply to establish a technical experiments and research and development telecommunications network or commercial experiments and research and development telecommunications network pursuant to these Regulations.
+
+4.“Administrators” refers to those that establish technical or commercial experiments and research and development telecommunications network pursuant to these Regulations and have been issued network approval certificates approved by the competent authority.
+
+5.“Subscribers” refers to those who register to or enter a contract with administrators to use the services or applications that they provide.
+
+6.“Broadcasting and television businesses” refers to broadcasting businesses, television businesses, cable television system operators, satellite broadcasting and television businesses.
+
+7.“Specific experimental field” refers to the geographical scope or area announced by the Ministry of Digital Affairs where, under the specific conditions, the wireless communication function and equipment required for the development of a specific experiment can be established.
+
+8.“Specific experimental frequency” refers to the radio frequency announced by the Ministry of Digital Affairs which, in specific experimental fields and under the specific conditions, can be used in specific experiments to research and develop the needed wireless communication.
+
+#### Article 3
+
+The applicant shall gain approval of the competent authority prior to the establishment of a telecommunications network for technical or commercial experiments and research and development purposes. Following the establishment, network approval certificates must be obtained prior to being put into use.
+
+The applicant shall gain approval of the competent authority prior to the establishment of a radio station for technical or commercial experiments and research and development purposes. After the establishment has been completed, the applicant must to apply for an approval. Upon the approval the radio station license shall then be approved.
+
+The competent authority that reviews applications for the establishment of technical or commercial experiments and research and development telecommunications networks, as well as applications for the renewal of licenses, may establish a Review Committee.
+
+#### Article 4
+
+The purposes for establishing a technical experiments and research and development telecommunications network shall be one of the following:
+
+\1. Testing of technology needed for the type approval of telecommunications network system equipment;
+
+\2. Development or testing communications or value-added services of telecommunications networks for the research and development of types and contents of service;
+
+\3. Study, development or testing of telecommunications network system technology or associated equipment for the need of technical research and development;
+
+\4. Services or applications for the applicant or subscribers other than to develop or test services or applications other than telecommunications services on the experimental research and development telecommunications network set up in a specific experimental field.
+
+The purpose of setting up a telecommunications network for commercial experiments, research and development shall be to verify the telecommunications services for commercial uses, and may include the purpose of setting up the technical experiments and research and development telecommunications network.
+
+The telecommunications service mentioned in the preceding paragraph shall be limited to those not provided by the telecommunications enterprise.
+
+#### Article 5
+
+The technical or commercial experiments and research and development telecommunications network established by an administrator shall not be used for any purpose other than that of establishment.
+
+Administrators that provide a technical experiments and research and development telecommunications network with each kind of telecommunications service shall not charge any fee from the subscribers.
+
+A deposit amount may be charged for equipment leased or lent to a subscriber by an administrator within the range of equipment leasing or lending costs on mutual agreement.
+
+Administrators of or technical and commercial experiments and research and development telecommunications networks shall not grant any third party the access to the services（including equipment, etc.）provided by the network.
+
+#### Article 6
+
+During the experimental period, administrators shall comply with the nature of the experimental business and adopt appropriate and sufficient cyber security measures in order to ensure the security of information collection, processing, use, and transmission.
+
+## Chapter 2 Application and Review
+
+### Section 1 Technical experiments and research and development telecommunications network
+
+#### Article 7
+
+Those that apply to establish a technical experiments and research and development telecommunications network shall be limited to a maximum of 100 subscribers. However, this does not apply to those that are approved by the competent authority herein.
+
+#### Article 8
+
+Those that apply to establish a technical experiments and research and development telecommunications network shall prepare the following documents and their electronic files (in PDF or ODF format) and submit them to the competent authority:
+
+\1. Application form for the establishment and use of a technical experiments and research and development telecommunications network.
+
+\2. Network establishment plan.
+
+\3. Photocopy of the frequency use certificate issued by the Ministry of Digital Affairs.
+
+\4. Photocopy of the planning documents for the application to use radio frequencies.
+
+\5. Other documents required by the competent authority.
+
+#### Article 9
+
+The network establishment plan under Subparagraph 2 of the preceding article shall include the following:
+
+\1. The purpose of establishment and geographical scope.
+
+\2. Experimental items and methods.
+
+\3. The geographical scope and the approved period of the establishment, the number of subscribers, method of collecting equipment deposits, and reasons.
+
+\4. Terms of service agreements or contracts for the subscribers.
+
+\5. Network stability, security, ability of operation maintenance, methods of network communication and a diagram of system configuration; and a diagram of interconnection configuration if interconnecting with other networks.
+
+\6. Development project, schedule and expected costs of network system; and the document proving the authorization of network use by the network provider for those that are self-developed;
+
+\7. A concrete plan on research, development, testing or the collection of related data.
+
+\8. A concrete plan to cooperate with domestic industries, authorities and academic circles.
+
+\9. The frequency, bandwidth and power of used radio frequency.
+
+\10. Cyber security plan; and cyber security responsibility level shall be stated and cyber security maintenance plan provided for those specified by the Cyber Security Management Act.
+
+\11. The telecommunications equipment to be used shall comply with the national security considerations of relevant authorities.
+
+\12. Response measures in the event of interference.
+
+#### Article 10
+
+The following examination criteria shall apply to the applications for the establishment and use of technical experiments and research and development telecommunications network received by the competent authority:
+
+\1. Whether the purpose of establishment and geographical scope comply with the specifications in frequency allocation related documents;
+
+\2. Whether the use period, subscribers' conditions of use, number of subscribers, and method of collecting equipment deposits are reasonable;
+
+\3. Whether the network development and the development schedule are feasible; this does not apply to those that are not self-developed;
+
+\4. Whether there is the ability of network stability, security and administrator maintenance;
+
+\5. Whether the network establishment plan violates provisions of the Regulations;
+
+\6. Whether response measures in the event of interference are feasible;
+
+\7. Whether the used radio frequency, bandwidth and power comply with the specifications in the frequency use certificate;
+
+\8. Whether appropriate and sufficient cyber security measures are taken to ensure the security of information collection, processing, use and transmission;
+
+\9. Whether telecommunications equipment used is in of consideration of national security.
+
+The competent authority may delete part of the items or contents in the network establishment plan for the applications for the establishment and use of technical experiments and research and development telecommunications network.
+
+#### Article 11
+
+The application for the establishment and use of technical experiments and research and development telecommunications network shall be rejected should any of the following occur:
+
+\1. Failure to comply with the requirements for the purpose of establishment specified in Paragraph 1 of Article 4;
+
+\2. Failure of the network establishment plan to qualify.
+
+#### Article 12
+
+Once the application for establishing a dedicated telecommunications network for research and development passes the competent authority’s document review, the competent authority shall issue an approval letter for the establishment of network accordingly.
+
+The applicant or administrator shall establish the network in accordance with the approved network establishment plan.
+
+#### Article 13
+
+The approval of technical experiments and research and development telecommunications network establishment shall be valid for six (6) months.
+
+Where the applicant fails to establish the technical experiments and research and development telecommunications network by the given deadline, an application for extension with appropriate justification may be submitted to the competent authority at least one (1) month before expiration; the extension shall be valid for three (3) months and only one (1) extension shall be granted.
+
+The applicant shall specify the reason(s)and provide a list of radio stations established or information of network overview to the competent authority for reference on the termination of establishment during the approved establishment period, whereby the competent authority shall withdraw the approval of network establishment.
+
+Where the network is not established prior to the expiration of the network establishment approval or in the case where competent authority revokes the network establishment approval, the applicant shall cease the establishment and remove all equipment that has been established immediately.
+
+#### Article 14
+
+Where the technical experiments and research and development telecommunications network is established according to the approved development schedule, the applicant shall submit a network security self-evaluation and test report to the competent authority for the application for network approval certificate.
+
+#### Article 15
+
+The following information shall be provided on the network approval certificate for technical experiments and research and development telecommunications network:
+
+\1. Name of telecommunication network established, name and address of administrator;
+
+\2. Type of telecommunications network established;
+
+\3. Geographical scope of establishment;
+
+\4. Conditions or number of subscribers;
+
+\5. Frequency band(s)used;
+
+\6. Expiration date;
+
+\7. Date of certificate issuance.
+
+### Section 2 Commercial experiments and research and development telecommunications network
+
+#### Article 16
+
+Those that apply to establish a commercial experiments and research and development telecommunications network shall prepare the following documents and their electronic files (in PDF or ODF format) and submit them to the competent authority for application:
+
+\1. Application form for the establishment and use of a commercial experiments and research and development telecommunications network.
+
+\2. Network establishment plan.
+
+\3. Photocopy of the frequency use certificate issued by the Ministry of Digital Affairs.
+
+\4. Photocopy of the planning documents for the application to use radio frequencies.
+
+\5. Document of performance bond when prepaid fees are planned to be charged to subscribers.
+
+\6. Other documents required by the competent authority.
+
+#### Article 17
+
+The network establishment plan mentioned in Paragraph 2 of the preceding Article shall, in addition to applying the provisions of Article 9 mutatis mutandis, specify the terms of service agreements for subscribers, defining the conditions for using the services and subscriber-end equipment, and the rights and obligations of both parties. If charges are planned, a service contract shall be established separately in accordance with the principles of good faith and fairness.
+
+If prepayment is adopted for fees specified in the preceding paragraph, one of the following methods shall be specified in the service contract to provide a performance bond at least equivalent to the total amount of the prepaid fee(guarantee of refunding the proceeds):
+
+\1. Full performance bond provided by domestic banks.
+
+\2. Domestic banks' trust accounts.
+
+The performance bond specified in the preceding paragraph shall specify the scope of responsibility.
+
+#### Article 18
+
+The provisions of Article 10 shall apply mutatis mutandis to the competent authority’s review of the commercial experiments and research and development telecommunications network, and the following review criteria shall be added:
+
+\1. Whether the purpose of business verification is met and its necessity.
+
+\2. The completeness of subscriber rights protection measures and the appropriateness of the performance bond content.
+
+#### Article 19
+
+When applying for the establishment of a commercial experiments and research and development telecommunications network, the provisions in Articles 7, and 12 to 15 shall apply mutatis mutandis to the number of subscribers, the implementation of the network establishment plan, certificate issuance, matters to be specified on the certificate, the valid period for accepting the application and establishment approval, as well as the handling of extensions and terminations.
+
+#### Article 20
+
+Applications for the establishment and use of a commercial experiments and research and development telecommunications network falling under any one of the following circumstances shall not be approved:
+
+\1. Those that do not adhere to the regulations on the establishment purpose specified in Paragraph 2, Article 4.
+
+\2. Telecommunications services that have been available for public communications.
+
+\3. A dedicated telecommunications network of the same applicant that has been granted the approval for the same purpose of business verification.
+
+\4. Failure of the network establishment plan to qualify.
+
+Different applications shall be deemed as coming from the same applicant if they fall under any one of the following circumstances:
+
+\1. The applicant holds more than half of the total number of issued shares with voting rights of another applicant.
+
+\2. More than half of the applicant’s directors are the same as that of another applicant.
+
+\3. More than half of the total number of issued shares with voting rights of the applicant and another applicant are held or funded by the same shareholders.
+
+\4. Different applicants are also subordinate companies of a third party.
+
+\5. There is control and supervisor- subordinate relationship between control companies of different applicants.
+
+The control and supervisor-subordinate relationship mentioned in Subparagraphs 4 and 5 of the preceding paragraph refers to the relationship specified in Subparagraphs 1, 2 or 3 of the preceding paragraph.
+
+The method of calculating shareholding in Paragraph 2 shall be handled in accordance with the provisions of Article 369-11 of the Company Act.
+
+## Chapter 3 Application and Examination of Radio Stations
+
+#### Article 21
+
+The established radio station equipment that falls under a low power radio waves radiated device with obtained type approval certification, declaration of conformity (DOC) and simplified DOC shall state so in the network establishment plan to be exempt from applying for the radio station establishment permit and a radio station license.
+
+Where the radio station is established using a specific experimental frequency of technical or commercial experiments and research and development telecommunications network, the applicant shall provide the self-evaluation records of the radio station examination to the competent authority for issuance of the station license. The competent authority may undertake an examination when deemed necessary.
+
+#### Article 22
+
+The following documents shall be submitted to the competent authority for the application of radio station establishment. Upon approval by the competent authority, an approval letter for the establishment of the radio station will be issued:
+
+\1. The radio establishment application form and list (electronic data files), including the type, establishment location, frequency, bandwidth, transmission power, quantity, brand, model, and technical specifications of the radio station, which shall be filled out in accordance with the number of radio stations.
+
+\2. The radio station equipment catalogs.
+
+\3. Other documents required by the competent authority.
+
+The approval of the radio station establishment in the preceding paragraph shall be valid for no more than six (6) months.
+
+#### Article 23
+
+The approval criteria for the radio station establishment application mentioned in the preceding Article shall be as follows:
+
+\1. The frequency, bandwidth and transmission power of the radio station shall not exceed the standards specified in the approved network establishment plan.
+
+\2. Whether the location of the radio station complies with the approved network establishment plan.
+
+\3. Whether the radio station equipment complies with the national security considerations of relevant authorities.
+
+\4. Whether the network establishment approval or network approval qualification certificate is valid.
+
+#### Article 24
+
+If the applicant or administrator fails to establish the radio station prior to the expiration of the approval, an application for an extension, which may not exceed three (3) months and can be requested only once, along with appropriate justification, shall be submitted to the competent authority at least one (1) month before the expiration. However, no extension shall be granted for the approval of radio station establishment for commercial experiments and research and development telecommunications networks.
+
+The applicant or administrator establishing the radio station shall obtain legal use rights and documentation certifying the legal source of the radio station equipment, and shall submit them to the competent authority to carry out the radio station approval process.
+
+If the applicant or administrator ceases the establishment of the radio station within the approved period of the radio station establishment permit, they must specify the reasons and submit them to the competent authority for future reference. The competent authority shall then revoke the radio station establishment permit accordingly.
+
+If the establishment of the radio station is not completed by the expiration of the radio station establishment permit, or if the competent authority revokes the permit, the applicant or administrator must cease use of the radio station and remove any established equipment.
+
+#### Article 25
+
+In addition to a short-term test that applies to the competent authority pursuant to the regulations or technical inspection that the competent authority conducts, radio stations shall not transmit radio waves during the period of station establishment. The period of short-term tests shall not exceed five (5) days.
+
+#### Article 26
+
+If the applicant or administrator wishes to change the brand or model of a radio station component, or the frequency, power, or bandwidth of the radio station, such changes shall be carried out in accordance with Articles 22, 24, and 25. Upon approval of the changes by the competent authority, the radio station license shall be renewed accordingly.
+
+If the changes to the transmission frequency, power, or bandwidth of the radio station mentioned in the preceding paragraph exceed the standards specified in the approved network establishment plan, the changes shall first be handled in accordance with Article 31.
+
+If the changes to the transmission frequency, power, or bandwidth of the radio station mentioned in Paragraph 1 are made to meet the requirements of the Ministry of Digital Affairs, the associated approval and license fees may be exempt.
+
+The radio station license shall be valid for six (6) months but not beyond the validity of network approval certificate.
+
+Those that still intend to operate the radio station after expiration of the radio station license shall attach and state the reasons and apply to the competent authority for renewal one (1) month prior to its expiration. The competent authority may conduct an examination prior to renewing the license.
+
+The renewed license in the preceding paragraph shall be valid from the day after expiration of the former license; the validity shall be defined by Paragraph 4.
+
+#### Article 27
+
+Should the applicant or the administrator change the radio station’s establishment site, where the radio waves’ coverage has not exceeded the approved experimentation area following the change, the application form for the establishment of a radio station shall be submitted according to one of the following circumstances:
+
+\1. During the valid period of the radio station establishment permit, the change shall be reported to the competent authority for future reference.
+
+\2. During the valid period of the radio station license, annotation changes of the radio station license shall be submitted to the competent authority.
+
+When changes to the radio stations fall under the scope of data correction, or when the changes in the establishment site fall under the same street number but in a different building, the applicant shall report to the competent authority for future reference.
+
+The applicant or the administrator, when temporarily relocating the radio station to a nearby establishment site for in support of testing needs where the radio waves’ coverage does not exceed the approved geological scope, shall report to the competent authority for future reference, provided that the period may not exceed fifteen (15) days.
+
+Where more than one (1) radio station is involved in the application for station location change in Paragraph 1, change of information in Paragraph 2 or short-term relocation of station in the preceding paragraph, the applicant or administrator shall provide the radio station change list in the order of their numbering.
+
+#### Article 28
+
+If the applicant or administrator is involved in any of the following circumstances, the competent authority may revoke or partially revoke their radio station establishment approval or radio station license:
+
+\1. The network establishment approval or network approval qualification certificate has been cancelled or revoked by the competent authority.
+
+\2. Violation of Paragraph 1 of Article 33, which prohibits leasing, lending, transferring, or using the radio station license as collateral to others.
+
+\3. The radio station causes interference with lawful communications and fails to undertake corrective action within the prescribed period after receiving notice from the competent authority.
+
+The applicant or the administrator that ceases to operate radio station as the station license expires shall report to the competent authority for future reference, and also have the competent authority revoke the radio station establishment permit.
+
+Should the radio station license expire without being renewed as required, or when the competent authority has revoked the radio station license, the applicant or the administrator shall cease operating the established radio station, and the Administrative Regulations Governing the Manufacture, Import, and Application of Controlled Telecommunications Radio-Frequency Devices shall apply for the storage, supervised destruction or transfer of the radio equipment or regular reporting of its whereabouts, usage of status, except those on lease, on loan or otherwise stipulated by law.
+
+## Chapter 4 Use Management and Restrictions
+
+#### Article 29
+
+The network approval certificate for a technical experiments and research and development telecommunications network shall be valid for no more than one (1) year.
+
+When there is still a need for conducting experiments, research and development after the certificate in the preceding paragraph expires, the applicant or administrator shall state reasons and submit the network establishment plan for the next stage, and the frequency use certificate issued by the Ministry of Digital Affairs to the competent authority for renewal one (1) month prior to the expiration. Upon approval for the renewal, the competent authority shall issue a new network approval certificate.
+
+For the application for renewal of network approval certificate in the preceding paragraph, the competent authority shall reject the application should either of the following occurs:
+
+\1. Failure to submit the application for renewal of network approval certificate within the period specified in the preceding paragraph;
+
+\2. Failure to correct or to provide all information required after being informed of incomplete application package and asked for correction by a given deadline.
+
+For the application for renewal of network approval certificate in Paragraph 2, the competent authority shall reject the application should either of the following occurs:
+
+\1. No new experiment items and no need to continue to experiment on current items;
+
+\2. Noncompliance with Article 4.
+
+The renewed network approval certificate in Paragraph 2 shall be valid from the day after the  expiration of the former license.
+
+#### Article 30
+
+The network approval certificate for a commercial experiments and research and development telecommunications network shall be valid for no more than six (6) months.
+
+Paragraphs 2 through 5 of Article 31 shall apply mutatis mutandis to the renewal of expiring network approval certificate mentioned in the preceding paragraph and only one (1) renewal shall be granted.
+
+#### Article 31
+
+Applicants or administrators that meet any of the following circumstances must apply for changes to the network establishment plan in accordance with Paragraph 1 of Article 32:
+
+\1. The Ministry of Digital Affairs requires a change or cessation in the use of the radio frequency;
+
+\2. The transmission frequency, power, or bandwidth of the radio station has changed, exceeding the approved values in the network establishment approval;
+
+\3. The radio station establishment location has changed, falling outside the approved geographical scope
+
+#### Article 32
+
+When making a change to the network establishment plan, the applicant or administrator shall state the reasons and submit the revised network establishment plan and comparison table of changes to the competent authority for approval. On passing the examination by the competent authority, the change of network establishment shall be approved or network establishment approval certificate renewed. However, if the change only involves the relocation of the radio station, and the establishment location of the radio station is within the originally approved geological scope, the applicant or administrator can be exempt from attaching the revised network establishment plan and the comparison table of changes for the review of the competent authority in accordance to Paragraph 1, Article 27.
+
+If the change specified in the preceding paragraph falls under any one of the following circumstances, the reasons shall be stated and the revised network establishment plan and the comparison table of changes shall be attached to the competent authority for reference:
+
+1.Change of the network communications method or system architecture.
+
+2.Suspended use of some radio stations.
+
+If the change specified Paragraph 1 is a change in the service agreement or contract that is not related to the charge, or an addition of a radio station is established within the originally approved geological scope, and it falls under a technical or commercial experiments and research and development telecommunications network using an experimental frequency in a specific experimental field, the reasons may be stated and the revised network establishment plan and the comparison table of changes shall be attached and submitted to the competent authority for reference.
+
+If the change specified in Paragraph 1 is in compliance with the provisions of Subparagraph 1, Paragraph 1, Article 31 of the Ministry of Digital Affairs, the competent authority may re-issue a license certificate and exempt the review fee and license fee.
+
+If the change specified in Paragraphs 2 and 3 involve the changes in the network approval certificate, the applicant or administrator shall apply to the competent authority for renewal of certificate.
+
+The expiration date of network approval certificate as stipulated in Paragraph 1, Paragraph 4, and the preceding paragraph shall be the same as that of the original certificate.
+
+#### Article 33
+
+The radio station license and network approval certificate for a technical or commercial experiments and research and development telecommunications network shall not be leased, lent, transferred or used as collateral to others.
+
+An application for reissuance with the reason(s)specified shall be submitted to the competent authority for lost or damaged license or certificate mentioned in the preceding paragraph; an application for renewal shall be submitted for changes of information provided in the license and certificate.
+
+The expiration date of the reissued or renewed license and certificate in the preceding paragraph shall be the same as that of the previous ones.
+
+#### Article 34
+
+The telecommunications service of commercial experiments and research and development telecommunications network provided by an administrator shall not commence until it is approved by the competent authority and the service contract is signed with subscribers.
+
+No fee shall be charged to subscribers until the administrator has signed the service contract with subscribers as mentioned in the preceding paragraph.
+
+#### Article 35
+
+The administrator shall conclude the terms of service agreement for the services provided in accordance with the network establishment plan approved by the competent authority, which shall come into effect after a public announcement; the same shall apply to changes.
+
+The agreement set forth in the preceding paragraph shall clearly state that the services to be used are temporary and experimental, and that the subscribers have no obligations to subscribe to any telecommunications services operated by the administrators in the future. In addition, subscribers shall not use the services to conduct commercial action for profit specified in Paragraph 4, Article 5.
+
+If administrators charge subscribers and formulate service contracts, the service contract template shall be incorporated into the service agreement and comply with the following provisions:
+
+\1. The bills for notifying subscribers of the payment shall provide the details of payment; the billing period shall not exceed one (1) month except for the advance receipt or the written consent of both parties.
+
+\2. Payment receipts shall be provided after payments are received from subscribers.
+
+\3. A mechanism shall be provided that allows subscribers to access payment details and settle service disputes.
+
+\4. Subscribers shall not be charged for services that subscribers have not agreed to use by consent in writing.
+
+The items, standards and refund conditions and methods for the administrator to charge subscribers shall be reported to the competent authority for reference before implementation, and shall be fully disclosed in the appropriate manners such as media, websites and announcements of various business premises; the same shall apply to changes or cancellation.
+
+The charge items specified in the preceding paragraph include various items that use the services provided by the commercial experiments and research and development telecommunications network. The item name shall be marked with text "commercial experiments and research and development telecommunications network." Should it be deemed that consumer rights or fair competition have been hindered, the NCC shall require corrective action to be undertaken within a prescribed period.
+
+If a subscriber violates the provisions of Paragraph 4, Article 5 for profit-seeking actions, administrators shall immediately cease providing the service.
+
+#### Article 36
+
+A technical and commercial experiments and research and development telecommunications network shall not interconnect with any network of a telecommunications enterprise or broadcasting and television enterprise. However, this does not apply to any of the following:
+
+\1. Emergency communications for land, marine and air transportation distress and rescue, and the traffic safety of meteorology for aviation.
+
+\2. The necessity of conducting emergency communications to maintain national security, public order or public interests.
+
+\3. Communications in order to cooperate with the relief operations of natural disasters, incidents or emergency situations.
+
+\4. Others approved by the competent authority.
+
+The administrator and telecommunications business of interconnection shall negotiate and reach an agreement on the network interconnection in the preceding proviso.
+
+#### Article 37
+
+Should any of the following occur to an applicant, the competent authority may revoke or withdraw the network establishment approval in addition to the punitive measure in accordance with these Regulations:
+
+\1. Violation of Paragraph 1 of Article 33;
+
+\2. False information or document provided in the application package;
+
+\3. Concern of endangering personal safety and property or violation of public order, good social customs or national security and has been asked by the competent authority for sufficient corrective actions but failed to do so by the given deadline.
+
+\4. The frequency use certificate has been revoked by the Ministry of Digital Affairs or has expired without reapplication.
+
+\5. Failing to establish the network according to the approved network establishment plan.
+
+#### Article 38
+
+Should any of the following occur to an administrator, the competent authority may revoke or withdraw the network approval certificate in addition to the punitive measure in accordance with these Regulations:
+
+\1. Violation of Article 5;
+
+\2. Violation of Paragraph 1 of Article 33;
+
+\3. Violation of Paragraph 1 of Article 36;
+
+\4. False information or document provided in the application package;
+
+\5. Concern of endangering personal safety and property or violation of public order, good social customs or national security and has been asked by the competent authority for sufficient corrective actions but failed to do so by the given deadline.
+
+\6. Failure to conduct according to the approved network establishment plan that is deemed by the competent authority as a major violation.
+
+\7. The frequency use certificate has been revoked by the Ministry of Digital Affairs or has expired without reapplication.
+
+\8. The network establishment approval has been revoked by the competent authority.
+
+\9. The same network does not have any valid radio station.
+
+#### Article 39
+
+When terminating network operation prior to the expiration of network approval certificate, the administrator shall report to the competent authority with reasons for future reference one (1) month prior to the scheduled termination date and the competent authority shall revoke the network approval certificate.
+
+In any of the following circumstances, the applicant or administrator shall immediately cease the establishment or use of the network, and shall remove all network equipment that has been established:
+
+\1. The frequency use certificate has been revoked or has expired without reapplication.
+
+\2. The network approval certificate has been revoked by the competent authority.
+
+Administrators that charge subscribers a fee shall inform subscribers one (1) month prior to the date of the scheduled termination of the use of the network, stating the content and manner in which subscribers may exercise their rights and interests. In addition, the experiment termination plan shall be submitted to the competent authority for reference.
+
+The following information shall be provided in the termination plan specified in the preceding paragraph:
+
+\1. Refund measures for security deposits and overpayments.
+
+\2. Specific implementation action to notify user.
+
+\3. Other measures concerning consumer protection.
+
+#### Article 40
+
+Fees charged by the administrators to subscribers shall be refunded in principle of good faith and fairness, as well as the content of the service contract in case that the network examination approval certificate is revoked by the competent authority or the charged service is no longer provided.
+
+#### Article 41
+
+Administrators shall submit a report to the competent authority on the achievements of network utilization in one（1）month of the day to terminate network utilization, including parameters or data of each measurement, records, statistics, and analysis, and suggestions for policy or regulatory amendments.
+
+The results reported by administrators of commercial experiments and research and development telecommunications networks shall include commercial verification results in addition to those specified in the provisions of the preceding paragraph.
+
+With a requirement to monitor telecommunications activities, the competent authority may disclose the achievements of network utilization submitted by administrators.
+
+#### Article 42
+
+The competent authority shall, in consideration of the experimental actions being conducted, review and amend relevant laws and regulations in a timely manner. If it involves cross-institutional（organizational）cooperation, it shall be transferred to the relevant authorities（organizations）.
+
+#### Article 43
+
+Administrators shall take necessary measures, to ensure not to interfere with legally established telecommunications networks and radio stations; should interference occur, the competent authority shall order administrators to stop operating temporarily; the competent authority shall revoke the approval of the network establishment or network examination approval certificate of those that do not adhere to the said order.
+
+## Chapter 5 Supplementary Provisions
+
+#### Article 44
+
+Documents submitted for the application for the establishment of a technical experiments and research and development telecommunications network or a commercial experiments and research and development telecommunications network shall not be returned.
+
+If the documents submitted by the applicant or the content thereof are incomplete, the competent authority may require the applicant to make corrections within a prescribed period. If the corrections are not made or the documents remain incomplete after correction, the application shall be rejected.
+
+#### Article 45
+
+When revoking or canceling the network establishment approval or network approval certificate of the applicant or administrator, the competent authority shall notify the Ministry of Digital Affairs.
+
+#### Article 46
+
+The Administrative Regulations on Manufacturing, Import and Report of the Controlled Telecommunications Radio-Frequency Devices shall apply to the telecommunications radio-frequency equipment that is manufactured, imported, established or possessed by applicants or administrators.
+
+If the equipment that the applicant or administrator is required to remove as prescribed by the Regulations is wireless equipment of the radio station, the equipment shall be sealed, destructed, transferred, or have its flow direction, use, and status regularly reported in accordance with the Administrative Regulations on Manufacturing, Import and Report of the Controlled Telecommunications Radio-Frequency Devices, unless they are leased, lent, or otherwise specified by the regulations.
+
+#### Article 47
+
+For the forms and certificates stipulated in these Regulations, the items to be included in their contents and their formats shall be separately announced by the competent authority, unless otherwise specified in these Regulations.
+
+#### Article 48
+
+These Regulations shall be effective on the promulgation date.
+
+## History
+
+1.47 Articles enacted and promulgated in full on July 9, 2020, by the order of the National Communications Commissions, Ref. Tong-Chuan-Tzu-Yuan-Zih No.10943016530
+
+2.Amended and promulgated on November 14, 2024 by the order of the National Communications Commissions, Ref. Tong-Chuan-Ji-Chu No. 11365025680 and the Ministry of Digital Affairs, Ref. Shu-Wei-Zi-Yuan No. 11300213120.

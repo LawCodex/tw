@@ -1,0 +1,163 @@
+---
+title: "Regulations Governing Prior Release of Commodities"
+title_zh: "商品先行放行辦法"
+identifier: "J0100026"
+type: regulation
+law_level: "命令"
+category: "行政＞經濟部＞標準檢驗目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2002-01-09
+last_amended: 2024-01-24
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100026"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Prior Release of Commodities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-economic-affairs/J0100026-regulations-governing-prior-release-of-commodities.md](../../../zh/regulations/ministry-of-economic-affairs/J0100026-regulations-governing-prior-release-of-commodities.md)) is authoritative.
+
+## Article 1
+
+These Regulations are established in accordance with Paragraph Three of Article 7 of the Commodity Inspection Act (the Act).
+
+## Article 2
+
+The ‘inspection authority’ mentioned in these Regulations refers to the Bureau of Standards, Metrology and Inspection of the Ministry of Economic Affairs (the BSMI), its branches, or other commissioned government agencies, legal entities or organizations.
+
+## Article 3
+
+The obligatory inspection applicants (applicants) who import commodities that are subject to batch-by-batch inspection or monitoring inspection may apply to the inspection authority for prior release of their commodities after submitting an application for inspection under the following circumstances:
+
+1.The inspection processing period has required more than five days;
+
+2.The commodities have not yet been marked or labelled in accordance with Articles 11 and 12 of the Act;
+
+3.The commodities that are subject to type-approved batch inspection have not yet obtained type approval;
+
+4.The commodities are bulky in size, require special sampling tools, have various types, or are under other special conditions that cannot be sampled or examined at the airport or harbour warehouse;
+
+5.The commodities require modification, adjustment, reprocessing, or separate packaging;
+
+6.The disqualified commodities have been approved to be modified, adjusted, or reprocessed, that re-application for inspection will be submitted for;
+
+7.Unfinished commodities;
+
+8.The commodities are dissembled in whole or in parts;
+
+9.Liquid or gaseous petroleum commodities; or
+
+10.Other commodities that are approved by the BSMI for prior release.
+
+Permission for a prior release issued in accordance with subparagraph 3 of the preceding paragraph shall be limited to one time only for each applicant with the same commodities, except application for type test or type approval has been filed or under special conditions approved by the BSMI.
+
+If an inspection batch with application for prior release in accordance with paragraph 1 is selected for sampling or examining, the inspection authority shall dispatch personnel to the port for this purpose. However, in cases specified in subparagraph 4 of paragraph 1, or where finished products are not available for sampling at the port, the inspection authority may conduct sampling or examining at the storage place after prior releasing.
+
+## Article 4
+
+The applicants who import commodities that are subject to Registration of Product Certification (RPC) may apply to the inspection authority for prior release of their commodities under the following circumstances:
+
+1.The registered commodities have not yet been marked or labelled in accordance with Articles 11 and 12 of the Act;
+
+2.The commodities which application for RPC has been made but registration has not been granted;
+
+3.The registered commodities have not yet met the corrective conditions for border checks;
+
+4.The registered commodities are designated to be subject to border checks via sampling inspection but the inspection processing period over five days;
+
+5.The registered commodities are designated to be subject to border checks but cannot be examined or sampled at the airport or harbour warehouse;
+
+6.The registered commodities have not yet been finished;
+
+7.The registered commodities are dissembled in whole or in parts; or
+
+8.Other commodities that are approved by the BSMI for prior release.
+
+Permission for a prior release issued in accordance with subparagraph 2 of the preceding paragraph shall be limited to one time only for each applicant with the same commodities, except under special conditions approved by the BSMI.
+
+## Article 5
+
+A prior release of commodities to be imported shall be denied by the inspection authority under any of the following circumstances:
+
+1.There is a prior disqualified inspection record for imported commodities or purchased/sampled commodities found not to comply with the inspection requirements, and subsequently importation of the same commodities with the same item name, Commodity Classification Code, type, manufacturer, and brand is not able to pass two consecutive batches or the quantity of commodities passing inspection does not reach three times of the quantity of the disqualified commodities;
+
+2.There is a violation of the second half of paragraph 1 or 2, Article 7 of the Act within six months prior to the date of application;
+
+3.There is a failure to return, destroy, dissemble to a state where further use is not possible or subject to other necessary measures pertaining to disqualified commodities within the period prescribed in the paragraph 1, article 9 of the Regulations Governing Disposition of Commodities Failing Inspection, and those required measures have not yet been fulfilled;
+
+4.An applicant violates Article 9 and if none of the following applies: (1) subsequently importation of the same commodities with the same item name, Commodity Classification Code, type, manufacturer, and brand passes two consecutive batches and the quantity of commodities passing inspection reaches three times of the quantity of the disqualified commodities; or (2) subsequently imported RPC commodities with the same Commodity Classification Code have continuously obtained three conformity notices for border check;
+
+5.An applicant fails to obtain the inspection certificate within one year after a prior release of the same commodities was issued, and there is no record showing that the subject commodities were returned, destroyed, dissembled to a state where further use is not possible or subject to other necessary measures;
+
+6.Prior released commodities in accordance with subparagraph 4 or 5, paragraph 1 of preceding article have been shipped out of the storage place before obtaining a conformity notice for border check, and subsequently imported RPC commodities with the same Commodity Classification Code do not continuously obtain three conformity notices for border check; or
+
+\7. There are sanitary or safety concerns.
+
+The preceding restrictions shall not apply to commodities that are bulky in size, require special sampling tools, have various types, or are under other special conditions and cannot be sampled or examined at the airport or harbour warehouse, as confirmed by the sampling staff, or under special conditions approved by the inspection authority.
+
+## Article 6
+
+The applicant shall submit an application for prior release to the inspection authority by submitting a completed application form and related documents. The inspection authority shall dispatch its personnel to the port of importation to confirm that the commodities comply with the conditions specified in paragraph 1, Article 3 or paragraph 1, Article 4 for prior release. If applicable under the proviso in paragraph 2, Article 3 or the proviso in paragraph 2, Article 4, the applicant shall also provide a letter of approval from the BSMI when applying for prior release to the inspection authority.
+
+## Article 7
+
+For applications that pass the review for prior release, the inspection authority may issue a Notice for Prior Release of Imported Commodity; for those that do not pass the review, the inspection authority shall notify the applicant.
+
+The inspection authority may first transmit the Notice for Prior Release of Imported Commodity mentioned in the preceding paragraph electronically to the Customs Administration, Ministry of Finance, to facilitate the release of the imported goods.
+
+## Article 8
+
+If prior released commodities have one of the following circumstances, the inspection authority shall dispatch personnel to seal the commodities. Other prior released commodities shall be randomly sampled in batches and be sealed by the inspection authority depending on the circumstances. The random sampling shall take place at a rate of at least one out of five batches.
+
+1.A prior release issued in accordance with subparagraph 3, paragraph 1, Article 3;
+
+2.A prior release issued in accordance with paragraph 1, Article 4;
+
+3.A prior release issued in accordance with paragraph 2, Article 5;
+
+\4.  The applicants have a violation record on the same items of commodities within a year; or
+
+\5.  The inspection authority considers as high risk commodities.
+
+If there are related procedures that shall be completed for the above-mentioned sealed commodities, an applicant shall first apply to the inspection authority for unsealing these commodities by himself and the inspection authority may dispatch personnel to supervise if necessary.
+
+After all procedures are completed, an applicant shall notify the inspection authority to send its personnel to conduct examining, sampling or sealing at the commodity storage place.
+
+## Article 9
+
+An applicant shall meet the requirements for a prior release to be issued in accordance with subparagraphs 2-3 or 5-8, paragraph 1, Article 3, subparagraph 1-3 or 6-7, paragraph 1, Article 4 within the designated period prescribed by the inspection authority. The inspection authority may send its personnel to conduct examining. The same applies to the situation where a prior release is issued in accordance with subparagraph 10, paragraph 1, Article 3 or subparagraph 8, paragraph 1, Article 4 and required to complete specific procedures within a designated period.
+
+If a commodity has been granted a RPC certificate or an Import Release Notice of Authorization after being prior released in accordance with subparagraph 3, paragraph 1, Article 3, it shall be considered as having obtained a type approval. The inspection authority shall also conduct sampling inspection besides the examining mentioned in preceding paragraph.
+
+An applicant shall apply to the inspection authority for a single extension of no longer than six months, if the commodity has any of the followings:
+
+1.A failure to obtain type approval in accordance with subparagraph 3, paragraph 1, Article 3 or register under the RPC Scheme in accordance with subparagraph 2, paragraph 1, Article 4 within the designated period prescribed by the inspection authority;
+
+2.A failure to complete the modification, separate packaging, repair, adjustment, or improvement in accordance with subparagraph 5 or 6, paragraph 1, Article 3 or correction in accordance with subparagraph 3, paragraph 1, Article 4 within the designated period prescribed by the inspection authority. However, the extension of the designated period shall not be limited to one time if those who have not exceeded the deadline of submitting an improvement plan or applying for re-inspection specified in paragraph 1,Article 7 and paragraph 3, Article 9 of the Regulations Governing Disposition of Commodities Failing Inspection;
+
+3.A failure to assemble unfinished commodities that were dissembled in whole or in parts into finished commodities in accordance with subparagraph 7 or 8, paragraph 1, Article 3 or subparagraph 6 to 7, paragraph 1, Article 4 within the designated period prescribed by the inspection authority; or
+
+4.A failure to complete the required marking or labelling in accordance with Articles 11, 12, or other requirements within the designated period prescribed by the inspection authority.
+
+The applicant shall obtain an approval by inspection authority if storage place of the commodities has been changed. The inspection authority may send its personnel to conduct examining.
+
+## Article 10
+
+These Regulations shall take effect upon the date of promulgation.
+
+## History
+
+1.Adopted and promulgated by Ministerial Order on 9 January 2002.
+
+2.Amended and promulgated by Ministerial Order on 31 December 2003.
+
+3.Amended and promulgated by Ministerial Order on 26 September 2006.
+
+4.Articles 4,5,8 and 9 amended and promulgated by Ministerial Order on 18 November 2009.
+
+5.Articles 3,5,7 and 8 amended and promulgated by Ministerial Order on 26 August 2016.
+
+6.Articles 3, 5, 6 and 9 amended and promulgated by Ministerial Order on 24 January 2024.

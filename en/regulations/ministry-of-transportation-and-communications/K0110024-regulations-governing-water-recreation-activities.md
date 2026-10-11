@@ -1,0 +1,271 @@
+---
+title: "Regulations Governing Water Recreation Activities"
+title_zh: "水域遊憩活動管理辦法"
+identifier: "K0110024"
+type: regulation
+law_level: "命令"
+category: "行政＞交通部＞觀光目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2004-02-11
+last_amended: 2024-04-16
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110024"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Water Recreation Activities
+
+> Translation. The Chinese text ([zh/regulations/ministry-of-transportation-and-communications/K0110024-regulations-governing-water-recreation-activities.md](../../../zh/regulations/ministry-of-transportation-and-communications/K0110024-regulations-governing-water-recreation-activities.md)) is authoritative.
+
+## Chapter 1: General Principles
+
+#### Article 1
+
+These Regulations are adopted pursuant to the provisions of Article 36 of the Act for the Development of Tourism (hereinafter referred to as "the Act").
+
+#### Article 2
+
+Those engaging in water recreation activities shall comply with the provisions of these Regulations.　Matters not provided for in these Regulations shall be governed by other laws and regulations as laid down by the competent central and local authorities.
+
+#### Article 3
+
+The term "water recreation activities" as used in these Regulations means the following water-related activities engaged in for recreational purposes:
+
+\1. Swimming, surfing, and diving.
+
+\2. Operating equipment for parasailing and similar activities.
+
+\3. Activities that involve the use of any type of floating equipment, including windsurfing, waterskiing, jet skiing, canoeing, rafting, banana boating, use of rubber dinghies, towable tubing, water bicycling, rowing, kitesurfing, stand up paddling and other types of floatable equipment.
+
+\4. Other water recreation activities as announced by the administrative authority.
+
+Note that “other types of floatable equipment” mentioned in the preceding paragraph (#3 above) refers to equipment that people can operate in or on the water due to its buoyancy. However, this does not include ships or boats. The safety requirements for each type of equipment shall be governed by the relevant laws and regulations issued by the Maritime Port Bureau, as well as government authorities responsible for specific locations.
+
+#### Article 4
+
+The water recreation activities management authorities referred to in these Regulations are as follows:
+
+\1. For water recreation activities located within the jurisdictions of designated scenic areas or national parks: the designated management authorities thereof.
+
+\2. For water recreation activities located outside the jurisdictions of the designated management authorities of the preceding subparagraph: the municipal or county (city) government.
+
+The water recreation activities management authorities of the preceding paragraph, for the purposes of managing water recreation activities in accordance with these Regulations, shall publicly announce the applicability of these Regulations, and only after doing so may they impose penalties pursuant to the Act.
+
+#### Article 5
+
+The water recreation activities management authorities, when imposing restrictions on the types, scope, times, and conduct of water recreation activities in accordance with Article 36 of the Act, shall make public announcements of such restrictions.
+
+When the types, scope, times, and land use, of water recreation activities referred to in the preceding paragraph overlap with the scope of the powers and responsibilities of other government authorities, such matters shall be handled as agreed after coordination with those authorities.
+
+#### Article 6
+
+Having regard to the state of the environment and resources, the water recreation activities management authorities may make public announcement of areas in which water recreation activities are prohibited.
+
+#### Article 7
+
+The water recreation activities management authorities or administrative agencies acting under their authority may temporarily suspend water recreation activities in full or in part as necessary for protecting the safety of tourists.
+
+#### Article 8
+
+Those engaging in water recreation activities shall abide by the following provisions:
+
+\1. They shall not violate public announcements by the water recreation activities management authorities indicating areas in which activities are prohibited.
+
+\2. They shall not violate public announcements by the water recreation activities management authorities indicating restrictions on the types, scope, time, and conduct of activities.
+
+#### Article 9
+
+Insofar as is necessary for the safety and management of water recreation activities, the water recreation activities management authorities may prescribe matters for attention in regard to such activities and require, inter alia, that anyone who takes customers to engage in water recreation activities or provides sites or equipment for tourists to engage in water recreation activities provide qualified lifeguards and life-saving (lifeboat) equipment.
+
+The water recreation activities management authorities shall post clearly visible notices to indicate matters that those engaging in activities there shall abide by or be aware of and emergency rescue information, and establish autonomous rescue mechanisms as dictated by actual needs.
+
+Anyone who takes customers to engage in water recreation activities and violates the requirement to provide qualified lifeguards and life-saving (lifeboat) equipment under paragraph 1 of this Article shall be deemed to have violated an order of the water recreation activities management authorities.
+
+#### Article 10
+
+Anyone who, for commercial purposes, takes customers for water recreation activities or provides sites or equipment for such activities, is required to obtain liability insurance for the tourists involved. The benefits and minimum insured amounts of the liability insurance are as follows:
+
+\1. Insured amount for bodily injury liability per person: NT$3 million.
+
+\2. Insured amount for bodily injury liability per accident: NT$24 million.
+
+\3. Insured amount for property damage liability per accident: NT$2 million.
+
+\4. Maximum indemnification amount during the policy period: NT$48 million.
+
+The items and maximum amounts of benefits in the preceding paragraph, per the Act for the Development of Tourism article 36, § 4, are as follows:
+
+\1. Personal injury medical expense benefit: NT$300,000 per tourist.
+
+\2. Disability benefit: NT$2.5 million per tourist.
+
+\3. Death benefit: NT$2.5 million per tourist.
+
+## Chapter 2: Special Provisions
+
+### Section 1: Personal Watercraft (Jetski) Activity
+
+#### Article 11
+
+The term "personal watercraft activity" means activity using a vehicle consisting of a suitably modified vehicle body that can be driven by means of balancing and the operation of a steering device, that can be returned repeatedly to an upright position and driven after overturning, that is propelled by a jet pump and driven by an internal combustion engine, and with the lower side of its upper deck measuring not more than four meters in length from the front end to the back end.
+
+#### Article 12
+
+Anyone who takes customers to engage in personal watercraft activity or who rents out personal watercrafts shall, before the activity, conduct safety instruction in the activity for the tourists.
+
+The teaching material for the safety instruction of the preceding paragraph shall be prescribed and publicly announced by the water recreation activities management authorities. The content shall include the matters specified in Articles 13 to 15 of these Regulations.
+
+#### Article 13
+
+The water recreation activities management authorities shall designate personal watercraft activity zones according to the conditions of each location.　When personal watercraft activity is taking place simultaneously with other water activities at the same location, the water recreation activities management authority must confine the personal watercraft activity to an area of water between two hundred meters and one kilometer offshore as measured from the bank.
+
+The water recreation activities management authority under the preceding paragraph must put up clearly visible signs at the activity zone; the waterway used to access the activity zone from the land shall be at least thirty meters in width and marked by clearly visible signs.
+
+Personal watercraft activity shall not take place at the same time and location as diving, swimming, or other non-motorized water recreation activities.
+
+#### Article 14
+
+A person riding a personal watercraft shall wear a safety helmet and a life jacket that is suitable for personal watercraft activity and that has a whistle attached.
+
+#### Article 15
+
+Personal watercraft activity shall proceed only in a clockwise direction, and the following rules shall be observed:
+
+\1. Meeting oncoming traffic: The two vehicles shall each move to their right and pass each other on their left sides.
+
+\2. Crossing paths: The driver of the personal watercraft on the right shall go straight ahead, and the other personal watercraft shall turn toward the right and pass behind the vehicle that is moving straight ahead.
+
+\3. Passing from behind: A vehicle overtaking another vehicle that is moving straight ahead shall pass on the left side of the other vehicle, while maintaining a suitable distance and clearly indicating its direction.
+
+### Section 2: Diving Activity
+
+#### Article 16
+
+The term “diving activities” includes snorkeling, scuba diving or free diving.
+
+The term “snorkeling” as used in the preceding paragraph refers to diving activities with diving goggles, flippers, or a snorkel;
+
+The term “scuba diving” refers to diving activities with diving goggles, flippers, breathing tubes, breathing apparatus and other oxygen supply diving equipment. The term “free diving” refers to diving without breathing equipment and only using breath-holding.
+
+#### Article 17
+
+Those engaging in scuba diving or free diving activities shall possess a relevant certificate issued by a domestic or foreign diving organization for the respective diving activities.
+
+#### Article 18
+
+Those engaging in diving activity shall abide by the following provisions:
+
+\1. Dive flag(s) shall be placed in the middle of the area of water where the diving activity is taking place, and the divers shall take surface marker buoys, lift bags, free-diving platform(s) and other buoyancy equipment to mark their diving positions.
+
+\2. Those engaging in scuba diving or free diving activities shall be accompanied by a qualified person who holds diving certification issued by a domestic or foreign diving institution and who is familiar with the diving location and meets the requirements of the preceding article.
+
+#### Article 19
+
+Those who take customers to engage in diving activities shall abide by the following rules:
+
+\1. Those taking customers to engage in scuba diving or free diving activities shall possess certification as a qualified diving instructor issued by a domestic or foreign diving institution; and the number of persons per instructor per time is limited to the following:
+
+1.1 Scuba diving: A maximum of eight persons per time.
+
+1.2 Free diving: A maximum of four persons per time; with the addition of an assistant who meets the requirements of Article 17, the limit can be increased to six persons.
+
+\2. Those taking customers to engage in snorkeling activities shall possess qualifying certification from the responsible authorities or an organization authorized by those authorities to conduct instruction and training, and each such employee may take a maximum of ten persons on each snorkeling activity.
+
+\3. Those engaging in scuba diving or free diving activities shall be able to provide relevant diving proficiency certification.
+
+\4. Those taking customers to engage in any diving activity shall be fully familiar with the conditions in the diving location, and must accurately inform the divers thereof, including informing them of at least the following matters: the time limit of the activity, the depth limit, the water current direction, the underwater terrain, dangerous areas, and the concepts and rules of environmental protection; and shall stop the activity if he or she fails to receive the compliance of any member of the diving group. He or she shall also instruct the divers to take into consideration their state of health and level of fitness.
+
+\5. Surface marker buoys, lift bags, free-diving platform(s) and other buoyancy equipment shall be taken on every diving activity, and dive flag(s) shall be put in place in the diving activity location.
+
+#### Article 20
+
+A boat used for taking customers to engage in diving activity shall be equipped with a platform or ladder as needed by divers for getting on and off the boat, and also shall be equipped with a mobile telephone or other communications equipment that has waterproofing and a satellite positioning function, to be kept on the person of the diving instructor for contact and communications purposes.
+
+#### Article 21
+
+A boat captain or pilot taking customers to engage in diving activity shall abide by the following rules:
+
+\1. Shall make sure prior to departure that communication equipment is in sound working order.
+
+\2. Shall be fully familiar with the conditions at the diving location, and accurately inform the divers thereof.
+
+\3. Shall raise a dive flag on the boat at all times when passengers are in the water engaging in diving activity.
+
+\4. Shall keep the boat at the diving location until the divers have concluded their diving activity and returned to the boat.　In the event that a diver has failed to conclude the activity and return to the boat on time, shall use communication and related equipment to call for help, shall conduct search and rescue in the diving area, and shall not sail the boat away from the diving location before support vessels have arrived there.
+
+### Section 3: Canoeing Activity
+
+#### Article 22
+
+The term "canoeing activity" means the use for activity on water of a boat that is long and narrow in structure, is not equipped with mechanical means of propulsion, and is propelled by means of a paddle.
+
+#### Article 23
+
+A person engaging in canoeing activity shall not do so alone in a single vessel, and shall wear a life-vest that has a whistle attached to it.
+
+#### Article 24
+
+Anyone taking customers to engage in canoeing activity shall abide by the following rules:
+
+\1. Shall be equipped with wireless communication equipment that has a rescue and reporting mechanism, and shall require that it be carried by those taking customers on canoeing activity.
+
+\2. Customers being taken to engage in canoeing activity shall be organized into groups, with one person as a leader, and each group consisting of no more than twenty persons or ten canoes.
+
+\3. A person taking customers to engage in canoeing activity shall be fully familiar with the conditions at the activity location, and accurately inform the participants thereof, including at least informing them of the time limit of the activity, the speed of the water current, dangerous areas, and the concepts and rules of environmental protection.
+
+\4. Rescue buoys shall be carried on every activity.
+
+### Section 4: Rafting Activity
+
+#### Article 25
+
+The term "rafting activity" means activity conducted on a river involving the operation of an inflatable rubber watercraft.
+
+#### Article 26
+
+Those engaging in rafting activities shall register with the water recreation activities management authorities prior to engaging in such activities.
+
+Anyone who takes customers to engage in rafting activities shall, before the activity, conduct safety instruction in the activity for the tourists.
+
+The content of the safety instruction of the preceding paragraph shall be prescribed and publicly announced by the water recreation activities management authorities.
+
+#### Article 27
+
+A person engaging in rafting activity is required to wear a life-vest and safety-helmet, and the life-vest shall have a whistle attached.
+
+### Section 4-1: Other activities with floating equipment
+
+#### Article 27-1
+
+Before any person or entity engages in taking customers on events involving water recreation activities with floating equipment other than those listed in Section 1, 3 and 4, they shall register with the appropriate administrative authorities.
+
+Anyone who takes customers to engage in the aforementioned activities shall provide appropriate safety instructions regarding the activity to the tourists before commencing the activity.
+
+The specific content of such safety instructions shall be prescribed and publicly announced by the relevant administrative authority for the water recreation activity involved.
+
+## Chapter 3: Supplementary Provisions
+
+#### Article 28
+
+The format of all documents and forms as required by these Regulations shall be decided by the administrative authority.
+
+#### Article 29
+
+These Regulations shall come into force on the date of issuance
+
+## History
+
+\1. Promulgated on February 11, 2004
+
+\2. Amended on March 18, 2016
+
+\3. Amended on January 10, 2019
+
+\4. Amended on September 2, 2021
+
+\5. Amended on February 22, 2023
+
+\6. Amended on April 16, 2024

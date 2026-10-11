@@ -1,0 +1,271 @@
+---
+title: "Regulations Governing Banks Conducting Financial Products and Services for High-Asset Customers"
+title_zh: "銀行辦理高資產客戶適用之金融商品及服務管理辦法"
+identifier: "G0380267"
+type: regulation
+law_level: "命令"
+category: "行政＞金融監督管理委員會＞銀行目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2020-08-07
+last_amended: 2025-03-03
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380267"
+retrieved: 2026-10-12
+---
+
+# Regulations Governing Banks Conducting Financial Products and Services for High-Asset Customers
+
+> Translation. The Chinese text ([zh/regulations/financial-supervisory-commission/G0380267-regulations-governing-banks-conducting-financial-products-and-services-for-high.md](../../../zh/regulations/financial-supervisory-commission/G0380267-regulations-governing-banks-conducting-financial-products-and-services-for-high.md)) is authoritative.
+
+## Article 1
+
+The Regulations are established in accordance with Article 3, Subparagraph 22; Article 28, Paragraph 1; Article 45-1, Paragraph 4, and Article 72-1 of the Banking Act, Article 18-1, Paragraph 2 of the Trust Enterprise Act, and Article4, Paragraph 1, Subparagraph 6 and Subparagraph 11 of the Offshore Banking Act.
+
+The financial products and services applicable for high-asset customers conducted by banks shall be governed by the Regulations. Items not included in the Regulations shall be governed by other laws and regulations on the natural persons or juristic persons of professional investors or the natural persons or juristic persons of professional customers.
+
+## Article 2
+
+Items specified as "provided in writing" in the Regulations may be provided in electronic documents in accordance with regulations in the Electronic Signatures Act. Items specified as “signature” or “sign” in the Regulations may be provided in electronic signature or digital signature in accordance with regulations in the Electronic Signatures Act.
+
+## Article 3
+
+A "high-asset customer" specified in the Regulations refers to a natural person or juristic person that accepts personalized or customized financial products or services provided by banks (banks refer to designated exchange banks and offshore banking units). A customer that meets the following conditions may file an application provided in writing to the bank to become a high-asset customer.
+
+\1. The customer provides proof of financial capacity equivalent to NT$100 million or above in net value of investable assets and insurance products value; or holds more than NT$30 million in net value of investable assets at the bank and provides a statement of holding and equivalent to NT$100 million or above in net value of investable assets and insurance products value.
+
+\2. The bank confirms that the natural person or the individual authorized by a juristic person for conducting transactions retains comprehensive professional knowledge and trading experience in financial products and confirms that the natural person or juristic person retains adequate capacity for bearing risks.
+
+\3. The customer fully understands the exemptions of the liabilities of the bank for providing financial products or services to high-asset customers and other related regulations regarding the natural persons or juristic persons of professional investors or the natural persons or juristic persons of professional customers, and agrees to sign on as a high-asset customer.
+
+The term “investable assets ”in the preceding paragraph refer to financial assets such as deposits, domestic and foreign securities or short-term bills(including bonds or short-term bills purchased through RP/RS transactions), structural products, and gold passbooks. The term "net value" refers to the amount after the customer's investment principal is deducted by the amount pledged for loans. If a financial asset has an open market value or reference price, the net value should be measured by the amount of its market value or reference price deducted by the amount pledged for loans. The term “insurance products value ”refers to the insurance policy value of the investment insurance or the insurance policy preparatory fund of the non-investment personal insurance policy.
+
+Customers that have been natural persons or juristic persons of professional investors or the natural persons or juristic persons of professional customers, meet the criteria in Paragraph 1, Subparagraph 1, and are confirmed by the bank as having adequate capacity for bearing risks may file an application provided in writing to the bank to become a high-asset customer.
+
+The bank shall be responsible for exercising due diligence on the criteria of high-asset customers, obtaining reasonable and credible corroborative evidence from customers, reviewing and giving its approval in accordance with the “Know Your Customer (KYC)”procedures and customer acceptance criteria established by the bank.
+
+A customer that meets the criteria for high-asset customers in Paragraph 1 or Paragraph 3 is also deemed to be as a natural person or juristic person of a professional investor specified in related business regulations on financial products or services. However, financial derivatives transaction traded with high-asset customers must meet requirements of the criteria on professional customers and restrictions on client types in the regulations for banks conducting financial derivatives business established by the Financial Supervisory Commission (hereinafter referred to as the FSC) or the Central Bank of the Republic of China (Taiwan) (hereinafter referred to as the Central Bank).
+
+The bank shall carry out at least one review every two years in accordance with the review procedures it established to ensure that the customer continue to meet the qualification criteria for high-asset customers. The bank shall regularly evaluate the value of the customer's investable assets at the bank. If the bank discovers that the value of the customer's investable assets is below the standards of financial capacity required for high-asset customers, the bank must obtain the customer's confirmation provided in writing for whether it wishes to continue to add new financial products or services applicable for high-asset customers as defined in Article 5, Paragraph 1.
+
+A high-asset customer may file an application provided in writing to the bank to terminate its status as a high-asset customer.
+
+## Article 4
+
+The bank shall explain the following items to high-asset customers through face-to-face consultation or video conference and confirm that the customer understands and has sufficient knowledge of investment risks before providing financial products or services:
+
+\1. Explain the customer's status as a high-asset customer and the bank shall use the information obtained through KYC procedures as the basis for providing personalized or customized financial products or services.
+
+\2. Explain that the customer must fully understand the potential risks and maximum possible loss of financial products or services before deciding to invest in financial products or accepting services. High-asset customers are classified as professional investors or professional customers when receiving financial products or services provided by banks and therefore the regulations in the Financial Consumer Protection Act do not apply to high-asset customers.
+
+\3. Explain the summary of information obtained in the bank's KYC procedures implemented for the customer.
+
+\4. Explain the scope of personalized or customized financial products or services the bank plans to provide for the customer, including the financial products or services applicable for high-asset customers specified in the Regulations.
+
+The bank shall retain records provided in writing and audio recording of the notification and explanation procedures provided for high-asset customers in the preceding paragraph. Where the customer does not agree to use audio recordings, the bank shall formulate a record provided in writing and ask the customer to sign for confirmation.
+
+## Article 5
+
+The financial products and services applicable for high-asset customers specified in the Regulations (hereinafter referred to as the business) refer to the financial products and services that banks may provide to high-asset customers in accordance with the following regulations:
+
+\1. Offshore banking units(OBUs)that process Taiwan-equity linked derivatives denominated in foreign currencies (including structured products) of their head offices (or foreign banks' branches in Taiwan) approved or recorded by the FSC or the Central Bank are not required to file separate applications for each case and shall abide by the following regulations:
+
+(1) The underlying assets are restricted to Taiwan stock market indexes (including products of Taiwan stock market indexes listed in foreign exchanges) or exchange-traded funds (ETFs).
+
+(2) The pricing and clearing must be conducted in foreign currencies and must not be settled in physical form.
+
+(3) The related risk exposure in conducting the business shall be covered through back-to-back arrangements with the head office of the domestic bank or the foreign bank's branch in Taiwan. The pricing, clearing, and settlement must be conducted in foreign currencies.
+
+(4) The transaction counterparties are restricted to offshore high-asset customers. If an offshore high-asset customer is an offshore overseas compatriots or foreign national, the requirement for the confirmation of registration of an offshore overseas compatriots or foreign national counterparty in the "Taipei Exchange Regulations Governing Over-the-Counter Trading of Financial Derivatives by Securities Firm" specified in Article 37, Paragraph 1 of the “Regulations Governing Internal Operating Systems and Procedures for Banks Conducting Financial Derivatives Business” does not apply.
+
+\2. Designated foreign exchange banks(DBUs)that conduct securities business and trade structured bonds denominated in foreign currencies shall abide by the following regulations:
+
+(1) The target of the transaction may be offshore structured products specified in Article 17, Paragraph 1, Subparagraph 1 to Subparagraph 3 of the Regulations Governing Offshore Structured Products.
+
+(2) The offshore issuer or guarantor of an offshore structured product must set up its parent company, branch, or subsidiary in the territory of the Republic of China(Taiwan)to serve as the domestic agent. The aforementioned domestic agent must be a securities firm, bank, or insurance company established with the approval of the FSC.
+
+(3) The domestic agent agrees to be jointly and severally liable with the issuer or guarantor of the offshore structured product.
+
+\3. Offshore structured products with the same issuer and the same structure or the same risk rating can be reviewed in accordance with the customized internal guidelines on product characteristics review. The regulations prescribed by Taiwan Financial Services Roundtable specified in Article 20, Paragraph 1 of the Regulations Governing Offshore Structured Products do not apply.
+
+\4. The credit rating requirements of foreign bonds do not apply to the regulations specified in Article 10, Subparagraph 7 of the Regulations Governing the Scope of Business, Restrictions on Transfer of Beneficiary Rights, Risk Disclosure, Marketing, and Conclusion of Contract by Trust Enterprises or the FSC's regulations regarding credit ratings specified in Article 5, Paragraph 1 of the Regulations Governing Securities Trading on the Taipei Exchange.
+
+\5. An offshore structured product issued by an overseas branch institution or a subsidiary of a domestic bank or securities firm that meets the following conditions may be processed by an bank that carries out the business in trust investment, proprietary trading, or sales to high-asset customers of DBUs or offshore high-asset customers of OBUs; the regulations regarding the issuer or master agent in Chapter 2 of the Regulations Governing Offshore Structured Products are not applicable:
+
+(1) The issuer must be an offshore branch or a subsidiary bank with direct or indirect investment and more than 50% of shares held by a domestic bank conducting the business, or a subsidiary company of a domestic securities firm that meets the qualifications in Article 4, Paragraph 1 of the Regulations Governing the Issuance of Exchange Traded Notes by Securities Firms and holds directly or indirectly more than 50% of the shares of the subsidiary company.
+
+(2) The domestic bank or securities firm shall serve as the domestic agent of the offshore structured product. It shall agree to be jointly and severally liable with the issuer or guarantor of the offshore structured product or serve as the guarantor.
+
+(3) Offshore structured products must meet regulations specified in Article 17, Paragraph 1, Subparagraph 1 to Subparagraph 3 of the Regulations Governing Offshore Structured Products. However, the regulations regarding the credit rating in Subparagraph 1 may be replaced by the long-term debt credit rating the domestic bank or securities firm the issuer belongs to.
+
+\6. The bank debentures denominated in foreign currencies that are issued by DBUs based on an application filed in accordance with the Regulations Governing Issuance of Bank Debentures by Banks may be linked to financial derivatives or be processed as structured bonds in accordance with these Regulations and the interest rate terms may be set to those other than a positive floating rate or fixed rate. Such banks shall also abide by the following regulations:
+
+(1) For the issuance and sales of bank debentures, the bank must specify in prominent fonts on the cover of the prospectus or investment memorandum and inform investors that the sales and recipient of a transfer after sales of the product are only restricted to professional institutional investors, high net worth corporate investors, high-asset customers, juristic persons or funds of professional investors, and natural persons of professional investors as defined in the Regulations.
+
+(2) The scope of the types of financial derivatives and linked underlying include contracts involving forex-related business and the values of which are derived from interest rates, exchange rates, equities, indices, commodities, or a combination thereof approved or recorded by the FSC or the Central Bank, or permitted in accordance with the Regulations Governing Internal Operating Systems and Procedures for Banks Conducting Financial Derivatives Business and Regulations Governing Foreign Exchange Business of Banking Enterprise. However, they may not be derived from New Taiwan Dollar (NTD)exchange rates or credit events.
+
+(3) Where the linked underlying involves Taiwan-equity linked equities, the scope of eligible linked underlying shall be the same as those permitted for securities firms that engage in transactions of Taiwan-equity linked equity derivatives and Taiwan-equity linked structured products. However, they may not be linked to an individual stock or a basket of stocks that are not ETFs.
+
+(4) The provisions in the Regulations Governing Internal Operating Systems and Procedures for Banks Conducting Financial Derivatives Business shall apply mutatis mutandis to the internal control system, risk management, and valuation mechanisms of the derivative financial product positions.
+
+(5) The market risks and gains or loss of linked financial derivatives shall be included in the bank's risk management mechanisms of conducting financial derivatives for control and management.
+
+\7. DBUs and OBUs conducting this business may provide the bank debentures specified in the preceding subparagraph in the ways of trust investment, proprietary trading, or sales. The transaction counterparties of OBUs are restricted to offshore high-asset customers and they must abide by the following regulations:
+
+(1) The pricing, clearing, and settlement must be conducted in foreign currencies.
+
+(2) The linked underlying may not be NTD exchange rate, NTD interest rate indices or products denominated in NTD.
+
+\8. Other new financial products or consulting services necessary for meeting personalized or customized demands of high-asset customers approved by the FSC.
+
+DBUs may provide professional institution investors or high net worth corporate investors with financial products or services specified in Subparagraph 4 to Subparagraph 8 of the preceding paragraph.
+
+DBUs and OBUs that conduct this business may offer offshore structured products or structured bonds issued in accordance with Paragraph 1, Subparagraph 5 or 6 to juristic persons or funds of professional investors, and natural persons of professional investors in the ways of trust investment, proprietary trading, or sales. The counterparties of the OBUs are restricted to offshore juristic persons or funds of professional investors, and offshore natural persons of professional investors, and they must comply with the provisions of Paragraph 1, Subparagraph 7, Item 1 and Item 2.
+
+The professional institutional investors, high net worth corporate investors, juristic persons or funds of professional investors, and natural persons of professional investors referred to in the three preceding paragraphs are those who meet the requirements in Article 3, Paragraph 3, Subparagraph 1 to Subparagraph 4 of the Regulations Governing Offshore Structured Products.
+
+OBUs may provide domestic financial institutions within the territory of the ROC (Taiwan) defined in Article 4, Paragraph 2 of the Offshore Banking Act, offshore professional institution investors, and offshore high net worth corporate investors with financial products or services specified in Paragraph 1, Subparagraph 1 and Subparagraph 4 to Subparagraph 8. However, the financial products or services that OBUs may provide to domestic financial institutions do not include those processed via trusts.
+
+## Article 6
+
+Banks that conduct the business shall abide by the following regulations:
+
+\1. The bank shall establish an appropriate product suitability policy which shall at least include the KYC procedures, overall customer investment portfolio suitability, and high-risk concentration management.
+
+\2. Products evaluated as high-risk products must be provided with a risk disclosure statement to fully explain and disclose the product's conditions and risks. The bank may only proceed with transactions after the customer fully understands its investment risks and signs the risk disclosure statement.
+
+\3. The bank shall establish review standards of the product review panel for the launch of products, review procedures, and monitoring and control mechanisms, and submit them to the board of directors for approval. The monitoring and control mechanisms shall include risk identification, assessment, monitoring and control operations, and products that involve investment disputes.
+
+\4. Where the bank applies to conduct consulting services specified in Paragraph 1, Subparagraph 8 of the preceding article, if the bank cooperates with external institutions, it must explain the necessity, legality, process flow, internal controls, and operating procedures. Where the bank outsources its operations to a third party, it shall be processed in accordance with the Regulations Governing Internal Operating Systems and Procedures for the Outsourcing of Financial Institution Operation.
+
+\5. Where the bank provides offshore structured products specified in Paragraph 1, Subparagraph 2 and Subparagraph 5 of the preceding article or works with an offshore entity to introduce offshore structured products to high-asset customers, it must agree or enter an agreement provided in writing with the offshore entity or its domestic agent and confirm the following items:
+
+(1) For the outstanding financial product, the offshore entity or its domestic agent shall provide product information and marketing documents in English and it must also provide related information of the financial product such as the important product characteristics, risk ratings, and product reference price in Chinese to investors who request such information.
+
+(2) In the event of an investment dispute involving the offshore entity who bears the responsibility shall be held responsible for the liabilities. The domestic agent shall assist the bank in processing the dispute and serve as the agent of service for the delivery of litigation and other documents regarding the investment dispute.
+
+(3) Where the offshore financial product causes material impact on investor interests, the offshore entity shall propose a solution for processing the issue and report it to the bank within three days of the occurrence of the fact. The bank shall then forward the information to the high-asset customers.
+
+\6. The regulations on reporting in Article 10 of the Regulations Governing Offshore Structured Products apply mutatis mutandis to domestic banks or securities firms that serve as the domestic agents of offshore structured products specified in Paragraph 1, Subparagraph 5 of the preceding article.
+
+\7. Banks conducting the business specified in the preceding article or the design and combination of the linked underlying of financial products may not engage in mergers, illegal transactions, or embellishment or manipulation of financial statements for itself or in cooperation with customers. They shall also prevent conflicts of interest and insider trading in accordance with laws and internal regulations.
+
+\8. Banks that process financial product transaction documents, transaction instructions, and transaction confirmation sent by high-asset customers through electronic or communication equipment (hereinafter referred to as digital financial services) must establish identity verification mechanisms, transaction content and authorization verification procedures, security control and management, and mal practice prevention procedures in accordance with related security control and management regulations established by the FSC, Central Bank, and the Bankers Association of the Republic of China.
+
+\9. Bank shall establish enhanced internal controls, risk management, and code of conduct management mechanisms for conducting the business, which shall at least include the following items:
+
+(1) Capabilities standards and training required for personnel that conduct the business.
+
+(2) Criteria for accepting customers, KYC procedures, review procedures, and suitability management policies.
+
+(3) Customer relationship management including marketing control and methods for the bank to manage customer assets, principles and transaction authorization procedures for providing investment recommendations, disclosure of fees, routine and ad hoc reports, and complaint policies and channels.
+
+(4) The risk control and management mechanisms for customers’ overall investment positions and overall asset allocation. The bank shall review the gains or loss of high-asset customers' investment positions and asset allocation status and remind customers of the risks of over-concentrated investment positions.
+
+(5) Policies for ensuring professional and ethical business operations and preventing conflicts of interest.
+
+(6) Internal controls, security control and management, and malpractice prevention measures for digital financial services.
+
+(7) Money laundering and terrorism financing risk assessment of the business and corresponding risk management measures.
+
+(8) Control of fraud risks.
+
+(9) Principles of treating customers fairly.
+
+(10) Independent reporting, assessment, and response measures for compliance tests and risk alerts.
+
+## Article 7
+
+Banks that meet the following criteria may apply to the FSC for conducting the business:
+
+\1. Financial soundness:
+
+(1) The common equity ratio, tier 1 capital ratio, and capital adequacy ratio for the latest half year shall be at least 9.5%, 11%, and 13%; foreign bank branches in Taiwan shall meet the criteria based on the ratios of their head offices and the total net worth of all branches of a foreign bank in Taiwan and its OBU shall not be lower than the minimum amount of working capital required by the FSC.
+
+(2) The bank's latest CPA-audited semi-annual financial report with "unqualified opinion" or "unqualified opinion subsequent to revision", and the bank does not report loss or cumulative loss in said financial report;
+
+(3) The bank's provision ratio for tier 1 credit assets for the latest half year is above 1%, and loan loss provision and reserve against liability on guarantees for other classes of credit assets are fully allocated;
+
+(4) The bank's non-performing loan ratio does not exceed 1% and its loan loss coverage ratio is above 100% for the latest half year;
+
+\2. Compliance: The bank has no significant penalties or sanctions imposed by the competent authorities within the most recent year for violations of financial laws or regulations directly related to the application. However, the bank is not subject to this restriction if such events were rectified or specific rectification measures were proposed to and approved by the FSC.
+
+\3. Effectiveness of the internal control system and risk management culture:
+
+(1) The bank's implementation status of legal compliance, consumer protection, and risk management are satisfying and concrete improvements have been made for material defects in internal controls.
+
+(2) The bank has adequately processed customer complaints and maintains satisfactory quality of treating customers fairly.
+
+(3) The bank provides evidence for explaining the effective implementation of corporate governance by the board of directors and senior management personnel and takes measures to enhance the effectiveness of the risk management culture.
+
+\4. Business operation capability and investment of resources:
+
+(1) The bank retains resources for providing cross-border financial services.
+
+(2) The bank sets up posts and allocation of international financial service professionals and proposes the use of professional training resources for talent development for the next three years.
+
+(3) The bank has product development and market research departments and professional manpower.
+
+(4) The bank has established comprehensive salary incentives and appraisal systems and specifies the violations of regulations and internal operating procedures as deductions in performance evaluations.
+
+(5) The bank has comprehensive risk management information system and management mechanisms such as the risk management system for customer credit limits, financial product quotation and valuation system, and the customers' overall investment portfolio suitability and risk management system. Branches or subsidiaries of foreign banks in Taiwan shall explain the application state of the risk management information system of the head office or parent bank.
+
+## Article 8
+
+Banks conducting the business shall apply for approval from the FSC and submit the following documents:
+
+\1. The legal compliance statement;
+
+\2. The minutes containing board resolutions; Branches of foreign banks in Taiwan may use consent forms submitted by authorized personnel of the head office or the regional headquarters.
+
+\3. Business plan:
+
+(1) Business plans for conducting the business.
+
+(2) Evidence or supporting documents or information that the bank meets the criteria established in the preceding article.
+
+(3) Explanation of the other new financial products or consulting services necessary for meeting personalized or customized demands of high-asset customers in the application filed in accordance with Article 5, Paragraph 1, Subparagraph 8.
+
+(4) The internal operating procedures shall include the following items:
+
+a. Departments of conducting the business and division of labor of the internal organization, qualifications of business personnel, and the code of conduct.
+
+b. Procedures for the protection of customer interest and dispute resolution.
+
+c. Operating guidelines and procedures.
+
+d. Enhanced Internal controls, risk management, and code of conduct management mechanisms for conducting the business.
+
+\4. Other items specified by the FSC.
+
+Banks shall include the internal operating procedures of conducting the business in the internal control and internal audit items.
+
+## Article 9
+
+Banks that are approved to conduct the business shall be permitted to implement operations for the period of three years starting from the date of authorization. Banks shall report the following business operation conditions to the FSC for review six months before the expiry of the period as the basis for the approval of the continued operation or termination of the business.
+
+\1. Business implementation results, scale, and benefits.
+
+\2. Internal control and risk management conditions.
+
+\3. Presence of material customer complaints, disputes, and processing status.
+
+\4. Implementation details of advanced talent cultivation and training, and participation in promoting talent optimization and industrial development of Taiwan’s wealth management services.
+
+\5. Development of innovative domestic financial products.
+
+## Article 10
+
+These Regulations are effective from the date of promulgation.
+
+## History
+
+\1. Promulgated on August 7, 2020
+
+\2. Article 7 amended on 24 May, 2022 per Order No. Jin-Guan-Yin-Fa-Zi- 11102714071 of the Financial Supervisory Commission
+
+\3. Article 5 and 7 amended on 12 December, 2023 per Order No. Jin-Guan-Yin-Wai-Zi- 11202740971 of the Financial Supervisory Commission
+
+\4. Article 2, 5, 7 and 9 amended on 3 March, 2024 per Order No. Jin-Guan-Yin-Wai-Zi- 11402704351 of the Financial Supervisory Commission

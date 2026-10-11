@@ -1,0 +1,227 @@
+---
+title: "Regulations for the Distinction between Television Programs and Advertisements, Product Placement Marketing, and Sponsorships"
+title_zh: "電視節目廣告區隔與置入性行銷及贊助管理辦法"
+identifier: "P0050055"
+type: regulation
+law_level: "命令"
+category: "行政＞國家通訊傳播委員會＞傳播目"
+jurisdiction: tw
+language: en
+translation: true
+translation_note: "English translation published by the Ministry of Justice for reference; the Chinese text is the authoritative version."
+date: 2016-11-11
+last_amended: 2023-10-13
+status: in_force
+source: "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0050055"
+retrieved: 2026-10-12
+---
+
+# Regulations for the Distinction between Television Programs and Advertisements, Product Placement Marketing, and Sponsorships
+
+> Translation. The Chinese text ([zh/regulations/national-communications-commission/P0050055-regulations-for-the-distinction-between-television-programs-and-advertisements.md](../../../zh/regulations/national-communications-commission/P0050055-regulations-for-the-distinction-between-television-programs-and-advertisements.md)) is authoritative.
+
+## CHAPTER I GENERAL RULES
+
+### Article 1
+
+The Regulations are stipulated in accordance with Paragraph 2 of Article 34-3 of Radio and Television Act, and Paragraph 2 of Article 33 of Satellite Broadcasting Act.
+
+### Article 2
+
+The terms used in the Regulations shall be defined as follows:
+
+1.Television Business: refers to a terrestrial television business, satellite broadcasting business, foreign broadcasting business, and other type of channel and program supply business.
+
+2.Title Sponsorship: refers to a program entitled with the name, logo, trademark, brand or attached pattern of the sponsor’s product, service, business / enterprise, agency (institution), group or person.
+
+3.Sports Event Program: refers to programs of different sports events.
+
+4.Art and Cultural Event Program: refers to programs of art and cultural events.
+
+5.News Program: refers to current affairs, critiques or other forms of programs based on facts.
+
+6.Current affairs program: refers to all types of contents based on current events.
+
+7.Children’s Program: refers to programs produced for people below the age of twelve.
+
+## CHAPTER II MANAGEMENT OF THE DISTINCTION OF PROGRAMS AND ADVERTISEMENTS
+
+### Article 3
+
+Programs broadcasted by a television business shall have a clear distinction from inserted advertisements unless otherwise stipulated in the Radio and Television Act, the Satellite Broadcasting Act and this Act.
+
+The name of programs broadcasted by a television business shall be displayed on the screen throughout the program or at the beginning of each section of the program.
+
+The advertisement inserted in the program by a television business shall be distinguishable from the program with subtitles, graphic cards, or other appropriate methods.
+
+### Article 4
+
+Programs broadcast by a television business that overtly promote or publicise a product or service, encourage consumption, or take advantage of the credulity of an audience so as to influence consumption, as in any of the following circumstances, shall be deemed as having no distinction from inserted advertisements:
+
+1.The program title includes the brand, product, or service of a specific vendor.
+
+2.The program title is connected to an inserted advertisement.
+
+3.The program participants impart the brand, product, service, telephone number, website, logo, or slogan of a specific vendor; or disclose the utility, usage, or price of a specific product.
+
+4.The program participants have participated in an advertisement that is associated with the program content.
+
+5.The program content makes use of children, celebrities, professionals, gifts, statistics, scientific data, results of trials, and other practices to highlight the value of a specific product or service.
+
+6.The props, set design, gifts, specific activities, or other designs of the program, video, audio, or other form, impart the brand, product, service, telephone number, website, logo, or slogan of a specific vendor; or disclose the utility, function, or price of a specific product.
+
+7.The props, set designs, gifts, specific activities, or other designs of the program are associated with an advertisement.
+
+8.The program content is presented with the brand, product, service, telephone number, website, logo, or slogan of a specific vendor; or discloses the utility, function, or price of a specific product.
+
+### Article 5
+
+Current affairs programs that fall under any one of the following circumstances that impart obvious promotion or publicity of a product or service, encourage consumption, or take advantage of the credulity of viewers so as to impact consumption shall be deemed as having no distinction from the inserted advertisements, unless otherwise stipulated in the preceding articles:
+
+1.Presents a single viewpoint, or a positive and in-depth coverage of a specific product or service.
+
+2.Allows the viewing of a specific brand, product, service, logo, slogan, product utility or usage that is clearly disproportionate to the program.
+
+3.Displays promotional material or advertisements provided by the vendor.
+
+### Article 6
+
+Children’s programs that fall under any one of the following circumstances that impart obvious promotion or publicity of a product or service, encourage consumption, or take advantage of the credulity of viewers so as to impact consumption shall be deemed as having no distinction from the inserted advertisements, unless as otherwise specified in Article 4:
+
+1.Encourages children to ask parents to accept the recommendation of commercial products or services related to the program content.
+
+2.Takes advantage of children's participation in order to encourage various forms of payment.
+
+## CHAPTER III MANAGEMENT OF PLACEMENT MARKETING
+
+### Article 7
+
+With the exception of the following program types, television business may conduct product placement marketing:
+
+1.News Programs.
+
+2.Children’s Programs.
+
+### Article 8
+
+Television businesses shall be forbidden from conducting product placement marketing for the following products, trademarks or services, unless otherwise stipulated by law:
+
+1.Tobacco.
+
+2.Alcohol.
+
+3.International matchmaking.
+
+4.Prescription medicine or medicine designated by central competent health authorities.
+
+5.Illegal commodities and services.
+
+6.Other commodities forbidden from advertising by law.
+
+### Article 9
+
+Where the programs broadcast by a television business are identified as making use of placement marketing, the production and broadcasting of relevant content shall be included naturally in the program content and shall not include any of the following actions:
+
+1.Purposefully altering the editing of program content.
+
+2.Direct encouragement of the purchase of a product or service.
+
+3.Exaggeration of the effect of a product or service.
+
+4.Overexposes the product, trademark or service.
+
+### Article 10
+
+Where the program broadcast by a television business is identified as having placement marketing, the name or trademark of the vendor shall be explicitly revealed before or after the said program; such displayed information shall not considered as advertising time.
+
+The displayed information in the preceding paragraph shall not contain any advertisement and shall not exceed twenty seconds.
+
+Television businesses that fail to reveal the aforementioned information before or after the broadcasting of the program, but rather displays content in the form of an advertisement shall be dealt with according to Article 3 to 6.
+
+### Article 11
+
+The program broadcast by a television business shall not be deemed as having placement marketing where the television business does not gain any profit from the product, trademark or service placed in the program in any of the following circumstances:
+
+1.The product, trademark or service in the program is identified as reasonable material for the production of the program.
+
+2.The program is produced by a foreign company and no post-production has been made by the television business.
+
+## CHAPTER IV MANAGEMENT OF SPONSORSHIP AND TITLE SPONSORSHIP
+
+### Article 12
+
+A television business shall not accept sponsorship or title sponsorship for its news programs, with the exception of sponsorships related to the tools or materials required for the broadcasting of the news programs in the studio, or hair and make-up services required by the anchors or hosts.
+
+A television business shall not accept title sponsorship for its programs for children.
+
+A television business shall not accept title sponsorship for its foreign programs broadcast between 19:00 and 23:00 hours.
+
+### Article 13
+
+Sponsorship from business entities, agencies (institutions), groups, or persons offering the following products or services shall be forbidden:
+
+1.Tobacco products.
+
+2.International marriage matchmaking.
+
+3.Commodities and services which are illegal to sell or trade by law.
+
+4.Other commodities forbidden, by law, from advertising.
+
+Title sponsorship for television programs from business entities, agencies (institutions), groups, or persons listed below or offering the following products or services shall be forbidden from imparting the names, logos, trademarks, brands, or attaching patterns of the sponsors:
+
+1.Tobacco products.
+
+2.International marriage matchmaking.
+
+3.Commodities and services which are illegal to sell or trade by law.
+
+4.Political parties, party members responsible for party affairs, proposed candidates, or candidates.
+
+5.Referendums.
+
+6.Other commodities forbidden, by law, from advertising.
+
+Where a television business accepts sponsorship or title sponsorship for its programs yet its broadcast is restricted by other laws and regulations, the television business shall comply with said laws and regulations.
+
+### Article 14
+
+Television businesses that accept sponsorship or title sponsorship in a program shall be forbidden from undertaking the following actions:
+
+1.Intervene in the editing of the program content.
+
+2.Affect the rights and benefits of the audience.
+
+### Article 15
+
+Where a television business accepts title sponsorship, the dimensions of the name, logo, trademark, brand, or related graphics of the sponsors’ products, services, businesses, agencies (institutions), groups, or persons shall not appear larger than the logo of the television business.
+
+Where a television business broadcasts a sports or arts and cultural event program, the dimensions of the name, logo, trademark, brand, or related graphics of the sponsors’ products, services, businesses, agencies (institutions), groups, or persons shall not appear on more than one half of the screen, and the sponsor’s information shall not obscure or affect the progress of the event. However, the aforementioned graphics may appear on the whole screen at such appropriate times as an entrance procession, change of venue, pause, or half time, etc.
+
+The frequency of the appearance of sponsor’s information in the preceding paragraph shall conform to the principle of proportionality and shall not affect the rights of viewers; each appearance shall not exceed three seconds and shall not be accompanied by audio. However, the appearance of sponsor’s information in an appropriate position on the screen displaying such data as scoreboards shall not be subject to time limitations.
+
+### Article 16
+
+Where a television business accepts sponsorship or title sponsorship, the name or trademark of the sponsor’s business/enterprise, agency (institution), group or person shall be explicitly revealed before or after the said program; such displayed information shall not considered as advertising time.
+
+The displayed information in the preceding paragraph shall not contain any advertisement and shall not exceed twenty seconds.
+
+Television businesses that fail to reveal the aforementioned information before or after the broadcasting of the program, but rather displays content in the form of an advertisement shall be dealt with according to Article 3 to 6.
+
+### Article 17
+
+Television businesses that accept sponsorship or title sponsorship in a program shall not reveal the sponsor information during the program, except as otherwise specified in Article 15 and Paragraph 1 of the preceding Article.
+
+## CHAPTER V SUPPLEMENTARY PROVISIONS
+
+### Article 18
+
+These Regulations shall become effective on the date of promulgation except for Paragraphs 2 and 3 of Article 12, which will be enacted six months after their respective promulgation dates (which are Nov. 11, 2016 and Mar. 8, 2019, respectively).
+
+## History
+
+1.Promulgated by National Communications Commission on November 11,2016 in accordance with the order Tong-Chuan-Nei-Rong No.10548032800.
+
+2.Promulgated by National Communications Commission on March 8, 2019 in accordance with the order Tong-Chuan-Nei-Rong No.10848004590
+
+3.Promulgated by National Communications Commission on October 13, 2023 in accordance with the order Tong-Chuan-Nei-Rong No.11248023710
